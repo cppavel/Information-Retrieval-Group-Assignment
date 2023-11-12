@@ -21,7 +21,7 @@ public class LaTimes {
     private static String INDEX_DIRECTORY = "../index";
 
     public static void main(String[] args) throws IOException, ParseException {
-        File dir = new File("InfoRetrievalGroup/latimes");
+        File dir = new File("../data/latimes");
         File[] files = dir.listFiles();
 
         // Open the directory that contains the search index
@@ -35,9 +35,10 @@ public class LaTimes {
 
 
 
-
+        int processedFiles = 1;
         for(File file : files){
-
+            System.out.format("File %s, processed %d/%d\n", file.getName(),processedFiles, files.length);
+            processedFiles++;
             BufferedReader br = new BufferedReader(new FileReader(file));
             // Keep track of line we are reading in
             String nextline = br.readLine();
