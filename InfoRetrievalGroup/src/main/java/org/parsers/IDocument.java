@@ -1,4 +1,11 @@
 package org.parsers;
 
-public interface IDocument {
+import java.util.Date;
+
+public interface  IDocument {
+
+    public  String GetContent();
+    public String GetId();
+    public String GetTitle();
+    public Date GetDate();
 }
