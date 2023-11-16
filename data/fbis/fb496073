@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS4-20676 </DOCNO>
@@ -7,31 +8,31 @@
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     New Pretreatment Systems Using Membrane Separation Technology </TI></H3>
-<HT><F P=107><PHRASE>    New Pretreatment Systems Using Membrane Separation Technology </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Pretreatment Systems Using Membrane Separation Technology </PHRASE></F></HT>
 
-<F P=102>   43070065E Yokohama Proceedings of the IDA and WRPC World 
+<F P="102">   43070065E Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 
 
 <TEXT>
 Nov 93 pp 259-268 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065E </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065E </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Masayoshi Oinuma, Shigeki Sawada, and Koichi </F>
+<F P="106"> [Article by Masayoshi Oinuma, Shigeki Sawada, and Koichi </F>
 Yabe of Kurita Water Industries Ltd., 7-1 Wakamiya, Morinosato, 
 Atsugi City, Kanagawa 243-01, Japan] 
   [Text] 
@@ -107,7 +108,7 @@ Ultrafiltration membrane is applied to remove colloidal matters
 as well as suspended solids. Table 1 shows the operating 
 conditions when raw water is fed to the module. 
 
-<FIG ID=JPRS-JST-018L-23A>      Figure 1. Feed Spacer of Corrugated Type </FIG>
+<FIG ID="JPRS-JST-018L-23A">      Figure 1. Feed Spacer of Corrugated Type </FIG>
 
 
 
@@ -121,7 +122,7 @@ conditions when raw water is fed to the module.
 ------------------------------------------------------------------------------- 
 |                         |Outlet                   |0.8-1.2                  | 
 ------------------------------------------------------------------------------- 
-|Cross flow velocity [m/s]|Inlet                    |&gt;  0.5                 | 
+|Cross flow velocity [m/s]|Inlet                    | gt;  0.5                 | 
 ------------------------------------------------------------------------------- 
 |Frequency of back pressu-|3 min during 30 min operation                      | 
 |re flushing              |                                                   | 
@@ -145,11 +146,11 @@ the cell. The test cell is made of transparent acrylic flat
 channels (3mmH x 40mmW x 840mmL). Figure 4 is a schematic 
 drawing of the experimental system. 
 
-<FIG ID=JPRS-JST-018L-24A>      Figure 3. Schematic Illustration of Flat Channel Test </FIG>
+<FIG ID="JPRS-JST-018L-24A">      Figure 3. Schematic Illustration of Flat Channel Test </FIG>
 
 
 
-<FIG ID=JPRS-JST-018L-24B>       Figure 4. Schematic Drawing of the Experimental System </FIG>
+<FIG ID="JPRS-JST-018L-24B">       Figure 4. Schematic Drawing of the Experimental System </FIG>
 
 
 <H5>  3. Results </H5>
@@ -160,7 +161,7 @@ corrugated spacer, we provided one section inserted with the
 spacer and another without spacer in the test cell, and compared 
 the filtration flux of these sections in tap water. In addition, 
 to reproduce the raw water containing suspended solids, we 
-injected soft particles, KC Flock (W-100, dp = 77 æm by 
+injected soft particles, KC Flock (W-100, dp = 77 ï¿½m by 
 Sanyo-Kokusaku Pulp Co., Ltd.) into tap water to make the 
 concentration of suspended solids to 2,100 mg/liter. 
   Figure 5 shows the time course change in the filtration 
@@ -176,7 +177,7 @@ inserted with the spacer increased sharply and became stable at
 filtration flux of the section without the spacer tended to 
 further decrease after the addition of particles. 
 
-<FIG ID=JPRS-JST-018L-25A>      Figure 5. Filtration Flux in Raw Water Containing Suspended Solid </FIG>
+<FIG ID="JPRS-JST-018L-25A">      Figure 5. Filtration Flux in Raw Water Containing Suspended Solid </FIG>
 
 
   The light yellow color changed immediately after the 
@@ -202,7 +203,7 @@ water was continuously fed. The filtration flux decreased with
 time but became stable when it reached 1 
 m[.sup]3[/]/m[.sup]2[/]/day. 
 
-<FIG ID=JPRS-JST-018L-25B>      Figure 6. Relationship Between Filtration Flux With Time in Tap Water </FIG>
+<FIG ID="JPRS-JST-018L-25B">      Figure 6. Relationship Between Filtration Flux With Time in Tap Water </FIG>
 
 
   It was observed that a large quantity of light yellow 
@@ -239,7 +240,7 @@ cakes as 1.0 g/cm[.sup]3[/], the cake layer was 0.56mm thick.
 ------------------------------------------------------------------------------- 
 |(3) Water content                     |96%                                   | 
 ------------------------------------------------------------------------------- 
-|Cake thickness = 560 æm                                                  | 
+|Cake thickness = 560 ï¿½m                                                  | 
 ------------------------------------------------------------------------------- 
 
 
@@ -253,10 +254,10 @@ water test, the gelatinous cake layers on the membrane surface
 become so rigid and irreversible that hydraulic operation can 
 hardly dissociate them from the membrane surface. 
 
-<FIG ID=JPRS-JST-018L-26A>      Figure 7. Relationship Between Filtration Flux and Operating Pressure in Tap Water Test </FIG>
+<FIG ID="JPRS-JST-018L-26A">      Figure 7. Relationship Between Filtration Flux and Operating Pressure in Tap Water Test </FIG>
 
 
-<FIG ID=JPRS-JST-018L-26B>      Figure 8. Relationship Between Filtration Flux and Crossflow Velocity in Tap Water Test </FIG>
+<FIG ID="JPRS-JST-018L-26B">      Figure 8. Relationship Between Filtration Flux and Crossflow Velocity in Tap Water Test </FIG>
 
 
 
@@ -272,7 +273,7 @@ time, but in comparison with the filtration flux obtained under
 continuous water feeding as shown in Figure 6, slightly higher 
 filtration flux was observed with the intermittent water feeding. 
 
-<FIG ID=JPRS-JST-018L-27A>      Figure 9. Dependence of Filtration Flux on Time With Intermittent Operation </FIG>
+<FIG ID="JPRS-JST-018L-27A">      Figure 9. Dependence of Filtration Flux on Time With Intermittent Operation </FIG>
 
 
 
@@ -296,11 +297,11 @@ feeding the industrial water, we injected poly-aluminum chloride
 11 shows the time course change in the filtration flux and the 
 pressure loss (_D_P: inlet pressure - outlet pressure). 
 
-<FIG ID=JPRS-JST-018L-27B>      Figure 10. Process Flow Diagram for Industrial Water Test </FIG>
+<FIG ID="JPRS-JST-018L-27B">      Figure 10. Process Flow Diagram for Industrial Water Test </FIG>
 
 
 
-<FIG ID=JPRS-JST-018L-28A>      Figure 11. Relationship Between Filtration Flux, Pressure </FIG>
+<FIG ID="JPRS-JST-018L-28A">      Figure 11. Relationship Between Filtration Flux, Pressure </FIG>
 
 
   Without pH adjustment, the filtration flux decreased with 
@@ -345,7 +346,7 @@ containing a large quantity of suspended solids, coagulation of
 the colloidal matters to transform them into suspended solids 
 was required to obtain a high filtration flux. 
 References 
-  1. S. Sawada &amp; Co., U.S. Pat. 4, 834, 881 (1989). 
+  1. S. Sawada  amp; Co., U.S. Pat. 4, 834, 881 (1989). 
   2. S. Sawada, M. Oinuma, M. Furuichi: ``Application of 
 corrugated spiral ultrafiltration element to pretreatment in 
 ultrapure water systems,'' Proc. ICOM90 (1990). 
@@ -366,33 +367,33 @@ Annual Semiconductor Pure Water Conference, P180-195 (1993).
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Effects of Biological Treatment Conditions on Permeate Flux </TI></H3>
-<HT><F P=107><PHRASE>    Effects of Biological Treatment Conditions on Permeate Flux </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Effects of Biological Treatment Conditions on Permeate Flux </PHRASE></F></HT>
 
 
 <TEXT>
 of   UF Membrane in a Membrane/Activated-Sludge Wastewater 
 Treatment System 
 
-<F P=102> 43070065F Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065F Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 307-314 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065F </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065F </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by K. Ishiguro, K. Imai, and S. Sawada of Kurita </F>
+<F P="106"> [Article by K. Ishiguro, K. Imai, and S. Sawada of Kurita </F>
 Water Industries Ltd., Kurita Central Laboratories, 7-1 Wakmiya 
 Morinosato, Atsugi, Kanagawa 243-01 Japan] 
   [Text] 
@@ -539,7 +540,7 @@ measured and used as stable flux.
 without any major trouble. BOD in the permeate was less than 5 
 mg/l with 99 percent removal from the model wastewater. Permeate 
 flux of the UF element was typically about 0.7 m/day at 
-25ëC. Though the flux was gradually decreased, it was 
+25ï¿½C. Though the flux was gradually decreased, it was 
 restored completely by regular chemical cleaning about once a 
 month. 
   Effects of Organic Solutes on Permeate Flux 
@@ -609,7 +610,7 @@ k[.sub]d[/] Y/(k[.sub]d[/] + 1/SRT) (5)
 are constant, plots of C/L[.sub]v[/]/RT[.sub]s[/] against 
 (k[.sub]d[/] + 1/SRT) should give a straight line. As shown 
 in Figure 5 [not reproduced], for operating conditions with 
-sufficient dissolved oxygen (&gt;  3 mg/l) experimental data were 
+sufficient dissolved oxygen ( gt;  3 mg/l) experimental data were 
 in good linear relationship. It is thus indicated that the yield 
 of DOC in the bioreactor, Y[.sub]s[/] was constant within the 
 load and SRT range explored. Y[.sub]s[/] = 0.013 
@@ -637,7 +638,7 @@ separation.
   Permeate flux in the membrane/activated-sludge system was 
 well agreed to the gel polarization model even high suspended 
 solid is contained in the membrane feed. 
-  When sufficient dissolved oxygen (&gt;  3 mg/l) was supplied, 
+  When sufficient dissolved oxygen ( gt;  3 mg/l) was supplied, 
 dissolved organic matter in the bioreactor was produced 
 quantitatively from loaded BOD within the load range explored, 
 which is from 0.3 to 12 kg-BOD/m[.sup]3[/]day. 
@@ -668,32 +669,32 @@ Membrane Science and Technology, Plenum Press, New York, 1970.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Production of Heavy Oil From Sewage Sludge by Direct </TI></H3>
-<HT><F P=107><PHRASE>    Production of Heavy Oil From Sewage Sludge by Direct </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Production of Heavy Oil From Sewage Sludge by Direct </PHRASE></F></HT>
 
 
 <TEXT>
 Thermochemical   Liquefaction 
 
-<F P=102> 43070065G Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065G Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 315-322 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065G </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065G </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Shinji Itoh, Akira Suzuki, and Tadashi Nakamura </F>
+<F P="106"> [Article by Shinji Itoh, Akira Suzuki, and Tadashi Nakamura </F>
 of Central Research Laboratories, Organo Corp., 1-4-9, 
 Kawagishi, Toda, Saitama 335, Japan, and Shin-ya Yokoyama of the 
 National Institute for Resources and Environment, 16-3, Onogawa, 
@@ -704,7 +705,7 @@ Tsukuba, Ibaraki 305, Japan]
 direct thermochemical liquefaction was studied. A demonstration 
 plant, which was capable of processing up to 5 t/d as dewatered 
 sludge, was operated at the condition of high temperature and 
-high pressure (300ëC, 10 MPa). As a result, about a half of 
+high pressure (300ï¿½C, 10 MPa). As a result, about a half of 
 organic materials in sludge (48%maf) were converted into 
 heavy 
 oil and a quarter of the heavy oil synthesized (11%maf) 
@@ -732,7 +733,7 @@ sewage sludge without reducing agent[.sup]2[/] and
 methodology of oil separation from liquefied sewage 
 sludge[.sup]3[/] have been reported. The authors have 
 investigated the liquefaction of sewage sludge under pressurized 
-inert gas around 300ëC and tested a pilot-plant (0.5 
+inert gas around 300ï¿½C and tested a pilot-plant (0.5 
 t/d).[.sup]4-6[/] 
   Based on previous studies, a demonstration plant of sludge 
 liquefaction was designed and constructed. 
@@ -763,7 +764,7 @@ was condensed at the condenser and was recovered (condensate
 product). The bottom products were also obtained from the bottom 
 of the flash tank. 
 
-<FIG ID=JPRS-JST-018L-32A>      Figure 1. Schematic Flowsheet of the Demonstration Plant </FIG>
+<FIG ID="JPRS-JST-018L-32A">      Figure 1. Schematic Flowsheet of the Demonstration Plant </FIG>
 
 
   Each product recovered (distillate, condensate, and bottom) 
@@ -773,7 +774,7 @@ procedure of the separation is indicated in Figure 2. In this
 work, the definition of heavy oil is dichloromethane soluble 
 material. 
 
-<FIG ID=JPRS-JST-018L-33A>      Figure 2. Separation Procedure of the Product </FIG>
+<FIG ID="JPRS-JST-018L-33A">      Figure 2. Separation Procedure of the Product </FIG>
 
 
   Operating conditions and profile of starting materials are 
@@ -852,7 +853,7 @@ distillate ratio may cause a plugging of the distillation
 residue in the pipe. It was supposed that upper limit of 
 distillate ratio was 0.5. 
 
-<FIG ID=JPRS-JST-018L-34A>      Figure 3. Relationship Between Distillate Ratio and Distillable Heavy Oil Yield </FIG>
+<FIG ID="JPRS-JST-018L-34A">      Figure 3. Relationship Between Distillate Ratio and Distillable Heavy Oil Yield </FIG>
 
 
   The heating values of the heavy oils are given in Table 3. 
@@ -888,7 +889,7 @@ energy. This heavy oil can be available for boiler fuel or
 another application. In conclusion, the treatment of sewage 
 sludge by this method could be sufficiently profitable. 
 
-<FIG ID=JPRS-JST-018L-35A>      Figure 4. Energy Balance of Sludge Liquefaction Process </FIG>
+<FIG ID="JPRS-JST-018L-35A">      Figure 4. Energy Balance of Sludge Liquefaction Process </FIG>
 
 
 References 
@@ -918,35 +919,35 @@ Water Science and Technology, 26, No. 5-6, 1175-1184 (1992).
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Treatment of Wastewater From Phenolic Resin Process by </TI></H3>
-<HT><F P=107><PHRASE>    Treatment of Wastewater From Phenolic Resin Process by </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Treatment of Wastewater From Phenolic Resin Process by </PHRASE></F></HT>
 
 
 <TEXT>
 Pervaporation 
 
-<F P=102>   43070065H Yokohama Proceedings of the IDA and WRPC World 
+<F P="102">   43070065H Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 331-338 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065H </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065H </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by M. Kondo of Mitsui Engineering &amp; Shipbuilding </F>
-Co. Ltd., Environmental &amp; Energy Engineering Department, 1, 
+<F P="106"> [Article by M. Kondo of Mitsui Engineering  amp; Shipbuilding </F>
+Co. Ltd., Environmental  amp; Energy Engineering Department, 1, 
 Yawatakaigan-dori, Ichihara, Chiba 290, Japan, and H. Sato of 
-Mitsui Engineering &amp; Shipbuilding Co. Ltd., Membrane Systems 
+Mitsui Engineering  amp; Shipbuilding Co. Ltd., Membrane Systems 
 Department, 6-4, Tsukiji 5-chome, Chuo-ku, Tokyo 104, Japan] 
   [Text] 
 <H5>  Abstract </H5>
@@ -1030,8 +1031,8 @@ putted in to vacuum evaporator. Weight and composition of liquid
 collected from membrane by vacuum evaporation were measured. 
 Phenol-water binary solution and real wastewater were employed 
 as sample liquid. Temperature was varied in binary solution 
-experiment on 3 levels (30ëC, 50ëC and 70ëC). In 
-case of real wastewater, temperature was kept at 50ëC. In 
+experiment on 3 levels (30ï¿½C, 50ï¿½C and 70ï¿½C). In 
+case of real wastewater, temperature was kept at 50ï¿½C. In 
 order to observe transition of absorption volume, reiteration of 
 above sorption procedure were executed both with binary solution 
 and real wastewater respectively. 
@@ -1039,11 +1040,11 @@ and real wastewater respectively.
   Pervaporation experiments were conducted by batch type glass 
 cell test apparatus shown in Figure 1. The effective membrane 
 area was 21.05 cm[.sup]2[/]. The pressure at downstream side 
-was kept below 1 torr and feed temperature was at 50ëC. 
+was kept below 1 torr and feed temperature was at 50ï¿½C. 
 Composition of permeate and feed mixture were analyzed by gas 
 chromatograph and absorptiometry. 
 
-<FIG ID=JPRS-JST-018L-37A>      Figure 1. Pervaporation Celltest Unit </FIG>
+<FIG ID="JPRS-JST-018L-37A">      Figure 1. Pervaporation Celltest Unit </FIG>
 
 
   Total flux, phenol flux and selectivity are measured with 
@@ -1068,7 +1069,7 @@ preferably adsorbed more phenol and became gradually swollen. In
 more than 1-2 percent phenol, the swelling of membrane made its 
 structure loose enough to permeate water into it. 
 
-<FIG ID=JPRS-JST-018L-38A>      Figure 2. Sorption Isotherms of Phenol and Water in PEBA Membrane </FIG>
+<FIG ID="JPRS-JST-018L-38A">      Figure 2. Sorption Isotherms of Phenol and Water in PEBA Membrane </FIG>
 
 
   The results of the sorption reiteration with wastewater and 
@@ -1084,10 +1085,10 @@ than that in binary solution. This may be attributed to several
 substances such as methanol and formaldehydes contained in 
 wastewater. 
 
-<FIG ID=JPRS-JST-018L-38B>      Figure 3. Relative Rate of Phenol Sorption From Waste Water by PEBA Membrane </FIG>
+<FIG ID="JPRS-JST-018L-38B">      Figure 3. Relative Rate of Phenol Sorption From Waste Water by PEBA Membrane </FIG>
 
 
-<FIG ID=JPRS-JST-018L-39A>      Figure 4. Relative Rate of Phenol Sorption From 5 wt% </FIG>
+<FIG ID="JPRS-JST-018L-39A">      Figure 4. Relative Rate of Phenol Sorption From 5 wt% </FIG>
 
 
   As far as two months' continuous experiments, it seemed that 
@@ -1097,7 +1098,7 @@ degree of swelling of membrane was stable for both solutions.
 Figure 5, where phenol flux is symbolized as black circle, water 
 flux as black square and separation factor as black triangle. 
 
-<FIG ID=JPRS-JST-018L-39B>      Figure 5. PEBA Membrane Performance </FIG>
+<FIG ID="JPRS-JST-018L-39B">      Figure 5. PEBA Membrane Performance </FIG>
 
 
   Compared with test results of binary solution, which are 
@@ -1121,9 +1122,9 @@ Therefore, we tried to devise appropriate pretreatment. As the
 most reliable way to remove these accumulative materials, vacuum 
 distillation was adopted as pretreatment of wastewater. 
 Condition of vacuum distillation were 100 Torr as operation 
-pressure and at 50ëC as feed temperature. 
+pressure and at 50ï¿½C as feed temperature. 
 
-<FIG ID=JPRS-JST-018L-40A>      Figure 6. Aging Test of PEBA Membrane With Real Feed </FIG>
+<FIG ID="JPRS-JST-018L-40A">      Figure 6. Aging Test of PEBA Membrane With Real Feed </FIG>
 
 
   Square marks in Figure 6 indicate pervaporation data with 
@@ -1151,7 +1152,7 @@ removal of harmful substances in wastewater.
 supply 
 wastewater samples and technical advice. 
 
-<FIG ID=JPRS-JST-018L-42A>      Figure 1. Pore Distribution </FIG>
+<FIG ID="JPRS-JST-018L-42A">      Figure 1. Pore Distribution </FIG>
 
 
 <H5>  6. References </H5>
@@ -1182,32 +1183,32 @@ Int. Conf. Pervaporation Process, Heidelberg, 1991.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Treatment of Wheat Starch Waste Water by a Membrane Combined </TI></H3>
-<HT><F P=107><PHRASE>    Treatment of Wheat Starch Waste Water by a Membrane Combined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Treatment of Wheat Starch Waste Water by a Membrane Combined </PHRASE></F></HT>
 
 
 <TEXT>
 Two   Phase Methane Fermentation System 
 
-<F P=102> 43070065J Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065J Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 347-354 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065J </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065J </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by C. Yanagi, M. Sato, and Y. Takahara of the </F>
+<F P="106"> [Article by C. Yanagi, M. Sato, and Y. Takahara of the </F>
 Biotechnology Research Laboratory, Kobe Steel Ltd., 1-25-14, 
 Kannondai, Tsukuba, Ibaraki, 305, Japan] 
   [Text] 
@@ -1260,7 +1261,7 @@ and gluten producing plant, owned by Nagata Industry Co., Ltd.
 The pH of waste water was adjusted in the feed tank and pumped 
 to the heat exchanger, which recovers heat from the effluent 
 from the MR. The preheated waste water was heated again to 
-37ëC by steam injection before being fed to the AR. The 
+37ï¿½C by steam injection before being fed to the AR. The 
 effluent from the AR was fed to the membrane module, and the 
 filtrate was fed to the MR and the concentrate was recycled to 
 the AR. The effluent from the MR was finally discharged out of 
@@ -1270,7 +1271,7 @@ reserved in the gas holder and then discharged out of the
 system. Table 1 shows the specification of the pilot plant. 
 
 
-<FIG ID=JPRS-JST-018L-44A>      Figure 1. Flow Diagram of Pilot Plant </FIG>
+<FIG ID="JPRS-JST-018L-44A">      Figure 1. Flow Diagram of Pilot Plant </FIG>
 
 
 
@@ -1292,7 +1293,7 @@ system. Table 1 shows the specification of the pilot plant.
 ------------------------------------------------------------------------------- 
 |Membrane Module                       |Type: Hollow FiberDimension: _P_65 | 
 |                                      |x 935Membrane Material: PolyethyleneP-| 
-|                                      |ore Size: 0.2 æmMembrane Area: 6  | 
+|                                      |ore Size: 0.2 ï¿½mMembrane Area: 6  | 
 |                                      |m[.sup]2[/]                         | 
 ------------------------------------------------------------------------------- 
 
@@ -1342,7 +1343,7 @@ a result, it is clear that the system can treat wheat starch
 waste water containing high strength SS with more than 20 
 kg/m[.sup]3[/]-day of COD loading. 
 
-<FIG ID=JPRS-JST-018L-45A>      Figure 2. Relation Between TOC Removal Rate and COD </FIG>
+<FIG ID="JPRS-JST-018L-45A">      Figure 2. Relation Between TOC Removal Rate and COD </FIG>
 
 
   Analysis of Waste Water 
@@ -1397,7 +1398,7 @@ to an increase in the amount of carbon in the sludge extraction.
 The 63 percent, carbon ratio of liquefaction minus that of gas 
 shown in Figure 3, is carbon ratio fed to MR via membrane. 
 
-<FIG ID=JPRS-JST-018L-46A>      Figure 3. Liquefaction and Gasification Ratio vs. COD </FIG>
+<FIG ID="JPRS-JST-018L-46A">      Figure 3. Liquefaction and Gasification Ratio vs. COD </FIG>
 
 
   On the other hand, volatile fatty acid production is the 
@@ -1410,7 +1411,7 @@ is likely that the acetogenesis reaction reaches its limit by
 the increase of COD loading. However, acetic acid content 
 changed with time, and decreased greatly from 130 to 200 days. 
 
-<FIG ID=JPRS-JST-018L-46B>      Figure 4. Main Volatile Fatty Acids Content vs. Elapsed </FIG>
+<FIG ID="JPRS-JST-018L-46B">      Figure 4. Main Volatile Fatty Acids Content vs. Elapsed </FIG>
 
 
   Figure 5 shows the change in the rate gas production over 
@@ -1424,7 +1425,7 @@ As a result of the suppression of gas production in the reactor,
 the acetic acid content of filtrate increased and normal 
 operation was maintained. 
 
-<FIG ID=JPRS-JST-018L-47A>      Figure 5. Gas Production Ratio vs. Elapsed Time </FIG>
+<FIG ID="JPRS-JST-018L-47A">      Figure 5. Gas Production Ratio vs. Elapsed Time </FIG>
 
 
   Degradation in MR 
@@ -1442,7 +1443,7 @@ and 2.5 percent transferred to bacteria, which indicates that
 the organic matter fed to the reactor had almost completely 
 degraded. 
 
-<FIG ID=JPRS-JST-018L-47B>      Figure 6. TOC Removal Rate vs. COD Loading Rate </FIG>
+<FIG ID="JPRS-JST-018L-47B">      Figure 6. TOC Removal Rate vs. COD Loading Rate </FIG>
 
 
   Gas Production 
@@ -1487,7 +1488,7 @@ kg-SS/removed COD, which is a good result considering that the
 waste water contained high strength SS and the system operated 
 with high loading rate. 
 
-<FIG ID=JPRS-JST-018L-48A>      Figure 8. Biomass Yield Rate vs. COD Loading Rate </FIG>
+<FIG ID="JPRS-JST-018L-48A">      Figure 8. Biomass Yield Rate vs. COD Loading Rate </FIG>
 
 
   Membrane Module 
@@ -1524,14 +1525,14 @@ Water Res., 13 (1979) 571.
   4. J. Nikuni ed.: Starch Sci. Handbook, Asakura Syoten 
 (1987) 
 316. 
-  5. H. Harada, K. Momei et al., Proc. of Envir. &amp; 
+  5. H. Harada, K. Momei et al., Proc. of Envir.  amp; 
 Sanitary 
 Eng. Res., 23 (1987) 227. 
   6. Y. Inoue, K. Khoyama: J. of Japan Sewage Works Assoc., 22 
 (1985) 13. 
   7. G. Lettinga, A. F. M. V. Velsen, W. Zeeuw et al., 
 Biotech. 
-&amp; Bioeng., 22 (1980) 699. 
+ amp; Bioeng., 22 (1980) 699. 
 
 </TEXT>
 
@@ -1545,33 +1546,33 @@ Biotech.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Field Test on a Methane Fermentation Treatment System </TI></H3>
-<HT><F P=107><PHRASE>    Field Test on a Methane Fermentation Treatment System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Field Test on a Methane Fermentation Treatment System </PHRASE></F></HT>
 
 
 <TEXT>
 Incorporating   a Membrane Module for Municipal Sewage 
 
-<F P=102> 43070065K Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065K Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 377-384 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065K </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065K </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by K. Kiriyama, Y. Tanaka, and I. Mori of Ebara </F>
-Corporation, R&amp;D Division, 2-1 Hon Fujisawa 4-chome, 
+<F P="106"> [Article by K. Kiriyama, Y. Tanaka, and I. Mori of Ebara </F>
+Corporation, R amp;D Division, 2-1 Hon Fujisawa 4-chome, 
 Fujisawa-shi, Kanagawa 251, Japan] 
   [Text] 
 <H5>  Introduction </H5>
@@ -1612,7 +1613,7 @@ to 25 percent.
 <H5>  Process Flow </H5>
   A flow sheet of the process is shown in Figure 1. 
 
-<FIG ID=JPRS-JST-018L-49A>      Figure 1. Process Flow Sheet of Field Test Plant for Sewage Treatment </FIG>
+<FIG ID="JPRS-JST-018L-49A">      Figure 1. Process Flow Sheet of Field Test Plant for Sewage Treatment </FIG>
 
 
 <H5>  Charging of Seed Sludge </H5>
@@ -1632,19 +1633,19 @@ m[.sup]3[/]-d[.sup]-1[/].
 <H5>  Results </H5>
 <H5>  Hydrolyzation Reactor </H5>
   The results are shown in Table 2. When the SRT was 445 days 
-and the temperature in the reactor was 25ëC, 84.8 percent of 
+and the temperature in the reactor was 25ï¿½C, 84.8 percent of 
 the VSS charged was decomposed, and methane gas was generated at 
 a rate of 335 l per kg of the charged VSS or 395 l per kg of the 
 decomposed VSS. When the SRT was 144 days, the VSS decomposition 
 rate was 76.8 percent. Judging from the fact that the VSS 
-decomposition rate reached only about 40 percent at 25ëC 
+decomposition rate reached only about 40 percent at 25ï¿½C 
 without membrane separation, such results are attributable to 
 the combination with the membrane separation system. When the 
 return from the tank to concentrate the backwashing of the 
 aerobic reactor was charged together, its ratio to the total 
 charged VSS, increased from 30 percent to 39 percent, and from 
 52 percent to 70 percent of the VSS decomposed at an SRT of 25 
-to 29 days at 25ëC. In this case, methane gas was generated 
+to 29 days at 25ï¿½C. In this case, methane gas was generated 
 at a rate of from 153 l to 206 l per kg of the decomposed VSS. 
 
   The concentrated water of the backwash mainly consisted of 
@@ -1656,8 +1657,8 @@ hydrolyzed liquid, the lower the VSS decomposition rate gets.
 When the proportion of the VSS from the concentrating tank of 
 the backwash to the total charged VSS was about 35 percent, with 
 no membrane separation system combined, the VSS decomposition 
-rate would be around 45 percent at 35ëC. The VSS 
-decomposition rate of 52 percent or more at 25ëC is thus 
+rate would be around 45 percent at 35ï¿½C. The VSS 
+decomposition rate of 52 percent or more at 25ï¿½C is thus 
 attributable to the use of the membrane separation system. 
 <H5>  Membrane Module System </H5>
   The membrane module system is designed to treat hydrolyzed 
@@ -1694,9 +1695,9 @@ carried out at a constant membrane linear velocity.
   The pH and oxidation-reduction potential in the anaerobic 
 bioreactor remained stable at 6.6 to 7.2 and -430 to -470 mV, 
 respectively. The mean temperature in this reactor was 
-17.8ëC. 
+17.8ï¿½C. 
   The BOD and SS content of the water inflow were reduced at 
-20ëC from 140 mg-l[.sup]-1[/] to 68 mg-l[.sup]-1[/] 
+20ï¿½C from 140 mg-l[.sup]-1[/] to 68 mg-l[.sup]-1[/] 
 and from 178 mg-l[.sup]-1[/] to 59 mg-l[.sup]-1[/], 
 respectively, while the daily volume of excess sludge generated 
 was 8.4 kg, or 0.035 kg per m[.sup]3[/] of waste water. 
@@ -1710,7 +1711,7 @@ distribution of the concentration hardly varied, standing at
 10,000 mg-l[.sup]-1[/] in the vicinity of the 
 gas-solid-liquid separating section. 
 
-<FIG ID=JPRS-JST-018L-51A>      Figure 2. Distribution of VSS Concentration in Anaerobic Bioreactor </FIG>
+<FIG ID="JPRS-JST-018L-51A">      Figure 2. Distribution of VSS Concentration in Anaerobic Bioreactor </FIG>
 
 
   The part in which the VSS was 10,000 mg-l[.sup]-1[/] or 
@@ -1722,7 +1723,7 @@ BOD, or 2.8 kg-m[.sup]-3[/]-d[.sup]-1[/] in terms of COD.
 When the backwash discharge from the aerobic reactor was 
 returned to the separating device (filter), the load became 2.0 
 kg-m[.sup]-3[/]-d[.sup]-1[/]. 
-  When the temperature in the reactor reached about 20ëC, 
+  When the temperature in the reactor reached about 20ï¿½C, 
 the gas conversion rate changed from 44 percent to 84 percent in 
 terms of BOD, or from 22 percent to 53 percent in terms of COD. 
 The gas conversion rate in terms of BOD (COD) is defined by the 
@@ -1813,15 +1814,15 @@ kg-BOD-m[.sup]-3[/]-d[.sup]-1[/]. BOD reduction rate was
 mg-l[.sup]-1[/] in BOD and 197 mg-l[.sup]-1[/] in SS, and 
 those for the treated water were 10 mg-l[.sup]-1[/] in BOD 
 and 8.9 mg-l[.sup]-1[/] in SS. The average temperature in the 
-anaerobic bioreactor was 17.8ëC. When a flow was used in 
+anaerobic bioreactor was 17.8ï¿½C. When a flow was used in 
 which the drain from the backwashing of the aerobic rector was 
 treated within the system and the average temperature in the 
-anaerobic bioreactor was 20ëC, the BOD and SS contents of 
+anaerobic bioreactor was 20ï¿½C, the BOD and SS contents of 
 the final treated water were 13 mg-l[.sup]-1[/] (4.4 
 mg-l[.sup]-1[/] in ATU BOD) and 8.4 mg-l[.sup]-1[/], 
 respectively. 
   When the average temperature in the anaerobic bioreactor was 
-no less than 20ëC, a gas conversion rate of 60 percent or 
+no less than 20ï¿½C, a gas conversion rate of 60 percent or 
 more (in terms of BOD) was attained. 
   Excess sludge was generated at a daily rate of 8.46 kg from 
 the hydrolyzation reactor and 8.4 kg from the anaerobic 
@@ -1841,13 +1842,13 @@ excess sludge was generated than when using activated sludge.
 membranes, the reduction rate for volatile suspended solids 
 charged into the membrane fermentation reactor reached from 76.8 
 percent to 84.8 percent under the condition that the temperature 
-in the reactor is 25ëC and only the raw sludge was charged 
+in the reactor is 25ï¿½C and only the raw sludge was charged 
 from the separating device. 
   Charging into the methane fermentation reactor the sludge 
 mixed the concentrated backwashing with the separated sludge 
 from the separating device, the reduction rate for volatile 
 suspended solids showed from 52 percent to 70 percent at 
-25ëC. Such high reduction rates for volatile suspended 
+25ï¿½C. Such high reduction rates for volatile suspended 
 solids is attributable to the additional use of a membrane 
 separation system. 
 <H5>  Acknowledgements </H5>
@@ -1871,33 +1872,33 @@ the plant used in this study.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     An Advanced Purification System Combining Ozonation and BAC, </TI></H3>
-<HT><F P=107><PHRASE>    An Advanced Purification System Combining Ozonation and BAC, </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    An Advanced Purification System Combining Ozonation and BAC, </PHRASE></F></HT>
 
 
 <TEXT>
 Developed   by the Bureau of Waterworks, Tokyo Metropolitan 
 Government 
 
-<F P=102> 43070065L Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065L Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 385-392 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065L </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065L </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Shuichi Muramoto, director of Engineering </F>
+<F P="106"> [Article by Shuichi Muramoto, director of Engineering </F>
 Section, and Jiro Nishino, chief of Water Quality Subsection, 
 Kanamachi Purification Administration Office, The Bureau of 
 Waterworks, Tokyo Metropolitan Government, 1-1, Kanamachi 
@@ -1979,7 +1980,7 @@ citizens. In recent years, at the Kanamachi purification plant,
 the pollution of raw water has occurred due to urbanization of 
 the Edo River valley (cf. Figure 1). 
 
-<FIG ID=JPRS-JST-018L-53A>      Figure 1. Fiscal Change of Raw Water Quality (Kanamachi P.P.) </FIG>
+<FIG ID="JPRS-JST-018L-53A">      Figure 1. Fiscal Change of Raw Water Quality (Kanamachi P.P.) </FIG>
 
 
   In particular since 1972, the Kanamachi purification plant 
@@ -2004,7 +2005,7 @@ average daily distribution amount -- was established on June 25,
 1992. We are now supplying the advanced purified water by mixing 
 uniformly with water purified by the conventional processes. 
 
-<FIG ID=JPRS-JST-018L-54A>      Figure 2. A Case of Relation Between 2-MIB Conc. in Raw </FIG>
+<FIG ID="JPRS-JST-018L-54A">      Figure 2. A Case of Relation Between 2-MIB Conc. in Raw </FIG>
 
 
   The advanced water purification facility removes musty odor 
@@ -2039,7 +2040,7 @@ conveyed to the rapid sand filters. The purified water is
 distributed to users after disinfection with post-chlorination 
 and pH adjusting. 
 
-<FIG ID=JPRS-JST-018L-54B>      Figure 3. Flow Chart of Advanced Water Purification </FIG>
+<FIG ID="JPRS-JST-018L-54B">      Figure 3. Flow Chart of Advanced Water Purification </FIG>
 
 
   The ozone contact basins (5 basins) are up-and-down flow 
@@ -2058,7 +2059,7 @@ is controlled to keep the dissolved ozone concentration constant
 chamber. Generally, the ozone feeding rate is around 1 ppm, but 
 it is changed according to the water quality (cf. Figure 4). 
 
-<FIG ID=JPRS-JST-018L-55A>      Figure 4. Ozone Contact Basin </FIG>
+<FIG ID="JPRS-JST-018L-55A">      Figure 4. Ozone Contact Basin </FIG>
 
 
   The activated carbon adsorption facility consists of 12 
@@ -2071,7 +2072,7 @@ backwashing is carried out once every three to four days. The
 BAC filter is washed with air and water for four minutes, and 
 then washed with water for 10 minutes (cf. Figure 5). 
 
-<FIG ID=JPRS-JST-018L-55B>      Figure 5. A Backwashing Program of the BAC Adsorption Basin </FIG>
+<FIG ID="JPRS-JST-018L-55B">      Figure 5. A Backwashing Program of the BAC Adsorption Basin </FIG>
 
 
 <H5>  Treatment Performance </H5>
@@ -2093,7 +2094,7 @@ facility has been 120 ng/l. At that time 2-MIB was 7 ng/l in the
 ozone treated water and it was all removed all in the BAC 
 treated water. 
 
-<FIG ID=JPRS-JST-018L-55C>      Figure 6. 2-MIB Conc. and Removal Rate Against Raw Water </FIG>
+<FIG ID="JPRS-JST-018L-55C">      Figure 6. 2-MIB Conc. and Removal Rate Against Raw Water </FIG>
 
 
   (2) Anionic surfactants (MBAS: Methylene Blue Active 
@@ -2106,12 +2107,12 @@ of water temperature. The monthly MBAS average in fiscal 1992
 gradually became higher. For example: 0.09 mg/l in November, 
 0.16 mg/l in December, and 0.21 mg/l in January. The maximum 
 value was 0.52 mg/l in January. However, the water temperature 
-was low (average water temperature was 6.4ëC in January 
+was low (average water temperature was 6.4ï¿½C in January 
 1993), the MBAS removal rate of BAC treated water against raw 
 water was about 40 percent, and the treated water maintained a 
 low concentration extremely well (cf. Figure 7). 
 
-<FIG ID=JPRS-JST-018L-55D>      Figure 7. MBAS Conc. and Removal Rate Against Raw Water in </FIG>
+<FIG ID="JPRS-JST-018L-55D">      Figure 7. MBAS Conc. and Removal Rate Against Raw Water in </FIG>
 
 
   (3) Extinction coefficient at 260 nm (UV260) 
@@ -2125,7 +2126,7 @@ the coagulo-sedimentation treatment and the ozonation treatment
 respectively. The UV260 value was very low after BAC adsorption 
 treatment (cf. Figure 8). 
 
-<FIG ID=JPRS-JST-018L-56A>      Figure 8. Extinction Coefficient at 260 nm off Process Water </FIG>
+<FIG ID="JPRS-JST-018L-56A">      Figure 8. Extinction Coefficient at 260 nm off Process Water </FIG>
 
 
   Although in early passage the UV260 value of BAC treated 
@@ -2147,9 +2148,9 @@ ozone feeding rate was changed from 0.5 to 2.0 ppm (cf. Figures
 9 and 10). 
 
 
-<FIG ID=JPRS-JST-018L-56B>      Figure 9. Transition of THMFP Removal in Advanced </FIG>
+<FIG ID="JPRS-JST-018L-56B">      Figure 9. Transition of THMFP Removal in Advanced </FIG>
 
-<FIG ID=JPRS-JST-018L-56C>      Figure 10. THMFP in Process Water; ozone dosage is varied. </FIG>
+<FIG ID="JPRS-JST-018L-56C">      Figure 10. THMFP in Process Water; ozone dosage is varied. </FIG>
 
   (5) The NH[.sub]3[/]-N removal and biological activity in 
 the BAC 
@@ -2170,7 +2171,7 @@ biological activity in the BAC layer was also very active even
 under low water temperature. 
 
 
-<FIG ID=JPRS-JST-018L-56D>      Figure 11. Transition of NH[.sub]3[/]-N Removal in BAC </FIG>
+<FIG ID="JPRS-JST-018L-56D">      Figure 11. Transition of NH[.sub]3[/]-N Removal in BAC </FIG>
 
 
 
@@ -2195,11 +2196,11 @@ and dissolved ozone etc. at each of the three chamber exits and
 retaining chamber exits of each ozone contact basin. One result 
 is shown in Figures 12 and 13. 
 
-<FIG ID=JPRS-JST-018L-57A>      Figure 12. 2-MIB Removal in the Ozone Contact Basin Under </FIG>
+<FIG ID="JPRS-JST-018L-57A">      Figure 12. 2-MIB Removal in the Ozone Contact Basin Under </FIG>
 
 
 
-<FIG ID=JPRS-JST-018L-57B>      Figure 13. Dissolved Ozone in Contact Basin Under Several </FIG>
+<FIG ID="JPRS-JST-018L-57B">      Figure 13. Dissolved Ozone in Contact Basin Under Several </FIG>
 
 <H5>  Conclusion </H5>
   The advanced water purification facility is consistently 
@@ -2231,38 +2232,38 @@ further advanced water purification process introduction.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Small-Scale Sewage Plant Experiment by Pretreatment and </TI></H3>
-<HT><F P=107><PHRASE>    Small-Scale Sewage Plant Experiment by Pretreatment and </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Small-Scale Sewage Plant Experiment by Pretreatment and </PHRASE></F></HT>
 
 
 <TEXT>
 Methanization   of Suspended Solid 
 
-<F P=102> 43070065M Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065M Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 393-398 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065M </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065M </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by M. Murata of DIC-Degremont Co., Ltd., 2-16-2, </F>
+<F P="106"> [Article by M. Murata of DIC-Degremont Co., Ltd., 2-16-2, </F>
 Sotokanda, Chiyoda-ku, Tokyo, 101 Japan, Tel. 81-3-3253-3821, 
 Fax 81-3-3253-7794; H. Kimuro of Ishikawajima-Harima Heavy 
 Industries Co. Ltd., 1, Shin-Nakahara-cho, Isogo-ku, Yokohama, 
 Kanagawa, 235 Japan; N. Kanekuni of TOTO Ltd., 2-8-1, Honson, 
 Chigasaki, Kanagawa, 253 Japan; N. Ohkuma of Hitachi Plant 
-Engineering &amp; Construction Co. Ltd., 537, Kami-hongo, 
+Engineering  amp; Construction Co. Ltd., 537, Kami-hongo, 
 Matsudo, 
 271 Japan; and H. Ogasawara and T. Fujioka of Water Re-use 
 Promotion Center, 2-3-4, Akasaka, Minato-ku, Tokyo, 107, Japan] 
@@ -2275,7 +2276,7 @@ module, and a nitrogen removal unit. After continuous
 experiments, the SS removal rate in the pretreatment unit was 
 found to be more than 80 percent, the reduction rate of the 
 Volatile Suspended Solid (VSS) in the SS methanization reactor 
-was 51-79 percent under temperature conditions of 25-35ëC 
+was 51-79 percent under temperature conditions of 25-35ï¿½C 
 and HRT 4.2-10.2 days, and the effluent from the nitrogen 
 removal unit was stable at BOD of less than 2 mg/l and T-N of 
 less than 5 mg/l. 
@@ -2302,7 +2303,7 @@ combined with a separation membrane module.
   Flow Diagram 
   Figure 1 shows the flow diagram for this experiment. 
 
-<FIG ID=JPRS-JST-018L-58A>      Figure 1. Flow Diagram </FIG>
+<FIG ID="JPRS-JST-018L-58A">      Figure 1. Flow Diagram </FIG>
 
 
   The sewage is separated into low SS effluent and 
@@ -2349,11 +2350,11 @@ continuously more than 80 percent and the unit was able to
 steadily supply concentrated water of a SS concentration higher 
 than 10,000 mg/l. 
 
-<FIG ID=JPRS-JST-018L-59A>      Figure 2. SS Concentration </FIG>
+<FIG ID="JPRS-JST-018L-59A">      Figure 2. SS Concentration </FIG>
 
 
 
-<FIG ID=JPRS-JST-018L-59B>      Figure 3. SS Removal Rate </FIG>
+<FIG ID="JPRS-JST-018L-59B">      Figure 3. SS Removal Rate </FIG>
 
 
   SS Methanization Reactor 
@@ -2371,10 +2372,10 @@ of mesophilic methanization are shown in Figure 4 and Figure 5.
 The data in Table 3 shows the results of the representative 
 mechanization of SS. 
 
-<FIG ID=JPRS-JST-018L-59C>      Figure 4. SS Concentration in the Reactor </FIG>
+<FIG ID="JPRS-JST-018L-59C">      Figure 4. SS Concentration in the Reactor </FIG>
 
 
-<FIG ID=JPRS-JST-018L-60A>      Figure 5. VSS/SS Ratio in the Reactor </FIG>
+<FIG ID="JPRS-JST-018L-60A">      Figure 5. VSS/SS Ratio in the Reactor </FIG>
 
 
   The outline of the results in the methanization are as 
@@ -2384,14 +2385,14 @@ methanization ranged from 67 to 78 percent, but the difference
 between the mesophilic and thermophilic methanization was not 
 big in view of the heating energy. The mesophilic conditions 
 were therefore better. 
-  -- In the mesophilic conditions, at 35ëC, the VSS 
+  -- In the mesophilic conditions, at 35ï¿½C, the VSS 
 reduction rate was 51-79 percent (solubilization rate based on 
 TOC was 45-56 percent) under the VSS volumetric load of 
 0.93-1.94 Kg/m[.sup]3[/]-day and the HRT of 4.2-8.4 days. 
 This efficient treatment compared with the conventional 
 anaerobic digestion of SS in HRT of 15-30 days was reached by 
 combination with the membrane module. 
-  -- Decreasing the temperature from 30 to 25ëC in the 
+  -- Decreasing the temperature from 30 to 25ï¿½C in the 
 reactor did not greatly influence the VSS reduction rate. It was 
 possible to maintain a rate from 67 to 70 percent with a VSS 
 volumetric load of about 1 Kg/m[.sup]3[/]-day. 
@@ -2401,7 +2402,7 @@ maintained from 270 to 317 l/Kg-VSS except for one case.
   SS Separation Membrane Unit 
   Separation and returning of SS to the reactor by this 
 inorganic membrane unit guaranteed a long SRT and the permeate 
-contained almost no SS (SS &lt; 1 mg/l). 
+contained almost no SS (SS  lt; 1 mg/l). 
   The results of the long time operation are shown in Figure 
 6.[.sup]1[/] The permeate flux was maintained at 0.6-1.0 
 m[.sup]3[/]/m[.sup]2[/]-day and the membrane module could 
@@ -2412,10 +2413,10 @@ methanization (500-1800 mg/l). Figure 7 shows the
 characteristics of the permeate flux to the SS concentration and 
 membrane surface flow rate.[.sup]1[/] 
 
-<FIG ID=JPRS-JST-018L-61A>      Figure 6. The Results in Long Operation </FIG>
+<FIG ID="JPRS-JST-018L-61A">      Figure 6. The Results in Long Operation </FIG>
 
 
-<FIG ID=JPRS-JST-018L-61B>      Figure 7. Characteristics of the Permeate Flux </FIG>
+<FIG ID="JPRS-JST-018L-61B">      Figure 7. Characteristics of the Permeate Flux </FIG>
 
 
   Table 4 shows the optimum conditions and the performance of 
@@ -2430,7 +2431,7 @@ reactor was about 1 percent of the raw sewage water.
   ------------------------------------------------------------------------------- 
 |Table 4. The Optimum Conditions and the Performance of the Membrane Unit     | 
 ------------------------------------------------------------------------------- 
-|Fermentation type                     |Mesophilic methanization (30ëC)   | 
+|Fermentation type                     |Mesophilic methanization (30ï¿½C)   | 
 ------------------------------------------------------------------------------- 
 |SS concentration                      |29,000 mg/l                           | 
 ------------------------------------------------------------------------------- 
@@ -2474,16 +2475,16 @@ Table 5.
 
 <H5>  Conclusion </H5>
   The pretreatment unit was able to supply the low SS water 
-(removal rate &gt;  80 percent) and concentrated SS (SS &gt; 
+(removal rate  gt;  80 percent) and concentrated SS (SS  gt; 
 10,000 
 mg/l) steadily and continuously. So the methanization of the 
 concentrated had a higher efficacy rate in the reactor combined 
 with the membrane (VSS reduction rate of 51-79 percent 
 (solubilization rate of 45-56 percent), HRT of 4.2-10.2 days, 
-temperature at 25-35ëC, permeate flux of 0.6-1.0 
+temperature at 25-35ï¿½C, permeate flux of 0.6-1.0 
 m[.sup]3[/]/m[.sup]2[/]-day). The low SS water was treated 
 by the nitrogen removal unit and effluent was of high enough 
-quality to be reused (BOD &lt; 2 mg/l, T-N &lt; 5 mg/l). 
+quality to be reused (BOD  lt; 2 mg/l, T-N  lt; 5 mg/l). 
   On the other hand, this system was able to connect the 
 simple 
 aerobic treatment unit for the pretreated water in exchange for 
@@ -2511,32 +2512,32 @@ Vol. 36, No. 11, pp 62-69 (1991).
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Simultaneous Removal of DO and TOC in Ultrapure Water by </TI></H3>
-<HT><F P=107><PHRASE>    Simultaneous Removal of DO and TOC in Ultrapure Water by </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Simultaneous Removal of DO and TOC in Ultrapure Water by </PHRASE></F></HT>
 
 
 <TEXT>
 Using   UV Ray 
 
-<F P=102> 43070065N Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065N Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 421-426 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065N </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065N </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Takayuki Saitoh and Hiroshi Nagai of the Center </F>
+<F P="106"> [Article by Takayuki Saitoh and Hiroshi Nagai of the Center </F>
 for Environmental Engineering, Ebara Research Co. Ltd., Mituru 
 Imai and Ken Nakajima of Plant 1st Engineering Department, Ebara 
 Infilco Co. Ltd., and Manabu Tujimura of Precision Machinery 
@@ -2570,7 +2571,7 @@ as the reducing agent and dissolved in water by using a
 gas-permeable membrane module. The gas-permeable membrane was 
 polyolefine hollow fiber type. 
 
-<FIG ID=JPRS-JST-018L-63A>      Figure 1. Experimental Equipment </FIG>
+<FIG ID="JPRS-JST-018L-63A">      Figure 1. Experimental Equipment </FIG>
 
 
   Hydrogen gas dissolves in water because of the pressure 
@@ -2596,7 +2597,7 @@ percentage of UV reactor went down as shown in Figure 2.
 Furthermore, the effect of water was strong according as 
 retention time decreased. 
 
-<FIG ID=JPRS-JST-018L-63B>      Figure 2. Depth of Water Layer and DO Removing Percentage </FIG>
+<FIG ID="JPRS-JST-018L-63B">      Figure 2. Depth of Water Layer and DO Removing Percentage </FIG>
 
 
   It is desirable to decrease water depth as thin as possible. 
@@ -2612,7 +2613,7 @@ are shown in Figure 3. Figure 3 shows the relationship between
 the rate of DO reaction efficiency and the amount of hydrogen 
 indicated by 2H[.sub]2[/] per O[.sub]2[/] ratio. 
 
-<FIG ID=JPRS-JST-018L-64A>      Figure 3. 2H[.sub]2[/]/O[.sub]2[/] Ratio and Rate of DO Reaction Efficiency </FIG>
+<FIG ID="JPRS-JST-018L-64A">      Figure 3. 2H[.sub]2[/]/O[.sub]2[/] Ratio and Rate of DO Reaction Efficiency </FIG>
 
 
   In case of A to have scarce intensity of UV irradiation, 
@@ -2630,16 +2631,16 @@ water.
 treatment ability of 10 m[.sup]3[/]/h, is shown in Figure 4. 
 Additional dosage of hydrogen gas was one and a half times of 
 H[.sub]2[/] per O[.sub]2[/] ratio for initial DO 
-concentration of 100 æg/l. 
+concentration of 100 ï¿½g/l. 
 
-<FIG ID=JPRS-JST-018L-65A>      Figure 4. DO Removal Performance </FIG>
+<FIG ID="JPRS-JST-018L-65A">      Figure 4. DO Removal Performance </FIG>
 
 
   It kept always constant even if initial DO changed. It was 
 enough satisfied to reduce the residual DO in treated water to 5 
-æg/l or less at initial DO of less than 100 æg/l. 
-  Furthermore, if initial DO is less than 30 æg/l, it is 
-possible to reduce DO to 1 æg/l or less. 
+ï¿½g/l or less at initial DO of less than 100 ï¿½g/l. 
+  Furthermore, if initial DO is less than 30 ï¿½g/l, it is 
+possible to reduce DO to 1 ï¿½g/l or less. 
 <H5>  3. Decomposition of TOC by Using UV Ray </H5>
   It is known that the UV ray of 185 nm is able to decompose 
 low molecular organic compounds without oxidizer. Accordingly, 
@@ -2654,7 +2655,7 @@ products of ethylalcohol is shown in Table 1.
   Table 1. Decomposition Products of Ethylalcohol by UV Irradiation 
 
 Test    Ethylalcohol    Percentage of each product 
-No.     (æg/l as C) 
+No.     (ï¿½g/l as C) 
 
                         Acetic    Oxalic    Formic    CO[.sub]2[/]    Unknown 
                         acid      acid      acid      (%)            matters 
@@ -2677,8 +2678,8 @@ decomposed into several kinds of organic acids, particularly
 acetic acid, and carbonic acid. These organic acids and carbonic 
 acid are easily removed by a conventional anion exchange resin. 
   As a result of long running actual equipment operation, TOC 
-of treated water has stably become 2 to 3 æg/l at initial TOC 
-level from 10 to 20 æg/l. 
+of treated water has stably become 2 to 3 ï¿½g/l at initial TOC 
+level from 10 to 20 ï¿½g/l. 
 <H5>  4. Ultrapure Water Unit at Used Point </H5>
   As shown in Figure 5, ultrapure water unit, which is used at 
 a close point to the ULSI manufacturing place, consists of the 
@@ -2687,7 +2688,7 @@ hydrogen, a UV reactor, modules of membrane deaerator for
 reducing residual dissolved hydrogen, ion exchange cartridge 
 polishers, ultrafiltration membrane and non-particle pumps. 
 
-<FIG ID=JPRS-JST-018L-66A>      Figure 5. Flow Sheet of Advanced Ultrapure Water Unit </FIG>
+<FIG ID="JPRS-JST-018L-66A">      Figure 5. Flow Sheet of Advanced Ultrapure Water Unit </FIG>
 
 
   Needless to say, 254 nm of UV ray has a sterilizing effect. 
@@ -2702,21 +2703,21 @@ unit.
 
 Item                  Inlet water    Outlet water    Measurement equipment 
 
-Resistivity           17.0&lt;          18.1&lt;           AQ-11(D. K. K) 
+Resistivity           17.0 lt;          18.1 lt;           AQ-11(D. K. K) 
 (M_O_-cm at 25 C) 
 
-DO (æg/l)             &lt;100           &lt; 5             System 2713 
+DO (ï¿½g/l)              lt;100            lt; 5             System 2713 
 
-TOC (æg/l)            &lt; 30           &lt; 5             TOC-1000(TOKIKO) 
+TOC (ï¿½g/l)             lt; 30            lt; 5             TOC-1000(TOKIKO) 
 
-Bacteria (counts/l)   &lt; 50           &lt; 1             Cultivated method 
+Bacteria (counts/l)    lt; 50            lt; 1             Cultivated method 
 
 
-Particles             &lt;200           &lt; 1             PLCA-310(HORIBA) 
+Particles              lt;200            lt; 1             PLCA-310(HORIBA) 
 (counts/l, 0.07 
-æm&lt;) 
+ï¿½m lt;) 
 
-SiO[.sub]2[/] (æg/l)   &lt; 30           &lt; 1             SLC-1605(D. K. K) 
+SiO[.sub]2[/] (ï¿½g/l)    lt; 30            lt; 1             SLC-1605(D. K. K) 
 
 
 
@@ -2739,32 +2740,32 @@ points as possible, because of very compact size.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     A Trial of High Performance Anaerobic Treatment on </TI></H3>
-<HT><F P=107><PHRASE>    A Trial of High Performance Anaerobic Treatment on </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    A Trial of High Performance Anaerobic Treatment on </PHRASE></F></HT>
 
 
 <TEXT>
 Wastewater   From a Kraft Pulp Mill 
 
-<F P=102> 43070065O Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065O Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 443-452 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065O </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065O </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Kiyoshi Minami of the Institute of Technology, </F>
+<F P="106"> [Article by Kiyoshi Minami of the Institute of Technology, </F>
 Shimizu Corporation, 4-17, Etchujima, Koto-ku, Tokyo 135, Japan] 
   [Text] 
 <H5>  Introduction </H5>
@@ -2806,7 +2807,7 @@ Salts
   Some analytical results of EC discharges are listed in Table 
 1. The discharges contain high concentrations of organic matter, 
 mainly methanol, and are discharged at relatively high 
-temperatures (40-80ëC). They also contain foul-smelling 
+temperatures (40-80ï¿½C). They also contain foul-smelling 
 sulfur compounds, such as hydrogen sulfide, methyl mercaptan 
 (MM), dimethyl sulfide (DMS), and dimethyl disulfide (DMDS), 
 lignin-like materials, and small amounts of terpene 
@@ -2819,7 +2820,7 @@ previous report.[.sup]11[/]
   A schematic diagram of the pilot plant is shown in Figure 1. 
 The effective volume of the bioreactor was 5 m[.sup]3[/], and 
 the fixed-bed was constructed with 3 m[.sup]3[/] of pumice 
-stone (mean diameter: 3 cm, pore size: 50-100 æm, the average 
+stone (mean diameter: 3 cm, pore size: 50-100 ï¿½m, the average 
 void ratio: 76 percent). One m[.sup]3[/] of plastic support 
 media (pole ring size 1 inch; specific surface area, 207 
 m[.sup]2[/]/m[.sup]3[/]; void volume, 90 percent) was also 
@@ -2830,19 +2831,19 @@ oil separator (b), sulfur compounds in the wastewater were
 stripped and removed by evolved gas from the bioreactor (c). 
 Concentrated oily materials were sent to a drain tank. Oily 
 compounds were separated by a MF membrane module (e: pore size, 
-0.2 æm, made of Teflon). Filtrate was sent to a preparation 
+0.2 ï¿½m, made of Teflon). Filtrate was sent to a preparation 
 tank (d), where the pH was adjusted to between 6.8 and 7.0 by 
 injecting doses of NaOH. The prepared wastewater was sent to the 
 anaerobic bioreactor. The temperature of the bioreactor was 
-monitored and maintained at 53ëC by thermostat. A UF 
+monitored and maintained at 53ï¿½C by thermostat. A UF 
 membrane module (h: Kurita Water Treatment; graduatable 
 molecular weight, 2 x 10[.sup]6[/]; made of polysulfone) or 
-inorganic membrane module (g: Toto Kiki; pore size, 0.16 æm; 
+inorganic membrane module (g: Toto Kiki; pore size, 0.16 ï¿½m; 
 made from alumina) was provided for cells retention and 
 recycling. Evolved biogas was desulfurized (i) and then burned 
 (k). 
 
-<FIG ID=JPRS-JST-018L-68A>      Figure 1. Schematic Diagram of Pilot-Scale Plant </FIG>
+<FIG ID="JPRS-JST-018L-68A">      Figure 1. Schematic Diagram of Pilot-Scale Plant </FIG>
 
 
   Analyses 
@@ -2889,7 +2890,7 @@ suggested to be that the concentration of inhibitive sulfur
 compounds in raw EC increased, and the sulfur compounds were not 
 removed sufficiently by MF membrane (Table 2). 
 
-<FIG ID=JPRS-JST-018L-68A>      Figure 2.Continuous Operation of the Bioreactor of with </FIG>
+<FIG ID="JPRS-JST-018L-68A">      Figure 2.Continuous Operation of the Bioreactor of with </FIG>
 
    Performance of the Bioreactor With MF Membrane and 
 Stripping System 
@@ -2897,7 +2898,7 @@ Stripping System
 stripping system using evolved gas from the digester was fitted 
 to the oil separator. Under the stripping condition of 20 
 m[.sup]3[/] of evolved gas/m[.sup]3[/]-raw EC, and at an 
-oil separator tank temperature of 60ëC, more than 80 percent 
+oil separator tank temperature of 60ï¿½C, more than 80 percent 
 of sulfur compounds were removed, but most of the methanol, the 
 substrate for methanogen, remained (Table 2). Using this 
 pretreated EC as a feed for the digester, continuous operation 
@@ -2915,9 +2916,9 @@ kg-TOC/m[.sup]3[/]/d) and the average BOD removal was 93
 percent through this operation period. The MLSS was kept at more 
 than 7.6 g/l (Figure 3). 
 
-<FIG ID=JPRS-JST-018L-70A>      Figure 3. Continuous Operation of the Bioreactor With MF </FIG>
+<FIG ID="JPRS-JST-018L-70A">      Figure 3. Continuous Operation of the Bioreactor With MF </FIG>
 
-<FIG ID=JPRS-JST-018L-71A>      Figure 4. Effect of UF membrane for microbial </FIG>
+<FIG ID="JPRS-JST-018L-71A">      Figure 4. Effect of UF membrane for microbial </FIG>
 
 
 
@@ -2960,7 +2961,7 @@ acid was generated, but no remarkable difference in digester
 performance was observed compared with the performance before 
 the stoppage (Figure 5). 
 
-<FIG ID=JPRS-JST-018L-72A>      FIGURE 5. </FIG>
+<FIG ID="JPRS-JST-018L-72A">      FIGURE 5. </FIG>
 
 
   Economic Feasibility Study 
@@ -2970,7 +2971,7 @@ system; case 2, anaerobic treatment with UF membrane + post
 aerobic treatment system; and case 3, anaerobic treatment 
 without UF membrane + post aerobic treatment system) for the 
 treatment of pulp and paper wastewater are compared in Table 4. 
-&lt;graphic&gt; &lt;/graphic&gt; 
+ lt;graphic gt;  lt;/graphic gt; 
 
   The general assumptions for the treatment costs calculation 
 were as follows: In the case 1, wastewater mixture (200 
@@ -2988,20 +2989,20 @@ to sludge (in the case 1, excess sludge yield was 16t dry-SS/d;
 in the case 2 or 3, excess sludge yield was 11.85t dry-SS/d). 
 Evolved methane gas was 3,100 m[.sup]3[/]/d, and the energy 
 was converted as the price of heavy oil. The conversion rates 
-were as follows: electric power, &yen;16/kwh; price of heavy oil 
-(&yen;25/l, 10,000 kcal/l); heat of methane combustion, 8,000 
-kcal/l; UF membrane replacement (&yen;20,000/m[.sup]2[/], 
-every three years); chemicals (N,P manure &yen;85,000/t, 
-NaOH-&yen;69,000/t); treatment of excess 3 sludge, 
-&yen;10,000/t; labor cost (1 person/year, &yen;4,015,000/year). 
+were as follows: electric power,  yen;16/kwh; price of heavy oil 
+( yen;25/l, 10,000 kcal/l); heat of methane combustion, 8,000 
+kcal/l; UF membrane replacement ( yen;20,000/m[.sup]2[/], 
+every three years); chemicals (N,P manure  yen;85,000/t, 
+NaOH- yen;69,000/t); treatment of excess 3 sludge, 
+ yen;10,000/t; labor cost (1 person/year,  yen;4,015,000/year). 
   Anaerobic treatment with UF membrane + post aerobic 
 treatment 
 was more economical than aerobic treatment only, and reduction 
-in total cost of &yen;194,000/d and &yen;1.22/m[.sup]3[/] 
+in total cost of  yen;194,000/d and  yen;1.22/m[.sup]3[/] 
 wastewater were achieved because of energy recovery by evolved 
 methane gas, with less production of excess sludge and less 
 electric power consumption. In the case 3, total cost was 
-reduced by &yen;0.13/m[.sup]3[/] wastewater compared with 
+reduced by  yen;0.13/m[.sup]3[/] wastewater compared with 
 that of case 2 because of less electric power consumption and no 
 membrane replacement cost. 
 <H5>  Acknowledgment </H5>
@@ -3015,7 +3016,7 @@ Technol., 20 (1988) 107-120.
   2. G. Endo and Y. Tohya, Wat. Sci. Technol., 17 (1985) 
 39-52. 
   3. A. A. Cocci, R. C. Landine, T. Viraraghavan and G. J. 
-Brown, Pulp &amp; Paper Canada, 83 (1982) 70-73. 
+Brown, Pulp  amp; Paper Canada, 83 (1982) 70-73. 
   4. K. Minami, T. Horiyama, M. Tasaki and Y. Tanimoto, J. 
 Ferment. Technol., 64 (1986) 523-532. 
   5. A. A. Cocci, R. C. Landine, G. J. Brown and A. M. 
@@ -3050,31 +3051,31 @@ Bioeng., 71 (1991) 270-274.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Water Recycling Systems in Tokyo </TI></H3>
-<HT><F P=107><PHRASE>    Water Recycling Systems in Tokyo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Water Recycling Systems in Tokyo </PHRASE></F></HT>
 
-<F P=102>   43070065P Yokohama Proceedings of the IDA and WRPC World 
+<F P="102">   43070065P Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 
 
 <TEXT>
 Nov 93 pp 463-470 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065P </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065P </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by T. Udagawa of the Bureau of Waterworks, Tokyo </F>
+<F P="106"> [Article by T. Udagawa of the Bureau of Waterworks, Tokyo </F>
 Metropolitan Government, Tokyo, Japan] 
   [Text] 
 <H5>  Summary </H5>
@@ -3447,32 +3448,32 @@ industrial water and rain water.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Ultrafiltration Membrane Technology for Regeneration of </TI></H3>
-<HT><F P=107><PHRASE>    Ultrafiltration Membrane Technology for Regeneration of </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ultrafiltration Membrane Technology for Regeneration of </PHRASE></F></HT>
 
 
 <TEXT>
 Building   Wastewater for Reuse 
 
-<F P=102> 43070065Q Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065Q Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 471-481 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065Q </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065Q </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by T. Yokomizo of the Industrial Wastewater </F>
+<F P="106"> [Article by T. Yokomizo of the Industrial Wastewater </F>
 Treatment Department, Mechanical and Electrical Headquarters, 
 Sanki Engineering Co. Ltd., Japan] 
   [Text] Plans to regenerate building wastewater for reuse 
@@ -3820,31 +3821,31 @@ Target quality is based on information published by public agencies.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Recycling of Sewage Treatment Water by Ozone </TI></H3>
-<HT><F P=107><PHRASE>    Recycling of Sewage Treatment Water by Ozone </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Recycling of Sewage Treatment Water by Ozone </PHRASE></F></HT>
 
-<F P=102>   43070065R Yokohama Proceedings of the IDA and WRPC World 
+<F P="102">   43070065R Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 
 
 <TEXT>
 Nov 93 pp 483-494 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065R </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065R </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Toshikazu Honda and Yoshitaka Kugawa of </F>
+<F P="106"> [Article by Toshikazu Honda and Yoshitaka Kugawa of </F>
 Mitsubishi Electric Corporation, 1-1-2 Wadasaki-cho, Hyago-ku, 
 Kobe, Hyago 652, Japan] 
   [Text] 
@@ -4110,7 +4111,7 @@ in Japan. However, in Japan where urban areas are highly
 populated, this requiring a large amount of water, the recycling 
 of treated sewage would be indispensable. And, the expectation 
 on the sewage treatment by using ozone will continue increasing. 
-Thus, we are more than ready to push ahead with our R&amp;D 
+Thus, we are more than ready to push ahead with our R amp;D 
 efforts 
 regarding the ozone generator and the ozone treatment facility. 
 
@@ -4126,32 +4127,32 @@ regarding the ozone generator and the ozone treatment facility.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Recycling of Waste Water From Buildings by Application of </TI></H3>
-<HT><F P=107><PHRASE>    Recycling of Waste Water From Buildings by Application of </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Recycling of Waste Water From Buildings by Application of </PHRASE></F></HT>
 
 
 <TEXT>
 Membrane 
 
-<F P=102>   43070065S Yokohama Proceedings of the IDA and WRPC World 
+<F P="102">   43070065S Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 495-501 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065S </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065S </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Tatsuji Okada and Osamu Oba of Mitsubishi Rayon </F>
+<F P="106"> [Article by Tatsuji Okada and Osamu Oba of Mitsubishi Rayon </F>
 Engineering Co. Ltd., 8-3 Kiba 2-chome, Koto-ku, Tokyo 135, 
 Japan] 
   [Text] 
@@ -4238,7 +4239,7 @@ quality of the treated water.
   The above-described waste water from the K Building after 
 contact aeration was filtrated with MF membrane and compared 
 with water treated with the existing UF membrane facility. MF 
-membrane of polyethylene hollow fiber of 0.2 æm in pore 
+membrane of polyethylene hollow fiber of 0.2 ï¿½m in pore 
 diameter was used. The same cross-flow filtration method as with 
 the UF membrane was adopted. Back wash method with permeated 
 water was applied for the MF membrane because of the different 
@@ -4365,31 +4366,31 @@ efficiency.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Treatment of Concentrated Cyanide Wastewater </TI></H3>
-<HT><F P=107><PHRASE>    Treatment of Concentrated Cyanide Wastewater </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Treatment of Concentrated Cyanide Wastewater </PHRASE></F></HT>
 
-<F P=102>   43070065T Yokohama Proceedings of the IDA and WRPC World 
+<F P="102">   43070065T Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 
 
 <TEXT>
 Nov 93 pp 505-512 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065T </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065T </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Michio Futakawa of Osaka Gas Co., Ltd., 19-9, </F>
+<F P="106"> [Article by Michio Futakawa of Osaka Gas Co., Ltd., 19-9, </F>
 6-chome, Torishima, Konohana-ku, Osaka 554; Heihachi Takahashi 
 of Nihon Parkerizing Co., Ltd., 15-1, 1-chome, Nihonbashi, 
 Chuo-ku, Tokyo 103; Gen-nosuke Inoue and Tetsuo Fujioka of the 
@@ -4477,19 +4478,19 @@ from Tufftride Process of the works.
 ---------------------------------------------------------------------------- 
 |pH            |-             |10.6          |8.9           |2.4           | 
 ---------------------------------------------------------------------------- 
-|Total-CN      |mg/l          |14,100        |&lt;0.1       |&lt;0.1       | 
+|Total-CN      |mg/l          |14,100        | lt;0.1       | lt;0.1       | 
 ---------------------------------------------------------------------------- 
-|NH3           |mg/l          |2,390         |3,180         |&lt;3.0       | 
+|NH3           |mg/l          |2,390         |3,180         | lt;3.0       | 
 ---------------------------------------------------------------------------- 
 |Total-N       |mg/l          |10,300        |3,190         |106           | 
 ---------------------------------------------------------------------------- 
-|COD-Mn        |mg/l          |16,700        |380           |&lt;1.0       | 
+|COD-Mn        |mg/l          |16,700        |380           | lt;1.0       | 
 ---------------------------------------------------------------------------- 
-|TOD           |mg/l          |44,000        |11,500        |&lt;10        | 
+|TOD           |mg/l          |44,000        |11,500        | lt;10        | 
 ---------------------------------------------------------------------------- 
-|Total-C       |mg/l          |18,800        |2,000         |&lt;5         | 
+|Total-C       |mg/l          |18,800        |2,000         | lt;5         | 
 ---------------------------------------------------------------------------- 
-|TOC           |mg/l          |6,400         |1,300         |&lt;5         | 
+|TOC           |mg/l          |6,400         |1,300         | lt;5         | 
 ---------------------------------------------------------------------------- 
 |Cl[.sup]-[/]|mg/l          |210           |120           |65            | 
 ---------------------------------------------------------------------------- 
@@ -4521,7 +4522,7 @@ hydrolysis and converted to tri-iron tetraoxide
 follows: 
   6K[.sub]4[/][Fe(CN)[.sub]6[/]] + 12NaOH + 
 66H[.sub]2[/]O + O[.sub]2[/] 
-  -&gt;  36NH[.sub]3[/] + 2Fe[.sub]3[/]O[.sub]4[/] + 
+  - gt;  36NH[.sub]3[/] + 2Fe[.sub]3[/]O[.sub]4[/] + 
 12HCOONa + 24HCOOK 
   Tri-iron tetraoxide (Fe[.sub]3[/]O[.sub]4[/]) sludge is 
 gravitationally separated from the bulk water and discharged 
@@ -4533,9 +4534,9 @@ air at the temperature of 230 deg C. In the catalytic reactor,
 formic acid and ammonia in the pretreated water is completely 
 decomposed by wet oxidation and become water, carbon dioxide and 
 nitrogen. 
-  4NH[.sub]3[/] + 3O[.sub]2[/] -&gt;  2N[.sub]2[/] + 
+  4NH[.sub]3[/] + 3O[.sub]2[/] - gt;  2N[.sub]2[/] + 
 6H[.sub]2[/]O 
-  2HCOOH + O[.sub]2[/] -&gt;  2CO[.sub]2[/] + 
+  2HCOOH + O[.sub]2[/] - gt;  2CO[.sub]2[/] + 
 2H[.sub]2[/]O 
   After heat-recovering and cooling, the effluent of the 
 catalytic reactor is fed into liquid/gas separator to vent inert 
@@ -4571,7 +4572,7 @@ process.
 Treated water   color                                   light brown              transparent 
 
 
-                analysis       Total-CN                 &lt;0.1 mg/l                &lt;0.1 mg/l 
+                analysis       Total-CN                  lt;0.1 mg/l                 lt;0.1 mg/l 
 
                                soluble Fe               17 mg/l                  4 mg/l 
 
@@ -4584,7 +4585,7 @@ bottom sludge
                                                                                  and 
                                                                                  Fe[.sub]3[/]O[.sub]4[/] 
 
-                               Total-CN                 &lt;10 mg/kg                &lt;10 mg/kg 
+                               Total-CN                  lt;10 mg/kg                 lt;10 mg/kg 
 
                 composition    Fe[.sub]2[/]O[.sub]3[/]    84.3                     88.4 
                 wt% 
@@ -4603,13 +4604,13 @@ with
 pretreated 
 water 
 
-                analysis       av. diameter             3 æm                     10 æm 
+                analysis       av. diameter             3 ï¿½m                     10 ï¿½m 
 
                                form                     amorphous iron oxide     mixture of Fe[.sub]2[/] 
                                                                                  O[.sub]3[/] and 
                                                                                  Fe[.sub]3[/]O[.sub]4[/] 
 
-                               Total CN                 185 mg/kg                &lt;1 mg/kg 
+                               Total CN                 185 mg/kg                 lt;1 mg/kg 
 
                 composition    Fe                       37.0                     61.0 
                 wt% 
@@ -4655,9 +4656,9 @@ Na[.sub]2[/]SO[.sub]4[/]/K[.sub]2[/]SO[.sub]4[/]
 mixture is electrically dissociate and value added products, 
 NaOH/KOH mixture and sulfate acid, are recovered by using a 
 bipolar membrane. 
-  Na[.sub]2[/]SO[.sub]4[/] -&gt;  NaOH + 
+  Na[.sub]2[/]SO[.sub]4[/] - gt;  NaOH + 
 H[.sub]2[/]SO[.sub]4[/] 
-  K[.sub]2[/]SO[.sub]4[/] -&gt;  KOH + 
+  K[.sub]2[/]SO[.sub]4[/] - gt;  KOH + 
 H[.sub]2[/]SO[.sub]4[/] 
   Through an electrodialysis process using a monopolar 
 membrane, NaOH and KOH, are separately recovered from the 
@@ -4699,32 +4700,32 @@ Science-Japan, Vol. 45, No. 1 (1992) 27-36.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     The Use of Hollow Fiber Filters To Improve Condensate </TI></H3>
-<HT><F P=107><PHRASE>    The Use of Hollow Fiber Filters To Improve Condensate </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    The Use of Hollow Fiber Filters To Improve Condensate </PHRASE></F></HT>
 
 
 <TEXT>
 Purification   Efficiency in Thermal Power Plants 
 
-<F P=102> 43070065U Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065U Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 525-535 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065U </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065U </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Haruyoshi Koushiro and Yoshizumi Kubo of TEPCO </F>
+<F P="106"> [Article by Haruyoshi Koushiro and Yoshizumi Kubo of TEPCO </F>
 Goi Thermal Power Station, Tokyo Electric Power Co. Inc., 1 
 Goikaigan, Ichihara City, Chiba, Japan] 
   [Text] 
@@ -4790,7 +4791,7 @@ Filter
 filter can filter substances down to the coloid-range size. The 
 fibers are hollow and macaroni-shaped, as shown in Figure 2 [not 
 reproduced], with microscopic slit-shaped filtration holes of 
-0.1 æm or less in the outer surface. 
+0.1 ï¿½m or less in the outer surface. 
   The filtration principle, as shown in Figure 3 [not 
 reproduced], is that condensate is passed from the outside to 
 the inside of the hollow fibers, and non-solvent solids 
@@ -4808,7 +4809,7 @@ thus large volumes of condensate can be filtered even though the
 device itself is compact in size. It is particularly effective 
 in cases where installation space is limited, such as in 
 existing plants in which operation is underway. 
-  3) Since it can remove all clad sized 0.1 æm or more, 
+  3) Since it can remove all clad sized 0.1 ï¿½m or more, 
 outlet water quality of 1 ppb of clad or less can be ensured at 
 all times regardless of the quality of water at the inlet, and 
 this has a major effect on reducing the clean-up time when 
@@ -4858,8 +4859,8 @@ Station
 Unit No. 6 and test results of the HFF mini-module, it was 
 confirmed that the undissolved matter was mainly composed of 
 magnetite (Fe[.sub]3[/]O[.sub]4[/]), which has a peak of 5 
-æm as shown in Figure 4 [not reproduced], and that if this is 
-permeated through filtration holes of 0.1 æm or less at a 
+ï¿½m as shown in Figure 4 [not reproduced], and that if this is 
+permeated through filtration holes of 0.1 ï¿½m or less at a 
 filtration speed of about 0.1 m/h, there will be no blockage and 
 all undissolved matter including magnetite can be removed while 
 still retaining an extremely small slow rise in differential 
@@ -4916,7 +4917,7 @@ Table 2.
 ------------------------------------------------------------------------------- 
 |Max. pressure                         |13 kg/cm[.sup]2[/]                  | 
 ------------------------------------------------------------------------------- 
-|Max. temp.                            |60ëC                              | 
+|Max. temp.                            |60ï¿½C                              | 
 ------------------------------------------------------------------------------- 
 |Capacity                              |350 t/h                               | 
 ------------------------------------------------------------------------------- 
@@ -4928,7 +4929,7 @@ Table 2.
 ------------------------------------------------------------------------------- 
 |Filter element                        |Form: hollow fiberMaterial: multi-per-| 
 |                                      |forated polyethyleneNo. of fibers: 115| 
-|                                      | x 2 layersFilter hole bore: 0.1 æ| 
+|                                      | x 2 layersFilter hole bore: 0.1 ï¿½| 
 |                                      |m or less                             | 
 ------------------------------------------------------------------------------- 
 
@@ -5076,7 +5077,7 @@ modules can also be halved, as shown in Table 4.
 ------------------------------------------------------------------------------- 
 |Modules cost             |1                        |1/2                      | 
 ------------------------------------------------------------------------------- 
-|Av. pore size            |0.1 æm               |0.2 æm               | 
+|Av. pore size            |0.1 ï¿½m               |0.2 ï¿½m               | 
 ------------------------------------------------------------------------------- 
 |No. of modules           |230                      |115                      | 
 ------------------------------------------------------------------------------- 
@@ -5111,32 +5112,32 @@ the future.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Application of Concentrator on the Treatment of Industrial </TI></H3>
-<HT><F P=107><PHRASE>    Application of Concentrator on the Treatment of Industrial </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Application of Concentrator on the Treatment of Industrial </PHRASE></F></HT>
 
 
 <TEXT>
 Waste   Water 
 
-<F P=102> 43070065V Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065V Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 537-544 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065V </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065V </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by M. Miura and K. Harada of Sasakura Engineering </F>
+<F P="106"> [Article by M. Miura and K. Harada of Sasakura Engineering </F>
 Co., Ltd., Nishiyodogawa-ku, Osaka 555, Japan] 
   [Text] The various types of concentrators have been adopted 
 as one of the main components of product line at various kinds 
@@ -5200,27 +5201,27 @@ disposal had been performed.
 ------------------------------------------------------------------------------- 
 |                         |Item                     |Details                  | 
 ------------------------------------------------------------------------------- 
-|Previous condition       |Treatment fee of waste w-|36 t/D x &yen;20,000/t = | 
-|                         |ater                     |&yen;720,000/day         | 
+|Previous condition       |Treatment fee of waste w-|36 t/D x  yen;20,000/t = | 
+|                         |ater                     | yen;720,000/day         | 
 ------------------------------------------------------------------------------- 
-|Improved condition       |Steam                    |13.7 t/day x &yen;3,000/-| 
-|                         |                         |t = &yen;41,100/day      | 
+|Improved condition       |Steam                    |13.7 t/day x  yen;3,000/-| 
+|                         |                         |t =  yen;41,100/day      | 
 ------------------------------------------------------------------------------- 
-|                         |Power                    |14 kw x 24H/day x &yen;20| 
-|                         |                         |/kw = &yen;292,480/day   | 
+|                         |Power                    |14 kw x 24H/day x  yen;20| 
+|                         |                         |/kw =  yen;292,480/day   | 
 ------------------------------------------------------------------------------- 
-|                         |Seal water               |10 t/day x &yen;300/t = &| 
+|                         |Seal water               |10 t/day x  yen;300/t =  | 
 |                         |                         |yen;3,000/day            | 
 ------------------------------------------------------------------------------- 
-|                         |Cooling water (recycle)  |5 t/H x 24H/day x &yen;30| 
-|                         |                         |0/t = &yen;36,000/day    | 
+|                         |Cooling water (recycle)  |5 t/H x 24H/day x  yen;30| 
+|                         |                         |0/t =  yen;36,000/day    | 
 ------------------------------------------------------------------------------- 
-|                         |Fee of waste water       |3.6 t/day x &yen;20,000/-| 
-|                         |                         |t = &yen;72,000/day      | 
+|                         |Fee of waste water       |3.6 t/day x  yen;20,000/-| 
+|                         |                         |t =  yen;72,000/day      | 
 ------------------------------------------------------------------------------- 
-|                         |                         |&yen;444,580/day         | 
+|                         |                         | yen;444,580/day         | 
 ------------------------------------------------------------------------------- 
-|                         |Cost saving merit        |720,000 - 444,580 = &yen;| 
+|                         |Cost saving merit        |720,000 - 444,580 =  yen;| 
 |                         |                         |275,420/day              | 
 ------------------------------------------------------------------------------- 
 
@@ -5251,27 +5252,27 @@ NaNO[.sub]3[/] is constructed.
 ------------------------------------------------------------------------------- 
 |                         |Item                     |Details                  | 
 ------------------------------------------------------------------------------- 
-|Previous condition       |Treatment fee of waste w-|180 d/D x &yen;20,000/t =| 
-|                         |ater                     | &yen;3,600,000/day      | 
+|Previous condition       |Treatment fee of waste w-|180 d/D x  yen;20,000/t ="|" 
+|                         |ater                     |  yen;3,600,000/day      | 
 ------------------------------------------------------------------------------- 
-|Improved condition       |Steam                    |1.2 t/d x &yen;3,000/t = | 
-|                         |                         |&yen;3,600/day           | 
+|Improved condition       |Steam                    |1.2 t/d x  yen;3,000/t = | 
+|                         |                         | yen;3,600/day           | 
 ------------------------------------------------------------------------------- 
-|                         |Power                    |4,875 kw/D x &yen;20/kw =| 
-|                         |                         | &yen;97,500/day         | 
+|                         |Power                    |4,875 kw/D x  yen;20/kw ="|" 
+|                         |                         |  yen;97,500/day         | 
 ------------------------------------------------------------------------------- 
-|                         |Seal water               |48 t/D x &yen;300/t =    | 
-|                         |                         |&yen;14,400/day          | 
+|                         |Seal water               |48 t/D x  yen;300/t =    | 
+|                         |                         | yen;14,400/day          | 
 ------------------------------------------------------------------------------- 
-|                         |Dist. water              |- 158.7 t/D x &yen;300/t | 
-|                         |                         |= - &yen;47,610/day      | 
+|                         |Dist. water              |- 158.7 t/D x  yen;300/t | 
+|                         |                         |= -  yen;47,610/day      | 
 ------------------------------------------------------------------------------- 
 |                         |Conc. water              |No fee of undertaking    | 
 ------------------------------------------------------------------------------- 
-|                         |                         |+ &yen;67,890/day        | 
+|                         |                         |+  yen;67,890/day        | 
 ------------------------------------------------------------------------------- 
 |                         |Cost saving merit        |3,600,000 - 67,890 =     | 
-|                         |                         |&yen;3,532,110/day       | 
+|                         |                         | yen;3,532,110/day       | 
 ------------------------------------------------------------------------------- 
 
 
@@ -5302,31 +5303,31 @@ as the industrial fresh water.
 ------------------------------------------------------------------------------- 
 |                         |Item                     |Details                  | 
 ------------------------------------------------------------------------------- 
-|Previous condition       |Treatment fee of waste w-|40 t/day x &yen;20,000/t | 
-|                         |ater                     |= &yen;800,000/day (In t-| 
+|Previous condition       |Treatment fee of waste w-|40 t/day x  yen;20,000/t | 
+|                         |ater                     |=  yen;800,000/day (In t-| 
 |                         |                         |his inland factory can n-| 
 |                         |                         |ot discharge the treated | 
 |                         |                         |waste, so the waste wate-| 
 |                         |                         |r must reuse using the c-| 
 |                         |                         |losed system)            | 
 ------------------------------------------------------------------------------- 
-|Improved condition       |Power                    |45 kw x 24H/day x &yen;20| 
-|                         |                         |/kw = &yen;21,600/day    | 
+|Improved condition       |Power                    |45 kw x 24H/day x  yen;20| 
+|                         |                         |/kw =  yen;21,600/day    | 
 ------------------------------------------------------------------------------- 
-|                         |Seal water (recycle)     |2.16 t/day x &yen;300/t =| 
-|                         |                         | &yen;648/day            | 
+|                         |Seal water (recycle)     |2.16 t/day x  yen;300/t ="|" 
+|                         |                         |  yen;648/day            | 
 ------------------------------------------------------------------------------- 
-|                         |Dist. water              |- 36 t/day x &yen;300/t =| 
-|                         |                         | - &yen;10,800/day       | 
+|                         |Dist. water              |- 36 t/day x  yen;300/t ="|" 
+|                         |                         | -  yen;10,800/day       | 
 ------------------------------------------------------------------------------- 
 |                         |Conc. water              |1.9 t/day x (1/0.7) x    | 
-|                         |                         |&yen;3,000/t = &yen;     | 
+|                         |                         | yen;3,000/t =  yen;     | 
 |                         |                         |8,143/day (Drum dryer    | 
 |                         |                         |steam consumption)       | 
 ------------------------------------------------------------------------------- 
-|                         |                         |&yen;19,591/day          | 
+|                         |                         | yen;19,591/day          | 
 ------------------------------------------------------------------------------- 
-|                         |Cost saving merit        |800,000 - 19,591 = &yen;7| 
+|                         |Cost saving merit        |800,000 - 19,591 =  yen;7| 
 |                         |                         |80,409/day               | 
 ------------------------------------------------------------------------------- 
 
@@ -5354,32 +5355,32 @@ waste water side can be separately obtained.
 ------------------------------------------------------------------------------- 
 |                         |Item                     |Details                  | 
 ------------------------------------------------------------------------------- 
-|Untreated                |Treatment fee of waste w-|50 t/day x &yen;30,000/t | 
-|                         |ater                     |= &yen;1,500,000/day     | 
+|Untreated                |Treatment fee of waste w-|50 t/day x  yen;30,000/t | 
+|                         |ater                     |=  yen;1,500,000/day     | 
 ------------------------------------------------------------------------------- 
-|Treated                  |Steam                    |11.3 t/day x &yen;3,000/-| 
-|                         |                         |t = &yen;33,900/day      | 
+|Treated                  |Steam                    |11.3 t/day x  yen;3,000/-| 
+|                         |                         |t =  yen;33,900/day      | 
 ------------------------------------------------------------------------------- 
-|                         |Power                    |11 kw x 24H x &yen;20/kw | 
-|                         |                         |= &yen;5,280/day         | 
+|                         |Power                    |11 kw x 24H x  yen;20/kw | 
+|                         |                         |=  yen;5,280/day         | 
 ------------------------------------------------------------------------------- 
-|                         |Seal water (recycle)     |8.6 t/day x &yen;30/t = &| 
+|                         |Seal water (recycle)     |8.6 t/day x  yen;30/t =  | 
 |                         |                         |yen;258/day              | 
 ------------------------------------------------------------------------------- 
-|                         |Dist. water (Dil. HCl; R-|- 30 t/day x &yen;3,000/-| 
-|                         |EVSE)                    |t = &yen;90,000/day (4%  | 
+|                         |Dist. water (Dil. HCl; R-|- 30 t/day x  yen;3,000/-| 
+|                         |EVSE)                    |t =  yen;90,000/day (4%  | 
 |                         |                         |HCl 50 lusion)           | 
 ------------------------------------------------------------------------------- 
-|                         |Conc. water              |20 t/day x &yen;30,000/t | 
-|                         |                         |= &yen;600,000/day       | 
+|                         |Conc. water              |20 t/day x  yen;30,000/t | 
+|                         |                         |=  yen;600,000/day       | 
 ------------------------------------------------------------------------------- 
-|                         |Cooling water (recycle)  |34 t/H x 24H x &yen;30/t | 
-|                         |                         |= &yen;24,480/day        | 
+|                         |Cooling water (recycle)  |34 t/H x 24H x  yen;30/t | 
+|                         |                         |=  yen;24,480/day        | 
 ------------------------------------------------------------------------------- 
-|                         |                         |&yen;573,918/day         | 
+|                         |                         | yen;573,918/day         | 
 ------------------------------------------------------------------------------- 
 |                         |Cost saving merit        |1,500,000 - 573,918 =    | 
-|                         |                         |&yen;926,082/day         | 
+|                         |                         | yen;926,082/day         | 
 ------------------------------------------------------------------------------- 
 
 
@@ -5396,32 +5397,32 @@ waste water side can be separately obtained.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Advanced Reverse Osmosis Membrane Modules for Novel </TI></H3>
-<HT><F P=107><PHRASE>    Advanced Reverse Osmosis Membrane Modules for Novel </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Advanced Reverse Osmosis Membrane Modules for Novel </PHRASE></F></HT>
 
 
 <TEXT>
 Ultrapure   Water Production Process 
 
-<F P=102> 43070065W Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065W Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 561-568 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065W </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065W </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by T. Ikeda, H. Muragishi, R. Bairinji, and T. </F>
+<F P="106"> [Article by T. Ikeda, H. Muragishi, R. Bairinji, and T. </F>
 Uemura of Toray Industries, Inc., Otsu, 520, Japan] 
   [Text] 
 <H5>  Summary </H5>
@@ -5470,17 +5471,17 @@ for semiconductor manufacturing in Japan.[.sup]4[/]
 ----------------------------------------------------------------------------- 
 |                  |1 Mbit            |4 Mbit            |16 Mbit           | 
 ----------------------------------------------------------------------------- 
-|Resistivity       |&gt; 18            |&gt; 18            |&gt; 18:1       | 
-|(M&OHgr;-cm)      |                   |                   |                | 
+|Resistivity       | gt; 18            | gt; 18            | gt; 18:1       | 
+|(M OHgr;-cm)      |                   |                   |                | 
 ----------------------------------------------------------------------------- 
-|Particulates (cou-|0.1 æm &lt;10 |0.1 æm &lt;10 |0.05 æm &lt;10| 
+|Particulates (cou-|0.1 ï¿½m  lt;10 |0.1 ï¿½m  lt;10 |0.05 ï¿½m  lt;10| 
 |nts/cc)           |                  |                  |                  | 
 ----------------------------------------------------------------------------- 
-|TOC (ppb)         |&lt;30            |&lt;10            |&lt;5             | 
+|TOC (ppb)         | lt;30            | lt;10            | lt;5             | 
 ----------------------------------------------------------------------------- 
-|Silica (ppb)      |&lt;10            |&lt;5             |&lt;1             | 
+|Silica (ppb)      | lt;10            | lt;5             | lt;1             | 
 ----------------------------------------------------------------------------- 
-|DO (ppb)          |&lt;100           |&lt;50            |&lt;10            | 
+|DO (ppb)          | lt;100           | lt;50            | lt;10            | 
 ----------------------------------------------------------------------------- 
 |T. Shinoda, Sangyo Kikai, Jan. (1989)                                      | 
 ----------------------------------------------------------------------------- 
@@ -5661,32 +5662,32 @@ References
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Process Performance Comparison of Membrane Introduced </TI></H3>
-<HT><F P=107><PHRASE>    Process Performance Comparison of Membrane Introduced </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Process Performance Comparison of Membrane Introduced </PHRASE></F></HT>
 
 
 <TEXT>
 Anaerobic   Digestion Using Food Industry Waste Water 
 
-<F P=102> 43070065X Yokohama Proceedings of the IDA and WRPC World 
+<F P="102"> 43070065X Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 Nov 93 pp 579-587 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065X </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065X </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Yoshinori Yushina and Jun Hasegawa of CHIYODA </F>
+<F P="106"> [Article by Yoshinori Yushina and Jun Hasegawa of CHIYODA </F>
 Corporation, Environmental Technology Center, Moriya-cho 3-13, 
 Kanagawa-ku, Yokohama 211, Japan] 
   [Text] 
@@ -6073,31 +6074,31 @@ Pergamon Press.
 <HEADER>
 <AU>   JPRS-JST-94-018L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Japan Wastewater Treatment Technologies </ABS>
 <DATE1>   18 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Water Treatment by Pitch-Based Activated Carbon Fiber </TI></H3>
-<HT><F P=107><PHRASE>    Water Treatment by Pitch-Based Activated Carbon Fiber </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Water Treatment by Pitch-Based Activated Carbon Fiber </PHRASE></F></HT>
 
-<F P=102>   43070065I Yokohama Proceedings of the IDA and WRPC World 
+<F P="102">   43070065I Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment in English 3-6 </F>
 
 
 
 <TEXT>
 Nov 93 pp 339-345 -- FOR OFFICIAL USE ONLY 
-<F P=103> 43070065I </F>
-<F P=104>  Yokohama Proceedings of the IDA and WRPC World 
+<F P="103"> 43070065I </F>
+<F P="104">  Yokohama Proceedings of the IDA and WRPC World 
 Conference on Desalination and Water Treatment </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 CSO 
 
-<F P=106> [Article by Norifumi Shindo of Osaka Gas Co. Ltd., 4-1-2, </F>
+<F P="106"> [Article by Norifumi Shindo of Osaka Gas Co. Ltd., 4-1-2, </F>
 Hironomachi, Chuo-ku, Osaka 541, Yoshitada Otani of Unitika Co. 
 Ltd., 4-68 Kitakutarocho, Osaka, Gennosuke Inoue of Water Re-use 
 Promotion Center, 2-3-4 Akasaka, Tokyo 107, and Kunitaro Kawazoe 
@@ -6133,10 +6134,10 @@ reactivated after the conventional pitch-based ACF was applied
 with a special treatment. The microporous distribution was 
 measured by the low-temperature nitrogen adsorption method. An 
 example of the results is shown on Table 1 and Figure 1. 
-&lt;graphic&gt; &lt;/graphic&gt; 
+ lt;graphic gt;  lt;/graphic gt; 
 
-&lt;graphic&gt; 
-&lt;capt&gt; Figure 1. Pore Distribution&lt;/graphic&gt; 
+ lt;graphic gt; 
+ lt;capt gt; Figure 1. Pore Distribution lt;/graphic gt; 
 
   It is known from these data that, while keeping micropore, 
 mesopore has increased on selective basis. Especially, in the 
@@ -6230,7 +6231,7 @@ activated carbon fiber.
   (1) Required activation degree of reformed carbon fiber 
   The activation nearly equal to that of reformed carbon fiber 
 shown on Table 1 is required in order to attain the target level 
-of removal, THM Potential &gt;  80 percent and TOC &gt;  50 
+of removal, THM Potential  gt;  80 percent and TOC  gt;  50 
 percent, 
 and, it is judged that advanced treatment performance, either 
 equal to or more than granular activated carbon will be 
@@ -6255,7 +6256,7 @@ carbons fiber, same as raw material carbon fiber.
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -6265,17 +6266,17 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    Introduction </H4>
 
-<F P=102> 94FE0122A Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 p 1 -- 
+<F P="102"> 94FE0122A Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 p 1 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122A </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122A </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
   [Text] Most nuclear power-related databases are still not 
@@ -6334,7 +6335,7 @@ of Electric Power Industry (CRIEPI), Tel: 03-3480-2111
   Nuclear Power Facilities Decommissioning Research 
 Association, Tel: 0292-83-3010 (switchboard) 
 
-<FIG ID=JPRS-JST-019L-01A>      FIGURE </FIG>
+<FIG ID="JPRS-JST-019L-01A">      FIGURE </FIG>
 
 
 
@@ -6350,7 +6351,7 @@ Association, Tel: 0292-83-3010 (switchboard)
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -6360,20 +6361,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    JAERI Database Development </H4>
 
-<F P=102> 94FE0122B Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122B Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 13-18 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122B </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122B </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Yasuyuki Kikuchi] </F>
+<F P="106"> [Article by Yasuyuki Kikuchi] </F>
   [Text] 
 <H5>  1. Current State of Database Maintenance at JAERI </H5>
   JAERI stores the results of its research in various 
@@ -6680,7 +6681,7 @@ technology and its current status, 6) nuclear reactor
 obsolescence devices, 7) nuclear power safety regulations, 8) 
 operation management data, 9) nuclear power safety research, 10) 
 new uses for nuclear power, 11) radiation, 12) international 
-cooperation, 13) public opinion, 14) overseas trends, 15) Q&amp;A 
+cooperation, 13) public opinion, 14) overseas trends, 15) Q amp;A 
 and 16) supplementary data. In editing this data, JAERI is 
 taking care to contribute to users' decisions by making the 
 bibliographic data readable and easy-to-understand (complete 
@@ -6793,7 +6794,7 @@ system can be used at any time.
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -6803,20 +6804,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    `Atom Net' Information Service Network </H4>
 
-<F P=102> 94FE0122C Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122C Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 24-27 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122C </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122C </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Naohiro Hattori] </F>
+<F P="106"> [Article by Naohiro Hattori] </F>
   [Text] The news media have been running more stories on the 
 subject of nuclear power in recent years, but it seems that 
 large numbers of people have yet to sense the importance of this 
@@ -6871,7 +6872,7 @@ registered passwords. And the service is free (you will still be
 required to pay the telephone charges incurred during use, 
 however). 
 
-<FIG ID=JPRS-JST-019L-06A>      Figure 1. User ID Input Screen </FIG>
+<FIG ID="JPRS-JST-019L-06A">      Figure 1. User ID Input Screen </FIG>
 
 
   For those people with questions concerning the contents of 
@@ -6953,7 +6954,7 @@ Total                193     44          237      642     319         961
 
 
 
-<FIG ID=JPRS-JST-019L-07B>      Figure 2. Main Menu Screen </FIG>
+<FIG ID="JPRS-JST-019L-07B">      Figure 2. Main Menu Screen </FIG>
 
 
   The following are the contents of Atom Net by main and sub 
@@ -7173,7 +7174,7 @@ Power Technology Agency, Tel: 03-5470-5500
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -7183,20 +7184,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    `NUCLEN' Nuclear Power Information Database </H4>
 
-<F P=102> 94FE0122D Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122D Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 27-30 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122D </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122D </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Toshiharu Suzuki] </F>
+<F P="106"> [Article by Toshiharu Suzuki] </F>
   [Text] 
 <H5>  1. Introduction </H5>
   The NUCLEN Nuclear Power Information Database (NUCLEN File) 
@@ -7233,43 +7234,43 @@ number of data elements for each field are shown in Table 1.
 ------------------------------------------------------------------------------- 
 |Field                    |Data Elements            |Category Codes           | 
 ------------------------------------------------------------------------------- 
-|Radiation Measurement    |18220                    |AD08&amp;                | 
+|Radiation Measurement    |18220                    |AD08 amp;                | 
 ------------------------------------------------------------------------------- 
 |X-ray Technology         |2897                     |BA02060D                 | 
 ------------------------------------------------------------------------------- 
-|Accelerators             |3785                     |BE02&amp;                | 
+|Accelerators             |3785                     |BE02 amp;                | 
 ------------------------------------------------------------------------------- 
-|Nuclear Reactions/Scatte-|2284                     |BG04&amp;                | 
+|Nuclear Reactions/Scatte-|2284                     |BG04 amp;                | 
 |ring                     |                         |                         | 
 ------------------------------------------------------------------------------- 
-|Plasma                   |59250                    |BJ02&amp;                | 
+|Plasma                   |59250                    |BJ02 amp;                | 
 ------------------------------------------------------------------------------- 
-|Lattice Defects          |3995                     |BK12&amp;                | 
+|Lattice Defects          |3995                     |BK12 amp;                | 
 ------------------------------------------------------------------------------- 
-|Radiation Physics/Impact |40573                    |BK16&amp;                | 
+|Radiation Physics/Impact |40573                    |BK16 amp;                | 
 |Phenomena                |                         |                         | 
 ------------------------------------------------------------------------------- 
-|Radiation Chemistry      |4713                     |CB09&amp;                | 
+|Radiation Chemistry      |4713                     |CB09 amp;                | 
 ------------------------------------------------------------------------------- 
-|Nuclear Chemistry/Radioc-|12252                    |CB10&amp;                | 
+|Nuclear Chemistry/Radioc-|12252                    |CB10 amp;                | 
 |hemistry                 |                         |                         | 
 ------------------------------------------------------------------------------- 
-|Radiochemical Analysis   |7050                     |CC06&amp;                | 
+|Radiochemical Analysis   |7050                     |CC06 amp;                | 
 ------------------------------------------------------------------------------- 
-|High Polymer Reactions   |2620                     |CG03&amp;                | 
+|High Polymer Reactions   |2620                     |CG03 amp;                | 
 ------------------------------------------------------------------------------- 
-|Radiation Biology        |19232                    |EK&amp;                  | 
+|Radiation Biology        |19232                    |EK amp;                  | 
 ------------------------------------------------------------------------------- 
-|Radiology                |10540                    |GC04&amp;                | 
+|Radiology                |10540                    |GC04 amp;                | 
 ------------------------------------------------------------------------------- 
-|Clinical Oncology        |5970                     |GE03&amp;                | 
+|Clinical Oncology        |5970                     |GE03 amp;                | 
 ------------------------------------------------------------------------------- 
-|Radiopharmaceuticals     |4277                     |GW18&amp;                | 
+|Radiopharmaceuticals     |4277                     |GW18 amp;                | 
 ------------------------------------------------------------------------------- 
-|Radiation Protective Pha-|2390                     |GW19&amp;                | 
+|Radiation Protective Pha-|2390                     |GW19 amp;                | 
 |rmaceuticals             |                         |                         | 
 ------------------------------------------------------------------------------- 
-|Nuclear Power Engineering|135958                   |M&amp;                   | 
+|Nuclear Power Engineering|135958                   |M amp;                   | 
 ------------------------------------------------------------------------------- 
 |Nuclear Power Generation |6199                     |NB030602                 | 
 ------------------------------------------------------------------------------- 
@@ -7377,12 +7378,12 @@ RETURN.
 be 
 displayed, at which time you simply press RETURN. 
   5. The message ``JICST ON-LINE SERVICE'' is then displayed. 
-Input ``&yen;JOIS 000-5454, (your name),'' and press RETURN. 
+Input `` yen;JOIS 000-5454, (your name),'' and press RETURN. 
   6. The message ``Password please U:$$$$$$$$'' will be 
 displayed, at which point you input ``NUCLEN,'' and press RETURN. 
   7. Then the message ``S: Commence dialog U:'' will be 
 displayed, and access is complete. After the ``U:'' input 
-``&yen;FILE 610'' to commence retrieval. 
+`` yen;FILE 610'' to commence retrieval. 
 <H5>  (2) Accessing the System Using JICST Dedicated Retrieval </H5>
 Software 
   The NUCLEN dedicated retrieval software is menu driven, and 
@@ -7400,7 +7401,7 @@ telephone/modem numbers of JICST's branch offices nationwide.
 which a Japanese-language NUCLEN file was retrieved on the 
 subject of ``Nuclear Power Generation Safety.'' 
 
-<FIG ID=JPRS-JST-019L-012A>      Figure 1. Sample Retrieval Operation </FIG>
+<FIG ID="JPRS-JST-019L-012A">      Figure 1. Sample Retrieval Operation </FIG>
 
 
 <H5>  4. Methods of retrieving NUCLEN Files </H5>
@@ -7465,9 +7466,9 @@ operations and proximity operations.
 want to retrieve other types of information related to your 
 retrieval word, such as ``inspections'' or ``protection'' in 
 relation to the retrieval word ``radiation.'' Simply input 
-``&amp;'' 
+`` amp;'' 
 after the retrieval word. 
-  Sample input: U:Radiation &amp; 
+  Sample input: U:Radiation  amp; 
   Since there is always a lot more information available than 
 you are able to find using a single retrieval word, ordinarily 
 you retrieve information using two or more retrieval words. This 
@@ -7510,35 +7511,35 @@ efforts further by language, publication dates and such, then
 you conduct secondary retrieval operations. You always conduct 
 primary retrieval operations before carrying out secondary 
 retrieval operations. In secondary retrieval operations, you 
-input the retrieval code followed by an equal sign (=). 
+input the retrieval code followed by an equal sign (=")." 
 <H5>  [1] Language Information is Written In </H5>
   When you want to limit your search to the language that the 
 document is written in, then you specify that language code 
-after inputting ``LN=''. The language code for Japanese is JA, 
+after inputting ``LN="''." The language code for Japanese is JA, 
 and for English is EN. 
-  Sample input: U:LN=JA 
+  Sample input: U:LN="JA" 
 <H5>  [2] Year of Publication </H5>
   When you want to limit your search as to the year documents 
 were published, you input a four-digit year after the codes 
-``PD=''. You can also specify in or after a certain year by 
+``PD="''." You can also specify in or after a certain year by 
 inputting a hyphen (-) after the four-digit year. 
-  Sample input: U:PD=1990- 
+  Sample input: U:PD="1990-" 
 <H5>  [3] Terms Found in Titles </H5>
   When you want to limit your search to documents with titles 
-that contain specific words, then you input ``TI='' followed by 
-a pair of ampersands (&amp;) bracketing the specific word you are 
+that contain specific words, then you input ``TI="''" followed by 
+a pair of ampersands ( amp;) bracketing the specific word you are 
 searching for. 
-  Sample input: U:TI=&amp;uranium&amp; 
+  Sample input: U:TI= amp;uranium amp; 
 <H5>  (3) Output of Retrieval Results </H5>
   To display the results of your retrieval operations, input 
-&yen;P followed by the output format, a backslash (/) and the 
+ yen;P followed by the output format, a backslash (/) and the 
 range of responses you wish output. If you do not specify the 
 range of response output, then all items will be output. Output 
 formats consist of ``A'' for all items, ``T'' for titles, etc. 
-  Sample input: U:&yen;P A/1-10 
+  Sample input: U: yen;P A/1-10 
 <H5>  (4) To End Retrieval Operation </H5>
-  End the retrieval operation by inputting ``&yen;END''. 
-  Sample input: U:&yen;END 
+  End the retrieval operation by inputting `` yen;END''. 
+  Sample input: U: yen;END 
 <H5>  (5) Dedicated Software Retrieval </H5>
   When you use JICST's dedicated software to conduct your 
 retrieval operations, everything is done in accordance with 
@@ -7566,7 +7567,7 @@ nearest you to avail yourself of these forms and information.
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -7576,20 +7577,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    `NUCIS' Nuclear Code Information Service Database </H4>
 
-<F P=102> 94FE0122E Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122E Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 36-40 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122E </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122E </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Tadakazu Suzuki] </F>
+<F P="106"> [Article by Tadakazu Suzuki] </F>
   [Text] Various types of software play extremely important 
 roles in supporting the research and development of nuclear 
 power. More than 30 years have passed since we started 
@@ -7811,7 +7812,7 @@ work. Then, if he already knows the specific code that will
 enable him to achieve his objective, he can retrieve information 
 from NUCIS by inputting that code directly. 
 
-<FIG ID=JPRS-JST-019L-16A>      Figure 1. NUCIS Utilization Flowchart </FIG>
+<FIG ID="JPRS-JST-019L-16A">      Figure 1. NUCIS Utilization Flowchart </FIG>
 
 
   Figure 2 provides an example of a retrieval operation where 
@@ -7819,7 +7820,7 @@ the user input the code ``SAFE-3D'' to obtain structural
 analysis data. By inputting the input command (e) shown in 
 Figure 2, the user specified 
 
-<FIG ID=JPRS-JST-019L-16B>      FORMULA </FIG>
+<FIG ID="JPRS-JST-019L-16B">      FORMULA </FIG>
 
 
   [Text]The numeral ``1'' following the code specifies the 
@@ -7827,7 +7828,7 @@ output level. Inputting ``1'' specifies the output of code items
 1-4, ``2'' specifies the output of code items 1-4, 10 and 15-18, 
 and ``3'' specifies the output of all code items. 
 
-<FIG ID=JPRS-JST-019L-16C>      Figure 2. Example of Code Retrieval Operation </FIG>
+<FIG ID="JPRS-JST-019L-16C">      Figure 2. Example of Code Retrieval Operation </FIG>
 
 
   [Text]If the user doesn't know the specific code he needs, 
@@ -7868,7 +7869,7 @@ NESC: National Energy Software Center;
 
 -- I, NESC                                   (I) 
 
-BENDPAC, STRESS &amp; DEFLECTION IN PIPE     NESC0980 
+BENDPAC, STRESS  amp; DEFLECTION IN PIPE     NESC0980 
 BENDS, FLEXIBILITY ITY MATRICES 
 
 BUCKLE, TIME-DEP DEFORMATION OF 1-D OVAL     NESC0667 
@@ -7880,8 +7881,8 @@ BODIES BY FINITE ELEM METH
 COIFES, STRUC GRAPHICS FOR FINITE ELEM       NESC9994 
 METH USING HIDDEN LINE, TECHNIQ 
 
-CORTES, STEADY-STAFF &amp; TRANSIENT HEAT    NESC0759 
-FLOW &amp; STRESS ANAL IN PIPE JOIN 
+CORTES, STEADY-STAFF  amp; TRANSIENT HEAT    NESC0759 
+FLOW  amp; STRESS ANAL IN PIPE JOIN 
 
 CREEP-80, CREEP ANAL OF CONCRETE STRUC BY    NESC9958 
 FFM 
@@ -7898,37 +7899,37 @@ FOR CURVED PIPES WITH INTERNAL
 FLANGE-ORNL, FLANGED PIPE JOINT STRESS       NESC0689 
 ANAL, INTERNAL PRESS, MOMENT LOA 
 
-FUGUE-1 FUGUE2, STEADY-STATE TEMP &amp;      NESC0048 
+FUGUE-1 FUGUE2, STEADY-STATE TEMP  amp;      NESC0048 
 PRESS ANAL IN CLOSED CHANNELS 
 
 GAPCON-THERMAL-2, STEADY-STATE FUEL ROD      NESC0618 
-THERM BEHAV &amp; FP GAS RELEASE 
+THERM BEHAV  amp; FP GAS RELEASE 
 
 GAPCON-THERMAL3, FUEL ROD STEADY-STATE       NESC0770 
-&amp; TRANSIENT THERM BEHAV, STRESS 
+ amp; TRANSIENT THERM BEHAV, STRESS 
 
 GAZELLE-5, GAS COOLED FAST REACTOR CORE      NESC0232 
-DESIGN &amp; CORE PERFORMANCE 
+DESIGN  amp; CORE PERFORMANCE 
 
-GNATS, NONLIN STRESS ANAL OF 2-D &amp;       NESC0682 
+GNATS, NONLIN STRESS ANAL OF 2-D  amp;       NESC0682 
 AXISYM STATIC STRUC BY FINITE ELEM 
 
 GRFPAK, GRAPHICS FOR PIPE JOINT HEAT FLOW    NESC0760 
-&amp; STRESS ANAL PROG CORTES 
+ amp; STRESS ANAL PROG CORTES 
 
 HEMP, 2-D ELAST PLASTIC FLOW IN 2-D X-Y OR   NESC0775 
 CYL GEOM LAGRANGIAN MET 
 
-HONDO, TIME-DEP ELAST &amp; INELAST STRESS   NESC0672 
+HONDO, TIME-DEP ELAST  amp; INELAST STRESS   NESC0672 
 ANAL USING FFM 
 
 IMPAC-2, DYN IMPACT ANAL FOR 1-D NONLIN      NESC0715 
 SPRING SHIPPING CONTAINER MOD 
 
-INGRID, 3-D MESH GEN FOR PROG DYNA3D &amp;   NESC9649 
-NIKE3D &amp; FACET &amp; TOPAZ3D 
+INGRID, 3-D MESH GEN FOR PROG DYNA3D  amp;   NESC9649 
+NIKE3D  amp; FACET  amp; TOPAZ3D 
 
-LIFE-1, STRESS ANAL SWELLING &amp;           NESC0460 
+LIFE-1, STRESS ANAL SWELLING  amp;           NESC0460 
 PERFORMANCE OF CYL FUEL ELEM IN FAST R 
 
 LINDA, DIAGNOSTICS OF STRESS ANAL OF LIN     NESC0657 
@@ -7939,13 +7940,13 @@ ELAST STRUC BY LEAST SQU FIT
 LUGS, STRESS ANAL, FLEXIBILITY FACTORS FOR   NESC0648 
 RECTANGL ATTACHMENT ON THIS 
 
-NIKE2D, ANAL OF STATIC &amp; DYNAMIC         NESC9923 
+NIKE2D, ANAL OF STATIC  amp; DYNAMIC         NESC9923 
 RESPONSE OF 3-D SOLIDS 
 
-NIKE3D, STATIC &amp; DYNAMIC RESPONSE OF     NESC9725 
+NIKE3D, STATIC  amp; DYNAMIC RESPONSE OF     NESC9725 
 3-D SOLIDS 
 
-NONSAP-C, STATIC &amp; DYN LOADS OF 3-D      NESC0974 
+NONSAP-C, STATIC  amp; DYN LOADS OF 3-D      NESC0974 
 REINFORCED CONCRETE STRUC 
 
 NUBOW-2D/INEL, 2-D CORE RESTRAINT SYS        NESC0790 
@@ -7954,13 +7955,13 @@ STRESS ANAL, WITH BOWING, CREEP, S
 PRAISE-B, LWR PIPING GUILLOTINE BREAK        NESC9827 
 PROBABILITY BY M-C 
 
-PSA-2, STRESS ANAL, THERM EXPANSION &amp;    NESC0542 
+PSA-2, STRESS ANAL, THERM EXPANSION  amp;    NESC0542 
 LOADS IN MULTI ANCHOR PIPING SYS 
 
 QMESH-RENUM, QUADRILATERAL MESH GEN ON 2-D   NESC0612 
 BODIES FOR FINITE ELEM ANA 
 
-SAFE-2D, STRESS ANAL OF COMBINED PL &amp;    NESC0379 
+SAFE-2D, STRESS ANAL OF COMBINED PL  amp;    NESC0379 
 AXISYM STRUC BY FINITE ELEM MET 
 
 SAFE-3D, STRESS ANAL OF 3-D COMPOSITE        NESC0332 
@@ -7969,11 +7970,11 @@ STRUC BY FINITE ELEM METH
 SAFE-AXISYM, STRESS ANAL OF AXISYM           NESC0251 
 COMPOSITE STRUC BY FINITE ELEM MET 
 
-SAFE-CRACK, VISCOELASTIC ANAL OF PL &amp;    NESC0451 
+SAFE-CRACK, VISCOELASTIC ANAL OF PL  amp;    NESC0451 
 AXISYN CONCRETE SYS, FINITE ELEM 
 
 SAFE-CREEP, VISCOELASTIC ANAL OF CONCRETE    NESC0300 
-STRUC, AGE TEMP &amp; TEMP DEP C 
+STRUC, AGE TEMP  amp; TEMP DEP C 
 
 SAFE-PCRS, STRESS ANAL OF AXISYM COMPOSITE   NESC0250 
 STRUC BY FINITE ELEM METH 
@@ -8009,13 +8010,13 @@ analysis using a finite element method.''
 
 
 
-<FIG ID=JPRS-JST-019L-18A>      Figure 4. Example of Keyword Retrieval Operation </FIG>
+<FIG ID="JPRS-JST-019L-18A">      Figure 4. Example of Keyword Retrieval Operation </FIG>
 
 
   [Text] As shown in Figure 4, input command (e) specifies 
 ``stress 
 analysis'' (but ``stress 
-&lt;graphic&gt; &lt;/graphic&gt; 
+ lt;graphic gt;  lt;/graphic gt; 
 
   [Text]'' signifies a forward agreement search--the same 
 holds 
@@ -8083,7 +8084,7 @@ to the Development Operations Department, NDC at Tel:
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -8093,20 +8094,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    Social Applications of `SANTA' Database </H4>
 
-<F P=102> 94FE0122F Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122F Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 40-45 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122F </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122F </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Shiro Nagai and Kojiro Yamagishi] </F>
+<F P="106"> [Article by Shiro Nagai and Kojiro Yamagishi] </F>
   [Text] 
 <H5>  1. Introduction </H5>
   Advanced technology has played a central role in bringing 
@@ -8190,7 +8191,7 @@ technology (Figure 1 shows one of the pages that comprise the
 ``Technology Catalog.''), and is compiled with other similarly 
 configured pages to produce this technology-information catalog. 
 
-<FIG ID=JPRS-JST-019L-21A>      Figure 1. A Sample Page from the ``Technology </FIG>
+<FIG ID="JPRS-JST-019L-21A">      Figure 1. A Sample Page from the ``Technology </FIG>
 
 
    JAERI first began gathering together the data for producing 
@@ -8331,7 +8332,7 @@ number 8 will be displayed at the bottom of the screen,
 indicating that there are a total of eight data elements related 
 to ceramics contained in the database. 
 
-<FIG ID=JPRS-JST-019L-22A>      Figure 2. Retrieval System Input Example </FIG>
+<FIG ID="JPRS-JST-019L-22A">      Figure 2. Retrieval System Input Example </FIG>
 
 
 <H5>  (2) Attaching Conditions to Searches (Figure 3) </H5>
@@ -8344,7 +8345,7 @@ characters, the retrieval system searches for records related to
 both ``ceramics'' and ``fiber,'' and displays a ``1'' at the 
 bottom of the screen, indicating that one data element was found. 
 
-<FIG ID=JPRS-JST-019L-23A>      Figure 3. Retrieval System Input With Conditions </FIG>
+<FIG ID="JPRS-JST-019L-23A">      Figure 3. Retrieval System Input With Conditions </FIG>
 
 
 <H5>   (3) Outputting the Full Text of the Technical Information </H5>
@@ -8363,7 +8364,7 @@ the output. At this point, simply hit RETURN, and the full text
 of the record retrieved via the above operations will be output 
 and displayed on the screen. 
 
-<FIG ID=JPRS-JST-019L-24A>      Figure 4. Specifying Full Text Output </FIG>
+<FIG ID="JPRS-JST-019L-24A">      Figure 4. Specifying Full Text Output </FIG>
 
 
 <H5>  (4) Outputting Titles </H5>
@@ -8454,7 +8455,7 @@ technology applications, Planning Office, JAERI (Tel:
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -8464,20 +8465,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    `NICS' Information/Communication System </H4>
 
-<F P=102> 94FE0122G Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122G Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 46-49 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122G </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122G </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Kazuo Nakame, Tadayoshi Takeuchi, et al.] </F>
+<F P="106"> [Article by Kazuo Nakame, Tadayoshi Takeuchi, et al.] </F>
   [Text] The Nuclear Information Database/Communication 
 System (NICS) is an online network system for nuclear power 
 generation information operated by the Nuclear Information 
@@ -8500,7 +8501,7 @@ be accessed online via telecommunications lines from terminals
 installed at nuclear power plants and the main offices of 
 Japanese power companies. 
 
-<FIG ID=JPRS-JST-019L-25A>      Figure 1. NICS' Hardware Configuration </FIG>
+<FIG ID="JPRS-JST-019L-25A">      Figure 1. NICS' Hardware Configuration </FIG>
 
 
   This host computer system is jointly utilized by users 
@@ -8533,7 +8534,7 @@ data such as equipment/parts malfunction ratios, etc. In this
 article, we will discuss the two new NICS database retrieval 
 systems put into operation in April 1993, G-NICS and ANIKA. 
 
-<FIG ID=JPRS-JST-019L-25B>      Figure 2. NICS Database Configuration </FIG>
+<FIG ID="JPRS-JST-019L-25B">      Figure 2. NICS Database Configuration </FIG>
 
 
   Figure 3 shows the contents of the NICS database targeted by 
@@ -8543,7 +8544,7 @@ malfunctions at nuclear power plants inside and outside of
 Japan. The following are brief summaries of these various types 
 of databases. 
 
-<FIG ID=JPRS-JST-019L-25C>      Figure 3. Contents of NICS Database </FIG>
+<FIG ID="JPRS-JST-019L-25C">      Figure 3. Contents of NICS Database </FIG>
 
 
   Domestic Information: Four of the databases 
@@ -8573,7 +8574,7 @@ directly registered in the database via data collection
 terminals. 
 <H5>  1.3 Information Advanced Application Functions (G-NICS) </H5>
   The G-NICS retrieval system uses ordinary retrieval methods 
-to extract data via ``='', ``AND'' and ``OR'' operations. 
+to extract data via ``="''," ``AND'' and ``OR'' operations. 
 G-NICS' special characteristics are its ability, based on the 
 integrated nature of the database, to unify screen operations 
 and to make cross-section use of the various databases contained 
@@ -8677,7 +8678,7 @@ overseas information. And ANIKA can both display retrieved data
 on terminal screens as well as output it to facsimile machines. 
 Figure 5 provides an example of an ANIKA retrieval operation. 
 
-<FIG ID=JPRS-JST-019L-27A>      Figure 5. Example of ANIKA Retrieval Operation </FIG>
+<FIG ID="JPRS-JST-019L-27A">      Figure 5. Example of ANIKA Retrieval Operation </FIG>
 
 
   Right now, the NICS database system is using G-NICS as its 
@@ -8758,7 +8759,7 @@ guidance in the development of these retrieval systems.
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -8768,20 +8769,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    Data Freeway </H4>
 
-<F P=102> 94FE0122H Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122H Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 53-57 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122H </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122H </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Mitsutane Fujita, Hajime Nakajima, et al.] </F>
+<F P="106"> [Article by Mitsutane Fujita, Hajime Nakajima, et al.] </F>
   [Text] The construction of a materials database is 
 essential in order to efficiently develop and select nuclear 
 materials for use under irradiation and in environments ranging 
@@ -8839,7 +8840,7 @@ Institute (SRI) and the Japan Information Center of Science and
 Technology (JICST) without consciously being aware of where 
 (which of these organizations) the data is actually coming from. 
 
-<FIG ID=JPRS-JST-019L-29A>      Figure 1. Data Freeway Network </FIG>
+<FIG ID="JPRS-JST-019L-29A">      Figure 1. Data Freeway Network </FIG>
 
 
 <H5>  1.2 System Functions </H5>
@@ -8855,7 +8856,7 @@ keyboard input is held to the absolute minimum. This makes the
 Data Freeway system so easy to operate that even a novice can 
 use it with no problems. 
 
-<FIG ID=JPRS-JST-019L-29B>      Figure 2. System Overview </FIG>
+<FIG ID="JPRS-JST-019L-29B">      Figure 2. System Overview </FIG>
 
 
 <H5>  1.3 Database Overview </H5>
@@ -8875,7 +8876,7 @@ elements, included among which are the name of the raw materials
 manufacturers, irradiation dose, corrosion volume and impact 
 values. 
 
-<FIG ID=JPRS-JST-019L-30A>      Figure 3. Database Structure </FIG>
+<FIG ID="JPRS-JST-019L-30A">      Figure 3. Database Structure </FIG>
 
 
   The smallest unit or element in the basic data set is a 
@@ -8934,7 +8935,7 @@ operation carried out using this operation screen. These screens
 are examples of a retrieval operation that sought the results 
 (presence or absence of rupture, test load, time to rupture, 
 reduction in area, etc.) of creep tests conducted at 
-temperatures in excess of 1,000ëC on materials containing 
+temperatures in excess of 1,000ï¿½C on materials containing 
 the character string ``Inco'' in their name. The search results 
 display screen is equipped with functions for maintaining those 
 results in a file for processing and print out. 
@@ -9046,7 +9047,7 @@ reactors. Integrating all three organizations' data produced the
 graph labeled ``Irradiated Material'' in the bottom right corner 
 of Figure 5. 
 
-<FIG ID=JPRS-JST-019L-31A>      Figure 5. Broad Range of Material Characteristics Revealed </FIG>
+<FIG ID="JPRS-JST-019L-31A">      Figure 5. Broad Range of Material Characteristics Revealed </FIG>
 
   By integrating their respective data in this way, the three 
 Data Freeway developers were able to determine the elongation 
@@ -9140,7 +9141,7 @@ Y. Kurihara and S. Iwata: Journal of Nuclear Materials, Vol.
 <HEADER>
 <AU>   JPRS-JST-94-019L </AU>
 JPRS 
-Science &amp; Technology 
+Science  amp; Technology 
 
 </HEADER>
 
@@ -9150,20 +9151,20 @@ Science &amp; Technology
 <TEXT>
 System 
 <DATE1>  25 April 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nuclear Power Technology Database, Information Network System </TI></H3>
-<HT><F P=107><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nuclear Power Technology Database, Information Network System </PHRASE></F></HT>
 <H4>    Reactor Decommissioning Database </H4>
 
-<F P=102> 94FE0122I Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
+<F P="102"> 94FE0122I Tokyo GENSHIRYOKU KOGYO in Japanese Oct 93 pp 
 63-69 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94FE0122I </F>
-<F P=104>  Tokyo GENSHIRYOKU KOGYO </F>
-<F P=105>  Japanese </F>
+<F P="103"> 94FE0122I </F>
+<F P="104">  Tokyo GENSHIRYOKU KOGYO </F>
+<F P="105">  Japanese </F>
 CSO 
 
-<F P=106> [Article by Tetsuro Kon and Takashi Shimada] </F>
+<F P="106"> [Article by Tetsuro Kon and Takashi Shimada] </F>
   [Text] Thirty odd years have passed since Japan first 
 commenced developing its nuclear power capabilities, and the 
 Japan Power Demonstration Reactor (JPDR) operated by the Japan 
@@ -9201,7 +9202,7 @@ Information Database System is actually comprised of three
 sub-databases: a bibliographic information database, a general 
 information database and a technical information database. 
 
-<FIG ID=JPRS-JST-019L-32A>      Figure 1. Configuration of the General-purpose </FIG>
+<FIG ID="JPRS-JST-019L-32A">      Figure 1. Configuration of the General-purpose </FIG>
 
 
 <H5>  1.1 Special Characteristics of Each Database </H5>
@@ -9318,10 +9319,10 @@ pull-down menus. Figure 2 shows the overall system configuration
 for the Bibliographic Information Database, and Figure 3 shows 
 its functional configuration. 
 
-<FIG ID=JPRS-JST-019L-34A>      Figure 2. Overall Configuration of the Bibliographic </FIG>
+<FIG ID="JPRS-JST-019L-34A">      Figure 2. Overall Configuration of the Bibliographic </FIG>
 
 
-<FIG ID=JPRS-JST-019L-34B>      Figure 3. Functional Configuration of the Bibliographic </FIG>
+<FIG ID="JPRS-JST-019L-34B">      Figure 3. Functional Configuration of the Bibliographic </FIG>
 
 
 
@@ -9343,7 +9344,7 @@ numbers, titles (character search) and authors (character
 search) as search conditions. Free term searches are also 
 possible. 
 
-<FIG ID=JPRS-JST-019L-34C>      Figure 4. Principal Retrieval Items and the Retrieval </FIG>
+<FIG ID="JPRS-JST-019L-34C">      Figure 4. Principal Retrieval Items and the Retrieval </FIG>
 
 
    Tables 2 and 3 provide sample outputs of search results 
@@ -9371,7 +9372,7 @@ obtained from the Qualitative Technical Information Database.
 |                                      |structure to be dismantled, and the o-| 
 |                                      |rifice gas is ionized to produce a hi-| 
 |                                      |gh temperature state (10,000-12,000   | 
-|                                      |&deg;C), which is then used to melt a | 
+|                                      | deg;C), which is then used to melt a | 
 |                                      |portion of the structure to be dismant| 
 |                                      |mantled, and that melted portion is   | 
 |                                      |then removed via a plasma gas stream. | 
@@ -9523,15 +9524,15 @@ No.    Data     Technology        Object To Be Dismantled                       
                 (ECM)                                                                                                                stage          0.02        Low        0.02        Low 
                                                                                                                                                     cm/min                 cm/min 
 
-10     T3210    Gas               O        O        O         O       O            O         X         Good           Good           In use         &gt;  70 cm     Large      &gt;  35 cm     Medium 
+10     T3210    Gas               O        O        O         O       O            O         X         Good           Good           In use          gt;  70 cm     Large       gt;  35 cm     Medium 
                                                                                                                                                     5-40        Medium     2-4         Low 
                                                                                                                                                     cm/min                 cm/min 
 
-11     T3220    Powder gas        O        O        O         O       O            O                   Good           Good           Validation     &gt;  70 cm     Large                  Medium 
+11     T3220    Powder gas        O        O        O         O       O            O                   Good           Good           Validation      gt;  70 cm     Large                  Medium 
                                                                                                                                      stage          5-40        Medium 
                                                                                                                                                     cm/min 
 
-12     T3230    Oxygen lance      O        O        O         O       O            O         X         Good           Fairly good    Validation     &gt;  70 cm     Large      &gt;  35 cm     Medium 
+12     T3230    Oxygen lance      O        O        O         O       O            O         X         Good           Fairly good    Validation      gt;  70 cm     Large       gt;  35 cm     Medium 
                                                                                                                                      stage          5-40        Medium     2-4         Low 
                                                                                                                                                     cm/min                 cm/min 
 
@@ -9681,7 +9682,7 @@ configuration diagram of the RAIDA-MAC system.
 |                         |                         |em                       | 
 ------------------------------------------------------------------------------- 
 |Principal Configuration  |PC-98 AP (or 98 NOTE     |MAC Quadra 800, digitize-| 
-|Equipment                |&amp; I/O box), full-    |r board, scanner, digita-| 
+|Equipment                | amp; I/O box), full-    |r board, scanner, digita-| 
 |                         |color board, voice board,|l still camera, video ca-| 
 |                         |video board, scanner,    |mera, 8mm VTR, color pri-| 
 |                         |digital still camera,    |nter, scan converter     | 
@@ -9727,7 +9728,7 @@ configuration diagram of the RAIDA-MAC system.
 
 
 
-<FIG ID=JPRS-JST-019L-39B>      Figure 5. Block Diagram of Entire RAIDA-MAC System </FIG>
+<FIG ID="JPRS-JST-019L-39B">      Figure 5. Block Diagram of Entire RAIDA-MAC System </FIG>
 
 
   These systems take data in directly from the video cameras 
@@ -9829,29 +9830,29 @@ Information Database,'' Atomic Energy Society of Japan, March
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     23 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Germany Reiterates Policy Toward `Terrorists' </TI></H3>
-<HT><F P=107><PHRASE>    Germany Reiterates Policy Toward `Terrorists' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Germany Reiterates Policy Toward `Terrorists' </PHRASE></F></HT>
 
-<F P=102>   94AF0123D Algiers EL WATAN in French 23 Feb 94 pp 1, 
+<F P="102">   94AF0123D Algiers EL WATAN in French 23 Feb 94 pp 1, 
 2 </F>
 
-<F P=103> 94AF0123D </F>
-<F P=104>  Algiers EL WATAN </F>
-<F P=105>  French </F>
+<F P="103"> 94AF0123D </F>
+<F P="104">  Algiers EL WATAN </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Omar Berbiche: "Political Asylum in Germany: </F>
+<F P="106"> [Article by Omar Berbiche: "Political Asylum in Germany: </F>
 11,000 Applications From Algerian Citizens"--first two 
 paragraphs are EL WATAN introduction] 
   [Text] "Germany's position concerning the situation in 
@@ -9944,27 +9945,27 @@ the IMF "to find an acceptable solution to the crisis."
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     14 January 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Merbah's Assassin Slain; `Severe' Blow to Region </TI></H3>
-<HT><F P=107><PHRASE>    Merbah's Assassin Slain; `Severe' Blow to Region </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Merbah's Assassin Slain; `Severe' Blow to Region </PHRASE></F></HT>
 
-<F P=102>   94AF0123B Algiers EL WATAN in French 14 Jan 94 p 1 </F>
-<F P=103> 94AF0123B </F>
-<F P=104>  Algiers EL WATAN </F>
-<F P=105>  French </F>
+<F P="102">   94AF0123B Algiers EL WATAN in French 14 Jan 94 p 1 </F>
+<F P="103"> 94AF0123B </F>
+<F P="104">  Algiers EL WATAN </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Sofiane Bensalem: "One of Kasdi Merbah's </F>
+<F P="106"> [Article by Sofiane Bensalem: "One of Kasdi Merbah's </F>
 Assassins, Toufik Hattab, Was Killed Yesterday in 
 Benzerga"--first paragraph is EL WATAN introduction] 
   [Text] One of the leaders of the terrorist group operating 
@@ -10017,27 +10018,27 @@ leader is a serious blow to the local terrorist network.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     4 April 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Trial Exposes History, Evolution of GIA </TI></H3>
-<HT><F P=107><PHRASE>    Trial Exposes History, Evolution of GIA </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Trial Exposes History, Evolution of GIA </PHRASE></F></HT>
 
-<F P=102>   94AF0137B Algiers ALGERIE ACTUALITE in French 1-7 Mar 94 p 6 </F>
-<F P=103> 94AF0137B </F>
-<F P=104>  Algiers ALGERIE ACTUALITE </F>
-<F P=105>  French </F>
+<F P="102">   94AF0137B Algiers ALGERIE ACTUALITE in French 1-7 Mar 94 p 6 </F>
+<F P="103"> 94AF0137B </F>
+<F P="104">  Algiers ALGERIE ACTUALITE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Rachid Drif: "GIA (Armed Islamic Group), The </F>
+<F P="106"> [Article by Rachid Drif: "GIA (Armed Islamic Group), The </F>
 First Circle"] 
   [Text] The name Si-Ahmed Mourad, alias 
 "Djaafer El Afghani," appears for the first time in the airport 
@@ -10226,28 +10227,28 @@ murderous gangs.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     3 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Relationships Between Armed Groups </TI></H3>
-<HT><F P=107><PHRASE>    Relationships Between Armed Groups </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Relationships Between Armed Groups </PHRASE></F></HT>
 
 
 <TEXT>
 Discussed 
 
-<F P=102>   94AF0137A Algiers LIBERTE in French 3 Mar 94 p 2 </F>
-<F P=103> 94AF0137A </F>
-<F P=104>  Algiers LIBERTE </F>
-<F P=105>  French </F>
+<F P="102">   94AF0137A Algiers LIBERTE in French 3 Mar 94 p 2 </F>
+<F P="103"> 94AF0137A </F>
+<F P="104">  Algiers LIBERTE </F>
+<F P="105">  French </F>
 CSO 
 
-<F P=106> [Article by Yassine Lahcene: "Autopsy of the Armed Groups"] </F>
+<F P="106"> [Article by Yassine Lahcene: "Autopsy of the Armed Groups"] </F>
   [Text] Notwithstanding Anwar Haddam's indignation, whether 
 feigned or real, at the death of Djaafar El-Afghani, divergences 
 between the GIA [Armed Islamic Group] and FIS [Islamic Salvation 
@@ -10509,28 +10510,28 @@ cross the line into political fiction.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     23 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Goods Blocked at </TI></H3>
-<HT><F P=107><PHRASE>    Goods Blocked at </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Goods Blocked at </PHRASE></F></HT>
 
 
 <TEXT>
 Algiers   Port 
 
-<F P=102> 94AF0123A Algiers EL WATAN in French 23 Feb 94 p 4 </F>
-<F P=103> 94AF0123A </F>
-<F P=104>  Algiers EL WATAN </F>
-<F P=105>  French </F>
+<F P="102"> 94AF0123A Algiers EL WATAN in French 23 Feb 94 p 4 </F>
+<F P="103"> 94AF0123A </F>
+<F P="104">  Algiers EL WATAN </F>
+<F P="105">  French </F>
 CSO 
 
-<F P=106> [Article signed K.D.: "Port of Algiers: Unbearably </F>
+<F P="106"> [Article signed K.D.: "Port of Algiers: Unbearably </F>
 Congested"--first paragraph is EL WATAN introduction] 
   [Text] The authorities heard the alarm signal set off some 
 time ago, concerning the congestion of the Algiers quays. The 
@@ -10588,29 +10589,29 @@ take measures to do just that.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     27 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Increase in Crime, Sabotage Reported </TI></H3>
-<HT><F P=107><PHRASE>    Increase in Crime, Sabotage Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Increase in Crime, Sabotage Reported </PHRASE></F></HT>
 
-<F P=102>   94AF0123C Algiers EL WATAN in French 27 Feb 94 pp 1, 
+<F P="102">   94AF0123C Algiers EL WATAN in French 27 Feb 94 pp 1, 
 3 </F>
 
-<F P=103> 94AF0123C </F>
-<F P=104>  Algiers EL WATAN </F>
-<F P=105>  French </F>
+<F P="103"> 94AF0123C </F>
+<F P="104">  Algiers EL WATAN </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Sofiane Bensalem: "Schools and Public Buildings: </F>
+<F P="106"> [Article by Sofiane Bensalem: "Schools and Public Buildings: </F>
 Upsurge in Sabotage"--first two paragraphs are EL WATAN 
 introduction] 
   [Text] The first half of the month of Ramadan was 
@@ -10671,27 +10672,27 @@ essentially rejects criminals.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     17 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Absence of Political Activity Criticized </TI></H3>
-<HT><F P=107><PHRASE>    Absence of Political Activity Criticized </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Absence of Political Activity Criticized </PHRASE></F></HT>
 
-<F P=102>   94AF0116A Algiers EL WATAN in French 17 Feb 94 pp 1, 3 </F>
-<F P=103> 94AF0116A </F>
-<F P=104>  Algiers EL WATAN </F>
-<F P=105>  French </F>
+<F P="102">   94AF0116A Algiers EL WATAN in French 17 Feb 94 pp 1, 3 </F>
+<F P="103"> 94AF0116A </F>
+<F P="104">  Algiers EL WATAN </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Commentary by Cherif Ouazani: "Disturbing Political </F>
+<F P="106"> [Commentary by Cherif Ouazani: "Disturbing Political </F>
 Vacuum"; first paragraph is EL WATAN introduction] 
   [Text] The absence of the parties from the national 
 conference was abundantly commented on by observers, but their 
@@ -10810,29 +10811,29 @@ is a subject for a separate debate.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     21 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> TUNISIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> TUNISIA </F>
 <H3> <TI>   Statistics Show Drop in Poverty Rate </TI></H3>
-<HT><F P=107><PHRASE>    Statistics Show Drop in Poverty Rate </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Statistics Show Drop in Poverty Rate </PHRASE></F></HT>
 
-<F P=102>   94AF0126A Tunis LA PRESSE DE TUNISIE in French 21 Feb 
+<F P="102">   94AF0126A Tunis LA PRESSE DE TUNISIE in French 21 Feb 
 94 p 3 </F>
 
-<F P=103> 94AF0126A </F>
-<F P=104>  Tunis LA PRESSE DE TUNISIE </F>
-<F P=105>  French </F>
+<F P="103"> 94AF0126A </F>
+<F P="104">  Tunis LA PRESSE DE TUNISIE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Foued Allani: "Social Development: Marked </F>
+<F P="106"> [Article by Foued Allani: "Social Development: Marked </F>
 Retreat of Poverty"--first paragraph is LA PRESSE DE TUNISIE 
 introduction] 
   [Text] 
@@ -10954,29 +10955,29 @@ in coastal areas."
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     21 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> TUNISIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> TUNISIA </F>
 <H3> <TI>   Recommendations for State Family Aid Program </TI></H3>
-<HT><F P=107><PHRASE>    Recommendations for State Family Aid Program </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Recommendations for State Family Aid Program </PHRASE></F></HT>
 
-<F P=102>   94AF0126B Tunis LA PRESSE DE TUNISIE in French 21 Feb 
+<F P="102">   94AF0126B Tunis LA PRESSE DE TUNISIE in French 21 Feb 
 94 p 3 </F>
 
-<F P=103> 94AF0126B </F>
-<F P=104>  Tunis LA PRESSE DE TUNISIE </F>
-<F P=105>  French </F>
+<F P="103"> 94AF0126B </F>
+<F P="104">  Tunis LA PRESSE DE TUNISIE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Foued Allani: "Aid to Needy Families: A Program </F>
+<F P="106"> [Article by Foued Allani: "Aid to Needy Families: A Program </F>
 Deserving Support"] 
   [Text] Covering 101,000 families since 1992, the National 
 Program of Aid to Needy Families (PNAFN) has distributed an 
@@ -11046,29 +11047,29 @@ be used by the various participants."
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     21 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> TUNISIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> TUNISIA </F>
 <H3> <TI>   Bizerte Crop Statistics Reported </TI></H3>
-<HT><F P=107><PHRASE>    Bizerte Crop Statistics Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bizerte Crop Statistics Reported </PHRASE></F></HT>
 
-<F P=102>   94AF0126C Tunis LA PRESSE DE TUNISIE in French 21 Feb 
+<F P="102">   94AF0126C Tunis LA PRESSE DE TUNISIE in French 21 Feb 
 94 p 5 </F>
 
-<F P=103> 94AF0126C </F>
-<F P=104>  Tunis LA PRESSE DE TUNISIE </F>
-<F P=105>  French </F>
+<F P="103"> 94AF0126C </F>
+<F P="104">  Tunis LA PRESSE DE TUNISIE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article signed S.A.M.: "Bizerte Development; Agriculture: </F>
+<F P="106"> [Article signed S.A.M.: "Bizerte Development; Agriculture: </F>
 Deficits and Records"--first two paragraphs are LA PRESSE DE 
 TUNISIE introduction] 
   [Text] Since early last fall, all weather data pointed to a 
@@ -11198,29 +11199,29 @@ covering our land?
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     21 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> TUNISIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> TUNISIA </F>
 <H3> <TI>   Bizerte Regional Council Announces Budget </TI></H3>
-<HT><F P=107><PHRASE>    Bizerte Regional Council Announces Budget </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bizerte Regional Council Announces Budget </PHRASE></F></HT>
 
-<F P=102>   94AF0126D Tunis LA PRESSE DE TUNISIE in French 21 Feb 
+<F P="102">   94AF0126D Tunis LA PRESSE DE TUNISIE in French 21 Feb 
 94 p 6 </F>
 
-<F P=103> 94AF0126D </F>
-<F P=104>  Tunis LA PRESSE DE TUNISIE </F>
-<F P=105>  French </F>
+<F P="103"> 94AF0126D </F>
+<F P="104">  Tunis LA PRESSE DE TUNISIE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed article: "Meeting of the Bizerte Governorage </F>
+<F P="106"> [Unattributed article: "Meeting of the Bizerte Governorage </F>
 Regional Council: Solutions to Several Social Problems"] 
   [Text] The Bizerte governorate regional council held its 
 first meeting of 1994 last Saturday; the meeting was chaired by 
@@ -11280,23 +11281,23 @@ applications.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     31 December 1993 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> REPUBLIC OF YEMEN </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> REPUBLIC OF YEMEN </F>
 <H3> <TI>   Despite Optimism, Possibility of Civil War Rises </TI></H3>
-<HT><F P=107><PHRASE>    Despite Optimism, Possibility of Civil War Rises </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Despite Optimism, Possibility of Civil War Rises </PHRASE></F></HT>
 
-<F P=102>   94AE0086B Paris AL-WATAN AL-'ARABI in Arabic 31 Dec 93 pp 
+<F P="102">   94AE0086B Paris AL-WATAN AL-'ARABI in Arabic 31 Dec 93 pp 
 27-29 </F>
 
-<F P=103> 94AE0086B </F>
-<F P=104>  Paris AL-WATAN AL-'ARABI </F>
-<F P=105>  Arabic </F>
+<F P="103"> 94AE0086B </F>
+<F P="104">  Paris AL-WATAN AL-'ARABI </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -11632,27 +11633,27 @@ fought by the people of this single country.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     5 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> REPUBLIC OF YEMEN </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> REPUBLIC OF YEMEN </F>
 <H3> <TI>   Petroleum Discoveries Do Not Meet Expectations </TI></H3>
-<HT><F P=107><PHRASE>    Petroleum Discoveries Do Not Meet Expectations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Petroleum Discoveries Do Not Meet Expectations </PHRASE></F></HT>
 
-<F P=102>   94AE0086A London AL-HAYAH in Arabic 5 Feb 94 p 9 </F>
-<F P=103> 94AE0086A </F>
-<F P=104>  London AL-HAYAH </F>
-<F P=105>  Arabic </F>
+<F P="102">   94AE0086A London AL-HAYAH in Arabic 5 Feb 94 p 9 </F>
+<F P="103"> 94AE0086A </F>
+<F P="104">  London AL-HAYAH </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Eric Watkins: "Diminished Quantities of Oil </F>
+<F P="106"> [Article by Eric Watkins: "Diminished Quantities of Oil </F>
 Discoveries in Yemen"] 
   [Text] Bernard Essotier, president of the Canadian 
 Occidental Petroleum Company, remains optimistic vis-a-vis the 
@@ -11736,21 +11737,21 @@ Government, which stipulate participation in production.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     14 February 1994 </DATE1>
-<F P=100> SOUTH ASIA </F>
-<F P=101> IRAN </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> IRAN </F>
 <H3> <TI>   Kohkiluyeh Province Mines Underutilized </TI></H3>
-<HT><F P=107><PHRASE>    Kohkiluyeh Province Mines Underutilized </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Kohkiluyeh Province Mines Underutilized </PHRASE></F></HT>
 
-<F P=102>   94LA0103E Tehran JAHAN-E ESLAM in Persian 14 Feb 94 p 5 </F>
-<F P=103> 94LA0103E </F>
-<F P=104>  Tehran JAHAN-E ESLAM </F>
-<F P=105>  Persian </F>
+<F P="102">   94LA0103E Tehran JAHAN-E ESLAM in Persian 14 Feb 94 p 5 </F>
+<F P="103"> 94LA0103E </F>
+<F P="104">  Tehran JAHAN-E ESLAM </F>
+<F P="105">  Persian </F>
 
 
 <TEXT>
@@ -11817,21 +11818,21 @@ export purposes.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     10 February 1994 </DATE1>
-<F P=100> SOUTH ASIA </F>
-<F P=101> IRAN </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> IRAN </F>
 <H3> <TI>   Iran Insurance Company's Activities Detailed </TI></H3>
-<HT><F P=107><PHRASE>    Iran Insurance Company's Activities Detailed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Iran Insurance Company's Activities Detailed </PHRASE></F></HT>
 
-<F P=102>   94LA0103G Tehran JAHAN-E ESLAM in Persian 10 Feb 94 p 2 </F>
-<F P=103> 94LA0103G </F>
-<F P=104>  Tehran JAHAN-E ESLAM </F>
-<F P=105>  Persian </F>
+<F P="102">   94LA0103G Tehran JAHAN-E ESLAM in Persian 10 Feb 94 p 2 </F>
+<F P="103"> 94LA0103G </F>
+<F P="104">  Tehran JAHAN-E ESLAM </F>
+<F P="105">  Persian </F>
 
 
 <TEXT>
@@ -11906,21 +11907,21 @@ compared to the same period the previous year.
 <HEADER>
 <AU>   JPRS-NEA-94-017 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     14 February 1994 </DATE1>
-<F P=100> SOUTH ASIA </F>
-<F P=101> IRAN </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> IRAN </F>
 <H3> <TI>   Increase in Mining Activities Reported </TI></H3>
-<HT><F P=107><PHRASE>    Increase in Mining Activities Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Increase in Mining Activities Reported </PHRASE></F></HT>
 
-<F P=102>   94LA0103D Tehran JAHAN-E ESLAM in Persian 14 Feb 94 p 5 </F>
-<F P=103> 94LA0103D </F>
-<F P=104>  Tehran JAHAN-E ESLAM </F>
-<F P=105>  Persian </F>
+<F P="102">   94LA0103D Tehran JAHAN-E ESLAM in Persian 14 Feb 94 p 5 </F>
+<F P="103"> 94LA0103D </F>
+<F P="104">  Tehran JAHAN-E ESLAM </F>
+<F P="105">  Persian </F>
 
 
 <TEXT>
@@ -11989,27 +11990,27 @@ order to activate the nation's potential abilities.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     11 April 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Twenty Percent Said Living Below Poverty Line </TI></H3>
-<HT><F P=107><PHRASE>    Twenty Percent Said Living Below Poverty Line </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Twenty Percent Said Living Below Poverty Line </PHRASE></F></HT>
 
-<F P=102>   94AF0135A Algiers EL WATAN in French 25-26 Feb 94 p 7 </F>
-<F P=103> 94AF0135A </F>
-<F P=104>  Algiers EL WATAN </F>
-<F P=105>  French </F>
+<F P="102">   94AF0135A Algiers EL WATAN in French 25-26 Feb 94 p 7 </F>
+<F P="103"> 94AF0135A </F>
+<F P="104">  Algiers EL WATAN </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unatrributed article: "One Maghrebian Out of Five Lives in </F>
+<F P="106"> [Unatrributed article: "One Maghrebian Out of Five Lives in </F>
 Poverty"] 
   [Text] Not everyone has benefited from the food policies 
 established in the Maghreb 30 years ago. A sizable minority of 
@@ -12114,27 +12115,27 @@ environment of recession and budgetary restrictions.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     11 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   'Abbas Zaki on PLO Decline </TI></H3>
-<HT><F P=107><PHRASE>    'Abbas Zaki on PLO Decline </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    'Abbas Zaki on PLO Decline </PHRASE></F></HT>
 
-<F P=102>   94AF0138A Doha AL-SHARQ in Arabic 11 Mar 94 p 6 </F>
-<F P=103> 94AF0138A </F>
-<F P=104>  Doha AL-SHARQ </F>
-<F P=105>  Arabic </F>
+<F P="102">   94AF0138A Doha AL-SHARQ in Arabic 11 Mar 94 p 6 </F>
+<F P="103"> 94AF0138A </F>
+<F P="104">  Doha AL-SHARQ </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with 'Abbas Zaki, Fatah Central Committee member, </F>
+<F P="106"> [Interview with 'Abbas Zaki, Fatah Central Committee member, </F>
 in Amman; date not given: "'Arafat Responsible for Decline of 
 PLO"--first paragraph is AL-SHARQ introduction] 
   [Text] Amman (AL-SHARQ special)--A prominent Fatah Central 
@@ -12421,27 +12422,27 @@ victory is near. It is revolution until victory.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     9 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   Officials on Arms Possession </TI></H3>
-<HT><F P=107><PHRASE>    Officials on Arms Possession </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials on Arms Possession </PHRASE></F></HT>
 
-<F P=102>   94AF0132A London AL-SHARQ AL-AWSAT in Arabic 9 Mar 94 p 8 </F>
-<F P=103> 94AF0132A </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
-<F P=105>  Arabic </F>
+<F P="102">   94AF0132A London AL-SHARQ AL-AWSAT in Arabic 9 Mar 94 p 8 </F>
+<F P="103"> 94AF0132A </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview of Palestinian officials, Ilyas Frayj, Muhammad </F>
+<F P="106"> [Interview of Palestinian officials, Ilyas Frayj, Muhammad </F>
 al-Nazal, Ghassan al-Khatib, Muhammad Ghunaym, Dawud al-Tilhami, 
 Dr. 'Awwad M. 'Awwad, Dr. Fathi al-Shaqaqi, Zuhayr al-Rayyis, 
 Wahid al-Hamdulillah, and 'Azmi al-Shu'aybi; place and date not 
@@ -12923,27 +12924,27 @@ just the system of autonomy.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     24 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ALGIERS </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ALGIERS </F>
 <H3> <TI>   Protestors, Strikers Reject Dialogue With Islamists </TI></H3>
-<HT><F P=107><PHRASE>    Protestors, Strikers Reject Dialogue With Islamists </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Protestors, Strikers Reject Dialogue With Islamists </PHRASE></F></HT>
 
-<F P=102>   94AF0134A Paris LE MONDE in French 24 Mar 94 pp 1, 4 </F>
-<F P=103> 94AF0134A </F>
-<F P=104>  Paris LE MONDE </F>
-<F P=105>  French </F>
+<F P="102">   94AF0134A Paris LE MONDE in French 24 Mar 94 pp 1, 4 </F>
+<F P="103"> 94AF0134A </F>
+<F P="104">  Paris LE MONDE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by C.S.: "Two Frenchmen Assassinated in Algiers </F>
+<F P="106"> [Article by C.S.: "Two Frenchmen Assassinated in Algiers </F>
 After Protestors Demonstrate Against Islamists"] 
   [Text] Algerian authorities announced on Wednesday, 23 
 March, that two Frenchmen, Roger-Michel Drouaier and his son 
@@ -13049,27 +13050,27 @@ Frenchwoman.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     21 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Weapons Factory Catering to Extremists Uncovered </TI></H3>
-<HT><F P=107><PHRASE>    Weapons Factory Catering to Extremists Uncovered </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Weapons Factory Catering to Extremists Uncovered </PHRASE></F></HT>
 
-<F P=102>   94P50120Z Cairo AL-AHRAR in Arabic 21 Mar 94 p 1 </F>
-<F P=103> 94P50120Z </F>
-<F P=104>  Cairo AL-AHRAR </F>
-<F P=105>  Arabic </F>
+<F P="102">   94P50120Z Cairo AL-AHRAR in Arabic 21 Mar 94 p 1 </F>
+<F P="103"> 94P50120Z </F>
+<F P="104">  Cairo AL-AHRAR </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed article: "Private Sector Weapons Factory in </F>
+<F P="106"> [Unattributed article: "Private Sector Weapons Factory in </F>
 Sawhaj; Extremists Steadily Obtain the Products To Commit 
 Terrorist Operations"] 
   [Excerpt] Security forces have uncovered a factory, owned 
@@ -13105,28 +13106,28 @@ attack by terrorists. [passage omitted]
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     17 January 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Building World Market Competitiveness </TI></H3>
-<HT><F P=107><PHRASE>    Building World Market Competitiveness </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Building World Market Competitiveness </PHRASE></F></HT>
 <H4>    Ways To Improve Manufacturing Industry </H4>
 
-<F P=102> 94LD0009A Cairo MAYU in Arabic 17 Jan 94 p 6 </F>
-<F P=103> 94LD0009A </F>
-<F P=104>  Cairo MAYU </F>
-<F P=105>  Arabic </F>
+<F P="102"> 94LD0009A Cairo MAYU in Arabic 17 Jan 94 p 6 </F>
+<F P="103"> 94LD0009A </F>
+<F P="104">  Cairo MAYU </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Mustafa al-Basyuni: "Profiting From Science and </F>
+<F P="106"> [Article by Mustafa al-Basyuni: "Profiting From Science and </F>
 Technology"] 
   [Text] National industry needs more effort and input. It is 
 waiting for factories to be modernized and developed and for an 
@@ -13267,28 +13268,28 @@ Egyptian products will be exported to these countries.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     17 January 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Building World Market Competitiveness </TI></H3>
-<HT><F P=107><PHRASE>    Building World Market Competitiveness </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Building World Market Competitiveness </PHRASE></F></HT>
 <H4>    Skilled Labor Void, Other Production Limits Cited </H4>
 
-<F P=102> 94LD0009B Cairo MAYU in Arabic 17 Jan 94 pp 6, 7 </F>
-<F P=103> 94LD0009B </F>
-<F P=104>  Cairo MAYU </F>
-<F P=105>  Arabic </F>
+<F P="102"> 94LD0009B Cairo MAYU in Arabic 17 Jan 94 pp 6, 7 </F>
+<F P="103"> 94LD0009B </F>
+<F P="104">  Cairo MAYU </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Basim Rashad and Abu-Khanjar 'Abd al-Hamid: </F>
+<F P="106"> [Article by Basim Rashad and Abu-Khanjar 'Abd al-Hamid: </F>
 "Problems of Small Industries"] 
   [Text] Despite all the government's efforts to encourage a 
 climate of investment and production, many large and small 
@@ -13455,28 +13456,28 @@ factories."
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     17 January 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Building World Market Competitiveness </TI></H3>
-<HT><F P=107><PHRASE>    Building World Market Competitiveness </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Building World Market Competitiveness </PHRASE></F></HT>
 <H4>    Controls Demanded To Offset Import Competition </H4>
 
-<F P=102> 94LD0009C Cairo MAYU in Arabic 17 Jan 94 p 7 </F>
-<F P=103> 94LD0009C </F>
-<F P=104>  Cairo MAYU </F>
-<F P=105>  Arabic </F>
+<F P="102"> 94LD0009C Cairo MAYU in Arabic 17 Jan 94 p 7 </F>
+<F P="103"> 94LD0009C </F>
+<F P="104">  Cairo MAYU </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Mustafa al-Basyuni and 'Adil 'Abd-al-Karim: </F>
+<F P="106"> [Article by Mustafa al-Basyuni and 'Adil 'Abd-al-Karim: </F>
 "Open Importation Greatest Danger"] 
   [Text] Businessmen stated that opening wide the door to 
 importation without controls greatly threatens Egyptian industry. 
@@ -13653,29 +13654,29 @@ duties.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     12 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> IRAQ </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> IRAQ </F>
 <H3> <TI>   Plight of Iraqis in Jordan Described </TI></H3>
-<HT><F P=107><PHRASE>    Plight of Iraqis in Jordan Described </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Plight of Iraqis in Jordan Described </PHRASE></F></HT>
 
-<F P=102>   94LH0028A London AL-SHARQ AL-AWSAT in Arabic 12 Feb 94 
+<F P="102">   94LH0028A London AL-SHARQ AL-AWSAT in Arabic 12 Feb 94 
 p 13 </F>
 
-<F P=103> 94LH0028A </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
-<F P=105>  Arabic </F>
+<F P="103"> 94LH0028A </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Fahd al-Tayyash] </F>
+<F P="106"> [Article by Fahd al-Tayyash] </F>
   [Text] For many Iraqis, the journey to the unknown starts 
 as soon as they leave the Iraqi border points. The most 
 important of these border points is that of the Jordanian 
@@ -13752,7 +13753,7 @@ cadres? How much time is needed to prepare new cadres? This loss
 impacts the whole Arab Nation, not just Iraq. This loss is 
 further magnified if the number of other scientific 
 specializations is added to specializations already indicated. 
-<3>  Iraqis in Amman 
+   Iraqis in Amman 
   Many Iraqis congregate in the al-Husayn Mosque Square in the 
 heart of the Jordanian capital, Amman. I was filled with sorrow 
 as I reached this square. Many questions came to my mind. All 
@@ -13835,7 +13836,7 @@ or get in touch with them, or for receiving money transfers that
 would help them deal with the hectic circumstances of their 
 lives. 
 
-</3>
+ 
 
 </TEXT>
 
@@ -13849,27 +13850,27 @@ lives.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     16 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Egyptian Anti-Semitic Press Attacks After Hebron </TI></H3>
-<HT><F P=107><PHRASE>    Egyptian Anti-Semitic Press Attacks After Hebron </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Egyptian Anti-Semitic Press Attacks After Hebron </PHRASE></F></HT>
 
-<F P=102>   94AA0054C Tel Aviv HA'ARETZ in Hebrew 16 Mar 94 p B2 </F>
-<F P=103> 94AA0054C </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
-<F P=105>  Hebrew </F>
+<F P="102">   94AA0054C Tel Aviv HA'ARETZ in Hebrew 16 Mar 94 p B2 </F>
+<F P="103"> 94AA0054C </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
+<F P="105">  Hebrew </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Gai Bekhor: "And on Page 3, the Jewish Devil"; </F>
+<F P="106"> [Article by Gai Bekhor: "And on Page 3, the Jewish Devil"; </F>
 first paragraph is HA'ARETZ introduction] 
   [Text] The Egyptian Government has apparently been allowing 
 the press to publish poisonous criticism of Israel, to provide a 
@@ -13974,27 +13975,27 @@ his words were headlined in the newspapers of Egypt.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     16 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   IDF Said To Favor Settlers in Territories </TI></H3>
-<HT><F P=107><PHRASE>    IDF Said To Favor Settlers in Territories </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IDF Said To Favor Settlers in Territories </PHRASE></F></HT>
 
-<F P=102>   94AA0054B Tel Aviv HA'ARETZ in Hebrew 16 Mar 94 p B1 </F>
-<F P=103> 94AA0054B </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
-<F P=105>  Hebrew </F>
+<F P="102">   94AA0054B Tel Aviv HA'ARETZ in Hebrew 16 Mar 94 p B1 </F>
+<F P="103"> 94AA0054B </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
+<F P="105">  Hebrew </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Dani Rubinstein: "The Masters of the West Bank </F>
+<F P="106"> [Article by Dani Rubinstein: "The Masters of the West Bank </F>
 and Gaza"] 
   [Text] ] The government is going to have trouble taking any 
 kind of action against the extremist minority among the settlers 
@@ -14092,28 +14093,28 @@ the peace process have not changed this reality at all.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     11 March 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   IMF </TI></H3>
-<HT><F P=107><PHRASE>    IMF </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IMF </PHRASE></F></HT>
 
 
 <TEXT>
 Economic   Report Criticized 
 
-<F P=102> 94AA0054A Tel Aviv HA'ARETZ in Hebrew 11 Mar 94 p B1 </F>
-<F P=103> 94AA0054A </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
-<F P=105>  Hebrew </F>
+<F P="102"> 94AA0054A Tel Aviv HA'ARETZ in Hebrew 11 Mar 94 p B1 </F>
+<F P="103"> 94AA0054A </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
+<F P="105">  Hebrew </F>
 CSO 
 
-<F P=106> [Article by Nehemiyah Stresler; first paragraph is HA'ARETZ </F>
+<F P="106"> [Article by Nehemiyah Stresler; first paragraph is HA'ARETZ </F>
 introduction] 
   [Text] A superficial and superfluous report. 
 The members of the IMF mission, who recently published their 
@@ -14233,28 +14234,28 @@ someone has told us how well we are doing.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     20 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> SUDAN </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> SUDAN </F>
 <H3> <TI>   Background on Al-Turabi Attack </TI></H3>
-<HT><F P=107><PHRASE>    Background on Al-Turabi Attack </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Background on Al-Turabi Attack </PHRASE></F></HT>
 <H4>    Details of Canada Trip </H4>
 
-<F P=102> 94LD0017A London AL-MAJALLAH in Arabic 20 Feb 94 pp 46-49 </F>
-<F P=103> 94LD0017A </F>
-<F P=104>  London AL-MAJALLAH </F>
-<F P=105>  Arabic </F>
+<F P="102"> 94LD0017A London AL-MAJALLAH in Arabic 20 Feb 94 pp 46-49 </F>
+<F P="103"> 94LD0017A </F>
+<F P="104">  London AL-MAJALLAH </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Part 3 of 3-part article by 'Uthman Mirghani: "Who Leaked </F>
+<F P="106"> [Part 3 of 3-part article by 'Uthman Mirghani: "Who Leaked </F>
 Details of Itinerary of Al-Turabi's Visit to Canada?"] 
   [Text] Ironically, Canada, where the general secretary of 
 Sudan's National Islamic Front (NIF), Dr. Hasan al-Turabi, was 
@@ -14543,28 +14544,28 @@ services.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     20 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> SUDAN </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> SUDAN </F>
 <H3> <TI>   Background on Al-Turabi Attack </TI></H3>
-<HT><F P=107><PHRASE>    Background on Al-Turabi Attack </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Background on Al-Turabi Attack </PHRASE></F></HT>
 <H4>    Plans To Talk About Commerce </H4>
 
-<F P=102> 94LD0017B London AL-MAJALLAH in Arabic 20 Feb 94 p 48 </F>
-<F P=103> 94LD0017B </F>
-<F P=104>  London AL-MAJALLAH </F>
-<F P=105>  Arabic </F>
+<F P="102"> 94LD0017B London AL-MAJALLAH in Arabic 20 Feb 94 p 48 </F>
+<F P="103"> 94LD0017B </F>
+<F P="104">  London AL-MAJALLAH </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Don Blankarn (name as transliterated), </F>
+<F P="106"> [Interview with Don Blankarn (name as transliterated), </F>
 Canadian member of Parliament; place and date not given: "We 
 Were Going To Discuss Investments and Deals in Canada With 
 Him"--first two paragraphs are AL-MAJALLAH introduction] 
@@ -14641,28 +14642,28 @@ ensure that he got it.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     20 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> SUDAN </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> SUDAN </F>
 <H3> <TI>   Background on Al-Turabi Attack </TI></H3>
-<HT><F P=107><PHRASE>    Background on Al-Turabi Attack </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Background on Al-Turabi Attack </PHRASE></F></HT>
 <H4>    Canadian Official on Visit </H4>
 
-<F P=102> 94LD0017C London AL-MAJALLAH in Arabic 20 Feb 94 p 49 </F>
-<F P=103> 94LD0017C </F>
-<F P=104>  London AL-MAJALLAH </F>
-<F P=105>  Arabic </F>
+<F P="102"> 94LD0017C London AL-MAJALLAH in Arabic 20 Feb 94 p 49 </F>
+<F P="103"> 94LD0017C </F>
+<F P="104">  London AL-MAJALLAH </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Yves Gagnon, Canadian Foreign Ministry </F>
+<F P="106"> [Interview with Yves Gagnon, Canadian Foreign Ministry </F>
 spokesman; place and date not given: "We Did Not Send Al-Turabi 
 an Invitation To Visit Our Country"--first paragraph is 
 AL-MAJALLAH introduction] 
@@ -14719,27 +14720,27 @@ matters, or other things.
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     6 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> SUDAN </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> SUDAN </F>
 <H3> <TI>   Details of Attack on Al-Turabi </TI></H3>
-<HT><F P=107><PHRASE>    Details of Attack on Al-Turabi </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Details of Attack on Al-Turabi </PHRASE></F></HT>
 
-<F P=102>   94LD0016Z London AL-MAJALLAH in Arabic 6 Feb 94 pp 20-25 </F>
-<F P=103> 94LD0016Z </F>
-<F P=104>  London AL-MAJALLAH </F>
-<F P=105>  Arabic </F>
+<F P="102">   94LD0016Z London AL-MAJALLAH in Arabic 6 Feb 94 pp 20-25 </F>
+<F P="103"> 94LD0016Z </F>
+<F P="104">  London AL-MAJALLAH </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Part one of three-part article by 'Uthman Mirghani: "First </F>
+<F P="106"> [Part one of three-part article by 'Uthman Mirghani: "First </F>
 Pictures of Al-Turabi in Canadian Hospital After Attack on Him"] 
   [Text] On 3 December last year, the trial of the 
 37-year-old Sudanese citizen Hashim Badr-al-Din ended in Canada. 
@@ -15176,29 +15177,29 @@ demon."
 <HEADER>
 <AU>   JPRS-NEA-94-018 </AU>
 JPRS 
-Near East &amp; South Asia 
+Near East  amp; South Asia 
 
 </HEADER>
 
 <ABS> </ABS>
 <DATE1>     22 February 1994 </DATE1>
-<F P=100> NEAR EAST </F>
-<F P=101> TUNISIA </F>
+<F P="100"> NEAR EAST </F>
+<F P="101"> TUNISIA </F>
 <H3> <TI>   Regional Statistics for Development Fund Reported </TI></H3>
-<HT><F P=107><PHRASE>    Regional Statistics for Development Fund Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Regional Statistics for Development Fund Reported </PHRASE></F></HT>
 
-<F P=102>   94AF0127 Tunis LA PRESSE DE TUNISIE in French 22 Feb 
+<F P="102">   94AF0127 Tunis LA PRESSE DE TUNISIE in French 22 Feb 
 94 p 5 </F>
 
-<F P=103> 94AF0127 </F>
-<F P=104>  Tunis LA PRESSE DE TUNISIE </F>
-<F P=105>  French </F>
+<F P="103"> 94AF0127 </F>
+<F P="104">  Tunis LA PRESSE DE TUNISIE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article signed N.O.: "The FNS-2626 (National Solidarity </F>
+<F P="106"> [Article signed N.O.: "The FNS-2626 (National Solidarity </F>
 Fund) Program for 1994; 151,000 Recipients, 142 Towns, and 302 
 Projects"--first paragraph is LA PRESSE DE TUNISIE introduction] 
   [Text] "The sustained rate at which the first 1993 
@@ -15466,3 +15467,4 @@ Total              5         6          10         29         151      201
 
 </DOC>
 
+</root>

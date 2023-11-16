@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS3-12978 </DOCNO>
@@ -11,19 +12,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   Party Official Demands Salih's Resignation </TI></H3>
-<F P=102>  JN0503103894 Kuwait AL-WATAN in Arabic 22 Feb 94 p 23 </F>
-<F P=103> JN0503103894 </F>
-<F P=104>  Kuwait AL-WATAN </F>
+<F P="102">  JN0503103894 Kuwait AL-WATAN in Arabic 22 Feb 94 p 23 </F>
+<F P="103"> JN0503103894 </F>
+<F P="104">  Kuwait AL-WATAN </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Dr. Sultan al-Shu'aybi, assistant secretary </F>
+<F P="106"> [Interview with Dr. Sultan al-Shu'aybi, assistant secretary </F>
 general of the Yemeni Liberation Front Party, by Fathi al-Daw in 
 Asmara--date not given] 
   [Excerpts] [Al-Daw] Let us start with the latest in the 
@@ -226,17 +227,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Emissaries Return After Meeting With 'Arafat </TI></H3>
-<F P=102>  TA0703160594 Jerusalem Qol Yisra'el in Hebrew 1500 GMT 7 Mar 
+<F P="102">  TA0703160594 Jerusalem Qol Yisra'el in Hebrew 1500 GMT 7 Mar 
 94 </F>
 
-<F P=103> TA0703160594 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0703160594 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Two Israeli emissaries returned home from Cairo 
@@ -280,17 +281,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   `Sources' Optimistic Over 'Arafat's Remarks </TI></H3>
-<F P=102>  TA0803053194 Jerusalem Qol Yisra'el in English 0500 GMT 8 
+<F P="102">  TA0803053194 Jerusalem Qol Yisra'el in English 0500 GMT 8 
 Mar 94 </F>
 
-<F P=103> TA0803053194 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803053194 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Political sources in Jerusalem say the conditions 
@@ -322,20 +323,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Diplomatic Sources on Four-Point Peace Compromise </TI></H3>
-<F P=102>  TA0403181994 Tel Aviv 'AL HAMISHMAR in Hebrew 4 Mar 94 pp 1, 
+<F P="102">  TA0403181994 Tel Aviv 'AL HAMISHMAR in Hebrew 4 Mar 94 pp 1, 
 6 </F>
 
-<F P=103> TA0403181994 </F>
-<F P=104>  Tel Aviv 'AL HAMISHMAR </F>
+<F P="103"> TA0403181994 </F>
+<F P="104">  Tel Aviv 'AL HAMISHMAR </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by Pinhas 'Inbari, Pe'erli Shahar, Aharon Klein, and </F>
+<F P="106"> [Report by Pinhas 'Inbari, Pe'erli Shahar, Aharon Klein, and </F>
 Natan Gutman in Washington] 
   [Excerpt] Diplomatic sources in Israel reported that 
 international elements are trying to work out a four-point 
@@ -368,17 +369,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Beilin Says Agreement Only Way To End Bloodshed </TI></H3>
-<F P=102>  LD0403153794 Bern Swiss Radio International in English 1100 
+<F P="102">  LD0403153794 Bern Swiss Radio International in English 1100 
 GMT 4 Mar 94 </F>
 
-<F P=103> LD0403153794 </F>
-<F P=104>  Bern Swiss Radio International </F>
+<F P="103"> LD0403153794 </F>
+<F P="104">  Bern Swiss Radio International </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] [Unidentified correspondent] Israel's deputy foreign 
@@ -471,18 +472,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Beilin `Confident' About Future of Peace Talks </TI></H3>
-<F P=102>  BR0803160394 Rome L'UNITA in Italian 8 Mar 94 p 17 </F>
-<F P=103> BR0803160394 </F>
-<F P=104>  Rome L'UNITA </F>
+<F P="102">  BR0803160394 Rome L'UNITA in Italian 8 Mar 94 p 17 </F>
+<F P="103"> BR0803160394 </F>
+<F P="104">  Rome L'UNITA </F>
 
 
 <TEXT>
-Language: <F P=105> Italian </F>
+Language: <F P="105"> Italian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Deputy Foreign Minister Yosi Beilin by </F>
+<F P="106"> [Interview with Deputy Foreign Minister Yosi Beilin by </F>
 Umberto De Giovannangeli in Jerusalem; date not given: "A Rapid 
 Israeli Withdrawal -- Only in This Way Can We Save Peace" -- 
 first paragraph is L'UNITA introduction] 
@@ -599,17 +600,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Knesset Member Katz Receives Letter From 'Arafat </TI></H3>
-<F P=102>  NC0403112694 Jerusalem Qol Yisra'el in Hebrew 1000 GMT 4 Mar 
+<F P="102">  NC0403112694 Jerusalem Qol Yisra'el in Hebrew 1000 GMT 4 Mar 
 94 </F>
 
-<F P=103> NC0403112694 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> NC0403112694 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Knesset Member Yosi Katz today received a letter 
@@ -639,17 +640,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Labor Says Meretz Inclusion `Vital' for Talks </TI></H3>
-<F P=102>  TA0703160294 Jerusalem Qol Yisra'el in Hebrew 1400 GMT 7 Mar 
+<F P="102">  TA0703160294 Jerusalem Qol Yisra'el in Hebrew 1400 GMT 7 Mar 
 94 </F>
 
-<F P=103> TA0703160294 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0703160294 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] The Labor bureau and caucus decided that the 
@@ -718,17 +719,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Commission of Inquiry on Massacre Begins Work </TI></H3>
-<F P=102>  TA0803071694 Jerusalem Qol Yisra'el in Hebrew 0505 GMT 8 Mar 
+<F P="102">  TA0803071694 Jerusalem Qol Yisra'el in Hebrew 0505 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803071694 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803071694 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] The state commission of inquiry into the Hebron 
@@ -814,17 +815,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Minister Recommends Extended Closure of Strip </TI></H3>
-<F P=102>  TA0803110094 Jerusalem Qol Yisra'el in Hebrew 1000 GMT 8 Mar 
+<F P="102">  TA0803110094 Jerusalem Qol Yisra'el in Hebrew 1000 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803110094 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803110094 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Police Minister Moshe Shahal said there was no 
@@ -853,17 +854,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Party Files No-Confidence Motion on Evacuation </TI></H3>
-<F P=102>  TA0703174194 Jerusalem Qol Yisra'el in English 1600 GMT 7 
+<F P="102">  TA0703174194 Jerusalem Qol Yisra'el in English 1600 GMT 7 
 Mar 94 </F>
 
-<F P=103> TA0703174194 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0703174194 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The National Religious Party has decided to present 
@@ -888,17 +889,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Demonstrations Held in Tel Aviv; Al-Tibi Comments </TI></H3>
-<F P=102>  TA0603061294 Jerusalem Qol Yisra'el in English 0500 GMT 6 
+<F P="102">  TA0603061294 Jerusalem Qol Yisra'el in English 0500 GMT 6 
 Mar 94 </F>
 
-<F P=103> TA0603061294 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0603061294 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Excerpts] Some 25,000 people demonstrated at Malkhey 
@@ -954,20 +955,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Jordanian Minister Welcomes Cooperation With Israel </TI></H3>
-<F P=102>  JN0703142794 Jerusalem Qol Yisra'el in Arabic 1030 GMT 7 Mar 
+<F P="102">  JN0703142794 Jerusalem Qol Yisra'el in Arabic 1030 GMT 7 Mar 
 94 </F>
 
-<F P=103> JN0703142794 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> JN0703142794 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Shafiq Mansur, from the "With the Midday Events" </F>
+<F P="106"> [Report by Shafiq Mansur, from the "With the Midday Events" </F>
 program] 
   [Excerpt] In a surprise visit to the Israeli pavilion at 
 the International Tourism Fair in Berlin, Germany, Jordanian 
@@ -1003,17 +1004,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Russia's Ivanov Meets Rabin, Views Peace Talks </TI></H3>
-<F P=102>  LD0303120394 Jerusalem Qol Yisra'el in English 1100 GMT 3 
+<F P="102">  LD0303120394 Jerusalem Qol Yisra'el in English 1100 GMT 3 
 Mar 94 </F>
 
-<F P=103> LD0303120394 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> LD0303120394 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Russian Deputy Foreign Minister Yegor Ivanov says 
@@ -1057,17 +1058,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Latvian Premier on Wide Cooperation With Tel Aviv </TI></H3>
-<F P=102>  LD0303191594 Riga Radio Riga Network in Latvian 1400 GMT 3 
+<F P="102">  LD0303191594 Riga Radio Riga Network in Latvian 1400 GMT 3 
 Mar 94 </F>
 
-<F P=103> LD0303191594 </F>
-<F P=104>  Riga Radio Riga Network </F>
+<F P="103"> LD0303191594 </F>
+<F P="104">  Riga Radio Riga Network </F>
 
 
 <TEXT>
-Language: <F P=105> Latvian </F>
+Language: <F P="105"> Latvian </F>
 Article Type:BFN 
 
   [Text] As reported earlier in the bulletin, a press 
@@ -1129,17 +1130,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Islamic Jihad Cell Uncovered in North </TI></H3>
-<F P=102>  TA0403152794 Jerusalem Qol Yisra'el in Hebrew 1400 GMT 4 Mar 
+<F P="102">  TA0403152794 Jerusalem Qol Yisra'el in Hebrew 1400 GMT 4 Mar 
 94 </F>
 
-<F P=103> TA0403152794 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0403152794 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] An Islamic Jihad cell, which tried to obtain 
@@ -1168,18 +1169,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   `Betrayal' Seen in Demand for Hebron Evacuation </TI></H3>
-<F P=102>  TA0703124394 Tel Aviv HATZOFE in Hebrew 7 Mar 94 p 2 </F>
-<F P=103> TA0703124394 </F>
-<F P=104>  Tel Aviv HATZOFE </F>
+<F P="102">  TA0703124394 Tel Aviv HATZOFE in Hebrew 7 Mar 94 p 2 </F>
+<F P="103"> TA0703124394 </F>
+<F P="104">  Tel Aviv HATZOFE </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Instigation and Incipient Betrayal"] </F>
+<F P="106"> [Editorial: "Instigation and Incipient Betrayal"] </F>
   [Text] A group of ministers -- some say they represent a 
 majority of Rabin's government -- has launched an inflammatory 
 campaign against the Jewish settlers in the heart of Hebron and 
@@ -1253,18 +1254,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   No Reason for Jewish Presence in Hebron Seen </TI></H3>
-<F P=102>  TA0703130994 Tel Aviv HA'ARETZ in Hebrew 7 Mar 94 p B1 </F>
-<F P=103> TA0703130994 </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
+<F P="102">  TA0703130994 Tel Aviv HA'ARETZ in Hebrew 7 Mar 94 p B1 </F>
+<F P="103"> TA0703130994 </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Hebron Evacuation on the Agenda"] </F>
+<F P="106"> [Editorial: "Hebron Evacuation on the Agenda"] </F>
   [Text] In yesterday's cabinet meeting, many ministers 
 proclaimed their support for the evacuation of the Hebron 
 settlers, but a cabinet resolution, which is needed in principle 
@@ -1346,18 +1347,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Commentary Urges Evacuating Jews From Hebron </TI></H3>
-<F P=102>  TA0803155094 Tel Aviv HA'ARETZ in Hebrew 8 Mar 94 p B1 </F>
-<F P=103> TA0803155094 </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
+<F P="102">  TA0803155094 Tel Aviv HA'ARETZ in Hebrew 8 Mar 94 p B1 </F>
+<F P="103"> TA0803155094 </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Ze'ev Schiff: "On the Path to Conflict"] </F>
+<F P="106"> [Commentary by Ze'ev Schiff: "On the Path to Conflict"] </F>
   [Text] The confrontation, or perhaps even battle, with the 
 settlers in Hebron is only a question of time. It will either 
 come now or in another few months. The question is whether the 
@@ -1474,18 +1475,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Commentary Views Situation Since Hebron Attack </TI></H3>
-<F P=102>  TA0403151894 Tel Aviv HA'ARETZ in Hebrew 4 Mar 94 p B1 </F>
-<F P=103> TA0403151894 </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
+<F P="102">  TA0403151894 Tel Aviv HA'ARETZ in Hebrew 4 Mar 94 p B1 </F>
+<F P="103"> TA0403151894 </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Yo'el Marcus: "Five Comments on the </F>
+<F P="106"> [Commentary by Yo'el Marcus: "Five Comments on the </F>
 Situation"] 
   [Text] 
 <H5>  1. Is Only Their Blood Sacred? </H5>
@@ -1643,18 +1644,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Commentary: U.S. Leaning Toward Israel Harms Peace </TI></H3>
-<F P=102>  TA0703175394 Tel Aviv HA'ARETZ in Hebrew 7 Mar 94 p B1 </F>
-<F P=103> TA0703175394 </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
+<F P="102">  TA0703175394 Tel Aviv HA'ARETZ in Hebrew 7 Mar 94 p B1 </F>
+<F P="103"> TA0703175394 </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by 'Aqiva Eldar: "Turn the Pyramid Upside Down"] </F>
+<F P="106"> [Commentary by 'Aqiva Eldar: "Turn the Pyramid Upside Down"] </F>
   [Text] Washington -- Since the signing ceremony at the 
 White House, Israeli and U.S. politicians have tried to paint 
 this temporary and partial agreement in peace colors. This 
@@ -1752,15 +1753,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   U.S. `Change of Heart' on Direct Talks Assessed </TI></H3>
-<F P=102>  LD0803100294 Tehran IRNA in English 0805 GMT 8 Mar 94 </F>
-<F P=103> LD0803100294 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0803100294 Tehran IRNA in English 0805 GMT 8 Mar 94 </F>
+<F P="103"> LD0803100294 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 8, IRNA -- A morning English daily 
@@ -1805,15 +1806,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   `Major' Concessions Required </TI></H3>
-<F P=102>  NC0803115494 Paris AFP in English 1111 GMT 8 Mar 94 </F>
-<F P=103> NC0803115494 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC0803115494 Paris AFP in English 1111 GMT 8 Mar 94 </F>
+<F P="103"> NC0803115494 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 8 (AFP)--A normalisation of US-Iranian 
@@ -1876,17 +1877,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Commentary Notes U.S. Dual Policy in Palestine </TI></H3>
-<F P=102>  LD0703201994 Tehran Voice of the Islamic Republic of Iran in 
+<F P="102">  LD0703201994 Tehran Voice of the Islamic Republic of Iran in 
 English 1930 GMT 7 Mar 94 </F>
 
-<F P=103> LD0703201994 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran </F>
+<F P="103"> LD0703201994 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] On 6 March Yasir 'Arafat, leader of the Palestine 
@@ -1947,15 +1948,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   President, PRC's Envoy To Resist `Foreign Influence' </TI></H3>
-<F P=102>  NC0503164594 Paris AFP in English 1224 GMT 5 Mar 94 </F>
-<F P=103> NC0503164594 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC0503164594 Paris AFP in English 1224 GMT 5 Mar 94 </F>
+<F P="103"> NC0503164594 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 5 (AFP)--Iranian President 'Ali Akbar 
@@ -2037,18 +2038,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   PRC Envoy's Visit, Regional Cooperation Viewed </TI></H3>
-<F P=102>  NC0703095794 Tehran ABRAR in Persian 1 Mar 94 p 11 </F>
-<F P=103> NC0703095794 </F>
-<F P=104>  Tehran ABRAR </F>
+<F P="102">  NC0703095794 Tehran ABRAR in Persian 1 Mar 94 p 11 </F>
+<F P="103"> NC0703095794 </F>
+<F P="104">  Tehran ABRAR </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Ruzbeh Bu ol-Hari: "The PRC-Iran-India Axis </F>
+<F P="106"> [Commentary by Ruzbeh Bu ol-Hari: "The PRC-Iran-India Axis </F>
 To Counteract U.S. Policies"] 
   [Text] PRC Foreign Minister Qian Qichen will arrive in Iran 
 after his Asian trip. His visit to Iran is within the framework 
@@ -2127,19 +2128,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Russia's Adamishin, Velayati Discuss Ties, Tajik Conflict </TI></H3>
-<F P=102>  LD0603172994 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  LD0603172994 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 1630 GMT 6 Mar 94 </F>
 
-<F P=103> LD0603172994 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> LD0603172994 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] In a meeting today between Foreign Minister Velayati 
@@ -2188,15 +2189,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Both Sides To Cooperate in Conflict </TI></H3>
-<F P=102>  LD0603113294 Tehran IRNA in English 1045 GMT 6 Mar 94 </F>
-<F P=103> LD0603113294 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0603113294 Tehran IRNA in English 1045 GMT 6 Mar 94 </F>
+<F P="103"> LD0603113294 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March, 6, IRNA -- Iran and Russia here 
@@ -2235,19 +2236,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Russian Envoy Comments </TI></H3>
-<F P=102>  LD0503184994 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  LD0503184994 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 1630 GMT 5 Mar 94 </F>
 
-<F P=103> LD0503184994 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> LD0503184994 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] During a meeting in Tehran today with Mr. Mahmud 
@@ -2285,19 +2286,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Opposition Urges Democracy </TI></H3>
-<F P=102>  LD0603172194 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  LD0603172194 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 1630 GMT 6 Mar 94 </F>
 
-<F P=103> LD0603172194 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> LD0603172194 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] Within the framework of national reconciliation plan 
@@ -2335,19 +2336,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   President Addresses Diplomatic Graduates </TI></H3>
-<F P=102>  LD0803111494 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  LD0803111494 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 1030 GMT 8 Mar 94 </F>
 
-<F P=103> LD0803111494 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> LD0803111494 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] President Hashemi-Rafsanjani, addressing graduates 
@@ -2393,15 +2394,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Velayati Phones Pakistani Counterpart on Hebron Incident </TI></H3>
-<F P=102>  LD0803103594 Tehran IRNA in English 1024 GMT 8 Mar 94 </F>
-<F P=103> LD0803103594 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0803103594 Tehran IRNA in English 1024 GMT 8 Mar 94 </F>
+<F P="103"> LD0803103594 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 8, IRNA -- Foreign Minister 'Ali Akbar 
@@ -2437,11 +2438,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Hebron Killing Viewed in Jerusalem Day Feature </TI></H3>
-<F P=102>  NC0603095594 </F>
-<F P=103> NC0603095594 </F>
-<F P=104></F>
+<F P="102">  NC0603095594 </F>
+<F P="103"> NC0603095594 </F>
+<F P="104"></F>
 
 
 
@@ -2582,18 +2583,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Palestinian Officials Discuss Hebron Incident </TI></H3>
-<F P=102>  NC0703132094 Tehran KEYHAN in Persian 28 Feb 94 p 18 </F>
-<F P=103> NC0703132094 </F>
-<F P=104>  Tehran KEYHAN </F>
+<F P="102">  NC0703132094 Tehran KEYHAN in Persian 28 Feb 94 p 18 </F>
+<F P="103"> NC0703132094 </F>
+<F P="104">  Tehran KEYHAN </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
-<F P=106> [Report on "exclusive" interviews with Dr. Fathi al-Shiqaqi, </F>
+<F P="106"> [Report on "exclusive" interviews with Dr. Fathi al-Shiqaqi, </F>
 secretary general of the Islamic Jihad in Palestine, and Nayif 
 Hawatimah, secretary general of the Democratic Front for the 
 Liberation of Palestine, by an unidentified KEYHAN correspondent 
@@ -2736,20 +2737,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   NATO Accused of Diverting Attention From Hebron </TI></H3>
-<F P=102>  NC0703132394 Tehran JOMHURI-YE ESLAMI in Persian 1 Mar 94 pp 
+<F P="102">  NC0703132394 Tehran JOMHURI-YE ESLAMI in Persian 1 Mar 94 pp 
 1, 15 </F>
 
-<F P=103> NC0703132394 </F>
-<F P=104>  Tehran JOMHURI-YE ESLAMI </F>
+<F P="103"> NC0703132394 </F>
+<F P="104">  Tehran JOMHURI-YE ESLAMI </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Cover for the al-Khalil Debacle"] </F>
+<F P="106"> [Editorial: "Cover for the al-Khalil Debacle"] </F>
   [Text] In the name of God, the compassionate, the merciful. 
   The United States has embarked on an action in 
 Bosnia-Herzegovina calculated to divert world public opinion 
@@ -2871,20 +2872,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Commentary Views Cooperation With India, China </TI></H3>
-<F P=102>  LD0603203594 Tehran Voice of the Islamic Republic of Iran in 
+<F P="102">  LD0603203594 Tehran Voice of the Islamic Republic of Iran in 
 English 1930 GMT 6 Mar 94 </F>
 
-<F P=103> LD0603203594 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran </F>
+<F P="103"> LD0603203594 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed commentary] </F>
+<F P="106"> [Unattributed commentary] </F>
   [Text] Close to the end of the visit to Tehran by China's 
 foreign minister and vice premier, Qian Qichen, Mr. Dinesh 
 Singh, India's external affairs minister, arrived in the Iranian 
@@ -2951,15 +2952,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   * New Appointment Announced </TI></H3>
-<F P=102>  94LA0098F Tehran SALAM in Persian 9 Feb 94 p 2 </F>
-<F P=103> 94LA0098F </F>
-<F P=104>  Tehran SALAM </F>
+<F P="102">  94LA0098F Tehran SALAM in Persian 9 Feb 94 p 2 </F>
+<F P="103"> 94LA0098F </F>
+<F P="104">  Tehran SALAM </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Text] In a decree issued by Mr. 'Abdolmahmud Zarrabi, the 
@@ -2982,17 +2983,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Indian Envoy on `Dangerous' Pakistani Resolution </TI></H3>
-<F P=102>  BK0503110494 Delhi All India Radio Network in English 0830 
+<F P="102">  BK0503110494 Delhi All India Radio Network in English 0830 
 GMT 5 Mar 94 </F>
 
-<F P=103> BK0503110494 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK0503110494 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] In a historic decision, the UN Human Rights 
@@ -3041,21 +3042,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Interviewed on Peace Talks, Hebron Attack </TI></H3>
 <H4>   Accuses Rabin of Delaying Implementation </H4>
-<F P=102> AU0703160194 Hamburg DER SPIEGEL in German 7 Mar 94 pp 
+<F P="102"> AU0703160194 Hamburg DER SPIEGEL in German 7 Mar 94 pp 
 136-141 </F>
 
-<F P=103> AU0703160194 </F>
-<F P=104>  Hamburg DER SPIEGEL </F>
+<F P="103"> AU0703160194 </F>
+<F P="104">  Hamburg DER SPIEGEL </F>
 
 
 <TEXT>
-Language: <F P=105> German </F>
+Language: <F P="105"> German </F>
 Article Type:BFN 
 
-<F P=106> [Interview with PLO Chairman Yasir 'Arafat by Olaf Ihlau and </F>
+<F P="106"> [Interview with PLO Chairman Yasir 'Arafat by Olaf Ihlau and </F>
 Volkhard Windfuhr in Tunis; date not given] 
   [Text] [DER SPIEGEL] Mr. Chairman, the massacre in Hebron 
 is a disaster for the peace process in the Middle East. Will 
@@ -3342,11 +3343,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Islamic Affairs </F>
+<F P="100"> Islamic Affairs </F>
 <H3> <TI>   Political Islam Review: AL-SHA'B 1 Mar </TI></H3>
-<F P=102>  NC0703120094 </F>
-<F P=103> NC0703120094 </F>
-<F P=104></F>
+<F P="102">  NC0703120094 </F>
+<F P="103"> NC0703120094 </F>
+<F P="104"></F>
 
 
 
@@ -3526,18 +3527,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Sudan </F>
+<F P="100"> Sudan </F>
 <H3> <TI>   Opposition Plans To `Topple' al-Bashir Regime Detailed </TI></H3>
-<F P=102>  NC0503095394 Beirut AL-SAFIR in Arabic 23 Feb 94 pp 1, 14 </F>
-<F P=103> NC0503095394 </F>
-<F P=104>  Beirut AL-SAFIR </F>
+<F P="102">  NC0503095394 Beirut AL-SAFIR in Arabic 23 Feb 94 pp 1, 14 </F>
+<F P="103"> NC0503095394 </F>
+<F P="104">  Beirut AL-SAFIR </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Hanadi Salman] </F>
+<F P="106"> [By Hanadi Salman] </F>
   [Text] Sudanese opposition sources have revealed that there 
 is a plan to topple Lieutenant General 'Umar Hasan al-Bashir's 
 regime. It primarily presupposes the establishment of safe areas 
@@ -3803,18 +3804,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   European Union Delegation in Damascus for Talks </TI></H3>
 <H4>   Paper Comments on Talks </H4>
-<F P=102> JN0703085194 Damascus Syrian Arab Republic Radio Network in 
+<F P="102"> JN0703085194 Damascus Syrian Arab Republic Radio Network in 
 Arabic 0545 GMT 7 Mar 94 </F>
 
-<F P=103> JN0703085194 </F>
-<F P=104>  Damascus Syrian Arab Republic Radio Network </F>
+<F P="103"> JN0703085194 </F>
+<F P="104">  Damascus Syrian Arab Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] TISHRIN comments on the visit of the European Unity 
@@ -3861,15 +3862,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Troop Movements Near Kurdish Territory Reported </TI></H3>
-<F P=102>  PM0803100594 London AL-SHARQ AL-AWSAT in Arabic 5 Mar 94 p4 </F>
-<F P=103> PM0803100594 </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
+<F P="102">  PM0803100594 London AL-SHARQ AL-AWSAT in Arabic 5 Mar 94 p4 </F>
+<F P="103"> PM0803100594 </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] London, AL-SHARQ AL-AWSAT -- The Iraqi opposition 
@@ -3957,15 +3958,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
+<F P="100"> ARABIAN PENINSULA </F>
 <H3> <TI>   GCC Oil Ministers Begin Meeting in Jeddah </TI></H3>
-<F P=102>  LD0503212394 Kuwait KUNA in Arabic 2040 GMT 5 Mar 94 </F>
-<F P=103> LD0503212394 </F>
-<F P=104>  Kuwait KUNA </F>
+<F P="102">  LD0503212394 Kuwait KUNA in Arabic 2040 GMT 5 Mar 94 </F>
+<F P="103"> LD0503212394 </F>
+<F P="104">  Kuwait KUNA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] Jeddah, 5 Mar -- The oil ministers of the GCC 
@@ -4003,19 +4004,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   IDF: No Reserve Duty for Settlers on Detention </TI></H3>
-<F P=102>  TA0503194794 Jerusalem Israel Television Channel 1 Network 
+<F P="102">  TA0503194794 Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1900 GMT 5 Mar 94 </F>
 
-<F P=103> TA0503194794 </F>
-<F P=104>  Jerusalem Israel Television Channel 1 Network 
+<F P="103"> TA0503194794 </F>
+<F P="104">  Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1900 GMT 5 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Hebrew </F>
+Language: <F P="105">Hebrew </F>
 Article Type:BFN 
 
   [Text] The IDF [Israel Defense Forces] has decided that 
@@ -4050,15 +4051,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Mubarak's Claim of Involvement in Attempt on Sidqi Denied </TI></H3>
-<F P=102>  LD0803123594 Tehran IRNA in English 1221 GMT 8 Mar 94 </F>
-<F P=103> LD0803123594 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0803123594 Tehran IRNA in English 1221 GMT 8 Mar 94 </F>
+<F P="103"> LD0803123594 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March, 8, IRNA -- The Foreign Ministry 
@@ -4093,18 +4094,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Security Forces Reportedly Attack Protestors </TI></H3>
-<F P=102>  PM0803114794 London AL-HAYAH in Arabic 8 Mar 94 p 1 </F>
-<F P=103> PM0803114794 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102">  PM0803114794 London AL-HAYAH in Arabic 8 Mar 94 p 1 </F>
+<F P="103"> PM0803114794 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Safa Ha'eri: "Wounded and `Scores Of Arrests' </F>
+<F P="106"> [Report by Safa Ha'eri: "Wounded and `Scores Of Arrests' </F>
 After Demonstration in Tehran"] 
   [Text] Paris -- Eyewitnesses contacted from Paris have said 
 that the day before yesterday Iranian security forces attacked a 
@@ -4155,19 +4156,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARAB AFRICA </F>
-<F P=101> Algeria </F>
+<F P="100"> ARAB AFRICA </F>
+<F P="101"> Algeria </F>
 <H3> <TI>   `Most Violent Fundamentalist' New GIA Chief </TI></H3>
-<F P=102>  BR0903113794 Paris LE FIGARO in French 9 Mar 94 p 4 </F>
-<F P=103> BR0903113794 </F>
-<F P=104>  Paris LE FIGARO </F>
+<F P="102">  BR0903113794 Paris LE FIGARO in French 9 Mar 94 p 4 </F>
+<F P="103"> BR0903113794 </F>
+<F P="104">  Paris LE FIGARO </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed report: "New GIA Chief"] </F>
+<F P="106"> [Unattributed report: "New GIA Chief"] </F>
   [Text] Sayah Attia has become the new chief of the Armed 
 Islamic Group (GIA), replacing Mourad Si-Ahmed, who was killed 
 by Algerian security forces in Algiers in February. Sayah 
@@ -4192,16 +4193,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARAB AFRICA </F>
-<F P=101> Algeria </F>
+<F P="100"> ARAB AFRICA </F>
+<F P="101"> Algeria </F>
 <H3> <TI>   New Presidency Appointments; Further Amnesty Possible </TI></H3>
-<F P=102>  PM0803114394 London AL-HAYAH in Arabic 8 Mar 94 p 4 </F>
-<F P=103> PM0803114394 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102">  PM0803114394 London AL-HAYAH in Arabic 8 Mar 94 p 4 </F>
+<F P="103"> PM0803114394 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] ALgiers, AL-HAYAH -- AL-HAYAH has learned that 
@@ -4239,15 +4240,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Sudan </F>
+<F P="100"> Sudan </F>
 <H3> <TI>   Government, Rebel Talks Set for 17 Mar in Nairobi </TI></H3>
-<F P=102>  EA0803204594 Khartoum SUNA in Arabic 1630 GMT 8 Mar 94 </F>
-<F P=103> EA0803204594 </F>
-<F P=104>  Khartoum SUNA </F>
+<F P="102">  EA0803204594 Khartoum SUNA in Arabic 1630 GMT 8 Mar 94 </F>
+<F P="103"> EA0803204594 </F>
+<F P="104">  Khartoum SUNA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] Nairobi 8 Mar (SUNA) -- The Intergovernmental 
@@ -4273,20 +4274,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Sudan </F>
+<F P="100"> Sudan </F>
 <H3> <TI>   SPLM Plans To Hold First `National' Conference </TI></H3>
-<F P=102>  PM0803172594 London AL-SHARQ AL-AWSAT in Arabic 8 Mar 94 pp 
+<F P="102">  PM0803172594 London AL-SHARQ AL-AWSAT in Arabic 8 Mar 94 pp 
 1, 4 </F>
 
-<F P=103> PM0803172594 </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
+<F P="103"> PM0803172594 </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by 'Uthman Mirghani: "Garang Movement To Hold Its </F>
+<F P="106"> [Report by 'Uthman Mirghani: "Garang Movement To Hold Its </F>
 First General Conference in Southern Sudan"] 
   [Excerpt] London -- The Garang movement yesterday 
 confirmed that it will hold its first national conference next 
@@ -4318,17 +4319,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Sudan </F>
+<F P="100"> Sudan </F>
 <H3> <TI>   Returnees Say Rebels Receiving Western Support </TI></H3>
-<F P=102>  EA0803200394 Omdurman Republic of Sudan Radio Network in 
+<F P="102">  EA0803200394 Omdurman Republic of Sudan Radio Network in 
 Arabic 2245 GMT 8 Mar 94 </F>
 
-<F P=103> EA0803200394 </F>
-<F P=104>  Omdurman Republic of Sudan Radio Network </F>
+<F P="103"> EA0803200394 </F>
+<F P="104">  Omdurman Republic of Sudan Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Returnees from the rebel movement from Nubah 
@@ -4357,21 +4358,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Ministry Drafts Plan for Removal of Citizens From Hebron </TI></H3>
-<F P=102>  TA0603105394 Jerusalem THE JERUSALEM POST in English 6 Mar 
+<F P="102">  TA0603105394 Jerusalem THE JERUSALEM POST in English 6 Mar 
 94 p 2 </F>
 
-<F P=103> TA0603105394 </F>
-<F P=104>  Jerusalem THE JERUSALEM POST </F>
+<F P="103"> TA0603105394 </F>
+<F P="104">  Jerusalem THE JERUSALEM POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Steve Rodan] </F>
+<F P="106"> [Report by Steve Rodan] </F>
   [Excerpt] The Justice Ministry has drafted a plan for the 
 removal of all Jews from Hebron, THE JERUSALEM POST has learned, 
 but it remains far from certain that the cabinet is ready to 
@@ -4422,21 +4423,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Officers Review Hebron Events at Inquiry Testimony </TI></H3>
-<F P=102>  TA0903114994 Jerusalem THE JERUSALEM POST in English 9 Mar 
+<F P="102">  TA0903114994 Jerusalem THE JERUSALEM POST in English 9 Mar 
 94 p 1--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> TA0903114994 </F>
-<F P=104>  Jerusalem THE JERUSALEM POST </F>
+<F P="103"> TA0903114994 </F>
+<F P="104">  Jerusalem THE JERUSALEM POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Evelyn Gordon] </F>
+<F P="106"> [Report by Evelyn Gordon] </F>
   [Excerpt] Had planned security measures been properly 
 implemented, the Hebron massacre could probably have been 
 prevented, Acting OC Central Command Maj.-Gen. Dani Yatom told 
@@ -4525,21 +4526,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Israeli General Offers Details of Hebron `Conspiracy' </TI></H3>
-<F P=102>  BR0403153794 Turin LA STAMPA in Italian 4 Mar 94 p7--FOR 
+<F P="102">  BR0403153794 Turin LA STAMPA in Italian 4 Mar 94 p7--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR0403153794 </F>
-<F P=104>  Turin LA STAMPA </F>
+<F P="103"> BR0403153794 </F>
+<F P="104">  Turin LA STAMPA </F>
 
 
 <TEXT>
-Language: <F P=105> Italian </F>
+Language: <F P="105"> Italian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Matti Peled, Israeli Army General, by Mimmo </F>
+<F P="106"> [Interview with Matti Peled, Israeli Army General, by Mimmo </F>
 Candito in Moza Illit; date not given: "`Hebron? 'Arafat Is 
 Right, the Massacre was a Conspiracy'" -- first paragraph is LA 
 STAMPA introduction] 
@@ -4703,21 +4704,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   `Sources:' No More Gestures Unless Talks Resume </TI></H3>
-<F P=102>  TA0203090294 Tel Aviv MA'ARIV in Hebrew 2 Mar 94 p A6--FOR 
+<F P="102">  TA0203090294 Tel Aviv MA'ARIV in Hebrew 2 Mar 94 p A6--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> TA0203090294 </F>
-<F P=104>  Tel Aviv MA'ARIV </F>
+<F P="103"> TA0203090294 </F>
+<F P="104">  Tel Aviv MA'ARIV </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by Uri Binder, Shefi Gabay, Hemi Shalev, and </F>
+<F P="106"> [Report by Uri Binder, Shefi Gabay, Hemi Shalev, and </F>
 Avino'am Bar-Yosef] 
   [Excerpt] [passage omitted] Israeli political sources 
 yesterday said that Israel will not make any more gestures 
@@ -4748,21 +4749,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Official Returns From Cairo, Discusses 'Arafat Meeting </TI></H3>
-<F P=102>  TA0803144294 Tel Aviv MA'ARIV in Hebrew 8 Mar 94 p 5--FOR 
+<F P="102">  TA0803144294 Tel Aviv MA'ARIV in Hebrew 8 Mar 94 p 5--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> TA0803144294 </F>
-<F P=104>  Tel Aviv MA'ARIV </F>
+<F P="103"> TA0803144294 </F>
+<F P="104">  Tel Aviv MA'ARIV </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by Hemi Shalev, Alex Fishman, 'Oded Granot, and </F>
+<F P="106"> [Report by Hemi Shalev, Alex Fishman, 'Oded Granot, and </F>
 Shefi Gabay] 
   [Excerpt] Jacques Neriya, the prime minister's political 
 adviser, spent four hours in Cairo yesterday meeting with 
@@ -4819,21 +4820,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Official: Extremist Settlers `Must Be Neutralized' </TI></H3>
-<F P=102>  BR0703162994 Paris LE POINT in French 5 Mar 94 p 46--FOR 
+<F P="102">  BR0703162994 Paris LE POINT in French 5 Mar 94 p 46--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR0703162994 </F>
-<F P=104>  Paris LE POINT </F>
+<F P="103"> BR0703162994 </F>
+<F P="104">  Paris LE POINT </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Uri Savir, director general of the Foreign </F>
+<F P="106"> [Interview with Uri Savir, director general of the Foreign </F>
 Ministry, by Pierre Beylau and Henri Bainvol; place and date not 
 given: "Extremist Settlers Must Be Neutralized"] 
   [Text] [Savir] This appalling massacre will not be without 
@@ -4900,21 +4901,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Kakh Official Notes `Military Training' in U.S. </TI></H3>
-<F P=102>  BR0703161494 Milan CORRIERE DELLA SERA in Italian 6 Mar 94 p 
+<F P="102">  BR0703161494 Milan CORRIERE DELLA SERA in Italian 6 Mar 94 p 
 7--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR0703161494 </F>
-<F P=104>  Milan CORRIERE DELLA SERA </F>
+<F P="103"> BR0703161494 </F>
+<F P="104">  Milan CORRIERE DELLA SERA </F>
 
 
 <TEXT>
-Language: <F P=105> Italian </F>
+Language: <F P="105"> Italian </F>
 Article Type:BFN 
 
-<F P=106> [Report on interview with Noam Federman, spokesperson for </F>
+<F P="106"> [Report on interview with Noam Federman, spokesperson for </F>
 the "extremist `Kakh'" movement, by Lorenzo Cremonesi "just over 
 two months ago" in Beit Hadassah [as published]: "I am a Settler 
 Fighting Against Everybody"] 
@@ -4979,21 +4980,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Leaflets From Hamas Warn Settlers To Evacuate by 15 Mar </TI></H3>
-<F P=102>  TA0803113894 Jerusalem THE JERUSALEM POST in English 8 Mar 
+<F P="102">  TA0803113894 Jerusalem THE JERUSALEM POST in English 8 Mar 
 94 p 1--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> TA0803113894 </F>
-<F P=104>  Jerusalem THE JERUSALEM POST </F>
+<F P="103"> TA0803113894 </F>
+<F P="104">  Jerusalem THE JERUSALEM POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Bill Hutman] </F>
+<F P="106"> [Report by Bill Hutman] </F>
   [Text] Hamas [Islamic Resistance Movement] yesterday 
 threatened suicide attacks on several settlements if they aren't 
 evacuated by March 15. 
@@ -5030,21 +5031,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Commentary Examines Goldstein's Motive at Hebron </TI></H3>
-<F P=102>  TA0203115094 Jerusalem THE JERUSALEM POST in English 2 Mar 
+<F P="102">  TA0203115094 Jerusalem THE JERUSALEM POST in English 2 Mar 
 94 p 6--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> TA0203115094 </F>
-<F P=104>  Jerusalem THE JERUSALEM POST </F>
+<F P="103"> TA0203115094 </F>
+<F P="104">  Jerusalem THE JERUSALEM POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Yisra'el Har'el, chairman of the Council of </F>
+<F P="106"> [Commentary by Yisra'el Har'el, chairman of the Council of </F>
 Jewish Settlements in Judaea, Samaria, and the Gaza Strip: "The 
 Price of Madness"] 
   [Text] At Baruch Goldstein's funeral this week in Qiryat 
@@ -5155,21 +5156,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Commentary on `Giving Into Demands of Hamas Via PLO' </TI></H3>
-<F P=102>  TA0603164294 Tel Aviv MA'ARIV (SHABAT supplement) in Hebrew 
+<F P="102">  TA0603164294 Tel Aviv MA'ARIV (SHABAT supplement) in Hebrew 
 25 Feb 94 p 6--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> TA0603164294 </F>
-<F P=104>  Tel Aviv MA'ARIV (SHABAT supplement) </F>
+<F P="103"> TA0603164294 </F>
+<F P="104">  Tel Aviv MA'ARIV (SHABAT supplement) </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Ze'ev Binyamin Begin: "Talking With Hamas"] </F>
+<F P="106"> [Commentary by Ze'ev Binyamin Begin: "Talking With Hamas"] </F>
   [Text] Shim'on Peres has been treading a tortuous road from 
 the "malodorous maneuver" of Jerusalem 1990 to the malodorous 
 maneuvers of Oslo 1993 and Davos 1994. Two weeks ago he proudly 
@@ -5267,21 +5268,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Settler Removal Termed Collective Punishment </TI></H3>
-<F P=102>  TA0803205494 Tel Aviv MA'ARIV (SHABAT supplement) in Hebrew 
+<F P="102">  TA0803205494 Tel Aviv MA'ARIV (SHABAT supplement) in Hebrew 
 4 Mar 94 p 30 </F>
 
-<F P=103> TA0803205494 </F>
-<F P=104>  Tel Aviv MA'ARIV (SHABAT supplement) </F>
+<F P="103"> TA0803205494 </F>
+<F P="104">  Tel Aviv MA'ARIV (SHABAT supplement) </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Shmu'el Schnitzer: "The Dream of Banishing </F>
+<F P="106"> [Commentary by Shmu'el Schnitzer: "The Dream of Banishing </F>
 Jews from the City of Our Patriarchs"] 
   [Text] In the negotiations on the Oslo agreement, the 
 government firmly insisted that no Jewish settlement should be 
@@ -5431,18 +5432,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Iran </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Iran </F>
 <H3> <TI>   DPRK Reportedly Developing Missile for Country </TI></H3>
-<F P=102>  JN2602092494 Paris AL-WATAN AL-'ARABI in Arabic 18 Feb 94 p 
+<F P="102">  JN2602092494 Paris AL-WATAN AL-'ARABI in Arabic 18 Feb 94 p 
 14--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> JN2602092494 </F>
-<F P=104>  Paris AL-WATAN AL-'ARABI </F>
+<F P="103"> JN2602092494 </F>
+<F P="104">  Paris AL-WATAN AL-'ARABI </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] A North Korean military team left Iran a few days 
@@ -5480,18 +5481,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Iraq </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Iraq </F>
 <H3> <TI>   Al-Majid Undergoes Brain Surgery After Bomb Explosion </TI></H3>
-<F P=102>  JN0403200194 Paris AL-WATAN AL-'ARABI in Arabic 4 Mar 94 p 
+<F P="102">  JN0403200194 Paris AL-WATAN AL-'ARABI in Arabic 4 Mar 94 p 
 13--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> JN0403200194 </F>
-<F P=104>  Paris AL-WATAN AL-'ARABI </F>
+<F P="103"> JN0403200194 </F>
+<F P="104">  Paris AL-WATAN AL-'ARABI </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Lieutenant General Husayn Kamil al-Majid, son-in-law 
@@ -5525,21 +5526,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Palestinian Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat `Paying Too High a Price' for Peace </TI></H3>
-<F P=102>  PM0403153194 Madrid EL PAIS in Spanish 3 Mar 94 pp 1, 6--FOR 
+<F P="102">  PM0403153194 Madrid EL PAIS in Spanish 3 Mar 94 pp 1, 6--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> PM0403153194 </F>
-<F P=104>  Madrid EL PAIS </F>
+<F P="103"> PM0403153194 </F>
+<F P="104">  Madrid EL PAIS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with PLO Chairman Yasir 'Arafat by Georgina </F>
+<F P="106"> [Interview with PLO Chairman Yasir 'Arafat by Georgina </F>
 Higueras in Tunis; date not given] 
   [Text] Tunis -- Under the enormous brightly colored 
 photograph of the al-Aqsa mosque in Jerusalem of which he 
@@ -5725,21 +5726,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Palestinian Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Wants UN Intervention in Territories </TI></H3>
-<F P=102>  BR0303155894 Brussels LE SOIR in French 3 Mar 94 p 2--FOR 
+<F P="102">  BR0303155894 Brussels LE SOIR in French 3 Mar 94 p 2--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR0303155894 </F>
-<F P=104>  Brussels LE SOIR </F>
+<F P="103"> BR0303155894 </F>
+<F P="104">  Brussels LE SOIR </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Interview with PLO president Yasir 'Arafat by Christophe </F>
+<F P="106"> [Interview with PLO president Yasir 'Arafat by Christophe </F>
 Boltanski, Marc Kravetz, Patrick Sabatier; place and date not 
 given: "The Peace Process Following the Hebron Massacre"-- 
 interview copyrighted by LIBERATION/World Media] 
@@ -5945,21 +5946,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Palestinian Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Palestinian Affairs </F>
 <H3> <TI>   Armali, Israeli Envoy in Belgium Discuss Settlers </TI></H3>
-<F P=102>  BR0303151294 Brussels BELGA in French 1306 GMT 3 Mar 94--FOR 
+<F P="102">  BR0303151294 Brussels BELGA in French 1306 GMT 3 Mar 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR0303151294 </F>
-<F P=104>  Brussels BELGA </F>
+<F P="103"> BR0303151294 </F>
+<F P="104">  Brussels BELGA </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Article by JLV/RHR: "Armali-Harel: Mideast Talks Must </F>
+<F P="106"> [Article by JLV/RHR: "Armali-Harel: Mideast Talks Must </F>
 Continue;" as released by Brussels BELGA Database] 
   [Text] Brussels, 3 Mar (BELGA) -- "We demand the 
 establishment of an international force and the disarmament of 
@@ -6011,17 +6012,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Saddam Reportedly Threatens To Attack North </TI></H3>
-<F P=102>  NC0903044494 (Clandestine) Voice of Iraqi People in Arabic 
+<F P="102">  NC0903044494 (Clandestine) Voice of Iraqi People in Arabic 
 1400 GMT 5 March 94 </F>
 
-<F P=103> NC0903044494 </F>
-<F P=104>  (Clandestine) Voice of Iraqi People </F>
+<F P="103"> NC0903044494 </F>
+<F P="104">  (Clandestine) Voice of Iraqi People </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The Iraqi opposition in Salah-al-Din has monitored 
@@ -6073,15 +6074,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Baghdad Informs UN of U.S. U-2 Air `Violations' </TI></H3>
-<F P=102>  JN0803130694 Baghdad INA in Arabic 0940 GMT 8 Mar 94 </F>
-<F P=103> JN0803130694 </F>
-<F P=104>  Baghdad INA </F>
+<F P="102">  JN0803130694 Baghdad INA in Arabic 0940 GMT 8 Mar 94 </F>
+<F P="103"> JN0803130694 </F>
+<F P="104">  Baghdad INA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] New York, 8 Mar (INA)--Iraq has informed the UN 
@@ -6129,15 +6130,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Saddam Receives Cable From Islamic Jihad Leader </TI></H3>
-<F P=102>  JN0603201994 Baghdad INA in Arabic 1900 GMT 6 Mar 94 </F>
-<F P=103> JN0603201994 </F>
-<F P=104>  Baghdad INA </F>
+<F P="102">  JN0603201994 Baghdad INA in Arabic 1900 GMT 6 Mar 94 </F>
+<F P="103"> JN0603201994 </F>
+<F P="104">  Baghdad INA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Baghdad, 6 Mar (INA)--As'ad Bayyud al-Tamimi, 
@@ -6175,15 +6176,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Ramadan Receives Catholic Patriarchs' Delegation </TI></H3>
-<F P=102>  JN0603152394 Baghdad INA in Arabic 1340 GMT 6 Mar 94 </F>
-<F P=103> JN0603152394 </F>
-<F P=104>  Baghdad INA </F>
+<F P="102">  JN0603152394 Baghdad INA in Arabic 1340 GMT 6 Mar 94 </F>
+<F P="103"> JN0603152394 </F>
+<F P="104">  Baghdad INA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] Baghdad, 6 Mar (INA)--Vice President Taha Yasin 
@@ -6225,15 +6226,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Delegation Ends Visit </TI></H3>
-<F P=102>  JN0603173294 Baghdad INA in Arabic 1520 GMT 6 Mar 94 </F>
-<F P=103> JN0603173294 </F>
-<F P=104>  Baghdad INA </F>
+<F P="102">  JN0603173294 Baghdad INA in Arabic 1520 GMT 6 Mar 94 </F>
+<F P="103"> JN0603173294 </F>
+<F P="104">  Baghdad INA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] Baghdad, 6 Mar (INA)--A delegation representing 
@@ -6261,16 +6262,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   North, South Reportedly Bracing for Combat </TI></H3>
-<F P=102>  NC0803145294 Paris AFP in English 1322 GMT 8 Mar 94 </F>
-<F P=103> NC0803145294 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC0803145294 Paris AFP in English 1322 GMT 8 Mar 94 </F>
+<F P="103"> NC0803145294 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Dubai, March 8 (AFP)--Rival northern and southern 
@@ -6344,19 +6345,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   General Warns of Military Confrontation </TI></H3>
-<F P=102>  JN0903094494 Amman AL-DUSTUR in Arabic 9 Mar 94 p 1 </F>
-<F P=103> JN0903094494 </F>
-<F P=104>  Amman AL-DUSTUR </F>
+<F P="102">  JN0903094494 Amman AL-DUSTUR in Arabic 9 Mar 94 p 1 </F>
+<F P="103"> JN0903094494 </F>
+<F P="104">  Amman AL-DUSTUR </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Hamdan al-Hajj] </F>
+<F P="106"> [Report by Hamdan al-Hajj] </F>
   [Text] Brigadier General Mujahid Abu-Shawarib, Yemeni 
 deputy prime minister, has called on President 'Ali 'Abdallah 
 Salih and his deputy 'Ali Salim al-Bid to be rational and to 
@@ -6418,19 +6419,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   Interior Minister on `Terrorists,' Accord </TI></H3>
-<F P=102>  NC0803133594 Cairo AL-AHRAM in Arabic 5 Mar 94 p 6 </F>
-<F P=103> NC0803133594 </F>
-<F P=104>  Cairo AL-AHRAM </F>
+<F P="102">  NC0803133594 Cairo AL-AHRAM in Arabic 5 Mar 94 p 6 </F>
+<F P="103"> NC0803133594 </F>
+<F P="104">  Cairo AL-AHRAM </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Amin Muhammad Amin in Sanaa] </F>
+<F P="106"> [Report by Amin Muhammad Amin in Sanaa] </F>
   [Text] Yemeni Interior Minister Brigadier General Yahya 
 al-Mutawakkil has stated that the al-Jihad Organization and the 
 Afghan Arabs who returned from Afghanistan are the ones behind 
@@ -6518,18 +6519,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   Libya's al-Kharrubi, Arab League Team Depart Sanaa </TI></H3>
-<F P=102>  JN0803211994 Sanaa Yemeni Republic Radio Network in Arabic 
+<F P="102">  JN0803211994 Sanaa Yemeni Republic Radio Network in Arabic 
 2000 GMT 8 Mar 94 </F>
 
-<F P=103> JN0803211994 </F>
-<F P=104>  Sanaa Yemeni Republic Radio Network </F>
+<F P="103"> JN0803211994 </F>
+<F P="104">  Sanaa Yemeni Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Brother Colonel Mustafa al-Kharrubi, member of the 
@@ -6574,17 +6575,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> LEBANON </F>
+<F P="100"> LEBANON </F>
 <H3> <TI>   Deputy Criticizes U.S. Ambassador's Activities </TI></H3>
-<F P=102>  NC0803140594 Shanayh Voice of the Mountain in Arabic 1230 
+<F P="102">  NC0803140594 Shanayh Voice of the Mountain in Arabic 1230 
 GMT 8 Mar 94 </F>
 
-<F P=103> NC0803140594 </F>
-<F P=104>  Shanayh Voice of the Mountain </F>
+<F P="103"> NC0803140594 </F>
+<F P="104">  Shanayh Voice of the Mountain </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpts] The Chamber of Deputies held a plenary session 
@@ -6626,18 +6627,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> LEBANON </F>
+<F P="100"> LEBANON </F>
 <H3> <TI>   Hizballah Reportedly Using New Tactics, Arms </TI></H3>
-<F P=102>  NC0903073794 Paris AFP in English 0509 GMT 9 Mar 94 </F>
-<F P=103> NC0903073794 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC0903073794 Paris AFP in English 0509 GMT 9 Mar 94 </F>
+<F P="103"> NC0903073794 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Hala Boncompagni] </F>
+<F P="106"> [By Hala Boncompagni] </F>
   [Text] Beirut, March 9 (AFP)--New tactics and weapons are 
 the secret to the Iranian-backed Hizballah's success in 
 inflicting heavier losses on Israeli and allied militiamen in 
@@ -6714,19 +6715,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH ASIA </F>
-<F P=101> Afghanistan </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> Afghanistan </F>
 <H3> <TI>   Factional Clashes Continue in Kabul, Konduz </TI></H3>
 <H4>   Konduz Province Cleared of Dostam Militia </H4>
-<F P=102> LD0803201994 Kabul Radio Afghanistan Network in Dari 1600 
+<F P="102"> LD0803201994 Kabul Radio Afghanistan Network in Dari 1600 
 GMT 8 Mar 94 </F>
 
-<F P=103> LD0803201994 </F>
-<F P=104>  Kabul Radio Afghanistan Network </F>
+<F P="103"> LD0803201994 </F>
+<F P="104">  Kabul Radio Afghanistan Network </F>
 
 
 <TEXT>
-Language: <F P=105> Dari </F>
+Language: <F P="105"> Dari </F>
 Article Type:BFN 
 
   [Text] Konduz Province has been cleared of the existence of 
@@ -6769,20 +6770,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH ASIA </F>
-<F P=101> Afghanistan </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> Afghanistan </F>
 <H3> <TI>   Factional Clashes Continue in Kabul, Konduz </TI></H3>
 <H4>   Mas'ud Gains Against Uzbeks in Konduz </H4>
-<F P=102> NC0803210594 Paris AFP in English 1934 GMT 8 Mar 94 </F>
-<F P=103> NC0803210594 </F>
-<F P=104>  Paris AFP </F>
+<F P="102"> NC0803210594 Paris AFP in English 1934 GMT 8 Mar 94 </F>
+<F P="103"> NC0803210594 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Terence White] </F>
+<F P="106"> [By Terence White] </F>
   [Text] Bagram, Afghanistan, March 8 (AFP) -- Mojahedin 
 forces loyal to the Afghan president have captured a strategic 
 fort from Uzbek rivals in an attack on the northern capital 
@@ -6865,17 +6866,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> India </F>
+<F P="100"> India </F>
 <H3> <TI>   Minister: U.S. Statements Encourage `Terrorism' </TI></H3>
-<F P=102>  BK0903094994 Delhi All India Radio Network in English 0830 
+<F P="102">  BK0903094994 Delhi All India Radio Network in English 0830 
 GMT 9 Mar 94 </F>
 
-<F P=103> BK0903094994 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK0903094994 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] New Delhi has told Washington that its recent 
@@ -6933,17 +6934,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> India </F>
+<F P="100"> India </F>
 <H3> <TI>   Prime Minister Reviews Ties With U.S., PRC </TI></H3>
-<F P=102>  BK0803163494 Delhi All India Radio Network in English 1530 
+<F P="102">  BK0803163494 Delhi All India Radio Network in English 1530 
 GMT 8 Mar 94 </F>
 
-<F P=103> BK0803163494 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK0803163494 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The prime minister asserted in Parliament today that 
@@ -7013,17 +7014,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> India </F>
+<F P="100"> India </F>
 <H3> <TI>   Delhi Protests to Pakistan, Bangladesh on Terrorism </TI></H3>
-<F P=102>  BK0803163294 Delhi All India Radio Network in English 1530 
+<F P="102">  BK0803163294 Delhi All India Radio Network in English 1530 
 GMT 8 Mar 94 </F>
 
-<F P=103> BK0803163294 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK0803163294 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] India has lodged a strong protest with Pakistan and 
@@ -7051,20 +7052,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   PRC, India Reject Tehran Call for Anti-U.S. Alliance </TI></H3>
-<F P=102>  PM0803135394 London AL-SHARQ AL-AWSAT in Arabic 7 Mar 94 
+<F P="102">  PM0803135394 London AL-SHARQ AL-AWSAT in Arabic 7 Mar 94 
 pp1, 4 </F>
 
-<F P=103> PM0803135394 </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
+<F P="103"> PM0803135394 </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Amir Taheri: "China and India Reject Iran's Call </F>
+<F P="106"> [Report by Amir Taheri: "China and India Reject Iran's Call </F>
 for New Alliance"] 
   [Text] London -- China and India have both rejected an 
 Iranian call for a new Asian alliance against "U.S. hegemony 
@@ -7129,15 +7130,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Saudi-Linked Group Accused of Zahedan Bombings </TI></H3>
-<F P=102>  NC0803172894 Paris AFP in English 1646 GMT 8 Mar 94 </F>
-<F P=103> NC0803172894 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC0803172894 Paris AFP in English 1646 GMT 8 Mar 94 </F>
+<F P="103"> NC0803172894 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 8 (AFP)--Sunni Muslim militants 
@@ -7184,17 +7185,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Indian Foreign Minister Visits Government Officials </TI></H3>
-<F P=102>  BK0903071294 Delhi Doordarshan Television Network in English 
+<F P="102">  BK0903071294 Delhi Doordarshan Television Network in English 
 1630 GMT 8 Mar 94 </F>
 
-<F P=103> BK0903071294 </F>
-<F P=104>  Delhi Doordarshan Television Network </F>
+<F P="103"> BK0903071294 </F>
+<F P="104">  Delhi Doordarshan Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pakistan's efforts to internationalize the Kashmir 
@@ -7247,15 +7248,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Hashemi Addresses Meeting of African Diplomats </TI></H3>
-<F P=102>  LD0803214694 Tehran IRNA in English 2022 GMT 8 March 94 </F>
-<F P=103> LD0803214694 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0803214694 Tehran IRNA in English 2022 GMT 8 March 94 </F>
+<F P="103"> LD0803214694 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 8, IRNA -- First Deputy Foreign 
@@ -7293,19 +7294,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Tajik Opposition Leader Comments on Situation </TI></H3>
-<F P=102>  NC0903091794 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  NC0903091794 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 0430 GMT 9 Mar 94 </F>
 
-<F P=103> NC0903091794 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> NC0903091794 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] The head of the Tajik opposition delegation has 
@@ -7341,22 +7342,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   No `Serious Resolution' Expected From UN on Hebron </TI></H3>
-<F P=102>  NC0903113894 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  NC0903113894 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 0445 GMT 9 Mar 94 </F>
 
-<F P=103> NC0903113894 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> NC0903113894 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by News Research and Commentaries Group] </F>
+<F P="106"> [Commentary by News Research and Commentaries Group] </F>
   [Text] The UN Security Council will possibly issue a 
 resolution on the tragic massacre of the worshipers at the 
 al-Ibrahimi shrine in al-Khalil. It is 12 days since this 
@@ -7438,20 +7439,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   Mubarak Urges Reform in Koran Anniversary Speech </TI></H3>
-<F P=102>  NC0903085594 Cairo Arab Republic of Egypt Radio Network in 
+<F P="102">  NC0903085594 Cairo Arab Republic of Egypt Radio Network in 
 Arabic 1929 GMT 8 Mar 94 </F>
 
-<F P=103> NC0903085594 </F>
-<F P=104>  Cairo Arab Republic of Egypt Radio Network </F>
+<F P="103"> NC0903085594 </F>
+<F P="104">  Cairo Arab Republic of Egypt Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Speech by President Husni Mubarak at al-Azhar University in </F>
+<F P="106"> [Speech by President Husni Mubarak at al-Azhar University in </F>
 Cairo on 8 March--live] 
   [Text] In the name of God, the merciful, the 
 compassionate. The grand imam of al-Azhar, venerable ulemas, 
@@ -7782,16 +7783,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   PLO's 'Abbas Arrives, To Discuss Resuming Talks </TI></H3>
 <H4>   Musa, 'Abbas To Discuss Contacts </H4>
-<F P=102> NC0803204094 Cairo MENA in Arabic 2000 GMT 8 Mar 94 </F>
-<F P=103> NC0803204094 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0803204094 Cairo MENA in Arabic 2000 GMT 8 Mar 94 </F>
+<F P="103"> NC0803204094 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 8 Mar (MENA)--PLO Executive Committee member 
@@ -7823,16 +7824,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   PLO's 'Abbas Arrives, To Discuss Resuming Talks </TI></H3>
 <H4>   Palestinian Issue Reviewed </H4>
-<F P=102> NC0803220994 Cairo MENA in Arabic 2150 GMT 8 Mar 94 </F>
-<F P=103> NC0803220994 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0803220994 Cairo MENA in Arabic 2150 GMT 8 Mar 94 </F>
+<F P="103"> NC0803220994 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 8 Mar (MENA)--Foreign Minister 'Amr Musa 
@@ -7862,16 +7863,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   PLO's 'Abbas Arrives, To Discuss Resuming Talks </TI></H3>
 <H4>   'Abbas Comments on Discussions </H4>
-<F P=102> NC0903065494 Cairo MENA in Arabic 2230 GMT 8 Mar 94 </F>
-<F P=103> NC0903065494 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0903065494 Cairo MENA in Arabic 2230 GMT 8 Mar 94 </F>
+<F P="103"> NC0903065494 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 8 Mar (MENA)--PLO Executive Committee Member 
@@ -7917,18 +7918,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   AL-SHA'B: Israeli Army Chiefs Planned Hebron Killings </TI></H3>
-<F P=102>  NC0803174394 Cairo AL-SHA'B in Arabic 4 Mar 94 pp 3, 7 </F>
-<F P=103> NC0803174394 </F>
-<F P=104>  Cairo AL-SHA'B </F>
+<F P="102">  NC0803174394 Cairo AL-SHA'B in Arabic 4 Mar 94 pp 3, 7 </F>
+<F P="103"> NC0803174394 </F>
+<F P="104">  Cairo AL-SHA'B </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Mahmud Bakri] </F>
+<F P="106"> [Report by Mahmud Bakri] </F>
   [Text] AL-SHA'B has obtained information proving the 
 involvement of the Israeli army chiefs in the criminal massacre 
 of the Palestinians in the honorable al-Ibrahimi Mosque last 
@@ -7979,15 +7980,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   Minister Revokes Decision To Expel Foreign Press </TI></H3>
-<F P=102>  NC0803172294 Cairo AL-SHA'B in Arabic 4 Mar 94 p 7 </F>
-<F P=103> NC0803172294 </F>
-<F P=104>  Cairo AL-SHA'B </F>
+<F P="102">  NC0803172294 Cairo AL-SHA'B in Arabic 4 Mar 94 p 7 </F>
+<F P="103"> NC0803172294 </F>
+<F P="104">  Cairo AL-SHA'B </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The Interior Ministry issued a sudden decision on 
@@ -8034,15 +8035,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   Islamic Group Claims Responsibility for 2 Bombings </TI></H3>
-<F P=102>  NC0803171794 Cairo AL-SHA'B in Arabic 4 Mar 94 p 7 </F>
-<F P=103> NC0803171794 </F>
-<F P=104>  Cairo AL-SHA'B </F>
+<F P="102">  NC0803171794 Cairo AL-SHA'B in Arabic 4 Mar 94 p 7 </F>
+<F P="103"> NC0803171794 </F>
+<F P="104">  Cairo AL-SHA'B </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The Islamic Group has announced that it detonated 
@@ -8073,15 +8074,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   25 `Terrorists' Arrested for Recent Bombings </TI></H3>
-<F P=102>  NC0803163994 Cairo MENA in Arabic 1550 GMT 8 Mar 94 </F>
-<F P=103> NC0803163994 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102">  NC0803163994 Cairo MENA in Arabic 1550 GMT 8 Mar 94 </F>
+<F P="103"> NC0803163994 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 8 Mar (MENA)--The State Security 
@@ -8158,18 +8159,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Egypt </F>
+<F P="100"> Egypt </F>
 <H3> <TI>   Islamic Fundamentalist Comments on Political Events </TI></H3>
-<F P=102>  BR0803125894 Copenhagen INFORMATION in Danish 25 Feb 94 p 9 </F>
-<F P=103> BR0803125894 </F>
-<F P=104>  Copenhagen INFORMATION </F>
+<F P="102">  BR0803125894 Copenhagen INFORMATION in Danish 25 Feb 94 p 9 </F>
+<F P="103"> BR0803125894 </F>
+<F P="104">  Copenhagen INFORMATION </F>
 
 
 <TEXT>
-Language: <F P=105> Danish </F>
+Language: <F P="105"> Danish </F>
 Article Type:BFN 
 
-<F P=106> [Report on interview with Egyptian Islamic fundamentalist </F>
+<F P="106"> [Report on interview with Egyptian Islamic fundamentalist </F>
 Tal'at Fu'ad Qassim by Charlotte Aagaard; place and date not 
 given] 
   [Text] In the past week a hitherto unknown man, Tal'at 
@@ -8330,15 +8331,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Calls for 1,000 Military Observers </TI></H3>
-<F P=102>  NC0803162394 Paris AFP in English 1553 GMT 8 Mar 94 </F>
-<F P=103> NC0803162394 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC0803162394 Paris AFP in English 1553 GMT 8 Mar 94 </F>
+<F P="103"> NC0803162394 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Cairo, March 8 (AFP)--PLO chairman Yasir 'Arafat 
@@ -8386,15 +8387,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Refuses To Meet With Israeli Officials </TI></H3>
-<F P=102>  NC0903093694 Cairo MENA in Arabic 0855 GMT 9 Mar 94 </F>
-<F P=103> NC0903093694 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102">  NC0903093694 Cairo MENA in Arabic 0855 GMT 9 Mar 94 </F>
+<F P="103"> NC0903093694 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 9 Mar (MENA)--Palestinian President Yasir 
@@ -8431,17 +8432,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Meets With Yeltsin's Special Envoy </TI></H3>
-<F P=102>  LD0903094294 Algiers Voice of Palestine in Arabic 2200 GMT 8 
+<F P="102">  LD0903094294 Algiers Voice of Palestine in Arabic 2200 GMT 8 
 Mar 94 </F>
 
-<F P=103> LD0903094294 </F>
-<F P=104>  Algiers Voice of Palestine </F>
+<F P="103"> LD0903094294 </F>
+<F P="104">  Algiers Voice of Palestine </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] Yesterday evening Brother Abu-'Ammar, president 
@@ -8478,18 +8479,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Sources: PLO Insists on UN Hebron Resolution </TI></H3>
-<F P=102>  PM0803173594 London AL-HAYAH in Arabic 8 Mar 94 p 5 </F>
-<F P=103> PM0803173594 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102">  PM0803173594 London AL-HAYAH in Arabic 8 Mar 94 p 5 </F>
+<F P="103"> PM0803173594 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Muhammad 'Allam: "Washington Proposes, PLO Rules </F>
+<F P="106"> [Report by Muhammad 'Allam: "Washington Proposes, PLO Rules </F>
 Out Imminent Meeting Between 'Arafat, Rabin"] 
   [Excerpts] Cairo -- [Passage omitted] Palestinian sources 
 have said that "'Arafat will not meet with Israeli Foreign 
@@ -8549,18 +8550,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   PLO Reportedly Orders Collection of Arms </TI></H3>
-<F P=102>  JN0603114494 Amman AKHIR KHABAR in Arabic 5-6 Mar 94 p 1 </F>
-<F P=103> JN0603114494 </F>
-<F P=104>  Amman AKHIR KHABAR </F>
+<F P="102">  JN0603114494 Amman AKHIR KHABAR in Arabic 5-6 Mar 94 p 1 </F>
+<F P="103"> JN0603114494 </F>
+<F P="104">  Amman AKHIR KHABAR </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> ["Exclusive" report] </F>
+<F P="106"> ["Exclusive" report] </F>
   [Text] Informed Palestinian sources have said the Tunis 
 headquartered PLO leadership has issued stringent orders to its 
 armed cadres in the occupied territories to collect their 
@@ -8597,15 +8598,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   PLO Cadres Call for Halting Peace Negotiations </TI></H3>
-<F P=102>  NC0703162294 Cairo MENA in Arabic 1545 GMT 7 Mar 94 </F>
-<F P=103> NC0703162294 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102">  NC0703162294 Cairo MENA in Arabic 1545 GMT 7 Mar 94 </F>
+<F P="103"> NC0703162294 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Tunis, 7 Mar (MENA)-A group of PLO cadres in Tunisia 
@@ -8651,15 +8652,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Qaddumi on Ties With Jordan, Rabin's Stand </TI></H3>
-<F P=102>  JN0803205694 Amman PETRA-JNA in Arabic 1540 GMT 8 Mar 94 </F>
-<F P=103> JN0803205694 </F>
-<F P=104>  Amman PETRA-JNA </F>
+<F P="102">  JN0803205694 Amman PETRA-JNA in Arabic 1540 GMT 8 Mar 94 </F>
+<F P="103"> JN0803205694 </F>
+<F P="104">  Amman PETRA-JNA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] [No dateline as received] -- Faruq Qaddumi, head of 
@@ -8813,20 +8814,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   PLO `Finance Minister' Favors Market Economy </TI></H3>
-<F P=102>  BR0803162194 Paris LE MONDE (ECONOMIE supplement) in French 
+<F P="102">  BR0803162194 Paris LE MONDE (ECONOMIE supplement) in French 
 8 Mar 94 pp I,VI </F>
 
-<F P=103> BR0803162194 </F>
-<F P=104>  Paris LE MONDE (ECONOMIE supplement) </F>
+<F P="103"> BR0803162194 </F>
+<F P="104">  Paris LE MONDE (ECONOMIE supplement) </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Report by Marc Roche on interview with PLO "Finance </F>
+<F P="106"> [Report by Marc Roche on interview with PLO "Finance </F>
 Minister" Jawid al-Ghusayn in London; date not given: "The 
 Economy Will Follow, the PLO `Finance Minister' Declared to Us"] 
   [Text] Jawid al-Ghusayn, PLO "finance minister" and 
@@ -8950,15 +8951,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Bal'awi Urges Removal of Israeli Settlements </TI></H3>
-<F P=102>  JN0503103194 Amman AL-RA'Y in Arabic 5 Mar 94 pp 1, 25 </F>
-<F P=103> JN0503103194 </F>
-<F P=104>  Amman AL-RA'Y </F>
+<F P="102">  JN0503103194 Amman AL-RA'Y in Arabic 5 Mar 94 pp 1, 25 </F>
+<F P="103"> JN0503103194 </F>
+<F P="104">  Amman AL-RA'Y </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Hakam Bal'awi, Fatah Central Committee member, 
@@ -9006,15 +9007,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Abd-al-Shafi Urges PLO To Stand Firm on Demands </TI></H3>
-<F P=102>  TA0803154194 Jerusalem AL-QUDS in Arabic 8 Mar 94 p 2 </F>
-<F P=103> TA0803154194 </F>
-<F P=104>  Jerusalem AL-QUDS </F>
+<F P="102">  TA0803154194 Jerusalem AL-QUDS in Arabic 8 Mar 94 p 2 </F>
+<F P="103"> TA0803154194 </F>
+<F P="104">  Jerusalem AL-QUDS </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Jerusalem -- Dr. Haydar 'Abd-al-Shafi has 
@@ -9066,15 +9067,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Fatah Dissident on International Jerusalem Day </TI></H3>
-<F P=102>  LD0603122594 Tehran IRNA in English 1148 GMT 6 Mar 94 </F>
-<F P=103> LD0603122594 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0603122594 Tehran IRNA in English 1148 GMT 6 Mar 94 </F>
+<F P="103"> LD0603122594 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Damascus, March 6, IRNA -- Secretary General of the 
@@ -9113,18 +9114,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   PFLP Urges 'Arafat, Executive Committee To Resign </TI></H3>
-<F P=102>  JN0603132794 Amman SAWT AL-SHA'B in Arabic 6 Mar 94 p 19 </F>
-<F P=103> JN0603132794 </F>
-<F P=104>  Amman SAWT AL-SHA'B </F>
+<F P="102">  JN0603132794 Amman SAWT AL-SHA'B in Arabic 6 Mar 94 p 19 </F>
+<F P="103"> JN0603132794 </F>
+<F P="104">  Amman SAWT AL-SHA'B </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Riyad Mansur in Amman] </F>
+<F P="106"> [By Riyad Mansur in Amman] </F>
   [Excerpts] The Popular Front for the Liberation of 
 Palestine [PFLP] has expressed great appreciation for Jordan's 
 official stand toward the Hebron massacre. It said this stand 
@@ -9183,18 +9184,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Bids To Return PFLP, DFLP to PLO Blocked </TI></H3>
-<F P=102>  JN0903103894 Amman SAWT AL-SHA'B in Arabic 9 Mar 94 p 15 </F>
-<F P=103> JN0903103894 </F>
-<F P=104>  Amman SAWT AL-SHA'B </F>
+<F P="102">  JN0903103894 Amman SAWT AL-SHA'B in Arabic 9 Mar 94 p 15 </F>
+<F P="103"> JN0903103894 </F>
+<F P="104">  Amman SAWT AL-SHA'B </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Riyad Mansur] </F>
+<F P="106"> [Report by Riyad Mansur] </F>
   [Text] Amman -- Palestinian President Yasir 'Arafat's 
 attempts to return the Popular Front for the Liberation of 
 Palestine [PFLP] and the Democratic Front for the Liberation of 
@@ -9271,17 +9272,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Alliance Forces Commemorate Hebron Massacre </TI></H3>
-<F P=102>  JN0403201394 Damascus Syrian Arab Republic Radio Network in 
+<F P="102">  JN0403201394 Damascus Syrian Arab Republic Radio Network in 
 Arabic 1915 GMT 4 Mar 94 </F>
 
-<F P=103> JN0403201394 </F>
-<F P=104>  Damascus Syrian Arab Republic Radio Network </F>
+<F P="103"> JN0403201394 </F>
+<F P="104">  Damascus Syrian Arab Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] Damascus -- The Alliance of Palestinian Forces 
@@ -9340,18 +9341,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Sources Deny Collecting Signatures Against Talks </TI></H3>
-<F P=102>  JN0703110494 Amman AL-DUSTUR in Arabic 7 Mar 94 pp 32, 23 </F>
-<F P=103> JN0703110494 </F>
-<F P=104>  Amman AL-DUSTUR </F>
+<F P="102">  JN0703110494 Amman AL-DUSTUR in Arabic 7 Mar 94 pp 32, 23 </F>
+<F P="103"> JN0703110494 </F>
+<F P="104">  Amman AL-DUSTUR </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Tawfiq 'Abid] </F>
+<F P="106"> [By Tawfiq 'Abid] </F>
   [Excerpt] Palestinian sources in Amman have denied having 
 any knowledge about attempts in the occupied Palestinian 
 territories to collect a million Palestinian signatures for a 
@@ -9383,18 +9384,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Al-Najab Says Cairo Agreement Means `New Prison' </TI></H3>
-<F P=102>  AU0803101094 Vienna DER STANDARD in German 8 Mar 94 p 3 </F>
-<F P=103> AU0803101094 </F>
-<F P=104>  Vienna DER STANDARD </F>
+<F P="102">  AU0803101094 Vienna DER STANDARD in German 8 Mar 94 p 3 </F>
+<F P="103"> AU0803101094 </F>
+<F P="104">  Vienna DER STANDARD </F>
 
 
 <TEXT>
-Language: <F P=105> German </F>
+Language: <F P="105"> German </F>
 Article Type:BFN 
 
-<F P=106> [Report by Artur K. Vogel in Tunis: "'Arafat Increasingly </F>
+<F P="106"> [Report by Artur K. Vogel in Tunis: "'Arafat Increasingly </F>
 Under Pressure From PLO Grass Roots"] 
   [Text] When PLO Chairman Yasir 'Arafat convened a meeting 
 of the PLO Executive Committee after the massacre in Hebron, 
@@ -9444,18 +9445,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Officials of Citizen's Rights Society Named </TI></H3>
-<F P=102>  TA0303193594 Jerusalem AL-QUDS in Arabic 3 Mar 94 p 2 </F>
-<F P=103> TA0303193594 </F>
-<F P=104>  Jerusalem AL-QUDS </F>
+<F P="102">  TA0303193594 Jerusalem AL-QUDS in Arabic 3 Mar 94 p 2 </F>
+<F P="103"> TA0303193594 </F>
+<F P="104">  Jerusalem AL-QUDS </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Da'ud Kuttab] </F>
+<F P="106"> [By Da'ud Kuttab] </F>
   [Text] Jerusalem -- Al-QUDS has learned that in recent 
 days the charter of the independent Palestinian citizen's rights 
 society was approved and that Dr. Hanan 'Ashrawi was chosen as 
@@ -9489,17 +9490,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Commentary Urges U.S. Pressure on Israel </TI></H3>
-<F P=102>  JN0503213894 Baghdad Voice of the PLO in Arabic 1700 GMT 5 
+<F P="102">  JN0503213894 Baghdad Voice of the PLO in Arabic 1700 GMT 5 
 Mar 94 </F>
 
-<F P=103> JN0503213894 </F>
-<F P=104>  Baghdad Voice of the PLO </F>
+<F P="103"> JN0503213894 </F>
+<F P="104">  Baghdad Voice of the PLO </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The massacre in the holy Ibrahimi Mosque in Hebron, 
@@ -9586,17 +9587,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Damascus `Forces of Rejection' Criticized </TI></H3>
-<F P=102>  JN0503203594 Baghdad Voice of the PLO in Arabic 1700 GMT 5 
+<F P="102">  JN0503203594 Baghdad Voice of the PLO in Arabic 1700 GMT 5 
 Mar 94 </F>
 
-<F P=103> JN0503203594 </F>
-<F P=104>  Baghdad Voice of the PLO </F>
+<F P="103"> JN0503203594 </F>
+<F P="104">  Baghdad Voice of the PLO </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Brothers: Amid the upheaval that resulted from 
@@ -9693,18 +9694,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> Arab-Israeli Talks </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> Arab-Israeli Talks </F>
 <H3> <TI>   Rabin, 'Arafat Hold Telephone Conversation </TI></H3>
-<F P=102>  TA0903054794 Jerusalem Qol Yisra'el in Hebrew 0500 GMT 9 Mar 
+<F P="102">  TA0903054794 Jerusalem Qol Yisra'el in Hebrew 0500 GMT 9 Mar 
 94 </F>
 
-<F P=103> TA0903054794 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0903054794 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Excerpt] Prime Minister Yitzhaq Rabin yesterday held a 
@@ -9736,19 +9737,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> Arab-Israeli Talks </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> Arab-Israeli Talks </F>
 <H3> <TI>   More on Rabin-'Arafat Talk </TI></H3>
-<F P=102>  TA0903072894 Tel Aviv IDF Radio in Hebrew 0600 GMT 9 Mar 94 </F>
-<F P=103> TA0903072894 </F>
-<F P=104>  Tel Aviv IDF Radio </F>
+<F P="102">  TA0903072894 Tel Aviv IDF Radio in Hebrew 0600 GMT 9 Mar 94 </F>
+<F P="103"> TA0903072894 </F>
+<F P="104">  Tel Aviv IDF Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by political correspondent Udi Segal] </F>
+<F P="106"> [Report by political correspondent Udi Segal] </F>
   [Text] The resolution about to be endorsed by the UN 
 Security Council is one the PLO has been anticipating. The 
 issue of Jerusalem -- namely, the clause which applies the 
@@ -9798,19 +9799,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> Arab-Israeli Talks </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> Arab-Israeli Talks </F>
 <H3> <TI>   Rabin's Consultations on PLO Demands Detailed </TI></H3>
-<F P=102>  TA0903073994 Tel Aviv DAVAR in Hebrew 9 Mar 94 pp 1, 2 </F>
-<F P=103> TA0903073994 </F>
-<F P=104>  Tel Aviv DAVAR </F>
+<F P="102">  TA0903073994 Tel Aviv DAVAR in Hebrew 9 Mar 94 pp 1, 2 </F>
+<F P="103"> TA0903073994 </F>
+<F P="104">  Tel Aviv DAVAR </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by Moti Bassok] </F>
+<F P="106"> [Report by Moti Bassok] </F>
   [Excerpt] In telephone conversations with the PLO 
 yesterday, Israel suggested a summit meeting between Foreign 
 Minister Shim'on Peres and a senior Palestinian figure, at which 
@@ -9885,11 +9886,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Islamic Affairs </F>
+<F P="100"> Islamic Affairs </F>
 <H3> <TI>   Political Islam Review: AL-SHA'B 4 Mar </TI></H3>
-<F P=102>  NC0903110594 </F>
-<F P=103> NC0903110594 </F>
-<F P=104></F>
+<F P="102">  NC0903110594 </F>
+<F P="103"> NC0903110594 </F>
+<F P="104"></F>
 
 
 
@@ -10069,17 +10070,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   King, Delegation Return Home </TI></H3>
-<F P=102>  JN0903063994 Amman Radio Jordan Network in Arabic 0500 GMT 9 
+<F P="102">  JN0903063994 Amman Radio Jordan Network in Arabic 0500 GMT 9 
 Mar 94 </F>
 
-<F P=103> JN0903063994 </F>
-<F P=104>  Amman Radio Jordan Network </F>
+<F P="103"> JN0903063994 </F>
+<F P="104">  Amman Radio Jordan Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] With God's care and blessings, His Majesty King 
@@ -10105,18 +10106,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Paper Uncovers `Terrorist Scheme' at Kindergarten </TI></H3>
-<F P=102>  JN0803201794 Amman AL-BILAD in Arabic 9 Mar 94 p 4 </F>
-<F P=103> JN0803201794 </F>
-<F P=104>  Amman AL-BILAD </F>
+<F P="102">  JN0803201794 Amman AL-BILAD in Arabic 9 Mar 94 p 4 </F>
+<F P="103"> JN0803201794 </F>
+<F P="104">  Amman AL-BILAD </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> ["Exclusive" report] </F>
+<F P="106"> ["Exclusive" report] </F>
   [Text] Over 470 children at al-Faruq Islamic kindergarten 
 in al-Qasr town, al-Karak Governorate, did not know that they 
 were at the mercy of huge amounts of explosives, bombs, and 
@@ -10241,18 +10242,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Firm Action Urged Against Attacks on Foreigners </TI></H3>
-<F P=102>  JN0503082094 Amman AL-DUSTUR in Arabic 5 Mar 94 pp 36, 28 </F>
-<F P=103> JN0503082094 </F>
-<F P=104>  Amman AL-DUSTUR </F>
+<F P="102">  JN0503082094 Amman AL-DUSTUR in Arabic 5 Mar 94 pp 36, 28 </F>
+<F P="103"> JN0503082094 </F>
+<F P="104">  Amman AL-DUSTUR </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> ["Last Station" column by Salih al-Qallab: "Follow the </F>
+<F P="106"> ["Last Station" column by Salih al-Qallab: "Follow the </F>
 Example of the Occupied Territory"] 
   [Text] The phenomenon of attacking foreign tourists in the 
 wake of every massacre or problem in the occupied territory 
@@ -10319,18 +10320,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Rabin on Coalition, Hebron Issue, PLO Talks </TI></H3>
-<F P=102>  TA0803164994 Tel Aviv IDF Radio in Hebrew 1400 GMT 8 Mar 94 </F>
-<F P=103> TA0803164994 </F>
-<F P=104>  Tel Aviv IDF Radio </F>
+<F P="102">  TA0803164994 Tel Aviv IDF Radio in Hebrew 1400 GMT 8 Mar 94 </F>
+<F P="103"> TA0803164994 </F>
+<F P="104">  Tel Aviv IDF Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Telephone interview with Prime Minister Yitzhaq Rabin by </F>
+<F P="106"> [Telephone interview with Prime Minister Yitzhaq Rabin by </F>
 Razi Barqay on 8 March -- recorded] 
   [Text] [Barqay] You are experiencing hard times. 
   [Rabin] Times are not easy, but that is the way it is, and 
@@ -10495,22 +10496,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Rabin Urges Syria, Lebanon To Calm Region </TI></H3>
-<F P=102>  TA0803173994 Jerusalem Israel Television Channel 1 Network 
+<F P="102">  TA0803173994 Jerusalem Israel Television Channel 1 Network 
 in Arabic 1700 GMT 8 Mar 94 </F>
 
-<F P=103> TA0803173994 </F>
-<F P=104>  Jerusalem Israel Television Channel 1 Network 
+<F P="103"> TA0803173994 </F>
+<F P="104">  Jerusalem Israel Television Channel 1 Network 
 in Arabic 1700 GMT 8 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Arabic </F>
+Language: <F P="105">Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Prime Minister Yitzhaq Rabin by Eli Nisan at </F>
+<F P="106"> [Interview with Prime Minister Yitzhaq Rabin by Eli Nisan at </F>
 the Knesset on 8 March -- recorded in Hebrew with Arabic 
 subtitles; translated from the Hebrew] 
   [Excerpt] [passage omitted] [Nisan] How will yesterday's 
@@ -10545,17 +10546,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Rabin on PLO Move at UNSC, Status of Closure </TI></H3>
-<F P=102>  TA0803175794 Jerusalem Qol Yisra'el in Hebrew 1605 GMT 8 Mar 
+<F P="102">  TA0803175794 Jerusalem Qol Yisra'el in Hebrew 1605 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803175794 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803175794 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Excerpts] Prime Minister Yitzhaq Rabin told the Knesset 
@@ -10631,18 +10632,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Cabinet Eases Closure, Debates Settler Evacuation </TI></H3>
-<F P=102>  TA0603174794 Tel Aviv IDF Radio in Hebrew 1500 GMT 6 Mar 94 </F>
-<F P=103> TA0603174794 </F>
-<F P=104>  Tel Aviv IDF Radio </F>
+<F P="102">  TA0603174794 Tel Aviv IDF Radio in Hebrew 1500 GMT 6 Mar 94 </F>
+<F P="103"> TA0603174794 </F>
+<F P="104">  Tel Aviv IDF Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by political correspondent Udi Segal] </F>
+<F P="106"> [Report by political correspondent Udi Segal] </F>
   [Excerpts] Today's cabinet meeting, which was held under 
 the cloud of a government crisis, addressed an issue which has a 
 majority support only in the present cabinet composition. The 
@@ -10689,17 +10690,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   No-Confidence Motion Filed Over Settlers' Treatment </TI></H3>
-<F P=102>  TA0803162494 Jerusalem Qol Yisra'el in Hebrew 1600 GMT 8 Mar 
+<F P="102">  TA0803162494 Jerusalem Qol Yisra'el in Hebrew 1600 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803162494 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803162494 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Moledet has submitted a motion of no confidence in 
@@ -10725,17 +10726,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Likud, Tzomet File No Confidence Over Jewish Evacuation </TI></H3>
-<F P=102>  TA0903114094 Jerusalem Qol Yisra'el in Hebrew 1000 GMT 9 Mar 
+<F P="102">  TA0903114094 Jerusalem Qol Yisra'el in Hebrew 1000 GMT 9 Mar 
 94 </F>
 
-<F P=103> TA0903114094 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0903114094 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] The Likud faction has submitted a motion of no 
@@ -10761,17 +10762,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Hebron Settlers Declare `Non-Violent Civil Uprising' </TI></H3>
-<F P=102>  TA0603151494 Jerusalem Qol Yisra'el in Hebrew 1500 GMT 6 Mar 
+<F P="102">  TA0603151494 Jerusalem Qol Yisra'el in Hebrew 1500 GMT 6 Mar 
 94 </F>
 
-<F P=103> TA0603151494 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0603151494 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] The spokesman for the Jewish settlers in Hebron and 
@@ -10799,17 +10800,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Arab MK Darawshah on Peace Talks, Syria Visit </TI></H3>
-<F P=102>  JN0603184094 Jerusalem Qol Yisra'el in Arabic 1530 GMT 6 Mar 
+<F P="102">  JN0603184094 Jerusalem Qol Yisra'el in Arabic 1530 GMT 6 Mar 
 94 </F>
 
-<F P=103> JN0603184094 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> JN0603184094 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] A delegation of Israeli Arabs, led by Knesset 
@@ -10873,17 +10874,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Two Killed in Hebron; Unrest Reported in Gaza Strip </TI></H3>
-<F P=102>  TA0703175694 Jerusalem Qol Yisra'el in English 1600 GMT 7 
+<F P="102">  TA0703175694 Jerusalem Qol Yisra'el in English 1600 GMT 7 
 Mar 94 </F>
 
-<F P=103> TA0703175694 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0703175694 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Two Arab residents of Hebron have been shot and 
@@ -10920,20 +10921,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   `Second Day' of Arab Israelis' Visit Reported </TI></H3>
-<F P=102>  JN0803192394 Jerusalem Qol Yisra'el in Arabic 1530 GMT 8 Mar 
+<F P="102">  JN0803192394 Jerusalem Qol Yisra'el in Arabic 1530 GMT 8 Mar 
 94 </F>
 
-<F P=103> JN0803192394 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> JN0803192394 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by radio correspondents Qaysar Kabahah and Muhammad </F>
+<F P="106"> [Report by radio correspondents Qaysar Kabahah and Muhammad </F>
 Sharif "from Damascus" -- recorded] 
   [Text] [Kabahah] The delegation of Arab Israeli citizens 
 started its second day in Syria with a visit to new 
@@ -11024,17 +11025,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Delegation Leader's Remarks Reported </TI></H3>
-<F P=102>  JN0903075994 Damascus Syrian Arab Republic Radio Network in 
+<F P="102">  JN0903075994 Damascus Syrian Arab Republic Radio Network in 
 Arabic 2115 GMT 8 Mar 94 </F>
 
-<F P=103> JN0903075994 </F>
-<F P=104>  Damascus Syrian Arab Republic Radio Network </F>
+<F P="103"> JN0903075994 </F>
+<F P="104">  Damascus Syrian Arab Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The delegation of the 1948 Palestinians [Arabs who 
@@ -11109,11 +11110,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Speech Rally Marks March Revolution Anniversary </TI></H3>
-<F P=102>  JN0803123994 </F>
-<F P=103> JN0803123994 </F>
-<F P=104></F>
+<F P="102">  JN0803123994 </F>
+<F P="103"> JN0803123994 </F>
+<F P="104"></F>
 
 
 
@@ -11246,20 +11247,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Al-Ahmar Address at Rally Reported </TI></H3>
-<F P=102>  JN0803145194 Damascus Syrian Arab Television Network in 
+<F P="102">  JN0803145194 Damascus Syrian Arab Television Network in 
 Arabic 0957 GMT 8 Mar 94 </F>
 
-<F P=103> JN0803145194 </F>
-<F P=104>  Damascus Syrian Arab Television Network </F>
+<F P="103"> JN0803145194 </F>
+<F P="104">  Damascus Syrian Arab Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Speech by 'Abdallah al-Ahmar, assistant secretary general </F>
+<F P="106"> [Speech by 'Abdallah al-Ahmar, assistant secretary general </F>
 of the Arab Socialist Ba'th Party and President Hafiz al-Asad's 
 representative, at a speech rally marking the 31st anniversary 
 of the 8 March revolution in Damascus--live] 
@@ -11556,21 +11557,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Israel </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Israel </F>
 <H3> <TI>   Peres Comments on Settlement Dismantling, Compensation </TI></H3>
-<F P=102>  TA0903100194 Jerusalem THE JERUSALEM POST in English 9 Mar 
+<F P="102">  TA0903100194 Jerusalem THE JERUSALEM POST in English 9 Mar 
 94 p 1--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> TA0903100194 </F>
-<F P=104>  Jerusalem THE JERUSALEM POST </F>
+<F P="103"> TA0903100194 </F>
+<F P="104">  Jerusalem THE JERUSALEM POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by David Makovsky] </F>
+<F P="106"> [Report by David Makovsky] </F>
   [Excerpts] Public opinion must be prepared for the possible 
 dismantling of some settlements, Foreign Minister Shim'on Peres 
 told reporters yesterday. But he insisted that the fate of the 
@@ -11616,19 +11617,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Saudi Arabia </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Saudi Arabia </F>
 <H3> <TI>   King Husayn Performs Pilgrimage, Meets With Fahd </TI></H3>
-<F P=102>  PM0903111094 London AL-HAYAH in Arabic 9 Mar 94 p 1 </F>
-<F P=103> PM0903111094 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102">  PM0903111094 London AL-HAYAH in Arabic 9 Mar 94 p 1 </F>
+<F P="103"> PM0903111094 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Sulayman Nimr: "King Husayn Performs Minor </F>
+<F P="106"> [Report by Sulayman Nimr: "King Husayn Performs Minor </F>
 Pilgrimage, Holds Talks With King Fahd"] 
   [Text] Jeddah -- King Husayn yesterday evening performed 
 minor pilgrimage rituals in holy Mecca. He had arrived in 
@@ -11693,19 +11694,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH ASIA </F>
-<F P=101> Afghanistan </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> Afghanistan </F>
 <H3> <TI>   Factional Clashes Continue in Kabul, Konduz </TI></H3>
 <H4>   Heavy Fighting in Kabul </H4>
-<F P=102> LD0803162594 Tehran IRIB Television First Program Network in 
+<F P="102"> LD0803162594 Tehran IRIB Television First Program Network in 
 Persian 1530 GMT 8 Mar 94 </F>
 
-<F P=103> LD0803162594 </F>
-<F P=104>  Tehran IRIB Television First Program Network </F>
+<F P="103"> LD0803162594 </F>
+<F P="104">  Tehran IRIB Television First Program Network </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] The capital city of Afghanistan, Kabul, was today 
@@ -11735,20 +11736,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat: International Protection Before Talks </TI></H3>
-<F P=102>  TA0803143094 Ankara Show Television in Turkish 2035 GMT 7 
+<F P="102">  TA0803143094 Ankara Show Television in Turkish 2035 GMT 7 
 Mar 94 </F>
 
-<F P=103> TA0803143094 </F>
-<F P=104>  Ankara Show Television </F>
+<F P="103"> TA0803143094 </F>
+<F P="104">  Ankara Show Television </F>
 
 
 <TEXT>
-Language: <F P=105> Turkish </F>
+Language: <F P="105"> Turkish </F>
 Article Type:BFN 
 
-<F P=106> [Telephone interview with PLO Chairman Yasir 'Arafat in </F>
+<F P="106"> [Telephone interview with PLO Chairman Yasir 'Arafat in </F>
 Tunis by Mehmet Ali Birand-- live; from the 32d program, in 
 English with simultaneous translation into Turkish] 
   [Text] [Birand] Mr. Chairman, thank you for sparing your 
@@ -11819,16 +11820,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> Arab-Israeli Talks </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> Arab-Israeli Talks </F>
 <H3> <TI>   PLO Official Sets Conditions for Talks </TI></H3>
-<F P=102>  NC0803123094 Cairo MENA in Arabic 1130 GMT 8 Mar 94 </F>
-<F P=103> NC0803123094 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102">  NC0803123094 Cairo MENA in Arabic 1130 GMT 8 Mar 94 </F>
+<F P="103"> NC0803123094 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 8 Mar (MENA)--Palestinian Ambassador in Cairo 
@@ -11935,17 +11936,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   King Arrives in Jeddah, Performs Minor Pilgrimage </TI></H3>
-<F P=102>  JN0803212394 Amman Jordan Television Network in Arabic 1800 
+<F P="102">  JN0803212394 Amman Jordan Television Network in Arabic 1800 
 GMT 8 Mar 94 </F>
 
-<F P=103> JN0803212394 </F>
-<F P=104>  Amman Jordan Television Network </F>
+<F P="103"> JN0803212394 </F>
+<F P="104">  Amman Jordan Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpts] His Majesty King Husayn performed the minor 
@@ -11971,17 +11972,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Policeman Wounded by Shots Near Gaza Strip </TI></H3>
-<F P=102>  TA0703082194 Jerusalem Qol Yisra'el in Hebrew 0700 GMT 7 Mar 
+<F P="102">  TA0703082194 Jerusalem Qol Yisra'el in Hebrew 0700 GMT 7 Mar 
 94 </F>
 
-<F P=103> TA0703082194 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0703082194 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Shots were fired at a police car this morning near 
@@ -12014,18 +12015,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> LEBANON </F>
+<F P="100"> LEBANON </F>
 <H3> <TI>   Explosives Discovered Near French Cultural Center </TI></H3>
 <H4>   Device Defused </H4>
-<F P=102> NC0903084694 Beirut Voice of Lebanon in Arabic 0815 GMT 9 
+<F P="102"> NC0903084694 Beirut Voice of Lebanon in Arabic 0815 GMT 9 
 Mar 94 </F>
 
-<F P=103> NC0903084694 </F>
-<F P=104>  Beirut Voice of Lebanon </F>
+<F P="103"> NC0903084694 </F>
+<F P="104">  Beirut Voice of Lebanon </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] A military source has stated that at about 0900 
@@ -12054,16 +12055,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> LEBANON </F>
+<F P="100"> LEBANON </F>
 <H3> <TI>   Explosives Discovered Near French Cultural Center </TI></H3>
 <H4>   Further on Attempted Bombing </H4>
-<F P=102> NC0903140594 Paris AFP in English 1325 GMT 9 Mar 94 </F>
-<F P=103> NC0903140594 </F>
-<F P=104>  Paris AFP </F>
+<F P="102"> NC0903140594 Paris AFP in English 1325 GMT 9 Mar 94 </F>
+<F P="103"> NC0903140594 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Juniyah, Lebanon, March 9 (AFP)--The Lebanese Army 
@@ -12135,16 +12136,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> LEBANON </F>
+<F P="100"> LEBANON </F>
 <H3> <TI>   Explosives Discovered Near French Cultural Center </TI></H3>
 <H4>   Three Arrested </H4>
-<F P=102> NC0903180894 Beirut Radio Lebanon in Arabic 1630 GMT 9 Mar 94 </F>
-<F P=103> NC0903180894 </F>
-<F P=104>  Beirut Radio Lebanon </F>
+<F P="102"> NC0903180894 Beirut Radio Lebanon in Arabic 1630 GMT 9 Mar 94 </F>
+<F P="103"> NC0903180894 </F>
+<F P="104">  Beirut Radio Lebanon </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Warrant Officer Muhammad al-Dada, a military expert 
@@ -12198,16 +12199,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> Inter-Arab Affairs </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> Inter-Arab Affairs </F>
 <H3> <TI>   Arab League Officials Submit Report on Yemen </TI></H3>
-<F P=102>  NC0903175794 Cairo MENA in Arabic 1650 GMT 9 Mar 94 </F>
-<F P=103> NC0903175794 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102">  NC0903175794 Cairo MENA in Arabic 1650 GMT 9 Mar 94 </F>
+<F P="103"> NC0903175794 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 9 Mar (MENA)--Major General Sa'id Bayraqdar, 
@@ -12238,17 +12239,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARAB AFRICA </F>
-<F P=101> Egypt </F>
+<F P="100"> ARAB AFRICA </F>
+<F P="101"> Egypt </F>
 <H3> <TI>   Yemeni President, Delegation Arrive for `Brief' Visit </TI></H3>
 <H4>   Visit Previewed </H4>
-<F P=102> NC0903162094 Cairo MENA in Arabic 1520 GMT 9 Mar 94 </F>
-<F P=103> NC0903162094 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0903162094 Cairo MENA in Arabic 1520 GMT 9 Mar 94 </F>
+<F P="103"> NC0903162094 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 9 Mar (MENA)--Yemeni President 'Ali 'Abdallah 
@@ -12280,17 +12281,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARAB AFRICA </F>
-<F P=101> Egypt </F>
+<F P="100"> ARAB AFRICA </F>
+<F P="101"> Egypt </F>
 <H3> <TI>   Yemeni President, Delegation Arrive for `Brief' Visit </TI></H3>
 <H4>   Mubarak, Salih Meet </H4>
-<F P=102> NC0903182094 Cairo MENA in Arabic 1625 GMT 9 Mar 94 </F>
-<F P=103> NC0903182094 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0903182094 Cairo MENA in Arabic 1625 GMT 9 Mar 94 </F>
+<F P="103"> NC0903182094 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 9 Mar (MENA)--President Husni Mubarak and 
@@ -12319,17 +12320,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARAB AFRICA </F>
-<F P=101> Egypt </F>
+<F P="100"> ARAB AFRICA </F>
+<F P="101"> Egypt </F>
 <H3> <TI>   Yemeni President, Delegation Arrive for `Brief' Visit </TI></H3>
 <H4>   Salih Praises Mubarak's Effort </H4>
-<F P=102> NC0903192194 Cairo MENA in Arabic 1745 GMT 9 Mar 94 </F>
-<F P=103> NC0903192194 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0903192194 Cairo MENA in Arabic 1745 GMT 9 Mar 94 </F>
+<F P="103"> NC0903192194 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 9 Mar (MENA)--Yemeni President 'Ali 'Abdallah 
@@ -12374,17 +12375,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARAB AFRICA </F>
-<F P=101> Egypt </F>
+<F P="100"> ARAB AFRICA </F>
+<F P="101"> Egypt </F>
 <H3> <TI>   Yemeni President, Delegation Arrive for `Brief' Visit </TI></H3>
 <H4>   Mubarak, Salih Hold News Conference </H4>
-<F P=102> NC0903215894 Cairo MENA in Arabic 2030 GMT 9 Mar 94 </F>
-<F P=103> NC0903215894 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0903215894 Cairo MENA in Arabic 2030 GMT 9 Mar 94 </F>
+<F P="103"> NC0903215894 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 9 Mar (MENA)--President Muhammad Husni 
@@ -12552,17 +12553,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARAB AFRICA </F>
-<F P=101> Egypt </F>
+<F P="100"> ARAB AFRICA </F>
+<F P="101"> Egypt </F>
 <H3> <TI>   Yemeni President, Delegation Arrive for `Brief' Visit </TI></H3>
 <H4>   Salih Departs </H4>
-<F P=102> NC0903203394 Cairo MENA in Arabic 2010 GMT 9 Mar 94 </F>
-<F P=103> NC0903203394 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102"> NC0903203394 Cairo MENA in Arabic 2010 GMT 9 Mar 94 </F>
+<F P="103"> NC0903203394 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Cairo, 9 Mar (MENA)--Yemeni President 'Ali 'Abdallah 
@@ -12589,17 +12590,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Receives `Urgent' Message From Yeltsin </TI></H3>
-<F P=102>  LD1003092194 Tunis Tunisian Republic Radio Network in Arabic 
+<F P="102">  LD1003092194 Tunis Tunisian Republic Radio Network in Arabic 
 0700 GMT 10 Mar 94 </F>
 
-<F P=103> LD1003092194 </F>
-<F P=104>  Tunis Tunisian Republic Radio Network </F>
+<F P="103"> LD1003092194 </F>
+<F P="104">  Tunis Tunisian Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Yesterday evening President Yasir 'Arafat received 
@@ -12629,15 +12630,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Qaddumi Welcomes Russian Initiative for Conference </TI></H3>
-<F P=102>  NC1003095094 Cairo MENA in Arabic 0925 GMT 10 mar 94 </F>
-<F P=103> NC1003095094 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102">  NC1003095094 Cairo MENA in Arabic 0925 GMT 10 mar 94 </F>
+<F P="103"> NC1003095094 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Tunis, 10 Mar (MENA)--Faruq Qaddumi, head of the PLO 
@@ -12665,18 +12666,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   PLO Taking Hebron Statements `Very Seriously' </TI></H3>
-<F P=102>  JN0803132894 Amman AL-ASWAQ in Arabic 8 Mar 94 pp 1, 11 </F>
-<F P=103> JN0803132894 </F>
-<F P=104>  Amman AL-ASWAQ </F>
+<F P="102">  JN0803132894 Amman AL-ASWAQ in Arabic 8 Mar 94 pp 1, 11 </F>
+<F P="103"> JN0803132894 </F>
+<F P="104">  Amman AL-ASWAQ </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report from Tunis] </F>
+<F P="106"> [Report from Tunis] </F>
   [Text] The PLO leadership in Tunis has taken very seriously 
 a number of statements issued following the Hebron massacre, 
 copies of which were dispatched to Yasir 'Arafat. The PLO 
@@ -12745,18 +12746,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Palestinian Committees Investigate Hebron Massacre </TI></H3>
-<F P=102>  TA0903112994 Tel Aviv HA'ARETZ in Hebrew 9 Mar 94 p A3 </F>
-<F P=103> TA0903112994 </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
+<F P="102">  TA0903112994 Tel Aviv HA'ARETZ in Hebrew 9 Mar 94 p A3 </F>
+<F P="103"> TA0903112994 </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by Yosi Torpstein] </F>
+<F P="106"> [Report by Yosi Torpstein] </F>
   [Text] Two Palestinian commissions of inquiry into the 
 Hebron massacre are currently operating in Hebron: one set up on 
 5 March by PLO Chairman Yasir 'Arafat, and the other appointed 
@@ -12861,15 +12862,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   `At Least Six' Others Reportedly Involved in Hebron </TI></H3>
-<F P=102>  LD1003093094 Tehran IRNA in English 0825 GMT 10 Mar 94 </F>
-<F P=103> LD1003093094 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD1003093094 Tehran IRNA in English 0825 GMT 10 Mar 94 </F>
+<F P="103"> LD1003093094 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Bonn, March 10, IRNA -- A Palestinian doctor who is 
@@ -12918,18 +12919,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Hamas Leader in Gaza Strip Interviewed </TI></H3>
-<F P=102>  PM0903122994 Barcelona LA VANGUARDIA in Spanish 6 Mar 94 p 8 </F>
-<F P=103> PM0903122994 </F>
-<F P=104>  Barcelona LA VANGUARDIA </F>
+<F P="102">  PM0903122994 Barcelona LA VANGUARDIA in Spanish 6 Mar 94 p 8 </F>
+<F P="103"> PM0903122994 </F>
+<F P="104">  Barcelona LA VANGUARDIA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> ["Exclusive interview" with Hamas leader Mahmud al-Zahhar by </F>
+<F P="106"> ["Exclusive interview" with Hamas leader Mahmud al-Zahhar by </F>
 Henrique Cymerman in Gaza city; date not given] 
   [Text] Jerusalem -- "This massacre was to be expected from 
 the outset. The Israeli people and government do not believe in 
@@ -13042,18 +13043,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Hamas Urges `Jihad,' Programs `To Deal' With Settlers </TI></H3>
-<F P=102>  JN0903102794 Amman AL-DUSTUR in Arabic 9 Mar 94 p 29 </F>
-<F P=103> JN0903102794 </F>
-<F P=104>  Amman AL-DUSTUR </F>
+<F P="102">  JN0903102794 Amman AL-DUSTUR in Arabic 9 Mar 94 p 29 </F>
+<F P="103"> JN0903102794 </F>
+<F P="104">  Amman AL-DUSTUR </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Tawfiq 'Abid] </F>
+<F P="106"> [By Tawfiq 'Abid] </F>
   [Excerpts] Engineer Ibrahim Ghawshah, official spokesman 
 for the Islamic Resistance Movement, Hamas, has urged the other 
 Palestinian forces and factions to develop a jihad and militant 
@@ -13108,15 +13109,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   `Self-Styled' Provisional Government Writes Clinton </TI></H3>
-<F P=102>  JN0903100894 Amman JORDAN TIMES in English 9 Mar 94 p 3 </F>
-<F P=103> JN0903100894 </F>
-<F P=104>  Amman JORDAN TIMES </F>
+<F P="102">  JN0903100894 Amman JORDAN TIMES in English 9 Mar 94 p 3 </F>
+<F P="103"> JN0903100894 </F>
+<F P="104">  Amman JORDAN TIMES </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Amman--A group of Palestinians, believed to be 
@@ -13235,18 +13236,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Territories' Losses From Closure Estimated </TI></H3>
-<F P=102>  TA0903161194 Jerusalem AL-QUDS in Arabic 9 Mar 94 p 5 </F>
-<F P=103> TA0903161194 </F>
-<F P=104>  Jerusalem AL-QUDS </F>
+<F P="102">  TA0903161194 Jerusalem AL-QUDS in Arabic 9 Mar 94 p 5 </F>
+<F P="103"> TA0903161194 </F>
+<F P="104">  Jerusalem AL-QUDS </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Sa'id 'Iyad] </F>
+<F P="106"> [By Sa'id 'Iyad] </F>
   [Excerpt] Bethlehem -- An economic expert has estimated the 
 losses to the Palestinian economy from the ongoing military 
 closure and curfew imposed on the occupied territories 12 days 
@@ -13278,17 +13279,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   `Multifaceted Battle' Urged in Response to Massacre </TI></H3>
-<F P=102>  JN0403161194 Baghdad Voice of the PLO in Arabic 1700 GMT 3 
+<F P="102">  JN0403161194 Baghdad Voice of the PLO in Arabic 1700 GMT 3 
 Mar 94 </F>
 
-<F P=103> JN0403161194 </F>
-<F P=104>  Baghdad Voice of the PLO </F>
+<F P="103"> JN0403161194 </F>
+<F P="104">  Baghdad Voice of the PLO </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Without a doubt, the political reverberations of the 
@@ -13366,20 +13367,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Commentary: Settlements Issue Must Top Talks </TI></H3>
-<F P=102>  JN0803130394 Sanaa Voice of Palestine in Arabic 1822 GMT 7 
+<F P="102">  JN0803130394 Sanaa Voice of Palestine in Arabic 1822 GMT 7 
 Mar 94 </F>
 
-<F P=103> JN0803130394 </F>
-<F P=104>  Sanaa Voice of Palestine </F>
+<F P="103"> JN0803130394 </F>
+<F P="104">  Sanaa Voice of Palestine </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Station commentary: "Blood, Massacre, and Settlements"] </F>
+<F P="106"> [Station commentary: "Blood, Massacre, and Settlements"] </F>
   [Text] A very long time will pass before the Ibrahimi 
 Mosque massacre fades from our memory, a massacre the Zionist 
 army and settlers committed against worshipers, with advanced 
@@ -13471,17 +13472,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Pakistan </F>
+<F P="100"> Pakistan </F>
 <H3> <TI>   More on Foreign Minister's Comments </TI></H3>
-<F P=102>  BK1003031494 Islamabad Radio Pakistan Network in Urdu 0200 
+<F P="102">  BK1003031494 Islamabad Radio Pakistan Network in Urdu 0200 
 GMT 10 Mar 94 </F>
 
-<F P=103> BK1003031494 </F>
-<F P=104>  Islamabad Radio Pakistan Network </F>
+<F P="103"> BK1003031494 </F>
+<F P="104">  Islamabad Radio Pakistan Network </F>
 
 
 <TEXT>
-Language: <F P=105> Urdu </F>
+Language: <F P="105"> Urdu </F>
 Article Type:BFN 
 
   [Text] At the UN Human Rights Commission in Geneva, 
@@ -13544,15 +13545,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Pakistan </F>
+<F P="100"> Pakistan </F>
 <H3> <TI>   Interior Minister Alleges `Joint' RAW-Khad Liaison </TI></H3>
-<F P=102>  BK0903124894 Islamabad THE MUSLIM in English 9 Mar 94 p 12 </F>
-<F P=103> BK0903124894 </F>
-<F P=104>  Islamabad THE MUSLIM </F>
+<F P="102">  BK0903124894 Islamabad THE MUSLIM in English 9 Mar 94 p 12 </F>
+<F P="103"> BK0903124894 </F>
+<F P="104">  Islamabad THE MUSLIM </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Islamabad, March 8: Pakistan has been the target of 
@@ -13603,17 +13604,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Pakistan </F>
+<F P="100"> Pakistan </F>
 <H3> <TI>   Indian Forces Fire Across Control Line; 1 Killed </TI></H3>
-<F P=102>  BK1003104894 Islamabad Radio Pakistan Network in Urdu 1000 
+<F P="102">  BK1003104894 Islamabad Radio Pakistan Network in Urdu 1000 
 GMT 10 Mar 94 </F>
 
-<F P=103> BK1003104894 </F>
-<F P=104>  Islamabad Radio Pakistan Network </F>
+<F P="103"> BK1003104894 </F>
+<F P="104">  Islamabad Radio Pakistan Network </F>
 
 
 <TEXT>
-Language: <F P=105> Urdu </F>
+Language: <F P="105"> Urdu </F>
 Article Type:BFN 
 
   [Text] In Azad Kashmir, one woman was killed and two young 
@@ -13642,18 +13643,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Pakistan </F>
+<F P="100"> Pakistan </F>
 <H3> <TI>   Editorial Views Iranian Proposal for Regional Alliance </TI></H3>
-<F P=102>  BK0903143394 Rawalpindi NAWA-I-WAQT in Urdu 8 Mar 94 p 4 </F>
-<F P=103> BK0903143394 </F>
-<F P=104>  Rawalpindi NAWA-I-WAQT </F>
+<F P="102">  BK0903143394 Rawalpindi NAWA-I-WAQT in Urdu 8 Mar 94 p 4 </F>
+<F P="103"> BK0903143394 </F>
+<F P="104">  Rawalpindi NAWA-I-WAQT </F>
 
 
 <TEXT>
-Language: <F P=105> Urdu </F>
+Language: <F P="105"> Urdu </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "The Iranian Proposal of a New Regional Alliance </F>
+<F P="106"> [Editorial: "The Iranian Proposal of a New Regional Alliance </F>
 and What Realism Demands"] 
   [Text] Iran has proposed to the visiting Indian and Chinese 
 foreign ministers that a bloc be formed consisting of PRC, 
@@ -13745,18 +13746,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Pakistan </F>
+<F P="100"> Pakistan </F>
 <H3> <TI>   Editorial Views Possible ISI Aid to Afghanistan </TI></H3>
-<F P=102>  BK0803111794 Islamabad THE NATION in English 8 Mar 94 p 6 </F>
-<F P=103> BK0803111794 </F>
-<F P=104>  Islamabad THE NATION </F>
+<F P="102">  BK0803111794 Islamabad THE NATION in English 8 Mar 94 p 6 </F>
+<F P="103"> BK0803111794 </F>
+<F P="104">  Islamabad THE NATION </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Taking Sides?"] </F>
+<F P="106"> [Editorial: "Taking Sides?"] </F>
   [Text] According to a press report there is a general 
 belief both in the government as well as the non-governmental 
 circles in Kabul that Pakistan's Inter Services Intelligence 
@@ -13817,20 +13818,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Pakistan </F>
+<F P="100"> Pakistan </F>
 <H3> <TI>   Paper Views `New Alignments' in South Asia </TI></H3>
-<F P=102>  BK0803130094 Peshawar THE FRONTIER POST in English 8 Mar 94 
+<F P="102">  BK0803130094 Peshawar THE FRONTIER POST in English 8 Mar 94 
 p 10 </F>
 
-<F P=103> BK0803130094 </F>
-<F P=104>  Peshawar THE FRONTIER POST </F>
+<F P="103"> BK0803130094 </F>
+<F P="104">  Peshawar THE FRONTIER POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Moving Towards a New Regional Order"] </F>
+<F P="106"> [Editorial: "Moving Towards a New Regional Order"] </F>
   [Text] On the occasion of the visit of the Chinese and 
 Indian foreign ministers to Teheran, Iran has made it clear that 
 it would like to see greater cooperation between the three 
@@ -13903,18 +13904,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Report Details Objectives of Rabin's U.S. Visit </TI></H3>
-<F P=102>  TA0903142694 Tel Aviv HA'ARETZ in Hebrew 9 Mar 94 p A5 </F>
-<F P=103> TA0903142694 </F>
-<F P=104>  Tel Aviv HA'ARETZ </F>
+<F P="102">  TA0903142694 Tel Aviv HA'ARETZ in Hebrew 9 Mar 94 p A5 </F>
+<F P="103"> TA0903142694 </F>
+<F P="104">  Tel Aviv HA'ARETZ </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by political correspondent Aluf Ben] </F>
+<F P="106"> [Report by political correspondent Aluf Ben] </F>
   [Excerpt] In his upcoming visit to Washington, Prime 
 Minister Yitzhaq Rabin will try to persuade U.S. Administration 
 leaders to put off the enforcement of the new regulations on the 
@@ -13959,19 +13960,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Russia's Call for 2nd Madrid Conference Rejected </TI></H3>
-<F P=102>  TA0903202194 Jerusalem Israel Television Channel 1 Network 
+<F P="102">  TA0903202194 Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1800 GMT 9 Mar 94 </F>
 
-<F P=103> TA0903202194 </F>
-<F P=104>  Jerusalem Israel Television Channel 1 Network 
+<F P="103"> TA0903202194 </F>
+<F P="104">  Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1800 GMT 9 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Hebrew </F>
+Language: <F P="105">Hebrew </F>
 Article Type:BFN 
 
   [Text] Russia is calling for the convening of a second 
@@ -14011,18 +14012,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Peres Interviewed by Palestinian Reporters </TI></H3>
-<F P=102>  TA0903185994 Jerusalem AL-QUDS in Arabic 9 Mar 94 pp 1, 13 </F>
-<F P=103> TA0903185994 </F>
-<F P=104>  Jerusalem AL-QUDS </F>
+<F P="102">  TA0903185994 Jerusalem AL-QUDS in Arabic 9 Mar 94 pp 1, 13 </F>
+<F P="103"> TA0903185994 </F>
+<F P="104">  Jerusalem AL-QUDS </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report on interview with Foreign Minister Shim'on Peres by </F>
+<F P="106"> [Report on interview with Foreign Minister Shim'on Peres by </F>
 Da'ud Kuttab in Jerusalem on 8 March] 
   [Excerpts] Jerusalem -- Israeli Foreign Minister Shim'on 
 Peres acknowledged that the Palestinian people's daily reality 
@@ -14109,17 +14110,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Likud Faction Calls on Rabin To Quit </TI></H3>
-<F P=102>  TA0603174694 Jerusalem Qol Yisra'el in Hebrew 1700 GMT 6 Mar 
+<F P="102">  TA0603174694 Jerusalem Qol Yisra'el in Hebrew 1700 GMT 6 Mar 
 94 </F>
 
-<F P=103> TA0603174694 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0603174694 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] The Likud Knesset faction has called on Prime 
@@ -14148,17 +14149,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Report Criticizes Security at Site of Massacre </TI></H3>
-<F P=102>  TA0603061794 Jerusalem Qol Yisra'el in English 0500 GMT 6 
+<F P="102">  TA0603061794 Jerusalem Qol Yisra'el in English 0500 GMT 6 
 Mar 94 </F>
 
-<F P=103> TA0603061794 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0603061794 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The closure on the West Bank and Gaza is 
@@ -14188,17 +14189,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Compensation Agreement Reached for Hebron Victims </TI></H3>
-<F P=102>  TA0703055394 Jerusalem Qol Yisra'el in English 0500 GMT 7 
+<F P="102">  TA0703055394 Jerusalem Qol Yisra'el in English 0500 GMT 7 
 Mar 94 </F>
 
-<F P=103> TA0703055394 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0703055394 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Finance Ministry and National Insurance Institute 
@@ -14227,18 +14228,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   U.S. Legal Moves on Kakh, Kahana Hay Viewed </TI></H3>
-<F P=102>  TA0603115194 Tel Aviv YEDI'OT AHARONOT in Hebrew 6 Mar 94 p 7 </F>
-<F P=103> TA0603115194 </F>
-<F P=104>  Tel Aviv YEDI'OT AHARONOT </F>
+<F P="102">  TA0603115194 Tel Aviv YEDI'OT AHARONOT in Hebrew 6 Mar 94 p 7 </F>
+<F P="103"> TA0603115194 </F>
+<F P="104">  Tel Aviv YEDI'OT AHARONOT </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by Hayim Shibi from Washington] </F>
+<F P="106"> [Report by Hayim Shibi from Washington] </F>
   [Excerpts] The Clinton administration is close to deciding 
 to place the Kakh and Kahana Hay movements on the list of terror 
 organizations. [passage omitted] 
@@ -14289,18 +14290,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Inclusion of Local Arabs in Process Urged </TI></H3>
-<F P=102>  TA0603141294 Tel Aviv 'AL HAMISHMAR in Hebrew 6 Mar 94 p 9 </F>
-<F P=103> TA0603141294 </F>
-<F P=104>  Tel Aviv 'AL HAMISHMAR </F>
+<F P="102">  TA0603141294 Tel Aviv 'AL HAMISHMAR in Hebrew 6 Mar 94 p 9 </F>
+<F P="103"> TA0603141294 </F>
+<F P="104">  Tel Aviv 'AL HAMISHMAR </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Avner Regev: "They Are Palestinians, Too"] </F>
+<F P="106"> [Commentary by Avner Regev: "They Are Palestinians, Too"] </F>
   [Text] Reacting to last week's events in the Israeli 
 Palestinian sector, Knesset Member Talib al-Sani' stated: A 
 wide chasm has been created between the Israeli Arab population 
@@ -14418,18 +14419,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Data Issued on Law Enforcement Against Settlers </TI></H3>
-<F P=102>  TA0903120394 Tel Aviv DAVAR in Hebrew 9 Mar 94 p 1 </F>
-<F P=103> TA0903120394 </F>
-<F P=104>  Tel Aviv DAVAR </F>
+<F P="102">  TA0903120394 Tel Aviv DAVAR in Hebrew 9 Mar 94 p 1 </F>
+<F P="103"> TA0903120394 </F>
+<F P="104">  Tel Aviv DAVAR </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Report by Sha'ul Rehavi] </F>
+<F P="106"> [Report by Sha'ul Rehavi] </F>
   [Text] A new report by the Betzelem Organization regarding 
 law enforcement on settlers in the territories states, among 
 other things, that the law enforcement authorities and the 
@@ -14471,19 +14472,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Twelve Palestinians Wounded in Territories' Clashes </TI></H3>
-<F P=102>  TA0603190794 Jerusalem Israel Television Channel 1 Network 
+<F P="102">  TA0603190794 Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1800 GMT 6 Mar 94 </F>
 
-<F P=103> TA0603190794 </F>
-<F P=104>  Jerusalem Israel Television Channel 1 Network 
+<F P="103"> TA0603190794 </F>
+<F P="104">  Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1800 GMT 6 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Hebrew </F>
+Language: <F P="105">Hebrew </F>
 Article Type:BFN 
 
   [Text] Twelve Palestinians were wounded today in violent 
@@ -14516,17 +14517,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Soldiers Kill 2 `Terrorists' at Gaza Checkpoint </TI></H3>
-<F P=102>  TA0803060194 Jerusalem Qol Yisra'el in Hebrew 0500 GMT 8 Mar 
+<F P="102">  TA0803060194 Jerusalem Qol Yisra'el in Hebrew 0500 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803060194 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803060194 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Two wanted terrorists were killed a short while 
@@ -14553,17 +14554,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Police Arrest 2 Fugitive `Right-Wing Extremists' </TI></H3>
-<F P=102>  TA0803062094 Jerusalem Qol Yisra'el in Hebrew 0600 GMT 8 Mar 
+<F P="102">  TA0803062094 Jerusalem Qol Yisra'el in Hebrew 0600 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803062094 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803062094 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Another two right-wing extremists in the 
@@ -14594,17 +14595,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Hamas Squad, Rioters Arrested in East Jerusalem </TI></H3>
-<F P=102>  TA0803180594 Jerusalem Qol Yisra'el in Hebrew 1600 GMT 8 Mar 
+<F P="102">  TA0803180594 Jerusalem Qol Yisra'el in Hebrew 1600 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803180594 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803180594 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Last week the Jerusalem District police arrested 
@@ -14638,11 +14639,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Update on 8 Mar Situation in Territories, Golan Heights </TI></H3>
-<F P=102>  TA0903123294 </F>
-<F P=103> TA0903123294 </F>
-<F P=104></F>
+<F P="102">  TA0903123294 </F>
+<F P="103"> TA0903123294 </F>
+<F P="104"></F>
 
 
 
@@ -14691,19 +14692,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   SHAS To Return To Government `Within 10 Days' </TI></H3>
-<F P=102>  TA0603190594 Jerusalem Israel Television Channel 1 Network 
+<F P="102">  TA0603190594 Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1800 GMT 6 Mar 94 </F>
 
-<F P=103> TA0603190594 </F>
-<F P=104>  Jerusalem Israel Television Channel 1 Network 
+<F P="103"> TA0603190594 </F>
+<F P="104">  Jerusalem Israel Television Channel 1 Network 
 in Hebrew 1800 GMT 6 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Hebrew </F>
+Language: <F P="105">Hebrew </F>
 Article Type:BFN 
 
   [Excerpts] SHAS [Torah Observing Sephardim] sources said 
@@ -14733,17 +14734,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Tzomet Renews NRP, Agudat Yisra'el Alliance </TI></H3>
-<F P=102>  TA0803163094 Jerusalem Qol Yisra'el in Hebrew 1600 GMT 8 Mar 
+<F P="102">  TA0803163094 Jerusalem Qol Yisra'el in Hebrew 1600 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803163094 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803163094 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] Today Tzomet leader Refa'el Eytan announced the 
@@ -14772,18 +14773,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH ASIA </F>
-<F P=101> India </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> India </F>
 <H3> <TI>   Radio Reports on Postponement of UN's Kashmir Resolution </TI></H3>
-<F P=102>  BK0903153994 Delhi All India Radio Network in English 1430 
+<F P="102">  BK0903153994 Delhi All India Radio Network in English 1430 
 GMT 9 Mar 94 </F>
 
-<F P=103> BK0903153994 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK0903153994 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Voting on Pakistan's resolution on Kashmir at the 
@@ -14813,18 +14814,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH ASIA </F>
-<F P=101> India </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> India </F>
 <H3> <TI>   Efforts of PRC, Iran Noted </TI></H3>
-<F P=102>  BK0903161894 Delhi All India Radio Network in English 1530 
+<F P="102">  BK0903161894 Delhi All India Radio Network in English 1530 
 GMT 9 Mar 94 </F>
 
-<F P=103> BK0903161894 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK0903161894 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] China and Iran have asked Islamabad to defer voting 
@@ -14856,18 +14857,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH ASIA </F>
-<F P=101> India </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> India </F>
 <H3> <TI>   India's `Stunning' Victory Noted </TI></H3>
-<F P=102>  BK1003033294 Delhi All India Radio Network in English 0245 
+<F P="102">  BK1003033294 Delhi All India Radio Network in English 0245 
 GMT 10 Mar 94 </F>
 
-<F P=103> BK1003033294 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK1003033294 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] India won a stunning diplomatic victory in Geneva 
@@ -14918,21 +14919,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH ASIA </F>
-<F P=101> India </F>
+<F P="100"> SOUTH ASIA </F>
+<F P="101"> India </F>
 <H3> <TI>   Pakistan Urged To `Accept Defeat' </TI></H3>
-<F P=102>  BK1003035894 Delhi All India Radio Network in English 0245 
+<F P="102">  BK1003035894 Delhi All India Radio Network in English 0245 
 GMT 10 Mar 94 </F>
 
-<F P=103> BK1003035894 </F>
-<F P=104>  Delhi All India Radio Network </F>
+<F P="103"> BK1003035894 </F>
+<F P="104">  Delhi All India Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Kanchan Gupta] </F>
+<F P="106"> [Commentary by Kanchan Gupta] </F>
   [Text] Pakistan has only itself to blame for the virtual 
 defeat it has suffered at the UN Human Rights Commission [UNHRC] 
 conference in Geneva, where it has to unconditionally withdraw 
@@ -15004,15 +15005,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Libya </F>
+<F P="100"> Libya </F>
 <H3> <TI>   GPC: Hebron Massacre Act of Israeli Government </TI></H3>
-<F P=102>  LD0903174694 Tripoli JANA in Arabic 1640 GMT 9 Mar 94 </F>
-<F P=103> LD0903174694 </F>
-<F P=104>  Tripoli JANA </F>
+<F P="102">  LD0903174694 Tripoli JANA in Arabic 1640 GMT 9 Mar 94 </F>
+<F P="103"> LD0903174694 </F>
+<F P="104">  Tripoli JANA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Tripoli, 9 Mar -- The secretariat of the General 
@@ -15069,17 +15070,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Libya </F>
+<F P="100"> Libya </F>
 <H3> <TI>   Opposition Broadcasts To Urge Toppling of Regime </TI></H3>
-<F P=102>  JN1003093894 Paris Radio Monte Carlo in Arabic 0600 GMT 10 
+<F P="102">  JN1003093894 Paris Radio Monte Carlo in Arabic 0600 GMT 10 
 Mar 94 </F>
 
-<F P=103> JN1003093894 </F>
-<F P=104>  Paris Radio Monte Carlo </F>
+<F P="103"> JN1003093894 </F>
+<F P="104">  Paris Radio Monte Carlo </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] In Cairo, Libyan opposition figure Muhammad Fayiz 
@@ -15117,19 +15118,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Saudi Arabia </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Saudi Arabia </F>
 <H3> <TI>   Jordan's Husayn `Snubbed' by Saudis, King Fahd </TI></H3>
-<F P=102>  NC0903131494 Paris AFP in English 1208 GMT 9 Mar 94 </F>
-<F P=103> NC0903131494 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC0903131494 Paris AFP in English 1208 GMT 9 Mar 94 </F>
+<F P="103"> NC0903131494 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Taieb Mahjoub] </F>
+<F P="106"> [By Taieb Mahjoub] </F>
   [Text] Dubai, United Arab Emirates, March 9 (AFP) -- 
 Jordan's King Husayn was snubbed in Saudi Arabia and flew home 
 Wednesday [9 March] after a Mecca pilgrimage which failed to 
@@ -15226,18 +15227,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   Statement Notes `Positive' Moves of Military Units </TI></H3>
-<F P=102>  JN0903211694 Sanaa Yemeni Republic Radio Network in Arabic 
+<F P="102">  JN0903211694 Sanaa Yemeni Republic Radio Network in Arabic 
 2012 GMT 9 Mar 94 </F>
 
-<F P=103> JN0903211694 </F>
-<F P=104>  Sanaa Yemeni Republic Radio Network </F>
+<F P="103"> JN0903211694 </F>
+<F P="104">  Sanaa Yemeni Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The Higher Military Committee held a meeting in 
@@ -15285,21 +15286,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   YSP Proposes Two Options for Resolving Crisis </TI></H3>
-<F P=102>  PM0803170394 London AL-SHARQ AL-AWSAT in Arabic 8 Mar 94 pp 
+<F P="102">  PM0803170394 London AL-SHARQ AL-AWSAT in Arabic 8 Mar 94 pp 
 1, 4 </F>
 
-<F P=103> PM0803170394 </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
+<F P="103"> PM0803170394 </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by 'Abdallah Hammudah: "Socialist Party Rejects </F>
+<F P="106"> [Report by 'Abdallah Hammudah: "Socialist Party Rejects </F>
 Federation and Offers One of Two Options: Document or Partition"] 
   [Excerpt] London -- Yemeni sources have emphasized that the 
 current position of the Yemeni Socialist Party [YSP] on ways of 
@@ -15341,19 +15342,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   YSP Proposes `Confederation' Formula </TI></H3>
-<F P=102>  PM0903123094 London AL-HAYAH in Arabic 9 Mar 94 pp 1, 4 </F>
-<F P=103> PM0903123094 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102">  PM0903123094 London AL-HAYAH in Arabic 9 Mar 94 pp 1, 4 </F>
+<F P="103"> PM0903123094 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Faysal Makram and Iqbal 'Abdallah: "Sinan </F>
+<F P="106"> [Report by Faysal Makram and Iqbal 'Abdallah: "Sinan </F>
 Abu-Lahhum Meets With 'Abd-al-Majid, Warns Of 'New Somalia;' 
 Yemeni Socialist Party Proposes Confederation"] 
   [Excerpt] Sanaa, Aden, Cairo, AL-HAYAH -- Sources close to 
@@ -15422,18 +15423,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Yemen </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Yemen </F>
 <H3> <TI>   Presidential Council Member Receives League Team </TI></H3>
-<F P=102>  JN0803131794 Sanaa Yemeni Republic Radio Network in Arabic 
+<F P="102">  JN0803131794 Sanaa Yemeni Republic Radio Network in Arabic 
 1200 GMT 8 Mar 94 </F>
 
-<F P=103> JN0803131794 </F>
-<F P=104>  Sanaa Yemeni Republic Radio Network </F>
+<F P="103"> JN0803131794 </F>
+<F P="104">  Sanaa Yemeni Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Presidential Council member brother 'Abd-al-'Aziz 
@@ -15510,18 +15511,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   INC Says Saddam Planning Invasion of Kurdistan </TI></H3>
-<F P=102>  AU0903194094 Vienna DER STANDARD in German 5-6 Mar 94 p3 </F>
-<F P=103> AU0903194094 </F>
-<F P=104>  Vienna DER STANDARD </F>
+<F P="102">  AU0903194094 Vienna DER STANDARD in German 5-6 Mar 94 p3 </F>
+<F P="103"> AU0903194094 </F>
+<F P="104">  Vienna DER STANDARD </F>
 
 
 <TEXT>
-Language: <F P=105> German </F>
+Language: <F P="105"> German </F>
 Article Type:BFN 
 
-<F P=106> [Report by correspondent Alan George] </F>
+<F P="106"> [Report by correspondent Alan George] </F>
   [Text] Iraqi leader Saddam Husayn is said to be planning a 
 new military strike against Kurdish territories in the north of 
 the country and to have deployed armored units at various points 
@@ -15559,15 +15560,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Kurdish Official: Baghdad Massing Troops </TI></H3>
-<F P=102>  NC1003093294 Paris AFP in English 0907 GMT 10 Mar 94 </F>
-<F P=103> NC1003093294 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  NC1003093294 Paris AFP in English 0907 GMT 10 Mar 94 </F>
+<F P="103"> NC1003093294 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Irbil, Iraq, March 1O (AFP)--Iraq is massing troops 
@@ -15613,15 +15614,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Army Reportedly Launches Attacks in South </TI></H3>
-<F P=102>  LD0903201394 Tehran IRNA in English 1956 GMT 9 Mar 94 </F>
-<F P=103> LD0903201394 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0903201394 Tehran IRNA in English 1956 GMT 9 Mar 94 </F>
+<F P="103"> LD0903201394 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Dezful, Khuzestan Prov., March 9, IRNA -- The Iraqi 
@@ -15651,17 +15652,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   SAIRI Appeals to UN To End Attack </TI></H3>
-<F P=102>  LD0903202594 Kuwait KSC Television in Arabic 1900 GMT 9 Mar 
+<F P="102">  LD0903202594 Kuwait KSC Television in Arabic 1900 GMT 9 Mar 
 94 </F>
 
-<F P=103> LD0903202594 </F>
-<F P=104>  Kuwait KSC Television </F>
+<F P="103"> LD0903202594 </F>
+<F P="104">  Kuwait KSC Television </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Ayatollah Sayyid Muhammad Baqir al-Hakim, chairman 
@@ -15703,17 +15704,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Pro-Saddam Kurdish Officials Reaffirm Loyalty </TI></H3>
-<F P=102>  JN0903170794 Baghdad Republic of Iraq Radio Network in 
+<F P="102">  JN0903170794 Baghdad Republic of Iraq Radio Network in 
 Arabic 1530 GMT 9 Mar 94 </F>
 
-<F P=103> JN0903170794 </F>
-<F P=104>  Baghdad Republic of Iraq Radio Network </F>
+<F P="103"> JN0903170794 </F>
+<F P="104">  Baghdad Republic of Iraq Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Baha'-al-Din Ahmad, speaker of the Legislative 
@@ -15763,18 +15764,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Three Replaced in `Kurdish Government' Reshuffle </TI></H3>
-<F P=102>  PM0903122694 London AL-SHARQ AL-AWSAT in Arabic 8 Mar 94 p4 </F>
-<F P=103> PM0903122694 </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
+<F P="102">  PM0903122694 London AL-SHARQ AL-AWSAT in Arabic 8 Mar 94 p4 </F>
+<F P="103"> PM0903122694 </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by 'Adnan Husayn: "`Kurdish Government' Reshuffle </F>
+<F P="106"> [Report by 'Adnan Husayn: "`Kurdish Government' Reshuffle </F>
 Affecting Three of Talabani's Ministers"] 
   [Excerpts] London -- AL-SHARQ AL-AWSAT has learned that 
 the "government of the region of Kurdistan" which runs the 
@@ -15816,11 +15817,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Reopening of `Baby Milk Factory' Reported </TI></H3>
-<F P=102>  JN0803151294 </F>
-<F P=103> JN0803151294 </F>
-<F P=104></F>
+<F P="102">  JN0803151294 </F>
+<F P="103"> JN0803151294 </F>
+<F P="104"></F>
 
 
 
@@ -15894,17 +15895,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Saddam Chairs RCC, Ba'th Command Meeting </TI></H3>
-<F P=102>  JN0903212094 Baghdad Republic of Iraq Radio Network in 
+<F P="102">  JN0903212094 Baghdad Republic of Iraq Radio Network in 
 Arabic 2100 GMT 9 Mar 94 </F>
 
-<F P=103> JN0903212094 </F>
-<F P=104>  Baghdad Republic of Iraq Radio Network </F>
+<F P="103"> JN0903212094 </F>
+<F P="104">  Baghdad Republic of Iraq Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Leader President Saddam Husayn, may God preserve 
@@ -15928,17 +15929,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Saddam Calls on Iraqi Women's Union </TI></H3>
-<F P=102>  JN0903182594 Baghdad Republic of Iraq Radio Network in 
+<F P="102">  JN0903182594 Baghdad Republic of Iraq Radio Network in 
 Arabic 1700 GMT 9 Mar 94 </F>
 
-<F P=103> JN0903182594 </F>
-<F P=104>  Baghdad Republic of Iraq Radio Network </F>
+<F P="103"> JN0903182594 </F>
+<F P="104">  Baghdad Republic of Iraq Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] In appreciation of glorious Iraqi women and the 
@@ -15995,15 +15996,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Ninawa Telecommunications Installations Rebuilt </TI></H3>
-<F P=102>  JN0703120694 Baghdad INA in English 1105 GMT 7 Mar 94 </F>
-<F P=103> JN0703120694 </F>
-<F P=104>  Baghdad INA </F>
+<F P="102">  JN0703120694 Baghdad INA in English 1105 GMT 7 Mar 94 </F>
+<F P="103"> JN0703120694 </F>
+<F P="104">  Baghdad INA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Baghad, Mar 7, INA--Engineers and technicians of the 
@@ -16031,18 +16032,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Iranian Stand During Gulf War Reviewed, Analyzed </TI></H3>
-<F P=102>  JN0803171994 Baghdad AL-THAWRAH in Arabic 2 Mar 94 p 3 </F>
-<F P=103> JN0803171994 </F>
-<F P=104>  Baghdad AL-THAWRAH </F>
+<F P="102">  JN0803171994 Baghdad AL-THAWRAH in Arabic 2 Mar 94 p 3 </F>
+<F P="103"> JN0803171994 </F>
+<F P="104">  Baghdad AL-THAWRAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Article by Malik Mansur: "Iranian Rulers are Treacherous </F>
+<F P="106"> [Article by Malik Mansur: "Iranian Rulers are Treacherous </F>
 Revanchists in the Service of Washington"] 
   [Excerpts] By the conclusion of the cease-fire on 28 
 February 1991 between Iraq and the coalition, Washington had 
@@ -16107,15 +16108,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Paper: Papal Visit Would Send `Clear Message' </TI></H3>
-<F P=102>  JN0903152294 Baghdad INA in Arabic 0740 GMT 9 Mar 94 </F>
-<F P=103> JN0903152294 </F>
-<F P=104>  Baghdad INA </F>
+<F P="102">  JN0903152294 Baghdad INA in Arabic 0740 GMT 9 Mar 94 </F>
+<F P="103"> JN0903152294 </F>
+<F P="104">  Baghdad INA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Baghdad, 9 Mar (INA)--The newspaper AL-JUMHURIYAH 
@@ -16181,18 +16182,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> IRAQ </F>
+<F P="100"> IRAQ </F>
 <H3> <TI>   Vatican Denies Pope To Visit </TI></H3>
-<F P=102>  PM0803144194 London AL-HAYAH in Arabic 8 Mar 94 p 7 </F>
-<F P=103> PM0803144194 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102">  PM0803144194 London AL-HAYAH in Arabic 8 Mar 94 p 7 </F>
+<F P="103"> PM0803144194 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by 'Irfan Rashid: "Vatican Spokesman Tells </F>
+<F P="106"> [Report by 'Irfan Rashid: "Vatican Spokesman Tells </F>
 AL-HAYAH: Pope Does Not Plan To Visit Iraq in the Near Future"] 
   [Excerpt] Rome -- A spokesman for the Vatican has denied 
 reports that Pope John Paul II has accepted an invitation to 
@@ -16221,20 +16222,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Editorial: Settling Financial Matters Would Help Ties </TI></H3>
-<F P=102>  NC1003114994 Tehran KAYHAN INTERNATIONAL in English 5 Mar 94 
+<F P="102">  NC1003114994 Tehran KAYHAN INTERNATIONAL in English 5 Mar 94 
 p 2 </F>
 
-<F P=103> NC1003114994 </F>
-<F P=104>  Tehran KAYHAN INTERNATIONAL </F>
+<F P="103"> NC1003114994 </F>
+<F P="104">  Tehran KAYHAN INTERNATIONAL </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Iran-America Relations"] </F>
+<F P="106"> [Editorial: "Iran-America Relations"] </F>
   [Text] Talks, comments and features on Iran-America 
 relations are heard and seen in the western media quite often 
 these days. Last Thursday the Islamic Republic of Iran News 
@@ -16298,17 +16299,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Egyptian Charges About Assassination Plot Denounced </TI></H3>
-<F P=102>  LD0903155494 Tehran Voice of the Islamic Republic of Iran in 
+<F P="102">  LD0903155494 Tehran Voice of the Islamic Republic of Iran in 
 English 1130 GMT 9 Mar 94 </F>
 
-<F P=103> LD0903155494 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran </F>
+<F P="103"> LD0903155494 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] In the wake of recent comments of Egyptian President 
@@ -16382,15 +16383,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Speaker Urges Islamic World To `Rise Up' </TI></H3>
-<F P=102>  LD0903164894 Tehran IRNA in English 1558 GMT 9 Mar 94 </F>
-<F P=103> LD0903164894 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0903164894 Tehran IRNA in English 1558 GMT 9 Mar 94 </F>
+<F P="103"> LD0903164894 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 9, IRNA -- Majles Speaker Hojjat 
@@ -16444,19 +16445,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Velayati, Afghanistan's Gaylani Meet, Discuss Events </TI></H3>
-<F P=102>  LD0903173394 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  LD0903173394 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 1630 GMT 9 Mar 94 </F>
 
-<F P=103> LD0903173394 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> LD0903173394 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] Mr. Pir Sayyed Ahmad Gaylani, the leader of the 
@@ -16491,19 +16492,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Tajikistan Opposition Leader, Official Comment on Talks </TI></H3>
-<F P=102>  NC1003081594 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  NC1003081594 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 0430 GMT 10 Mar 94 </F>
 
-<F P=103> NC1003081594 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> NC1003081594 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] This week talks were held between the Tajik 
@@ -16576,19 +16577,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Official Cited on Mediation of Kashmir Situation </TI></H3>
-<F P=102>  NC1003073394 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  NC1003073394 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 0430 GMT 10 Mar 94 </F>
 
-<F P=103> NC1003073394 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> NC1003073394 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] The recent crisis in Indian-Pakistani relations over 
@@ -16671,19 +16672,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Commentary Examines UN's Pursuance of `Double Standards' </TI></H3>
-<F P=102>  LD0903130594 Tehran Voice of the Islamic Republic of Iran 
+<F P="102">  LD0903130594 Tehran Voice of the Islamic Republic of Iran 
 First Program Network in Persian 1100 GMT 9 Mar 94 </F>
 
-<F P=103> LD0903130594 </F>
-<F P=104>  Tehran Voice of the Islamic Republic of Iran 
+<F P="103"> LD0903130594 </F>
+<F P="104">  Tehran Voice of the Islamic Republic of Iran 
 First Program Network </F>
 
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Excerpt] The Human Rights Commission [HRC] rapporteur on 
@@ -16746,17 +16747,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Majles Passes State Budget Bill </TI></H3>
-<F P=102>  LD0903165494 Tehran IRIB Television First Program Network in 
+<F P="102">  LD0903165494 Tehran IRIB Television First Program Network in 
 Persian 1530 GMT 9 Mar 94 </F>
 
-<F P=103> LD0903165494 </F>
-<F P=104>  Tehran IRIB Television First Program Network </F>
+<F P="103"> LD0903165494 </F>
+<F P="104">  Tehran IRIB Television First Program Network </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:BFN 
 
   [Text] After nearly 100 hours of debate in the Majles open 
@@ -16811,15 +16812,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   Germany Envoy, Finance Minister Discuss Expansion of Ties </TI></H3>
-<F P=102>  LD0903200194 Tehran IRNA in English 1930 GMT 9 Mar 94 </F>
-<F P=103> LD0903200194 </F>
-<F P=104>  Tehran IRNA </F>
+<F P="102">  LD0903200194 Tehran IRNA in English 1930 GMT 9 Mar 94 </F>
+<F P="103"> LD0903200194 </F>
+<F P="104">  Tehran IRNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tehran, March 9, IRNA -- Finance Minister Morteza 
@@ -16855,18 +16856,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Official Reaction Split on King's Saudi Visit </TI></H3>
-<F P=102>  JN1003103594 Amman JORDAN TIMES in English 10 Mar 94 p 1,5 </F>
-<F P=103> JN1003103594 </F>
-<F P=104>  Amman JORDAN TIMES </F>
+<F P="102">  JN1003103594 Amman JORDAN TIMES in English 10 Mar 94 p 1,5 </F>
+<F P="103"> JN1003103594 </F>
+<F P="104">  Amman JORDAN TIMES </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By JORDAN TIMES staff reporter Nirmin Murad] </F>
+<F P="106"> [By JORDAN TIMES staff reporter Nirmin Murad] </F>
   [Text] Amman--Jordanian official reaction differed over His 
 Majesty King Husayn's return from Saudi Arabia at dawn Wednesday 
 [9 March] without holding an expected meeting with Saudi King 
@@ -17007,17 +17008,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   King's Visit Viewed </TI></H3>
-<F P=102>  JN0903142194 Paris Radio Monte Carlo in Arabic 1200 GMT 9 
+<F P="102">  JN0903142194 Paris Radio Monte Carlo in Arabic 1200 GMT 9 
 Mar 94 </F>
 
-<F P=103> JN0903142194 </F>
-<F P=104>  Paris Radio Monte Carlo </F>
+<F P="103"> JN0903142194 </F>
+<F P="104">  Paris Radio Monte Carlo </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Jordan's King Husayn returned to Amman today after 
@@ -17061,18 +17062,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Prosecutor Interrogating 30 Defendants on Bombings </TI></H3>
-<F P=102>  JN0503093894 Amman SAWT AL-SHA'B in Arabic 5 Mar 94 pp 1, 18 </F>
-<F P=103> JN0503093894 </F>
-<F P=104>  Amman SAWT AL-SHA'B </F>
+<F P="102">  JN0503093894 Amman SAWT AL-SHA'B in Arabic 5 Mar 94 pp 1, 18 </F>
+<F P="103"> JN0503093894 </F>
+<F P="104">  Amman SAWT AL-SHA'B </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Nayif al-Ma'ani] </F>
+<F P="106"> [By Nayif al-Ma'ani] </F>
   [Text] The State Security Court's public prosecutor has 
 begun to interrogate 30 defendants in connection with the recent 
 bombings in Amman and al-Zarqa' as a prelude to trying them 
@@ -17105,15 +17106,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Islamic Front, Arab Party Pledge To Foil Normalization </TI></H3>
-<F P=102>  JN0603095394 Amman AL-ASWAQ in Arabic 6 Mar 94 p 2 </F>
-<F P=103> JN0603095394 </F>
-<F P=104>  Amman AL-ASWAQ </F>
+<F P="102">  JN0603095394 Amman AL-ASWAQ in Arabic 6 Mar 94 p 2 </F>
+<F P="103"> JN0603095394 </F>
+<F P="104">  Amman AL-ASWAQ </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The leaders of the Islamic Action Front and the 
@@ -17154,15 +17155,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Differences in IAF `Openly,' `Officially' Erupt </TI></H3>
-<F P=102>  PM0703151794 London AL-SHARQ AL-AWSAT in Arabic 4 Mar 94 p4 </F>
-<F P=103> PM0703151794 </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
+<F P="102">  PM0703151794 London AL-SHARQ AL-AWSAT in Arabic 4 Mar 94 p4 </F>
+<F P="103"> PM0703151794 </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Amman, AL-SHARQ AL-AWSAT -- Differences have openly 
@@ -17225,18 +17226,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Security Incident Said To Raise `Questions' </TI></H3>
-<F P=102>  JN0803185594 Amman AL-SABIL in Arabic 8-14 Mar p 2 </F>
-<F P=103> JN0803185594 </F>
-<F P=104>  Amman AL-SABIL </F>
+<F P="102">  JN0803185594 Amman AL-SABIL in Arabic 8-14 Mar p 2 </F>
+<F P="103"> JN0803185594 </F>
+<F P="104">  Amman AL-SABIL </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Yasir Abu-Hilalah] </F>
+<F P="106"> [By Yasir Abu-Hilalah] </F>
   [Text] An arrest in al-Qasr in al-Karak Governorate has 
 raised many questions about what is wanted from Jordan, in 
 general, and from the Islamic institutions, in particular. The 
@@ -17352,18 +17353,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Muslim Brotherhood Leader on `Slander Campaign' </TI></H3>
-<F P=102>  JN0903173494 Amman AL-SABIL in Arabic 8-14 Mar 94 p 2 </F>
-<F P=103> JN0903173494 </F>
-<F P=104>  Amman AL-SABIL </F>
+<F P="102">  JN0903173494 Amman AL-SABIL in Arabic 8-14 Mar 94 p 2 </F>
+<F P="103"> JN0903173494 </F>
+<F P="104">  Amman AL-SABIL </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Muhammad 'Abd-al-Rahman Khalifah, controller </F>
+<F P="106"> [Interview with Muhammad 'Abd-al-Rahman Khalifah, controller </F>
 general of the Muslim Brotherhood, by an unidentified reporter 
 in Amman; date not given] 
   [AL-SABIL] We have learned that some arrests were made 
@@ -17489,18 +17490,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Sources Cast Doubt on U.S. Trade Center Verdicts </TI></H3>
-<F P=102>  PM0703161094 London AL-HAYAH in Arabic 6 Mar 94 p 6 </F>
-<F P=103> PM0703161094 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102">  PM0703161094 London AL-HAYAH in Arabic 6 Mar 94 p 6 </F>
+<F P="103"> PM0703161094 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report by Salah Ni'mat: "Jordanian Sources Cast Doubt on </F>
+<F P="106"> [Report by Salah Ni'mat: "Jordanian Sources Cast Doubt on </F>
 Trial of Defendants Suspected of Blowing Up Trade Center"] 
   [Excerpt] Amman -- Official Jordanian sources yesterday 
 cast doubt on the proceedings at the trial of the four 
@@ -17536,15 +17537,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Defendant's Father Denies Son's Guilt </TI></H3>
-<F P=102>  JN0603075694 Amman JORDAN TIMES in English 6 Mar 94 p 3 </F>
-<F P=103> JN0603075694 </F>
-<F P=104>  Amman JORDAN TIMES </F>
+<F P="102">  JN0603075694 Amman JORDAN TIMES in English 6 Mar 94 p 3 </F>
+<F P="103"> JN0603075694 </F>
+<F P="104">  Amman JORDAN TIMES </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The devastated father of a Jordanian convicted in 
@@ -17654,15 +17655,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   Weapons Found in PFLP Leader's Car on Visit </TI></H3>
-<F P=102>  JN0803210694 Amman AL-BILAD in Arabic 9 Mar 94 p 1 </F>
-<F P=103> JN0803210694 </F>
-<F P=104>  Amman AL-BILAD </F>
+<F P="102">  JN0803210694 Amman AL-BILAD in Arabic 9 Mar 94 p 1 </F>
+<F P="103"> JN0803210694 </F>
+<F P="104">  Amman AL-BILAD </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Let us begin [Secretary General of the Democratic 
@@ -17707,15 +17708,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   U.S. Saratoga Missiles Spread Residual Radiation </TI></H3>
-<F P=102>  JN0803134394 Amman AL-BILAD in Arabic 9 Mar 94 p 1 </F>
-<F P=103> JN0803134394 </F>
-<F P=104>  Amman AL-BILAD </F>
+<F P="102">  JN0803134394 Amman AL-BILAD in Arabic 9 Mar 94 p 1 </F>
+<F P="103"> JN0803134394 </F>
+<F P="104">  Amman AL-BILAD </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Confirmed information obtained by AL-BILAD says the 
@@ -17749,21 +17750,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Israeli Knesset Member on Official Visit to Syria </TI></H3>
 <H4>   Comments on Visit </H4>
-<F P=102> TA0803111794 Jerusalem Qol Yisra'el in Hebrew 0505 GMT 8 Mar 
+<F P="102"> TA0803111794 Jerusalem Qol Yisra'el in Hebrew 0505 GMT 8 Mar 
 94 </F>
 
-<F P=103> TA0803111794 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0803111794 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Telephone interview with Knesset Member 'Abd-al-Wahhab </F>
+<F P="106"> [Telephone interview with Knesset Member 'Abd-al-Wahhab </F>
 Darawshah, in Damascus, by Shmu'el Tal, in Jerusalem, on 7 March 
 -- recorded] 
   [Text] [Tal] Are you in Damascus? 
@@ -17872,18 +17873,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Israeli Knesset Member on Official Visit to Syria </TI></H3>
 <H4>   Meets With President </H4>
-<F P=102> JN0903175194 Damascus Syrian Arab Republic Radio Network in 
+<F P="102"> JN0903175194 Damascus Syrian Arab Republic Radio Network in 
 Arabic 1615 GMT 9 Mar 94 </F>
 
-<F P=103> JN0903175194 </F>
-<F P=104>  Damascus Syrian Arab Republic Radio Network </F>
+<F P="103"> JN0903175194 </F>
+<F P="104">  Damascus Syrian Arab Republic Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] At 1230 today, President Hafiz al-Asad received the 
@@ -17909,16 +17910,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Israeli Knesset Member on Official Visit to Syria </TI></H3>
 <H4>   Comments on Meeting </H4>
-<F P=102> TA0903173094 Tel Aviv IDF Radio in Hebrew 1700 GMT 9 Mar 94 </F>
-<F P=103> TA0903173094 </F>
-<F P=104>  Tel Aviv IDF Radio </F>
+<F P="102"> TA0903173094 Tel Aviv IDF Radio in Hebrew 1700 GMT 9 Mar 94 </F>
+<F P="103"> TA0903173094 </F>
+<F P="104">  Tel Aviv IDF Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
   [Text] The Israeli Arab delegation today conferred with 
@@ -17966,21 +17967,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Israeli Knesset Member on Official Visit to Syria </TI></H3>
 <H4>   Radio Reports on al-Asad Meeting </H4>
-<F P=102> TA0903195994 Jerusalem Qol Yisra'el in Hebrew 1705 GMT 9 Mar 
+<F P="102"> TA0903195994 Jerusalem Qol Yisra'el in Hebrew 1705 GMT 9 Mar 
 94 </F>
 
-<F P=103> TA0903195994 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
+<F P="103"> TA0903195994 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
 
 
 <TEXT>
-Language: <F P=105> Hebrew </F>
+Language: <F P="105"> Hebrew </F>
 Article Type:BFN 
 
-<F P=106> [Telephone report by Qol Yisra'el Arabic correspondent </F>
+<F P="106"> [Telephone report by Qol Yisra'el Arabic correspondent </F>
 Qaysar Kabaha, a member of the Israeli Arab delegation currently 
 visiting Damascus -- live] 
   [Text] The delegation's three-hour meeting with President 
@@ -18088,21 +18089,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Israeli Knesset Member on Official Visit to Syria </TI></H3>
 <H4>   Further on al-Asad Meeting </H4>
-<F P=102> JN0903202094 Damascus Syrian Arab Television Network in 
+<F P="102"> JN0903202094 Damascus Syrian Arab Television Network in 
 Arabic 1835 GMT 9 Mar 94 </F>
 
-<F P=103> JN0903202094 </F>
-<F P=104>  Damascus Syrian Arab Television Network </F>
+<F P="103"> JN0903202094 </F>
+<F P="104">  Damascus Syrian Arab Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Report on President Hafiz al-Asad's reception of an </F>
+<F P="106"> [Report on President Hafiz al-Asad's reception of an </F>
 Israeli-Arab delegation in Damascus -- read by announcer] 
   [Text] At 1230 today, President Hafiz al-Asad received a 
 delegation of the 1948 Palestinians led by 'Abd-al-Wahhab 
@@ -18444,17 +18445,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Pakistan </F>
+<F P="100"> Pakistan </F>
 <H3> <TI>   Minister Views Postponement of Vote on Kashmir </TI></H3>
-<F P=102>  BK0903144094 Islamabad PTV Television Network in English 
+<F P="102">  BK0903144094 Islamabad PTV Television Network in English 
 1400 GMT 9 Mar 94 </F>
 
-<F P=103> BK0903144094 </F>
-<F P=104>  Islamabad PTV Television Network </F>
+<F P="103"> BK0903144094 </F>
+<F P="104">  Islamabad PTV Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Voting on resolution on human rights violations in 
@@ -18509,20 +18510,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ISRAEL </F>
+<F P="100"> ISRAEL </F>
 <H3> <TI>   Ministry Announces Accords on Visa Exemptions </TI></H3>
-<F P=102>  TA0803173394 Jerusalem GOVERNMENT PRESS OFFICE in English 8 
+<F P="102">  TA0803173394 Jerusalem GOVERNMENT PRESS OFFICE in English 8 
 Mar 94 </F>
 
-<F P=103> TA0803173394 </F>
-<F P=104>  Jerusalem GOVERNMENT PRESS OFFICE </F>
+<F P="103"> TA0803173394 </F>
+<F P="104">  Jerusalem GOVERNMENT PRESS OFFICE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Issued by the Interior Ministry through spokesman Tova </F>
+<F P="106"> [Issued by the Interior Ministry through spokesman Tova </F>
 Elinson] 
   [Text] From the beginning of this month, Israeli citizens 
 are exempt from the requirement to obtain entry visas to France; 
@@ -18549,18 +18550,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ARABIAN PENINSULA </F>
-<F P=101> Kuwait </F>
+<F P="100"> ARABIAN PENINSULA </F>
+<F P="101"> Kuwait </F>
 <H3> <TI>   Envoy Calls for Maintaining Iraqi Sanctions </TI></H3>
-<F P=102>  LD0803215894 Kuwait KSC Television in Arabic 1900 GMT 8 Mar 
+<F P="102">  LD0803215894 Kuwait KSC Television in Arabic 1900 GMT 8 Mar 
 94 </F>
 
-<F P=103> LD0803215894 </F>
-<F P=104>  Kuwait KSC Television </F>
+<F P="103"> LD0803215894 </F>
+<F P="104">  Kuwait KSC Television </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Excerpt] Kuwait's permanent representative at the United 
@@ -18593,18 +18594,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Iran </F>
+<F P="100"> Iran </F>
 <H3> <TI>   U.S. Urged To Make `Greater Concessions' for Relations </TI></H3>
-<F P=102>  NC1003111594 Tehran TEHRAN TIMES in English 8 Mar 94 p 2 </F>
-<F P=103> NC1003111594 </F>
-<F P=104>  Tehran TEHRAN TIMES </F>
+<F P="102">  NC1003111594 Tehran TEHRAN TIMES in English 8 Mar 94 p 2 </F>
+<F P="103"> NC1003111594 </F>
+<F P="104">  Tehran TEHRAN TIMES </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Conciliatory Overtures"] </F>
+<F P="106"> [Editorial: "Conciliatory Overtures"] </F>
   [Text] After 14 years of mutual animosity between the 
 United States and the Islamic Republic, American determination 
 to avoid contacts with Iran seems to have diminished. 
@@ -18665,18 +18666,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> JORDAN </F>
+<F P="100"> JORDAN </F>
 <H3> <TI>   IAF Deputies Demand Release of `Activists' </TI></H3>
-<F P=102>  JN0903084694 Amman JORDAN TIMES in English 9 Mar 94 p 3 </F>
-<F P=103> JN0903084694 </F>
-<F P=104>  Amman JORDAN TIMES </F>
+<F P="102">  JN0903084694 Amman JORDAN TIMES in English 9 Mar 94 p 3 </F>
+<F P="103"> JN0903084694 </F>
+<F P="104">  Amman JORDAN TIMES </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Special to the JORDAN TIMES"] </F>
+<F P="106"> ["Special to the JORDAN TIMES"] </F>
   [Text] Amman--Islamic Action Front (IAF) deputies have 
 reiterated their demand for the release of unconvicted Islamist 
 activists arrested last month in connection with explosions in 
@@ -18741,19 +18742,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SYRIA </F>
+<F P="100"> SYRIA </F>
 <H3> <TI>   Israeli Knesset Member on Official Visit to Syria </TI></H3>
 <H4>   Notes Palestinians' Status </H4>
-<F P=102> PM0803151994 London AL-HAYAH in Arabic 8 Mar 94 p 5 </F>
-<F P=103> PM0803151994 </F>
-<F P=104>  London AL-HAYAH </F>
+<F P="102"> PM0803151994 London AL-HAYAH in Arabic 8 Mar 94 p 5 </F>
+<F P="103"> PM0803151994 </F>
+<F P="104">  London AL-HAYAH </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Israeli Knesset Member 'Abd-al-Wahhab </F>
+<F P="106"> [Interview with Israeli Knesset Member 'Abd-al-Wahhab </F>
 Darawshah by Ibrahim Humaydi in Damascus; date not given] 
   [Text] [Humaydi] Do you see any political dimension to 
 your visit to Syria? 
@@ -18835,16 +18836,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     RESALAT Reports on Majles Sessions </TI></H3>
 <H4>   * 18 Jan </H4>
-<F P=102> 94LA0075A Tehran RESALAT in Persian 19 Jan 94 p 5 </F>
-<F P=103> 94LA0075A </F>
-<F P=104>  Tehran RESALAT </F>
+<F P="102"> 94LA0075A Tehran RESALAT in Persian 19 Jan 94 p 5 </F>
+<F P="103"> 94LA0075A </F>
+<F P="104">  Tehran RESALAT </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Excerpt] Legislative and Parliamentary Affairs Division. 
@@ -19278,16 +19279,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     RESALAT Reports on Majles Sessions </TI></H3>
 <H4>   * 19 Jan </H4>
-<F P=102> 94LA0076A Tehran RESALAT in Persian 20 Jan 94 pp 5, 15 </F>
-<F P=103> 94LA0076A </F>
-<F P=104>  Tehran RESALAT </F>
+<F P="102"> 94LA0076A Tehran RESALAT in Persian 20 Jan 94 pp 5, 15 </F>
+<F P="103"> 94LA0076A </F>
+<F P="104">  Tehran RESALAT </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Excerpt] Legislative and Parliamentary Affairs Division. 
@@ -19775,16 +19776,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     RESALAT Reports on Majles Sessions </TI></H3>
 <H4>   * 23 Jan </H4>
-<F P=102> 94LA0077A Tehran RESALAT in Persian 24 Jan 94 pp 5, 3 </F>
-<F P=103> 94LA0077A </F>
-<F P=104>  Tehran RESALAT </F>
+<F P="102"> 94LA0077A Tehran RESALAT in Persian 24 Jan 94 pp 5, 3 </F>
+<F P="103"> 94LA0077A </F>
+<F P="104">  Tehran RESALAT </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Text] Legislative and Parliamentary Affairs 
@@ -20358,16 +20359,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     RESALAT Reports on Majles Sessions </TI></H3>
 <H4>   * 25 Jan </H4>
-<F P=102> 94LA0083A Tehran RESALAT in Persian 26 Jan 94 p 5 </F>
-<F P=103> 94LA0083A </F>
-<F P=104>  Tehran RESALAT </F>
+<F P="102"> 94LA0083A Tehran RESALAT in Persian 26 Jan 94 p 5 </F>
+<F P="103"> 94LA0083A </F>
+<F P="104">  Tehran RESALAT </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Text] The Majles met in open session yesterday and Mr. 
@@ -20798,16 +20799,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     RESALAT Reports on Majles Sessions </TI></H3>
 <H4>   * 26 Jan </H4>
-<F P=102> 94LA0084A Tehran RESALAT in Persian 27 Jan 94 p 5 </F>
-<F P=103> 94LA0084A </F>
-<F P=104>  Tehran RESALAT </F>
+<F P="102"> 94LA0084A Tehran RESALAT in Persian 27 Jan 94 p 5 </F>
+<F P="103"> 94LA0084A </F>
+<F P="104">  Tehran RESALAT </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Text] The Majles met in open session yesterday chaired by 
@@ -21207,16 +21208,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     RESALAT Reports on Majles Sessions </TI></H3>
 <H4>   * 30 Jan </H4>
-<F P=102> 94LA0089A Tehran RESALAT in Persian 31 Jan 94 p 5 </F>
-<F P=103> 94LA0089A </F>
-<F P=104>  Tehran RESALAT </F>
+<F P="102"> 94LA0089A Tehran RESALAT in Persian 31 Jan 94 p 5 </F>
+<F P="103"> 94LA0089A </F>
+<F P="104">  Tehran RESALAT </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Text] Legislative and Parliamentary Affairs Division. The 
@@ -21629,16 +21630,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     RESALAT Reports on Majles Sessions </TI></H3>
 <H4>   * 2 Feb </H4>
-<F P=102> 94LA0094A Tehran RESALAT in Persian 3 Feb 94 pp 5, 6 </F>
-<F P=103> 94LA0094A </F>
-<F P=104>  Tehran RESALAT </F>
+<F P="102"> 94LA0094A Tehran RESALAT in Persian 3 Feb 94 pp 5, 6 </F>
+<F P="103"> 94LA0094A </F>
+<F P="104">  Tehran RESALAT </F>
 
 
 <TEXT>
-Language: <F P=105> Persian </F>
+Language: <F P="105"> Persian </F>
 Article Type:CSO 
 
   [Text] Legislative and Parliamentary Affairs Division. On 
@@ -22068,18 +22069,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Interviewed on Peace Process, U.S. Role </TI></H3>
-<F P=102>  BR1103112194 Paris LE FIGARO in French 11 Mar 94 p 3 </F>
-<F P=103> BR1103112194 </F>
-<F P=104>  Paris LE FIGARO </F>
+<F P="102">  BR1103112194 Paris LE FIGARO in French 11 Mar 94 p 3 </F>
+<F P="103"> BR1103112194 </F>
+<F P="104">  Paris LE FIGARO </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Interview with PLO Chairman Yasir 'Arafat by Claude Lorieux </F>
+<F P="106"> [Interview with PLO Chairman Yasir 'Arafat by Claude Lorieux </F>
 in Tunis; date not given] 
   [Text] [Lorieux] Israeli Prime Minister Yitzhaq Rabin 
 telephoned you on 8 March evening. Why? 
@@ -22316,11 +22317,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Views Hebron Massacre, U.S. Position </TI></H3>
-<F P=102>  NC1003205094 </F>
-<F P=103> NC1003205094 </F>
-<F P=104></F>
+<F P="102">  NC1003205094 </F>
+<F P="103"> NC1003205094 </F>
+<F P="104"></F>
 
 
 
@@ -22538,18 +22539,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   'Arafat Views Role in PLO, Personal Life </TI></H3>
-<F P=102>  AU1003130994 Vienna DER STANDARD in German 10 Mar 94 p 3 </F>
-<F P=103> AU1003130994 </F>
-<F P=104>  Vienna DER STANDARD </F>
+<F P="102">  AU1003130994 Vienna DER STANDARD in German 10 Mar 94 p 3 </F>
+<F P="103"> AU1003130994 </F>
+<F P="104">  Vienna DER STANDARD </F>
 
 
 <TEXT>
-Language: <F P=105> German </F>
+Language: <F P="105"> German </F>
 Article Type:BFN 
 
-<F P=106> [Interview with PLO Chairman Yasir 'Arafat by Brigitte </F>
+<F P="106"> [Interview with PLO Chairman Yasir 'Arafat by Brigitte </F>
 Voykowitsch and Artur K. Vogel in Tunis on 8 March: "I Will 
 Plant Roses in My Garden"] 
   [Text] It is one o'clock in the morning in Tunis. Yasir 
@@ -22690,17 +22691,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Qaddumi on UN Resolution, Russian Initiative </TI></H3>
-<F P=102>  NC1003193494 London MBC Television in Arabic 1800 GMT 10 Mar 
+<F P="102">  NC1003193494 London MBC Television in Arabic 1800 GMT 10 Mar 
 94 </F>
 
-<F P=103> NC1003193494 </F>
-<F P=104>  London MBC Television </F>
+<F P="103"> NC1003193494 </F>
+<F P="104">  London MBC Television </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Head of the PLO Political Department Faruq Qaddumi 
@@ -22762,15 +22763,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   PLO Groups Agree To Revive Intifadah Command </TI></H3>
-<F P=102>  NC1003121694 Cairo MENA in Arabic 1115 GMT 10 Mar 94 </F>
-<F P=103> NC1003121694 </F>
-<F P=104>  Cairo MENA </F>
+<F P="102">  NC1003121694 Cairo MENA in Arabic 1115 GMT 10 Mar 94 </F>
+<F P="103"> NC1003121694 </F>
+<F P="104">  Cairo MENA </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Tunis, 10 Mar (MENA)--The Tunisian paper AL-RA'Y 
@@ -22817,15 +22818,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Palestinian Leaders Ask 'Arafat To Quit Talks </TI></H3>
-<F P=102>  JN1003121694 Amman JORDAN TIMES in English 10 Mar 94 p 10 </F>
-<F P=103> JN1003121694 </F>
-<F P=104>  Amman JORDAN TIMES </F>
+<F P="102">  JN1003121694 Amman JORDAN TIMES in English 10 Mar 94 p 10 </F>
+<F P="103"> JN1003121694 </F>
+<F P="104">  Amman JORDAN TIMES </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Amman--A significant number of members of the 
@@ -22944,17 +22945,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   PFLP-GC Claims Responsibility for SLA Attack </TI></H3>
-<F P=102>  NC0803140394 Beirut Voice of Lebanon in Arabic 1215 GMT 8 
+<F P="102">  NC0803140394 Beirut Voice of Lebanon in Arabic 1215 GMT 8 
 Mar 93 </F>
 
-<F P=103> NC0803140394 </F>
-<F P=104>  Beirut Voice of Lebanon </F>
+<F P="103"> NC0803140394 </F>
+<F P="104">  Beirut Voice of Lebanon </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] The Popular Front for the Liberation of Palestine -- 
@@ -22986,17 +22987,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Denies Killing Civilians </TI></H3>
-<F P=102>  JN1003194894 (Clandestine) Al-Quds Palestinian Arab Radio in 
+<F P="102">  JN1003194894 (Clandestine) Al-Quds Palestinian Arab Radio in 
 Arabic 1730 GMT 10 Mar 94 </F>
 
-<F P=103> JN1003194894 </F>
-<F P=104>  (Clandestine) Al-Quds Palestinian Arab Radio </F>
+<F P="103"> JN1003194894 </F>
+<F P="104">  (Clandestine) Al-Quds Palestinian Arab Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
   [Text] Regarding last Monday's [7 March] operation and the 
@@ -23034,18 +23035,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Palestinian Affairs </F>
+<F P="100"> Palestinian Affairs </F>
 <H3> <TI>   Fatah's Zaki: Hawks Ordered To Avenge Massacre </TI></H3>
-<F P=102>  JN1003163794 Amman AL-DUSTUR in Arabic 10 Mar 94 pp 32, 26 </F>
-<F P=103> JN1003163794 </F>
-<F P=104>  Amman AL-DUSTUR </F>
+<F P="102">  JN1003163794 Amman AL-DUSTUR in Arabic 10 Mar 94 pp 32, 26 </F>
+<F P="103"> JN1003163794 </F>
+<F P="104">  Amman AL-DUSTUR </F>
 
 
 <TEXT>
-Language: <F P=105> Arabic </F>
+Language: <F P="105"> Arabic </F>
 Article Type:BFN 
 
-<F P=106> [By Tawfiq 'Abid] </F>
+<F P="106"> [By Tawfiq 'Abid] </F>
   [Excerpts] Amman--'Abbas Zaki, Fatah Central Committee 
 member, has again held Israeli Prime Minister Yitzhaq Rabin 
 fully responsible for the Ibrahimi Mosque massacre. He said the 
@@ -23086,3 +23087,4 @@ inevitability of the masses' victory. [passage omitted]
 </TEXT>
 
 </DOC>
+</root>

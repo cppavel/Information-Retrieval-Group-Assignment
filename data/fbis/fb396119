@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS3-31969 </DOCNO>
@@ -11,20 +12,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Discua on Armed Forces Status </TI></H3>
-<F P=102>  PA2801220194 Tegucigalpa Voz de Honduras Network in Spanish 
+<F P="102">  PA2801220194 Tegucigalpa Voz de Honduras Network in Spanish 
 1145 GMT 26 Jan 94 </F>
 
-<F P=103> PA2801220194 </F>
-<F P=104>  Tegucigalpa Voz de Honduras Network </F>
+<F P="103"> PA2801220194 </F>
+<F P="104">  Tegucigalpa Voz de Honduras Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with General Luis Alonso Discua Elvir, chief of </F>
+<F P="106"> [Interview with General Luis Alonso Discua Elvir, chief of </F>
 the Armed Forces, by Reporter Trino Murillo on 25 January; place 
 not given -- recorded] 
   [Text] [Murillo] Yesterday, General Luis Alonso Discua 
@@ -142,11 +143,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Congress Elects Supreme Court Justices, Attorney General </TI></H3>
-<F P=102>  PA2801212494 </F>
-<F P=103> PA2801212494 </F>
-<F P=104></F>
+<F P="102">  PA2801212494 </F>
+<F P="103"> PA2801212494 </F>
+<F P="104"></F>
 
 
 
@@ -189,15 +190,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Guatemala's De Leon on Bombings, Upcoming Referendum </TI></H3>
-<F P=102>  PA2801230794 Paris AFP in Spanish 2108 GMT 28 Jan 94 </F>
-<F P=103> PA2801230794 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA2801230794 Paris AFP in Spanish 2108 GMT 28 Jan 94 </F>
+<F P="103"> PA2801230794 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Tegucigalpa, 28 Jan (AFP) -- Guatemalan President 
@@ -244,18 +245,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   FSLN Sectors Agree on Constitutional Reforms Negotiation </TI></H3>
-<F P=102>  PA2801165294 Managua BARRICADA in Spanish 25 Jan 94 pp 1, 5 </F>
-<F P=103> PA2801165294 </F>
-<F P=104>  Managua BARRICADA </F>
+<F P="102">  PA2801165294 Managua BARRICADA in Spanish 25 Jan 94 pp 1, 5 </F>
+<F P="103"> PA2801165294 </F>
+<F P="104">  Managua BARRICADA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Article by Jorge Katin and Carlos Garcia] </F>
+<F P="106"> [Article by Jorge Katin and Carlos Garcia] </F>
   [Text] The National Directorate of the Sandinist National 
 Liberation Front [FSLN] and the Sandinist faction reached an 
 agreement on 24 January regarding the negotiating process of 
@@ -331,20 +332,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Government, Transportation Representatives Reach Accord </TI></H3>
-<F P=102>  PA2901173194 Managua Radio Nicaragua Network in Spanish 1512 
+<F P="102">  PA2901173194 Managua Radio Nicaragua Network in Spanish 1512 
 GMT 29 Jan 94 </F>
 
-<F P=103> PA2901173194 </F>
-<F P=104>  Managua Radio Nicaragua Network </F>
+<F P="103"> PA2901173194 </F>
+<F P="104">  Managua Radio Nicaragua Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [`Act of Agreement' signed between the Nicaraguan Government </F>
+<F P="106"> [`Act of Agreement' signed between the Nicaraguan Government </F>
 and representatives of the Transportation Commission at the Olof 
 Palme Convention Center on 29 January 1994; read by Dr. Francis 
 Silva, from the Presidency Public Relations and Official 
@@ -447,17 +448,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Transportation Commission Ignores Agreement </TI></H3>
-<F P=102>  PA2901181094 Mexico City NOTIMEX in Spanish 1630 GMT 29 Jan 
+<F P="102">  PA2901181094 Mexico City NOTIMEX in Spanish 1630 GMT 29 Jan 
 94 </F>
 
-<F P=103> PA2901181094 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="103"> PA2901181094 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Managua, 29 Jan (NOTIMEX) -- The National 
@@ -510,15 +511,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Police Troops Patrol Managua During 7th Day of Strike </TI></H3>
-<F P=102>  PA3001182394 Hamburg DPA in Spanish 1656 GMT 30 Jan 94 </F>
-<F P=103> PA3001182394 </F>
-<F P=104>  Hamburg DPA </F>
+<F P="102">  PA3001182394 Hamburg DPA in Spanish 1656 GMT 30 Jan 94 </F>
+<F P="103"> PA3001182394 </F>
+<F P="104">  Hamburg DPA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Excerpt] Managua, 30 Jan (DPA) -- National Police troops 
@@ -560,18 +561,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Gen. Ortega Undergoes Knee Surgery in Mexico </TI></H3>
-<F P=102>  PA2801172894 Managua LA PRENSA in Spanish 27 Jan 94 p12 </F>
-<F P=103> PA2801172894 </F>
-<F P=104>  Managua LA PRENSA </F>
+<F P="102">  PA2801172894 Managua LA PRENSA in Spanish 27 Jan 94 p12 </F>
+<F P="103"> PA2801172894 </F>
+<F P="104">  Managua LA PRENSA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Roger Suarez] </F>
+<F P="106"> [Report by Roger Suarez] </F>
   [Text] General Humberto Ortega underwent surgery on both 
 knees at a Mexican clinic, Sergio Ramirez, Sandinist National 
 Liberation Front bloc chief, stated yesterday during a news 
@@ -613,20 +614,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Dincote Presents `Country's Most Wanted Drug Trafficker' </TI></H3>
-<F P=102>  PA2901224694 Lima Global de Television Network in Spanish 
+<F P="102">  PA2901224694 Lima Global de Television Network in Spanish 
 0100 GMT 29 Jan 94 </F>
 
-<F P=103> PA2901224694 </F>
-<F P=104>  Lima Global de Television Network </F>
+<F P="103"> PA2901224694 </F>
+<F P="104">  Lima Global de Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by "Global TV News" newscast] </F>
+<F P="106"> [Report by "Global TV News" newscast] </F>
   [Text] Demetrio Chavez Pena Herrera, 40, alias El Vaticano 
 or Loco Limoniel, the country's most wanted drug trafficker was 
 briefly presented today to the media at the Dincote [National 
@@ -695,20 +696,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Further on Drug Trafficker Chavez </TI></H3>
-<F P=102>  PA2901233194 Lima Radio Programas del Peru Network in 
+<F P="102">  PA2901233194 Lima Radio Programas del Peru Network in 
 Spanish 1800 GMT 27 Jan 94 </F>
 
-<F P=103> PA2901233194 </F>
-<F P=104>  Lima Radio Programas del Peru Network </F>
+<F P="103"> PA2901233194 </F>
+<F P="104">  Lima Radio Programas del Peru Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Newspaper of the Airwaves, Second Edition" </F>
+<F P="106"> [From the "Newspaper of the Airwaves, Second Edition" </F>
 newscast] 
   [Text] The National Counterterrorism Directorate [Dincote] 
 has discovered links between drug-trafficker Demetrio Chavez 
@@ -766,15 +767,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   * Navy Captures Over 40 Terrorists, 160 Drug Traffickers </TI></H3>
-<F P=102>  94P20248A Lima EL COMERCIO in Spanish 18 Dec 93 p A18 </F>
-<F P=103> 94P20248A </F>
-<F P=104>  Lima EL COMERCIO </F>
+<F P="102">  94P20248A Lima EL COMERCIO in Spanish 18 Dec 93 p A18 </F>
+<F P="103"> 94P20248A </F>
+<F P="104">  Lima EL COMERCIO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
   [Excerpts] In recent months the Navy has captured more than 
@@ -841,22 +842,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   `People's Observers' Denied Access to U.S. Installations </TI></H3>
-<F P=102>  PA2801195994 Santa Fe de Bogota Inravision Television Cadena 
+<F P="102">  PA2801195994 Santa Fe de Bogota Inravision Television Cadena 
 1 in Spanish 0000 GMT 27 Jan 94 </F>
 
-<F P=103> PA2801195994 </F>
-<F P=104>  Santa Fe de Bogota Inravision Television Cadena 
+<F P="103"> PA2801195994 </F>
+<F P="104">  Santa Fe de Bogota Inravision Television Cadena 
 1 </F>
 
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "24 Hours" newscast] </F>
+<F P="106"> [From the "24 Hours" newscast] </F>
   [Text] Gustavo Petro, M-19 [19 April Movement-Democratic 
 Alliance] delegate to the Chamber of Representatives, was at the 
 head of a large number of visitors to Juanchaco, where U.S. 
@@ -897,18 +898,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   Human Rights Issue Could Be Obstacle to Gaviria's OAS 
 Candidacy </TI></H3>
-<F P=102>  PA2901145594 Santa Fe de Bogota EL NUEVO SIGLO in Spanish 25 
+<F P="102">  PA2901145594 Santa Fe de Bogota EL NUEVO SIGLO in Spanish 25 
 Jan 94 p 10 </F>
 
-<F P=103> PA2901145594 </F>
-<F P=104>  Santa Fe de Bogota EL NUEVO SIGLO </F>
+<F P="103"> PA2901145594 </F>
+<F P="104">  Santa Fe de Bogota EL NUEVO SIGLO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Just as the government slogan stated during the year 
@@ -969,17 +970,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   Army Appoints New Tarqui Battalion Commander </TI></H3>
-<F P=102>  PA2801162094 Santa Fe de Bogota EL TIEMPO in Spanish 26 Jan 
+<F P="102">  PA2801162094 Santa Fe de Bogota EL TIEMPO in Spanish 26 Jan 
 94 p 6c </F>
 
-<F P=103> PA2801162094 </F>
-<F P=104>  Santa Fe de Bogota EL TIEMPO </F>
+<F P="103"> PA2801162094 </F>
+<F P="104">  Santa Fe de Bogota EL TIEMPO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Tunja -- The Army has appointed Lieutenant Colonel 
@@ -1004,15 +1005,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   Government Initiates Environment Ministry </TI></H3>
-<F P=102>  PA3001133094 Hamburg DPA in Spanish 1416 GMT 29 Jan 94 </F>
-<F P=103> PA3001133094 </F>
-<F P=104>  Hamburg DPA </F>
+<F P="102">  PA3001133094 Hamburg DPA in Spanish 1416 GMT 29 Jan 94 </F>
+<F P="103"> PA3001133094 </F>
+<F P="104">  Hamburg DPA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Santa Fe de Bogota, 29 January (DPA) -- Presidential 
@@ -1053,17 +1054,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   France Offers To Prolong Special Tariff Program </TI></H3>
-<F P=102>  PA3001014094 Santa Fe de Bogota EL NUEVO SIGLO in Spanish 25 
+<F P="102">  PA3001014094 Santa Fe de Bogota EL NUEVO SIGLO in Spanish 25 
 Jan 94 p 18 </F>
 
-<F P=103> PA3001014094 </F>
-<F P=104>  Santa Fe de Bogota EL NUEVO SIGLO </F>
+<F P="103"> PA3001014094 </F>
+<F P="104">  Santa Fe de Bogota EL NUEVO SIGLO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] French President Francois Mitterrand and Foreign 
@@ -1105,22 +1106,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   Prisons Director Denies Guards on Strike, Orders Probe </TI></H3>
-<F P=102>  PA3001121594 Santa Fe de Bogota Inravision Television Cadena 
+<F P="102">  PA3001121594 Santa Fe de Bogota Inravision Television Cadena 
 1 in Spanish 1730 GMT 27 Jan 94 </F>
 
-<F P=103> PA3001121594 </F>
-<F P=104>  Santa Fe de Bogota Inravision Television Cadena 
+<F P="103"> PA3001121594 </F>
+<F P="104">  Santa Fe de Bogota Inravision Television Cadena 
 1 </F>
 
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "National" newscast] </F>
+<F P="106"> [From the "National" newscast] </F>
   [Text] We just confirmed that guards at the Cali and 
 Medellin prisons have joined the strike declared by La Picota 
 Prison guards. In this regard, moments ago we interviewed 
@@ -1156,20 +1157,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   * Sintura Discusses Use of Sentence Negotiations </TI></H3>
-<F P=102>  94WD0159Z Santa Fe de Bogota EL TIEMPO in Spanish 3 Jan 94 p 
+<F P="102">  94WD0159Z Santa Fe de Bogota EL TIEMPO in Spanish 3 Jan 94 p 
 6C </F>
 
-<F P=103> 94WD0159Z </F>
-<F P=104>  Santa Fe de Bogota EL TIEMPO </F>
+<F P="103"> 94WD0159Z </F>
+<F P="104">  Santa Fe de Bogota EL TIEMPO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Camilo Chaparro; first paragraph is EL TIEMPO </F>
+<F P="106"> [Article by Camilo Chaparro; first paragraph is EL TIEMPO </F>
 introduction] 
   [Text] In 12,000 early sentencing hearings, the 
 prosecutor's office has sentenced nearly 9,000 people. Of those 
@@ -1287,20 +1288,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Discua on Armed Forces Status </TI></H3>
-<F P=102>  PA2801220194 Tegucigalpa Voz de Honduras Network in Spanish 
+<F P="102">  PA2801220194 Tegucigalpa Voz de Honduras Network in Spanish 
 1145 GMT 26 Jan 94 </F>
 
-<F P=103> PA2801220194 </F>
-<F P=104>  Tegucigalpa Voz de Honduras Network </F>
+<F P="103"> PA2801220194 </F>
+<F P="104">  Tegucigalpa Voz de Honduras Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with General Luis Alonso Discua Elvir, chief of </F>
+<F P="106"> [Interview with General Luis Alonso Discua Elvir, chief of </F>
 the Armed Forces, by Reporter Trino Murillo on 25 January; place 
 not given -- recorded] 
   [Text] [Murillo] Yesterday, General Luis Alonso Discua 
@@ -1418,11 +1419,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Congress Elects Supreme Court Justices, Attorney General </TI></H3>
-<F P=102>  PA2801212494 </F>
-<F P=103> PA2801212494 </F>
-<F P=104></F>
+<F P="102">  PA2801212494 </F>
+<F P="103"> PA2801212494 </F>
+<F P="104"></F>
 
 
 
@@ -1465,15 +1466,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Guatemala's De Leon on Bombings, Upcoming Referendum </TI></H3>
-<F P=102>  PA2801230794 Paris AFP in Spanish 2108 GMT 28 Jan 94 </F>
-<F P=103> PA2801230794 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA2801230794 Paris AFP in Spanish 2108 GMT 28 Jan 94 </F>
+<F P="103"> PA2801230794 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Tegucigalpa, 28 Jan (AFP) -- Guatemalan President 
@@ -1520,15 +1521,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTER-AMERICAN AFFAIRS </F>
+<F P="100"> INTER-AMERICAN AFFAIRS </F>
 <H3> <TI>   Guatemala's De Leon on Central American Choice for OAS Post </TI></H3>
-<F P=102>  PA3001024594 Paris AFP in Spanish 2130 GMT 28 Jan 94 </F>
-<F P=103> PA3001024594 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA3001024594 Paris AFP in Spanish 2130 GMT 28 Jan 94 </F>
+<F P="103"> PA3001024594 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Tegucigalpa, 28 Jan (AFP) -- Guatemalan President 
@@ -1587,17 +1588,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Haiti </F>
+<F P="100"> Haiti </F>
 <H3> <TI>   Aristide Spokesman Issues Statement on Canadian Talks </TI></H3>
-<F P=102>  FL2801231994 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL2801231994 Port-au-Prince Signal FM Radio in French 1130 
 GMT 27 Jan 94 </F>
 
-<F P=103> FL2801231994 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL2801231994 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The following is a press release signed by 
@@ -1649,21 +1650,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AMERICA </F>
-<F P=101> El Salvador </F>
+<F P="100"> CENTRAL AMERICA </F>
+<F P="101"> El Salvador </F>
 <H3> <TI>   U.S. Military Officer Reportedly Flees From Murder Charge </TI></H3>
-<F P=102>  PA2901210594 San Salvador Radio Cadena YSKL in Spanish 1800 
+<F P="102">  PA2901210594 San Salvador Radio Cadena YSKL in Spanish 1800 
 GMT 29 Jan 94 </F>
 
-<F P=103> PA2901210594 </F>
-<F P=104>  San Salvador Radio Cadena YSKL </F>
+<F P="103"> PA2901210594 </F>
+<F P="104">  San Salvador Radio Cadena YSKL </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Wilfredo Cordoba; from the "KL Newscast"] </F>
+<F P="106"> [Report by Wilfredo Cordoba; from the "KL Newscast"] </F>
   [Text] Salvadoran police and judicial authorities rejected 
 acts of impunity encouraged by the U.S. Embassy personnel who 
 helped U.S. Major Mike Lopez illegally leave El Salvador. Lopez 
@@ -1730,15 +1731,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Congress Urged To Reject U.S. Military Presence in Country </TI></H3>
-<F P=102>  PY2801222394 Asuncion NOTICIAS in Spanish 28 Jan 94 p 6 </F>
-<F P=103> PY2801222394 </F>
-<F P=104>  Asuncion NOTICIAS </F>
+<F P="102">  PY2801222394 Asuncion NOTICIAS in Spanish 28 Jan 94 p 6 </F>
+<F P="103"> PY2801222394 </F>
+<F P="104">  Asuncion NOTICIAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The U.S. Government offer to build roads, schools, 
@@ -1846,15 +1847,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Interior Minister Sees Conspiracy To Mar Inauguration </TI></H3>
-<F P=102>  PA2801200194 Paris AFP in Spanish 1423 GMT 28 Jan 94 </F>
-<F P=103> PA2801200194 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA2801200194 Paris AFP in Spanish 1423 GMT 28 Jan 94 </F>
+<F P="103"> PA2801200194 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Caracas, 18 Jan (AFP) -- The street disturbances of 
@@ -1897,17 +1898,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Further on Approval of Provisional Economic Measures </TI></H3>
-<F P=102>  PY2901192494 Rio de Janeiro O GLOBO in Portuguese 27 Jan 94 
+<F P="102">  PY2901192494 Rio de Janeiro O GLOBO in Portuguese 27 Jan 94 
 p 20 </F>
 
-<F P=103> PY2901192494 </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="103"> PY2901192494 </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Brasilia -- On 26 January, after a day fraught with 
@@ -1966,15 +1967,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   State Administrative Workers Begin Strike </TI></H3>
-<F P=102>  PA2801193594 Panama City ACAN in Spanish 1601 GMT 28 Jan 94 </F>
-<F P=103> PA2801193594 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102">  PA2801193594 Panama City ACAN in Spanish 1601 GMT 28 Jan 94 </F>
+<F P="103"> PA2801193594 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala City, 28 Jan (ACAN-EFE) -- Guatemala 
@@ -2036,18 +2037,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Prison System Weakening Shining Path Morale </TI></H3>
-<F P=102>  PY2701212594 Lima LA REPUBLICA in Spanish 16 Jan 94 p 14 </F>
-<F P=103> PY2701212594 </F>
-<F P=104>  Lima LA REPUBLICA </F>
+<F P="102">  PY2701212594 Lima LA REPUBLICA in Spanish 16 Jan 94 p 14 </F>
+<F P="103"> PY2701212594 </F>
+<F P="104">  Lima LA REPUBLICA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Francisco Mattos] </F>
+<F P="106"> [Report by Francisco Mattos] </F>
   [Excerpts] The new security and seclusion system 
 implemented at the Miguel Castro Castro prison, which lodges 
 around 500 subversives, has began showing positive results. 
@@ -2178,15 +2179,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guyana </F>
+<F P="100"> Guyana </F>
 <H3> <TI>   Government Announces Divestment of Four State Companies </TI></H3>
-<F P=102>  FL2901014494 Bridgetown CANA in English 1548 GMT 28 Jan 94 </F>
-<F P=103> FL2901014494 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL2901014494 Bridgetown CANA in English 1548 GMT 28 Jan 94 </F>
+<F P="103"> FL2901014494 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Georgetown, Guyana, 28 Jan, CANA -- Guyana has 
@@ -2225,15 +2226,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guyana </F>
+<F P="100"> Guyana </F>
 <H3> <TI>   PNC Warns Aid Donors Against Jagan's `Marxist Ideology' </TI></H3>
-<F P=102>  FL2901131294 Bridgetown CANA in English 1858 GMT 28 Jan 94 </F>
-<F P=103> FL2901131294 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL2901131294 Bridgetown CANA in English 1858 GMT 28 Jan 94 </F>
+<F P="103"> FL2901131294 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Georgetown, Guyana, 28 Jan, CANA -- Guyana's main 
@@ -2289,18 +2290,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guyana </F>
+<F P="100"> Guyana </F>
 <H3> <TI>   CGCED Meeting Produces $320 Million in New Aid </TI></H3>
-<F P=102>  FL2901134894 Bridgetown CANA in English 2131 GMT 28 Jan 94 </F>
-<F P=103> FL2901134894 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL2901134894 Bridgetown CANA in English 2131 GMT 28 Jan 94 </F>
+<F P="103"> FL2901134894 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Colin King] </F>
+<F P="106"> [Report by Colin King] </F>
   [Text] Georgetown, Guyana, 28 Jan, CANA -- Guyana has 
 received enough commitments of finance from bilateral and 
 multilateral donors to cover projected financing gaps for 
@@ -2391,17 +2392,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Haiti </F>
+<F P="100"> Haiti </F>
 <H3> <TI>   Demonstrators Demand Dissolution of Parliament </TI></H3>
-<F P=102>  FL2801182394 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL2801182394 Port-au-Prince Signal FM Radio in French 1130 
 GMT 28 Jan 94 </F>
 
-<F P=103> FL2801182394 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL2801182394 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Excerpts] On 27 January, several dozen people demonstrated 
@@ -2478,17 +2479,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Haiti </F>
+<F P="100"> Haiti </F>
 <H3> <TI>   Army Protests U.S. Decision To Cancel Passports </TI></H3>
-<F P=102>  FL2801221594 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL2801221594 Port-au-Prince Signal FM Radio in French 1130 
 GMT 28 Jan 94 </F>
 
-<F P=103> FL2801221594 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL2801221594 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The General Command of the Haitian Armed Forces 
@@ -2521,17 +2522,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Haiti </F>
+<F P="100"> Haiti </F>
 <H3> <TI>   Chamber of Deputies Supports Business Activity Stoppage </TI></H3>
-<F P=102>  FL2801182194 Port-au-Prince Radio Metropole in French 1145 
+<F P="102">  FL2801182194 Port-au-Prince Radio Metropole in French 1145 
 GMT 28 Jan 94 </F>
 
-<F P=103> FL2801182194 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL2801182194 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The Haitian parliament solicits the trust of the 
@@ -2563,17 +2564,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Haiti </F>
+<F P="100"> Haiti </F>
 <H3> <TI>   Labor Unions Protest Employers' Work Stoppage </TI></H3>
-<F P=102>  FL2801215994 Port-au-Prince Radio Metropole in French 1700 
+<F P="102">  FL2801215994 Port-au-Prince Radio Metropole in French 1700 
 GMT 28 Jan 94 </F>
 
-<F P=103> FL2801215994 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL2801215994 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The labor unions, CATH [Autonomous Organization of 
@@ -2607,18 +2608,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   Navy Announces U.S. Troops To Leave in March; Denies Airport 
 Being Built </TI></H3>
-<F P=102>  PA2801154494 Santa Fe de Bogota EL NUEVO SIGLO in Spanish 25 
+<F P="102">  PA2801154494 Santa Fe de Bogota EL NUEVO SIGLO in Spanish 25 
 Jan 94 p 6 </F>
 
-<F P=103> PA2801154494 </F>
-<F P=104>  Santa Fe de Bogota EL NUEVO SIGLO </F>
+<F P="103"> PA2801154494 </F>
+<F P="104">  Santa Fe de Bogota EL NUEVO SIGLO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The Colombian Navy has announced that the U.S. 
@@ -2649,20 +2650,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Armed Forces on Inauguration Jeering </TI></H3>
-<F P=102>  PA2801174894 Tegucigalpa Voz de Honduras Network in Spanish 
+<F P="102">  PA2801174894 Tegucigalpa Voz de Honduras Network in Spanish 
 1145 GMT 28 Jan 94 </F>
 
-<F P=103> PA2801174894 </F>
-<F P=104>  Tegucigalpa Voz de Honduras Network </F>
+<F P="103"> PA2801174894 </F>
+<F P="104">  Tegucigalpa Voz de Honduras Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Romulo Matamoros; from the "The Morning Paper" </F>
+<F P="106"> [Report by Romulo Matamoros; from the "The Morning Paper" </F>
 newscast] 
   [Text] Lieutenant Colonel Napoleon Santos Aguilar, Honduran 
 Armed Forces spokesman, said the military had to handle a report 
@@ -2717,15 +2718,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Cuba To Repay Debt With Medicine; Vice President To Visit </TI></H3>
-<F P=102>  PY2801134194 Madrid EFE in Spanish 2130 GMT 27 Jan 94 </F>
-<F P=103> PY2801134194 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PY2801134194 Madrid EFE in Spanish 2130 GMT 27 Jan 94 </F>
+<F P="103"> PY2801134194 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Brasilia, 27 Jan (EFE) -- Official sources said in 
@@ -2774,20 +2775,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Election-Year Maneuvering Behind Economic Plan `Defeat' </TI></H3>
-<F P=102>  PY2901022694 Rio de Janeiro O GLOBO in Portuguese 28 Jan 94 
+<F P="102">  PY2901022694 Rio de Janeiro O GLOBO in Portuguese 28 Jan 94 
 p 19 </F>
 
-<F P=103> PY2901022694 </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="103"> PY2901022694 </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> [Article by Sergio Leo] </F>
+<F P="106"> [Article by Sergio Leo] </F>
   [Text] Brasilia -- The presidential election campaign and 
 speculations about the possible presidential candidacy of 
 Finance Minister Fernando Henrique Cardoso had great influence 
@@ -2847,17 +2848,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Latest Survey Shows Lula Leading Presidential Race </TI></H3>
-<F P=102>  PY3101220194 Rio de Janeiro O GLOBO in Portuguese 31 Jan 94 
+<F P="102">  PY3101220194 Rio de Janeiro O GLOBO in Portuguese 31 Jan 94 
 p 3 </F>
 
-<F P=103> PY3101220194 </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="103"> PY3101220194 </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] The figures of the latest survey commissioned by the 
@@ -2891,16 +2892,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Castro Considers President Clinton `Man of Peace' </TI></H3>
-<F P=102>  PA3101135394 Hamburg DPA in Spanish 0713 GMT 31 Jan 94 </F>
-<F P=103> PA3101135394 </F>
-<F P=104>  Hamburg DPA </F>
+<F P="102">  PA3101135394 Hamburg DPA in Spanish 0713 GMT 31 Jan 94 </F>
+<F P="103"> PA3101135394 </F>
+<F P="104">  Hamburg DPA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Varadero, 31 Jan (DPA) -- Cuban President Fidel 
@@ -2942,18 +2943,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   U.S.-Somali Shootout in Southern Mogadishu Reported </TI></H3>
-<F P=102>  FL3101204794 Havana Radio Rebelde Network in Spanish 1800 
+<F P="102">  FL3101204794 Havana Radio Rebelde Network in Spanish 1800 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101204794 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL3101204794 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] According to figures obtained by AFP from the city's 
@@ -2990,18 +2991,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Havana Notes U.S. `Responsibility' for Rafter Deaths </TI></H3>
-<F P=102>  FL3101171994 Havana Radio Progreso Network in Spanish 1200 
+<F P="102">  FL3101171994 Havana Radio Progreso Network in Spanish 1200 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101171994 </F>
-<F P=104>  Havana Radio Progreso Network </F>
+<F P="103"> FL3101171994 </F>
+<F P="104">  Havana Radio Progreso Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Nine persons -- including five children -- died when 
@@ -3051,18 +3052,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Raul Castro Attends Eastern Army Council in Camaguey </TI></H3>
-<F P=102>  FL0102032094 Havana Tele Rebelde and Cuba Vision Networks in 
+<F P="102">  FL0102032094 Havana Tele Rebelde and Cuba Vision Networks in 
 Spanish 0100 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102032094 </F>
-<F P=104>  Havana Tele Rebelde and Cuba Vision Networks </F>
+<F P="103"> FL0102032094 </F>
+<F P="104">  Havana Tele Rebelde and Cuba Vision Networks </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Army General Raul Castro, minister of the 
@@ -3153,18 +3154,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Lage Stresses Importance of Parliament in the Workplace </TI></H3>
-<F P=102>  FL3101172194 Havana Radio Progreso Network in Spanish 1200 
+<F P="102">  FL3101172194 Havana Radio Progreso Network in Spanish 1200 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101172194 </F>
-<F P=104>  Havana Radio Progreso Network </F>
+<F P="103"> FL3101172194 </F>
+<F P="104">  Havana Radio Progreso Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The paper TRABAJADORES, on some of whose articles we 
@@ -3243,18 +3244,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Eastern Military Council Assesses 1993 Achievements </TI></H3>
-<F P=102>  FL3101002994 Havana Tele Rebelde and Cuba Vision Networks in 
+<F P="102">  FL3101002994 Havana Tele Rebelde and Cuba Vision Networks in 
 Spanish 0100 GMT 30 Jan 94 </F>
 
-<F P=103> FL3101002994 </F>
-<F P=104>  Havana Tele Rebelde and Cuba Vision Networks </F>
+<F P="103"> FL3101002994 </F>
+<F P="104">  Havana Tele Rebelde and Cuba Vision Networks </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The Eastern Army Military Council is meeting in 
@@ -3357,15 +3358,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
+<F P="100"> Barbados </F>
 <H3> <TI>   Sandiford Takes Over Tourism Portfolio From Minister </TI></H3>
-<F P=102>  FL2901135394 Bridgetown CANA in English 20232 GMT 28 Jan 94 </F>
-<F P=103> FL2901135394 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL2901135394 Bridgetown CANA in English 20232 GMT 28 Jan 94 </F>
+<F P="103"> FL2901135394 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Bridgetown, Barbados, 28 Jan, CANA -- The Barbados 
@@ -3416,16 +3417,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> Dominican Republic </F>
+<F P="100"> Barbados </F>
+<F P="101"> Dominican Republic </F>
 <H3> <TI>   Army Guarding Haitian Border To Prevent Fuel Contraband </TI></H3>
-<F P=102>  PA0102030894 Madrid EFE in Spanish 0021 GMT 1 Feb 94 </F>
-<F P=103> PA0102030894 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PA0102030894 Madrid EFE in Spanish 0021 GMT 1 Feb 94 </F>
+<F P="103"> PA0102030894 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Santo Domingo, 31 Jan (EFE) -- Half of the Dominican 
@@ -3471,18 +3472,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> Haiti </F>
+<F P="100"> Barbados </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Massac Criticizes Former, Current U.S. Administrations </TI></H3>
-<F P=102>  FL3101200794 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL3101200794 Port-au-Prince Signal FM Radio in French 1130 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101200794 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL3101200794 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] Father Yvon Massac, Fermathe Parish priest, 
@@ -3527,16 +3528,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> Haiti </F>
+<F P="100"> Barbados </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Main Stores, Banks Join Strike To Protest Embargo </TI></H3>
-<F P=102>  PA0102034894 Mexico City NOTIMEX in Spanish 0118 GMT 1 Feb 94 </F>
-<F P=103> PA0102034894 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="102">  PA0102034894 Mexico City NOTIMEX in Spanish 0118 GMT 1 Feb 94 </F>
+<F P="103"> PA0102034894 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Port-au-Prince, 31 Jan (NOTIMEX) -- The main stores 
@@ -3598,18 +3599,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> Haiti </F>
+<F P="100"> Barbados </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Senators Demand Naming of Prime Minister `Within 48 Hours' </TI></H3>
-<F P=102>  FL3101191994 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL3101191994 Port-au-Prince Signal FM Radio in French 1130 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101191994 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL3101191994 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The Alliance [for Parliamentary Cohesion, ACP] is 
@@ -3666,18 +3667,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> Haiti </F>
+<F P="100"> Barbados </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Senator Reproaches Malval on Sovereignty </TI></H3>
-<F P=102>  FL3101222694 Port-au-Prince Radio Metropole in French 1700 
+<F P="102">  FL3101222694 Port-au-Prince Radio Metropole in French 1700 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101222694 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL3101222694 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The Senate first secretary has called the resigning 
@@ -3707,18 +3708,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> Haiti </F>
+<F P="100"> Barbados </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   FRAPH Calls for Anti-intervention Protest 4 or 5 Feb </TI></H3>
-<F P=102>  FL3101222794 Port-au-Prince Radio Metropole in French 1700 
+<F P="102">  FL3101222794 Port-au-Prince Radio Metropole in French 1700 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101222794 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL3101222794 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] FRAPH [Revolutionary Front for Haitian Advancement 
@@ -3770,18 +3771,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> Haiti </F>
+<F P="100"> Barbados </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Business Sector Calls for Mobilization, Unity </TI></H3>
-<F P=102>  FL3101195994 Port-au-Prince Radio Metropole in French 1145 
+<F P="102">  FL3101195994 Port-au-Prince Radio Metropole in French 1145 
 GMT 31 Jan 94 </F>
 
-<F P=103> FL3101195994 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL3101195994 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] Commercial activities have slowed since the work 
@@ -3832,16 +3833,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Barbados </F>
-<F P=101> St. Kitts and Nevis </F>
+<F P="100"> Barbados </F>
+<F P="101"> St. Kitts and Nevis </F>
 <H3> <TI>   Opposition Demonstrators Burn Sugarcane, Buildings </TI></H3>
-<F P=102>  FL2901022194 Bridgetown CANA in English 1801 GMT 28 Jan 94 </F>
-<F P=103> FL2901022194 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL2901022194 Bridgetown CANA in English 1801 GMT 28 Jan 94 </F>
+<F P="103"> FL2901022194 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Basseterre, St. Kitts, 28 Jan, CANA -- St. 
@@ -3900,18 +3901,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AMERICA </F>
-<F P=101> El Salvador </F>
+<F P="100"> CENTRAL AMERICA </F>
+<F P="101"> El Salvador </F>
 <H3> <TI>   U.S. Embassy Accused of Concealing Evidence in Crime </TI></H3>
-<F P=102>  PA3101191994 Mexico City NOTIMEX in Spanish 1602 GMT 31 Jan 
+<F P="102">  PA3101191994 Mexico City NOTIMEX in Spanish 1602 GMT 31 Jan 
 94 </F>
 
-<F P=103> PA3101191994 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="103"> PA3101191994 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] San Salvador, 31 Jan (NOTIMEX) -- Today, Attorney 
@@ -3957,21 +3958,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AMERICA </F>
-<F P=101> El Salvador </F>
+<F P="100"> CENTRAL AMERICA </F>
+<F P="101"> El Salvador </F>
 <H3> <TI>   Presidency Minister on U.S. Mission </TI></H3>
-<F P=102>  PA3101231094 San Salvador Radio Cadena YSKL in Spanish 1710 
+<F P="102">  PA3101231094 San Salvador Radio Cadena YSKL in Spanish 1710 
 GMT 31 Jan 94 </F>
 
-<F P=103> PA3101231094 </F>
-<F P=104>  San Salvador Radio Cadena YSKL </F>
+<F P="103"> PA3101231094 </F>
+<F P="104">  San Salvador Radio Cadena YSKL </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [News conference by Salvadoran Presidency Minister Dr. Oscar </F>
+<F P="106"> [News conference by Salvadoran Presidency Minister Dr. Oscar </F>
 Santamaria with unidentified moderator and local and foreign 
 reporters in San Salvador on 31 January; broadcast in progress 
 -- live or recorded] 
@@ -4387,15 +4388,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Students, Riot Police Clash During 4th Day of Protests </TI></H3>
-<F P=102>  PA3101181894 Madrid EFE in Spanish 1639 GMT 31 Jan 94 </F>
-<F P=103> PA3101181894 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PA3101181894 Madrid EFE in Spanish 1639 GMT 31 Jan 94 </F>
+<F P="103"> PA3101181894 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Quito, 31 Jan (EFE) -- Several student groups and 
@@ -4454,20 +4455,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Update on Student Protests; Unions Announce Strikes </TI></H3>
-<F P=102>  PA0102045294 Quito Voz de los Andes in Spanish 2300 GMT 31 
+<F P="102">  PA0102045294 Quito Voz de los Andes in Spanish 2300 GMT 31 
 Jan 94 </F>
 
-<F P=103> PA0102045294 </F>
-<F P=104>  Quito Voz de los Andes </F>
+<F P="103"> PA0102045294 </F>
+<F P="104">  Quito Voz de los Andes </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From "The Voz Andes" newscast] </F>
+<F P="106"> [From "The Voz Andes" newscast] </F>
   [Text] A report indicates that various student groups have 
 engaged in confrontations with riot police in several 
 neighborhoods in Quito during the fourth day of demonstrations 
@@ -4571,20 +4572,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Panama </F>
+<F P="100"> Panama </F>
 <H3> <TI>   Christian Democratic Party Announces Presidential Slate </TI></H3>
-<F P=102>  PA0102034394 Panama City Telemetro Television Network in 
+<F P="102">  PA0102034394 Panama City Telemetro Television Network in 
 Spanish 0230 GMT 1 Feb 94 </F>
 
-<F P=103> PA0102034394 </F>
-<F P=104>  Panama City Telemetro Television Network </F>
+<F P="103"> PA0102034394 </F>
+<F P="104">  Panama City Telemetro Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Octavio Cogley from the Christian Democratic </F>
+<F P="106"> [Report by Octavio Cogley from the Christian Democratic </F>
 Party headquarters in Panama City -- live] 
   [Text] Good evening. We interrupt this program to 
 announce an item of general interest. This is Octavio Cogley, 
@@ -4628,20 +4629,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Foreign Minister Views Policy </TI></H3>
-<F P=102>  PY3101151094 Montevideo EL PAIS in Spanish 23 Jan 94 pp 18, 
+<F P="102">  PY3101151094 Montevideo EL PAIS in Spanish 23 Jan 94 pp 18, 
 19 </F>
 
-<F P=103> PY3101151094 </F>
-<F P=104>  Montevideo EL PAIS </F>
+<F P="103"> PY3101151094 </F>
+<F P="104">  Montevideo EL PAIS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> ["Exclusive" interview with Uruguayan Foreign Minister </F>
+<F P="106"> ["Exclusive" interview with Uruguayan Foreign Minister </F>
 Sergio Abreu by unidentified reporter; place and date not given] 
   [Text] [EL PAIS] What are the premises and the principles 
 upon which the Foreign Ministry based its action in 1993? 
@@ -4828,11 +4829,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Central Bank Reports Deficit </TI></H3>
-<F P=102>  PY2701150694 </F>
-<F P=103> PY2701150694 </F>
-<F P=104></F>
+<F P="102">  PY2701150694 </F>
+<F P="103"> PY2701150694 </F>
+<F P="104"></F>
 
 
 
@@ -4865,18 +4866,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   * Lacalle on Mercosur, Military, Constitutional Reform </TI></H3>
-<F P=102>  94SM0194A Buenos Aires LA NACION in Spanish 27 Dec 93 p 2 </F>
-<F P=103> 94SM0194A </F>
-<F P=104>  Buenos Aires LA NACION </F>
+<F P="102">  94SM0194A Buenos Aires LA NACION in Spanish 27 Dec 93 p 2 </F>
+<F P="103"> 94SM0194A </F>
+<F P="104">  Buenos Aires LA NACION </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
-<F P=106> [Interview with President Luis Alberto Lacalle by Barret </F>
+<F P="106"> [Interview with President Luis Alberto Lacalle by Barret </F>
 Puig at the presidential residence in Montevideo, 23 December: 
 "President Lacalle Supports Only Economic Policy That Benefits 
 Social Progress"; first three paragraphs are LA NACION editorial 
@@ -5063,20 +5064,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   * Social Security Bill Sponsor Discusses Reforms </TI></H3>
-<F P=102>  94SM0186A Santa Fe de Bogota EL ESPECTADOR in Spanish 3 Jan 
+<F P="102">  94SM0186A Santa Fe de Bogota EL ESPECTADOR in Spanish 3 Jan 
 94 p 5B </F>
 
-<F P=103> 94SM0186A </F>
-<F P=104>  Santa Fe de Bogota EL ESPECTADOR </F>
+<F P="103"> 94SM0186A </F>
+<F P="104">  Santa Fe de Bogota EL ESPECTADOR </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Senator Alvaro Uribe Velez by Gilda </F>
+<F P="106"> [Interview with Senator Alvaro Uribe Velez by Gilda </F>
 Sarmiento; place and date not given -- first two paragraphs are 
 EL ESPECTADOR introduction] 
   [Text] Santa Fe de Bogota--Regarded as the key man in the 
@@ -5305,15 +5306,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Strikers, Police Agree to Truce </TI></H3>
-<F P=102>  PA0102024094 Hamburg DPA in Spanish 0128 GMT 1 Feb 94 </F>
-<F P=103> PA0102024094 </F>
-<F P=104>  Hamburg DPA </F>
+<F P="102">  PA0102024094 Hamburg DPA in Spanish 0128 GMT 1 Feb 94 </F>
+<F P="103"> PA0102024094 </F>
+<F P="104">  Hamburg DPA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Managua, 31 Jan (DPA) -- The Nicaraguan police 
@@ -5370,18 +5371,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   EPS Second in Command Reports on 1993, 1994 Activities </TI></H3>
-<F P=102>  PA3101212694 Managua LA PRENSA in Spanish 28 Jan 94 pp 1, 12 </F>
-<F P=103> PA3101212694 </F>
-<F P=104>  Managua LA PRENSA </F>
+<F P="102">  PA3101212694 Managua LA PRENSA in Spanish 28 Jan 94 pp 1, 12 </F>
+<F P="103"> PA3101212694 </F>
+<F P="104">  Managua LA PRENSA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Pedro Chamorro] </F>
+<F P="106"> [Report by Pedro Chamorro] </F>
   [Text] Yesterday afternoon, Colonel Javier Carrion 
 MacDonough, second in command of the EPS [Sandinist People's 
 Army] General Staff, held an extensive news conference on Army 
@@ -5481,20 +5482,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   President-Elect Caldera Announces Cabinet </TI></H3>
-<F P=102>  PA0102012794 Caracas Venezolana de Television Network in 
+<F P="102">  PA0102012794 Caracas Venezolana de Television Network in 
 Spanish 2305 GMT 31 Jan 94 </F>
 
-<F P=103> PA0102012794 </F>
-<F P=104>  Caracas Venezolana de Television Network </F>
+<F P="103"> PA0102012794 </F>
+<F P="104">  Caracas Venezolana de Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Speech by Venezuelan President-Elect Rafael Caldera in </F>
+<F P="106"> [Speech by Venezuelan President-Elect Rafael Caldera in </F>
 Caracas -- live] 
   [Text] Venezuelan people, I fulfill with pleasure the offer 
 to announce this evening the names of the Venezuelans who make 
@@ -5763,20 +5764,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Caldera Cabinet Members Discuss Immediate Plans </TI></H3>
-<F P=102>  PA0102033894 Caracas Venezolana de Television Network in 
+<F P="102">  PA0102033894 Caracas Venezolana de Television Network in 
 Spanish 2350 GMT 31 Jan 94 </F>
 
-<F P=103> PA0102033894 </F>
-<F P=104>  Caracas Venezolana de Television Network </F>
+<F P="103"> PA0102033894 </F>
+<F P="104">  Caracas Venezolana de Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From "The News" newscast] </F>
+<F P="106"> [From "The News" newscast] </F>
   [Text] Members of the executive cabinet of President-elect 
 Rafael Caldera will work in coordination in order to reactivate 
 the country's productive apparatus. Here is a report on the 
@@ -5849,15 +5850,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   New Army Commanding General Takes Office </TI></H3>
-<F P=102>  PA0102020694 Paris AFP in Spanish 2119 GMT 31 Jan 94 </F>
-<F P=103> PA0102020694 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA0102020694 Paris AFP in Spanish 2119 GMT 31 Jan 94 </F>
+<F P="103"> PA0102020694 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Caracas, 31 Jan (AFP) -- General Moises Orozco 
@@ -5893,18 +5894,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Military Command Suggests Caldera Make No Changes </TI></H3>
-<F P=102>  PA2801212694 Caracas EL GLOBO in Spanish 26 Jan 94 p 47 </F>
-<F P=103> PA2801212694 </F>
-<F P=104>  Caracas EL GLOBO </F>
+<F P="102">  PA2801212694 Caracas EL GLOBO in Spanish 26 Jan 94 p 47 </F>
+<F P="103"> PA2801212694 </F>
+<F P="104">  Caracas EL GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Jose Ramon Diaz] </F>
+<F P="106"> [Report by Jose Ramon Diaz] </F>
   [Text] Given the likelihood of changes in the military High 
 Command once Rafael Caldera becomes president, all active 
 generals and admirals of the National Armed Forces [FAN] agree 
@@ -6013,15 +6014,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Student Demonstrations Continue in Caracas 27 Jan </TI></H3>
-<F P=102>  PA2901043894 Caracas EL UNIVERSAL in Spanish 28 Jan 94 p 4-28 </F>
-<F P=103> PA2901043894 </F>
-<F P=104>  Caracas EL UNIVERSAL </F>
+<F P="102">  PA2901043894 Caracas EL UNIVERSAL in Spanish 28 Jan 94 p 4-28 </F>
+<F P="103"> PA2901043894 </F>
+<F P="104">  Caracas EL UNIVERSAL </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Violent student demonstrations continued in the 
@@ -6087,17 +6088,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Appeal Filed With GATT on U.S. Gas Import Restrictions </TI></H3>
-<F P=102>  PA2901231094 Caracas EL DIARIO DE CARACAS in Spanish 27 Jan 
+<F P="102">  PA2901231094 Caracas EL DIARIO DE CARACAS in Spanish 27 Jan 
 94 p 17 </F>
 
-<F P=103> PA2901231094 </F>
-<F P=104>  Caracas EL DIARIO DE CARACAS </F>
+<F P="103"> PA2901231094 </F>
+<F P="104">  Caracas EL DIARIO DE CARACAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The Government of Venezuela yesterday informed the 
@@ -6159,18 +6160,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Central Bank Approves Plan To Assist Banks </TI></H3>
-<F P=102>  PA2801162294 Caracas EL GLOBO in Spanish 25 Jan 94 p 10 </F>
-<F P=103> PA2801162294 </F>
-<F P=104>  Caracas EL GLOBO </F>
+<F P="102">  PA2801162294 Caracas EL GLOBO in Spanish 25 Jan 94 p 10 </F>
+<F P="103"> PA2801162294 </F>
+<F P="104">  Caracas EL GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Mayra Chirino Ochoa] </F>
+<F P="106"> [Report by Mayra Chirino Ochoa] </F>
   [Text] The Central Bank Board of Directors met on Sunday 
 and approved a general assistance program for the national 
 banking system. Finance Minister Carlos Rafael Silva -- who 
@@ -6224,20 +6225,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Report Notes Teachers' Communique Urging Abstentionism </TI></H3>
-<F P=102>  PA3001173694 Guatemala City Cadena de Emisoras Unidas in 
+<F P="102">  PA3001173694 Guatemala City Cadena de Emisoras Unidas in 
 Spanish 1629 GMT 30 Jan 94 </F>
 
-<F P=103> PA3001173694 </F>
-<F P=104>  Guatemala City Cadena de Emisoras Unidas </F>
+<F P="103"> PA3001173694 </F>
+<F P="104">  Guatemala City Cadena de Emisoras Unidas </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Gonzalo Palacios from Potpun, Peten Department] </F>
+<F P="106"> [Report by Gonzalo Palacios from Potpun, Peten Department] </F>
   [Text] Everything here is calm in terms of the 
 referendum--except for an almost total abstentionism. There are 
 16 booths located in this municipality, and a few moments ago 
@@ -6276,15 +6277,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Electoral Tribunal Suspends Vote Count; `Yes' Leads </TI></H3>
-<F P=102>  PA3101133294 Panama City ACAN in Spanish 0718 GMT 31 Jan 94 </F>
-<F P=103> PA3101133294 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102">  PA3101133294 Panama City ACAN in Spanish 0718 GMT 31 Jan 94 </F>
+<F P="103"> PA3101133294 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala City, 31 Jan (ACAN-EFE) -- The Supreme 
@@ -6326,17 +6327,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Preliminary Figures Indicate Referendum Approved </TI></H3>
-<F P=102>  PA3101145294 Mexico City NOTIMEX in Spanish 1117 GMT 31 Jan 
+<F P="102">  PA3101145294 Mexico City NOTIMEX in Spanish 1117 GMT 31 Jan 
 94 </F>
 
-<F P=103> PA3101145294 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="103"> PA3101145294 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala City, 31 Jan (NOTIMEX) -- Sunday's 
@@ -6461,20 +6462,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   De Leon Interviewed on Referendum Results </TI></H3>
-<F P=102>  PA3101181094 Guatemala City Teleonce Television in Spanish 
+<F P="102">  PA3101181094 Guatemala City Teleonce Television in Spanish 
 0600 GMT 31 Jan 94 </F>
 
-<F P=103> PA3101181094 </F>
-<F P=104>  Guatemala City Teleonce Television </F>
+<F P="103"> PA3101181094 </F>
+<F P="104">  Guatemala City Teleonce Television </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Guatemalan President Ramiro de Leon Carpio </F>
+<F P="106"> [Interview with Guatemalan President Ramiro de Leon Carpio </F>
 by unidentified reporter at the Supreme Electoral Tribunal 
 facility at the Industrial Park in Guatemala City; from the 
 "Telepress" newscast -- live] 
@@ -6593,20 +6594,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Gives News Conference </TI></H3>
-<F P=102>  PA3101215594 Guatemala City Teleonce Television in Spanish 
+<F P="102">  PA3101215594 Guatemala City Teleonce Television in Spanish 
 0630 GMT 31 Jan 94 </F>
 
-<F P=103> PA3101215594 </F>
-<F P=104>  Guatemala City Teleonce Television </F>
+<F P="103"> PA3101215594 </F>
+<F P="104">  Guatemala City Teleonce Television </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [News conference by Guatemalan President Ramiro De Leon </F>
+<F P="106"> [News conference by Guatemalan President Ramiro De Leon </F>
 Carpio with unidentified reporters at the Supreme Electoral 
 Tribunal facility at the Industrial Park in Guatemala City; from 
 the "Telepress" newscast -- live] 
@@ -6830,15 +6831,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Expresses `Satisfaction' </TI></H3>
-<F P=102>  PA3101131194 Panama City ACAN in Spanish 0524 GMT 31 Jan 94 </F>
-<F P=103> PA3101131194 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102">  PA3101131194 Panama City ACAN in Spanish 0524 GMT 31 Jan 94 </F>
+<F P="103"> PA3101131194 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala City, 31 Jan (ACAN-EFE) -- Despite voter 
@@ -6893,17 +6894,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Electoral Tribunal Declares `Yes' Victory in Referendum </TI></H3>
-<F P=102>  PA3101222194 Mexico City NOTIMEX in Spanish 2116 GMT 31 Jan 
+<F P="102">  PA3101222194 Mexico City NOTIMEX in Spanish 2116 GMT 31 Jan 
 94 </F>
 
-<F P=103> PA3101222194 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="103"> PA3101222194 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala City, 31 Jan (NOTIMEX) -- The Supreme 
@@ -6942,13 +6943,13 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   De Leon Remarks on Human Rights </TI></H3>
-<F P=102>  PA3001225694 Guatemala City Teleonce Television 1900 GMT 26 
+<F P="102">  PA3001225694 Guatemala City Teleonce Television 1900 GMT 26 
 Jan 94 </F>
 
-<F P=103> PA3001225694 </F>
-<F P=104>  Guatemala City Teleonce Television 1900 GMT 26 
+<F P="103"> PA3001225694 </F>
+<F P="104">  Guatemala City Teleonce Television 1900 GMT 26 
 Jan 94 </F>
 
 
@@ -6957,7 +6958,7 @@ Jan 94 </F>
 <TEXT>
 Article Type:BFN 
 
-<F P=106> [From the "Teleprensa" newscast] </F>
+<F P="106"> [From the "Teleprensa" newscast] </F>
   [Excerpts] President Ramiro de Leon Carpio said today 
 Guatemala's aspirations at the next UN Human Rights Commission 
 meeting are not limited to being transferred from one category 
@@ -7158,20 +7159,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   De Leon Warns Transportation Sector Against Striking </TI></H3>
-<F P=102>  PA0102003594 Guatemala City SIGLO VEINTIUNO in Spanish 30 
+<F P="102">  PA0102003594 Guatemala City SIGLO VEINTIUNO in Spanish 30 
 Jan 94 p 5 </F>
 
-<F P=103> PA0102003594 </F>
-<F P=104>  Guatemala City SIGLO VEINTIUNO </F>
+<F P="103"> PA0102003594 </F>
+<F P="104">  Guatemala City SIGLO VEINTIUNO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Article by Juan Carlos Ruiz and Leonel Gutierrez] </F>
+<F P="106"> [Article by Juan Carlos Ruiz and Leonel Gutierrez] </F>
   [Text] President Ramiro de Leon Carpio threatened truck 
 drivers yesterday and said that he would intervene "if they 
 continue with their blackmailing practices." 
@@ -7249,20 +7250,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Police Spokesperson Says 1 Bomb Defused, Another Explodes </TI></H3>
-<F P=102>  PA3101125294 Guatemala City Cadena de Emisoras Unidas in 
+<F P="102">  PA3101125294 Guatemala City Cadena de Emisoras Unidas in 
 Spanish 1219 GMT 31 Jan 94 </F>
 
-<F P=103> PA3101125294 </F>
-<F P=104>  Guatemala City Cadena de Emisoras Unidas </F>
+<F P="103"> PA3101125294 </F>
+<F P="104">  Guatemala City Cadena de Emisoras Unidas </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Jorge Celis] </F>
+<F P="106"> [Report by Jorge Celis] </F>
   [Text] The National Police public relations spokesperson 
 reports on last night's bomb scares. One of the bombs was 
 defused, and the other exploded at 12th Street and 19th Avenue 
@@ -7293,17 +7294,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Suit Filed Against U.S. for Restrictions on Tobacco Imports </TI></H3>
-<F P=102>  PA2901233394 Guatemala City PRENSA LIBRE in Spanish 27 Jan 
+<F P="102">  PA2901233394 Guatemala City PRENSA LIBRE in Spanish 27 Jan 
 94 p 3 </F>
 
-<F P=103> PA2901233394 </F>
-<F P=104>  Guatemala City PRENSA LIBRE </F>
+<F P="103"> PA2901233394 </F>
+<F P="104">  Guatemala City PRENSA LIBRE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala appears on a list of nations that have 
@@ -7336,20 +7337,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   New Foreign Minister Sworn In, Deputy Ministers Named </TI></H3>
-<F P=102>  PA2901223294 Guatemala City Teleonce Television in Spanish 
+<F P="102">  PA2901223294 Guatemala City Teleonce Television in Spanish 
 1900 GMT 26 Jan 94 </F>
 
-<F P=103> PA2901223294 </F>
-<F P=104>  Guatemala City Teleonce Television </F>
+<F P="103"> PA2901223294 </F>
+<F P="104">  Guatemala City Teleonce Television </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Telepress" newscast] </F>
+<F P="106"> [From the "Telepress" newscast] </F>
   [Text] President Ramiro De Leon Carpio swore in the new 
 minister of foreign relations during a ceremony held Wednesday 
 morning. Marithza Ruiz de Vielman assumed the position that had 
@@ -7416,17 +7417,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   More on New Finance Minister </TI></H3>
-<F P=102>  PA2801213394 Guatemala City PRENSA LIBRE in Spanish 26 Jan 
+<F P="102">  PA2801213394 Guatemala City PRENSA LIBRE in Spanish 26 Jan 
 94 p 78 </F>
 
-<F P=103> PA2801213394 </F>
-<F P=104>  Guatemala City PRENSA LIBRE </F>
+<F P="103"> PA2801213394 </F>
+<F P="104">  Guatemala City PRENSA LIBRE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Ana Francisca del Rosario Ordonez de Molina, former 
@@ -7486,18 +7487,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   President Lacalle Reviews Mercosur, Domestic Issues </TI></H3>
-<F P=102>  PY2901003894 Montevideo EL PAIS in Spanish 22 Jan 94 p 8 </F>
-<F P=103> PY2901003894 </F>
-<F P=104>  Montevideo EL PAIS </F>
+<F P="102">  PY2901003894 Montevideo EL PAIS in Spanish 22 Jan 94 p 8 </F>
+<F P="103"> PY2901003894 </F>
+<F P="104">  Montevideo EL PAIS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Article by correspondent Pedro S. Boggiani] </F>
+<F P="106"> [Article by correspondent Pedro S. Boggiani] </F>
   [Text] Fray Bentos -- President Luis Alberto Lacalle said 
 yesterday that he has maintained the predominance of civil 
 society over any other power, and that in making unpleasant 
@@ -7607,20 +7608,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Foreign Minister Views Policy </TI></H3>
-<F P=102>  PY3101151094 Montevideo EL PAIS in Spanish 23 Jan 94 pp 18, 
+<F P="102">  PY3101151094 Montevideo EL PAIS in Spanish 23 Jan 94 pp 18, 
 19 </F>
 
-<F P=103> PY3101151094 </F>
-<F P=104>  Montevideo EL PAIS </F>
+<F P="103"> PY3101151094 </F>
+<F P="104">  Montevideo EL PAIS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> ["Exclusive" interview with Uruguayan Foreign Minister </F>
+<F P="106"> ["Exclusive" interview with Uruguayan Foreign Minister </F>
 Sergio Abreu by unidentified reporter; place and date not given] 
   [Text] [EL PAIS] What are the premises and the principles 
 upon which the Foreign Ministry based its action in 1993? 
@@ -7807,11 +7808,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Central Bank Reports Deficit </TI></H3>
-<F P=102>  PY2701150694 </F>
-<F P=103> PY2701150694 </F>
-<F P=104></F>
+<F P="102">  PY2701150694 </F>
+<F P="103"> PY2701150694 </F>
+<F P="104"></F>
 
 
 
@@ -7844,18 +7845,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   * Lacalle on Mercosur, Military, Constitutional Reform </TI></H3>
-<F P=102>  94SM0194A Buenos Aires LA NACION in Spanish 27 Dec 93 p 2 </F>
-<F P=103> 94SM0194A </F>
-<F P=104>  Buenos Aires LA NACION </F>
+<F P="102">  94SM0194A Buenos Aires LA NACION in Spanish 27 Dec 93 p 2 </F>
+<F P="103"> 94SM0194A </F>
+<F P="104">  Buenos Aires LA NACION </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
-<F P=106> [Interview with President Luis Alberto Lacalle by Barret </F>
+<F P="106"> [Interview with President Luis Alberto Lacalle by Barret </F>
 Puig at the presidential residence in Montevideo, 23 December: 
 "President Lacalle Supports Only Economic Policy That Benefits 
 Social Progress"; first three paragraphs are LA NACION editorial 
@@ -8042,17 +8043,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Defense Secretariat Reports Rebel Attacks in Ocosingo </TI></H3>
-<F P=102>  PA3101201094 Mexico City NOTIMEX in Spanish 1730 GMT 31 Jan 
+<F P="102">  PA3101201094 Mexico City NOTIMEX in Spanish 1730 GMT 31 Jan 
 94 </F>
 
-<F P=103> PA3101201094 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="103"> PA3101201094 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Mexico City, 31 Jan (NOTIMEX) -- The Defense 
@@ -8102,18 +8103,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH AMERICA </F>
-<F P=101> Argentina </F>
+<F P="100"> SOUTH AMERICA </F>
+<F P="101"> Argentina </F>
 <H3> <TI>   Foreign Minister Notes U.S. Approval of Plane, Radar Sale </TI></H3>
-<F P=102>  PY3101231694 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
+<F P="102">  PY3101231694 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
 1820 GMT 31 Jan 94 </F>
 
-<F P=103> PY3101231694 </F>
-<F P=104>  Buenos Aires NOTICIAS ARGENTINAS </F>
+<F P="103"> PY3101231694 </F>
+<F P="104">  Buenos Aires NOTICIAS ARGENTINAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Buenos Aires, 31 Jan (NA) -- The U.S. Government 
@@ -8197,18 +8198,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   President Lacalle Reviews Mercosur, Domestic Issues </TI></H3>
-<F P=102>  PY2901003894 Montevideo EL PAIS in Spanish 22 Jan 94 p 8 </F>
-<F P=103> PY2901003894 </F>
-<F P=104>  Montevideo EL PAIS </F>
+<F P="102">  PY2901003894 Montevideo EL PAIS in Spanish 22 Jan 94 p 8 </F>
+<F P="103"> PY2901003894 </F>
+<F P="104">  Montevideo EL PAIS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Article by correspondent Pedro S. Boggiani] </F>
+<F P="106"> [Article by correspondent Pedro S. Boggiani] </F>
   [Text] Fray Bentos -- President Luis Alberto Lacalle said 
 yesterday that he has maintained the predominance of civil 
 society over any other power, and that in making unpleasant 
@@ -8318,20 +8319,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Bolivia </F>
+<F P="100"> Bolivia </F>
 <H3> <TI>   President Speaks to Nation on Reforms, Economy </TI></H3>
-<F P=102>  PY3101185294 La Paz Television Nacional Network in Spanish 
+<F P="102">  PY3101185294 La Paz Television Nacional Network in Spanish 
 0100 GMT 31 Jan 94 </F>
 
-<F P=103> PY3101185294 </F>
-<F P=104>  La Paz Television Nacional Network </F>
+<F P="103"> PY3101185294 </F>
+<F P="104">  La Paz Television Nacional Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Address to the nation by President Gonzalo Sanchez de </F>
+<F P="106"> [Address to the nation by President Gonzalo Sanchez de </F>
 Lozada; place not given -- live or recorded] 
   [Excerpts] My dear fellow Bolivian citizens: The reason 
 that moved me to talk to you this evening is that I have good 
@@ -8440,17 +8441,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   President Calls Attitude of Striking Workers `Inhumane' </TI></H3>
-<F P=102>  PA0102003694 Mexico City NOTIMEX in Spanish 2116 GMT 31 Jan 
+<F P="102">  PA0102003694 Mexico City NOTIMEX in Spanish 2116 GMT 31 Jan 
 94 </F>
 
-<F P=103> PA0102003694 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="103"> PA0102003694 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Managua, 31 Jan (NOTIMEX) -- Nicaraguan President 
@@ -8504,20 +8505,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   UASP, CD Fear Possible Fraud in 30 Jan Referendum </TI></H3>
-<F P=102>  PA3001044094 Guatemala City EL GRAFICO in Spanish 28 Jan 94 
+<F P="102">  PA3001044094 Guatemala City EL GRAFICO in Spanish 28 Jan 94 
 p 7 </F>
 
-<F P=103> PA3001044094 </F>
-<F P=104>  Guatemala City EL GRAFICO </F>
+<F P="103"> PA3001044094 </F>
+<F P="104">  Guatemala City EL GRAFICO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Article by David Flores Castillo] </F>
+<F P="106"> [Article by David Flores Castillo] </F>
   [Text] The Labor and Popular Action Union (UASP) and the 
 Democratic Convergence (CD) fear possible fraud in the popular 
 referendum scheduled for 30 January. 
@@ -8562,15 +8563,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Threatens To Intervene </TI></H3>
-<F P=102>  PA3101225094 Panama City ACAN in Spanish 1548 GMT 31 Jan 94 </F>
-<F P=103> PA3101225094 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102">  PA3101225094 Panama City ACAN in Spanish 1548 GMT 31 Jan 94 </F>
+<F P="103"> PA3101225094 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala City, 31 Jan (ACAN-EFE) -- Guatemalan 
@@ -8608,15 +8609,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Zapatist Rebels Preparing To Meet With Government </TI></H3>
-<F P=102>  PA3101034094 Hamburg DPA in Spanish 2043 GMT 30 Jan 94 </F>
-<F P=103> PA3101034094 </F>
-<F P=104>  Hamburg DPA </F>
+<F P="102">  PA3101034094 Hamburg DPA in Spanish 2043 GMT 30 Jan 94 </F>
+<F P="103"> PA3101034094 </F>
+<F P="104">  Hamburg DPA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Mexico City, 30 Jan (DPA) -- According to a document 
@@ -8689,15 +8690,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Official: Foreign Investments Unaffected by Rebellion </TI></H3>
-<F P=102>  PA2901041194 Paris AFP in Spanish 1421 GMT 26 Jan 94 </F>
-<F P=103> PA2901041194 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA2901041194 Paris AFP in Spanish 1421 GMT 26 Jan 94 </F>
+<F P="103"> PA2901041194 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Mexico City, 26 Jan (AFP) -- The armed rebellion 
@@ -8757,15 +8758,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Chiapas Authorities Release 38 Jailed Indians </TI></H3>
-<F P=102>  PA2901040894 Hamburg DPA in Spanish 0206 GMT 29 Jan 94 </F>
-<F P=103> PA2901040894 </F>
-<F P=104>  Hamburg DPA </F>
+<F P="102">  PA2901040894 Hamburg DPA in Spanish 0206 GMT 29 Jan 94 </F>
+<F P="103"> PA2901040894 </F>
+<F P="104">  Hamburg DPA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Mexico City, 28 Jan (DPA) -- Judicial authorities in 
@@ -8815,20 +8816,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Camacho: Conditions for Talks With Rebels Exist </TI></H3>
-<F P=102>  PA0102150994 Mexico City XEW Television Network in Spanish 
+<F P="102">  PA0102150994 Mexico City XEW Television Network in Spanish 
 0435 GMT 1 Feb 94 </F>
 
-<F P=103> PA0102150994 </F>
-<F P=104>  Mexico City XEW Television Network </F>
+<F P="103"> PA0102150994 </F>
+<F P="104">  Mexico City XEW Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "24 Hours" newscast] </F>
+<F P="106"> [From the "24 Hours" newscast] </F>
   [Text] Manuel Camacho Solis, commissioner for peace and 
 reconciliation in Chiapas, met today with President Carlos 
 Salinas de Gortari in Los Pinos. Afterward, he met with senators 
@@ -8866,15 +8867,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Peace Commissioner Camacho Announces New `Buffer Zones' </TI></H3>
-<F P=102>  PA0102230094 Paris AFP in Spanish 2147 GMT 1 Feb 94 </F>
-<F P=103> PA0102230094 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA0102230094 Paris AFP in Spanish 2147 GMT 1 Feb 94 </F>
+<F P="103"> PA0102230094 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] San Cristobal de Las Casas, Mexico, 1 Feb (AFP) -- 
@@ -8949,15 +8950,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   EZLN Announces `Imminent' Dialogue, Invites Media To Attend </TI></H3>
-<F P=102>  PA0202022594 Paris AFP in Spanish 0050 GMT 2 Feb 94 </F>
-<F P=103> PA0202022594 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA0202022594 Paris AFP in Spanish 0050 GMT 2 Feb 94 </F>
+<F P="103"> PA0202022594 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Mexico City, 1 Feb (AFP) -- The EZLN [Zapatist 
@@ -9023,15 +9024,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Camacho Acknowledges EZLN Communique </TI></H3>
-<F P=102>  PA0202034694 Mexico City NOTIMEX in Spanish 0258 GMT 2 Feb 94 </F>
-<F P=103> PA0202034694 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="102">  PA0202034694 Mexico City NOTIMEX in Spanish 0258 GMT 2 Feb 94 </F>
+<F P="103"> PA0202034694 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Excerpts] San Cristobal de Las Casas, 1 Feb (NOTIMEX) -- 
@@ -9084,18 +9085,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   French Minister Concurs with Goverment Views on Chiapas </TI></H3>
-<F P=102>  BR0102150194 Paris LE MONDE in French 1 Feb 94 p 4 </F>
-<F P=103> BR0102150194 </F>
-<F P=104>  Paris LE MONDE </F>
+<F P="102">  BR0102150194 Paris LE MONDE in French 1 Feb 94 p 4 </F>
+<F P="103"> BR0102150194 </F>
+<F P="104">  Paris LE MONDE </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Report by correspondent "B. de la G." in Mexico: "Alain </F>
+<F P="106"> [Report by correspondent "B. de la G." in Mexico: "Alain </F>
 Juppe Sought To Downplay Magnitude of Chiapas Rebellion During 
 Official Visit in Mexico"] 
   [Text] During an official visit to Mexico from 26 to 29 
@@ -9175,20 +9176,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   De Leon Views Referendum Results, Future </TI></H3>
-<F P=102>  PA0102152894 Guatemala City Radio and Television Networks in 
+<F P="102">  PA0102152894 Guatemala City Radio and Television Networks in 
 Spanish 0315 GMT 1 Feb 94 </F>
 
-<F P=103> PA0102152894 </F>
-<F P=104>  Guatemala City Radio and Television Networks </F>
+<F P="103"> PA0102152894 </F>
+<F P="104">  Guatemala City Radio and Television Networks </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Statement by Guatemalan President Ramiro de Leon Carpio on </F>
+<F P="106"> [Statement by Guatemalan President Ramiro de Leon Carpio on </F>
 31 January; place not given -- recorded] 
   [Text] Dear Guatemalans: Yesterday the Guatemalan people 
 took a very significant and unprecedented step in the nation's 
@@ -9309,20 +9310,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Politician Comments </TI></H3>
-<F P=102>  PA0102165794 Guatemala City Cadena de Emisoras Unidas in 
+<F P="102">  PA0102165794 Guatemala City Cadena de Emisoras Unidas in 
 Spanish 1700 GMT 31 Jan 94 </F>
 
-<F P=103> PA0102165794 </F>
-<F P=104>  Guatemala City Cadena de Emisoras Unidas </F>
+<F P="103"> PA0102165794 </F>
+<F P="104">  Guatemala City Cadena de Emisoras Unidas </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Guatemala Flash" newscast] </F>
+<F P="106"> [From the "Guatemala Flash" newscast] </F>
   [Text] Rodolfo Rosales Garcia Salas, Revolutionary Civic 
 Alliance leader, termed yesterday's referendum results a 
 political earthquake. The yes vote won over the no vote by a 
@@ -9354,15 +9355,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   URNG Terms Referendum `Government Failure' </TI></H3>
-<F P=102>  PA0102170694 Madrid EFE in Spanish 1552 GMT 1 Feb 94 </F>
-<F P=103> PA0102170694 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PA0102170694 Madrid EFE in Spanish 1552 GMT 1 Feb 94 </F>
+<F P="103"> PA0102170694 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Mexico City, 1 Feb (EFE) -- The Guatemalan National 
@@ -9410,18 +9411,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Technical Cooperation Agreement Signed With Venezuela </TI></H3>
-<F P=102>  FL0202031394 Havana Radio Rebelde Network in Spanish 0000 
+<F P="102">  FL0202031394 Havana Radio Rebelde Network in Spanish 0000 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202031394 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0202031394 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Several international news agencies report that 
@@ -9451,18 +9452,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Alarcon Discusses Tourism With Bremen Businessmen </TI></H3>
-<F P=102>  FL0202031294 Havana Radio Rebelde Network in Spanish 0000 
+<F P="102">  FL0202031294 Havana Radio Rebelde Network in Spanish 0000 
 GMT 2 feb 94 </F>
 
-<F P=103> FL0202031294 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0202031294 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Today, representatives from shipping and airline 
@@ -9495,18 +9496,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Havana-Paris-Havana Flight Inaugurates Joint Airline </TI></H3>
-<F P=102>  FL0202014094 Havana Tele Rebelde and Cuba Vision Networks in 
+<F P="102">  FL0202014094 Havana Tele Rebelde and Cuba Vision Networks in 
 Spanish 2320 GMT 1 Feb 94 </F>
 
-<F P=103> FL0202014094 </F>
-<F P=104>  Havana Tele Rebelde and Cuba Vision Networks </F>
+<F P="103"> FL0202014094 </F>
+<F P="104">  Havana Tele Rebelde and Cuba Vision Networks </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The inaugural flight of the new joint airline, 
@@ -9536,18 +9537,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Raul Castro Praises Provincial Fish-Farming Efforts </TI></H3>
-<F P=102>  FL0102203294 Havana Radio Reloj Network in Spanish 1902 GMT 
+<F P="102">  FL0102203294 Havana Radio Reloj Network in Spanish 1902 GMT 
 1 Feb 94 </F>
 
-<F P=103> FL0102203294 </F>
-<F P=104>  Havana Radio Reloj Network </F>
+<F P="103"> FL0102203294 </F>
+<F P="104">  Havana Radio Reloj Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Army General Raul Castro, minister of the 
@@ -9605,18 +9606,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Maritime Enterprise Seeks Means To End Subsidies </TI></H3>
-<F P=102>  FL0102204294 Havana Radio Reloj Network in Spanish 1908 GMT 
+<F P="102">  FL0102204294 Havana Radio Reloj Network in Spanish 1908 GMT 
 1 Feb 94 </F>
 
-<F P=103> FL0102204294 </F>
-<F P=104>  Havana Radio Reloj Network </F>
+<F P="103"> FL0102204294 </F>
+<F P="104">  Havana Radio Reloj Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The Navegacion Caribe Enterprise of the Isle of 
@@ -9649,16 +9650,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   CTC Warns of `Traumatic Consequences' of Payroll Cutbacks </TI></H3>
-<F P=102>  PA0102130094 Madrid EFE in Spanish 2031 GMT 31 Jan 94 </F>
-<F P=103> PA0102130094 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PA0102130094 Madrid EFE in Spanish 2031 GMT 31 Jan 94 </F>
+<F P="103"> PA0102130094 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Havana, 31 Jan (EFE) -- The Cuban Workers Federation 
@@ -9724,12 +9725,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Roundup of Economic Activity Reported 27 Jan to 1 Feb </TI></H3>
-<F P=102>  FL0102161894 </F>
-<F P=103> FL0102161894 </F>
-<F P=104></F>
+<F P="102">  FL0102161894 </F>
+<F P="103"> FL0102161894 </F>
+<F P="104"></F>
 
 
 
@@ -9879,18 +9880,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTER-AMERICAN AFFAIRS </F>
+<F P="100"> INTER-AMERICAN AFFAIRS </F>
 <H3> <TI>   Bolivian President Interviewed on Mercosur </TI></H3>
-<F P=102>  PY0102125794 Montevideo EL PAIS in Spanish 25 Jan 94 p 8 </F>
-<F P=103> PY0102125794 </F>
-<F P=104>  Montevideo EL PAIS </F>
+<F P="102">  PY0102125794 Montevideo EL PAIS in Spanish 25 Jan 94 p 8 </F>
+<F P="103"> PY0102125794 </F>
+<F P="104">  Montevideo EL PAIS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> ["Exclusive" interview with Bolivian President Gonzalo </F>
+<F P="106"> ["Exclusive" interview with Bolivian President Gonzalo </F>
 Sanchez de Lozada by an unidentified EL PAIS reporter during his 
 visit to Colonia del Sacramento, Uruguay for the Common Market 
 of the South, Mercosur, summit on 17 January] 
@@ -10085,15 +10086,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTER-AMERICAN AFFAIRS </F>
+<F P="100"> INTER-AMERICAN AFFAIRS </F>
 <H3> <TI>   Foreign Minister Believes Gaviria Will Not Get OAS Post </TI></H3>
-<F P=102>  PA0102214794 Panama City ACAN in Spanish 1808 GMT 28 Jan 94 </F>
-<F P=103> PA0102214794 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102">  PA0102214794 Panama City ACAN in Spanish 1808 GMT 28 Jan 94 </F>
+<F P="103"> PA0102214794 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Tegucigalpa, 28 Jan (ACAN-EFE) -- Costa Rican 
@@ -10192,21 +10193,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> El Salvador </F>
+<F P="100"> El Salvador </F>
 <H3> <TI>   Foreign Minister Condemns Death, Says U.S. Major Has 
 Diplomatic Immunity </TI></H3>
-<F P=102>  PA0102200594 San Salvador Radio Cadena YSU in Spanish 1800 
+<F P="102">  PA0102200594 San Salvador Radio Cadena YSU in Spanish 1800 
 GMT 1 Feb 94 </F>
 
-<F P=103> PA0102200594 </F>
-<F P=104>  San Salvador Radio Cadena YSU </F>
+<F P="103"> PA0102200594 </F>
+<F P="104">  San Salvador Radio Cadena YSU </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Balmore Parada from the "YSU Radio News" newscast] </F>
+<F P="106"> [Report by Balmore Parada from the "YSU Radio News" newscast] </F>
   [Text] After having claimed there was no violation 
 whatsoever of Salvadoran sovereignty in the case involving the 
 death of a Salvadoran bodyguard -- a death blamed on U.S. 
@@ -10262,18 +10263,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   Commission Makes Recommendations on Administrative Chaos </TI></H3>
-<F P=102>  BR0102144994 Rotterdam ALGEMEEN DAGBLAD in Dutch 1 Feb 94 p 1 </F>
-<F P=103> BR0102144994 </F>
-<F P=104>  Rotterdam ALGEMEEN DAGBLAD </F>
+<F P="102">  BR0102144994 Rotterdam ALGEMEEN DAGBLAD in Dutch 1 Feb 94 p 1 </F>
+<F P="103"> BR0102144994 </F>
+<F P="104">  Rotterdam ALGEMEEN DAGBLAD </F>
 
 
 <TEXT>
-Language: <F P=105> Dutch </F>
+Language: <F P="105"> Dutch </F>
 Article Type:BFN 
 
-<F P=106> [Article by Pieter Den Hollander: "Assessment Condemns </F>
+<F P="106"> [Article by Pieter Den Hollander: "Assessment Condemns </F>
 Person in Charge of St. Martin"] 
   [Text] Philipsburg -- The person in charge of St. Martin, 
 R. Voges, is unsuitable for his task of combatting the 
@@ -10352,18 +10353,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   Regional Economy Suffered Despite Global Reversal </TI></H3>
-<F P=102>  FL0202024394 Bridgetown CANA in English 2144 GMT 1 Feb 94 </F>
-<F P=103> FL0202024394 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0202024394 Bridgetown CANA in English 2144 GMT 1 Feb 94 </F>
+<F P="103"> FL0202024394 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Richard Cox] </F>
+<F P="106"> [Report by Richard Cox] </F>
   [Text] Bridgetown, Barbados, 1 Feb, CANA -- Although the 
 global recession appears to be ending, Caribbean economies did 
 not perform satisfactorily last year mainly because the region's 
@@ -10500,16 +10501,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Antigua and Barbuda </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Antigua and Barbuda </F>
 <H3> <TI>   Opposition Denies Claims of Inciting Election Violence </TI></H3>
-<F P=102>  FL0102222994 Bridgetown CANA in English 1646 GMT 1 Feb 94 </F>
-<F P=103> FL0102222994 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0102222994 Bridgetown CANA in English 1646 GMT 1 Feb 94 </F>
+<F P="103"> FL0102222994 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] St. John's, Antigua, 1 Feb, CANA -- Political leader 
@@ -10562,16 +10563,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> The Bahamas </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> The Bahamas </F>
 <H3> <TI>   Opposition Files No-Confidence Motion Against Ingraham </TI></H3>
-<F P=102>  FL0102222894 Bridgetown CANA in English 1619 GMT 1 Feb 94 </F>
-<F P=103> FL0102222894 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0102222894 Bridgetown CANA in English 1619 GMT 1 Feb 94 </F>
+<F P="103"> FL0102222894 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Nassau, Bahamas, 1 Feb, CANA -- Opposition leader 
@@ -10641,16 +10642,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Barbados </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Barbados </F>
 <H3> <TI>   Diplomatic Relations Established With South Africa </TI></H3>
-<F P=102>  FL0202021694 Bridgetown CANA in English 2209 GMT 1 Feb 94 </F>
-<F P=103> FL0202021694 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0202021694 Bridgetown CANA in English 2209 GMT 1 Feb 94 </F>
+<F P="103"> FL0202021694 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Bridgetown, Barbados, 1 Feb, CANA -- Barbados and 
@@ -10684,18 +10685,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Aristide Advocates Dessalinian Methods Against Military </TI></H3>
-<F P=102>  FL0102230894 Port-au-Prince Signal FM Radio in French 1800 
+<F P="102">  FL0102230894 Port-au-Prince Signal FM Radio in French 1800 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102230894 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL0102230894 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] Exiled Haitian President Jean-Bertrand Aristide 
@@ -10730,18 +10731,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   CONACOM Favors Conference Following Aristide Return </TI></H3>
-<F P=102>  FL0102231894 Port-au-Prince Radio Tropic FM in French 1500 
+<F P="102">  FL0102231894 Port-au-Prince Radio Tropic FM in French 1500 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102231894 </F>
-<F P=104>  Port-au-Prince Radio Tropic FM </F>
+<F P="103"> FL0102231894 </F>
+<F P="104">  Port-au-Prince Radio Tropic FM </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] A national conference held without the participation 
@@ -10782,18 +10783,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   DeRonceray Warns Against National Conference `Industry' </TI></H3>
-<F P=102>  FL0202002994 Port-au-Prince Radio Metropole in French 1700 
+<F P="102">  FL0202002994 Port-au-Prince Radio Metropole in French 1700 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0202002994 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL0202002994 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The various national conference projects are not 
@@ -10834,21 +10835,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Sen. Dupiton Said Linked to Izmery Assassination </TI></H3>
-<F P=102>  FL0102180194 Port-au-Prince Radio Tropic FM in French 1430 
+<F P="102">  FL0102180194 Port-au-Prince Radio Tropic FM in French 1430 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102180194 </F>
-<F P=104>  Port-au-Prince Radio Tropic FM </F>
+<F P="103"> FL0102180194 </F>
+<F P="104">  Port-au-Prince Radio Tropic FM </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Monitored in progress] </F>
+<F P="106"> [Monitored in progress] </F>
   [Text] ...December 1993 that the assassination of Antoine 
 Izmery [Haitian businessman and Aristide supporter killed on 11 
 September 1993] was allegedly worked out meticulously at the 
@@ -10882,18 +10883,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Sansaricque on Charges of Dupiton as Izmery Assassin </TI></H3>
-<F P=102>  FL0202013094 Port-au-Prince Radio Metropole in French 1700 
+<F P="102">  FL0202013094 Port-au-Prince Radio Metropole in French 1700 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202013094 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL0202013094 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] Part of the Senate of the Republic does not favor 
@@ -10983,18 +10984,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Organization Claims U.S. Ambassador Fosters Communism </TI></H3>
-<F P=102>  FL0102174394 Port-au-Prince Radio Metropole in French 1145 
+<F P="102">  FL0102174394 Port-au-Prince Radio Metropole in French 1145 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102174394 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL0102174394 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] An unknown organization has reacted following the 
@@ -11020,18 +11021,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Adherence to Strike Partial on 31 Jan </TI></H3>
-<F P=102>  FL0102182094 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL0102182094 Port-au-Prince Signal FM Radio in French 1130 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102182094 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL0102182094 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] On 31 January, downtown Port-au-Prince's big stores 
@@ -11071,18 +11072,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   Increasing Adherence Noted </TI></H3>
-<F P=102>  FL0102185594 Port-au-Prince Radio Metropole in French 1145 
+<F P="102">  FL0102185594 Port-au-Prince Radio Metropole in French 1145 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102185594 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL0102185594 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] A press release from the crisis committee and the 
@@ -11115,18 +11116,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Haiti </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Haiti </F>
 <H3> <TI>   UN Spokesman Justifies Fuel Stockpile </TI></H3>
-<F P=102>  FL0102193894 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL0102193894 Port-au-Prince Signal FM Radio in French 1130 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0102193894 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL0102193894 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] Over 8,000 gallons of fuel are currently stored at 
@@ -11160,23 +11161,23 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Further Reportage on Transportation Strike Situation </TI></H3>
 <H4>   Safety, Security Guaranteed </H4>
-<F P=102> PA0102192294 Managua Sistema Nacional de Television Network 
+<F P="102"> PA0102192294 Managua Sistema Nacional de Television Network 
 in Spanish 0100 GMT 1 Feb 94 </F>
 
-<F P=103> PA0102192294 </F>
-<F P=104>  Managua Sistema Nacional de Television Network 
+<F P="103"> PA0102192294 </F>
+<F P="104">  Managua Sistema Nacional de Television Network 
 in Spanish 0100 GMT 1 Feb 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Spanish </F>
+Language: <F P="105">Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Ericka Ramirez from the "National" newscast] </F>
+<F P="106"> [Report by Ericka Ramirez from the "National" newscast] </F>
   [Excerpts] Government Minister Alfredo Mendieta pointed out 
 that the National Police are capable of ensuring unrestrained 
 traffic and will provide all necessary protection to every 
@@ -11248,16 +11249,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Further Reportage on Transportation Strike Situation </TI></H3>
 <H4>   Strike Enters 10th Day </H4>
-<F P=102> PA0102182794 Panama City ACAN in Spanish 1526 GMT 1 Feb 94 </F>
-<F P=103> PA0102182794 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102"> PA0102182794 Panama City ACAN in Spanish 1526 GMT 1 Feb 94 </F>
+<F P="103"> PA0102182794 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Managua, 1 Feb (ACAN-EFE) -- The Sandinist 
@@ -11307,16 +11308,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Further Reportage on Transportation Strike Situation </TI></H3>
 <H4>   Strike Ends </H4>
-<F P=102> PA0202031994 Panama City ACAN in Spanish 0227 GMT 2 Feb 94 </F>
-<F P=103> PA0202031994 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102"> PA0202031994 Panama City ACAN in Spanish 0227 GMT 2 Feb 94 </F>
+<F P="103"> PA0202031994 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Managua, 1 Feb (ACAN EFE) -- The Nicaraguan 
@@ -11353,21 +11354,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Panama </F>
+<F P="100"> Panama </F>
 <H3> <TI>   Endara Asks Cabinet To Resign; No Decision Yet on New 
 Ministers </TI></H3>
-<F P=102>  PA0102173294 Panama City TVN Television Network in Spanish 
+<F P="102">  PA0102173294 Panama City TVN Television Network in Spanish 
 1602 GMT 1 Feb 94 </F>
 
-<F P=103> PA0102173294 </F>
-<F P=104>  Panama City TVN Television Network </F>
+<F P="103"> PA0102173294 </F>
+<F P="104">  Panama City TVN Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Message to the nation by Panamanian President Guillermo </F>
+<F P="106"> [Message to the nation by Panamanian President Guillermo </F>
 Endara from the Palace of the Herons in Panama City -- live] 
   [Text] Good morning, everyone. After spending several days 
 and weeks contemplating the one issue that interests you so very 
@@ -11458,20 +11459,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Panama </F>
+<F P="100"> Panama </F>
 <H3> <TI>   MUN Urges Unity Among New Parties </TI></H3>
-<F P=102>  PA0102212694 Panama City Telemetro Television Network in 
+<F P="102">  PA0102212694 Panama City Telemetro Television Network in 
 Spanish 1730 GMT 27 Jan 94 </F>
 
-<F P=103> PA0102212694 </F>
-<F P=104>  Panama City Telemetro Television Network </F>
+<F P="103"> PA0102212694 </F>
+<F P="104">  Panama City Telemetro Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Telemetro Reports" newscast] </F>
+<F P="106"> [From the "Telemetro Reports" newscast] </F>
   [Text] The entire National Unity Mission [MUN] leadership 
 organized a news conference this morning to call on political 
 parties such as Papa Egoro and Solidarity, as well as civic 
@@ -11535,21 +11536,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Panama </F>
+<F P="100"> Panama </F>
 <H3> <TI>   Arnulfist Party Candidate Willing To Step Down for Possible 
 Alliance </TI></H3>
-<F P=102>  PA0202014294 Panama City Circuito RPC Television in Spanish 
+<F P="102">  PA0202014294 Panama City Circuito RPC Television in Spanish 
 2300 GMT 1 Feb 94 </F>
 
-<F P=103> PA0202014294 </F>
-<F P=104>  Panama City Circuito RPC Television </F>
+<F P="103"> PA0202014294 </F>
+<F P="104">  Panama City Circuito RPC Television </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Alvaro Alvarado from the "RPC Television News" </F>
+<F P="106"> [Report by Alvaro Alvarado from the "RPC Television News" </F>
 newscast; passages within quotation marks are recorded] 
   [Text] Mireya Moscoso de Gruber, presidential candidate 
 [for the Arnulfist Party, PA], would be willing to decline her 
@@ -11612,16 +11613,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH AMERICA </F>
-<F P=101> Argentina </F>
+<F P="100"> SOUTH AMERICA </F>
+<F P="101"> Argentina </F>
 <H3> <TI>   Misiones Province To Sign Cooperation Agreement With Cuba </TI></H3>
-<F P=102>  PY0102222894 Buenos Aires LA PRENSA in Spanish 30 Jan 94 p 8 </F>
-<F P=103> PY0102222894 </F>
-<F P=104>  Buenos Aires LA PRENSA </F>
+<F P="102">  PY0102222894 Buenos Aires LA PRENSA in Spanish 30 Jan 94 p 8 </F>
+<F P="103"> PY0102222894 </F>
+<F P="104">  Buenos Aires LA PRENSA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Posadas -- Governor Federico Ramon Puerta will 
@@ -11659,16 +11660,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH AMERICA </F>
-<F P=101> Argentina </F>
+<F P="100"> SOUTH AMERICA </F>
+<F P="101"> Argentina </F>
 <H3> <TI>   Visit by Chilean Minister-Designate to UK Creates `Concern' </TI></H3>
-<F P=102>  PY0202023094 Buenos Aires CLARIN in Spanish 1 Feb 94 p 10 </F>
-<F P=103> PY0202023094 </F>
-<F P=104>  Buenos Aires CLARIN </F>
+<F P="102">  PY0202023094 Buenos Aires CLARIN in Spanish 1 Feb 94 p 10 </F>
+<F P="103"> PY0202023094 </F>
+<F P="104">  Buenos Aires CLARIN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The Defense Ministry and the Armed Forces leadership 
@@ -11740,15 +11741,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Dissident Colorado Deputy Favors U.S. Military Aid </TI></H3>
-<F P=102>  PY0102180394 Asuncion NOTICIAS in Spanish 30 Jan 94 p 4 </F>
-<F P=103> PY0102180394 </F>
-<F P=104>  Asuncion NOTICIAS </F>
+<F P="102">  PY0102180394 Asuncion NOTICIAS in Spanish 30 Jan 94 p 4 </F>
+<F P="103"> PY0102180394 </F>
+<F P="104">  Asuncion NOTICIAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Dissident Colorado Deputy Walter Bower yesterday 
@@ -11815,15 +11816,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Drug, Investment Protection Agreements Signed With Peru </TI></H3>
-<F P=102>  PY0102203294 Asuncion ULTIMA HORA in Spanish 1 Feb 94 p 12 </F>
-<F P=103> PY0102203294 </F>
-<F P=104>  Asuncion ULTIMA HORA </F>
+<F P="102">  PY0102203294 Asuncion ULTIMA HORA in Spanish 1 Feb 94 p 12 </F>
+<F P="103"> PY0102203294 </F>
+<F P="104">  Asuncion ULTIMA HORA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Lima -- The governments of Paraguay and Peru agreed 
@@ -11878,15 +11879,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Fujimori Denies Meeting Shining Path Leader Guzman </TI></H3>
-<F P=102>  PY0102202994 Lima EXPRESO in Spanish 25 Jan 94 p A5 </F>
-<F P=103> PY0102202994 </F>
-<F P=104>  Lima EXPRESO </F>
+<F P="102">  PY0102202994 Lima EXPRESO in Spanish 25 Jan 94 p A5 </F>
+<F P="103"> PY0102202994 </F>
+<F P="104">  Lima EXPRESO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Celedin -- President Alberto Fujimori denied 
@@ -11939,20 +11940,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   `Secret' Shining Path Document Released </TI></H3>
-<F P=102>  PY0202004394 Lima LA REPUBLICA in Spanish 25 Jan 94 Special 
+<F P="102">  PY0202004394 Lima LA REPUBLICA in Spanish 25 Jan 94 Special 
 Supplement pp I, II, III, IV, V, VI, VII </F>
 
-<F P=103> PY0202004394 </F>
-<F P=104>  Lima LA REPUBLICA </F>
+<F P="103"> PY0202004394 </F>
+<F P="104">  Lima LA REPUBLICA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article: "Secret Document: Shining Path Uses </F>
+<F P="106"> [Unattributed article: "Secret Document: Shining Path Uses </F>
 Peace Agreement to Stall for Time," which was "approved" by the 
 Shining Path Central Committee -- first 10 paragraphs are 
 introductory editorial explanation] 
@@ -12691,15 +12692,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Shining Path To Continue Struggle Despite Guzman Appeal </TI></H3>
-<F P=102>  PA0102132294 Paris AFP in Spanish 2131 GMT 31 Jan 94 </F>
-<F P=103> PA0102132294 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA0102132294 Paris AFP in Spanish 2131 GMT 31 Jan 94 </F>
+<F P="103"> PA0102132294 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Lima, 31 Jan (AFP) -- The Maoist organization 
@@ -12772,20 +12773,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Paraguayan President Wasmosy Signs Joint Agreement </TI></H3>
-<F P=102>  PA0102165894 Lima Radio Programas del Peru Network in 
+<F P="102">  PA0102165894 Lima Radio Programas del Peru Network in 
 Spanish 1800 GMT 31 Jan 94 </F>
 
-<F P=103> PA0102165894 </F>
-<F P=104>  Lima Radio Programas del Peru Network </F>
+<F P="103"> PA0102165894 </F>
+<F P="104">  Lima Radio Programas del Peru Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Newspaper of the Airwaves" newscast] </F>
+<F P="106"> [From the "Newspaper of the Airwaves" newscast] </F>
   [Text] Paraguayan President Juan Carlos Wasmosy and 
 Peruvian President Alberto Fujimori have signed a joint 
 political, economic, and cultural declaration at the Government 
@@ -12828,18 +12829,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Leftist Leader Barrantes Returns to Political Arena </TI></H3>
-<F P=102>  PY0102150494 Lima CARETAS in Spanish 27 Jan 94 p 22 </F>
-<F P=103> PY0102150494 </F>
-<F P=104>  Lima CARETAS </F>
+<F P="102">  PY0102150494 Lima CARETAS in Spanish 27 Jan 94 p 22 </F>
+<F P="103"> PY0102150494 </F>
+<F P="104">  Lima CARETAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Undercurrent" section: "Frejolito Reappears"] </F>
+<F P="106"> [From the "Undercurrent" section: "Frejolito Reappears"] </F>
   [Text] Over the past few days former Lima Mayor Alfonso 
 Barrantes Lingan has been reappearing repeatedly in the media, 
 giving opinions about the current political situation and the 
@@ -12875,18 +12876,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Editorial Examines U.S.-Peruvian Antinarcotics Cooperation </TI></H3>
-<F P=102>  PY0102151594 Lima EXPRESO in Spanish 20 Jan 94 p A26 </F>
-<F P=103> PY0102151594 </F>
-<F P=104>  Lima EXPRESO </F>
+<F P="102">  PY0102151594 Lima EXPRESO in Spanish 20 Jan 94 p A26 </F>
+<F P="103"> PY0102151594 </F>
+<F P="104">  Lima EXPRESO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "We Are Partners"] </F>
+<F P="106"> [Editorial: "We Are Partners"] </F>
   [Text] When he arrived in our country Alexander Watson, the 
 U.S. assistant secretary for inter-American affairs, said: "We 
 have to work together, as partners, to meet the challenges 
@@ -12955,18 +12956,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   `Strong Quarrel' Prompts Reassignments Within Navy </TI></H3>
-<F P=102>  PY0102150094 Lima CARETAS in Spanish 27 Jan 94 p 21 </F>
-<F P=103> PY0102150094 </F>
-<F P=104>  Lima CARETAS </F>
+<F P="102">  PY0102150094 Lima CARETAS in Spanish 27 Jan 94 p 21 </F>
+<F P="103"> PY0102150094 </F>
+<F P="104">  Lima CARETAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Undercurrent" section: "Disagreements Within the </F>
+<F P="106"> [From the "Undercurrent" section: "Disagreements Within the </F>
 Navy"] 
   [Text] Despite efforts to keep secret a meeting that 
 President Alberto Fujimori and Vladimiro Montesinos held with 
@@ -13001,18 +13002,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   * Exiled General on `Self-Coup,' `Machiavellian' Montesinos </TI></H3>
-<F P=102>  94SM0188A Lima LA REPUBLICA in Spanish 27 Nov 93 pp 17-19 </F>
-<F P=103> 94SM0188A </F>
-<F P=104>  Lima LA REPUBLICA </F>
+<F P="102">  94SM0188A Lima LA REPUBLICA in Spanish 27 Nov 93 pp 17-19 </F>
+<F P="103"> 94SM0188A </F>
+<F P="104">  Lima LA REPUBLICA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
-<F P=106> [Interview with exiled General Alberto Arciniega by Alberto </F>
+<F P="106"> [Interview with exiled General Alberto Arciniega by Alberto </F>
 Ku King M. in Buenos Aires, date not given: "Drug Trafficking 
 Increasing Dangerously in Peru"] 
   [Excerpts] Buenos Aires--Brigadier General Alberto 
@@ -13318,17 +13319,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Party Leaders React Angrily to Franco Criticism of Congress </TI></H3>
-<F P=102>  PY0102172794 Rio de Janeiro O GLOBO in Portuguese 30 Jan 94 
+<F P="102">  PY0102172794 Rio de Janeiro O GLOBO in Portuguese 30 Jan 94 
 p 5 </F>
 
-<F P=103> PY0102172794 </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="103"> PY0102172794 </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Excerpts] Brasilia -- Political leaders have reacted 
@@ -13409,17 +13410,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Bishops Chairman Endorses Tax Increase in Economic Plan </TI></H3>
-<F P=102>  PY0102223794 Brasilia Voz do Brasil Network in Portuguese 
+<F P="102">  PY0102223794 Brasilia Voz do Brasil Network in Portuguese 
 2100 GMT 1 Feb 94 </F>
 
-<F P=103> PY0102223794 </F>
-<F P=104>  Brasilia Voz do Brasil Network </F>
+<F P="103"> PY0102223794 </F>
+<F P="104">  Brasilia Voz do Brasil Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Bishop Luciano Mendes de Almeida, chairman of the 
@@ -13446,20 +13447,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Gore's Call for Americas Presidential Summit Viewed </TI></H3>
-<F P=102>  PY0102232594 Sao Paulo FOLHA DE SAO PAULO in Portuguese 30 
+<F P="102">  PY0102232594 Sao Paulo FOLHA DE SAO PAULO in Portuguese 30 
 Jan 94 Section 2 p 2 </F>
 
-<F P=103> PY0102232594 </F>
-<F P=104>  Sao Paulo FOLHA DE SAO PAULO </F>
+<F P="103"> PY0102232594 </F>
+<F P="104">  Sao Paulo FOLHA DE SAO PAULO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> [Article by Antonio Kandir] </F>
+<F P="106"> [Article by Antonio Kandir] </F>
   [Text] Vice President Albert Gore made a proposal for a 
 presidential summit conference of the Americas' democratic 
 countries during 1994 after the U.S. Congress approved NAFTA. 
@@ -13544,18 +13545,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Army Minister De Lucena Interviewed </TI></H3>
-<F P=102>  PY0102164694 Sao Paulo ISTOE in Portuguese 26 Jan 94 pp 4-6 </F>
-<F P=103> PY0102164694 </F>
-<F P=104>  Sao Paulo ISTOE </F>
+<F P="102">  PY0102164694 Sao Paulo ISTOE in Portuguese 26 Jan 94 pp 4-6 </F>
+<F P="103"> PY0102164694 </F>
+<F P="104">  Sao Paulo ISTOE </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Army Minister General Zenildo Gonzaga </F>
+<F P="106"> [Interview with Army Minister General Zenildo Gonzaga </F>
 Zoroastro de Lucena by Benicio Medeiros and Helio Contreiras in 
 Rio de Janeiro; date not given] 
   [Text] [ISTOE] Did you know Itamar Franco before he became 
@@ -13814,20 +13815,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Workers Party Military Policy Outlined </TI></H3>
-<F P=102>  PY0202010994 Sao Paulo FOLHA DE SAO PAULO in Portuguese 31 
+<F P="102">  PY0202010994 Sao Paulo FOLHA DE SAO PAULO in Portuguese 31 
 Jan 94 Section 1 p 6 </F>
 
-<F P=103> PY0202010994 </F>
-<F P=104>  Sao Paulo FOLHA DE SAO PAULO </F>
+<F P="103"> PY0202010994 </F>
+<F P="104">  Sao Paulo FOLHA DE SAO PAULO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with retired Colonel Geraldo Cavagnari, director </F>
+<F P="106"> [Interview with retired Colonel Geraldo Cavagnari, director </F>
 of strategic studies at the University of Campinhas, who was 
 chosen by the Workers Party, PT, to outline the party's military 
 policy for presidential candidate Luiz Inacio Lula da Silva by 
@@ -13984,18 +13985,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Incoming Defense Minister Says Army To Obey Caldera </TI></H3>
-<F P=102>  PA0102195994 Caracas EL NACIONAL in Spanish 31 Jan 94 p D-1 </F>
-<F P=103> PA0102195994 </F>
-<F P=104>  Caracas EL NACIONAL </F>
+<F P="102">  PA0102195994 Caracas EL NACIONAL in Spanish 31 Jan 94 p D-1 </F>
+<F P="103"> PA0102195994 </F>
+<F P="104">  Caracas EL NACIONAL </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Luis Guillermo Acosta] </F>
+<F P="106"> [Report by Luis Guillermo Acosta] </F>
   [Text] Maracay -- The National Armed Forces [FAN] will 
 respect the decision by President-elect Rafael Caldera, who will 
 take the oath of office on 2 February as president and commander 
@@ -14036,15 +14037,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Dissidents Threaten SL Leaders Who Favor Peace Agreement </TI></H3>
-<F P=102>  PY0202020094 Lima EXPRESO in Spanish 25 Jan 94 p A15 </F>
-<F P=103> PY0202020094 </F>
-<F P=104>  Lima EXPRESO </F>
+<F P="102">  PY0202020094 Lima EXPRESO in Spanish 25 Jan 94 p A15 </F>
+<F P="103"> PY0202020094 </F>
+<F P="104">  Lima EXPRESO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The Shining Path [SL] dissident faction on 24 
@@ -14100,17 +14101,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Hargreaves To Serve Again as Civilian Household Chief </TI></H3>
-<F P=102>  PY0202001494 Rio de Janeiro Rede Globo Television in 
+<F P="102">  PY0202001494 Rio de Janeiro Rede Globo Television in 
 Portuguese 2200 GMT 1 Feb 94 </F>
 
-<F P=103> PY0202001494 </F>
-<F P=104>  Rio de Janeiro Rede Globo Television </F>
+<F P="103"> PY0202001494 </F>
+<F P="104">  Rio de Janeiro Rede Globo Television </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Henrique Hargreaves, former civilian household chief 
@@ -14133,20 +14134,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Defense Minister Montero Takes Oath, Explains Priorities </TI></H3>
-<F P=102>  PA0102194894 Caracas Venezolana de Television Network in 
+<F P="102">  PA0102194894 Caracas Venezolana de Television Network in 
 Spanish 1550 GMT 1 Feb 94 </F>
 
-<F P=103> PA0102194894 </F>
-<F P=104>  Caracas Venezolana de Television Network </F>
+<F P="103"> PA0102194894 </F>
+<F P="104">  Caracas Venezolana de Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "The News" newscast] </F>
+<F P="106"> [From the "The News" newscast] </F>
   [Text] A few moments ago Army Division General Rafael Angel 
 Montero Revette was sworn in as defense minister. Following the 
 ceremony Montero and outgoing Defense Minister Radames Munoz 
@@ -14188,15 +14189,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guyana </F>
+<F P="100"> Guyana </F>
 <H3> <TI>   Jagan Commits To Protect Indigenous People, Environment </TI></H3>
-<F P=102>  FL0102162194 Bridgetown CANA in English 1535 GMT 1 Feb 94 </F>
-<F P=103> FL0102162194 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0102162194 Bridgetown CANA in English 1535 GMT 1 Feb 94 </F>
+<F P="103"> FL0102162194 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Georgetown, Guyana, 1 Feb, CANA -- Guyana's 
@@ -14263,18 +14264,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Increased Fuel Prices Spark More Strikes, Disturbances </TI></H3>
-<F P=102>  PA0102175794 Madrid EFE in Spanish 1612 GMT 1 Feb 94 </F>
-<F P=103> PA0102175794 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PA0102175794 Madrid EFE in Spanish 1612 GMT 1 Feb 94 </F>
+<F P="103"> PA0102175794 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Antonio Martinez] </F>
+<F P="106"> [Report by Antonio Martinez] </F>
   [Excerpt] Quito, 1 Feb (EFE) -- Today, protests over the 
 gasoline price increases of up to 71 percent caused renewed 
 disturbances in several Ecuadoran cities. Additionally, students 
@@ -14331,20 +14332,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Vice President Emerges `Unscathed' From Quito Demonstration </TI></H3>
-<F P=102>  PA0202004294 Quito Voz de los Andes in Spanish 2300 GMT 1 
+<F P="102">  PA0202004294 Quito Voz de los Andes in Spanish 2300 GMT 1 
 Feb 94 </F>
 
-<F P=103> PA0202004294 </F>
-<F P=104>  Quito Voz de los Andes </F>
+<F P="103"> PA0202004294 </F>
+<F P="104">  Quito Voz de los Andes </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From "The Voz Andes" newscast] </F>
+<F P="106"> [From "The Voz Andes" newscast] </F>
   [Excerpt] Hundreds of students protested today against the 
 government after fuel prices were increased by up to 71 percent. 
 Despite rain and low temperatures in Quito, university and high 
@@ -14395,11 +14396,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Bolivia </F>
+<F P="100"> Bolivia </F>
 <H3> <TI>   _o_ * Bolivia: Economic Briefs </TI></H3>
-<F P=102>  94P20317A </F>
-<F P=103> 94P20317A </F>
-<F P=104></F>
+<F P="102">  94P20317A </F>
+<F P="103"> 94P20317A </F>
+<F P="104"></F>
 
 
 
@@ -14637,17 +14638,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Government Earmarks Additional Funds for Chiapas </TI></H3>
-<F P=102>  PA0202163894 Mexico City NOTIMEX in Spanish 2045 GMT 30 Jan 
+<F P="102">  PA0202163894 Mexico City NOTIMEX in Spanish 2045 GMT 30 Jan 
 94 </F>
 
-<F P=103> PA0202163894 </F>
-<F P=104>  Mexico City NOTIMEX </F>
+<F P="103"> PA0202163894 </F>
+<F P="104">  Mexico City NOTIMEX </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] San Cristobal de Las Casas, Mexico, 30 Jan 
@@ -14698,22 +14699,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> MEXICO </F>
+<F P="100"> MEXICO </F>
 <H3> <TI>   Political Parties Pledge To Work for Peace, Democracy </TI></H3>
-<F P=102>  PA0202212794 Mexico City Canal 13 Television Azteca Network 
+<F P="102">  PA0202212794 Mexico City Canal 13 Television Azteca Network 
 in Spanish 1300 GMT 28 Jan 94 </F>
 
-<F P=103> PA0202212794 </F>
-<F P=104>  Mexico City Canal 13 Television Azteca Network 
+<F P="103"> PA0202212794 </F>
+<F P="104">  Mexico City Canal 13 Television Azteca Network 
 in Spanish 1300 GMT 28 Jan 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Spanish </F>
+Language: <F P="105">Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Good Morning From Mexico" newscast] </F>
+<F P="106"> [From the "Good Morning From Mexico" newscast] </F>
   [Text] Eight national political parties and their 
 presidential candidates have pledged to join efforts for peace, 
 democracy, and justice. The document was signed before the 
@@ -14776,15 +14777,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guyana </F>
+<F P="100"> Guyana </F>
 <H3> <TI>   Jagan Commits To Protect Indigenous People, Environment </TI></H3>
-<F P=102>  FL0102162194 Bridgetown CANA in English 1535 GMT 1 Feb 94 </F>
-<F P=103> FL0102162194 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0102162194 Bridgetown CANA in English 1535 GMT 1 Feb 94 </F>
+<F P="103"> FL0102162194 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Georgetown, Guyana, 1 Feb, CANA -- Guyana's 
@@ -14851,15 +14852,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Wasmosy Returns Home; Will Examine U.S. Military Aid Offer </TI></H3>
-<F P=102>  PY0202142794 Asuncion NOTICIAS in Spanish 2 Feb 94 p 4 </F>
-<F P=103> PY0202142794 </F>
-<F P=104>  Asuncion NOTICIAS </F>
+<F P="102">  PY0202142794 Asuncion NOTICIAS in Spanish 2 Feb 94 p 4 </F>
+<F P="103"> PY0202142794 </F>
+<F P="104">  Asuncion NOTICIAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] President Juan Carlos Wasmosy last night said that 
@@ -14899,18 +14900,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Paraguay </F>
+<F P="100"> Paraguay </F>
 <H3> <TI>   Joint Communique on Trade, Investment Signed With Ecuador </TI></H3>
-<F P=102>  PY0202141494 Asuncion NOTICIAS in Spanish 30 Jan 94 p 19 </F>
-<F P=103> PY0202141494 </F>
-<F P=104>  Asuncion NOTICIAS </F>
+<F P="102">  PY0202141494 Asuncion NOTICIAS in Spanish 30 Jan 94 p 19 </F>
+<F P="103"> PY0202141494 </F>
+<F P="104">  Asuncion NOTICIAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by "special correspondents"] </F>
+<F P="106"> [Report by "special correspondents"] </F>
   [Text] Quito -- Paraguay will supply Ecuador with breeders 
 and genetic material to help that country develop its cattle 
 breeding sector, especially in tropical and subtropical zones. 
@@ -14976,15 +14977,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Honduras </F>
+<F P="100"> Honduras </F>
 <H3> <TI>   Defense Minister on Possible Elimination of Army Chief Post </TI></H3>
-<F P=102>  PA0202163794 Tegucigalpa EL HERALDO in Spanish 28 Jan 94 p 7 </F>
-<F P=103> PA0202163794 </F>
-<F P=104>  Tegucigalpa EL HERALDO </F>
+<F P="102">  PA0202163794 Tegucigalpa EL HERALDO in Spanish 28 Jan 94 p 7 </F>
+<F P="103"> PA0202163794 </F>
+<F P="104">  Tegucigalpa EL HERALDO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] New Defense Minister Reynaldo Andino Flores said 
@@ -15032,19 +15033,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
-<F P=101> Jamaica </F>
+<F P="100"> Inter-Caribbean Affairs </F>
+<F P="101"> Jamaica </F>
 <H3> <TI>   Government Announces Measures To Boost Economy </TI></H3>
-<F P=102>  FL0202225994 Bridgetown CANA in English 1959 GMT 2 Feb 94 </F>
-<F P=103> FL0202225994 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0202225994 Bridgetown CANA in English 1959 GMT 2 Feb 94 </F>
+<F P="103"> FL0202225994 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Garfield Myers] </F>
+<F P="106"> [Report by Garfield Myers] </F>
   [Text] Kingston, Jamaica, 2 Feb, CANA -- An increase in the 
 number of foreign exchange dealers, a 25-million U.S. dollar 
 bond issue, and differential interest rates are among new 
@@ -15142,12 +15143,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Lage Scheduled To Meet With Brazil's President Franco </TI></H3>
-<F P=102>  FL0202164394 </F>
-<F P=103> FL0202164394 </F>
-<F P=104></F>
+<F P="102">  FL0202164394 </F>
+<F P="103"> FL0202164394 </F>
+<F P="104"></F>
 
 
 
@@ -15192,18 +15193,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Lage Stops in Venezuela on Way to Brazil </TI></H3>
-<F P=102>  FL0202145594 Havana Radio Progreso Network in Spanish 1200 
+<F P="102">  FL0202145594 Havana Radio Progreso Network in Spanish 1200 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202145594 </F>
-<F P=104>  Havana Radio Progreso Network </F>
+<F P="103"> FL0202145594 </F>
+<F P="104">  Havana Radio Progreso Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] In Caracas on 1 February, Cuban Vice President 
@@ -15235,21 +15236,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Ricardo Alarcon Grants Interview From Germany </TI></H3>
-<F P=102>  FL0302025294 Havana Radio Rebelde Network in Spanish 0000 
+<F P="102">  FL0302025294 Havana Radio Rebelde Network in Spanish 0000 
 GMT 3 Feb 94 </F>
 
-<F P=103> FL0302025294 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0302025294 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Ricardo Alarcon de Quesada, President of the </F>
+<F P="106"> [Interview with Ricardo Alarcon de Quesada, President of the </F>
 Cuban National Assembly of the People's Government, from Bonn, 
 by reporter Mejias -- live] 
   [Text] [Mejias] Good evening, Comrade Ricardo Alarcon. I am 
@@ -15307,18 +15308,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   New Full-Service International Trade Bank Opens </TI></H3>
-<F P=102>  FL0202150094 Havana Radio Progreso Network in Spanish 1200 
+<F P="102">  FL0202150094 Havana Radio Progreso Network in Spanish 1200 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202150094 </F>
-<F P=104>  Havana Radio Progreso Network </F>
+<F P="103"> FL0202150094 </F>
+<F P="104">  Havana Radio Progreso Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] A new Cuban bank is now operating in this capital. 
@@ -15348,18 +15349,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   German Airline Announces Possible Joint Venture </TI></H3>
-<F P=102>  FL0202161994 Havana Radio Progreso Network in Spanish 1200 
+<F P="102">  FL0202161994 Havana Radio Progreso Network in Spanish 1200 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202161994 </F>
-<F P=104>  Havana Radio Progreso Network </F>
+<F P="103"> FL0202161994 </F>
+<F P="104">  Havana Radio Progreso Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] LTU President Hans Joachim Driessen has announced 
@@ -15387,18 +15388,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Biotechnological Cooperation Agreements Signed With PRC </TI></H3>
-<F P=102>  FL0202195694 Havana Radio Rebelde Network in Spanish 1800 
+<F P="102">  FL0202195694 Havana Radio Rebelde Network in Spanish 1800 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202195694 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0202195694 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The involvement of Cuban organizations in exporting 
@@ -15432,18 +15433,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Cuban-Japanese Sports Cooperation Discussed </TI></H3>
-<F P=102>  FL0202195494 Havana Radio Progreso Network in Spanish 1200 
+<F P="102">  FL0202195494 Havana Radio Progreso Network in Spanish 1200 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202195494 </F>
-<F P=104>  Havana Radio Progreso Network </F>
+<F P="103"> FL0202195494 </F>
+<F P="104">  Havana Radio Progreso Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Excerpt] We talked to National Baseball Commissioner 
@@ -15491,18 +15492,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Health Care Agreement Signed With Misiones, Argentina </TI></H3>
-<F P=102>  FL0202172594 Havana Radio Rebelde Network in Spanish 1200 
+<F P="102">  FL0202172594 Havana Radio Rebelde Network in Spanish 1200 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202172594 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0202172594 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] On 1 February, Cuba and the Argentine province of 
@@ -15541,18 +15542,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   PCC, UJC Report `Significant' Membership Growth in 1993 </TI></H3>
-<F P=102>  FL0202163594 Havana Radio Reloj Network in Spanish 1502 GMT 
+<F P="102">  FL0202163594 Havana Radio Reloj Network in Spanish 1502 GMT 
 2 Feb 94 </F>
 
-<F P=103> FL0202163594 </F>
-<F P=104>  Havana Radio Reloj Network </F>
+<F P="103"> FL0202163594 </F>
+<F P="104">  Havana Radio Reloj Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] On 2 February, the newspaper GRANMA reports that the 
@@ -15584,12 +15585,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Pedro Ross Discusses Worker Contributions to Efficiency </TI></H3>
-<F P=102>  FL0202161694 </F>
-<F P=103> FL0202161694 </F>
-<F P=104></F>
+<F P="102">  FL0202161694 </F>
+<F P="103"> FL0202161694 </F>
+<F P="104"></F>
 
 
 
@@ -15700,17 +15701,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Cuban Council of State Vice President Arrives </TI></H3>
-<F P=102>  PY0202172094 Rio de Janeiro Rede Globo Television in 
+<F P="102">  PY0202172094 Rio de Janeiro Rede Globo Television in 
 Portuguese 1500 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202172094 </F>
-<F P=104>  Rio de Janeiro Rede Globo Television </F>
+<F P="103"> PY0202172094 </F>
+<F P="104">  Rio de Janeiro Rede Globo Television </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Cuban Council of State Vice President Carlos Lage 
@@ -15741,17 +15742,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Qatar, Brazil To Intensify Trade, Diplomatic Relations </TI></H3>
-<F P=102>  PY0202132794 Brasilia Radio Nacional da Amazonia Network in 
+<F P="102">  PY0202132794 Brasilia Radio Nacional da Amazonia Network in 
 Portuguese 0900 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202132794 </F>
-<F P=104>  Brasilia Radio Nacional da Amazonia Network </F>
+<F P="103"> PY0202132794 </F>
+<F P="104">  Brasilia Radio Nacional da Amazonia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] The governments of Brazil and Qatar have decided to 
@@ -15782,17 +15783,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Ambassador Protests Over World Bank Director's Statement </TI></H3>
-<F P=102>  PY0202223694 Brasilia Voz do Brasil Network in Portuguese 
+<F P="102">  PY0202223694 Brasilia Voz do Brasil Network in Portuguese 
 2100 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202223694 </F>
-<F P=104>  Brasilia Voz do Brasil Network </F>
+<F P="103"> PY0202223694 </F>
+<F P="104">  Brasilia Voz do Brasil Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Brazilian Ambassador to the United States Paulo 
@@ -15824,17 +15825,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   U.S. Company Accused of Smuggling Wood From Amazon </TI></H3>
-<F P=102>  PY0302003194 Rio de Janeiro Rede Globo Television in 
+<F P="102">  PY0302003194 Rio de Janeiro Rede Globo Television in 
 Portuguese 2200 GMT 2 Feb 94 </F>
 
-<F P=103> PY0302003194 </F>
-<F P=104>  Rio de Janeiro Rede Globo Television </F>
+<F P="103"> PY0302003194 </F>
+<F P="104">  Rio de Janeiro Rede Globo Television </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] An accusation was made in the Amazon that 
@@ -15877,18 +15878,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   * BNDES Head on Stabilization Plan, Privatization </TI></H3>
-<F P=102>  94SM0195A Rio de Janeiro O GLOBO in Portuguese 9 Jan 94 p 42 </F>
-<F P=103> 94SM0195A </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="102">  94SM0195A Rio de Janeiro O GLOBO in Portuguese 9 Jan 94 p 42 </F>
+<F P="103"> 94SM0195A </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:CSO 
 
-<F P=106> [Interview with BNDES [National Bank for Economic and </F>
+<F P="106"> [Interview with BNDES [National Bank for Economic and </F>
 Social Development] president Persio Arida, by Miriam Leitao and 
 Luiz Noronha, place and date not given; first three paragraphs 
 are O GLOBO introduction] 
@@ -16165,18 +16166,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   * Rapporteur Views Prospects for Constitutional Revision </TI></H3>
-<F P=102>  94SM0195B Sao Paulo VEJA in Portuguese 12 Jan 94 pp 7-9 </F>
-<F P=103> 94SM0195B </F>
-<F P=104>  Sao Paulo VEJA </F>
+<F P="102">  94SM0195B Sao Paulo VEJA in Portuguese 12 Jan 94 pp 7-9 </F>
+<F P="103"> 94SM0195B </F>
+<F P="104">  Sao Paulo VEJA </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Deputy Nelson Jobim by Luis Costa Pinto, </F>
+<F P="106"> [Interview with Deputy Nelson Jobim by Luis Costa Pinto, </F>
 conducted "last week," place not given; first two paragraphs are 
 VEJA introduction] 
   [Text] Deputy Nelson Jobim, of the Rio Grande do Sul PMDB 
@@ -16521,18 +16522,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH AMERICA </F>
-<F P=101> Argentina </F>
+<F P="100"> SOUTH AMERICA </F>
+<F P="101"> Argentina </F>
 <H3> <TI>   Official Downplays State Department Human Rights Report </TI></H3>
-<F P=102>  PY0302012894 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
+<F P="102">  PY0302012894 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
 2118 GMT 2 Feb 94 </F>
 
-<F P=103> PY0302012894 </F>
-<F P=104>  Buenos Aires NOTICIAS ARGENTINAS </F>
+<F P="103"> PY0302012894 </F>
+<F P="104">  Buenos Aires NOTICIAS ARGENTINAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Buenos Aires, 2 Feb (NA) -- Vice Foreign Minister 
@@ -16586,18 +16587,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTH AMERICA </F>
-<F P=101> Argentina </F>
+<F P="100"> SOUTH AMERICA </F>
+<F P="101"> Argentina </F>
 <H3> <TI>   Breakaway Unions Form Movement To Oppose Economic Policy </TI></H3>
-<F P=102>  PY0202225694 Buenos Aires BUENOS AIRES HERALD in English 2 
+<F P="102">  PY0202225694 Buenos Aires BUENOS AIRES HERALD in English 2 
 Feb 94 pp 1, 11 </F>
 
-<F P=103> PY0202225694 </F>
-<F P=104>  Buenos Aires BUENOS AIRES HERALD </F>
+<F P="103"> PY0202225694 </F>
+<F P="104">  Buenos Aires BUENOS AIRES HERALD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Excerpt] (DYN-NA) -- The group of separatist General 
@@ -16659,17 +16660,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Uruguay </F>
+<F P="100"> Uruguay </F>
 <H3> <TI>   Economy Minister Interviewed; Criticizes Opposition </TI></H3>
-<F P=102>  PY0202182494 Montevideo EL OBSERVADOR ECONOMICO in Spanish 
+<F P="102">  PY0202182494 Montevideo EL OBSERVADOR ECONOMICO in Spanish 
 24 Jan 94 p 9 </F>
 
-<F P=103> PY0202182494 </F>
-<F P=104>  Montevideo EL OBSERVADOR ECONOMICO </F>
+<F P="103"> PY0202182494 </F>
+<F P="104">  Montevideo EL OBSERVADOR ECONOMICO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] If the government does not adopt fiscal measures, 
@@ -16752,20 +16753,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Oil Workers, Teachers, Students, Indians Joining Strike </TI></H3>
-<F P=102>  PA0302014794 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
+<F P="102">  PA0302014794 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
 2 Feb 94 </F>
 
-<F P=103> PA0302014794 </F>
-<F P=104>  Quito Cadena Ecuador Radio </F>
+<F P="103"> PA0302014794 </F>
+<F P="104">  Quito Cadena Ecuador Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From "The Reporter" newscast] </F>
+<F P="106"> [From "The Reporter" newscast] </F>
   [Text] The nation's oil workers will join the strike staged 
 by the United Workers Front [FUT] to demand that the government 
 revoke its decision and not implement the gasoline price hike, 
@@ -16853,20 +16854,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Transport Workers To Resume Operations If Guarantees Hold </TI></H3>
-<F P=102>  PA0302011394 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
+<F P="102">  PA0302011394 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
 2 Feb 94 </F>
 
-<F P=103> PA0302011394 </F>
-<F P=104>  Quito Cadena Ecuador Radio </F>
+<F P="103"> PA0302011394 </F>
+<F P="104">  Quito Cadena Ecuador Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Telephone interview with Hugo Penafiel, Pichincha Province </F>
+<F P="106"> [Telephone interview with Hugo Penafiel, Pichincha Province </F>
 transportation groups' leader, in Pichincha, by Patricio Ramos 
 in Quito -- live] 
   [Text] [Ramos] We have Hugo Penafiel, transportation group 
@@ -16916,20 +16917,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Protests Continue; Aircraft Drop Tear Gas Bombs </TI></H3>
-<F P=102>  PA0302003194 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
+<F P="102">  PA0302003194 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
 2 Feb 94 </F>
 
-<F P=103> PA0302003194 </F>
-<F P=104>  Quito Cadena Ecuador Radio </F>
+<F P="103"> PA0302003194 </F>
+<F P="104">  Quito Cadena Ecuador Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "The Reporter" newscast] </F>
+<F P="106"> [From the "The Reporter" newscast] </F>
   [Text] After the announcement of an increase in fuel 
 prices, strong demonstrations took place around the country, 
 especially in southern Quito, where clashes with students and 
@@ -16964,20 +16965,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Ecuador </F>
+<F P="100"> Ecuador </F>
 <H3> <TI>   Ministers, Congress President Comment on Labor Protests </TI></H3>
-<F P=102>  PA0302002594 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
+<F P="102">  PA0302002594 Quito Cadena Ecuador Radio in Spanish 2300 GMT 
 2 Feb 94 </F>
 
-<F P=103> PA0302002594 </F>
-<F P=104>  Quito Cadena Ecuador Radio </F>
+<F P="103"> PA0302002594 </F>
+<F P="104">  Quito Cadena Ecuador Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From "The Reporter" newscast] </F>
+<F P="106"> [From "The Reporter" newscast] </F>
   [Text] Government Minister Marcelo Santos has made a call 
 for understanding, good sense, and prudence to ensure there will 
 be no regrettable incidents during the labor strike. The 
@@ -17043,15 +17044,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Fujimori, Paraguay's Wasmosy Sign Joint Declaration </TI></H3>
-<F P=102>  PY0202193094 Madrid EFE in Spanish 0752 GMT 1 Feb 94 </F>
-<F P=103> PY0202193094 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PY0202193094 Madrid EFE in Spanish 0752 GMT 1 Feb 94 </F>
+<F P="103"> PY0202193094 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Lima, 1 Feb (EFE) -- In a joint declaration, 
@@ -17125,18 +17126,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   `Secret' Shining Path Document Assessed </TI></H3>
-<F P=102>  PY0202173794 Lima LA REPUBLICA in Spanish 26 Jan 94 p 18 </F>
-<F P=103> PY0202173794 </F>
-<F P=104>  Lima LA REPUBLICA </F>
+<F P="102">  PY0202173794 Lima LA REPUBLICA in Spanish 26 Jan 94 p 18 </F>
+<F P="103"> PY0202173794 </F>
+<F P="104">  Lima LA REPUBLICA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Playing with Fire;" bolded passages as </F>
+<F P="106"> [Editorial: "Playing with Fire;" bolded passages as </F>
 published] 
   [Text] The secret Shining Path [SL] document which LA 
 REPUBLICA published on 25 January answers several questions 
@@ -17274,15 +17275,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Leftists Make Declaration for Action, Unity </TI></H3>
-<F P=102>  PY0202203694 Lima LA REPUBLICA in Spanish 19 Jan 94 p 7 </F>
-<F P=103> PY0202203694 </F>
-<F P=104>  Lima LA REPUBLICA </F>
+<F P="102">  PY0202203694 Lima LA REPUBLICA in Spanish 19 Jan 94 p 7 </F>
+<F P="103"> PY0202203694 </F>
+<F P="104">  Lima LA REPUBLICA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] 
@@ -17457,11 +17458,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Peasants Return to Traditional Crop Growing in Huallaga </TI></H3>
-<F P=102>  PY0302013094 </F>
-<F P=103> PY0302013094 </F>
-<F P=104></F>
+<F P="102">  PY0302013094 </F>
+<F P="103"> PY0302013094 </F>
+<F P="104"></F>
 
 
 
@@ -17534,15 +17535,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Protect Drug Traffickers </TI></H3>
-<F P=102>  PY0202135894 Lima EXPRESO in Spanish 20 Jan 94 p A15 </F>
-<F P=103> PY0202135894 </F>
-<F P=104>  Lima EXPRESO </F>
+<F P="102">  PY0202135894 Lima EXPRESO in Spanish 20 Jan 94 p A15 </F>
+<F P="103"> PY0202135894 </F>
+<F P="104">  Lima EXPRESO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] A high-ranking officer at the Santa Lucia police 
@@ -17591,15 +17592,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Announces Liberation of Coupist Soldiers </TI></H3>
-<F P=102>  PA0202194494 Madrid EFE in Spanish 1912 GMT 2 Feb 94 </F>
-<F P=103> PA0202194494 </F>
-<F P=104>  Madrid EFE </F>
+<F P="102">  PA0202194494 Madrid EFE in Spanish 1912 GMT 2 Feb 94 </F>
+<F P="103"> PA0202194494 </F>
+<F P="104">  Madrid EFE </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Caracas, 2 Feb (EFE) -- Today, Venezuelan President 
@@ -17630,20 +17631,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   President Delivers State of Nation Speech </TI></H3>
-<F P=102>  PA0202020594 Caracas Radio and Television Networks in 
+<F P="102">  PA0202020594 Caracas Radio and Television Networks in 
 Spanish 1415 GMT 28 Jan 94 </F>
 
-<F P=103> PA0202020594 </F>
-<F P=104>  Caracas Radio and Television Networks </F>
+<F P="103"> PA0202020594 </F>
+<F P="104">  Caracas Radio and Television Networks </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [State of the Nation Address by Venezuelan President Ramon </F>
+<F P="106"> [State of the Nation Address by Venezuelan President Ramon </F>
 J. Velasquez at the National Congress in Caracas -- live] 
   [Text] Honorable National Congress President; Honorable 
 National Congress Vice President; Honorable Supreme Court of 
@@ -18361,18 +18362,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Caldera on Economy, Relations With Army </TI></H3>
-<F P=102>  BR0202154594 Paris LE MONDE in French 2 Feb 94 p 6 </F>
-<F P=103> BR0202154594 </F>
-<F P=104>  Paris LE MONDE </F>
+<F P="102">  BR0202154594 Paris LE MONDE in French 2 Feb 94 p 6 </F>
+<F P="103"> BR0202154594 </F>
+<F P="104">  Paris LE MONDE </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Report on interview with Venezuelan President Caldera by </F>
+<F P="106"> [Report on interview with Venezuelan President Caldera by </F>
 Marcel Niedergang in Caracas; date not given: "`Fight Against 
 Poverty Is Number One Priority,' President Caldera Told Us"] 
   [Text] Caracas -- Rafael Caldera, elected to the post of 
@@ -18525,20 +18526,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Government's Insolvency Blamed on Foreign, Social Debts </TI></H3>
-<F P=102>  PA0202153294 Caracas EL DIARIO DE CARACAS in Spanish 27 Jan 
+<F P="102">  PA0202153294 Caracas EL DIARIO DE CARACAS in Spanish 27 Jan 
 94 p 2 </F>
 
-<F P=103> PA0202153294 </F>
-<F P=104>  Caracas EL DIARIO DE CARACAS </F>
+<F P="103"> PA0202153294 </F>
+<F P="104">  Caracas EL DIARIO DE CARACAS </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by D.B.U.: "The Debt With the Middle Class"] </F>
+<F P="106"> [Commentary by D.B.U.: "The Debt With the Middle Class"] </F>
   [Text] On 25 January, President Ramon J. Velasquez conceded 
 that the Venezuelan Government's insolvency is due to a "huge 
 foreign debt," as well as to an "even greater social debt, which 
@@ -18612,20 +18613,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Executive To Establish Data Base To Fight Money Laundering </TI></H3>
-<F P=102>  PA0202192594 Caracas Venezolana de Television Network in 
+<F P="102">  PA0202192594 Caracas Venezolana de Television Network in 
 Spanish 2350 GMT 27 Jan 94 </F>
 
-<F P=103> PA0202192594 </F>
-<F P=104>  Caracas Venezolana de Television Network </F>
+<F P="103"> PA0202192594 </F>
+<F P="104">  Caracas Venezolana de Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From "The News" newscast] </F>
+<F P="106"> [From "The News" newscast] </F>
   [Text] (Sonia Ciambatti), former magistrate of the Supreme 
 Court of Justice, said that the Executive Branch, through the 
 Central Bank of Venezuela, will begin operating a data base that 
@@ -18664,21 +18665,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AMERICA </F>
-<F P=101> El Salvador </F>
+<F P="100"> CENTRAL AMERICA </F>
+<F P="101"> El Salvador </F>
 <H3> <TI>   Justice Declines Comment on U.S. Officer's Case </TI></H3>
-<F P=102>  PA0202210294 San Salvador Radio Cadena YSU in Spanish 1800 
+<F P="102">  PA0202210294 San Salvador Radio Cadena YSU in Spanish 1800 
 GMT 2 Feb 94 </F>
 
-<F P=103> PA0202210294 </F>
-<F P=104>  San Salvador Radio Cadena YSU </F>
+<F P="103"> PA0202210294 </F>
+<F P="104">  San Salvador Radio Cadena YSU </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Maria Teresa Fajardo from the "YSU Radio News" </F>
+<F P="106"> [Report by Maria Teresa Fajardo from the "YSU Radio News" </F>
 newscast] 
   [Excerpt] Jorge Antonio Jean Mateu Aviles, vice president 
 of the Supreme Court of Justice, has avoided making any 
@@ -18731,20 +18732,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   CAN Party Praises Referendum, Demands Immediate Purge </TI></H3>
-<F P=102>  PA0202163994 Guatemala City Cadena de Emisoras Unidas in 
+<F P="102">  PA0202163994 Guatemala City Cadena de Emisoras Unidas in 
 Spanish 1730 GMT 31 Jan 94 </F>
 
-<F P=103> PA0202163994 </F>
-<F P=104>  Guatemala City Cadena de Emisoras Unidas </F>
+<F P="103"> PA0202163994 </F>
+<F P="104">  Guatemala City Cadena de Emisoras Unidas </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "Guatemala Flash" newscast] </F>
+<F P="106"> [From the "Guatemala Flash" newscast] </F>
   [Text] The Nationalist Authentic Central (CAN) party 
 leadership expressed through its general secretary, Roberto Tito 
 Arana, its satisfaction with the patriotism demonstrated by the 
@@ -18776,18 +18777,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CARIBBEAN </F>
-<F P=101> Cuba </F>
+<F P="100"> CARIBBEAN </F>
+<F P="101"> Cuba </F>
 <H3> <TI>   Qatari Foreign Minister To Visit Havana 4 Feb </TI></H3>
-<F P=102>  FL0302025494 Havana Radio Rebelde Network in Spanish 0000 
+<F P="102">  FL0302025494 Havana Radio Rebelde Network in Spanish 0000 
 GMT 3 Feb 94 </F>
 
-<F P=103> FL0302025494 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0302025494 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Qatari Foreign Minister Hamad Bin-Jasin Bin-Jabbur 
@@ -18818,17 +18819,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Government Repudiates U.S. Human Rights Report </TI></H3>
-<F P=102>  PY0202222394 Brasilia Voz do Brasil Network in Portuguese 
+<F P="102">  PY0202222394 Brasilia Voz do Brasil Network in Portuguese 
 2100 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202222394 </F>
-<F P=104>  Brasilia Voz do Brasil Network </F>
+<F P="103"> PY0202222394 </F>
+<F P="104">  Brasilia Voz do Brasil Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] The Brazilian Government has repudiated, through 
@@ -18862,20 +18863,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Nicaragua </F>
+<F P="100"> Nicaragua </F>
 <H3> <TI>   Lacayo, Transportation Leaders on Strike End </TI></H3>
-<F P=102>  PA0202164294 Managua Radio Nicaragua Network in Spanish 0150 
+<F P="102">  PA0202164294 Managua Radio Nicaragua Network in Spanish 0150 
 GMT 2 Feb 94 </F>
 
-<F P=103> PA0202164294 </F>
-<F P=104>  Managua Radio Nicaragua Network </F>
+<F P="103"> PA0202164294 </F>
+<F P="104">  Managua Radio Nicaragua Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [News conference by Nicaraguan Presidency Minister Antonio </F>
+<F P="106"> [News conference by Nicaraguan Presidency Minister Antonio </F>
 Lacayo, National Police Director Fernando Caldera, National 
 Transportation Commission spokesman Gustavo Aguiluz, 
 Parrales-Vallejos Cooperative President Carlos Palma, and 
@@ -19222,17 +19223,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Bolivia </F>
+<F P="100"> Bolivia </F>
 <H3> <TI>   Police Unrest Reported, Commander Refuses To Resign </TI></H3>
-<F P=102>  PY0202203494 La Paz Television Nacional Network in Spanish 
+<F P="102">  PY0202203494 La Paz Television Nacional Network in Spanish 
 1700 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202203494 </F>
-<F P=104>  La Paz Television Nacional Network </F>
+<F P="103"> PY0202203494 </F>
+<F P="104">  La Paz Television Nacional Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The new National Police commander will be installed 
@@ -19296,18 +19297,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AMERICA </F>
-<F P=101> El Salvador </F>
+<F P="100"> CENTRAL AMERICA </F>
+<F P="101"> El Salvador </F>
 <H3> <TI>   Foreign Minister, Court President on U.S. Officer's Case </TI></H3>
-<F P=102>  PA0302010394 San Salvador EL DIARIO DE HOY in Spanish 2 Feb 
+<F P="102">  PA0302010394 San Salvador EL DIARIO DE HOY in Spanish 2 Feb 
 94 pp 4, 33 </F>
 
-<F P=103> PA0302010394 </F>
-<F P=104>  San Salvador EL DIARIO DE HOY </F>
+<F P="103"> PA0302010394 </F>
+<F P="104">  San Salvador EL DIARIO DE HOY </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Excerpts] Foreign Minister Miguel Angel Salaverria has 
@@ -19389,20 +19390,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   President Issues Ultimatum on Transport Crisis </TI></H3>
-<F P=102>  PA0302010594 Guatemala City Cadena de Emisoras Unidas in 
+<F P="102">  PA0302010594 Guatemala City Cadena de Emisoras Unidas in 
 Spanish 0027 GMT 3 Feb 94 </F>
 
-<F P=103> PA0302010594 </F>
-<F P=104>  Guatemala City Cadena de Emisoras Unidas </F>
+<F P="103"> PA0302010594 </F>
+<F P="104">  Guatemala City Cadena de Emisoras Unidas </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Ana Julieta Cardenas] </F>
+<F P="106"> [Report by Ana Julieta Cardenas] </F>
   [Text] The president of the Republic has issued an 
 ultimatum to the businessmen of the National Transportation 
 Coordinator, the umbrella organization under which heavy cargo 
@@ -19447,15 +19448,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Announces Offer to End Strike </TI></H3>
-<F P=102>  PA0302025694 Panama City ACAN in Spanish 2153 GMT 2 Feb 94 </F>
-<F P=103> PA0302025694 </F>
-<F P=104>  Panama City ACAN </F>
+<F P="102">  PA0302025694 Panama City ACAN in Spanish 2153 GMT 2 Feb 94 </F>
+<F P="103"> PA0302025694 </F>
+<F P="104">  Panama City ACAN </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Guatemala City, 2 Feb (ACAN-EFE) -- Guatemalan 
@@ -19502,20 +19503,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Transportation Board Issues Communique </TI></H3>
-<F P=102>  PA0302024494 Guatemala City Cadena de Emisoras Unidas in 
+<F P="102">  PA0302024494 Guatemala City Cadena de Emisoras Unidas in 
 Spanish 2300 GMT 2 Feb 94 </F>
 
-<F P=103> PA0302024494 </F>
-<F P=104>  Guatemala City Cadena de Emisoras Unidas </F>
+<F P="103"> PA0302024494 </F>
+<F P="104">  Guatemala City Cadena de Emisoras Unidas </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report on communique issued by the Guatemalan National </F>
+<F P="106"> [Report on communique issued by the Guatemalan National </F>
 Transportation Coordination Board in Guatemala City on 2 
 February; broadcast in progress; from the "News Patrol" newscast] 
   [Excerpts] ...the National Transportation Coordination 
@@ -19628,20 +19629,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Guatemala </F>
+<F P="100"> Guatemala </F>
 <H3> <TI>   Defense Minister Reacts to U.S. Human Rights Report </TI></H3>
-<F P=102>  PA0302001294 Guatemala City Teleonce Television in Spanish 
+<F P="102">  PA0302001294 Guatemala City Teleonce Television in Spanish 
 1900 GMT 2 Feb 94 </F>
 
-<F P=103> PA0302001294 </F>
-<F P=104>  Guatemala City Teleonce Television </F>
+<F P="103"> PA0302001294 </F>
+<F P="104">  Guatemala City Teleonce Television </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Report on news conference by Guatemalan Defense Minister </F>
+<F P="106"> [Report on news conference by Guatemalan Defense Minister </F>
 General Mario Enriquez with unidentified reporters; place and 
 date not given; from the "Telepress" newscast] 
   [Text] Defense Minister General Mario Enriquez referred to 
@@ -19740,18 +19741,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   CDB Considering Support Program for Banana Producers </TI></H3>
-<F P=102>  FL0202132794 Bridgetown CANA in English 2155 GMT 1 Feb 94 </F>
-<F P=103> FL0202132794 </F>
-<F P=104>  Bridgetown CANA </F>
+<F P="102">  FL0202132794 Bridgetown CANA in English 2155 GMT 1 Feb 94 </F>
+<F P="103"> FL0202132794 </F>
+<F P="104">  Bridgetown CANA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Richard Cox] </F>
+<F P="106"> [Report by Richard Cox] </F>
   [Text] Bridgetown, Barbados, 1 Feb, CANA -- Banana 
 producers among borrowing member countries (BMCs) of the 
 Caribbean Development Bank (CDB) may be in line for some 
@@ -19810,17 +19811,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   Senate Ad Hoc Office To Sign, Seal Official Documents </TI></H3>
-<F P=102>  FL0202225894 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL0202225894 Port-au-Prince Signal FM Radio in French 1130 
 GMT 1 Feb 94 </F>
 
-<F P=103> FL0202225894 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL0202225894 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] Given the voluntary abstentions by President Firmin 
@@ -19853,17 +19854,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   Jean-Louis Denounces 18 Jan Parliamentarians </TI></H3>
-<F P=102>  FL0302001494 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL0302001494 Port-au-Prince Signal FM Radio in French 1130 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0302001494 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL0302001494 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Excerpts] Senator Firmin Jean-Louis, president of the 
@@ -19941,17 +19942,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   Dupiton Reacts to Accusations in Izmery Assassination </TI></H3>
-<F P=102>  FL0202235094 Port-au-Prince Radio Metropole in French 1145 
+<F P="102">  FL0202235094 Port-au-Prince Radio Metropole in French 1145 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202235094 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL0202235094 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] Senator Thomas Eddy Dupiton objects to charges 
@@ -20003,17 +20004,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   Gilles Claims Embargo Has Multiplied Misery </TI></H3>
-<F P=102>  FL0202233194 Port-au-Prince Radio Metropole in French 1700 
+<F P="102">  FL0202233194 Port-au-Prince Radio Metropole in French 1700 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202233194 </F>
-<F P=104>  Port-au-Prince Radio Metropole </F>
+<F P="103"> FL0202233194 </F>
+<F P="104">  Port-au-Prince Radio Metropole </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The leader of PANPRA [National, Progressive 
@@ -20058,17 +20059,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Inter-Caribbean Affairs </F>
+<F P="100"> Inter-Caribbean Affairs </F>
 <H3> <TI>   Employer Comments on Ongoing Meeting With Unions </TI></H3>
-<F P=102>  FL0202225794 Port-au-Prince Signal FM Radio in French 1130 
+<F P="102">  FL0202225794 Port-au-Prince Signal FM Radio in French 1130 
 GMT 2 Feb 94 </F>
 
-<F P=103> FL0202225794 </F>
-<F P=104>  Port-au-Prince Signal FM Radio </F>
+<F P="103"> FL0202225794 </F>
+<F P="104">  Port-au-Prince Signal FM Radio </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
   [Text] The first meeting between employers and unions took 
@@ -20112,20 +20113,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Chile </F>
+<F P="100"> Chile </F>
 <H3> <TI>   Economy Minister-Designate Interviewed </TI></H3>
-<F P=102>  PY0202230694 Santiago ESTRATEGIA in Spanish 17 Jan 94 pp 24, 
+<F P="102">  PY0202230694 Santiago ESTRATEGIA in Spanish 17 Jan 94 pp 24, 
 25, 26, 64 </F>
 
-<F P=103> PY0202230694 </F>
-<F P=104>  Santiago ESTRATEGIA </F>
+<F P="103"> PY0202230694 </F>
+<F P="104">  Santiago ESTRATEGIA </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Economy Minister-designate Alvaro Garcia by </F>
+<F P="106"> [Interview with Economy Minister-designate Alvaro Garcia by </F>
 unidentified reporter; place and date not given, passage within 
 quotes are editorial commentary] 
   [Excerpt] [Passage omitted] [ESTRATEGIA] [Former Economy 
@@ -20363,17 +20364,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Chile </F>
+<F P="100"> Chile </F>
 <H3> <TI>   Chilean Ship Sails to Falklands for First Time </TI></H3>
-<F P=102>  PY0302015894 Santiago Radio Cooperativa Network in Spanish 
+<F P="102">  PY0302015894 Santiago Radio Cooperativa Network in Spanish 
 2200 GMT 2 Feb 94 </F>
 
-<F P=103> PY0302015894 </F>
-<F P=104>  Santiago Radio Cooperativa Network </F>
+<F P="103"> PY0302015894 </F>
+<F P="104">  Santiago Radio Cooperativa Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Excerpt] A Chilean merchant ship sailed to the Malvinas, 
@@ -20406,11 +20407,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Peru </F>
+<F P="100"> Peru </F>
 <H3> <TI>   Dailies Assess Impact of U.S. Secretary Watson's Visit </TI></H3>
-<F P=102>  PY0302014694 </F>
-<F P=103> PY0302014694 </F>
-<F P=104></F>
+<F P="102">  PY0302014694 </F>
+<F P="103"> PY0302014694 </F>
+<F P="104"></F>
 
 
 
@@ -20488,20 +20489,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Rafael Caldera's Inaugural Speech </TI></H3>
-<F P=102>  PA0202163494 Caracas Radio and Television Networks in 
+<F P="102">  PA0202163494 Caracas Radio and Television Networks in 
 Spanish 1435 GMT 2 Feb 94 </F>
 
-<F P=103> PA0202163494 </F>
-<F P=104>  Caracas Radio and Television Networks </F>
+<F P="103"> PA0202163494 </F>
+<F P="104">  Caracas Radio and Television Networks </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [Inaugural speech by Venezuelan President Rafael Caldera at </F>
+<F P="106"> [Inaugural speech by Venezuelan President Rafael Caldera at </F>
 the Congress of the Republic in Caracas -- live] 
   [Text] President and Vice President of the Congress; 
 President of the Supreme Court of Justice; Your Eminence 
@@ -21053,15 +21054,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Venezuela </F>
+<F P="100"> Venezuela </F>
 <H3> <TI>   Caldera Swears-In New Cabinet </TI></H3>
-<F P=102>  PA0202195994 Paris AFP in Spanish 1723 GMT 2 Feb 94 </F>
-<F P=103> PA0202195994 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  PA0202195994 Paris AFP in Spanish 1723 GMT 2 Feb 94 </F>
+<F P="103"> PA0202195994 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Caracas, 2 Feb (AFP) -- Venezuelan President Rafael 
@@ -21132,20 +21133,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   Authorities Capture Third-Ranking EPL Leader in Cartagena </TI></H3>
-<F P=102>  PA0202170094 Santa Fe de Bogota Inravision Cadena 1 in 
+<F P="102">  PA0202170094 Santa Fe de Bogota Inravision Cadena 1 in 
 Spanish 1800 GMT 29 Jan 94 </F>
 
-<F P=103> PA0202170094 </F>
-<F P=104>  Santa Fe de Bogota Inravision Cadena 1 </F>
+<F P="103"> PA0202170094 </F>
+<F P="104">  Santa Fe de Bogota Inravision Cadena 1 </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
-<F P=106> [From the "NTC News" newscast] </F>
+<F P="106"> [From the "NTC News" newscast] </F>
   [Text] The DAS [Administrative Department of Security] 
 captured the third in command of the EPL [Popular Liberation 
 Army] this morning in Cartagena. The man, identified as Elviro 
@@ -21170,18 +21171,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   * Polls of Voter Preferences Differ on Front Runner </TI></H3>
 <H4>   * Pastrana Leads in Yankelovich Poll </H4>
-<F P=102> 94SM0165A Santa Fe de Bogota EL TIEMPO in Spanish 17 Dec 93 
+<F P="102"> 94SM0165A Santa Fe de Bogota EL TIEMPO in Spanish 17 Dec 93 
 p 8A </F>
 
-<F P=103> 94SM0165A </F>
-<F P=104>  Santa Fe de Bogota EL TIEMPO </F>
+<F P="103"> 94SM0165A </F>
+<F P="104">  Santa Fe de Bogota EL TIEMPO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
   [Text] If the presidential elections were held today, 
@@ -21257,16 +21258,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Colombia </F>
+<F P="100"> Colombia </F>
 <H3> <TI>   * Polls of Voter Preferences Differ on Front Runner </TI></H3>
 <H4>   * Samper Leads in CNC Poll </H4>
-<F P=102> 94SM0165B Santa Fe de Bogota EL TIEMPO in Spanish 19 Dec 93 p 1B </F>
-<F P=103> 94SM0165B </F>
-<F P=104>  Santa Fe de Bogota EL TIEMPO </F>
+<F P="102"> 94SM0165B Santa Fe de Bogota EL TIEMPO in Spanish 19 Dec 93 p 1B </F>
+<F P="103"> 94SM0165B </F>
+<F P="104">  Santa Fe de Bogota EL TIEMPO </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:CSO 
 
   [Text] The race for the presidency of Colombia between 
@@ -21539,17 +21540,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   UN Delegation Denounces U.S. Occupation of Guantanamo </TI></H3>
-<F P=102>  FL0402024594 Havana Radio Rebelde Network in Spanish 0000 
+<F P="102">  FL0402024594 Havana Radio Rebelde Network in Spanish 0000 
 GMT 4 Feb 94 </F>
 
-<F P=103> FL0402024594 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0402024594 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Cuba has stated in Geneva that the United States 
@@ -21582,20 +21583,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   Cuban Vice President Comments on Economic Opening </TI></H3>
-<F P=102>  PY0402015694 Rio de Janeiro O GLOBO in Portuguese 3 Feb 94 p 
+<F P="102">  PY0402015694 Rio de Janeiro O GLOBO in Portuguese 3 Feb 94 p 
 18 </F>
 
-<F P=103> PY0402015694 </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="103"> PY0402015694 </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> ["Excerpts" of interview with Cuban Vice President Carlos </F>
+<F P="106"> ["Excerpts" of interview with Cuban Vice President Carlos </F>
 Lage by Maria de Fatima Rodrigues; answers were sent in writing 
 from Havana; date not given] 
   [Text] [Rodrigues] What are the difficulties facing Cuba as 
@@ -21701,17 +21702,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   Alarcon: Relations With EU `On Right Track' </TI></H3>
-<F P=102>  FL0302161494 Havana Radio Rebelde Network in Spanish 1000 
+<F P="102">  FL0302161494 Havana Radio Rebelde Network in Spanish 1000 
 GMT 3 Feb 94 </F>
 
-<F P=103> FL0302161494 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0302161494 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] National Assembly President Ricardo Alarcon has 
@@ -21744,17 +21745,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   UPEC Committee Sends Message of Commitment to Castro </TI></H3>
-<F P=102>  FL0302185894 Havana Radio Rebelde Network in Spanish 1800 
+<F P="102">  FL0302185894 Havana Radio Rebelde Network in Spanish 1800 
 GMT 3 Feb 94 </F>
 
-<F P=103> FL0302185894 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0302185894 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] The participants in the extended plenum of the 
@@ -21788,11 +21789,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   Emigration/Immigration Issue Addressed </TI></H3>
-<F P=102>  FL0302203394 </F>
-<F P=103> FL0302203394 </F>
-<F P=104></F>
+<F P="102">  FL0302203394 </F>
+<F P="103"> FL0302203394 </F>
+<F P="104"></F>
 
 
 
@@ -21868,17 +21869,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   Country Elected to Chair UN Outer Space Committee </TI></H3>
-<F P=102>  FL0402024494 Havana Radio Rebelde Network in Spanish 0000 
+<F P="102">  FL0402024494 Havana Radio Rebelde Network in Spanish 0000 
 GMT 4 Feb 94 </F>
 
-<F P=103> FL0402024494 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0402024494 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Cuba was elected today to chair the Outer Space 
@@ -21914,17 +21915,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   Ross Chairs Workers Parliament at Camaguey University </TI></H3>
-<F P=102>  FL0402031194 Havana Radio Rebelde Network in Spanish 0000 
+<F P="102">  FL0402031194 Havana Radio Rebelde Network in Spanish 0000 
 GMT 4 Feb 94 </F>
 
-<F P=103> FL0402031194 </F>
-<F P=104>  Havana Radio Rebelde Network </F>
+<F P="103"> FL0402031194 </F>
+<F P="104">  Havana Radio Rebelde Network </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Relay from Los Pilajones, Camaguey Province, by Adolfo 
@@ -21967,17 +21968,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Cuba </F>
+<F P="100"> Cuba </F>
 <H3> <TI>   Raul Castro Tours Las Tunas, Praises Agricultural Efforts </TI></H3>
-<F P=102>  FL0302155194 Havana Tele Rebelde and Cuba Vision Networks in 
+<F P="102">  FL0302155194 Havana Tele Rebelde and Cuba Vision Networks in 
 Spanish 0100 GMT 3 Feb 94 </F>
 
-<F P=103> FL0302155194 </F>
-<F P=104>  Havana Tele Rebelde and Cuba Vision Networks </F>
+<F P="103"> FL0302155194 </F>
+<F P="104">  Havana Tele Rebelde and Cuba Vision Networks </F>
 
 
 <TEXT>
-Language: <F P=105> Spanish </F>
+Language: <F P="105"> Spanish </F>
 Article Type:BFN 
 
   [Text] Army General Raul Castro, minister of the 
@@ -22079,11 +22080,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Chile </F>
+<F P="100"> Chile </F>
 <H3> <TI>   Roundup of Economic Reports Through 3 Feb </TI></H3>
-<F P=102>  PY0302212694 </F>
-<F P=103> PY0302212694 </F>
-<F P=104></F>
+<F P="102">  PY0302212694 </F>
+<F P="103"> PY0302212694 </F>
+<F P="104"></F>
 
 
 
@@ -22162,20 +22163,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   President Itamar Franco Interviewed </TI></H3>
-<F P=102>  PY0302210894 Rio de Janeiro O GLOBO in Portuguese 1 Feb 94 p 
+<F P="102">  PY0302210894 Rio de Janeiro O GLOBO in Portuguese 1 Feb 94 p 
 3 </F>
 
-<F P=103> PY0302210894 </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="103"> PY0302210894 </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with President Itamar Franco by Jose Bastos </F>
+<F P="106"> [Interview with President Itamar Franco by Jose Bastos </F>
 Moreno in Brasilia; date not given] 
   [Text] [Moreno] What are the main characteristics of Itamar 
 Franco's administration? 
@@ -22415,20 +22416,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Cardoso: Congress Responsible for `Governability Crisis' </TI></H3>
-<F P=102>  PY0302172594 Brasilia Radio Nacional da Amazonia Network in 
+<F P="102">  PY0302172594 Brasilia Radio Nacional da Amazonia Network in 
 Portuguese 0900 GMT 3 Feb 94 </F>
 
-<F P=103> PY0302172594 </F>
-<F P=104>  Brasilia Radio Nacional da Amazonia Network </F>
+<F P="103"> PY0302172594 </F>
+<F P="104">  Brasilia Radio Nacional da Amazonia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> [Report by Cristina Indio do Brasil] </F>
+<F P="106"> [Report by Cristina Indio do Brasil] </F>
   [Text] The PPR [Progressive Renewal Party] yesterday 
 succeeded in preventing the vote on the Social Emergency Fund 
 [FSE] from being considered a priority issue of the 
@@ -22484,17 +22485,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Cardoso `Pours Out His Heart'; Criticizes Congress Impasse </TI></H3>
-<F P=102>  PY0302174894 Rio de Janeiro Rede Globo Television in 
+<F P="102">  PY0302174894 Rio de Janeiro Rede Globo Television in 
 Portuguese 1500 GMT 3 Feb 94 </F>
 
-<F P=103> PY0302174894 </F>
-<F P=104>  Rio de Janeiro Rede Globo Television </F>
+<F P="103"> PY0302174894 </F>
+<F P="104">  Rio de Janeiro Rede Globo Television </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Finance Minister Fernando Henrique Cardoso left home 
@@ -22581,17 +22582,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Foreign Minister Underlines Increased Trade Within Mercosur </TI></H3>
-<F P=102>  PY0302150794 Brasilia Radio Nacional da Amazonia Network in 
+<F P="102">  PY0302150794 Brasilia Radio Nacional da Amazonia Network in 
 Portuguese 0900 GMT 3 Feb 94 </F>
 
-<F P=103> PY0302150794 </F>
-<F P=104>  Brasilia Radio Nacional da Amazonia Network </F>
+<F P="103"> PY0302150794 </F>
+<F P="104">  Brasilia Radio Nacional da Amazonia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] In a meeting of the Chamber of Deputies joint 
@@ -22623,17 +22624,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Cuban Council of State Vice President Arrives </TI></H3>
-<F P=102>  PY0202172094 Rio de Janeiro Rede Globo Television in 
+<F P="102">  PY0202172094 Rio de Janeiro Rede Globo Television in 
 Portuguese 1500 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202172094 </F>
-<F P=104>  Rio de Janeiro Rede Globo Television </F>
+<F P="103"> PY0202172094 </F>
+<F P="104">  Rio de Janeiro Rede Globo Television </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Cuban Council of State Vice President Carlos Lage 
@@ -22664,17 +22665,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Qatar, Brazil To Intensify Trade, Diplomatic Relations </TI></H3>
-<F P=102>  PY0202132794 Brasilia Radio Nacional da Amazonia Network in 
+<F P="102">  PY0202132794 Brasilia Radio Nacional da Amazonia Network in 
 Portuguese 0900 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202132794 </F>
-<F P=104>  Brasilia Radio Nacional da Amazonia Network </F>
+<F P="103"> PY0202132794 </F>
+<F P="104">  Brasilia Radio Nacional da Amazonia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] The governments of Brazil and Qatar have decided to 
@@ -22705,17 +22706,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Ambassador Protests Over World Bank Director's Statement </TI></H3>
-<F P=102>  PY0202223694 Brasilia Voz do Brasil Network in Portuguese 
+<F P="102">  PY0202223694 Brasilia Voz do Brasil Network in Portuguese 
 2100 GMT 2 Feb 94 </F>
 
-<F P=103> PY0202223694 </F>
-<F P=104>  Brasilia Voz do Brasil Network </F>
+<F P="103"> PY0202223694 </F>
+<F P="104">  Brasilia Voz do Brasil Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Brazilian Ambassador to the United States Paulo 
@@ -22747,20 +22748,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Britto Not To Run For President; Favors Alliance </TI></H3>
-<F P=102>  PY0302143394 Rio de Janeiro O GLOBO in Portuguese 2 Feb 94 p 
+<F P="102">  PY0302143394 Rio de Janeiro O GLOBO in Portuguese 2 Feb 94 p 
 4 </F>
 
-<F P=103> PY0302143394 </F>
-<F P=104>  Rio de Janeiro O GLOBO </F>
+<F P="103"> PY0302143394 </F>
+<F P="104">  Rio de Janeiro O GLOBO </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Deputy Antonio Britto of the Brazilian </F>
+<F P="106"> [Interview with Deputy Antonio Britto of the Brazilian </F>
 Democratic Party Movement in Rio Grande do Sul State, PDMB-RS, 
 by Denise Rothenburg in Brasilia; date not given] 
   [Text] [Rothenburg] You have been mentioned as one of the 
@@ -22828,17 +22829,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   Judge Rejects Injunction Against Constitutional Revision </TI></H3>
-<F P=102>  PY0302222794 Brasilia Voz do Brasil Network in Portuguese 
+<F P="102">  PY0302222794 Brasilia Voz do Brasil Network in Portuguese 
 2100 GMT 3 Feb 94 </F>
 
-<F P=103> PY0302222794 </F>
-<F P=104>  Brasilia Voz do Brasil Network </F>
+<F P="103"> PY0302222794 </F>
+<F P="104">  Brasilia Voz do Brasil Network </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] Supreme Court Justice Marco Aurelio Mello today 
@@ -22863,17 +22864,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Brazil </F>
+<F P="100"> Brazil </F>
 <H3> <TI>   U.S. Company Accused of Smuggling Wood From Amazon </TI></H3>
-<F P=102>  PY0302003194 Rio de Janeiro Rede Globo Television in 
+<F P="102">  PY0302003194 Rio de Janeiro Rede Globo Television in 
 Portuguese 2200 GMT 2 Feb 94 </F>
 
-<F P=103> PY0302003194 </F>
-<F P=104>  Rio de Janeiro Rede Globo Television </F>
+<F P="103"> PY0302003194 </F>
+<F P="104">  Rio de Janeiro Rede Globo Television </F>
 
 
 <TEXT>
-Language: <F P=105> Portuguese </F>
+Language: <F P="105"> Portuguese </F>
 Article Type:BFN 
 
   [Text] An accusation was made in the Amazon that 
@@ -22904,3 +22905,4 @@ facilitating the shipment. [end recording]
 
 </DOC>
 
+</root>

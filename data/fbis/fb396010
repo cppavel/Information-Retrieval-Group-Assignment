@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS3-2301 </DOCNO>
@@ -11,19 +12,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Jardine Spokesman on Delisting </TI></H3>
-<F P=102>  HK0803121094 Hong Kong AFP in English 0808 GMT 8 Mar 94 </F>
-<F P=103> HK0803121094 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  HK0803121094 Hong Kong AFP in English 0808 GMT 8 Mar 94 </F>
+<F P="103"> HK0803121094 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Robert MacPherson] </F>
+<F P="106"> [By Robert MacPherson] </F>
   [Text] Hong Kong, March 8 (AFP) -- Jardine Matheson Ltd., 
 Hong Kong's oldest and greatest trading house, refused Tuesday 
 to rule out a retreat from Hong Kong's stock exchange if it is 
@@ -103,21 +104,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Trade Department Foresees Major Losses If MFN Revoked </TI></H3>
-<F P=102>  HK0803051694 Hong Kong SOUTH CHINA MORNING POST in English 8 
+<F P="102">  HK0803051694 Hong Kong SOUTH CHINA MORNING POST in English 8 
 Mar 94 p 1 </F>
 
-<F P=103> HK0803051694 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0803051694 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Amy Chew] </F>
+<F P="106"> [By Amy Chew] </F>
   [Text] Hong Kong stands to lose up to $187 billion, or 
 nine percent of its yearly trade, if China's Most Favoured 
 Nation (MFN) status is withdrawn this year. The territory's 
@@ -182,21 +183,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   XINHUA Chief Comments on Upcoming NPC Session </TI></H3>
-<F P=102>  HK0803080694 Beijing ZHONGGUO XINWEN SHE in Chinese 1352 GMT 
+<F P="102">  HK0803080694 Beijing ZHONGGUO XINWEN SHE in Chinese 1352 GMT 
 7 Mar 94 </F>
 
-<F P=103> HK0803080694 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK0803080694 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporters Gan Zhebin (3927 0772 2430) and Zhang Lei </F>
+<F P="106"> [By reporters Gan Zhebin (3927 0772 2430) and Zhang Lei </F>
 (1728 7191)] 
   [Text] Beijing, 7 Mar (ZHONGGUO XINWEN SHE)--Upon his 
 arrival in Beijing from Hong Kong today to attend the Second 
@@ -245,23 +246,23 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Hong Kong CPPCC Members Blame UK on Hong Kong Issue </TI></H3>
-<F P=102>  OW0803034794 Beijing Central Television Program One Network 
+<F P="102">  OW0803034794 Beijing Central Television Program One Network 
 in Mandarin 1100 GMT 7 Mar 94 </F>
 
-<F P=103> OW0803034794 </F>
-<F P=104>  Beijing Central Television Program One Network 
+<F P="103"> OW0803034794 </F>
+<F P="104">  Beijing Central Television Program One Network 
 in Mandarin 1100 GMT 7 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Mandarin </F>
+Language: <F P="105">Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [From the "National News Hookup" program] </F>
+<F P="106"> [From the "National News Hookup" program] </F>
   [Text] Hong Kong members of the National Committee of the 
 Chinese People's Political Consultative Conference [CPPCC] who 
 are to attend the Second Session of the Eighth CPPCC National 
@@ -297,18 +298,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Official Views Hong Kong Transition Without UK Cooperation </TI></H3>
-<F P=102>  HK0703051894 Beijing ZHONGGUO XINWEN SHE in Chinese 1335 GMT 
+<F P="102">  HK0703051894 Beijing ZHONGGUO XINWEN SHE in Chinese 1335 GMT 
 4 Mar 94 </F>
 
-<F P=103> HK0703051894 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK0703051894 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Hong Kong, 4 Mar (ZHONGGUO XINWEN SHE)--The 
@@ -373,21 +374,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Scholars `Expose' British Motives on Democratic Elections </TI></H3>
-<F P=102>  HK0703030094 Beijing ZHONGGUO XINWEN SHE in Chinese 1241 GMT 
+<F P="102">  HK0703030094 Beijing ZHONGGUO XINWEN SHE in Chinese 1241 GMT 
 5 Mar 94 </F>
 
-<F P=103> HK0703030094 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK0703030094 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter You Xiayin (3266 1115 5419): "Beijing Scholars </F>
+<F P="106"> [By reporter You Xiayin (3266 1115 5419): "Beijing Scholars </F>
 Expose the Essence of the `Direct Democratic Elections' 
 Introduced by the British in Hong Kong"] 
   [Text] Beijing, 5 Mar (ZHONGGUO XINWEN SHE)--After the 
@@ -446,21 +447,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Commentary Says UK Trying `To Hoodwink' World </TI></H3>
-<F P=102>  OW0503170394 Beijing XINHUA Domestic Service in Chinese 0211 
+<F P="102">  OW0503170394 Beijing XINHUA Domestic Service in Chinese 0211 
 GMT 5 Mar 94 </F>
 
-<F P=103> OW0503170394 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0503170394 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Commentary" by XINHUA reporter Duanmu Laidi (4551 2606 </F>
+<F P="106"> ["Commentary" by XINHUA reporter Duanmu Laidi (4551 2606 </F>
 0171 1229): "Britain Can Never Realize Its Attempt To Make 
 Chinese Sovereignty in Hong Kong Exist in Name Only"] 
   [Text] Beijing, 5 Mar (XINHUA) -- Owing to the British 
@@ -672,21 +673,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   State Blocks Rights Petition Signature Campaign </TI></H3>
-<F P=102>  HK0803003794 Hong Kong SOUTH CHINA MORNING POST in English 8 
+<F P="102">  HK0803003794 Hong Kong SOUTH CHINA MORNING POST in English 8 
 Mar 94 p 8 </F>
 
-<F P=103> HK0803003794 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0803003794 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Willy Wo-Lap Lam] </F>
+<F P="106"> [By Willy Wo-Lap Lam] </F>
   [Text] Chinese authorities are trying to stop a petition 
 on workers' rights and clean government from reaching the 
 national legislature and a top consultative body. Sources in 
@@ -763,17 +764,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Second Plenary Session </TI></H3>
 <H4>   Meeting Opens </H4>
-<F P=102> OW0803074694 Beijing XINHUA in English 0723 GMT 8 Mar 94 </F>
-<F P=103> OW0803074694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0803074694 Beijing XINHUA in English 0723 GMT 8 Mar 94 </F>
+<F P="103"> OW0803074694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- The Second Plenary 
@@ -854,17 +855,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Second Plenary Session </TI></H3>
 <H4>   Constitutional Revision Under Way </H4>
-<F P=102> OW0803131894 Beijing XINHUA in English 1240 GMT 8 Mar 94 </F>
-<F P=103> OW0803131894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0803131894 Beijing XINHUA in English 1240 GMT 8 Mar 94 </F>
+<F P="103"> OW0803131894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- The current session of 
@@ -914,17 +915,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Second Plenary Session </TI></H3>
 <H4>   Role in State Affairs Detailed </H4>
-<F P=102> OW0803075994 Beijing XINHUA in English 0742 GMT 8 Mar 94 </F>
-<F P=103> OW0803075994 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0803075994 Beijing XINHUA in English 0742 GMT 8 Mar 94 </F>
+<F P="103"> OW0803075994 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- The Chinese People's 
@@ -1025,22 +1026,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Second Plenary Session </TI></H3>
 <H4>   Deputies Warned Against Leaking Reports </H4>
-<F P=102> HK0803045594 Hong Kong SOUTH CHINA MORNING POST in English 8 
+<F P="102"> HK0803045594 Hong Kong SOUTH CHINA MORNING POST in English 8 
 Mar 94 p 8 </F>
 
-<F P=103> HK0803045594 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0803045594 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Chris Yeung in Beijing] </F>
+<F P="106"> [Report by Chris Yeung in Beijing] </F>
   [Text] China has tightened control over the leaking of 
 information on the annual plenary sessions of the NPC and CPPCC, 
 which open today and on Thursday [10 March] respectively. 
@@ -1076,24 +1077,24 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Second Plenary Session </TI></H3>
 <H4>   Spokesman on Committee Session </H4>
-<F P=102> OW0803063394 Beijing Central Television Program One Network 
+<F P="102"> OW0803063394 Beijing Central Television Program One Network 
 in Mandarin 1137 GMT 7 Mar 94 </F>
 
-<F P=103> OW0803063394 </F>
-<F P=104>  Beijing Central Television Program One Network 
+<F P="103"> OW0803063394 </F>
+<F P="104">  Beijing Central Television Program One Network 
 in Mandarin 1137 GMT 7 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Mandarin </F>
+Language: <F P="105">Mandarin </F>
 Article Type:BFN 
 
-<F P=106> ["Special News Program on the Second Session of the Eighth </F>
+<F P="106"> ["Special News Program on the Second Session of the Eighth </F>
 National Committee of the Chinese People's Political 
 Consultative Conference" -- recorded] 
   [Text] [video shows medium close-ups of unidentified 
@@ -1334,22 +1335,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Second Plenary Session </TI></H3>
 <H4>   RENMIN RIBAO Hails Opening </H4>
-<F P=102> OW0703154594 Beijing XINHUA Domestic Service in Chinese 1317 
+<F P="102"> OW0703154594 Beijing XINHUA Domestic Service in Chinese 1317 
 GMT 7 Mar 94 </F>
 
-<F P=103> OW0703154594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0703154594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [RENMIN RIBAO 8 March Editorial: "Make Suggestions for </F>
+<F P="106"> [RENMIN RIBAO 8 March Editorial: "Make Suggestions for </F>
 Reform, Development, and Stability -- Congratulating the Opening 
 of the Second Session of the Eighth Chinese People's Political 
 Consultative Conference (CPPCC) National Committee"] 
@@ -1482,22 +1483,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Second Plenary Session </TI></H3>
 <H4>   Tibet Deputies Arrive in Beijing </H4>
-<F P=102> OW0703204594 Lhasa Tibet People's Radio Network in Mandarin 
+<F P="102"> OW0703204594 Lhasa Tibet People's Radio Network in Mandarin 
 1430 GMT 7 Mar 94 </F>
 
-<F P=103> OW0703204594 </F>
-<F P=104>  Lhasa Tibet People's Radio Network </F>
+<F P="103"> OW0703204594 </F>
+<F P="104">  Lhasa Tibet People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [From the "News" program] </F>
+<F P="106"> [From the "News" program] </F>
   [Excerpts] Tibet's deputies to the Second Session of the 
 Eighth National People's Congress [NPC] and members of the 
 Second Session of the Eighth Chinese People's Political 
@@ -1535,21 +1536,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Paper Previews Work Report Li Peng To Deliver at NPC </TI></H3>
-<F P=102>  HK0803043394 Hong Kong SOUTH CHINA MORNING POST in English 8 
+<F P="102">  HK0803043394 Hong Kong SOUTH CHINA MORNING POST in English 8 
 Mar 94 pp 1, 8 </F>
 
-<F P=103> HK0803043394 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0803043394 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Chris Yeung in Beijing] </F>
+<F P="106"> [By Chris Yeung in Beijing] </F>
   [Text] China's Prime Minister, Li Peng, has toned down 
 criticism of Britain in his Government Work Report to be tabled 
 at the National People's Congress [NPC] when it opens on 
@@ -1676,19 +1677,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Beijing-Affiliated Paper Previews Government Work Report </TI></H3>
-<F P=102>  HK0803055394 Hong Kong WEN WEI PO in Chinese 8 Mar 94 p A2 </F>
-<F P=103> HK0803055394 </F>
-<F P=104>  Hong Kong WEN WEI PO </F>
+<F P="102">  HK0803055394 Hong Kong WEN WEI PO in Chinese 8 Mar 94 p A2 </F>
+<F P="103"> HK0803055394 </F>
+<F P="104">  Hong Kong WEN WEI PO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By staff news team: "Li Peng's Government Work Report Is </F>
+<F P="106"> [By staff news team: "Li Peng's Government Work Report Is </F>
 Divided Into Seven Parts, Consists of 16,000 Characters; 
 Economic Growth of 9 Percent Is Proposed, and Efforts Will Be 
 Made To Expand Opening Up, Enhance Level of People's Livelihood"] 
@@ -1793,22 +1794,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Cancels, Replaces Biography of Dead Royal Family 
 Member </TI></H3>
-<F P=102>  OW0803063294 Beijing XINHUA Domestic Service in Chinese 2103 
+<F P="102">  OW0803063294 Beijing XINHUA Domestic Service in Chinese 2103 
 GMT 6 Mar 94 </F>
 
-<F P=103> OW0803063294 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0803063294 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Beijing XINHUA Domestic Service in Chinese at 1253 GMT on 7 </F>
+<F P="106"> [Beijing XINHUA Domestic Service in Chinese at 1253 GMT on 7 </F>
 March transmits a report on Pu Jie's cremation in Beijing 
 together with a service message canceling the following item and 
 asking that it be replaced with the next item] 
@@ -1921,21 +1922,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Pu Jie Biography </TI></H3>
-<F P=102>  OW0803070594 Beijing XINHUA Domestic Service in Chinese 1253 
+<F P="102">  OW0803070594 Beijing XINHUA Domestic Service in Chinese 1253 
 GMT 7 Mar 94 </F>
 
-<F P=103> OW0803070594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0803070594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [XINHUA Domestic Service in Chinese at 1253 GMT on 7 March </F>
+<F P="106"> [XINHUA Domestic Service in Chinese at 1253 GMT on 7 March </F>
 transmits a service message canceling the previous item and 
 replacing it with this report] 
   [Text] Beijing, 7 Mar (XINHUA) -- The remains of Mr. Aisin 
@@ -2043,18 +2044,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Jiang Zemin Exhorts Party School Officials </TI></H3>
-<F P=102>  OW0703170894 Beijing XINHUA Domestic Service in Chinese 1000 
+<F P="102">  OW0703170894 Beijing XINHUA Domestic Service in Chinese 1000 
 GMT 7 Mar 94 </F>
 
-<F P=103> OW0703170894 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0703170894 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 7 Mar (XINHUA) -- Speaking at a forum of 
@@ -2295,16 +2296,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Peng Addresses State Council on Anticorruption Struggle </TI></H3>
-<F P=102>  OW0703155094 Beijing XINHUA in English 1532 GMT 7 Mar 94 </F>
-<F P=103> OW0703155094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703155094 Beijing XINHUA in English 1532 GMT 7 Mar 94 </F>
+<F P="103"> OW0703155094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 7 (XINHUA) -- Chinese Premier Li Peng 
@@ -2379,16 +2380,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Hu Jintao Stresses Deepening Reform of Party Schools </TI></H3>
-<F P=102>  OW0403154094 Beijing XINHUA in English 1459 GMT 4 Mar 94 </F>
-<F P=103> OW0403154094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403154094 Beijing XINHUA in English 1459 GMT 4 Mar 94 </F>
+<F P="103"> OW0403154094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 4 (XINHUA) -- Hu Jintao, member of 
@@ -2429,19 +2430,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Views Steps in Eradicating Poverty </TI></H3>
-<F P=102>  OW0403163394 Beijing XINHUA in English 1527 GMT 4 Mar 94 </F>
-<F P=103> OW0403163394 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403163394 Beijing XINHUA in English 1527 GMT 4 Mar 94 </F>
+<F P="103"> OW0403163394 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Roundup": "China's Poverty Reduction Enters Crucial Stage"] </F>
+<F P="106"> ["Roundup": "China's Poverty Reduction Enters Crucial Stage"] </F>
   [Text] Beijing, March 4 (XINHUA) -- Following its success 
 in helping 120 million Chinese escape from poverty since 1978, 
 China's poverty reduction now enters the most arduous stage. 
@@ -2536,12 +2537,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Leaders' Activities 23 Feb-3 Mar 94 </TI></H3>
-<F P=102>  OW0403160894 </F>
-<F P=103> OW0403160894 </F>
-<F P=104></F>
+<F P="102">  OW0403160894 </F>
+<F P="103"> OW0403160894 </F>
+<F P="104"></F>
 
 
 
@@ -2746,19 +2747,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Commentator Urges Support for Reform at Party Congress </TI></H3>
-<F P=102>  HK0803134994 Beijing GUANGMING RIBAO in Chinese 28 Feb 94 p 1 </F>
-<F P=103> HK0803134994 </F>
-<F P=104>  Beijing GUANGMING RIBAO </F>
+<F P="102">  HK0803134994 Beijing GUANGMING RIBAO in Chinese 28 Feb 94 p 1 </F>
+<F P="103"> HK0803134994 </F>
+<F P="104">  Beijing GUANGMING RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Commentator's Article: "Support Reform With a Clear-Cut </F>
+<F P="106"> [Commentator's Article: "Support Reform With a Clear-Cut </F>
 Stand"] 
   [Text] Spring comes to the earth again and everything 
 looks fresh and radiant. With life-giving spring breezes and 
@@ -2919,16 +2920,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Officials Urge Punishment of Leaders of Illegal Emigration </TI></H3>
-<F P=102>  OW0403141594 Beijing XINHUA in English 1337 GMT 4 Mar 94 </F>
-<F P=103> OW0403141594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403141594 Beijing XINHUA in English 1337 GMT 4 Mar 94 </F>
+<F P="103"> OW0403141594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 4 (XINHUA) -- Chinese legislators 
@@ -2978,19 +2979,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Public Security Solve 1.21 Million Criminal Cases in 1993 </TI></H3>
-<F P=102>  HK0803072894 Beijing RENMIN RIBAO in Chinese 3 Mar 94 p 3 </F>
-<F P=103> HK0803072894 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  HK0803072894 Beijing RENMIN RIBAO in Chinese 3 Mar 94 p 3 </F>
+<F P="103"> HK0803072894 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By Gong Xinwen (7895 6580 2429): "Public Security Organs </F>
+<F P="106"> [By Gong Xinwen (7895 6580 2429): "Public Security Organs </F>
 Cracked 1.21 Million Criminal Cases Last Year"] 
   [Text] The media spokesman for the Ministry of Public 
 Security disclosed that in 1993, public security organs across 
@@ -3029,18 +3030,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Third Nuclear Plant To Be Built in Jiujiang, Jiangxi </TI></H3>
-<F P=102>  HK0403140894 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 0930 
+<F P="102">  HK0403140894 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 0930 
 GMT 3 Mar 94 </F>
 
-<F P=103> HK0403140894 </F>
-<F P=104>  Hong Kong ZHONGGUO TONGXUN SHE </F>
+<F P="103"> HK0403140894 </F>
+<F P="104">  Hong Kong ZHONGGUO TONGXUN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 3 Mar (ZHONGGUO TONGXUN SHE)--This 
@@ -3077,21 +3078,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Autonomous Regions on Training, Selecting Minority Cadres </TI></H3>
-<F P=102>  OW0803041494 Beijing XINHUA Domestic Service in Chinese 2133 
+<F P="102">  OW0803041494 Beijing XINHUA Domestic Service in Chinese 2133 
 GMT 17 Feb 94 </F>
 
-<F P=103> OW0803041494 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0803041494 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Wu Hao (0124 4110) and correspondent Chen </F>
+<F P="106"> [By reporter Wu Hao (0124 4110) and correspondent Chen </F>
 Leshan (7115 2867 0810)] 
   [Text] Beijing, 18 Feb (XINHUA) -- According to the State 
 Nationalities Affairs Commission, China has achieved remarkable 
@@ -3198,20 +3199,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Attends Army Provisions Conference </TI></H3>
-<F P=102>  OW0503145694 Beijing XINHUA Domestic Service in Chinese 1406 
+<F P="102">  OW0503145694 Beijing XINHUA Domestic Service in Chinese 1406 
 GMT 2 Mar 94 </F>
 
-<F P=103> OW0503145694 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0503145694 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By RENMIN RIBAO reporter Mei Hongru (2734 3163 1172) and </F>
+<F P="106"> [By RENMIN RIBAO reporter Mei Hongru (2734 3163 1172) and </F>
 XINHUA reporter Jiang Jun (1203 6511)] 
   [Text] Beijing, 2 Mar (XINHUA) -- The People's Liberation 
 Army [PLA] General Logistics Department, the Finance Ministry, 
@@ -3285,18 +3286,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Army Allowed To Transfer Land-Use Rights </TI></H3>
-<F P=102>  HK0403141194 Beijing JIEFANGJUN BAO in Chinese 17 Feb 94 p 1 </F>
-<F P=103> HK0403141194 </F>
-<F P=104>  Beijing JIEFANGJUN BAO </F>
+<F P="102">  HK0403141194 Beijing JIEFANGJUN BAO in Chinese 17 Feb 94 p 1 </F>
+<F P="103"> HK0403141194 </F>
+<F P="104">  Beijing JIEFANGJUN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Report by Han Guangqin (7281 1639 2953): "According to </F>
+<F P="106"> [Report by Han Guangqin (7281 1639 2953): "According to </F>
 Decision of Ministry of Finance, State Land Administration, and 
 PLA General Logistics Department, Army Will Transfer Land Use 
 Rights According to Law"] 
@@ -3335,18 +3336,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Commission Faces `Difficulties' Fighting Corruption in Army </TI></H3>
-<F P=102>  HK0703011294 Hong Kong MING PAO in Chinese 5 Mar 94 p A9 </F>
-<F P=103> HK0703011294 </F>
-<F P=104>  Hong Kong MING PAO </F>
+<F P="102">  HK0703011294 Hong Kong MING PAO in Chinese 5 Mar 94 p A9 </F>
+<F P="103"> HK0703011294 </F>
+<F P="104">  Hong Kong MING PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By special correspondent Fang Yuen (2488 0337): "Faced </F>
+<F P="106"> [By special correspondent Fang Yuen (2488 0337): "Faced </F>
 With Numerous Difficulties Combating Corruption, Central 
 Military Commission Will Strengthen Leading Body"] 
   [Text] Due to differences of opinion on the anticorruption 
@@ -3449,18 +3450,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Naval Vessel Production in Hudong Shipyard Reported </TI></H3>
-<F P=102>  HK0703024294 Beijing JIEFANGJUN BAO in Chinese 17 Feb 94 p 1 </F>
-<F P=103> HK0703024294 </F>
-<F P=104>  Beijing JIEFANGJUN BAO </F>
+<F P="102">  HK0703024294 Beijing JIEFANGJUN BAO in Chinese 17 Feb 94 p 1 </F>
+<F P="103"> HK0703024294 </F>
+<F P="104">  Beijing JIEFANGJUN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By Chen Wanjun (7115 8001 6511) and Wang Yufang (3769 3768 </F>
+<F P="106"> [By Chen Wanjun (7115 8001 6511) and Wang Yufang (3769 3768 </F>
 2455): "The Hudong Shipyard: The `Cradle' of Corvettes"] 
   [Text] The Hudong Shipyard and the naval representatives 
 office in the shipyard have worked hard together over the last 
@@ -3524,19 +3525,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Further Commentator Remarks on Improving Troop Management </TI></H3>
 <H4>   `Second Discussion' </H4>
-<F P=102> HK0703032894 Beijing JIEFANGJUN BAO in Chinese 18 Feb 94 p 1 </F>
-<F P=103> HK0703032894 </F>
-<F P=104>  Beijing JIEFANGJUN BAO </F>
+<F P="102"> HK0703032894 Beijing JIEFANGJUN BAO in Chinese 18 Feb 94 p 1 </F>
+<F P="103"> HK0703032894 </F>
+<F P="104">  Beijing JIEFANGJUN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Commentator's article: "Concentrate Efforts on Probing </F>
+<F P="106"> [Commentator's article: "Concentrate Efforts on Probing </F>
 Ways of Leading Troops in New Situation--Second discussion on 
 Strengthening and Improving Troop Management." For the first 
 discussion in this series, see page 52 of the 3 March China 
@@ -3647,19 +3648,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Further Commentator Remarks on Improving Troop Management </TI></H3>
 <H4>   `Third Discussion' </H4>
-<F P=102> HK0703064694 Beijing JIEFANGJUN BAO in Chinese 19 Feb 94 p 1 </F>
-<F P=103> HK0703064694 </F>
-<F P=104>  Beijing JIEFANGJUN BAO </F>
+<F P="102"> HK0703064694 Beijing JIEFANGJUN BAO in Chinese 19 Feb 94 p 1 </F>
+<F P="103"> HK0703064694 </F>
+<F P="104">  Beijing JIEFANGJUN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Commentator's article: "What Is Important Is to Improve </F>
+<F P="106"> [Commentator's article: "What Is Important Is to Improve </F>
 the Quality of Troop Leaders--Third Discussion on Strengthening 
 and Improving Troop Management"] 
   [Text] To strengthen and improve the management of the 
@@ -3763,19 +3764,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Further Commentator Remarks on Improving Troop Management </TI></H3>
 <H4>   `Fourth Discussion' </H4>
-<F P=102> HK0703064894 Beijing JIEFANGJUN BAO in Chinese 20 Feb 94 p 1 </F>
-<F P=103> HK0703064894 </F>
-<F P=104>  Beijing JIEFANGJUN BAO </F>
+<F P="102"> HK0703064894 Beijing JIEFANGJUN BAO in Chinese 20 Feb 94 p 1 </F>
+<F P="103"> HK0703064894 </F>
+<F P="104">  Beijing JIEFANGJUN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Commentator's article: "Concentrate Efforts on Regular </F>
+<F P="106"> [Commentator's article: "Concentrate Efforts on Regular </F>
 Activity--Fourth Discussion on Strengthening and Improving Troop 
 Management"] 
   [Text] The key link and most difficult aspect of army 
@@ -3890,19 +3891,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Further Commentator Remarks on Improving Troop Management </TI></H3>
 <H4>   `Fifth Discussion' </H4>
-<F P=102> HK0703065094 Beijing JIEFANGJUN BAO in Chinese 21 Feb 94 p 1 </F>
-<F P=103> HK0703065094 </F>
-<F P=104>  Beijing JIEFANGJUN BAO </F>
+<F P="102"> HK0703065094 Beijing JIEFANGJUN BAO in Chinese 21 Feb 94 p 1 </F>
+<F P="103"> HK0703065094 </F>
+<F P="104">  Beijing JIEFANGJUN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Commentator's article: "Take the Path of Comprehensive </F>
+<F P="106"> [Commentator's article: "Take the Path of Comprehensive </F>
 Management--Fifth Discussion on Strengthening and Improving 
 Troop Management"] 
   [Text] In recent years, the armed forces as a whole from 
@@ -3997,16 +3998,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Anhui Helps `Non-Communist' Persons in Development </TI></H3>
-<F P=102>  OW0603013294 Beijing XINHUA in English 0108 GMT 6 Mar 94 </F>
-<F P=103> OW0603013294 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0603013294 Beijing XINHUA in English 0108 GMT 6 Mar 94 </F>
+<F P="103"> OW0603013294 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hefei, March 6 (XINHUA) -- Anhui Province in east 
@@ -4041,16 +4042,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu Township Enterprises Grow in 1993 </TI></H3>
-<F P=102>  OW0603155394 Beijing XINHUA in English 1502 GMT 6 Mar 94 </F>
-<F P=103> OW0603155394 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0603155394 Beijing XINHUA in English 1502 GMT 6 Mar 94 </F>
+<F P="103"> OW0603155394 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Nanjing, March 6 (XINHUA) -- Over 110,000 township 
@@ -4117,18 +4118,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong CPPCC Committee Session Ends 4 Mar </TI></H3>
-<F P=102>  SK0503062094 Jinan Shandong People's Radio Network in 
+<F P="102">  SK0503062094 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 4 Mar 94 </F>
 
-<F P=103> SK0503062094 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
+<F P="103"> SK0503062094 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
   [Text] After satisfactorily finishing all the items on the 
@@ -4212,16 +4213,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Construction Advances in Shanghai's Pudong Area </TI></H3>
-<F P=102>  OW0403122594 Beijing XINHUA in English 0806 GMT 4 Mar 94 </F>
-<F P=103> OW0403122594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403122594 Beijing XINHUA in English 0806 GMT 4 Mar 94 </F>
+<F P="103"> OW0403122594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shanghai, March 4 (XINHUA) -- Shanghai's Pudong new 
@@ -4271,16 +4272,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Survey: How Shanghai Women Evaluate Careers </TI></H3>
-<F P=102>  OW0503035494 Beijing XINHUA in English 0321 GMT 5 Mar 94 </F>
-<F P=103> OW0503035494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503035494 Beijing XINHUA in English 0321 GMT 5 Mar 94 </F>
+<F P="103"> OW0503035494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shanghai, March 5 (XINHUA) -- Though Shanghai women 
@@ -4325,16 +4326,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   UN To Monitor Zhejiang's Qiandao Lake </TI></H3>
-<F P=102>  OW0403094194 Beijing XINHUA in English 0722 GMT 4 Mar 94 </F>
-<F P=103> OW0403094194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403094194 Beijing XINHUA in English 0722 GMT 4 Mar 94 </F>
+<F P="103"> OW0403094194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hangzhou, March 4 (XINHUA) -- Qiandao (Thousand 
@@ -4365,16 +4366,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Zhejiang Makes `New Progress' in Reform </TI></H3>
-<F P=102>  OW0503073894 Beijing XINHUA in English 0722 GMT 5 Mar 94 </F>
-<F P=103> OW0503073894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503073894 Beijing XINHUA in English 0722 GMT 5 Mar 94 </F>
+<F P="103"> OW0503073894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hangzhou, March 5 (XINHUA) -- New progress has been 
@@ -4431,16 +4432,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Zhejiang Builds `Largest' Pumping Station </TI></H3>
-<F P=102>  OW0503114194 Beijing XINHUA in English 1050 GMT 5 Mar 94 </F>
-<F P=103> OW0503114194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503114194 Beijing XINHUA in English 1050 GMT 5 Mar 94 </F>
+<F P="103"> OW0503114194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hangzhou, March 5 (XINHUA) -- Construction of the 
@@ -4476,15 +4477,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Gansu Prefecture Sees Growth of Rural Industry </TI></H3>
-<F P=102>  OW2402012994 Beijing XINHUA in English 0109 GMT 24 Feb 94 </F>
-<F P=103> OW2402012994 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW2402012994 Beijing XINHUA in English 0109 GMT 24 Feb 94 </F>
+<F P="103"> OW2402012994 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Lanzhou, February 24 (XINHUA) -- Dingxi prefecture, 
@@ -4535,15 +4536,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Gansu Protection Program Increases Arable Land </TI></H3>
-<F P=102>  OW2102052194 Beijing XINHUA in English 0342 GMT 21 Feb 94 </F>
-<F P=103> OW2102052194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW2102052194 Beijing XINHUA in English 0342 GMT 21 Feb 94 </F>
+<F P="103"> OW2102052194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Lanzhou, February 21 (XINHUA) -- Northwest China's 
@@ -4599,15 +4600,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Aerial Seeding Promotes Afforestation in Gansu </TI></H3>
-<F P=102>  OW2302132694 Beijing XINHUA in English 1235 GMT 23 Feb 94 </F>
-<F P=103> OW2302132694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW2302132694 Beijing XINHUA in English 1235 GMT 23 Feb 94 </F>
+<F P="103"> OW2302132694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Lanzhou, February 23 (XINHUA) -- Aerial seeding has 
@@ -4647,20 +4648,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Qinghai Police Target `All' Religious Groups </TI></H3>
-<F P=102>  HK0803045794 Hong Kong SOUTH CHINA MORNING POST in English 8 
+<F P="102">  HK0803045794 Hong Kong SOUTH CHINA MORNING POST in English 8 
 Mar 94 p 7 </F>
 
-<F P=103> HK0803045794 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0803045794 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By John Kohut in Beijing] </F>
+<F P="106"> [By John Kohut in Beijing] </F>
   [Text] Police in Qinghai have been cracking down on all 
 religious groups since Muslim protests last autumn, and a 
 Catholic priest says he has been one of the prime targets of the 
@@ -4720,17 +4721,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Shaanxi Meeting Outlines Foreign Trade Goals </TI></H3>
-<F P=102>  HK2402030394 Xian Shaanxi People's Radio Network in Mandarin 
+<F P="102">  HK2402030394 Xian Shaanxi People's Radio Network in Mandarin 
 0500 GMT 23 Feb 94 </F>
 
-<F P=103> HK2402030394 </F>
-<F P=104>  Xian Shaanxi People's Radio Network </F>
+<F P="103"> HK2402030394 </F>
+<F P="104">  Xian Shaanxi People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
   [Text] At a just-concluded provincial meeting on foreign 
@@ -4795,20 +4796,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Xinjiang's Uygur Head Speaks on State Security </TI></H3>
-<F P=102>  OW2702000394 Urumqi Xinjiang Television Network in Mandarin 
+<F P="102">  OW2702000394 Urumqi Xinjiang Television Network in Mandarin 
 1330 GMT 22 Feb 94 </F>
 
-<F P=103> OW2702000394 </F>
-<F P=104>  Urumqi Xinjiang Television Network </F>
+<F P="103"> OW2702000394 </F>
+<F P="104">  Urumqi Xinjiang Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [Speech by Amudun Niyaz, chairman of the Standing Committee </F>
+<F P="106"> [Speech by Amudun Niyaz, chairman of the Standing Committee </F>
 of the Xinjiang Uygur Autonomous Regional People's Congress, on 
 22 February; place not given -- live or recorded, in Uygur with 
 superimposed translation into Mandarin; from the "Xinjiang News" 
@@ -4862,15 +4863,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Xinjiang Improves Foreign Trade Reform </TI></H3>
-<F P=102>  OW2702020494 Urumqi XINJIANG RIBAO in Chinese 6 Feb 94 p 1 </F>
-<F P=103> OW2702020494 </F>
-<F P=104>  Urumqi XINJIANG RIBAO </F>
+<F P="102">  OW2702020494 Urumqi XINJIANG RIBAO in Chinese 6 Feb 94 p 1 </F>
+<F P="103"> OW2702020494 </F>
+<F P="104">  Urumqi XINJIANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Reform of Xinjiang's foreign trade system will be 
@@ -4949,20 +4950,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Zhu Rongji Calls On Chinese Consulate Staff in Fukuoka </TI></H3>
-<F P=102>  OW0803003694 Beijing XINHUA Domestic Service in Chinese 1413 
+<F P="102">  OW0803003694 Beijing XINHUA Domestic Service in Chinese 1413 
 GMT 3 Mar 94 </F>
 
-<F P=103> OW0803003694 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0803003694 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Zhang Huanli (1728 3562 0448)] </F>
+<F P="106"> [By reporter Zhang Huanli (1728 3562 0448)] </F>
   [Text] Fukuoka, 3 Mar (XINHUA) -- Vice Premier Zhu Rongji 
 and his party called on the staff of the Chinese Consulate 
 General in Fukuoka, Japan, this evening. 
@@ -4994,15 +4995,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Li Peng Addresses Overseas Investment Meeting </TI></H3>
-<F P=102>  OW0703163494 Beijing XINHUA in English 1623 GMT 7 Mar 94 </F>
-<F P=103> OW0703163494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703163494 Beijing XINHUA in English 1623 GMT 7 Mar 94 </F>
+<F P="103"> OW0703163494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 7 (XINHUA) -- A four-day national 
@@ -5079,21 +5080,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Wei Jingsheng's Application for Departure Approved </TI></H3>
-<F P=102>  OW0803092294 Beijing China Radio International in English to 
+<F P="102">  OW0803092294 Beijing China Radio International in English to 
 Western North America 0400 GMT 8 Mar 94 </F>
 
-<F P=103> OW0803092294 </F>
-<F P=104>  Beijing China Radio International </F>
+<F P="103"> OW0803092294 </F>
+<F P="104">  Beijing China Radio International </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [From the "World News" program] </F>
+<F P="106"> [From the "World News" program] </F>
   [Text] China says reports by foreign mass media about the 
 detention of Chinese dissidents are groundless. The Chinese 
 Ministry of Public Security made the statement on Monday [7 
@@ -5123,19 +5124,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Return to Beijing Expected by End of March </TI></H3>
-<F P=102>  HK0803034694 Hong Kong LIEN HO PAO in Chinese 8 Mar 94 p 10 </F>
-<F P=103> HK0803034694 </F>
-<F P=104>  Hong Kong LIEN HO PAO </F>
+<F P="102">  HK0803034694 Hong Kong LIEN HO PAO in Chinese 8 Mar 94 p 10 </F>
+<F P="103"> HK0803034694 </F>
+<F P="104">  Hong Kong LIEN HO PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Special dispatch" from Beijing by staff reporter: "Wei </F>
+<F P="106"> ["Special dispatch" from Beijing by staff reporter: "Wei </F>
 Jingsheng Will Not Appear in Beijing Before the End of This 
 Month"] 
   [Text] An informed source in Beijing has said that 
@@ -5218,20 +5219,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Liu Huaqing Discusses Military Legislation </TI></H3>
-<F P=102>  OW0403203294 Beijing XINHUA Domestic Service in Chinese 1035 
+<F P="102">  OW0403203294 Beijing XINHUA Domestic Service in Chinese 1035 
 GMT 4 Mar 94 </F>
 
-<F P=103> OW0403203294 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0403203294 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By Central People's Broadcasting Station reporter Wang </F>
+<F P="106"> [By Central People's Broadcasting Station reporter Wang </F>
 Shude (3769 2885 1795) and XINHUA reporter Zhou Zhifang (0719 
 1807 2455); Beijing XINHUA Domestic Service in Chinese at 1349 
 GMT on 4 March transmits a service message placing an open-ended 
@@ -5305,16 +5306,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Social Security Taking Shape in Rural Zhejiang </TI></H3>
-<F P=102>  OW0503014894 Beijing XINHUA in English 0059 GMT 5 Mar 94 </F>
-<F P=103> OW0503014894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503014894 Beijing XINHUA in English 0059 GMT 5 Mar 94 </F>
+<F P="103"> OW0503014894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hangzhou, March 5 (XINHUA) -- Most farmers living in 
@@ -5348,20 +5349,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Science &amp; Technology </F>
+<F P="100"> Science  amp; Technology </F>
 <H3> <TI>   XINHUA Views Award-Winning Results in Space Industry </TI></H3>
-<F P=102>  OW0403221194 Beijing XINHUA Domestic Service in Chinese 0237 
+<F P="102">  OW0403221194 Beijing XINHUA Domestic Service in Chinese 0237 
 GMT 16 Feb 94 </F>
 
-<F P=103> OW0403221194 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0403221194 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Xu Jingyue (1776 0079 6460)] </F>
+<F P="106"> [By reporter Xu Jingyue (1776 0079 6460)] </F>
   [Text] Beijing, 16 Feb (XINHUA) -- Over the past 10 years, 
 as many as 10,000 scientific and technological findings achieved 
 by our country's space industry have received scientific and 
@@ -5411,18 +5412,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Science &amp; Technology </F>
+<F P="100"> Science  amp; Technology </F>
 <H3> <TI>   Satellite Company Projects Aimed at Civilian Market </TI></H3>
-<F P=102>  HK0703072294 Beijing RENMIN RIBAO in Chinese 19 Feb 94 p 3 </F>
-<F P=103> HK0703072294 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  HK0703072294 Beijing RENMIN RIBAO in Chinese 19 Feb 94 p 3 </F>
+<F P="103"> HK0703072294 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By Xie Lianhui (6200 5114 6540): "China's Astronautical </F>
+<F P="106"> [By Xie Lianhui (6200 5114 6540): "China's Astronautical </F>
 Products For Civilian Use Are Moving Faster into the World 
 Market"] 
   [Text] Beijing, 18 Feb--Since its establishment eight 
@@ -5479,20 +5480,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Science &amp; Technology </F>
+<F P="100"> Science  amp; Technology </F>
 <H3> <TI>   New-Generation Weather Satellite To Be Launched in Apr </TI></H3>
-<F P=102>  OW0403221094 Beijing XINHUA Domestic Service in Chinese 0829 
+<F P="102">  OW0403221094 Beijing XINHUA Domestic Service in Chinese 0829 
 GMT 3 Mar 94 </F>
 
-<F P=103> OW0403221094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0403221094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By correspondents Liu Zhiqing (2692 1807 3237) and Yang </F>
+<F P="106"> [By correspondents Liu Zhiqing (2692 1807 3237) and Yang </F>
 Jiuwei (2799 0036 0251)] 
   [Text] Beijing, 3 Mar (XINHUA) -- Our country's 
 new-generation meteorological satellite, "Fengyun-2," was 
@@ -5536,18 +5537,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Science &amp; Technology </F>
+<F P="100"> Science  amp; Technology </F>
 <H3> <TI>   `Intellectuals' View More Active Role for Sciences </TI></H3>
-<F P=102>  OW0703162394 Beijing XINHUA in English 1306 GMT 7 Mar 94 </F>
-<F P=103> OW0703162394 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703162394 Beijing XINHUA in English 1306 GMT 7 Mar 94 </F>
+<F P="103"> OW0703162394 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Roundup" by XINHUA correspondents Li Xiguang and Xiong </F>
+<F P="106"> ["Roundup" by XINHUA correspondents Li Xiguang and Xiong </F>
 Lei: "Chinese Intellectuals Eye World Competition"] 
   [Text] Beijing, March 7 -- At the beginning of the spring 
 of 1994, which is dubbed "the year of reform," leading Chinese 
@@ -5693,20 +5694,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Science &amp; Technology </F>
+<F P="100"> Science  amp; Technology </F>
 <H3> <TI>   LIAOWANG Interviews Science Academy President </TI></H3>
-<F P=102>  HK0403135894 Beijing LIAOWANG in Chinese No 6, 7 Feb 94 pp 
+<F P="102">  HK0403135894 Beijing LIAOWANG in Chinese No 6, 7 Feb 94 pp 
 7-8 </F>
 
-<F P=103> HK0403135894 </F>
-<F P=104>  Beijing LIAOWANG </F>
+<F P="103"> HK0403135894 </F>
+<F P="104">  Beijing LIAOWANG </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Report on interview with Zhou Guangzhou (0719 0342 0664), </F>
+<F P="106"> [Report on interview with Zhou Guangzhou (0719 0342 0664), </F>
 president of the Chinese Academy of Science, by staff reporter 
 Tang Hua (3282 5478): "The Development of Science in China in 
 the Next Century"] 
@@ -6044,17 +6045,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Science &amp; Technology </F>
+<F P="100"> Science  amp; Technology </F>
 <H3> <TI>   Dam Sturgeon Rescue Holds Lessons for Three Gorges Plan </TI></H3>
-<F P=102>  HK0703095794 Beijing ZHONGGUO XINWEN SHE in English 0850 GMT 
+<F P="102">  HK0703095794 Beijing ZHONGGUO XINWEN SHE in English 0850 GMT 
 7 Mar 94 </F>
 
-<F P=103> HK0703095794 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK0703095794 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 7 (CNS) -- According to a survey by 
@@ -6101,16 +6102,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Canada Not To Link Trade to Human Rights </TI></H3>
-<F P=102>  OW0803181794 Beijing XINHUA in English 1737 GMT 8 Mar 94 </F>
-<F P=103> OW0803181794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803181794 Beijing XINHUA in English 1737 GMT 8 Mar 94 </F>
+<F P="103"> OW0803181794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Dhaka March 8 (XINHUA) -- A senior Canadian 
@@ -6164,19 +6165,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Article Views Possible U.S. Sanctions on Japan </TI></H3>
-<F P=102>  HK0303062294 Beijing LIAOWANG in Chinese No 7-8, 21 Feb 94 </F>
-<F P=103> HK0303062294 </F>
-<F P=104>  Beijing LIAOWANG </F>
+<F P="102">  HK0303062294 Beijing LIAOWANG in Chinese No 7-8, 21 Feb 94 </F>
+<F P="103"> HK0303062294 </F>
+<F P="104">  Beijing LIAOWANG </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Special dispatch" by staff reporter Xu Changyin (1776 7022 </F>
+<F P="106"> ["Special dispatch" by staff reporter Xu Changyin (1776 7022 </F>
 6892): "U.S.-Japanese Trade Frictions Will Aggravate"] 
   [Text] Washington--U.S. President Clinton and Japanese 
 Prime Minister Morihiro Hosokawa held a meeting at the White 
@@ -6300,19 +6301,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   LIAOWANG Views PRC Foreign Relations </TI></H3>
-<F P=102>  HK0403143894 Beijing LIAOWANG in Chinese No 6, 7 Feb 94 p 46 </F>
-<F P=103> HK0403143894 </F>
-<F P=104>  Beijing LIAOWANG </F>
+<F P="102">  HK0403143894 Beijing LIAOWANG in Chinese No 6, 7 Feb 94 p 46 </F>
+<F P="103"> HK0403143894 </F>
+<F P="104">  Beijing LIAOWANG </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["International Commentary" by Wei Guoqiang (7614 0948 </F>
+<F P="106"> ["International Commentary" by Wei Guoqiang (7614 0948 </F>
 1730): "PRC Active Diplomacy"] 
   [Text] The year 1994 has just begun and a situation of 
 unprecedented vigor has appeared on China's diplomatic front. 
@@ -6452,19 +6453,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Journal Views Options in Bosnian Crisis </TI></H3>
-<F P=102>  HK0403124694 Beijing LIAOWANG in Chinese No 9, 28 Feb 94 p 62 </F>
-<F P=103> HK0403124694 </F>
-<F P=104>  Beijing LIAOWANG </F>
+<F P="102">  HK0403124694 Beijing LIAOWANG in Chinese No 9, 28 Feb 94 p 62 </F>
+<F P="103"> HK0403124694 </F>
+<F P="104">  Beijing LIAOWANG </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["International Commentary" by Tang Tianri (0781 1131 2480): </F>
+<F P="106"> ["International Commentary" by Tang Tianri (0781 1131 2480): </F>
 "Two Options for Settling International Conflicts"] 
   [Text] There are two options for settling the current 
 international conflicts, including regional conflicts: One is 
@@ -6579,12 +6580,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Comparison to Envoy to UN Speaks on Human Rights </TI></H3>
-<F P=102>  OW0803094294 </F>
-<F P=103> OW0803094294 </F>
-<F P=104></F>
+<F P="102">  OW0803094294 </F>
+<F P="103"> OW0803094294 </F>
+<F P="104"></F>
 
 
 
@@ -6641,15 +6642,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   NPC Spokesman Expects U.S. Secretary's Visit To Promote Ties </TI></H3>
-<F P=102>  OW0903043594 Beijing XINHUA in English 0421 GMT 9 Mar 94 </F>
-<F P=103> OW0903043594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903043594 Beijing XINHUA in English 0421 GMT 9 Mar 94 </F>
+<F P="103"> OW0903043594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- A spokesman of the 
@@ -6688,19 +6689,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   Article Views U.S. Secretary's Visit, MFN, Human Rights </TI></H3>
 <H4>   Part One </H4>
-<F P=102> HK0903100794 Hong Kong WEN WEI PO in Chinese 8 Mar 94 p A2 </F>
-<F P=103> HK0903100794 </F>
-<F P=104>  Hong Kong WEN WEI PO </F>
+<F P="102"> HK0903100794 Hong Kong WEN WEI PO in Chinese 8 Mar 94 p A2 </F>
+<F P="103"> HK0903100794 </F>
+<F P="104">  Hong Kong WEN WEI PO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [First of unknown number of installments: "Special article" </F>
+<F P="106"> [First of unknown number of installments: "Special article" </F>
 by special correspondent in Washington Chu Hsing-fu (2612 1630 
 4395): "United States Must Not Cancel China's MFN Status -- 
 Written on the Eve of Christopher's Visit to China"] 
@@ -6839,19 +6840,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   Article Views U.S. Secretary's Visit, MFN, Human Rights </TI></H3>
 <H4>   Part Two </H4>
-<F P=102> HK0903101294 Hong Kong WEN WEI PO in Chinese 9 Mar 94 p A4 </F>
-<F P=103> HK0903101294 </F>
-<F P=104>  Hong Kong WEN WEI PO </F>
+<F P="102"> HK0903101294 Hong Kong WEN WEI PO in Chinese 9 Mar 94 p A4 </F>
+<F P="103"> HK0903101294 </F>
+<F P="104">  Hong Kong WEN WEI PO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Second of unknown number of installments: "Special </F>
+<F P="106"> [Second of unknown number of installments: "Special </F>
 article" by special correspondent in Washington Tsu Hsing-fu 
 (2612 1630 4395): "Revoking China's MFN Will Achieve a Little 
 at the Expense of a Great Loss -- Written on the Eve of 
@@ -6962,18 +6963,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   Editorial Views Human Rights, U.S. Secretary's Visit </TI></H3>
-<F P=102>  HK0803142194 Hong Kong WEN WEI PO in Chinese 8 Mar 94 p A2 </F>
-<F P=103> HK0803142194 </F>
-<F P=104>  Hong Kong WEN WEI PO </F>
+<F P="102">  HK0803142194 Hong Kong WEN WEI PO in Chinese 8 Mar 94 p A2 </F>
+<F P="103"> HK0803142194 </F>
+<F P="104">  Hong Kong WEN WEI PO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "U.S. Interests Behind Pretext of Human Rights"] </F>
+<F P="106"> [Editorial: "U.S. Interests Behind Pretext of Human Rights"] </F>
   [Text] U.S. Secretary of State Warren Christopher is going 
 to visit China on 11 March. He said that he would discuss 
 economic and trade issues with China on the trip, but that the 
@@ -7111,15 +7112,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central Eurasia </F>
+<F P="100"> Central Eurasia </F>
 <H3> <TI>   Aliyev Meets Entrepreneurs </TI></H3>
-<F P=102>  OW0903061694 Beijing XINHUA in English 0601 GMT 9 Mar 94 </F>
-<F P=103> OW0903061694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903061694 Beijing XINHUA in English 0601 GMT 9 Mar 94 </F>
+<F P="103"> OW0903061694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Visiting Azerbaijani 
@@ -7175,15 +7176,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central Eurasia </F>
+<F P="100"> Central Eurasia </F>
 <H3> <TI>   Aliyev Leaves for Shanghai </TI></H3>
-<F P=102>  OW0903094094 Beijing XINHUA in English 0825 GMT 9 Mar 94 </F>
-<F P=103> OW0903094094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903094094 Beijing XINHUA in English 0825 GMT 9 Mar 94 </F>
+<F P="103"> OW0903094094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Geydar Aliyev, 
@@ -7216,18 +7217,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Foreign Trade Minister Assesses Trade With Belgium </TI></H3>
-<F P=102>  BR0803160094 Brussels LE SOIR in French 8 Mar 94 p 5 </F>
-<F P=103> BR0803160094 </F>
-<F P=104>  Brussels LE SOIR </F>
+<F P="102">  BR0803160094 Brussels LE SOIR in French 8 Mar 94 p 5 </F>
+<F P="103"> BR0803160094 </F>
+<F P="104">  Brussels LE SOIR </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Article by Eric Meyer: "Robert Urbain, Belgium's Traveling </F>
+<F P="106"> [Article by Eric Meyer: "Robert Urbain, Belgium's Traveling </F>
 Salesman in China"] 
   [Text] Beijing -- Foreign Trade Minister Robert Urbain is 
 certainly starting to know the way to China by heart. He has 
@@ -7339,15 +7340,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Li Peng, Netherlands' Foreign Minister Hold Talks 8 Mar </TI></H3>
-<F P=102>  OW0803140194 Beijing XINHUA in English 1321 GMT 8 Mar 94 </F>
-<F P=103> OW0803140194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803140194 Beijing XINHUA in English 1321 GMT 8 Mar 94 </F>
+<F P="103"> OW0803140194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- Chinese Premier Li 
@@ -7402,15 +7403,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Minister Seeks Data on `Political Prisoners' </TI></H3>
-<F P=102>  HK0903073694 Hong Kong AFP in English 0632 GMT 9 Mar 94 </F>
-<F P=103> HK0903073694 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  HK0903073694 Hong Kong AFP in English 0632 GMT 9 Mar 94 </F>
+<F P="103"> HK0903073694 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (AFP) -- Dutch Foreign Minister 
@@ -7467,15 +7468,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   France Plans To `Bridge the Gap' in Economic Ties With PRC </TI></H3>
-<F P=102>  HK0903114294 Hong Kong AFP in English 1021 GMT 9 Mar 94 </F>
-<F P=103> HK0903114294 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  HK0903114294 Hong Kong AFP in English 1021 GMT 9 Mar 94 </F>
+<F P="103"> HK0903114294 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (AFP)--As the world's fourth 
@@ -7518,18 +7519,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu's Jiang Chunyun Attends Education Conference </TI></H3>
-<F P=102>  SK0703135694 Jinan Shandong People's Radio Network in 
+<F P="102">  SK0703135694 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 4 Mar 94 </F>
 
-<F P=103> SK0703135694 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
+<F P="103"> SK0703135694 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
   [Text] At the 4 March provincial conference of party 
@@ -7599,21 +7600,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu Militiamen Help Police Maintain Order </TI></H3>
-<F P=102>  OW0803034094 Nanjing Jiangsu People's Radio Network in 
+<F P="102">  OW0803034094 Nanjing Jiangsu People's Radio Network in 
 Mandarin 2300 GMT 17 Feb 94 </F>
 
-<F P=103> OW0803034094 </F>
-<F P=104>  Nanjing Jiangsu People's Radio Network </F>
+<F P="103"> OW0803034094 </F>
+<F P="104">  Nanjing Jiangsu People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [From the "Provincial News Hookup" program] </F>
+<F P="106"> [From the "Provincial News Hookup" program] </F>
   [Excerpt] The 1 million militiamen in Jiangsu Province 
 helped the public security organs in maintaining public order 
 and in solving more than 7,000 cases in 1993. Two militia 
@@ -7637,16 +7638,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu Attempts To Boost Rural Economy </TI></H3>
-<F P=102>  OW0803061794 Beijing XINHUA in English 0558 GMT 8 Mar 94 </F>
-<F P=103> OW0803061794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803061794 Beijing XINHUA in English 0558 GMT 8 Mar 94 </F>
+<F P="103"> OW0803061794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Nanjing, March 8 (XINHUA) -- East China's Jiangsu 
@@ -7699,16 +7700,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Foreign Investment in Shanghai Accelerates </TI></H3>
-<F P=102>  OW0803015494 Beijing XINHUA in English 0136 GMT 8 Mar 94 </F>
-<F P=103> OW0803015494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803015494 Beijing XINHUA in English 0136 GMT 8 Mar 94 </F>
+<F P="103"> OW0803015494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shanghai, March 8 (XINHUA) -- Shanghai, the 
@@ -7769,16 +7770,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Tightens Control of Real Estate Industry </TI></H3>
-<F P=102>  OW0703144294 Beijing XINHUA in English 1300 GMT 7 Mar 94 </F>
-<F P=103> OW0703144294 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703144294 Beijing XINHUA in English 1300 GMT 7 Mar 94 </F>
+<F P="103"> OW0703144294 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shanghai, March 7 (XINHUA) -- Shanghai has recently 
@@ -7830,16 +7831,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Reforms Labor Employment System </TI></H3>
-<F P=102>  OW0703080894 Beijing XINHUA in English 0701 GMT 7 Mar 94 </F>
-<F P=103> OW0703080894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703080894 Beijing XINHUA in English 0701 GMT 7 Mar 94 </F>
+<F P="103"> OW0703080894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shanghai, March 7 (XINHUA) -- China's reform of its 
@@ -7907,16 +7908,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu Encourages `Scientific Farming' </TI></H3>
-<F P=102>  OW0703080794 Beijing XINHUA in English 0652 GMT 7 Mar 94 </F>
-<F P=103> OW0703080794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703080794 Beijing XINHUA in English 0652 GMT 7 Mar 94 </F>
+<F P="103"> OW0703080794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Nanjing, March 7 (XINHUA) -- Scientific farming in 
@@ -7955,16 +7956,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   High-Tech Boosts Industries in Zhejiang </TI></H3>
-<F P=102>  OW0803022894 Beijing XINHUA in English 0213 GMT 8 Mar 94 </F>
-<F P=103> OW0803022894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803022894 Beijing XINHUA in English 0213 GMT 8 Mar 94 </F>
+<F P="103"> OW0803022894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hangzhou, March 8 (XINHUA) -- East China's Zhejiang 
@@ -8007,17 +8008,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangdong To Set Up `Military Recreation' Zone </TI></H3>
-<F P=102>  HK0503064494 Beijing ZHONGGUO XINWEN SHE in English 1342 GMT 
+<F P="102">  HK0503064494 Beijing ZHONGGUO XINWEN SHE in English 1342 GMT 
 4 Mar 94 </F>
 
-<F P=103> HK0503064494 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK0503064494 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Guangzhou, March 4 (CNS)--According to relevant 
@@ -8064,19 +8065,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangdong Sees `Record Growth' in Foreign Trade </TI></H3>
-<F P=102>  HK0503073094 Hong Kong SOUTH CHINA MORNING POST (BUSINESS 
+<F P="102">  HK0503073094 Hong Kong SOUTH CHINA MORNING POST (BUSINESS 
 POST) in English 5 Mar 94 p 4 </F>
 
-<F P=103> HK0503073094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST (BUSINESS 
+<F P="103"> HK0503073094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST (BUSINESS 
 POST) </F>
 
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Guangdong Province posted record growth in foreign 
@@ -8147,18 +8148,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Strike Ends After Intervention by Taxi Company </TI></H3>
-<F P=102>  HK0603033994 Hong Kong LIEN HO PAO in Chinese 5 Mar 94 p 10 </F>
-<F P=103> HK0603033994 </F>
-<F P=104>  Hong Kong LIEN HO PAO </F>
+<F P="102">  HK0603033994 Hong Kong LIEN HO PAO in Chinese 5 Mar 94 p 10 </F>
+<F P="103"> HK0603033994 </F>
+<F P="104">  Hong Kong LIEN HO PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By staff reporter in Shenzhen: "Taxi Drivers' Strike Ends </F>
+<F P="106"> [By staff reporter in Shenzhen: "Taxi Drivers' Strike Ends </F>
 After Taxi Company Gives Warning That Those Continuing To Strike 
 Will Not Be Allowed To Hire Taxis"] 
   [Text] Following the participation of nearly half of all 
@@ -8193,15 +8194,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Security Committee Nullifies Shenzhen Share Trading Act </TI></H3>
-<F P=102>  OW0403134694 Beijing XINHUA in English 1314 GMT 4 Mar 94 </F>
-<F P=103> OW0403134694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403134694 Beijing XINHUA in English 1314 GMT 4 Mar 94 </F>
+<F P="103"> OW0403134694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 4 (XINHUA) -- China Securities 
@@ -8248,15 +8249,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Shenzhen Adopts New Entry-Exit System </TI></H3>
-<F P=102>  OW0403075294 Beijing XINHUA in English 0653 GMT 4 Mar 94 </F>
-<F P=103> OW0403075294 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403075294 Beijing XINHUA in English 0653 GMT 4 Mar 94 </F>
+<F P="103"> OW0403075294 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shenzhen, March 4 (XINHUA) -- Crossing points in 
@@ -8291,17 +8292,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangxi Reports Progress in Drug, Firearm Seizures </TI></H3>
-<F P=102>  HK0403132194 Beijing ZHONGGUO XINWEN SHE in English 136 GMT 
+<F P="102">  HK0403132194 Beijing ZHONGGUO XINWEN SHE in English 136 GMT 
 4 Mar 94 </F>
 
-<F P=103> HK0403132194 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK0403132194 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Nanning, March 4 (CNS) -- The Guangxi Zhuang 
@@ -8348,15 +8349,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Telecommunications Business Expands in Hainan Province </TI></H3>
-<F P=102>  OW0703014494 Beijing XINHUA in English 0052 GMT 7 Mar 94 </F>
-<F P=103> OW0703014494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703014494 Beijing XINHUA in English 0052 GMT 7 Mar 94 </F>
+<F P="103"> OW0703014494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Haikou, March 7 (XINHUA) -- Hainan Province in 
@@ -8396,15 +8397,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Plans To Clear Illegal Buildings in Hebei Capital </TI></H3>
-<F P=102>  OW0403031094 Beijing XINHUA in English 0239 GMT 4 Mar 94 </F>
-<F P=103> OW0403031094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403031094 Beijing XINHUA in English 0239 GMT 4 Mar 94 </F>
+<F P="103"> OW0403031094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shijiazhuang, March 4 (XINHUA) -- The former royal 
@@ -8440,15 +8441,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Hubei Revokes Licenses of 26 Unqualified Joint Ventures </TI></H3>
-<F P=102>  OW0403030394 Beijing XINHUA in English 0205 GMT 4 Mar 94 </F>
-<F P=103> OW0403030394 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403030394 Beijing XINHUA in English 0205 GMT 4 Mar 94 </F>
+<F P="103"> OW0403030394 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Wuhan, March 4 (XINHUA) -- The Foreign Investment 
@@ -8496,20 +8497,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Hubei Peasants Protest Three Gorges Relocation </TI></H3>
-<F P=102>  HK0403073294 Hong Kong EASTERN EXPRESS in English 4 Mar 94 p 
+<F P="102">  HK0403073294 Hong Kong EASTERN EXPRESS in English 4 Mar 94 p 
 9 </F>
 
-<F P=103> HK0403073294 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
+<F P="103"> HK0403073294 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Bruce Gilley] </F>
+<F P="106"> [By Bruce Gilley] </F>
   [Excerpt] Protests erupted in Hubei province days before 
 the Lunar New Year among peasants forced to leave their homes to 
 make way for the massive Three Gorges dam project. 
@@ -8593,15 +8594,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Hunan Province Strengthens Infrastructure Industry </TI></H3>
-<F P=102>  OW0603013094 Beijing XINHUA in English 0116 GMT 6 Mar 94 </F>
-<F P=103> OW0603013094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0603013094 Beijing XINHUA in English 0116 GMT 6 Mar 94 </F>
+<F P="103"> OW0603013094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Changsha, March 6 (XINHUA) -- Central China's Hunan 
@@ -8641,15 +8642,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Overseas Businessmen Urged To Invest in Hunan Agriculture </TI></H3>
-<F P=102>  OW0403031194 Beijing XINHUA in English 0214 GMT 4 Mar 94 </F>
-<F P=103> OW0403031194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403031194 Beijing XINHUA in English 0214 GMT 4 Mar 94 </F>
+<F P="103"> OW0403031194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Changsha, March 4 (XINHUA) -- Hunan Province, 
@@ -8689,15 +8690,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Hunan Boosts Export-Oriented Vegetable Production </TI></H3>
-<F P=102>  OW0403081194 Beijing XINHUA in English 0650 GMT 4 Mar 94 </F>
-<F P=103> OW0403081194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403081194 Beijing XINHUA in English 0650 GMT 4 Mar 94 </F>
+<F P="103"> OW0403081194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Changsha, March 4 (XINHUA) -- Central China's Hunan 
@@ -8745,17 +8746,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Guizhou Secretary Discusses Helping Impoverished Areas </TI></H3>
-<F P=102>  HK0803131294 Guiyang Guizhou People's Radio Network in 
+<F P="102">  HK0803131294 Guiyang Guizhou People's Radio Network in 
 Mandarin 2300 GMT 27 Feb 94 </F>
 
-<F P=103> HK0803131294 </F>
-<F P=104>  Guiyang Guizhou People's Radio Network </F>
+<F P="103"> HK0803131294 </F>
+<F P="104">  Guiyang Guizhou People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
   [Text] At a report meeting held yesterday [27 February] by 
@@ -8807,15 +8808,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Sichuan To Open Wider to Outside World </TI></H3>
-<F P=102>  OW0703081894 Beijing XINHUA in English 0646 GMT 7 Mar 94 </F>
-<F P=103> OW0703081894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703081894 Beijing XINHUA in English 0646 GMT 7 Mar 94 </F>
+<F P="103"> OW0703081894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 7 (XINHUA) -- Southwest China's 
@@ -8869,20 +8870,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Tibet Procuratorial, Public Security Work Conference Ends </TI></H3>
-<F P=102>  OW0803192094 Lhasa Tibet Television Network in Mandarin 1200 
+<F P="102">  OW0803192094 Lhasa Tibet Television Network in Mandarin 1200 
 GMT 26 Feb 94 </F>
 
-<F P=103> OW0803192094 </F>
-<F P=104>  Lhasa Tibet Television Network </F>
+<F P="103"> OW0803192094 </F>
+<F P="104">  Lhasa Tibet Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [Video report by reporter Li Yuangao (2621 6678 7559) and </F>
+<F P="106"> [Video report by reporter Li Yuangao (2621 6678 7559) and </F>
 correspondent Yan Xinggao (2518 5281 7559) -- from the "Regional 
 News Hookup" program] 
   [Text] After having satisfactorily fulfilled various 
@@ -8950,15 +8951,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Restoration Update on Potala Palace in Tibet </TI></H3>
-<F P=102>  OW0803091194 Beijing XINHUA in English 0714 GMT 8 Mar 94 </F>
-<F P=103> OW0803091194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803091194 Beijing XINHUA in English 0714 GMT 8 Mar 94 </F>
+<F P="103"> OW0803091194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Lhasa, March 8 (XINHUA) -- The final stage of the 
@@ -9010,15 +9011,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Tibet Makes Progress in Afforestation </TI></H3>
-<F P=102>  OW0803085494 Beijing XINHUA in English 0743 GMT 8 Mar 94 </F>
-<F P=103> OW0803085494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803085494 Beijing XINHUA in English 0743 GMT 8 Mar 94 </F>
+<F P="103"> OW0803085494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Lhasa, March 8 (XINHUA) -- Southwest China's Tibet 
@@ -9058,20 +9059,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Yunnan To Introduce Measures To Boost Foreign Trade </TI></H3>
-<F P=102>  HK0803070794 Beijing CHINA DAILY (YUNNAN SUPPLEMENT) in 
+<F P="102">  HK0803070794 Beijing CHINA DAILY (YUNNAN SUPPLEMENT) in 
 English 8 Mar 94 p 1 </F>
 
-<F P=103> HK0803070794 </F>
-<F P=104>  Beijing CHINA DAILY (YUNNAN SUPPLEMENT) </F>
+<F P="103"> HK0803070794 </F>
+<F P="104">  Beijing CHINA DAILY (YUNNAN SUPPLEMENT) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed Report: "Frontier Area Bids For New Markets"] </F>
+<F P="106"> [Unattributed Report: "Frontier Area Bids For New Markets"] </F>
   [Text] Once a closed province in Southwest China, Yunnan 
 is now opening itself up to the outside world. 
   Governor He Zhiqiang said, "Development of foreign trade is 
@@ -9165,20 +9166,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Yunnan Secretary Views Plan To Develop Export Industries </TI></H3>
-<F P=102>  HK0803070694 Beijing CHINA DAILY (YUNNAN SUPPLEMENT) in 
+<F P="102">  HK0803070694 Beijing CHINA DAILY (YUNNAN SUPPLEMENT) in 
 English 8 Mar 94 p 1 </F>
 
-<F P=103> HK0803070694 </F>
-<F P=104>  Beijing CHINA DAILY (YUNNAN SUPPLEMENT) </F>
+<F P="103"> HK0803070694 </F>
+<F P="104">  Beijing CHINA DAILY (YUNNAN SUPPLEMENT) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Pu Chaozhu, secretary of the Provincial CPC Committee: </F>
+<F P="106"> [By Pu Chaozhu, secretary of the Provincial CPC Committee: </F>
 "Province To Develop Its Export Industries"] 
   [Text] Yunnan hopes to rejuvenate its economy by 
 developing export-oriented industries and opening up domestic 
@@ -9271,18 +9272,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Taipei Faces Possible Sanctions Over Wildlife Protection </TI></H3>
-<F P=102>  OW0903082694 Taipei CNA in English 0735 GMT 9 Mar 94 </F>
-<F P=103> OW0903082694 </F>
-<F P=104>  Taipei CNA </F>
+<F P="102">  OW0903082694 Taipei CNA in English 0735 GMT 9 Mar 94 </F>
+<F P="103"> OW0903082694 </F>
+<F P="104">  Taipei CNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Bear Li] </F>
+<F P="106"> [By Bear Li] </F>
   [Text] Taipei, March 9 (CNA) -- Taiwan will most likely be 
 hit with sanctions by the United States and the Convention on 
 International Trade in Endangered Species (CITES) for alleged 
@@ -9327,18 +9328,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Defense Ministry White Paper Details Threats to Taipei </TI></H3>
-<F P=102>  OW0903081594 Taipei CNA in English 0730 GMT 9 Mar 94 </F>
-<F P=103> OW0903081594 </F>
-<F P=104>  Taipei CNA </F>
+<F P="102">  OW0903081594 Taipei CNA in English 0730 GMT 9 Mar 94 </F>
+<F P="103"> OW0903081594 </F>
+<F P="104">  Taipei CNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Debbie Kuo] </F>
+<F P="106"> [By Debbie Kuo] </F>
   [Text] Taipei, March 9 (CNA) -- A recently-completed 
 Ministry of National Defense (MND) white paper on Taiwan 
 security issues concluded that Beijing remains Taiwan's top 
@@ -9394,18 +9395,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Taipei Banks Encouraged To Follow `Southern Strategy' </TI></H3>
-<F P=102>  OW0903082194 Taipei CNA in English 0724 GMT 9 Mar 94 </F>
-<F P=103> OW0903082194 </F>
-<F P=104>  Taipei CNA </F>
+<F P="102">  OW0903082194 Taipei CNA in English 0724 GMT 9 Mar 94 </F>
+<F P="103"> OW0903082194 </F>
+<F P="104">  Taipei CNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Y. C. Tsai] </F>
+<F P="106"> [By Y. C. Tsai] </F>
   [Text] Taipei, March 9 (CNA) -- The government is 
 encouraging domestic banks to make inroads into Southeast Asian 
 countries in tandem with the "southern strategy." 
@@ -9468,18 +9469,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Taipei To Push For Open Financial Markets at APEC Meeting </TI></H3>
-<F P=102>  OW0303080294 Taipei CNA in English 0725 GMT 3 Mar 94 </F>
-<F P=103> OW0303080294 </F>
-<F P=104>  Taipei CNA </F>
+<F P="102">  OW0303080294 Taipei CNA in English 0725 GMT 3 Mar 94 </F>
+<F P="103"> OW0303080294 </F>
+<F P="104">  Taipei CNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Sofia Wu] </F>
+<F P="106"> [By Sofia Wu] </F>
   [Text] Taipei, March 3 (CNA) -- Taiwan will push Southeast 
 Asian countries to open their financial service markets during 
 the forthcoming meeting of finance ministers from the 
@@ -9545,18 +9546,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Labor Affairs Council Limits Number of Foreign Workers </TI></H3>
-<F P=102>  OW0303083194 Taipei CNA in English 0716 GMT 3 Mar 94 </F>
-<F P=103> OW0303083194 </F>
-<F P=104>  Taipei CNA </F>
+<F P="102">  OW0303083194 Taipei CNA in English 0716 GMT 3 Mar 94 </F>
+<F P="103"> OW0303083194 </F>
+<F P="104">  Taipei CNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Lilian Wu] </F>
+<F P="106"> [By Lilian Wu] </F>
   [Text] Taipei, March 3 (CNA) -- The Council of Labor 
 Affairs (COLA), in a major shift of policy, has decided to limit 
 the number of foreign laborers working on major construction 
@@ -9603,18 +9604,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Economic Ministry, Danish Environmental Company Sign Accord </TI></H3>
-<F P=102>  OW0303085494 Taipei CNA in English 0703 GMT 3 Mar 94 </F>
-<F P=103> OW0303085494 </F>
-<F P=104>  Taipei CNA </F>
+<F P="102">  OW0303085494 Taipei CNA in English 0703 GMT 3 Mar 94 </F>
+<F P="103"> OW0303085494 </F>
+<F P="104">  Taipei CNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Danielle Yang] </F>
+<F P="106"> [By Danielle Yang] </F>
   [Text] Taipei, March 3 (CNA) -- The Ministry of Economic 
 Affairs (MOEA) formed a strategic industrial alliance with a 
 Danish environmental technology firm Thursday [3 March]. 
@@ -9641,7 +9642,7 @@ reflects its confidence in Taiwan's potential to become a
 Asia-Pacific business hub. 
   The Voluno pact brought the number of foreign enterprises 
 which have signed strategic alliances with Taiwan to twelve. 
-Strategic alliances have been signed with AT&amp;T, GE, General 
+Strategic alliances have been signed with AT amp;T, GE, General 
 Motors, Motorola, HMM [expansion unknown], Westinghouse, and 
 Carpenter Technology Corp. of the United States, Holland's 
 Philips, ABB [expansion unknown] of Sweden, CSR [expansion 
@@ -9663,18 +9664,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Chief Secretary, UK Ambassador on MFN, China Trade Issues </TI></H3>
-<F P=102>  HK0803144594 Hong Kong Television Broadcasts Limited in 
+<F P="102">  HK0803144594 Hong Kong Television Broadcasts Limited in 
 English 1200 GMT 8 Mar 94 </F>
 
-<F P=103> HK0803144594 </F>
-<F P=104>  Hong Kong Television Broadcasts Limited </F>
+<F P="103"> HK0803144594 </F>
+<F P="104">  Hong Kong Television Broadcasts Limited </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] China's trade quota will be cut when the European 
@@ -9736,16 +9737,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Governor Patten Presents Stage Two of Reform Proposals </TI></H3>
-<F P=102>  HK0903100094 Hong Kong AFP in English 0927 GMT 9 Mar 94 </F>
-<F P=103> HK0903100094 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  HK0903100094 Hong Kong AFP in English 0927 GMT 9 Mar 94 </F>
+<F P="103"> HK0903100094 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hong Kong, March 9 (AFP)--Governor Chris Patten 
@@ -9807,21 +9808,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   NPC Proposal Will See Early Setting Up of SAR Government </TI></H3>
-<F P=102>  HK0903030094 Hong Kong SOUTH CHINA MORNING POST in English 9 
+<F P="102">  HK0903030094 Hong Kong SOUTH CHINA MORNING POST in English 9 
 Mar 94 p 9 </F>
 
-<F P=103> HK0903030094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0903030094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Linda Choy in Beijing] </F>
+<F P="106"> [By Linda Choy in Beijing] </F>
   [Text] The first Special Administrative Region (SAR) 
 government will be set up well before July 1, 1997, if a radical 
 proposal by a group of NPC delegates is adopted. The motion, if 
@@ -9877,16 +9878,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Jardines Denies Requesting Exemption From Takeover Code </TI></H3>
-<F P=102>  HK0903113994 Hong Kong AFP in English 0721 GMT 9 Mar 94 </F>
-<F P=103> HK0903113994 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  HK0903113994 Hong Kong AFP in English 0721 GMT 9 Mar 94 </F>
+<F P="103"> HK0903113994 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hong Kong, March 9 (AFP)--Hong Kong's oldest 
@@ -9942,21 +9943,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Guangdong Chief Urges Cooperation With Hong Kong, Macao </TI></H3>
-<F P=102>  HK0403124594 Beijing XINHUA Hong Kong Service in Chinese 
+<F P="102">  HK0403124594 Beijing XINHUA Hong Kong Service in Chinese 
 1418 GMT 20 Feb 94 </F>
 
-<F P=103> HK0403124594 </F>
-<F P=104>  Beijing XINHUA Hong Kong Service </F>
+<F P="103"> HK0403124594 </F>
+<F P="104">  Beijing XINHUA Hong Kong Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Shi Meisi (0670 5019 3128): "Xie Fei Says </F>
+<F P="106"> [By reporter Shi Meisi (0670 5019 3128): "Xie Fei Says </F>
 Guangdong, Hong Kong, and Macao Should Strengthen Cooperation To 
 Strive for Common Prosperity"] 
   [Text] Guangzhou, 20 Feb (XINHUA Hong Kong)--Xie Fei, 
@@ -10034,18 +10035,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Expatriates Establish New Political Party </TI></H3>
-<F P=102>  HK0303095294 Hong Kong EASTERN EXPRESS in English 3 Mar 94 p 
+<F P="102">  HK0303095294 Hong Kong EASTERN EXPRESS in English 3 Mar 94 p 
 4 </F>
 
-<F P=103> HK0303095294 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
+<F P="103"> HK0303095294 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The head of Hong Kong's newest political party, 
@@ -10125,19 +10126,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Article Predicts No New Airport by 1997 </TI></H3>
-<F P=102>  HK0303094194 Hong Kong LIEN HO PAO in Chinese 3 Mar 94 p 4 </F>
-<F P=103> HK0303094194 </F>
-<F P=104>  Hong Kong LIEN HO PAO </F>
+<F P="102">  HK0303094194 Hong Kong LIEN HO PAO in Chinese 3 Mar 94 p 4 </F>
+<F P="103"> HK0303094194 </F>
+<F P="104">  Hong Kong LIEN HO PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By Feng I-fan (7458 0076 0416): "Delay of New Airport </F>
+<F P="106"> [By Feng I-fan (7458 0076 0416): "Delay of New Airport </F>
 Project Is Beneficial to Chinese Side"] 
   [Text] Affected by the deadlock of Sino-British 
 relationship, whether the project of Hong Kong's new airport can 
@@ -10228,19 +10229,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Editorial Calls For Early Settlement of Airport Issue </TI></H3>
-<F P=102>  HK2102092994 Hong Kong TA KUNG PAO in Chinese 19 Feb 94 p 2 </F>
-<F P=103> HK2102092994 </F>
-<F P=104>  Hong Kong TA KUNG PAO </F>
+<F P="102">  HK2102092994 Hong Kong TA KUNG PAO in Chinese 19 Feb 94 p 2 </F>
+<F P="103"> HK2102092994 </F>
+<F P="104">  Hong Kong TA KUNG PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "It Is Hoped That the New Airport Issue Will Be </F>
+<F P="106"> [Editorial: "It Is Hoped That the New Airport Issue Will Be </F>
 Settled As Early As Possible"] 
   [Text] Ambassador Guo Feng-min, the Chinese Joint Liaison 
 Group team leader, said this week: The Chinese side has taken a 
@@ -10369,19 +10370,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Editorial Challenges Britain's Post-1997 `Responsibility' </TI></H3>
-<F P=102>  HK2302025394 Hong Kong TA KUNG PAO in Chinese 22 Feb 94 p 2 </F>
-<F P=103> HK2302025394 </F>
-<F P=104>  Hong Kong TA KUNG PAO </F>
+<F P="102">  HK2302025394 Hong Kong TA KUNG PAO in Chinese 22 Feb 94 p 2 </F>
+<F P="103"> HK2302025394 </F>
+<F P="104">  Hong Kong TA KUNG PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Why Should Britain Have a 'Moral </F>
+<F P="106"> [Editorial: "Why Should Britain Have a 'Moral </F>
 Responsibility' After 1997?"] 
   [Text] Recently, when being interviewed by Hong Kong 
 reporters in Australia, Chris Patten said that Britain would 
@@ -10494,21 +10495,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Editorial Warns Against Inflation, Dependence on China </TI></H3>
-<F P=102>  HK0303095494 Hong Kong SOUTH CHINA MORNING POST in English 3 
+<F P="102">  HK0303095494 Hong Kong SOUTH CHINA MORNING POST in English 3 
 Mar 94 p 18 </F>
 
-<F P=103> HK0303095494 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0303095494 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Shadows Over Budget"] </F>
+<F P="106"> [Editorial: "Shadows Over Budget"] </F>
   [Text] Sir Hamish Macleod yesterday brought down a Budget 
 which should be the envy of the developed world. In what other 
 country could the government cut salaries tax and profits tax -- 
@@ -10607,21 +10608,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Column Welcomes Offer of Visits to PLA Training Camps </TI></H3>
-<F P=102>  HK2702023194 Hong Kong HONGKONG STANDARD in English 26 Feb 
+<F P="102">  HK2702023194 Hong Kong HONGKONG STANDARD in English 26 Feb 
 94 p 11 </F>
 
-<F P=103> HK2702023194 </F>
-<F P=104>  Hong Kong HONGKONG STANDARD </F>
+<F P="103"> HK2702023194 </F>
+<F P="104">  Hong Kong HONGKONG STANDARD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [From the "Focus" page: "Weekly Notes" column by Assistant </F>
+<F P="106"> [From the "Focus" page: "Weekly Notes" column by Assistant </F>
 Editor Jackie Sam: "PR Exercise Will Endear PLA Soldiers to the 
 Public"] 
   [Text] If Mr Liu Guinan, vice-director of the People's 
@@ -10720,16 +10721,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Macao </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Macao </F>
 <H3> <TI>   Macao Reports 1.9 Billion Pataca Trade Deficit in `93 </TI></H3>
-<F P=102>  OW0803051094 Beijing XINHUA in English 0501 GMT 8 Mar 94 </F>
-<F P=103> OW0803051094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803051094 Beijing XINHUA in English 0501 GMT 8 Mar 94 </F>
+<F P="103"> OW0803051094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Macao, March 8 (XINHUA) -- In 1993, Macao posted a 
@@ -10769,16 +10770,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Macao </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Macao </F>
 <H3> <TI>   Sino-Portuguese Joint Liaison Group Holds Talks </TI></H3>
-<F P=102>  OW2502133694 Beijing XINHUA in English 1325 GMT 25 Feb 94 </F>
-<F P=103> OW2502133694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW2502133694 Beijing XINHUA in English 1325 GMT 25 Feb 94 </F>
+<F P="103"> OW2502133694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Macao, February 25 (XINHUA) -- The Working 
@@ -10816,19 +10817,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Further on Detention, Interrogation of Democracy Dissidents </TI></H3>
-<F P=102>  HK0903065094 Hong Kong MING PAO in Chinese 9 Mar 94 p A2 </F>
-<F P=103> HK0903065094 </F>
-<F P=104>  Hong Kong MING PAO </F>
+<F P="102">  HK0903065094 Hong Kong MING PAO in Chinese 9 Mar 94 p A2 </F>
+<F P="103"> HK0903065094 </F>
+<F P="104">  Hong Kong MING PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Special dispatch": "Wang Dan Was Detained and Later </F>
+<F P="106"> ["Special dispatch": "Wang Dan Was Detained and Later </F>
 Released by Public Security Authorities; Given Five Warnings"] 
   [Excerpts] Wang Dan, a student leader during China's 1989 
 democracy movement, was taken from his home by Beijing public 
@@ -10893,21 +10894,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Xiao Rong Questioned on Health of Deng Xiaoping </TI></H3>
-<F P=102>  OW0903104894 Beijing XINHUA Domestic Service in Chinese 0945 
+<F P="102">  OW0903104894 Beijing XINHUA Domestic Service in Chinese 0945 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903104894 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903104894 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporters Yu Yiguo (0358 1355 0948) and Zhang Huanli </F>
+<F P="106"> [By reporters Yu Yiguo (0358 1355 0948) and Zhang Huanli </F>
 (1728 3562 0448)] 
   [Text] Tokyo, 9 Mar (XINHUA) -- Xiao Rong, the author of 
 My Father Deng Xiaoping, said here on 8 March: 
@@ -10952,18 +10953,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Deng's Daughter Visits Japan </TI></H3>
-<F P=102>  HK0803145794 Beijing ZHONGGUO XINWEN SHE in Chinese 1310 GMT 
+<F P="102">  HK0803145794 Beijing ZHONGGUO XINWEN SHE in Chinese 1310 GMT 
 8 Mar 94 </F>
 
-<F P=103> HK0803145794 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK0803145794 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Tokyo 8 Mar (ZHONGGUO XINWEN SHE) -- Xiao Rong (aka 
@@ -11024,16 +11025,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Views Father's Health in Tokyo Interview </TI></H3>
-<F P=102>  OW0803124994 Tokyo KYODO in English 1238 GMT 8 Mar 94 </F>
-<F P=103> OW0803124994 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0803124994 Tokyo KYODO in English 1238 GMT 8 Mar 94 </F>
+<F P="103"> OW0803124994 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, March 8 KYODO -- China's veteran leader Deng 
@@ -11107,21 +11108,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Further on Interview </TI></H3>
-<F P=102>  OW0803140994 Tokyo NHK General Television Network in 
+<F P="102">  OW0803140994 Tokyo NHK General Television Network in 
 Japanese 1046 GMT 8 Mar 94 </F>
 
-<F P=103> OW0803140994 </F>
-<F P=104>  Tokyo NHK General Television Network </F>
+<F P="103"> OW0803140994 </F>
+<F P="104">  Tokyo NHK General Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Deng Rong, daughter of Chinese leader Deng </F>
+<F P="106"> [Interview with Deng Rong, daughter of Chinese leader Deng </F>
 Xiaoping, by NHK announcer Yoko Sakurai at a Tokyo hotel; date 
 not given; Deng speaks in Mandarin with Japanese subtitles 
 appearing on screen -- recorded] 
@@ -11188,17 +11189,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Presidium Elected for Second Session </H4>
-<F P=102> OW0903025294 Beijing XINHUA in English 0233 GMT 9 Mar 94 </F>
-<F P=103> OW0903025294 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0903025294 Beijing XINHUA in English 0233 GMT 9 Mar 94 </F>
+<F P="103"> OW0903025294 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- A preparatory meeting 
@@ -11250,19 +11251,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   First Meeting of NPC Presidium </H4>
-<F P=102> OW0903053694 Beijing XINHUA Domestic Service in Chinese 0445 
+<F P="102"> OW0903053694 Beijing XINHUA Domestic Service in Chinese 0445 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903053694 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903053694 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 9 Mar (XINHUA) -- The Presidium of the 
@@ -11304,17 +11305,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Further on Presidium Meeting </H4>
-<F P=102> OW0903031194 Beijing XINHUA in English 0303 GMT 9 Mar 94 </F>
-<F P=103> OW0903031194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0903031194 Beijing XINHUA in English 0303 GMT 9 Mar 94 </F>
+<F P="103"> OW0903031194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- The newly-elected 
@@ -11352,19 +11353,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Executive Chairmen Named </H4>
-<F P=102> OW0903072094 Beijing XINHUA Domestic Service in Chinese 0620 
+<F P="102"> OW0903072094 Beijing XINHUA Domestic Service in Chinese 0620 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903072094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903072094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 9 Mar (XINHUA) -- The name list of 
@@ -11394,17 +11395,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Spokesman's First News Conference </H4>
-<F P=102> OW0903115994 Beijing XINHUA in English 1134 GMT 9 Mar 94 </F>
-<F P=103> OW0903115994 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0903115994 Beijing XINHUA in English 1134 GMT 9 Mar 94 </F>
+<F P="103"> OW0903115994 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Zhou Jue, spokesman 
@@ -11481,17 +11482,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Preparatory Meeting Decides Agenda </H4>
-<F P=102> OW0903071694 Beijing XINHUA in English 0250 GMT 9 Mar 94 </F>
-<F P=103> OW0903071694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0903071694 Beijing XINHUA in English 0250 GMT 9 Mar 94 </F>
+<F P="103"> OW0903071694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- A preparatory meeting 
@@ -11547,22 +11548,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Qiao Shi Addresses Meeting </H4>
-<F P=102> OW0903054794 Beijing Central People's Radio Network in 
+<F P="102"> OW0903054794 Beijing Central People's Radio Network in 
 Mandarin 0300 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903054794 </F>
-<F P=104>  Beijing Central People's Radio Network </F>
+<F P="103"> OW0903054794 </F>
+<F P="104">  Beijing Central People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [From the "News" program] </F>
+<F P="106"> [From the "News" program] </F>
   [Text] A preparatory meeting for the Second Session of the 
 Eighth National People's Congress [NPC] was held in the Great 
 Hall of the People today. The meeting was presided over by 
@@ -11649,19 +11650,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Agenda for Second Session </H4>
-<F P=102> OW0903112394 Beijing XINHUA Domestic Service in Chinese 0928 
+<F P="102"> OW0903112394 Beijing XINHUA Domestic Service in Chinese 0928 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903112394 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903112394 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 9 Mar (XINHUA) -- Agenda for the Second 
@@ -11718,20 +11719,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   XINHUA Views Second Session </H4>
-<F P=102> OW0903022694 Beijing XINHUA in English 0214 GMT 9 Mar 94 </F>
-<F P=103> OW0903022694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0903022694 Beijing XINHUA in English 0214 GMT 9 Mar 94 </F>
+<F P="103"> OW0903022694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Backgrounder": "China's National People's Congress"] </F>
+<F P="106"> ["Backgrounder": "China's National People's Congress"] </F>
   [Text] Beijing, March 9 (XINHUA) -- The Second Session of 
 the Eighth National People's Congress (NPC) is due to open here 
 tomorrow and will last 13 days. 
@@ -11796,17 +11797,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   `Sources' Quoted on Li Peng Report </H4>
-<F P=102> OW0903112294 Tokyo KYODO in English 1059 GMT 9 Mar 94 </F>
-<F P=103> OW0903112294 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102"> OW0903112294 Tokyo KYODO in English 1059 GMT 9 Mar 94 </F>
+<F P="103"> OW0903112294 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 KYODO -- The Second Session of 
@@ -11873,20 +11874,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Further on Work Report </H4>
-<F P=102> HK0903071094 Hong Kong LIEN HO PAO in Chinese 9 Mar 94 p 2 </F>
-<F P=103> HK0903071094 </F>
-<F P=104>  Hong Kong LIEN HO PAO </F>
+<F P="102"> HK0903071094 Hong Kong LIEN HO PAO in Chinese 9 Mar 94 p 2 </F>
+<F P="103"> HK0903071094 </F>
+<F P="104">  Hong Kong LIEN HO PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By staff reporter: "Li Peng Stresses Scheduled Restoration </F>
+<F P="106"> [By staff reporter: "Li Peng Stresses Scheduled Restoration </F>
 of Sovereignty Over Hong Kong"] 
   [Text] Hong Kong -- In his government work report to the 
 National People's Congress [NPC] tomorrow, Premier Li Peng of 
@@ -11965,22 +11966,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Leaders To Present Reports </H4>
-<F P=102> HK0903023094 Hong Kong SOUTH CHINA MORNING POST in English 9 
+<F P="102"> HK0903023094 Hong Kong SOUTH CHINA MORNING POST in English 9 
 Mar 94 pp 1, 9 </F>
 
-<F P=103> HK0903023094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0903023094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Chris Yeung in Beijing and Willy Wo-Lap Lam] </F>
+<F P="106"> [Report by Chris Yeung in Beijing and Willy Wo-Lap Lam] </F>
   [Text] Beijing has decided to scale down several market 
 reform initiatives unveiled at the watershed Third Communist 
 Party Central Committee plenum last November. In their reports 
@@ -12099,20 +12100,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Paper on Li Work Report </H4>
-<F P=102> HK0903071294 Hong Kong LIEN HO PAO in Chinese 9 Mar 94 p 10 </F>
-<F P=103> HK0903071294 </F>
-<F P=104>  Hong Kong LIEN HO PAO </F>
+<F P="102"> HK0903071294 Hong Kong LIEN HO PAO in Chinese 9 Mar 94 p 10 </F>
+<F P="103"> HK0903071294 </F>
+<F P="104">  Hong Kong LIEN HO PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Special article" by reporter Chang Sheng-tai (1728 5110 </F>
+<F P="106"> ["Special article" by reporter Chang Sheng-tai (1728 5110 </F>
 1486) ] 
   [Text] The portion of the work report made by mainland 
 premier Li Peng on foreign affairs was smaller compared to 
@@ -12199,17 +12200,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Deputies Arrive in Beijing </H4>
-<F P=102> OW0803091594 Beijing XINHUA in English 0840 GMT 8 Mar 94 </F>
-<F P=103> OW0803091594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0803091594 Beijing XINHUA in English 0840 GMT 8 Mar 94 </F>
+<F P="103"> OW0803091594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- Nearly 3,000 deputies 
@@ -12265,17 +12266,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Eighth National People's Congress Meeting </TI></H3>
 <H4>   Tibetan Deputies Discuss Human Rights </H4>
-<F P=102> OW0803100594 Beijing XINHUA in English 0924 GMT 8 Mar 94 </F>
-<F P=103> OW0803100594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0803100594 Beijing XINHUA in English 0924 GMT 8 Mar 94 </F>
+<F P="103"> OW0803100594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- The 
@@ -12378,21 +12379,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Leadership May Have To Reveal Assets, Investments </TI></H3>
-<F P=102>  HK0903025094 Hong Kong SOUTH CHINA MORNING POST in English 9 
+<F P="102">  HK0903025094 Hong Kong SOUTH CHINA MORNING POST in English 9 
 Mar 94 p 9 </F>
 
-<F P=103> HK0903025094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0903025094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Chris Yeung in Beijing] </F>
+<F P="106"> [By Chris Yeung in Beijing] </F>
   [Text] Patriarch Deng Xiaoping and leaders Jiang Zemin and 
 Li Peng might have to make a declaration of assets including the 
 investments of their children if the politically-sensitive 
@@ -12475,18 +12476,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on CPPCC Session Opening </TI></H3>
-<F P=102>  OW0803130994 Beijing XINHUA Domestic Service in Chinese 0903 
+<F P="102">  OW0803130994 Beijing XINHUA Domestic Service in Chinese 0903 
 GMT 8 Mar 94 </F>
 
-<F P=103> OW0803130994 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0803130994 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 8 Mar (XINHUA) -- The Second Session of 
@@ -12607,16 +12608,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   `Leader' on Revised Constitution </TI></H3>
-<F P=102>  OW0903093094 Beijing XINHUA in English 0854 GMT 9 Mar 94 </F>
-<F P=103> OW0903093094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903093094 Beijing XINHUA in English 0854 GMT 9 Mar 94 </F>
+<F P="103"> OW0903093094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Deng Xiaoping's theory 
@@ -12660,16 +12661,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Press Center Receives Correspondents </TI></H3>
-<F P=102>  OW0803140794 Beijing XINHUA in English 1342 GMT 8 Mar 94 </F>
-<F P=103> OW0803140794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803140794 Beijing XINHUA in English 1342 GMT 8 Mar 94 </F>
+<F P="103"> OW0803140794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- More than 300 overseas 
@@ -12706,19 +12707,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Notes History </TI></H3>
-<F P=102>  OW0703100694 Beijing XINHUA in English 0845 GMT 7 Mar 94 </F>
-<F P=103> OW0703100694 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703100694 Beijing XINHUA in English 0845 GMT 7 Mar 94 </F>
+<F P="103"> OW0703100694 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Backgrounder: Chinese People's Political Consultative </F>
+<F P="106"> ["Backgrounder: Chinese People's Political Consultative </F>
 Conference" -- XINHUA headline] 
   [Text] Beijing, March 7 (XINHUA) -- The Chinese People's 
 Political Consultative Conference (CPPCC) is an intensive 
@@ -12808,16 +12809,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Ruihuan on Guidelines for Upcoming CPPCC Session </TI></H3>
-<F P=102>  OW0503162894 Beijing XINHUA in English 1550 GMT 5 Mar 94 </F>
-<F P=103> OW0503162894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503162894 Beijing XINHUA in English 1550 GMT 5 Mar 94 </F>
+<F P="103"> OW0503162894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 5 (XINHUA) -- The coming second 
@@ -12897,21 +12898,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Ruihuan Speech on Upcoming CPPCC Session </TI></H3>
-<F P=102>  OW0703100894 Beijing XINHUA Domestic Service in Chinese 1404 
+<F P="102">  OW0703100894 Beijing XINHUA Domestic Service in Chinese 1404 
 GMT 5 Mar 94 </F>
 
-<F P=103> OW0703100894 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0703100894 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Li Ruihuan's Speech on Guidelines for the Upcoming Chinese </F>
+<F P="106"> ["Li Ruihuan's Speech on Guidelines for the Upcoming Chinese </F>
 People's Political Consultative Conference, CPPCC, Session 
 Delivered at the Fifth Session of the Eighth CPPCC National 
 Committee Standing Committee on 5 March 1994" -- XINHUA headline] 
@@ -13072,16 +13073,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   CPPCC Spokesman Views Expectations of Second Session </TI></H3>
-<F P=102>  OW0703123294 Beijing XINHUA in English 1205 GMT 7 Mar 94 </F>
-<F P=103> OW0703123294 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703123294 Beijing XINHUA in English 1205 GMT 7 Mar 94 </F>
+<F P="103"> OW0703123294 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 7 (XINHUA) -- The coming session of 
@@ -13131,21 +13132,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   CPPCC Amendment Identifies New Top Contradiction </TI></H3>
-<F P=102>  HK0903024094 Hong Kong SOUTH CHINA MORNING POST in English 9 
+<F P="102">  HK0903024094 Hong Kong SOUTH CHINA MORNING POST in English 9 
 Mar 94 p 9 </F>
 
-<F P=103> HK0903024094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0903024094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by Chris Yeung in Beijing] </F>
+<F P="106"> [Report by Chris Yeung in Beijing] </F>
   [Text] China's main united front body has amended its 
 constitution to play down class struggle among Chinese or 
 between China and "hostile foreign forces" stating it is no 
@@ -13217,16 +13218,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Peng Speaks at `Gathering' Marking Womens Day </TI></H3>
-<F P=102>  OW0503151894 Beijing XINHUA in English 1405 GMT 5 Mar 94 </F>
-<F P=103> OW0503151894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503151894 Beijing XINHUA in English 1405 GMT 5 Mar 94 </F>
+<F P="103"> OW0503151894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 5 (XINHUA) -- More than 10,000 
@@ -13292,21 +13293,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Further on Li Peng Womens Day Speech </TI></H3>
-<F P=102>  OW0703100794 Beijing XINHUA Domestic Service in Chinese 1040 
+<F P="102">  OW0703100794 Beijing XINHUA Domestic Service in Chinese 1040 
 GMT 5 Mar 94 </F>
 
-<F P=103> OW0703100794 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0703100794 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Speech by Li Peng at a gathering of foreign and domestic </F>
+<F P="106"> [Speech by Li Peng at a gathering of foreign and domestic </F>
 women to celebrate International Women's Day and to greet the 
 1995 World Women's Congress in Beijing on 8 March] 
   [Text] Beijing, 5 Mar (XINHUA) -- Guests, comrades, 
@@ -13405,16 +13406,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Women Asked To Make `Even Greater Contributions' </TI></H3>
-<F P=102>  OW0703155494 Beijing XINHUA in English 1524 GMT 7 Mar 94 </F>
-<F P=103> OW0703155494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703155494 Beijing XINHUA in English 1524 GMT 7 Mar 94 </F>
+<F P="103"> OW0703155494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March (XINHUA) -- Chinese women from all 
@@ -13455,16 +13456,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Foreign Women Experts Mark Womens Day in Beijing </TI></H3>
-<F P=102>  OW0803103094 Beijing XINHUA in English 0935 GMT 8 Mar 94 </F>
-<F P=103> OW0803103094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803103094 Beijing XINHUA in English 0935 GMT 8 Mar 94 </F>
+<F P="103"> OW0803103094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- Some 50 foreign women 
@@ -13494,18 +13495,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Jiang, Li, Qiao, Bo, Others Write Inscriptions for Magazine </TI></H3>
-<F P=102>  OW0503091794 Beijing XINHUA Domestic Service in Chinese 1025 
+<F P="102">  OW0503091794 Beijing XINHUA Domestic Service in Chinese 1025 
 GMT 2 Mar 94 </F>
 
-<F P=103> OW0503091794 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0503091794 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 2 Mar (XINHUA) -- Publishers of DANGJIAN 
@@ -13594,16 +13595,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Guixan Speaks on Drawing Experience From Foreign Nations </TI></H3>
-<F P=102>  OW0603091594 Beijing XINHUA in English 0845 GMT 6 Mar 94 </F>
-<F P=103> OW0603091594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0603091594 Beijing XINHUA in English 0845 GMT 6 Mar 94 </F>
+<F P="103"> OW0603091594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Shanghai, March 6 (XINHUA) -- China is to send more 
@@ -13637,21 +13638,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Jiang Emphasizes Strengthening Ideological Work </TI></H3>
-<F P=102>  HK0703042294 Hong Kong SOUTH CHINA MORNING POST in English 7 
+<F P="102">  HK0703042294 Hong Kong SOUTH CHINA MORNING POST in English 7 
 Mar 94 p 1 </F>
 
-<F P=103> HK0703042294 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK0703042294 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Willy Wo-Lap Lam] </F>
+<F P="106"> [By Willy Wo-Lap Lam] </F>
   [Text] Beijing yesterday released a major address by 
 President Jiang Zemin on the imperative of political stability 
 and the vital role propaganda plays. Chinese sources said the 
@@ -13722,21 +13723,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Party Split Reportedly Widens Over Tax Reforms </TI></H3>
-<F P=102>  HK0703042494 Hong Kong HONGKONG STANDARD in English 7 Mar 94 
+<F P="102">  HK0703042494 Hong Kong HONGKONG STANDARD in English 7 Mar 94 
 p 1 </F>
 
-<F P=103> HK0703042494 </F>
-<F P=104>  Hong Kong HONGKONG STANDARD </F>
+<F P="103"> HK0703042494 </F>
+<F P="104">  Hong Kong HONGKONG STANDARD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Cary Huang, China Editor] </F>
+<F P="106"> [By Cary Huang, China Editor] </F>
   [Text] Differences between conservative central planners 
 and reformist officials within China's leadership have widened 
 over the pace of controversial tax reforms in the runup to a 
@@ -13814,19 +13815,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Editorial Urges Effort at Poverty Relief </TI></H3>
-<F P=102>  HK0703070294 Beijing RENMIN RIBAO in Chinese 1 Mar 94 p 1 </F>
-<F P=103> HK0703070294 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  HK0703070294 Beijing RENMIN RIBAO in Chinese 1 Mar 94 p 1 </F>
+<F P="103"> HK0703070294 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Tackle the Most Difficult Problems in Poverty </F>
+<F P="106"> [Editorial: "Tackle the Most Difficult Problems in Poverty </F>
 Relief Efforts"] 
   [Text] From now until the end of the century, our country 
 will be implementing a large-scale poverty relief scheme -- the 
@@ -13983,18 +13984,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   `Additional' Rules on Illegal Emigration Promulgated </TI></H3>
-<F P=102>  OW0703071394 Beijing XINHUA Domestic Service in Chinese 0950 
+<F P="102">  OW0703071394 Beijing XINHUA Domestic Service in Chinese 0950 
 GMT 5 Mar 94 </F>
 
-<F P=103> OW0703071394 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0703071394 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 5 Mar (XINHUA) -- The "National People's 
@@ -14022,21 +14023,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Article Views Reforming Medical Insurance </TI></H3>
-<F P=102>  OW0603044594 Beijing XINHUA Domestic Service in Chinese 2108 
+<F P="102">  OW0603044594 Beijing XINHUA Domestic Service in Chinese 2108 
 GMT 15 Feb 94 </F>
 
-<F P=103> OW0603044594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0603044594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Article by reporter Zou Peiyan (6760 3099 7346): </F>
+<F P="106"> [Article by reporter Zou Peiyan (6760 3099 7346): </F>
 "Reforming Medical Insurance Is Imperative -- A Newsletter on 
 Public-Funded Medicare"] 
   [Text] Beijing, 16 Feb (XINHUA] -- "Progressing with 
@@ -14193,21 +14194,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Small Towns Develop by `Leaps and Bounds' Under Reform </TI></H3>
-<F P=102>  OW0503163594 Beijing XINHUA Domestic Service in Chinese 0814 
+<F P="102">  OW0503163594 Beijing XINHUA Domestic Service in Chinese 0814 
 GMT 18 Feb 94 </F>
 
-<F P=103> OW0503163594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0503163594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Jia Fenyong (6328 1164 0516)] </F>
+<F P="106"> [By reporter Jia Fenyong (6328 1164 0516)] </F>
   [Text] Beijing, 18 Feb (XINHUA) -- According to 
 information gathered by this reporter from a national forum on 
 the development of small towns held by the Ministry of Civil 
@@ -14269,16 +14270,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Efforts To Recycle Used, Waste Materials Increased </TI></H3>
-<F P=102>  OW0503031094 Beijing XINHUA in English 0245 GMT 5 Mar 94 </F>
-<F P=103> OW0503031094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503031094 Beijing XINHUA in English 0245 GMT 5 Mar 94 </F>
+<F P="103"> OW0503031094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Wuhan, March 5 (XINHUA) -- China has stepped up 
@@ -14345,18 +14346,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Publishes Marriage Registration Regulations </TI></H3>
-<F P=102>  OW0503062994 Beijing XINHUA Domestic Service in Chinese 0847 
+<F P="102">  OW0503062994 Beijing XINHUA Domestic Service in Chinese 0847 
 GMT 26 Feb 94 </F>
 
-<F P=103> OW0503062994 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0503062994 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 26 Feb (XINHUA) -- "Regulations on 
@@ -14624,19 +14625,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Government To Boost Tree Planting, Fight Forest Fires </TI></H3>
-<F P=102>  HK0503082094 Beijing CHINA DAILY in English 5 Mar 94 p 1 </F>
-<F P=103> HK0503082094 </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102">  HK0503082094 Beijing CHINA DAILY in English 5 Mar 94 p 1 </F>
+<F P="103"> HK0503082094 </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Report by staff reporter Gao Jun: "Contest Plan to Make </F>
+<F P="106"> [Report by staff reporter Gao Jun: "Contest Plan to Make </F>
 China Green"] 
   [Text] The government is launching an annual contest to 
 reward the nation's greenest cities, counties, townships and 
@@ -14712,12 +14713,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Correction to Spokesman on Committee Session </TI></H3>
-<F P=102>  OW0803233594 </F>
-<F P=103> OW0803233594 </F>
-<F P=104></F>
+<F P="102">  OW0803233594 </F>
+<F P="103"> OW0803233594 </F>
+<F P="104"></F>
 
 
 
@@ -14747,17 +14748,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   `Ideological Debates' Block Passage of Securities Law </TI></H3>
-<F P=102>  HK0803055694 Hong Kong EASTERN EXPRESS in English 8 Mar 94 p 
+<F P="102">  HK0803055694 Hong Kong EASTERN EXPRESS in English 8 Mar 94 p 
 8 </F>
 
-<F P=103> HK0803055694 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
+<F P="103"> HK0803055694 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] China's new securities law has been shelved by 
@@ -14846,12 +14847,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 1 </H4>
-<F P=102> OW0303041794 </F>
-<F P=103> OW0303041794 </F>
-<F P=104></F>
+<F P="102"> OW0303041794 </F>
+<F P="103"> OW0303041794 </F>
+<F P="104"></F>
 
 
 
@@ -14933,12 +14934,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 2 </H4>
-<F P=102> OW0303045194 </F>
-<F P=103> OW0303045194 </F>
-<F P=104></F>
+<F P="102"> OW0303045194 </F>
+<F P="103"> OW0303045194 </F>
+<F P="104"></F>
 
 
 
@@ -15036,12 +15037,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 3 </H4>
-<F P=102> OW0303052294 </F>
-<F P=103> OW0303052294 </F>
-<F P=104></F>
+<F P="102"> OW0303052294 </F>
+<F P="103"> OW0303052294 </F>
+<F P="104"></F>
 
 
 
@@ -15211,12 +15212,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 4 </H4>
-<F P=102> OW0303055094 </F>
-<F P=103> OW0303055094 </F>
-<F P=104></F>
+<F P="102"> OW0303055094 </F>
+<F P="103"> OW0303055094 </F>
+<F P="104"></F>
 
 
 
@@ -15342,12 +15343,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 5 </H4>
-<F P=102> OW0403014494 </F>
-<F P=103> OW0403014494 </F>
-<F P=104></F>
+<F P="102"> OW0403014494 </F>
+<F P="103"> OW0403014494 </F>
+<F P="104"></F>
 
 
 
@@ -15431,12 +15432,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 6 </H4>
-<F P=102> OW0403015594 </F>
-<F P=103> OW0403015594 </F>
-<F P=104></F>
+<F P="102"> OW0403015594 </F>
+<F P="103"> OW0403015594 </F>
+<F P="104"></F>
 
 
 
@@ -15510,12 +15511,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 7 </H4>
-<F P=102> OW0603152494 </F>
-<F P=103> OW0603152494 </F>
-<F P=104></F>
+<F P="102"> OW0603152494 </F>
+<F P="103"> OW0603152494 </F>
+<F P="104"></F>
 
 
 
@@ -15664,12 +15665,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 8 </H4>
-<F P=102> OW0603221294 </F>
-<F P=103> OW0603221294 </F>
-<F P=104></F>
+<F P="102"> OW0603221294 </F>
+<F P="103"> OW0603221294 </F>
+<F P="104"></F>
 
 
 
@@ -15847,12 +15848,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 9 </H4>
-<F P=102> OW0603221894 </F>
-<F P=103> OW0603221894 </F>
-<F P=104></F>
+<F P="102"> OW0603221894 </F>
+<F P="103"> OW0603221894 </F>
+<F P="104"></F>
 
 
 
@@ -15943,12 +15944,12 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Beijing TV Lecture Series on Economic Reforms </TI></H3>
 <H4>   Part 10 </H4>
-<F P=102> OW0603222694 </F>
-<F P=103> OW0603222694 </F>
-<F P=104></F>
+<F P="102"> OW0603222694 </F>
+<F P="103"> OW0603222694 </F>
+<F P="104"></F>
 
 
 
@@ -16040,20 +16041,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Taiwan Views Hong Kong Political Reform Row </TI></H3>
-<F P=102>  HK2802135494 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1323 
+<F P="102">  HK2802135494 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1323 
 GMT 25 Feb 94 </F>
 
-<F P=103> HK2802135494 </F>
-<F P=104>  Hong Kong ZHONGGUO TONGXUN SHE </F>
+<F P="103"> HK2802135494 </F>
+<F P="104">  Hong Kong ZHONGGUO TONGXUN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Special feature" by reporter Zhang Suifeng (1728 4482 </F>
+<F P="106"> ["Special feature" by reporter Zhang Suifeng (1728 4482 </F>
 5762): "Views of Taiwan Commercial, Academic Circles on Impact 
 of Breakdown of Sino-British Talks Over Hong Kong's Political 
 Reform"] 
@@ -16151,15 +16152,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Legislators Propose Passing Law on Taiwan Investments </TI></H3>
-<F P=102>  OW0303150494 Beijing XINHUA in English 1415 GMT 3 Mar 94 </F>
-<F P=103> OW0303150494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0303150494 Beijing XINHUA in English 1415 GMT 3 Mar 94 </F>
+<F P="103"> OW0303150494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 3 (XINHUA) -- China's lawmakers 
@@ -16212,20 +16213,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Liaoning Economic Cooperation, Trade With Taiwan Develops </TI></H3>
-<F P=102>  HK2502032794 Beijing ZHONGGUO XINWEN SHE in Chinese 0745 GMT 
+<F P="102">  HK2502032794 Beijing ZHONGGUO XINWEN SHE in Chinese 0745 GMT 
 18 Feb 94 </F>
 
-<F P=103> HK2502032794 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="103"> HK2502032794 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Report on interview with Wang Weifu, director of Liaoning </F>
+<F P="106"> [Report on interview with Wang Weifu, director of Liaoning </F>
 Province Taiwan Affairs Office, by reporter Jin Guolin (6855 
 0948 2651) in the director's office; date not given: 
 "`Mainland's New Strategy of Attracting Taiwan Funds'--Economic 
@@ -16311,17 +16312,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Taiwan Steel Businessmen To Seek Cooperation on Mainland </TI></H3>
-<F P=102>  HK0403113994 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1030 
+<F P="102">  HK0403113994 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1030 
 GMT 21 Feb 94 </F>
 
-<F P=103> HK0403113994 </F>
-<F P=104>  Hong Kong ZHONGGUO TONGXUN SHE </F>
+<F P="103"> HK0403113994 </F>
+<F P="104">  Hong Kong ZHONGGUO TONGXUN SHE </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Hong Kong, 21 Feb (ZHONGGUO TONGXUN SHE)--According 
@@ -16368,16 +16369,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   PRC Delegate Outlines Targets for UN Women's Conference </TI></H3>
-<F P=102>  OW0903051594 Beijing XINHUA in English 0420 GMT 9 Mar 94 </F>
-<F P=103> OW0903051594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903051594 Beijing XINHUA in English 0420 GMT 9 Mar 94 </F>
+<F P="103"> OW0903051594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] United Nations, March 8 (XINHUA) -- By the year 2000 
@@ -16431,15 +16432,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central Eurasia </F>
+<F P="100"> Central Eurasia </F>
 <H3> <TI>   Li Peng Meets Azerbaijani President 8 Mar </TI></H3>
-<F P=102>  OW0803132794 Beijing XINHUA in English 1303 GMT 8 Mar 94 </F>
-<F P=103> OW0803132794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803132794 Beijing XINHUA in English 1303 GMT 8 Mar 94 </F>
+<F P="103"> OW0803132794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (XINHUA) -- Chinese Premier Li 
@@ -16484,15 +16485,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangdong Foreign Trade Registers Record Expansion </TI></H3>
-<F P=102>  OW0403131894 Beijing XINHUA in English 0828 GMT 4 Mar 94 </F>
-<F P=103> OW0403131894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0403131894 Beijing XINHUA in English 0828 GMT 4 Mar 94 </F>
+<F P="103"> OW0403131894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Guangzhou, March 4 (XINHUA) -- South China's 
@@ -16578,16 +16579,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Dissident Wang Dan Questioned, Released </TI></H3>
-<F P=102>  HK0803143294 Hong Kong AFP in English 1413 GMT 8 Mar 94 </F>
-<F P=103> HK0803143294 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  HK0803143294 Hong Kong AFP in English 1413 GMT 8 Mar 94 </F>
+<F P="103"> HK0803143294 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (AFP) -- Chinese dissident leader 
@@ -16619,16 +16620,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Questioned After ABC Interview </TI></H3>
-<F P=102>  HK0803152094 Hong Kong AFP in English 1508 GMT 8 Mar 94 </F>
-<F P=103> HK0803152094 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  HK0803152094 Hong Kong AFP in English 1508 GMT 8 Mar 94 </F>
+<F P="103"> HK0803152094 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 8 (AFP) -- China's crackdown on 
@@ -16681,16 +16682,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Reports on First National Two-Day Weekend </TI></H3>
-<F P=102>  OW0503152094 Beijing XINHUA in English 1440 GMT 5 Mar 94 </F>
-<F P=103> OW0503152094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0503152094 Beijing XINHUA in English 1440 GMT 5 Mar 94 </F>
+<F P="103"> OW0503152094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 5 (XINHUA) -- Not as normal, when she 
@@ -16770,20 +16771,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Jiang Zemin, Li Peng Comment on Foreign Capital </TI></H3>
-<F P=102>  OW0803150194 Beijing XINHUA Domestic Service in Chinese 1613 
+<F P="102">  OW0803150194 Beijing XINHUA Domestic Service in Chinese 1613 
 GMT 7 Mar 94 </F>
 
-<F P=103> OW0803150194 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0803150194 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By Central People's Broadcasting Station reporter Liu </F>
+<F P="106"> [By Central People's Broadcasting Station reporter Liu </F>
 Zhenying (0491 2182 5391) and XINHUA reporter Xu Yaozhong (1776 
 5069 0022)] 
   [Text] Beijing, 7 Mar (XINHUA) -- A four-day national forum 
@@ -16951,17 +16952,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Foreign Ministry Holds Weekly News Briefing </TI></H3>
 <H4>   Comments on Hong Kong Laws </H4>
-<F P=102> OW1003090094 Beijing XINHUA in English 0847 GMT 10 Mar 94 </F>
-<F P=103> OW1003090094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003090094 Beijing XINHUA in English 0847 GMT 10 Mar 94 </F>
+<F P="103"> OW1003090094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Any legislation 
@@ -16996,17 +16997,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Foreign Ministry Holds Weekly News Briefing </TI></H3>
 <H4>   Views Human Rights Resolution's Defeat </H4>
-<F P=102> OW1003103094 Beijing XINHUA in English 1020 GMT 10 Mar 94 </F>
-<F P=103> OW1003103094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003103094 Beijing XINHUA in English 1020 GMT 10 Mar 94 </F>
+<F P="103"> OW1003103094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Defeat of an 
@@ -17081,17 +17082,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Foreign Ministry Holds Weekly News Briefing </TI></H3>
 <H4>   Japanese Prime Minister To Visit </H4>
-<F P=102> OW1003085394 Beijing XINHUA in English 0839 GMT 10 Mar 94 </F>
-<F P=103> OW1003085394 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003085394 Beijing XINHUA in English 0839 GMT 10 Mar 94 </F>
+<F P="103"> OW1003085394 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Prime Minister 
@@ -17116,17 +17117,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Foreign Ministry Holds Weekly News Briefing </TI></H3>
 <H4>   Ecuador's President To Visit </H4>
-<F P=102> OW0303084594 Beijing XINHUA in English 0827 GMT 3 Mar 94 </F>
-<F P=103> OW0303084594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW0303084594 Beijing XINHUA in English 0827 GMT 3 Mar 94 </F>
+<F P="103"> OW0303084594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 3 (XINHUA) -- A Chinese Foreign 
@@ -17151,21 +17152,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   UN Human Rights Commission Drops Bill Against China </TI></H3>
-<F P=102>  HK1003061094 Beijing XINHUA Domestic Service in Chinese 0254 
+<F P="102">  HK1003061094 Beijing XINHUA Domestic Service in Chinese 0254 
 GMT 10 Mar 94 </F>
 
-<F P=103> HK1003061094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> HK1003061094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Zhou Shaoping (0719 1421 1627)] </F>
+<F P="106"> [By reporter Zhou Shaoping (0719 1421 1627)] </F>
   [Text] On 9 March, the 50th meeting of the UN Human Rights 
 Commission adopted a motion proposed by China, deciding not to 
 proceed with a draft bill on "China's so-called human rights 
@@ -17239,16 +17240,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   World Bank Approves Environmental Loans </TI></H3>
-<F P=102>  OW0903230494 Beijing XINHUA in English 2251 GMT 9 Mar 94 </F>
-<F P=103> OW0903230494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903230494 Beijing XINHUA in English 2251 GMT 9 Mar 94 </F>
+<F P="103"> OW0903230494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Washington, March 9 (XINHUA) -- The World Bank said 
@@ -17285,18 +17286,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   Article Views U.S. President's `Human Rights Diplomacy' </TI></H3>
-<F P=102>  HK1003080094 Hong Kong WEN WEI PO in Chinese 10 Mar 94 p A4 </F>
-<F P=103> HK1003080094 </F>
-<F P=104>  Hong Kong WEN WEI PO </F>
+<F P="102">  HK1003080094 Hong Kong WEN WEI PO in Chinese 10 Mar 94 p A4 </F>
+<F P="103"> HK1003080094 </F>
+<F P="104">  Hong Kong WEN WEI PO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Special article" by Kuan Wen-liang (7070 2429 5328): "The </F>
+<F P="106"> ["Special article" by Kuan Wen-liang (7070 2429 5328): "The </F>
 Purpose of Clinton's `Human Rights Diplomacy'"] 
   [Text] Since the Clinton administration took office a year 
 ago, it has incessantly practiced "human rights diplomacy" 
@@ -17441,18 +17442,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   Article Views U.S. Secretary's Visit, MFN, Human Rights </TI></H3>
-<F P=102>  HK1003054094 Hong Kong WEN WEI PO in Chinese 10 Mar 94 p A4 </F>
-<F P=103> HK1003054094 </F>
-<F P=104>  Hong Kong WEN WEI PO </F>
+<F P="102">  HK1003054094 Hong Kong WEN WEI PO in Chinese 10 Mar 94 p A4 </F>
+<F P="103"> HK1003054094 </F>
+<F P="104">  Hong Kong WEN WEI PO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [Third of an unknown number of installments: "Special </F>
+<F P="106"> [Third of an unknown number of installments: "Special </F>
 article" by special correspondent in Washington Tsu Hsing-fu 
 (2612 1630 4395): "China Will Not Beg for MFN Treatment -- 
 Written on the Eve of Christopher's Visit to China"; first and 
@@ -17610,15 +17611,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   Qiao Shi Meets President of U.S. Semiconductor Corporation </TI></H3>
-<F P=102>  OW0903132394 Beijing XINHUA in English 1247 GMT 9 Mar 94 </F>
-<F P=103> OW0903132394 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903132394 Beijing XINHUA in English 1247 GMT 9 Mar 94 </F>
+<F P="103"> OW0903132394 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Qiao Shi, chairman of 
@@ -17663,15 +17664,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Qian Qichen Meets Japanese Prime Minister's Economic Aide </TI></H3>
-<F P=102>  OW0903131994 Beijing XINHUA in English 1245 GMT 9 Mar 94 </F>
-<F P=103> OW0903131994 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903131994 Beijing XINHUA in English 1245 GMT 9 Mar 94 </F>
+<F P="103"> OW0903131994 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Chinese Vice Premier 
@@ -17708,15 +17709,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Book `My Father Deng Xiaoping' Published in Japan </TI></H3>
-<F P=102>  OW0903173894 Beijing XINHUA in English 1651 GMT 9 Mar 94 </F>
-<F P=103> OW0903173894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903173894 Beijing XINHUA in English 1651 GMT 9 Mar 94 </F>
+<F P="103"> OW0903173894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, March 9 (XINHUA) -- Japanese edition of "My 
@@ -17743,20 +17744,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Decisions of DPRK Agriculture Meeting Noted </TI></H3>
-<F P=102>  SK0903144794 Beijing China Radio International in Korean 
+<F P="102">  SK0903144794 Beijing China Radio International in Korean 
 1100 GMT 9 Mar 94 </F>
 
-<F P=103> SK0903144794 </F>
-<F P=104>  Beijing China Radio International </F>
+<F P="103"> SK0903144794 </F>
+<F P="104">  Beijing China Radio International </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed talk: "Korea Is Exerting Great Efforts To </F>
+<F P="106"> [Unattributed talk: "Korea Is Exerting Great Efforts To </F>
 Develop Its Agriculture"] 
   [Text] Korea [choson] gives priority to agricultural 
 development over any other activity, and agriculture is an issue 
@@ -17828,15 +17829,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Qiao Shi Meets ROK National Assembly Delegation </TI></H3>
-<F P=102>  OW0903132594 Beijing XINHUA in English 1249 GMT 9 Mar 94 </F>
-<F P=103> OW0903132594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903132594 Beijing XINHUA in English 1249 GMT 9 Mar 94 </F>
+<F P="103"> OW0903132594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Qiao Shi, chairman of 
@@ -17887,15 +17888,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Sino-Korean Venture To Build International Park in Beijing </TI></H3>
-<F P=102>  OW0703101594 Beijing XINHUA in English 0917 GMT 7 Mar 94 </F>
-<F P=103> OW0703101594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0703101594 Beijing XINHUA in English 0917 GMT 7 Mar 94 </F>
+<F P="103"> OW0703101594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 7 (XINHUA) -- The Beijing Asia 
@@ -17940,15 +17941,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Near East &amp; South Asia </F>
+<F P="100"> Near East  amp; South Asia </F>
 <H3> <TI>   Rong Yiren, Moroccan Minister Meet in Beijing </TI></H3>
-<F P=102>  OW0903093994 Beijing XINHUA in English 0732 GMT 9 Mar 94 </F>
-<F P=103> OW0903093994 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903093994 Beijing XINHUA in English 0732 GMT 9 Mar 94 </F>
+<F P="103"> OW0903093994 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Chinese Vice-President 
@@ -17995,15 +17996,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Near East &amp; South Asia </F>
+<F P="100"> Near East  amp; South Asia </F>
 <H3> <TI>   Qian Qichen Meets Minister </TI></H3>
-<F P=102>  OW0903132494 Beijing XINHUA in English 1247 GMT 9 Mar 94 </F>
-<F P=103> OW0903132494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903132494 Beijing XINHUA in English 1247 GMT 9 Mar 94 </F>
+<F P="103"> OW0903132494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Chinese Vice Premier 
@@ -18039,15 +18040,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Near East &amp; South Asia </F>
+<F P="100"> Near East  amp; South Asia </F>
 <H3> <TI>   XINHUA Cites Indian Leader on Border Conflict </TI></H3>
-<F P=102>  OW0803160994 Beijing XINHUA in English 1521 GMT 8 Mar 94 </F>
-<F P=103> OW0803160994 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803160994 Beijing XINHUA in English 1521 GMT 8 Mar 94 </F>
+<F P="103"> OW0803160994 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] New Delhi, March 8 (XINHUA) -- Indian Prime 
@@ -18081,15 +18082,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Near East &amp; South Asia </F>
+<F P="100"> Near East  amp; South Asia </F>
 <H3> <TI>   Envoy Says Sino-Indian Trade To Reach 1 Billion Dollars </TI></H3>
-<F P=102>  OW0903054594 Beijing XINHUA in English 0535 GMT 9 Mar 94 </F>
-<F P=103> OW0903054594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903054594 Beijing XINHUA in English 0535 GMT 9 Mar 94 </F>
+<F P="103"> OW0903054594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] New Delhi, March 9 (XINHUA) -- Bilateral trade 
@@ -18126,18 +18127,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   `Roundup' Views Talks on Admitting New EU Members </TI></H3>
-<F P=102>  OW1003050894 Beijing XINHUA in English 0439 GMT 10 Mar 94 </F>
-<F P=103> OW1003050894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW1003050894 Beijing XINHUA in English 0439 GMT 10 Mar 94 </F>
+<F P="103"> OW1003050894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Roundup": "EU Reform Meets New Problems as Broader Talks </F>
+<F P="106"> ["Roundup": "EU Reform Meets New Problems as Broader Talks </F>
 Go"] 
   [Text] Brussels, March 9 (XINHUA) -- Negotiations on 
 admitting new members to an enlarged European Union (EU) 
@@ -18225,18 +18226,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Netherlands Foreign Minister Meets Li Peng, Qian Qichen </TI></H3>
-<F P=102>  BR0903124294 Amsterdam DE VOLKSKRANT in Dutch 9 Mar 94 p 4 </F>
-<F P=103> BR0903124294 </F>
-<F P=104>  Amsterdam DE VOLKSKRANT </F>
+<F P="102">  BR0903124294 Amsterdam DE VOLKSKRANT in Dutch 9 Mar 94 p 4 </F>
+<F P="103"> BR0903124294 </F>
+<F P="104">  Amsterdam DE VOLKSKRANT </F>
 
 
 <TEXT>
-Language: <F P=105> Dutch </F>
+Language: <F P="105"> Dutch </F>
 Article Type:BFN 
 
-<F P=106> [Article by Caroline Straathof: "Kooijmans Asks China For </F>
+<F P="106"> [Article by Caroline Straathof: "Kooijmans Asks China For </F>
 Dialogue"] 
   [Text] Beijing -- Netherlands Foreign Minister Kooijmans 
 talked with Chinese leaders on Tuesday about the need for a 
@@ -18316,15 +18317,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Sino-Spanish Loan Accord Signed in Madrid </TI></H3>
-<F P=102>  OW1003061894 Beijing XINHUA in English 0610 GMT 10 Mar 94 </F>
-<F P=103> OW1003061894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW1003061894 Beijing XINHUA in English 0610 GMT 10 Mar 94 </F>
+<F P="103"> OW1003061894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Madrid, March 9 (XINHUA) -- The Bank of China and 
@@ -18353,13 +18354,13 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Second Session of Eighth NPC </TI></H3>
 <H4>   Beijing Television Broadcasts Opening </H4>
-<F P=102> OW1003075294 </F>
-<F P=103> OW1003075294 </F>
-<F P=104></F>
+<F P="102"> OW1003075294 </F>
+<F P="103"> OW1003075294 </F>
+<F P="104"></F>
 
 
 
@@ -18457,24 +18458,24 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reportage on Second Session of Eighth NPC </TI></H3>
 <H4>   Li Peng Government Work Report </H4>
-<F P=102> OW1003023694 Beijing Central Television Program One Network 
+<F P="102"> OW1003023694 Beijing Central Television Program One Network 
 in Mandarin 0105 GMT 10 Mar 94 </F>
 
-<F P=103> OW1003023694 </F>
-<F P=104>  Beijing Central Television Program One Network 
+<F P="103"> OW1003023694 </F>
+<F P="104">  Beijing Central Television Program One Network 
 in Mandarin 0105 GMT 10 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Mandarin </F>
+Language: <F P="105">Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [Text of Government Work Report Delivered by Chinese Premier </F>
+<F P="106"> [Text of Government Work Report Delivered by Chinese Premier </F>
 Li Peng at the Opening of the Second Session of the Eighth 
 National People's Congress at the Great Hall of the People in 
 Beijing on 10 March 1994 -- live] 
@@ -19825,17 +19826,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Reviews 1993 Achievements </H4>
-<F P=102> OW1003012794 Beijing XINHUA in English 0118 GMT 10 Mar 94 </F>
-<F P=103> OW1003012794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003012794 Beijing XINHUA in English 0118 GMT 10 Mar 94 </F>
+<F P="103"> OW1003012794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- China enjoyed economic 
@@ -19937,17 +19938,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Discusses Reform, Development, Stability </H4>
-<F P=102> OW1003013294 Beijing XINHUA in English 0123 GMT 10 Mar 94 </F>
-<F P=103> OW1003013294 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003013294 Beijing XINHUA in English 0123 GMT 10 Mar 94 </F>
+<F P="103"> OW1003013294 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Chinese Premier Li 
@@ -19992,17 +19993,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Principles for Economic Work </H4>
-<F P=102> OW1003013794 Beijing XINHUA in English 0131 GMT 10 Mar 94 </F>
-<F P=103> OW1003013794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003013794 Beijing XINHUA in English 0131 GMT 10 Mar 94 </F>
+<F P="103"> OW1003013794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- The Chinese Government 
@@ -20038,17 +20039,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Progress in Economic Restructuring </H4>
-<F P=102> OW1003015094 Beijing XINHUA in English 0141 GMT 10 Mar 94 </F>
-<F P=103> OW1003015094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003015094 Beijing XINHUA in English 0141 GMT 10 Mar 94 </F>
+<F P="103"> OW1003015094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- China will try to 
@@ -20156,17 +20157,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Discusses Science, Education, Culture </H4>
-<F P=102> OW1003015594 Beijing XINHUA in English 0146 GMT 10 Mar 94 </F>
-<F P=103> OW1003015594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003015594 Beijing XINHUA in English 0146 GMT 10 Mar 94 </F>
+<F P="103"> OW1003015594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Chinese Premier Li 
@@ -20249,17 +20250,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Discusses Peaceful Reunification </H4>
-<F P=102> OW1003020494 Beijing XINHUA in English 0151 GMT 10 Mar 94 </F>
-<F P=103> OW1003020494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003020494 Beijing XINHUA in English 0151 GMT 10 Mar 94 </F>
+<F P="103"> OW1003020494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- No matter what 
@@ -20329,17 +20330,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Figures, Facts Released </H4>
-<F P=102> OW1003024994 Beijing XINHUA in English 0241 GMT 10 Mar 94 </F>
-<F P=103> OW1003024994 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003024994 Beijing XINHUA in English 0241 GMT 10 Mar 94 </F>
+<F P="103"> OW1003024994 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Following are major 
@@ -20458,17 +20459,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Discusses Diplomacy, Human Rights </H4>
-<F P=102> OW1003025494 Beijing XINHUA in English 0234 GMT 10 Mar 94 </F>
-<F P=103> OW1003025494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003025494 Beijing XINHUA in English 0234 GMT 10 Mar 94 </F>
+<F P="103"> OW1003025494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Chinese Premier Li 
@@ -20593,17 +20594,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Discusses UN Human Rights Commission Vote </H4>
-<F P=102> OW1003031894 Beijing XINHUA in English 0306 GMT 10 Mar 94 </F>
-<F P=103> OW1003031894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003031894 Beijing XINHUA in English 0306 GMT 10 Mar 94 </F>
+<F P="103"> OW1003031894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Delivering his 
@@ -20649,17 +20650,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Summarizes Report </H4>
-<F P=102> OW1003032094 Beijing XINHUA in English 0304 GMT 10 Mar 94 </F>
-<F P=103> OW1003032094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003032094 Beijing XINHUA in English 0304 GMT 10 Mar 94 </F>
+<F P="103"> OW1003032094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Chinese Premier Li 
@@ -20782,17 +20783,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Runs Highlights of Li Peng Report </TI></H3>
 <H4>   Spells Out Principles for Economic Work </H4>
-<F P=102> OW1003034894 Beijing XINHUA in English 0335 GMT 10 Mar 94 </F>
-<F P=103> OW1003034894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102"> OW1003034894 Beijing XINHUA in English 0335 GMT 10 Mar 94 </F>
+<F P="103"> OW1003034894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- The Chinese Government 
@@ -20910,16 +20911,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Top Leaders Speak in Lounge Prior to Opening of NPC Session </TI></H3>
-<F P=102>  OW1003144294 Beijing XINHUA in English 1430 GMT 10 Mar 94 </F>
-<F P=103> OW1003144294 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW1003144294 Beijing XINHUA in English 1430 GMT 10 Mar 94 </F>
+<F P="103"> OW1003144294 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Qiao Shi, chairman of 
@@ -20992,21 +20993,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Spokesman Briefs Press on NPC Session </TI></H3>
-<F P=102>  OW0903140094 Beijing XINHUA Domestic Service in Chinese 1220 
+<F P="102">  OW0903140094 Beijing XINHUA Domestic Service in Chinese 1220 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903140094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903140094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By correspondents Li Anding (2621 1344 1353) and Wu Ming </F>
+<F P="106"> [By correspondents Li Anding (2621 1344 1353) and Wu Ming </F>
 (0702 2494)] 
   [Text] Beijing, 9 Mar (XINHUA) -- Zhou Jue, spokesman for 
 the Second Session of the Eighth National People's Congress 
@@ -21164,18 +21165,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Deng Xiaoping Appears on Namelist of NPC Presidium </TI></H3>
-<F P=102>  OW0903134094 Beijing XINHUA Domestic Service in Chinese 1302 
+<F P="102">  OW0903134094 Beijing XINHUA Domestic Service in Chinese 1302 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903134094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903134094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
   [Text] Beijing, 9 Mar (XINHUA) -- Namelist of the 
@@ -21245,21 +21246,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   RENMIN RIBAO Hails Opening of NPC Session </TI></H3>
-<F P=102>  OW0903143294 Beijing XINHUA Domestic Service in Chinese 1027 
+<F P="102">  OW0903143294 Beijing XINHUA Domestic Service in Chinese 1027 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW0903143294 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903143294 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [RENMIN RIBAO 10 March editorial: "Discussing Matters of </F>
+<F P="106"> [RENMIN RIBAO 10 March editorial: "Discussing Matters of </F>
 Vital Importance With National Interests in Mind--Congratulating 
 the Opening of the Second Plenary Session of the Eighth National 
 People's Congress"] 
@@ -21389,16 +21390,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Leading Beijing Newspapers Hail NPC Session </TI></H3>
-<F P=102>  OW1003032894 Beijing XINHUA in English 0313 GMT 10 Mar 94 </F>
-<F P=103> OW1003032894 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW1003032894 Beijing XINHUA in English 0313 GMT 10 Mar 94 </F>
+<F P="103"> OW1003032894 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Leading newspapers in 
@@ -21458,21 +21459,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Ruihuan Attends Banquet for Hong Kong NPC Deputies </TI></H3>
-<F P=102>  OW1003080494 Beijing XINHUA Domestic Service in Chinese 1337 
+<F P="102">  OW1003080494 Beijing XINHUA Domestic Service in Chinese 1337 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW1003080494 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW1003080494 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Sun Yong (1327 0516)] </F>
+<F P="106"> [By reporter Sun Yong (1327 0516)] </F>
   [Text] Beijing, 9 Mar (XINHUA) -- The National Committee 
 of the Chinese People's Political Consultative Conference 
 [CPPCC] and the United Front Work Department of the CPC Central 
@@ -21528,21 +21529,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Tian Jiyun Visits NPC Deputies from Guizhou, Jiangxi </TI></H3>
-<F P=102>  OW1003081994 Beijing XINHUA Domestic Service in Chinese 1411 
+<F P="102">  OW1003081994 Beijing XINHUA Domestic Service in Chinese 1411 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW1003081994 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW1003081994 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporter Xu Zhaorong (1776 0340 2637) and Shen Hongbin </F>
+<F P="106"> [By reporter Xu Zhaorong (1776 0340 2637) and Shen Hongbin </F>
 (3088 5725 0393)] 
   [Text] Beijing, 9 Mar (XINHUA) -- Tian Jiyun, vice 
 chairman of the Standing Committee of the National People's 
@@ -21601,21 +21602,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   NPC Delegates From Hong Kong Stress Smooth Transition </TI></H3>
-<F P=102>  OW1003084994 Beijing XINHUA Domestic Service in Chinese 1406 
+<F P="102">  OW1003084994 Beijing XINHUA Domestic Service in Chinese 1406 
 GMT 9 Mar 94 </F>
 
-<F P=103> OW1003084994 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW1003084994 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By reporters Li Nanling 2621 0589 3781 and Zhang Yijun 1728 </F>
+<F P="106"> [By reporters Li Nanling 2621 0589 3781 and Zhang Yijun 1728 </F>
 4135 0193] 
   [Text] When interviewed by reporters, delegates from Hong 
 Kong attending the Second Session of the Eighth National 
@@ -21687,21 +21688,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Minority People's NPC Deputies Meet in Beijing </TI></H3>
-<F P=102>  OW0903064894 Beijing XINHUA Domestic Service in Chinese 1256 
+<F P="102">  OW0903064894 Beijing XINHUA Domestic Service in Chinese 1256 
 GMT 8 Mar 94 </F>
 
-<F P=103> OW0903064894 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
+<F P="103"> OW0903064894 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> ["Feature" by correspondent Lou Wanghao (2869 2598 4110) and </F>
+<F P="106"> ["Feature" by correspondent Lou Wanghao (2869 2598 4110) and </F>
 reporter Zheng Qingdong (6774 1987 2639): "Jiakexi! (Good) 
 Yakudu! (Good) -- An Account of a Midnight Meeting Among 
 Minority People's Deputies"] 
@@ -21793,16 +21794,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Reform, Development Attract Attention of NPC Deputies </TI></H3>
-<F P=102>  OW1003094094 Beijing XINHUA in English 0907 GMT 10 Mar 94 </F>
-<F P=103> OW1003094094 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW1003094094 Beijing XINHUA in English 0907 GMT 10 Mar 94 </F>
+<F P="103"> OW1003094094 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 10 (XINHUA) -- Economic development 
@@ -21880,21 +21881,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Xie Fei Interviewed on Guangdong's Plans </TI></H3>
-<F P=102>  OW1003120694 Beijing Central People's Radio Network in 
+<F P="102">  OW1003120694 Beijing Central People's Radio Network in 
 Mandarin 2300 GMT 9 Mar 94 </F>
 
-<F P=103> OW1003120694 </F>
-<F P=104>  Beijing Central People's Radio Network </F>
+<F P="103"> OW1003120694 </F>
+<F P="104">  Beijing Central People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [From the "Special Program on the NPC and CPPCC Sessions"] </F>
+<F P="106"> [From the "Special Program on the NPC and CPPCC Sessions"] </F>
   [Text] As a frontier province in China's reform and 
 opening up, Guangdong has achieved remarkable progress over the 
 past 15 years. However, as the Central Committee's policy of 
@@ -21954,23 +21955,23 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Spokesman Holds News Briefing Before Second Session </TI></H3>
-<F P=102>  OW1003135394 Beijing Central Television Program One Network 
+<F P="102">  OW1003135394 Beijing Central Television Program One Network 
 in Mandarin 1135 GMT 9 Mar 94 </F>
 
-<F P=103> OW1003135394 </F>
-<F P=104>  Beijing Central Television Program One Network 
+<F P="103"> OW1003135394 </F>
+<F P="104">  Beijing Central Television Program One Network 
 in Mandarin 1135 GMT 9 Mar 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Mandarin </F>
+Language: <F P="105">Mandarin </F>
 Article Type:BFN 
 
-<F P=106> [News briefing by Zhou Jue, spokesman for the Second Session </F>
+<F P="106"> [News briefing by Zhou Jue, spokesman for the Second Session </F>
 of the Eighth National People's Congress, with foreign and 
 domestic correspondents at the Great Hall of the People on 9 
 March; moderator identified by indistinct caption -- recorded] 
@@ -22188,18 +22189,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Beijing's Chen Xitong, Li Qiyan Visit Former Mayor </TI></H3>
-<F P=102>  SK0403065994 Beijing BEIJING RIBAO in Chinese 11 Feb 94 p 1 </F>
-<F P=103> SK0403065994 </F>
-<F P=104>  Beijing BEIJING RIBAO </F>
+<F P="102">  SK0403065994 Beijing BEIJING RIBAO in Chinese 11 Feb 94 p 1 </F>
+<F P="103"> SK0403065994 </F>
+<F P="104">  Beijing BEIJING RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:BFN 
 
-<F P=106> [By Yan Liqiang (0917 0500 1730): "Comrade Peng Zhen Wishes </F>
+<F P="106"> [By Yan Liqiang (0917 0500 1730): "Comrade Peng Zhen Wishes </F>
 Beijing People A Happy New Year"] 
   [Text] Chen Xitong, secretary of the municipal party 
 committee, and Li Qiyan, mayor of Beijing, visited Comrade Peng 
@@ -22292,15 +22293,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Beijing To Build More Dwellings Over 4 Years </TI></H3>
-<F P=102>  OW0903073194 Beijing XINHUA in English 0639 GMT 9 Mar 94 </F>
-<F P=103> OW0903073194 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0903073194 Beijing XINHUA in English 0639 GMT 9 Mar 94 </F>
+<F P="103"> OW0903073194 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing, March 9 (XINHUA) -- Beijing will construct 
@@ -22343,15 +22344,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Shaanxi Sets Up Share-Holding Company To Build Expressway </TI></H3>
-<F P=102>  OW1003114494 Beijing XINHUA in English 1119 GMT 10 Mar 94 </F>
-<F P=103> OW1003114494 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW1003114494 Beijing XINHUA in English 1119 GMT 10 Mar 94 </F>
+<F P="103"> OW1003114494 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Xian, March 10 (XINHUA) -- Shaanxi provincial 
@@ -22389,17 +22390,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin Secretary Discusses Tree-Planting Efforts </TI></H3>
-<F P=102>  SK0803064594 Tianjin People's Radio in Mandarin 2300 GMT 7 
+<F P="102">  SK0803064594 Tianjin People's Radio in Mandarin 2300 GMT 7 
 Mar 94 </F>
 
-<F P=103> SK0803064594 </F>
-<F P=104>  Tianjin People's Radio </F>
+<F P="103"> SK0803064594 </F>
+<F P="104">  Tianjin People's Radio </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
   [Text] On the afternoon of 7 March, the municipal party 
@@ -22472,15 +22473,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin Mayor Views Development of Seaside Zone </TI></H3>
-<F P=102>  OW0603143794 Beijing XINHUA in English 1359 GMT 6 Mar 94 </F>
-<F P=103> OW0603143794 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0603143794 Beijing XINHUA in English 1359 GMT 6 Mar 94 </F>
+<F P="103"> OW0603143794 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tianjin, March 6 (XINHUA) -- North China's port city 
@@ -22537,15 +22538,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin Releases Report on Economic Growth in 1993 </TI></H3>
-<F P=102>  OW0803142594 Beijing XINHUA in English 1241 GMT 8 Mar 94 </F>
-<F P=103> OW0803142594 </F>
-<F P=104>  Beijing XINHUA </F>
+<F P="102">  OW0803142594 Beijing XINHUA in English 1241 GMT 8 Mar 94 </F>
+<F P="103"> OW0803142594 </F>
+<F P="104">  Beijing XINHUA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tianjin, March 8 (XINHUA) -- The Planning Committee 
@@ -22598,17 +22599,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Region </F>
+<F P="100"> Northeast Region </F>
 <H3> <TI>   Heilongjiang Secretary on Leaders' Thinking, Work Style </TI></H3>
-<F P=102>  SK0103145394 Harbin Heilongjiang People's Radio Network in 
+<F P="102">  SK0103145394 Harbin Heilongjiang People's Radio Network in 
 Mandarin 1000 GMT 28 Feb 94 </F>
 
-<F P=103> SK0103145394 </F>
-<F P=104>  Harbin Heilongjiang People's Radio Network </F>
+<F P="103"> SK0103145394 </F>
+<F P="104">  Harbin Heilongjiang People's Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Mandarin </F>
+Language: <F P="105"> Mandarin </F>
 Article Type:BFN 
 
   [Text] The provincial meeting of leading bodies to exchange 
@@ -22678,3 +22679,4 @@ administrative honesty, foster a good image, work solidly, and
 </TEXT>
 
 </DOC>
+</root>

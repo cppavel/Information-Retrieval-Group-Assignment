@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS4-1444 </DOCNO>
@@ -11,17 +12,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SOUTHERN AFRICA </F>
-<F P=101> Angola </F>
+<F P="100"> SOUTHERN AFRICA </F>
+<F P="101"> Angola </F>
 <H3> <TI>   Food Aid Aircraft Crashes at M'banza Congo </TI></H3>
-<HT><F P=107><PHRASE>    Food Aid Aircraft Crashes at M'banza Congo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Food Aid Aircraft Crashes at M'banza Congo </PHRASE></F></HT>
 
-<F P=102>   MB2804125294 Jamba Voz da Resistencia do Galo Negro in 
+<F P="102">   MB2804125294 Jamba Voz da Resistencia do Galo Negro in 
 Portuguese 1200 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804125294 </F>
-<F P=104>  Jamba Voz da Resistencia do Galo Negro </F>
-<F P=105>  Portuguese </F>
+<F P="103"> MB2804125294 </F>
+<F P="104">  Jamba Voz da Resistencia do Galo Negro </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
@@ -66,23 +67,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Rwanda </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Rwanda </F>
 <H3> <TI>   Minister Delivers Message to African Countries </TI></H3>
-<HT><F P=107><PHRASE>    Minister Delivers Message to African Countries </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Minister Delivers Message to African Countries </PHRASE></F></HT>
 
-<F P=102>   AB2704153094 Libreville Africa No. 1 in French 1215 GMT 27 
+<F P="102">   AB2704153094 Libreville Africa No. 1 in French 1215 GMT 27 
 Apr 94 </F>
 
-<F P=103> AB2704153094 </F>
-<F P=104>  Libreville Africa No. 1 </F>
-<F P=105>  French </F>
+<F P="103"> AB2704153094 </F>
+<F P="104">  Libreville Africa No. 1 </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Plan and Economy Minister Augustin </F>
+<F P="106"> [Interview with Plan and Economy Minister Augustin </F>
 Ngirabatware by Eugene Lambene in Libreville on 27 April -- 
 recorded] 
   [Text] [Ngirabatware] I brought a message from the 
@@ -173,13 +174,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Coverage of National, Provincial Elections </TI></H3>
-<HT><F P=107><PHRASE>    Coverage of National, Provincial Elections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Coverage of National, Provincial Elections </PHRASE></F></HT>
 
-<F P=102>   WA2604120594 </F>
-<F P=103> WA2604120594 </F>
-<F P=104></F>
+<F P="102">   WA2604120594 </F>
+<F P="103"> WA2604120594 </F>
+<F P="104"></F>
 
 
 
@@ -206,20 +207,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   IEC Decides To Extend Voting in KwaZulu to 29 Apr </TI></H3>
-<HT><F P=107><PHRASE>    IEC Decides To Extend Voting in KwaZulu to 29 Apr </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IEC Decides To Extend Voting in KwaZulu to 29 Apr </PHRASE></F></HT>
 
-<F P=102>   MB2804053194 Johannesburg SAPA in English 0108 GMT 28 Apr 94 </F>
-<F P=103> MB2804053194 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2804053194 Johannesburg SAPA in English 0108 GMT 28 Apr 94 </F>
+<F P="103"> MB2804053194 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by L. Elias] </F>
+<F P="106"> [Report by L. Elias] </F>
   [Text] Johannesburg April 28 SAPA -- Voting in 
 KwaZulu/Natal has been extended to midnight on Friday, the 
 Independent Electoral Commission [IEC] said early on Thursday. 
@@ -384,20 +385,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   No Extensions for Other Areas </TI></H3>
-<HT><F P=107><PHRASE>    No Extensions for Other Areas </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    No Extensions for Other Areas </PHRASE></F></HT>
 
-<F P=102>   MB2804105994 Johannesburg SAPA in English 1043 GMT 28 Apr 94 </F>
-<F P=103> MB2804105994 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2804105994 Johannesburg SAPA in English 1043 GMT 28 Apr 94 </F>
+<F P="103"> MB2804105994 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Pierre Claasen] </F>
+<F P="106"> [Report by Pierre Claasen] </F>
   [Text] Johannesburg April 28 SAPA -- The Independent 
 Electoral Commission [IEC] has decided not to extend South 
 Africa's first democratic election beyond Thursday. This was 
@@ -430,22 +431,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   IEC Chairman Comments </TI></H3>
-<HT><F P=107><PHRASE>    IEC Chairman Comments </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IEC Chairman Comments </PHRASE></F></HT>
 
-<F P=102>   MB2804145194 Johannesburg SABC TV 1 Network in English 1345 
+<F P="102">   MB2804145194 Johannesburg SABC TV 1 Network in English 1345 
 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804145194 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2804145194 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [News conference by IEC Chairman Johann Kriegler in </F>
+<F P="106"> [News conference by IEC Chairman Johann Kriegler in </F>
 Johannesburg with correspondents at IEC headquarters at the 
 Gallagher Estate, Midrand; conference moderated by the IEC's 
 Pieter Cronje--live, broadcast in progress] 
@@ -599,20 +600,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Police To Investigate IEC Ballot Distribution System </TI></H3>
-<HT><F P=107><PHRASE>    Police To Investigate IEC Ballot Distribution System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police To Investigate IEC Ballot Distribution System </PHRASE></F></HT>
 
-<F P=102>   MB2704145494 Johannesburg SAPA in English 1423 GMT 27 Apr 94 </F>
-<F P=103> MB2704145494 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2704145494 Johannesburg SAPA in English 1423 GMT 27 Apr 94 </F>
+<F P="103"> MB2704145494 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by M. Merton] </F>
+<F P="106"> [Report by M. Merton] </F>
   [Text] Johannesburg April 27 SAPA -- The South African 
 Police [SAP] are to investigate the Independent Electoral 
 Commission's [IEC] ballot paper distribution system to see if it 
@@ -679,15 +680,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Burundi </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Burundi </F>
 <H3> <TI>   Factional Fighting Reported </TI></H3>
-<HT><F P=107><PHRASE>    Factional Fighting Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Factional Fighting Reported </PHRASE></F></HT>
 
-<F P=102>   AB2904095194 Paris AFP in English 0933 GMT 29 Apr 94 </F>
-<F P=103> AB2904095194 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AB2904095194 Paris AFP in English 0933 GMT 29 Apr 94 </F>
+<F P="103"> AB2904095194 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -735,15 +736,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Gabon </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Gabon </F>
 <H3> <TI>   Cabinet Reshuffle Follows Ministers' Resignations </TI></H3>
-<HT><F P=107><PHRASE>    Cabinet Reshuffle Follows Ministers' Resignations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cabinet Reshuffle Follows Ministers' Resignations </PHRASE></F></HT>
 
-<F P=102>   AB2804130194 Dakar PANA in French 1024 GMT 28 Apr 94 </F>
-<F P=103> AB2804130194 </F>
-<F P=104>  Dakar PANA </F>
-<F P=105>  French </F>
+<F P="102">   AB2804130194 Dakar PANA in French 1024 GMT 28 Apr 94 </F>
+<F P="103"> AB2804130194 </F>
+<F P="104">  Dakar PANA </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -788,21 +789,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Rwanda </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Rwanda </F>
 <H3> <TI>   Fighting Continues; Cholera Epidemic Threatens Kigali </TI></H3>
-<HT><F P=107><PHRASE>    Fighting Continues; Cholera Epidemic Threatens Kigali </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Fighting Continues; Cholera Epidemic Threatens Kigali </PHRASE></F></HT>
 
-<F P=102>   AB2804183894 Paris AFP in English 1804 GMT 28 Apr 94 </F>
-<F P=103> AB2804183894 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AB2804183894 Paris AFP in English 1804 GMT 28 Apr 94 </F>
+<F P="103"> AB2804183894 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Annie Thomas] </F>
+<F P="106"> [By Annie Thomas] </F>
   [Excerpts] Nairobi, April 28 (AFP) -- Fighting raged in 
 Rwanda on Thursday [28 April] as a cholera epidemic threatened 
 the central African nation swamped in ethnic bloodletting and 
@@ -872,15 +873,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Rwanda </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Rwanda </F>
 <H3> <TI>   Rebel Positions Shelled </TI></H3>
-<HT><F P=107><PHRASE>    Rebel Positions Shelled </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rebel Positions Shelled </PHRASE></F></HT>
 
-<F P=102>   AB2904092594 Paris AFP in English 0808 GMT 29 Apr 94 </F>
-<F P=103> AB2904092594 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AB2904092594 Paris AFP in English 0808 GMT 29 Apr 94 </F>
+<F P="103"> AB2904092594 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -934,23 +935,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Rwanda </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Rwanda </F>
 <H3> <TI>   Red Cross Comments on Situation </TI></H3>
-<HT><F P=107><PHRASE>    Red Cross Comments on Situation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Red Cross Comments on Situation </PHRASE></F></HT>
 
-<F P=102>   LD2804171794 Bern Swiss Radio International in English 1500 
+<F P="102">   LD2804171794 Bern Swiss Radio International in English 1500 
 GMT 28 Apr 94 </F>
 
-<F P=103> LD2804171794 </F>
-<F P=104>  Bern Swiss Radio International </F>
-<F P=105>  English </F>
+<F P="103"> LD2804171794 </F>
+<F P="104">  Bern Swiss Radio International </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Chris Lewis] </F>
+<F P="106"> [Report by Chris Lewis] </F>
   [Excerpts] You're listening to Swiss Radio International. 
 This is Red Cross Review. [passage omitted]. We begin this 
 month's program with Rwanda where the death of President Juvenal 
@@ -999,17 +1000,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Zaire </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Zaire </F>
 <H3> <TI>   USOR Members Disrupt Plenary Session </TI></H3>
-<HT><F P=107><PHRASE>    USOR Members Disrupt Plenary Session </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    USOR Members Disrupt Plenary Session </PHRASE></F></HT>
 
-<F P=102>   AB2804220594 Kinshasa Tele-Zaire Television Network in 
+<F P="102">   AB2804220594 Kinshasa Tele-Zaire Television Network in 
 French 1910 GMT 28 Apr 94 </F>
 
-<F P=103> AB2804220594 </F>
-<F P=104>  Kinshasa Tele-Zaire Television Network </F>
-<F P=105>  French </F>
+<F P="103"> AB2804220594 </F>
+<F P="104">  Kinshasa Tele-Zaire Television Network </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -1051,17 +1052,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Zaire </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Zaire </F>
 <H3> <TI>   Military Cooperation With China Resumes </TI></H3>
-<HT><F P=107><PHRASE>    Military Cooperation With China Resumes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Military Cooperation With China Resumes </PHRASE></F></HT>
 
-<F P=102>   AB2804142194 Kinshasa Tele-Zaire Television Network in 
+<F P="102">   AB2804142194 Kinshasa Tele-Zaire Television Network in 
 French 1230 GMT 28 Apr 94 </F>
 
-<F P=103> AB2804142194 </F>
-<F P=104>  Kinshasa Tele-Zaire Television Network </F>
-<F P=105>  French </F>
+<F P="103"> AB2804142194 </F>
+<F P="104">  Kinshasa Tele-Zaire Television Network </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -1091,18 +1092,18 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SOUTHERN AFRICA </F>
-<F P=101> Angola </F>
+<F P="100"> SOUTHERN AFRICA </F>
+<F P="101"> Angola </F>
 <H3> <TI>   Government, UNITA Talks Continue in Lusaka </TI></H3>
-<HT><F P=107><PHRASE>    Government, UNITA Talks Continue in Lusaka </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government, UNITA Talks Continue in Lusaka </PHRASE></F></HT>
 <H4>    Mediator Not Present </H4>
 
-<F P=102> MB2804210094 Luanda TPA Television Network in Portuguese 
+<F P="102"> MB2804210094 Luanda TPA Television Network in Portuguese 
 1930 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804210094 </F>
-<F P=104>  Luanda TPA Television Network </F>
-<F P=105>  Portuguese </F>
+<F P="103"> MB2804210094 </F>
+<F P="104">  Luanda TPA Television Network </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
@@ -1138,18 +1139,18 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SOUTHERN AFRICA </F>
-<F P=101> Angola </F>
+<F P="100"> SOUTHERN AFRICA </F>
+<F P="101"> Angola </F>
 <H3> <TI>   Government, UNITA Talks Continue in Lusaka </TI></H3>
-<HT><F P=107><PHRASE>    Government, UNITA Talks Continue in Lusaka </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government, UNITA Talks Continue in Lusaka </PHRASE></F></HT>
 <H4>    Sides Agree To Review Electoral Law </H4>
 
-<F P=102> MB2904065294 Jamba Voz da Resistencia do Galo Negro in 
+<F P="102"> MB2904065294 Jamba Voz da Resistencia do Galo Negro in 
 Portuguese 0600 GMT 29 Apr 94 </F>
 
-<F P=103> MB2904065294 </F>
-<F P=104>  Jamba Voz da Resistencia do Galo Negro </F>
-<F P=105>  Portuguese </F>
+<F P="103"> MB2904065294 </F>
+<F P="104">  Jamba Voz da Resistencia do Galo Negro </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
@@ -1187,23 +1188,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SOUTHERN AFRICA </F>
-<F P=101> Mozambique </F>
+<F P="100"> SOUTHERN AFRICA </F>
+<F P="101"> Mozambique </F>
 <H3> <TI>   UN's Ajello `Very Happy' With Chissano Pronouncements </TI></H3>
-<HT><F P=107><PHRASE>    UN's Ajello `Very Happy' With Chissano Pronouncements </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UN's Ajello `Very Happy' With Chissano Pronouncements </PHRASE></F></HT>
 
-<F P=102>   MB2904122494 Maputo Radio Mozambique Network in Portuguese 
+<F P="102">   MB2904122494 Maputo Radio Mozambique Network in Portuguese 
 1030 GMT 29 Apr 94 </F>
 
-<F P=103> MB2904122494 </F>
-<F P=104>  Maputo Radio Mozambique Network </F>
-<F P=105>  Portuguese </F>
+<F P="103"> MB2904122494 </F>
+<F P="104">  Maputo Radio Mozambique Network </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Edmundo Galiza Matos] </F>
+<F P="106"> [Report by Edmundo Galiza Matos] </F>
   [Text] As usual, UN Special Representative Dr. Aldo Ajello 
 granted his Friday news conference in Maputo today and he 
 announced that the Supervision and Control Commission [CSC] will 
@@ -1261,19 +1262,19 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Ghana </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Ghana </F>
 <H3> <TI>   Electoral Commission, Parties Discuss Voting Cards </TI></H3>
-<HT><F P=107><PHRASE>    Electoral Commission, Parties Discuss Voting Cards </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Electoral Commission, Parties Discuss Voting Cards </PHRASE></F></HT>
 
-<F P=102>   AB2904100094 Accra Ghana Broadcasting Corporation Radio 
+<F P="102">   AB2904100094 Accra Ghana Broadcasting Corporation Radio 
 Network in English 1800 GMT 28 Apr 94 </F>
 
-<F P=103> AB2904100094 </F>
-<F P=104>  Accra Ghana Broadcasting Corporation Radio 
+<F P="103"> AB2904100094 </F>
+<F P="104">  Accra Ghana Broadcasting Corporation Radio 
 Network </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1307,15 +1308,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Liberia </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Liberia </F>
 <H3> <TI>   NPFL Expresses Concern Over Confirmation Delays </TI></H3>
-<HT><F P=107><PHRASE>    NPFL Expresses Concern Over Confirmation Delays </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    NPFL Expresses Concern Over Confirmation Delays </PHRASE></F></HT>
 
-<F P=102>   AB2804171794 Gbarnga Radio ELRL in English 1400 GMT 28 Apr 94 </F>
-<F P=103> AB2804171794 </F>
-<F P=104>  Gbarnga Radio ELRL </F>
-<F P=105>  English </F>
+<F P="102">   AB2804171794 Gbarnga Radio ELRL in English 1400 GMT 28 Apr 94 </F>
+<F P="103"> AB2804171794 </F>
+<F P="104">  Gbarnga Radio ELRL </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1395,17 +1396,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Nigeria </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Nigeria </F>
 <H3> <TI>   Council of State Meets, Sets Up Election Task Force </TI></H3>
-<HT><F P=107><PHRASE>    Council of State Meets, Sets Up Election Task Force </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Council of State Meets, Sets Up Election Task Force </PHRASE></F></HT>
 
-<F P=102>   AB2904082094 Lagos Radio Nigeria Network in English 0600 GMT 
+<F P="102">   AB2904082094 Lagos Radio Nigeria Network in English 0600 GMT 
 29 Apr 94 </F>
 
-<F P=103> AB2904082094 </F>
-<F P=104>  Lagos Radio Nigeria Network </F>
-<F P=105>  English </F>
+<F P="103"> AB2904082094 </F>
+<F P="104">  Lagos Radio Nigeria Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1450,15 +1451,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Nigeria </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Nigeria </F>
 <H3> <TI>   CD Orders Government To Resolve Fuel Crisis </TI></H3>
-<HT><F P=107><PHRASE>    CD Orders Government To Resolve Fuel Crisis </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    CD Orders Government To Resolve Fuel Crisis </PHRASE></F></HT>
 
-<F P=102>   AB2804172194 Paris AFP in French 1959 GMT 27 Apr 94 </F>
-<F P=103> AB2804172194 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  French </F>
+<F P="102">   AB2804172194 Paris AFP in French 1959 GMT 27 Apr 94 </F>
+<F P="103"> AB2804172194 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -1503,17 +1504,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Nigeria </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Nigeria </F>
 <H3> <TI>   Government Summons Oil Company Officials on Diversion </TI></H3>
-<HT><F P=107><PHRASE>    Government Summons Oil Company Officials on Diversion </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Summons Oil Company Officials on Diversion </PHRASE></F></HT>
 
-<F P=102>   AB2804224894 Lagos NTA Television Network in English 2000 
+<F P="102">   AB2804224894 Lagos NTA Television Network in English 2000 
 GMT 28 Apr 94 </F>
 
-<F P=103> AB2804224894 </F>
-<F P=104>  Lagos NTA Television Network </F>
-<F P=105>  English </F>
+<F P="103"> AB2804224894 </F>
+<F P="104">  Lagos NTA Television Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1568,17 +1569,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Sierra Leone </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Sierra Leone </F>
 <H3> <TI>   Defense Official Says Rebels `Now in Disarray' </TI></H3>
-<HT><F P=107><PHRASE>    Defense Official Says Rebels `Now in Disarray' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Defense Official Says Rebels `Now in Disarray' </PHRASE></F></HT>
 
-<F P=102>   AB2804223494 Freetown SLBS Radio in English 2000 GMT 28 Apr 
+<F P="102">   AB2804223494 Freetown SLBS Radio in English 2000 GMT 28 Apr 
 94 </F>
 
-<F P=103> AB2804223494 </F>
-<F P=104>  Freetown SLBS Radio </F>
-<F P=105>  English </F>
+<F P="103"> AB2804223494 </F>
+<F P="104">  Freetown SLBS Radio </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1643,15 +1644,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Togo </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Togo </F>
 <H3> <TI>   Rwandan Emissary Meets With Eyadema, Comments </TI></H3>
-<HT><F P=107><PHRASE>    Rwandan Emissary Meets With Eyadema, Comments </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rwandan Emissary Meets With Eyadema, Comments </PHRASE></F></HT>
 
-<F P=102>   AB2804162494 Lome Radio Lome in French 1230 GMT 28 Apr 94 </F>
-<F P=103> AB2804162494 </F>
-<F P=104>  Lome Radio Lome </F>
-<F P=105>  French </F>
+<F P="102">   AB2804162494 Lome Radio Lome in French 1230 GMT 28 Apr 94 </F>
+<F P="103"> AB2804162494 </F>
+<F P="104">  Lome Radio Lome </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -1737,19 +1738,19 @@ Daily Report
 
 </HEADER>
 
-<F P=100> EAST AFRICA </F>
-<F P=101> Somalia </F>
+<F P="100"> EAST AFRICA </F>
+<F P="101"> Somalia </F>
 <H3> <TI>   Mogadishu Airport Security `Guaranteed' </TI></H3>
-<HT><F P=107><PHRASE>    Mogadishu Airport Security `Guaranteed' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Mogadishu Airport Security `Guaranteed' </PHRASE></F></HT>
 
-<F P=102>   EA2504200094 (Clandestine) Radio Mogadishu Voice of the 
+<F P="102">   EA2504200094 (Clandestine) Radio Mogadishu Voice of the 
 Great Somali People in Somali 1700 GMT 25 Apr 94 </F>
 
-<F P=103> EA2504200094 </F>
-<F P=104>  (Clandestine) Radio Mogadishu Voice of the 
+<F P="103"> EA2504200094 </F>
+<F P="104">  (Clandestine) Radio Mogadishu Voice of the 
 Great Somali People </F>
 
-<F P=105>  Somali </F>
+<F P="105">  Somali </F>
 
 
 <TEXT>
@@ -1787,17 +1788,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> EAST AFRICA </F>
-<F P=101> Somalia </F>
+<F P="100"> EAST AFRICA </F>
+<F P="101"> Somalia </F>
 <H3> <TI>   Armed Abductors Release Sudanese Ambassador </TI></H3>
-<HT><F P=107><PHRASE>    Armed Abductors Release Sudanese Ambassador </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Armed Abductors Release Sudanese Ambassador </PHRASE></F></HT>
 
-<F P=102>   EA2704172994 Omdurman Republic of Sudan Radio Network in 
+<F P="102">   EA2704172994 Omdurman Republic of Sudan Radio Network in 
 Arabic 1300 GMT 27 Apr 94 </F>
 
-<F P=103> EA2704172994 </F>
-<F P=104>  Omdurman Republic of Sudan Radio Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> EA2704172994 </F>
+<F P="104">  Omdurman Republic of Sudan Radio Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -1831,17 +1832,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> EAST AFRICA </F>
-<F P=101> Tanzania </F>
+<F P="100"> EAST AFRICA </F>
+<F P="101"> Tanzania </F>
 <H3> <TI>   Foreign Ministry Denies Rwandan Border Closure </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Ministry Denies Rwandan Border Closure </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Ministry Denies Rwandan Border Closure </PHRASE></F></HT>
 
-<F P=102>   EA2904111094 Dar es Salaam Radio Tanzania Network in Swahili 
+<F P="102">   EA2904111094 Dar es Salaam Radio Tanzania Network in Swahili 
 0700 GMT 29 Apr 94 </F>
 
-<F P=103> EA2904111094 </F>
-<F P=104>  Dar es Salaam Radio Tanzania Network </F>
-<F P=105>  Swahili </F>
+<F P="103"> EA2904111094 </F>
+<F P="104">  Dar es Salaam Radio Tanzania Network </F>
+<F P="105">  Swahili </F>
 
 
 <TEXT>
@@ -1879,17 +1880,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> EAST AFRICA </F>
-<F P=101> Tanzania </F>
+<F P="100"> EAST AFRICA </F>
+<F P="101"> Tanzania </F>
 <H3> <TI>   Rwandan Ministers Apologize for Not Attending Talks </TI></H3>
-<HT><F P=107><PHRASE>    Rwandan Ministers Apologize for Not Attending Talks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rwandan Ministers Apologize for Not Attending Talks </PHRASE></F></HT>
 
-<F P=102>   EA2804212494 Dar es Salaam Radio Tanzania Network in Swahili 
+<F P="102">   EA2804212494 Dar es Salaam Radio Tanzania Network in Swahili 
 1700 GMT 28 Apr 94 </F>
 
-<F P=103> EA2804212494 </F>
-<F P=104>  Dar es Salaam Radio Tanzania Network </F>
-<F P=105>  Swahili </F>
+<F P="103"> EA2804212494 </F>
+<F P="104">  Dar es Salaam Radio Tanzania Network </F>
+<F P="105">  Swahili </F>
 
 
 <TEXT>
@@ -1930,17 +1931,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> EAST AFRICA </F>
-<F P=101> Uganda </F>
+<F P="100"> EAST AFRICA </F>
+<F P="101"> Uganda </F>
 <H3> <TI>   Government Protests Rwandan Minister's Remarks </TI></H3>
-<HT><F P=107><PHRASE>    Government Protests Rwandan Minister's Remarks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Protests Rwandan Minister's Remarks </PHRASE></F></HT>
 
-<F P=102>   EA2804191994 Kampala Radio Uganda Network in English 1400 
+<F P="102">   EA2804191994 Kampala Radio Uganda Network in English 1400 
 GMT 28 Apr 94 </F>
 
-<F P=103> EA2804191994 </F>
-<F P=104>  Kampala Radio Uganda Network </F>
-<F P=105>  English </F>
+<F P="103"> EA2804191994 </F>
+<F P="104">  Kampala Radio Uganda Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1991,20 +1992,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Western Transvaal Districts Declared `Unrest Areas' </TI></H3>
-<HT><F P=107><PHRASE>    Western Transvaal Districts Declared `Unrest Areas' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Western Transvaal Districts Declared `Unrest Areas' </PHRASE></F></HT>
 
-<F P=102>   MB2804194694 Johannesburg SAPA in English 1930 GMT 28 Apr 94 </F>
-<F P=103> MB2804194694 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2804194694 Johannesburg SAPA in English 1930 GMT 28 Apr 94 </F>
+<F P="103"> MB2804194694 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by A. Thomson] </F>
+<F P="106"> [Report by A. Thomson] </F>
   [Text] Pretoria April 28 SAPA -- Fifteen magisterial 
 districts in the Western Transvaal were on Thursday [28 April] 
 declared unrest areas, SABC [South African Broadcasting 
@@ -2037,16 +2038,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Police Raid Right-Wing Arms Caches in Pretoria </TI></H3>
-<HT><F P=107><PHRASE>    Police Raid Right-Wing Arms Caches in Pretoria </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police Raid Right-Wing Arms Caches in Pretoria </PHRASE></F></HT>
 
-<F P=102>   MB2904065894 Johannesburg Radio South Africa Network in 
+<F P="102">   MB2904065894 Johannesburg Radio South Africa Network in 
 English 0500 GMT 29 Apr 94 </F>
 
-<F P=103> MB2904065894 </F>
-<F P=104>  Johannesburg Radio South Africa Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2904065894 </F>
+<F P="104">  Johannesburg Radio South Africa Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2076,14 +2077,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Terreblanche: More Explosions If Afrikaners Ignored </TI></H3>
-<HT><F P=107><PHRASE>    Terreblanche: More Explosions If Afrikaners Ignored </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Terreblanche: More Explosions If Afrikaners Ignored </PHRASE></F></HT>
 
-<F P=102>   MB2804155794 Johannesburg SAPA in English 1450 GMT 28 Apr 94 </F>
-<F P=103> MB2804155794 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2804155794 Johannesburg SAPA in English 1450 GMT 28 Apr 94 </F>
+<F P="103"> MB2804155794 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2144,22 +2145,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Hartzenberg Addresses Flag-Raising Ceremony </TI></H3>
-<HT><F P=107><PHRASE>    Hartzenberg Addresses Flag-Raising Ceremony </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hartzenberg Addresses Flag-Raising Ceremony </PHRASE></F></HT>
 
-<F P=102>   MB2904094494 Pretoria Radio Pretoria in Afrikaans 0515 GMT 
+<F P="102">   MB2904094494 Pretoria Radio Pretoria in Afrikaans 0515 GMT 
 27 Apr 94 </F>
 
-<F P=103> MB2904094494 </F>
-<F P=104>  Pretoria Radio Pretoria </F>
-<F P=105>  Afrikaans </F>
+<F P="103"> MB2904094494 </F>
+<F P="104">  Pretoria Radio Pretoria </F>
+<F P="105">  Afrikaans </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Address by Afrikaner Volksfront leader Dr. Ferdi </F>
+<F P="106"> [Address by Afrikaner Volksfront leader Dr. Ferdi </F>
 Hartzenberg at flag-raising ceremony at Donkerhoek, Pretoria, on 
 26 April -- recorded] 
   [Text] Honorable Mr. Chairman, honorable Rev. Sarel 
@@ -2307,22 +2308,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Freedom Front Criticizes `Militant Far Right' </TI></H3>
-<HT><F P=107><PHRASE>    Freedom Front Criticizes `Militant Far Right' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Freedom Front Criticizes `Militant Far Right' </PHRASE></F></HT>
 
-<F P=102>   MB2804162394 Johannesburg BUSINESS DAY in English 28 Apr 94 
+<F P="102">   MB2804162394 Johannesburg BUSINESS DAY in English 28 Apr 94 
 p 3 </F>
 
-<F P=103> MB2804162394 </F>
-<F P=104>  Johannesburg BUSINESS DAY </F>
-<F P=105>  English </F>
+<F P="103"> MB2804162394 </F>
+<F P="104">  Johannesburg BUSINESS DAY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Amanda Vermeulen] </F>
+<F P="106"> [Report by Amanda Vermeulen] </F>
   [Text] The bombing campaign in SA has highlighted the 
 growing rift in right-wing circles, with Freedom Front [FF] 
 officials now openly criticising the militant far right. 
@@ -2384,16 +2385,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Diplomatic Relations Established With Zimbabwe </TI></H3>
-<HT><F P=107><PHRASE>    Diplomatic Relations Established With Zimbabwe </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Diplomatic Relations Established With Zimbabwe </PHRASE></F></HT>
 
-<F P=102>   MB2904065694 Johannesburg Radio South Africa Network in 
+<F P="102">   MB2904065694 Johannesburg Radio South Africa Network in 
 English 0500 GMT 29 Apr 94 </F>
 
-<F P=103> MB2904065694 </F>
-<F P=104>  Johannesburg Radio South Africa Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2904065694 </F>
+<F P="104">  Johannesburg Radio South Africa Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2423,13 +2424,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   South African Press Review for 29 Apr </TI></H3>
-<HT><F P=107><PHRASE>    South African Press Review for 29 Apr </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    South African Press Review for 29 Apr </PHRASE></F></HT>
 
-<F P=102>   MB2904144094 </F>
-<F P=103> MB2904144094 </F>
-<F P=104></F>
+<F P="102">   MB2904144094 </F>
+<F P="103"> MB2904144094 </F>
+<F P="104"></F>
 
 
 
@@ -2489,12 +2490,12 @@ overwhelming mess." "A new Government must be seen to act with
 vigour. The planning and clearing of areas for housing must be 
 in evidence. The plans to proceed with putting up houses for 
 millions of homeless people can then be developed in stages." 
-<H8>  WEEKLY MAIL &amp; GUARDIAN </H8>
+<H8>  WEEKLY MAIL  amp; GUARDIAN </H8>
   Buthelezi, IEC `Incompetence' -- "The pattern is the same 
 all 
 over: the force of numbers and the strength of individuals 
 overcoming the problems of the elections," notes Johannesburg 
-WEEKLY MAIL &amp; GUARDIAN in English for 29 Apr-5 May. There was 
+WEEKLY MAIL  amp; GUARDIAN in English for 29 Apr-5 May. There was 
 "calm" and "little violence" and "the inevitable conclusion is 
 that the election can still work -- despite the IEC. There is 
 no point in mincing words about that organisation. Despite 
@@ -2558,14 +2559,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Third Day of Voting Begins `Slowly' in Homelands </TI></H3>
-<HT><F P=107><PHRASE>    Third Day of Voting Begins `Slowly' in Homelands </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Third Day of Voting Begins `Slowly' in Homelands </PHRASE></F></HT>
 
-<F P=102>   MB2904075194 Johannesburg SAPA in English 0732 GMT 29 Apr 94 </F>
-<F P=103> MB2904075194 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2904075194 Johannesburg SAPA in English 0732 GMT 29 Apr 94 </F>
+<F P="103"> MB2904075194 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2599,16 +2600,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Further on Voting in Homelands </TI></H3>
-<HT><F P=107><PHRASE>    Further on Voting in Homelands </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Voting in Homelands </PHRASE></F></HT>
 
-<F P=102>   MB2904150694 Johannesburg Radio South Africa Network in 
+<F P="102">   MB2904150694 Johannesburg Radio South Africa Network in 
 English 1400 GMT 29 Apr 94 </F>
 
-<F P=103> MB2904150694 </F>
-<F P=104>  Johannesburg Radio South Africa Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2904150694 </F>
+<F P="104">  Johannesburg Radio South Africa Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2668,14 +2669,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Appeals for Patience </TI></H3>
-<HT><F P=107><PHRASE>    Appeals for Patience </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Appeals for Patience </PHRASE></F></HT>
 
-<F P=102>   MB2904140894 Johannesburg SAPA in English 1157 GMT 29 Apr 94 </F>
-<F P=103> MB2904140894 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2904140894 Johannesburg SAPA in English 1157 GMT 29 Apr 94 </F>
+<F P="103"> MB2904140894 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2775,14 +2776,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Provisional Results Anticipated 30 Apr </TI></H3>
-<HT><F P=107><PHRASE>    Provisional Results Anticipated 30 Apr </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Provisional Results Anticipated 30 Apr </PHRASE></F></HT>
 
-<F P=102>   MB2804154594 Johannesburg SAPA in English 1502 GMT 28 Apr 94 </F>
-<F P=103> MB2804154594 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2804154594 Johannesburg SAPA in English 1502 GMT 28 Apr 94 </F>
+<F P="103"> MB2804154594 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2827,23 +2828,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   ANC, IFP Trade Charges of Election Irregularities </TI></H3>
-<HT><F P=107><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
 <H4>    Ramaphosa on `Extensive' IFP Violations </H4>
 
-<F P=102> MB2804154194 Johannesburg SABC CCV Television Network in 
+<F P="102"> MB2804154194 Johannesburg SABC CCV Television Network in 
 English 1500 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804154194 </F>
-<F P=104>  Johannesburg SABC CCV Television Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2804154194 </F>
+<F P="104">  Johannesburg SABC CCV Television Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Address by ANC Secretary General Cyril Ramaphosa; place and </F>
+<F P="106"> [Address by ANC Secretary General Cyril Ramaphosa; place and </F>
 date not given -- recorded] 
   [Text] We wish to put it on record that the ANC has 
 received extensive reports of violations of the electoral laws, 
@@ -2900,23 +2901,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   ANC, IFP Trade Charges of Election Irregularities </TI></H3>
-<HT><F P=107><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
 <H4>    ANC's Naidoo on Interference in KwaZulu </H4>
 
-<F P=102> MB2804164194 Johannesburg SABC CCV Television Network in 
+<F P="102"> MB2804164194 Johannesburg SABC CCV Television Network in 
 English 1545 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804164194 </F>
-<F P=104>  Johannesburg SABC CCV Television Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2804164194 </F>
+<F P="104">  Johannesburg SABC CCV Television Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [News conference by ANC candidate Jay Naidoo with </F>
+<F P="106"> [News conference by ANC candidate Jay Naidoo with </F>
 international and domestic correspondents at ANC Headquarters in 
 Johannesburg -- live] 
   [Text] [Naidoo] Thank you. The ANC wants to reiterate its 
@@ -3220,21 +3221,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   ANC, IFP Trade Charges of Election Irregularities </TI></H3>
-<HT><F P=107><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
 <H4>    ANC Statement on Natal Voting Process </H4>
 
-<F P=102> MB2804192094 Johannesburg SAPA in English 1833 GMT 28 Apr 94 </F>
-<F P=103> MB2804192094 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102"> MB2804192094 Johannesburg SAPA in English 1833 GMT 28 Apr 94 </F>
+<F P="103"> MB2804192094 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Statement issued by the ANC on the SAPA PR Service on 28 </F>
+<F P="106"> [Statement issued by the ANC on the SAPA PR Service on 28 </F>
 April] 
   [Text] As we enter the third day of the first ever 
 democratic elections in our country, the ANC welcomes the 
@@ -3307,23 +3308,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   ANC, IFP Trade Charges of Election Irregularities </TI></H3>
-<HT><F P=107><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
 <H4>    IFP's Ziba Comments on Problems </H4>
 
-<F P=102> MB2804204094 Johannesburg SABC TV 1 Network in English 1645 
+<F P="102"> MB2804204094 Johannesburg SABC TV 1 Network in English 1645 
 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804204094 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2804204094 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [News conference by IFP spokesperson Ziba Jiyane and </F>
+<F P="106"> [News conference by IFP spokesperson Ziba Jiyane and </F>
 unidentified party official; place not given -- live] 
   [Text] [Jiyane] Many of the problems experienced yesterday 
 are continuing today, in fact, even worse problems have been 
@@ -3464,23 +3465,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   ANC, IFP Trade Charges of Election Irregularities </TI></H3>
-<HT><F P=107><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ANC, IFP Trade Charges of Election Irregularities </PHRASE></F></HT>
 <H4>    Jiyane Responds to ANC Allegations </H4>
 
-<F P=102> MB2804185494 Johannesburg SABC CCV Television Network in 
+<F P="102"> MB2804185494 Johannesburg SABC CCV Television Network in 
 English 1750 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804185494 </F>
-<F P=104>  Johannesburg SABC CCV Television Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2804185494 </F>
+<F P="104">  Johannesburg SABC CCV Television Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with IFP spokesman Dr. Ziba Jiyane in Umlazi by </F>
+<F P="106"> [Interview with IFP spokesman Dr. Ziba Jiyane in Umlazi by </F>
 announcer Lester Venter in the Johannesburg studio -- live] 
   [Text] [Venter] Dr. Jiyane. 
   [Jiyane] Hello. 
@@ -3573,22 +3574,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   De Klerk Comments on Alleged Irregularities at Polls </TI></H3>
-<HT><F P=107><PHRASE>    De Klerk Comments on Alleged Irregularities at Polls </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    De Klerk Comments on Alleged Irregularities at Polls </PHRASE></F></HT>
 
-<F P=102>   MB2804174294 Johannesburg SABC TV 1 Network in English 1700 
+<F P="102">   MB2804174294 Johannesburg SABC TV 1 Network in English 1700 
 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804174294 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2804174294 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Address by State President F.W. de Klerk from National </F>
+<F P="106"> [Address by State President F.W. de Klerk from National </F>
 Party headquarters in Johannesburg -- live; italicized passages 
 in Afrikaans] 
   [Text] [De Klerk] Good evening, ladies and gentlemen. 
@@ -3854,16 +3855,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   NP on Problems at N. Transvaal Polls </TI></H3>
-<HT><F P=107><PHRASE>    NP on Problems at N. Transvaal Polls </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    NP on Problems at N. Transvaal Polls </PHRASE></F></HT>
 
-<F P=102>   MB2804115794 Johannesburg SABC TV 1 Network in Afrikaans 
+<F P="102">   MB2804115794 Johannesburg SABC TV 1 Network in Afrikaans 
 1000 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804115794 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  Afrikaans </F>
+<F P="103"> MB2804115794 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  Afrikaans </F>
 
 
 <TEXT>
@@ -3901,14 +3902,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   PAC Demands IEC Address W. Cape Voting Irregularities </TI></H3>
-<HT><F P=107><PHRASE>    PAC Demands IEC Address W. Cape Voting Irregularities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PAC Demands IEC Address W. Cape Voting Irregularities </PHRASE></F></HT>
 
-<F P=102>   MB2804143494 Johannesburg SAPA in English 1419 GMT 28 Apr 94 </F>
-<F P=103> MB2804143494 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2804143494 Johannesburg SAPA in English 1419 GMT 28 Apr 94 </F>
+<F P="103"> MB2804143494 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3977,16 +3978,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Freedom Front To Protest Lack of Ballots in Alberton </TI></H3>
-<HT><F P=107><PHRASE>    Freedom Front To Protest Lack of Ballots in Alberton </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Freedom Front To Protest Lack of Ballots in Alberton </PHRASE></F></HT>
 
-<F P=102>   MB2804115994 Johannesburg SABC TV 1 Network in Afrikaans 
+<F P="102">   MB2804115994 Johannesburg SABC TV 1 Network in Afrikaans 
 1000 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804115994 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  Afrikaans </F>
+<F P="103"> MB2804115994 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  Afrikaans </F>
 
 
 <TEXT>
@@ -4016,16 +4017,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Viljoen Proposes Leaders Summit </TI></H3>
-<HT><F P=107><PHRASE>    Viljoen Proposes Leaders Summit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Viljoen Proposes Leaders Summit </PHRASE></F></HT>
 
-<F P=102>   MB2804192694 Johannesburg SABC TV 1 Network in Afrikaans 
+<F P="102">   MB2804192694 Johannesburg SABC TV 1 Network in Afrikaans 
 1800 GMT 28 Apr 94 </F>
 
-<F P=103> MB2804192694 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  Afrikaans </F>
+<F P="103"> MB2804192694 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  Afrikaans </F>
 
 
 <TEXT>
@@ -4070,22 +4071,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Mandela Discusses Election Process, Problems </TI></H3>
-<HT><F P=107><PHRASE>    Mandela Discusses Election Process, Problems </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Mandela Discusses Election Process, Problems </PHRASE></F></HT>
 
-<F P=102>   MB2904080794 Johannesburg SABC TV 1 Network in English 0725 
+<F P="102">   MB2904080794 Johannesburg SABC TV 1 Network in English 0725 
 GMT 29 Apr 94 </F>
 
-<F P=103> MB2904080794 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2904080794 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with ANC President Nelson Mandela at the ANC </F>
+<F P="106"> [Interview with ANC President Nelson Mandela at the ANC </F>
 media center in Johannesburg by SABC correspondents Lester 
 Venter and Safako Nyako and REUTER correspondent (Rodney Pinda) 
 -- live] 
@@ -4463,22 +4464,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Comments on Future Government </TI></H3>
-<HT><F P=107><PHRASE>    Comments on Future Government </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Comments on Future Government </PHRASE></F></HT>
 
-<F P=102>   LD2904093594 London ITV Television Network in English 1800 
+<F P="102">   LD2904093594 London ITV Television Network in English 1800 
 GMT 28 Apr 94 </F>
 
-<F P=103> LD2904093594 </F>
-<F P=104>  London ITV Television Network </F>
-<F P=105>  English </F>
+<F P="103"> LD2904093594 </F>
+<F P="104">  London ITV Television Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with ANC President Nelson Mandela by announcer </F>
+<F P="106"> [Interview with ANC President Nelson Mandela by announcer </F>
 Jon Snow in Johannesburg on 28 April--recorded] 
   [Text] [Snow] I asked him [Mandela] to detail his 
 allegations. 
@@ -4674,15 +4675,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Violent Incidents Reported at Polling Stations </TI></H3>
-<HT><F P=107><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
 <H4>    Gunman Fires on Bophuthatswana Voters </H4>
 
-<F P=102> MB2804210594 Johannesburg SAPA in English 2044 GMT 28 Apr 94 </F>
-<F P=103> MB2804210594 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102"> MB2804210594 Johannesburg SAPA in English 2044 GMT 28 Apr 94 </F>
+<F P="103"> MB2804210594 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4741,21 +4742,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Violent Incidents Reported at Polling Stations </TI></H3>
-<HT><F P=107><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
 <H4>    NP, ANC Supporters Clash </H4>
 
-<F P=102> MB2804120194 Johannesburg SAPA in English 1116 GMT 28 Apr 94 </F>
-<F P=103> MB2804120194 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102"> MB2804120194 Johannesburg SAPA in English 1116 GMT 28 Apr 94 </F>
+<F P="103"> MB2804120194 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by W. C. Blumenfeld] </F>
+<F P="106"> [Report by W. C. Blumenfeld] </F>
   [Text] Cape Town April 28 SAPA -- Police and peace monitors 
 had to intervene when stone-throwing occurred between African 
 National Congress and National Party [NP] supporters in 
@@ -4785,15 +4786,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Violent Incidents Reported at Polling Stations </TI></H3>
-<HT><F P=107><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
 <H4>    Grenade Found on Suspected MK Member </H4>
 
-<F P=102> MB2904100694 Johannesburg SAPA in English 0927 GMT 29 Apr 94 </F>
-<F P=103> MB2904100694 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102"> MB2904100694 Johannesburg SAPA in English 0927 GMT 29 Apr 94 </F>
+<F P="103"> MB2904100694 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4826,21 +4827,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Violent Incidents Reported at Polling Stations </TI></H3>
-<HT><F P=107><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Violent Incidents Reported at Polling Stations </PHRASE></F></HT>
 <H4>    Suspected Right-Wingers Arrested </H4>
 
-<F P=102> MB2904123094 Johannesburg SAPA in English 1202 GMT 29 Apr 94 </F>
-<F P=103> MB2904123094 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102"> MB2904123094 Johannesburg SAPA in English 1202 GMT 29 Apr 94 </F>
+<F P="103"> MB2904123094 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by K. Swart] </F>
+<F P="106"> [Report by K. Swart] </F>
   [Text] Pretoria April 29 SAPA -- Seven men with possible 
 rightwing links have been arrested at Betanie in the Odi Region, 
 police in Bophuthatswana said on Friday [29 April]. A police 
@@ -4864,22 +4865,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Candidate List for Provincial Legislatures Published </TI></H3>
-<HT><F P=107><PHRASE>    Candidate List for Provincial Legislatures Published </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Candidate List for Provincial Legislatures Published </PHRASE></F></HT>
 
-<F P=102>   MB2804140094 Johannesburg THE STAR (IEC Supplement) in 
+<F P="102">   MB2804140094 Johannesburg THE STAR (IEC Supplement) in 
 English 21 Apr 94 pp 7-10 </F>
 
-<F P=103> MB2804140094 </F>
-<F P=104>  Johannesburg THE STAR (IEC Supplement) </F>
-<F P=105>  English </F>
+<F P="103"> MB2804140094 </F>
+<F P="104">  Johannesburg THE STAR (IEC Supplement) </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [List of provincial legislature candidates published by the </F>
+<F P="106"> [List of provincial legislature candidates published by the </F>
 Independent Electoral Commission, IEC; also published in 
 BUSINESS DAY and the SOWETAN] 
   [Text] 
@@ -6062,19 +6063,19 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CENTRAL AFRICA </F>
-<F P=101> Burundi </F>
+<F P="100"> CENTRAL AFRICA </F>
+<F P="101"> Burundi </F>
 <H3> <TI>   Disarmament Begins in Bujumbura; Gunfire Still Heard </TI></H3>
-<HT><F P=107><PHRASE>    Disarmament Begins in Bujumbura; Gunfire Still Heard </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Disarmament Begins in Bujumbura; Gunfire Still Heard </PHRASE></F></HT>
 
-<F P=102>   EA2804212094 Bujumbura Radio-Television Nationale du Burundi 
+<F P="102">   EA2804212094 Bujumbura Radio-Television Nationale du Burundi 
 Radio in Kirundi 1700 GMT 28 Apr 94 </F>
 
-<F P=103> EA2804212094 </F>
-<F P=104>  Bujumbura Radio-Television Nationale du Burundi 
+<F P="103"> EA2804212094 </F>
+<F P="104">  Bujumbura Radio-Television Nationale du Burundi 
 Radio </F>
 
-<F P=105>  Kirundi </F>
+<F P="105">  Kirundi </F>
 
 
 <TEXT>
@@ -6102,23 +6103,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> WEST AFRICA </F>
-<F P=101> Ghana </F>
+<F P="100"> WEST AFRICA </F>
+<F P="101"> Ghana </F>
 <H3> <TI>   Political Leaders Threaten To End National Unity </TI></H3>
-<HT><F P=107><PHRASE>    Political Leaders Threaten To End National Unity </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Political Leaders Threaten To End National Unity </PHRASE></F></HT>
 
-<F P=102>   AB2804101394 Accra THE GHANAIAN CHRONICLE in English 21-24 
+<F P="102">   AB2804101394 Accra THE GHANAIAN CHRONICLE in English 21-24 
 Apr 94 pp 1, 8 </F>
 
-<F P=103> AB2804101394 </F>
-<F P=104>  Accra THE GHANAIAN CHRONICLE </F>
-<F P=105>  English </F>
+<F P="103"> AB2804101394 </F>
+<F P="104">  Accra THE GHANAIAN CHRONICLE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Kofi Opare-Addo] </F>
+<F P="106"> [By Kofi Opare-Addo] </F>
   [Text] Amid the president clamour by the leadership of the 
 National Democratic Congress for the scalp of the independent 
 private press, three strong political actors in the country 
@@ -6188,13 +6189,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   Coverage of National, Provincial Elections </TI></H3>
-<HT><F P=107><PHRASE>    Coverage of National, Provincial Elections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Coverage of National, Provincial Elections </PHRASE></F></HT>
 
-<F P=102>   WA2604120594 </F>
-<F P=103> WA2604120594 </F>
-<F P=104></F>
+<F P="102">   WA2604120594 </F>
+<F P="103"> WA2604120594 </F>
+<F P="104"></F>
 
 
 
@@ -6221,20 +6222,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   TEC Approves Voting Extensions in 6 Regions </TI></H3>
-<HT><F P=107><PHRASE>    TEC Approves Voting Extensions in 6 Regions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    TEC Approves Voting Extensions in 6 Regions </PHRASE></F></HT>
 
-<F P=102>   MB2804170794 Johannesburg SAPA in English 1701 GMT 28 Apr 94 </F>
-<F P=103> MB2804170794 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2804170794 Johannesburg SAPA in English 1701 GMT 28 Apr 94 </F>
+<F P="103"> MB2804170794 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by N. Lewis] </F>
+<F P="106"> [Report by N. Lewis] </F>
   [Text] Johannesburg April 28 SAPA -- The Transitional 
 Executive Council [TEC] on Thursday night ruled that voting in 
 six regions be extended to 7PM on Friday, April 29. The regions 
@@ -6260,20 +6261,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   IEC Corrects Statement on Extended Voting </TI></H3>
-<HT><F P=107><PHRASE>    IEC Corrects Statement on Extended Voting </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IEC Corrects Statement on Extended Voting </PHRASE></F></HT>
 
-<F P=102>   MB2904065394 Johannesburg SAPA in English 0625 GMT 29 Apr 94 </F>
-<F P=103> MB2904065394 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB2904065394 Johannesburg SAPA in English 0625 GMT 29 Apr 94 </F>
+<F P="103"> MB2904065394 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Statement issued by the Independent Electoral Commission on </F>
+<F P="106"> [Statement issued by the Independent Electoral Commission on </F>
 the SAPA PR Service on 29 April] 
   [Text] The communications division of the IEC [Independent 
 Electoral Commission] wishes to correct the statement released 
@@ -6304,22 +6305,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REPUBLIC OF SOUTH AFRICA </F>
+<F P="100"> REPUBLIC OF SOUTH AFRICA </F>
 <H3> <TI>   IEC Chairman Comments on Ballot Counting Plans </TI></H3>
-<HT><F P=107><PHRASE>    IEC Chairman Comments on Ballot Counting Plans </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IEC Chairman Comments on Ballot Counting Plans </PHRASE></F></HT>
 
-<F P=102>   MB2904122594 Johannesburg SABC TV 1 Network in English 1000 
+<F P="102">   MB2904122594 Johannesburg SABC TV 1 Network in English 1000 
 GMT 29 Apr 94 </F>
 
-<F P=103> MB2904122594 </F>
-<F P=104>  Johannesburg SABC TV 1 Network </F>
-<F P=105>  English </F>
+<F P="103"> MB2904122594 </F>
+<F P="104">  Johannesburg SABC TV 1 Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report on news conference by IEC Chairman Johann Kriegler </F>
+<F P="106"> [Report on news conference by IEC Chairman Johann Kriegler </F>
 at IEC headquarters in Midrand on 29 April] 
   [Text] IEC [Independent Electoral Commission] chairman, 
 Justice Johann Kriegler, has described the election as an 
@@ -6370,14 +6371,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Supreme Court President Ren Jianxin Meets Irish Jurist </TI></H3>
-<HT><F P=107><PHRASE>    Supreme Court President Ren Jianxin Meets Irish Jurist </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Supreme Court President Ren Jianxin Meets Irish Jurist </PHRASE></F></HT>
 
-<F P=102>   OW2903101194 Beijing XINHUA in English 0910 GMT 29 Mar 94 </F>
-<F P=103> OW2903101194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2903101194 Beijing XINHUA in English 0910 GMT 29 Mar 94 </F>
+<F P="103"> OW2903101194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6406,16 +6407,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Netherlands Ambassador, Counselor Visit Shandong </TI></H3>
-<HT><F P=107><PHRASE>    Netherlands Ambassador, Counselor Visit Shandong </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Netherlands Ambassador, Counselor Visit Shandong </PHRASE></F></HT>
 
-<F P=102>   SK3103071594 Jinan Shandong People's Radio Network in 
+<F P="102">   SK3103071594 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 29 Mar 94 </F>
 
-<F P=103> SK3103071594 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK3103071594 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -6452,20 +6453,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Japanese Semiconductor Delegation To Visit </TI></H3>
-<HT><F P=107><PHRASE>    Japanese Semiconductor Delegation To Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Japanese Semiconductor Delegation To Visit </PHRASE></F></HT>
 
-<F P=102>   OW3103080894 Taipei CNA in English 0731 GMT 31 Mar 94 </F>
-<F P=103> OW3103080894 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103080894 Taipei CNA in English 0731 GMT 31 Mar 94 </F>
+<F P="103"> OW3103080894 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Danielle Yang] </F>
+<F P="106"> [By Danielle Yang] </F>
   [Text] Taipei, March 31 (CNA) -- A 45-member Japanese 
 delegation will visit Taiwan April 26 to attend a trade seminar 
 and discuss the purchase of semiconductor products, a China 
@@ -6519,20 +6520,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Government Survey Predicts More Manufacturing Investment </TI></H3>
-<HT><F P=107><PHRASE>    Government Survey Predicts More Manufacturing Investment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Survey Predicts More Manufacturing Investment </PHRASE></F></HT>
 
-<F P=102>   OW2603091494 Taipei CNA in English 0714 GMT 26 Mar 94 </F>
-<F P=103> OW2603091494 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW2603091494 Taipei CNA in English 0714 GMT 26 Mar 94 </F>
+<F P="103"> OW2603091494 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Benjamin Yeh] </F>
+<F P="106"> [By Benjamin Yeh] </F>
   [Text] Taipei, March 26 (CNA) -- Manufacturing industry 
 investment is expected to increase 17.4 percent in 1994, the 
 greatest increase in five years, the government reported 
@@ -6583,20 +6584,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Country Tops World in Per Capita Gold Consumption </TI></H3>
-<HT><F P=107><PHRASE>    Country Tops World in Per Capita Gold Consumption </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Country Tops World in Per Capita Gold Consumption </PHRASE></F></HT>
 
-<F P=102>   OW2603091394 Taipei CNA in English 0705 GMT 26 Mar 94 </F>
-<F P=103> OW2603091394 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW2603091394 Taipei CNA in English 0705 GMT 26 Mar 94 </F>
+<F P="103"> OW2603091394 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Sofia Wu] </F>
+<F P="106"> [By Sofia Wu] </F>
   [Text] Taipei, March 26 (CNA) -- Taiwan topped the world 
 in per capita gold consumption last year, according to 
 statistics compiled by the World Gold Council. 
@@ -6646,20 +6647,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Australia Seeks Entrance Into Rice Market </TI></H3>
-<HT><F P=107><PHRASE>    Australia Seeks Entrance Into Rice Market </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Australia Seeks Entrance Into Rice Market </PHRASE></F></HT>
 
-<F P=102>   OW2603090894 Taipei CNA in English 0700 GMT 26 Mar 94 </F>
-<F P=103> OW2603090894 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW2603090894 Taipei CNA in English 0700 GMT 26 Mar 94 </F>
+<F P="103"> OW2603090894 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By M.J. Tzou and Debbie Kuo] </F>
+<F P="106"> [By M.J. Tzou and Debbie Kuo] </F>
   [Text] Geneva, March 26 (CNA) -- Australia Friday [25 
 March] asked Taiwan to allow imports of Australian rice in 
 compliance with fair trade regulations laid down by the General 
@@ -6714,16 +6715,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Beijing Suffers `Serious Drought' </TI></H3>
-<HT><F P=107><PHRASE>    Beijing Suffers `Serious Drought' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing Suffers `Serious Drought' </PHRASE></F></HT>
 
-<F P=102>   HK2703050394 Beijing ZHONGGUO XINWEN SHE in English 0255 GMT 
+<F P="102">   HK2703050394 Beijing ZHONGGUO XINWEN SHE in English 0255 GMT 
 26 Mar 94 </F>
 
-<F P=103> HK2703050394 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK2703050394 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6771,16 +6772,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Hebei Secretary Comments on Work Style of Cadres </TI></H3>
-<HT><F P=107><PHRASE>    Hebei Secretary Comments on Work Style of Cadres </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hebei Secretary Comments on Work Style of Cadres </PHRASE></F></HT>
 
-<F P=102>   HK2503002594 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1205 
+<F P="102">   HK2503002594 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1205 
 GMT 16 Mar 94 </F>
 
-<F P=103> HK2503002594 </F>
-<F P=104>  Hong Kong ZHONGGUO TONGXUN SHE </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK2503002594 </F>
+<F P="104">  Hong Kong ZHONGGUO TONGXUN SHE </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -6869,16 +6870,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Hebei Secretary Investigates Unprofitable Enterprises </TI></H3>
-<HT><F P=107><PHRASE>    Hebei Secretary Investigates Unprofitable Enterprises </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hebei Secretary Investigates Unprofitable Enterprises </PHRASE></F></HT>
 
-<F P=102>   SK0803012694 Shijiazhuang Hebei People's Radio Network in 
+<F P="102">   SK0803012694 Shijiazhuang Hebei People's Radio Network in 
 Mandarin 2300 GMT 4 Mar 94 </F>
 
-<F P=103> SK0803012694 </F>
-<F P=104>  Shijiazhuang Hebei People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK0803012694 </F>
+<F P="104">  Shijiazhuang Hebei People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -6945,16 +6946,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Hebei Secretary on Task of Improving Quality of Rural Life </TI></H3>
-<HT><F P=107><PHRASE>    Hebei Secretary on Task of Improving Quality of Rural Life </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hebei Secretary on Task of Improving Quality of Rural Life </PHRASE></F></HT>
 
-<F P=102>   SK0803003294 Shijiazhuang Hebei People's Radio Network in 
+<F P="102">   SK0803003294 Shijiazhuang Hebei People's Radio Network in 
 Mandarin 2300 GMT 6 Mar 94 </F>
 
-<F P=103> SK0803003294 </F>
-<F P=104>  Shijiazhuang Hebei People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK0803003294 </F>
+<F P="104">  Shijiazhuang Hebei People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -7061,20 +7062,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Inner Mongolia Secretary Speaks at Agricultural Conference </TI></H3>
-<HT><F P=107><PHRASE>    Inner Mongolia Secretary Speaks at Agricultural Conference </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Inner Mongolia Secretary Speaks at Agricultural Conference </PHRASE></F></HT>
 
-<F P=102>   SK1103123794 Hohhot NEIMENGGU RIBAO in Chinese 22 Feb 94 p 1 </F>
-<F P=103> SK1103123794 </F>
-<F P=104>  Hohhot NEIMENGGU RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   SK1103123794 Hohhot NEIMENGGU RIBAO in Chinese 22 Feb 94 p 1 </F>
+<F P="103"> SK1103123794 </F>
+<F P="104">  Hohhot NEIMENGGU RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Han Zhi (7281 2535), Liu Hongxing (0491 4767 </F>
+<F P="106"> [Report by Han Zhi (7281 2535), Liu Hongxing (0491 4767 </F>
 2502), and Chen Yongping (7115 3057 1627): "Further Emancipate 
 the Mind, and Further Accelerate Agricultural and Animal 
 Husbandry Development"] 
@@ -7204,14 +7205,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin Secretary Visits Discipline Inspection Cadres </TI></H3>
-<HT><F P=107><PHRASE>    Tianjin Secretary Visits Discipline Inspection Cadres </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tianjin Secretary Visits Discipline Inspection Cadres </PHRASE></F></HT>
 
-<F P=102>   SK1103025794 Tianjin TIANJIN RIBAO in Chinese 20 Feb 94 p 1 </F>
-<F P=103> SK1103025794 </F>
-<F P=104>  Tianjin TIANJIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   SK1103025794 Tianjin TIANJIN RIBAO in Chinese 20 Feb 94 p 1 </F>
+<F P="103"> SK1103025794 </F>
+<F P="104">  Tianjin TIANJIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -7315,14 +7316,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin Reports `Sustained' Growth in Exports in 1993 </TI></H3>
-<HT><F P=107><PHRASE>    Tianjin Reports `Sustained' Growth in Exports in 1993 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tianjin Reports `Sustained' Growth in Exports in 1993 </PHRASE></F></HT>
 
-<F P=102>   OW2603013494 Beijing XINHUA in English 0114 GMT 26 Mar 94 </F>
-<F P=103> OW2603013494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2603013494 Beijing XINHUA in English 0114 GMT 26 Mar 94 </F>
+<F P="103"> OW2603013494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7373,14 +7374,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin Real Estate Market Attracting Foreign Investment </TI></H3>
-<HT><F P=107><PHRASE>    Tianjin Real Estate Market Attracting Foreign Investment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tianjin Real Estate Market Attracting Foreign Investment </PHRASE></F></HT>
 
-<F P=102>   OW2503022194 Beijing XINHUA in English 0202 GMT 25 Mar 94 </F>
-<F P=103> OW2503022194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2503022194 Beijing XINHUA in English 0202 GMT 25 Mar 94 </F>
+<F P="103"> OW2503022194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7425,17 +7426,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong Governor Views Anticorruption Work </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Governor Views Anticorruption Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Governor Views Anticorruption Work </PHRASE></F></HT>
 
-<F P=102>   SK3103071294 Jinan Shandong People's Radio Network in 
+<F P="102">   SK3103071294 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 30 Mar 94 </F>
 
-<F P=103> SK3103071294 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK3103071294 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -7499,17 +7500,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong Secretary Praises First Non-Imported Cement Plant </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Secretary Praises First Non-Imported Cement Plant </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Secretary Praises First Non-Imported Cement Plant </PHRASE></F></HT>
 
-<F P=102>   SK3103071394 Jinan Shandong People's Radio Network in 
+<F P="102">   SK3103071394 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 30 Mar 94 </F>
 
-<F P=103> SK3103071394 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK3103071394 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -7555,15 +7556,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Zhejiang's Ningbo Becomes Key Transit Port for Iron Ore </TI></H3>
-<HT><F P=107><PHRASE>    Zhejiang's Ningbo Becomes Key Transit Port for Iron Ore </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhejiang's Ningbo Becomes Key Transit Port for Iron Ore </PHRASE></F></HT>
 
-<F P=102>   OW3103102994 Beijing XINHUA in English 0831 GMT 31 Mar 94 </F>
-<F P=103> OW3103102994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103102994 Beijing XINHUA in English 0831 GMT 31 Mar 94 </F>
+<F P="103"> OW3103102994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7607,22 +7608,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Li Lanqing Addresses Meeting on Troops' Grain Supply </TI></H3>
-<HT><F P=107><PHRASE>    Li Lanqing Addresses Meeting on Troops' Grain Supply </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Lanqing Addresses Meeting on Troops' Grain Supply </PHRASE></F></HT>
 
-<F P=102>   OW3103062694 Beijing Central People's Radio Network in 
+<F P="102">   OW3103062694 Beijing Central People's Radio Network in 
 Mandarin 1030 GMT 8 Mar 94 </F>
 
-<F P=103> OW3103062694 </F>
-<F P=104>  Beijing Central People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> OW3103062694 </F>
+<F P="104">  Beijing Central People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "National Hookup" program] </F>
+<F P="106"> [From the "National Hookup" program] </F>
   [Text] Starting in April, China will institute a new 
 system of supplying grain to troops -- this was decided by the 
 Eighth National Meeting on Troops' Grain Work, which just ended. 
@@ -7663,22 +7664,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Yu Yongbo Speaks at Inauguration of All-Army Theory Center </TI></H3>
-<HT><F P=107><PHRASE>    Yu Yongbo Speaks at Inauguration of All-Army Theory Center </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Yu Yongbo Speaks at Inauguration of All-Army Theory Center </PHRASE></F></HT>
 
-<F P=102>   OW3103011794 Beijing XINHUA Domestic Service in Chinese 1257 
+<F P="102">   OW3103011794 Beijing XINHUA Domestic Service in Chinese 1257 
 GMT 29 Mar 94 </F>
 
-<F P=103> OW3103011794 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3103011794 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By correspondent Jing Shuzhan (2529 2118 1455) and reporter </F>
+<F P="106"> [By correspondent Jing Shuzhan (2529 2118 1455) and reporter </F>
 Jia Yong (6328 3057)] 
   [Text] Beijing, 29 Mar (XINHUA) -- An All-Army Center for 
 the Study of the Theory of Building Socialism with Chinese 
@@ -7788,22 +7789,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Military </F>
+<F P="100"> Military </F>
 <H3> <TI>   Army Units Urged to Tighten Control Over Budget </TI></H3>
-<HT><F P=107><PHRASE>    Army Units Urged to Tighten Control Over Budget </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Army Units Urged to Tighten Control Over Budget </PHRASE></F></HT>
 
-<F P=102>   OW3103003594 Beijing XINHUA Domestic Service in Chinese 0357 
+<F P="102">   OW3103003594 Beijing XINHUA Domestic Service in Chinese 0357 
 GMT 30 Mar 94 </F>
 
-<F P=103> OW3103003594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3103003594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By correspondent Wang Shujun (3769 2885 6874) and reporter </F>
+<F P="106"> [By correspondent Wang Shujun (3769 2885 6874) and reporter </F>
 Zhang Dongbo (1728 2639 3134)] 
   [Text] Beijing, 30 Mar (XINHUA) -- The General Staff 
 Department, General Political Department, and General Logistics 
@@ -7880,16 +7881,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Foreign Ministry Holds Weekly News Briefing </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Ministry Holds Weekly News Briefing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Ministry Holds Weekly News Briefing </PHRASE></F></HT>
 <H4>    Stands Firm on UN Warning to DPRK </H4>
 
-<F P=102> HK3103093394 Hong Kong AFP in English 0926 GMT 31 Mar 94 </F>
-<F P=103> HK3103093394 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK3103093394 Hong Kong AFP in English 0926 GMT 31 Mar 94 </F>
+<F P="103"> HK3103093394 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7948,14 +7949,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Foreign Scientists Interviewed on Nuclear Cooperation </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Scientists Interviewed on Nuclear Cooperation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Scientists Interviewed on Nuclear Cooperation </PHRASE></F></HT>
 
-<F P=102>   OW3103114394 Beijing XINHUA in English 1117 GMT 31 Mar 94 </F>
-<F P=103> OW3103114394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103114394 Beijing XINHUA in English 1117 GMT 31 Mar 94 </F>
+<F P="103"> OW3103114394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8026,20 +8027,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Taipei Representative Reaffirms Commitment to Conservation </TI></H3>
-<HT><F P=107><PHRASE>    Taipei Representative Reaffirms Commitment to Conservation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Taipei Representative Reaffirms Commitment to Conservation </PHRASE></F></HT>
 
-<F P=102>   OW3103101194 Taipei CNA in English 0713 GMT 31 Mar 94 </F>
-<F P=103> OW3103101194 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103101194 Taipei CNA in English 0713 GMT 31 Mar 94 </F>
+<F P="103"> OW3103101194 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Bill Wang] </F>
+<F P="106"> [By Bill Wang] </F>
   [Text] Washington, March 30 (CNA) -- The ROC [Republic of 
 China] Government has reaffirmed its commitment to eradicating 
 the trade in endangered species. The ROC representative's 
@@ -8096,20 +8097,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Beijing Secretary Discusses Overall Urban Plan </TI></H3>
-<HT><F P=107><PHRASE>    Beijing Secretary Discusses Overall Urban Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing Secretary Discusses Overall Urban Plan </PHRASE></F></HT>
 
-<F P=102>   SK1103085294 Beijing BEIJING RIBAO in Chinese 24 Feb 94 p 1 </F>
-<F P=103> SK1103085294 </F>
-<F P=104>  Beijing BEIJING RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   SK1103085294 Beijing BEIJING RIBAO in Chinese 24 Feb 94 p 1 </F>
+<F P="103"> SK1103085294 </F>
+<F P="104">  Beijing BEIJING RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By An Wei (1344 0251) and Yan Liqiang (0917 0500 1730): </F>
+<F P="106"> [By An Wei (1344 0251) and Yan Liqiang (0917 0500 1730): </F>
 "We Should Conscientiously Study, Publicize, and Implement the 
 State Council's Important Written Reply and `Beijing's Overall 
 Urban Plan'"] 
@@ -8181,17 +8182,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong Secretary Discusses Anticorruption Struggle </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Secretary Discusses Anticorruption Struggle </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Secretary Discusses Anticorruption Struggle </PHRASE></F></HT>
 
-<F P=102>   SK3103074794 Jinan Shandong People's Radio Network in 
+<F P="102">   SK3103074794 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 29 Mar 94 </F>
 
-<F P=103> SK3103074794 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK3103074794 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -8327,23 +8328,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Deng Xiaoping Reveals Succession Plans </TI></H3>
-<HT><F P=107><PHRASE>    Deng Xiaoping Reveals Succession Plans </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Deng Xiaoping Reveals Succession Plans </PHRASE></F></HT>
 
-<F P=102>   HK3103042894 Hong Kong CHENG MING in Chinese No 198, 1 Apr 
+<F P="102">   HK3103042894 Hong Kong CHENG MING in Chinese No 198, 1 Apr 
 94 pp 6-8 </F>
 
-<F P=103> HK3103042894 </F>
-<F P=104>  Hong Kong CHENG MING </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK3103042894 </F>
+<F P="104">  Hong Kong CHENG MING </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Notes on Northern Journey" by staff reporter Lo Ping (5012 </F>
+<F P="106"> ["Notes on Northern Journey" by staff reporter Lo Ping (5012 </F>
 0393): "Deng Xiaoping Directs Six Old Men To Take Over the 
 Reins After His Death"] 
   [Text] A break in tradition produced great repercussions 
@@ -8567,21 +8568,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Study of Deng's Literature, Art Theory Urged </TI></H3>
-<HT><F P=107><PHRASE>    Study of Deng's Literature, Art Theory Urged </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Study of Deng's Literature, Art Theory Urged </PHRASE></F></HT>
 
-<F P=102>   HK3103030094 Beijing RENMIN RIBAO in Chinese 24 Mar 94 p 5 </F>
-<F P=103> HK3103030094 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK3103030094 Beijing RENMIN RIBAO in Chinese 24 Mar 94 p 5 </F>
+<F P="103"> HK3103030094 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Liu Zhongde (0491 1813 1795): "Study Deng Xiaoping's </F>
+<F P="106"> [By Liu Zhongde (0491 1813 1795): "Study Deng Xiaoping's </F>
 Theory on Socialist Literature and Art With Chinese 
 Characteristics, Use it To Guide Our Brand-New Practice of 
 Promoting the Cause of Chinese Socialist Literature and Art"] 
@@ -9043,23 +9044,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Shanghai Police Detain Activist Zhu Fuming </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Police Detain Activist Zhu Fuming </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Police Detain Activist Zhu Fuming </PHRASE></F></HT>
 
-<F P=102>   HK3103024294 Hong Kong SOUTH CHINA MORNING POST in English 
+<F P="102">   HK3103024294 Hong Kong SOUTH CHINA MORNING POST in English 
 31 Mar 94 p 11 </F>
 
-<F P=103> HK3103024294 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK3103024294 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Willy Wo-Lap Lam] </F>
+<F P="106"> [By Willy Wo-Lap Lam] </F>
   [Text] Police have detained Shanghai activist Zhu Fuming 
 for taking part in the waves of pro-democracy protests that have 
 hit the administration this spring. And security officials in 
@@ -9121,23 +9122,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Xie Fei Urges Agricultural Improvement in Guangdong </TI></H3>
-<HT><F P=107><PHRASE>    Xie Fei Urges Agricultural Improvement in Guangdong </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Xie Fei Urges Agricultural Improvement in Guangdong </PHRASE></F></HT>
 
-<F P=102>   OW3103051494 Beijing XINHUA Domestic Service in Chinese 0655 
+<F P="102">   OW3103051494 Beijing XINHUA Domestic Service in Chinese 0655 
 GMT 30 Mar 94 </F>
 
-<F P=103> OW3103051494 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3103051494 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By reporter Hu Guohua (5170 0948 5478)] </F>
+<F P="106"> [By reporter Hu Guohua (5170 0948 5478)] </F>
   [Text] Guangzhou, 30 Mar (XINHUA) -- During his recent 
 inspection of agricultural work in eastern Guangdong Province, 
 Xie Fei, member of the CPC Central Committee Political Bureau 
@@ -9222,15 +9223,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Beijing Government Officials Promote `Hope Project' </TI></H3>
-<HT><F P=107><PHRASE>    Beijing Government Officials Promote `Hope Project' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing Government Officials Promote `Hope Project' </PHRASE></F></HT>
 
-<F P=102>   OW3003120794 Beijing XINHUA in English 1133 GMT 30 Mar 94 </F>
-<F P=103> OW3003120794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003120794 Beijing XINHUA in English 1133 GMT 30 Mar 94 </F>
+<F P="103"> OW3003120794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -9274,17 +9275,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Liaoning Secretary Discusses Legal System at NPC Meeting </TI></H3>
-<HT><F P=107><PHRASE>    Liaoning Secretary Discusses Legal System at NPC Meeting </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liaoning Secretary Discusses Legal System at NPC Meeting </PHRASE></F></HT>
 
-<F P=102>   SK1403120694 Shenyang Liaoning People's Radio Network in 
+<F P="102">   SK1403120694 Shenyang Liaoning People's Radio Network in 
 Mandarin 1000 GMT 13 Mar 94 </F>
 
-<F P=103> SK1403120694 </F>
-<F P=104>  Shenyang Liaoning People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK1403120694 </F>
+<F P="104">  Shenyang Liaoning People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -9369,21 +9370,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   RENMIN RIBAO on Dealing With Contradictions </TI></H3>
-<HT><F P=107><PHRASE>    RENMIN RIBAO on Dealing With Contradictions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    RENMIN RIBAO on Dealing With Contradictions </PHRASE></F></HT>
 
-<F P=102>   HK3103074694 Beijing RENMIN RIBAO in Chinese 4 Mar 94 p 5 </F>
-<F P=103> HK3103074694 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK3103074694 Beijing RENMIN RIBAO in Chinese 4 Mar 94 p 5 </F>
+<F P="103"> HK3103074694 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By He Xiaoying (0149 1321 3841): "We Must Strive Hard To </F>
+<F P="106"> [By He Xiaoying (0149 1321 3841): "We Must Strive Hard To </F>
 Correctly Handle Contradictions Among the People"] 
   [Text] The theory of correctly handling contradictions 
 among the people put forward by Comrade Mao Zedong in the 1950's 
@@ -9673,17 +9674,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Newspaper Views Increasing `Labor Unrest' </TI></H3>
-<HT><F P=107><PHRASE>    Newspaper Views Increasing `Labor Unrest' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Newspaper Views Increasing `Labor Unrest' </PHRASE></F></HT>
 
-<F P=102>   HK3103080294 Hong Kong EASTERN EXPRESS in English 31 Mar 94 
+<F P="102">   HK3103080294 Hong Kong EASTERN EXPRESS in English 31 Mar 94 
 p 9 </F>
 
-<F P=103> HK3103080294 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> HK3103080294 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -9874,23 +9875,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   `Secret Report' Tells of Disturbances in 1993 </TI></H3>
-<HT><F P=107><PHRASE>    `Secret Report' Tells of Disturbances in 1993 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Secret Report' Tells of Disturbances in 1993 </PHRASE></F></HT>
 
-<F P=102>   HK3103105094 Hong Kong CHENG MING in Chinese No 198, 1 Apr 
+<F P="102">   HK3103105094 Hong Kong CHENG MING in Chinese No 198, 1 Apr 
 94 p 21 </F>
 
-<F P=103> HK3103105094 </F>
-<F P=104>  Hong Kong CHENG MING </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK3103105094 </F>
+<F P="104">  Hong Kong CHENG MING </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Chuan Hsun-che (0278 6061 5074): "Secret Report on </F>
+<F P="106"> [By Chuan Hsun-che (0278 6061 5074): "Secret Report on </F>
 `Disturbances' on Mainland Last Year"] 
   [Text] To the CPC, demonstrations, assemblies, strikes, 
 and disturbances are all expressions of people's grievances and 
@@ -9976,25 +9977,25 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Handbook on Anticorruption Policy Published </TI></H3>
-<HT><F P=107><PHRASE>    Handbook on Anticorruption Policy Published </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Handbook on Anticorruption Policy Published </PHRASE></F></HT>
 
-<F P=102>   OW3103051094 Beijing Central Television Program One Network 
+<F P="102">   OW3103051094 Beijing Central Television Program One Network 
 in Mandarin 1400 GMT 3 Mar 94 </F>
 
-<F P=103> OW3103051094 </F>
-<F P=104>  Beijing Central Television Program One Network 
+<F P="103"> OW3103051094 </F>
+<F P="104">  Beijing Central Television Program One Network 
 in Mandarin 1400 GMT 3 Mar 94 </F>
 
-<F P=105> Mandarin </F>
+<F P="105"> Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "News" program] </F>
+<F P="106"> [From the "News" program] </F>
   [Text] To support efforts to carry out the anticorruption 
 struggle in depth, the China (Fang Zheng) Publishing House has 
 published the Handbook on Anticorruption Policy, Laws, and 
@@ -10022,15 +10023,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Commission Implements New College Tuition System </TI></H3>
-<HT><F P=107><PHRASE>    Commission Implements New College Tuition System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commission Implements New College Tuition System </PHRASE></F></HT>
 
-<F P=102>   OW3103092094 Beijing XINHUA in English 0851 GMT 31 Mar 94 </F>
-<F P=103> OW3103092094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103092094 Beijing XINHUA in English 0851 GMT 31 Mar 94 </F>
+<F P="103"> OW3103092094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10087,21 +10088,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Hunan Authorities on Death of Christian Inmate </TI></H3>
-<HT><F P=107><PHRASE>    Hunan Authorities on Death of Christian Inmate </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hunan Authorities on Death of Christian Inmate </PHRASE></F></HT>
 
-<F P=102>   HK3103052894 Hong Kong TA KUNG PAO in Chinese 30 Mar 94 p 4 </F>
-<F P=103> HK3103052894 </F>
-<F P=104>  Hong Kong TA KUNG PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK3103052894 Hong Kong TA KUNG PAO in Chinese 30 Mar 94 p 4 </F>
+<F P="103"> HK3103052894 </F>
+<F P="104">  Hong Kong TA KUNG PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter: "Hunan Clarifies Case of Assault on </F>
+<F P="106"> [By staff reporter: "Hunan Clarifies Case of Assault on </F>
 Christian"] 
   [Text] It was recently reported that a new Christian 
 follower named Zheng Musheng died after he was arrested, beaten, 
@@ -10148,23 +10149,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Article on Upholding Party's Ruling Position </TI></H3>
-<HT><F P=107><PHRASE>    Article on Upholding Party's Ruling Position </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Article on Upholding Party's Ruling Position </PHRASE></F></HT>
 
-<F P=102>   OW3103045694 Beijing QIUSHI in Chinese No 5, 1 Mar 94 pp 
+<F P="102">   OW3103045694 Beijing QIUSHI in Chinese No 5, 1 Mar 94 pp 
 11-15 </F>
 
-<F P=103> OW3103045694 </F>
-<F P=104>  Beijing QIUSHI </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3103045694 </F>
+<F P="104">  Beijing QIUSHI </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Wang Maolin, secretary of the Hunan Provincial </F>
+<F P="106"> [Article by Wang Maolin, secretary of the Hunan Provincial </F>
 CPC Committee: "Attach a High Degree of Importance to the Issue 
 of the Party's Ruling Position Under the Conditions of a Market 
 Economy"] 
@@ -10649,21 +10650,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Article Urges Resisting Corrosive Influences </TI></H3>
-<HT><F P=107><PHRASE>    Article Urges Resisting Corrosive Influences </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Article Urges Resisting Corrosive Influences </PHRASE></F></HT>
 
-<F P=102>   OW3003194494 Beijing QIUSHI in Chinese No 5, 1 Mar 94 pp 7-10 </F>
-<F P=103> OW3003194494 </F>
-<F P=104>  Beijing QIUSHI </F>
-<F P=105>  Chinese </F>
+<F P="102">   OW3003194494 Beijing QIUSHI in Chinese No 5, 1 Mar 94 pp 7-10 </F>
+<F P="103"> OW3003194494 </F>
+<F P="104">  Beijing QIUSHI </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Ma Wenrui (7456 2429 3843): "Guard Against </F>
+<F P="106"> [Article by Ma Wenrui (7456 2429 3843): "Guard Against </F>
 Corrosive Influences and Never Be Tainted With Bad Practices -- 
 in Commemoration of the 45th Anniversary of the Publication of 
 Comrade Mao Zedong's Speech at the Second Plenary Session of the 
@@ -11027,15 +11028,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Beijing Denies Covering Up Illegal Trade in Tiger Bones </TI></H3>
-<HT><F P=107><PHRASE>    Beijing Denies Covering Up Illegal Trade in Tiger Bones </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing Denies Covering Up Illegal Trade in Tiger Bones </PHRASE></F></HT>
 
-<F P=102>   HK3003124694 Hong Kong AFP in English 1137 GMT 30 Mar 94 </F>
-<F P=103> HK3003124694 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102">   HK3003124694 Hong Kong AFP in English 1137 GMT 30 Mar 94 </F>
+<F P="103"> HK3003124694 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11108,21 +11109,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Guiyang Prisoners Escape, Kill 12 Policemen </TI></H3>
-<HT><F P=107><PHRASE>    Guiyang Prisoners Escape, Kill 12 Policemen </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guiyang Prisoners Escape, Kill 12 Policemen </PHRASE></F></HT>
 
-<F P=102>   HK3103103994 Hong Kong CHENG MING in Chinese No 198, 1 Apr 94 </F>
-<F P=103> HK3103103994 </F>
-<F P=104>  Hong Kong CHENG MING </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK3103103994 Hong Kong CHENG MING in Chinese No 198, 1 Apr 94 </F>
+<F P="103"> HK3103103994 </F>
+<F P="104">  Hong Kong CHENG MING </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Reference news" by Lei Hsi (7191 2497): "Prisoners in </F>
+<F P="106"> ["Reference news" by Lei Hsi (7191 2497): "Prisoners in </F>
 Guiyang Stage a Rebellion] 
   [Text] On the morning of 2 March, prisoners working on a 
 construction site on a highway near Huaxi Reservoir, Guiyang, 
@@ -11155,23 +11156,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Survey Views Young People's Opinion of Socialism </TI></H3>
-<HT><F P=107><PHRASE>    Survey Views Young People's Opinion of Socialism </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Survey Views Young People's Opinion of Socialism </PHRASE></F></HT>
 
-<F P=102>   HK3103071594 Hong Kong EASTERN EXPRESS in English 31 Mar 94 
+<F P="102">   HK3103071594 Hong Kong EASTERN EXPRESS in English 31 Mar 94 
 p 1 </F>
 
-<F P=103> HK3103071594 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> HK3103071594 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Paul Mooney] </F>
+<F P="106"> [By Paul Mooney] </F>
   [Text] Mao Zedong, if he were alive, would be appalled; 
 Deng Xiaoping, if he is still well enough to know what is going 
 on around him, would perhaps be a little more understanding. A 
@@ -11259,23 +11260,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Supreme People's Court Work Report to NPC </TI></H3>
-<HT><F P=107><PHRASE>    Supreme People's Court Work Report to NPC </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Supreme People's Court Work Report to NPC </PHRASE></F></HT>
 
-<F P=102>   OW3003141394 Beijing XINHUA Domestic Service in Chinese 2104 
+<F P="102">   OW3003141394 Beijing XINHUA Domestic Service in Chinese 2104 
 GMT 25 Mar 94 </F>
 
-<F P=103> OW3003141394 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3003141394 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Work Report of the Supreme People's Court -- given by Jen </F>
+<F P="106"> [Work Report of the Supreme People's Court -- given by Jen </F>
 Jianxin, president of the Supreme People's Court, at the Second 
 Session of the Eighth National People's Congress, NPC, on 15 
 March 1994] 
@@ -12131,14 +12132,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Zhu Rongji Speaks at Economics College 10-Year Anniversary </TI></H3>
-<HT><F P=107><PHRASE>    Zhu Rongji Speaks at Economics College 10-Year Anniversary </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhu Rongji Speaks at Economics College 10-Year Anniversary </PHRASE></F></HT>
 
-<F P=102>   OW3003141994 Beijing XINHUA in English 1401 GMT 30 Mar 94 </F>
-<F P=103> OW3003141994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003141994 Beijing XINHUA in English 1401 GMT 30 Mar 94 </F>
+<F P="103"> OW3003141994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12209,20 +12210,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Bo Yibo Calls Results Key Link in Development </TI></H3>
-<HT><F P=107><PHRASE>    Bo Yibo Calls Results Key Link in Development </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bo Yibo Calls Results Key Link in Development </PHRASE></F></HT>
 
-<F P=102>   HK3003145094 Beijing RENMIN RIBAO in Chinese 4 Mar 94 p 2 </F>
-<F P=103> HK3003145094 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK3003145094 Beijing RENMIN RIBAO in Chinese 4 Mar 94 p 2 </F>
+<F P="103"> HK3003145094 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Speech given by Bo Yibo (5631 0001 3134) before the </F>
+<F P="106"> [Speech given by Bo Yibo (5631 0001 3134) before the </F>
 National Congress of the Association of Industrial Economics and 
 the First Session of the Second Council of the National Congress 
 of the Association of Industrial Economics on 3 March: "Promote 
@@ -12427,14 +12428,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Zou Jiahua Views Plans To Reform Coal Mining Industry </TI></H3>
-<HT><F P=107><PHRASE>    Zou Jiahua Views Plans To Reform Coal Mining Industry </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zou Jiahua Views Plans To Reform Coal Mining Industry </PHRASE></F></HT>
 
-<F P=102>   OW3003145694 Beijing XINHUA in English 1429 GMT 30 Mar 94 </F>
-<F P=103> OW3003145694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003145694 Beijing XINHUA in English 1429 GMT 30 Mar 94 </F>
+<F P="103"> OW3003145694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12514,22 +12515,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Luo Gan Discusses Combatting Theft of State Property </TI></H3>
-<HT><F P=107><PHRASE>    Luo Gan Discusses Combatting Theft of State Property </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Luo Gan Discusses Combatting Theft of State Property </PHRASE></F></HT>
 
-<F P=102>   OW3003180694 Beijing XINHUA Domestic Service in Chinese 1307 
+<F P="102">   OW3003180694 Beijing XINHUA Domestic Service in Chinese 1307 
 GMT 29 Mar 94 </F>
 
-<F P=103> OW3003180694 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3003180694 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By RENMIN RIBAO correspondent Wang Bixue (3769 3024 1331) </F>
+<F P="106"> [By RENMIN RIBAO correspondent Wang Bixue (3769 3024 1331) </F>
 and XINHUA correspondent Zhou Lixian (0719 4539 2009)] 
   [Text] Beijing, 29 Mar (XINHUA) -- Relevant departments-- 
 including the Supreme People's Court, the Supreme People's 
@@ -12611,20 +12612,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Inter-Bank Foreign Exchange Market To Open in Shanghai </TI></H3>
-<HT><F P=107><PHRASE>    Inter-Bank Foreign Exchange Market To Open in Shanghai </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Inter-Bank Foreign Exchange Market To Open in Shanghai </PHRASE></F></HT>
 
-<F P=102>   HK3103080194 Beijing CHINA DAILY in English 31 Mar 94 p 1 </F>
-<F P=103> HK3103080194 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102">   HK3103080194 Beijing CHINA DAILY in English 31 Mar 94 p 1 </F>
+<F P="103"> HK3103080194 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Ren Kan: "Launch Day Looms for Inter-Bank Exchange"] </F>
+<F P="106"> [By Ren Kan: "Launch Day Looms for Inter-Bank Exchange"] </F>
   [Text] The country's first unified inter-bank foreign 
 exchange market will open in Shanghai tomorrow, a State official 
 said yesterday. 
@@ -12702,22 +12703,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Commissions Enact Rules on Employee Stock Purchases </TI></H3>
-<HT><F P=107><PHRASE>    Commissions Enact Rules on Employee Stock Purchases </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commissions Enact Rules on Employee Stock Purchases </PHRASE></F></HT>
 
-<F P=102>   OW3003142894 Beijing XINHUA Domestic Service in Chinese 1104 
+<F P="102">   OW3003142894 Beijing XINHUA Domestic Service in Chinese 1104 
 GMT 26 Feb 94 </F>
 
-<F P=103> OW3003142894 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3003142894 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By reporter Ding Jianming (0002 1017 6900)] </F>
+<F P="106"> [By reporter Ding Jianming (0002 1017 6900)] </F>
   [Text] Beijing, 26 Feb (XINHUA) -- The State Economic 
 Restructuring Commission and the State Council's Securities 
 Commission recently formulated supplementary provisions on 
@@ -12813,22 +12814,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Ministry News Briefing on Computer Security Regulations </TI></H3>
-<HT><F P=107><PHRASE>    Ministry News Briefing on Computer Security Regulations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ministry News Briefing on Computer Security Regulations </PHRASE></F></HT>
 
-<F P=102>   OW3103061094 Beijing XINHUA Domestic Service in Chinese 0811 
+<F P="102">   OW3103061094 Beijing XINHUA Domestic Service in Chinese 0811 
 GMT 3 Mar 94 </F>
 
-<F P=103> OW3103061094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3103061094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By reporter Zhou Lixian (0719 4539 2009)] </F>
+<F P="106"> [By reporter Zhou Lixian (0719 4539 2009)] </F>
   [Text] Beijing, 3 Mar (XINHUA) -- The Ministry of Public 
 Security today held a news briefing on the "Regulations for 
 Security Protection of Computer information Systems" recently 
@@ -12887,14 +12888,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Economists: Reform Expected To Have Big Impact on Markets </TI></H3>
-<HT><F P=107><PHRASE>    Economists: Reform Expected To Have Big Impact on Markets </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Economists: Reform Expected To Have Big Impact on Markets </PHRASE></F></HT>
 
-<F P=102>   OW3003135894 Beijing XINHUA in English 1249 GMT 30 Mar 94 </F>
-<F P=103> OW3003135894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003135894 Beijing XINHUA in English 1249 GMT 30 Mar 94 </F>
+<F P="103"> OW3003135894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12968,20 +12969,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Three-Month Anti-Inflation Campaign To Begin 1 Apr </TI></H3>
-<HT><F P=107><PHRASE>    Three-Month Anti-Inflation Campaign To Begin 1 Apr </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Three-Month Anti-Inflation Campaign To Begin 1 Apr </PHRASE></F></HT>
 
-<F P=102>   HK3103053094 Hong Kong AFP in English 0338 GMT 31 Mar 94 </F>
-<F P=103> HK3103053094 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102">   HK3103053094 Hong Kong AFP in English 0338 GMT 31 Mar 94 </F>
+<F P="103"> HK3103053094 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Philippe Massonnet] </F>
+<F P="106"> [By Philippe Massonnet] </F>
   [Text] Beijing, 31 March (AFP)--China launches Friday its 
 latest campaign to control prices and investments in an effort 
 to rein in galloping inflation, but experts doubt it will be 
@@ -13056,20 +13057,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Government Drafts Laws To Control Real Estate Market </TI></H3>
-<HT><F P=107><PHRASE>    Government Drafts Laws To Control Real Estate Market </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Drafts Laws To Control Real Estate Market </PHRASE></F></HT>
 
-<F P=102>   HK3103080794 Beijing CHINA DAILY in English 31 Mar 94 p 1 </F>
-<F P=103> HK3103080794 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102">   HK3103080794 Beijing CHINA DAILY in English 31 Mar 94 p 1 </F>
+<F P="103"> HK3103080794 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Liang Chao: "Laws To Put Brakes on Illegal Land Deals"] </F>
+<F P="106"> [By Liang Chao: "Laws To Put Brakes on Illegal Land Deals"] </F>
   [Text] The government is drafting several laws and 
 regulations to regain control of the real-estate market. 
   The process has been stepped up this year to prevent land 
@@ -13133,24 +13134,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   People's Insurance Company To Introduce New Policies </TI></H3>
-<HT><F P=107><PHRASE>    People's Insurance Company To Introduce New Policies </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    People's Insurance Company To Introduce New Policies </PHRASE></F></HT>
 
-<F P=102>   HK3103080894 Beijing CHINA DAILY (INSURANCE INDUSTRY 
+<F P="102">   HK3103080894 Beijing CHINA DAILY (INSURANCE INDUSTRY 
 SUPPLEMENT) in English 31 Mar 94 p 1 </F>
 
-<F P=103> HK3103080894 </F>
-<F P=104>  Beijing CHINA DAILY (INSURANCE INDUSTRY 
+<F P="103"> HK3103080894 </F>
+<F P="104">  Beijing CHINA DAILY (INSURANCE INDUSTRY 
 SUPPLEMENT) </F>
 
-<F P=105>  English </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "PICC's Plans To Cover the Nation"] </F>
+<F P="106"> [Unattributed report: "PICC's Plans To Cover the Nation"] </F>
   [Text] The People's Insurance Company of China (PICC) will 
 this year introduce new schedules concerning both their 
 administrative management and economic control in order to 
@@ -13224,16 +13225,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   BEIJING REVIEW on Expansion of Key Projects </TI></H3>
-<HT><F P=107><PHRASE>    BEIJING REVIEW on Expansion of Key Projects </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    BEIJING REVIEW on Expansion of Key Projects </PHRASE></F></HT>
 
-<F P=102>   OW3003145094 Beijing BEIJING REVIEW in English No 13, 28 
+<F P="102">   OW3003145094 Beijing BEIJING REVIEW in English No 13, 28 
 Mar-3 Apr 94 pp 13-16 </F>
 
-<F P=103> OW3003145094 </F>
-<F P=104>  Beijing BEIJING REVIEW </F>
-<F P=105>  English </F>
+<F P="103"> OW3003145094 </F>
+<F P="104">  Beijing BEIJING REVIEW </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -13442,22 +13443,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   BEIJING REVIEW on Aviation Developments </TI></H3>
-<HT><F P=107><PHRASE>    BEIJING REVIEW on Aviation Developments </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    BEIJING REVIEW on Aviation Developments </PHRASE></F></HT>
 
-<F P=102>   OW3003153094 Beijing BEIJING REVIEW in English No 13, 28 
+<F P="102">   OW3003153094 Beijing BEIJING REVIEW in English No 13, 28 
 Mar-3 Apr pp 8-11 </F>
 
-<F P=103> OW3003153094 </F>
-<F P=104>  Beijing BEIJING REVIEW </F>
-<F P=105>  English </F>
+<F P="103"> OW3003153094 </F>
+<F P="104">  Beijing BEIJING REVIEW </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Zhu Yuli: "China's Aviation Industry Spreads Its </F>
+<F P="106"> [Article by Zhu Yuli: "China's Aviation Industry Spreads Its </F>
 Wings"] 
   [Text] Prior to the 1980s, China's aviation industry 
 mainly engaged in manufacturing military equipment. However, 
@@ -13672,22 +13673,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Newspaper Views Development of Large Enterprises </TI></H3>
-<HT><F P=107><PHRASE>    Newspaper Views Development of Large Enterprises </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Newspaper Views Development of Large Enterprises </PHRASE></F></HT>
 
-<F P=102>   HK3103031094 Beijing JINGJI CANKAO BAO in Chinese 23 Feb 94 
+<F P="102">   HK3103031094 Beijing JINGJI CANKAO BAO in Chinese 23 Feb 94 
 p 4 </F>
 
-<F P=103> HK3103031094 </F>
-<F P=104>  Beijing JINGJI CANKAO BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK3103031094 </F>
+<F P="104">  Beijing JINGJI CANKAO BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Report" by Li Kemu (2621 0344 4476), Lu Chunheng (4151 </F>
+<F P="106"> ["Report" by Li Kemu (2621 0344 4476), Lu Chunheng (4151 </F>
 2504 1854), Li Qiming (2621 0796 2494), Chen Dongsheng (7115 
 2639 0581), Zhao Minshan (6392 1488 1472), Zhang Shouqing (1728 
 1343 3237), Xie Yue (6200 1878), Fang Yu (2455 1342), Yan 
@@ -14376,14 +14377,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Imports of Major Commodities Jan-Dec 1993 </TI></H3>
-<HT><F P=107><PHRASE>    Imports of Major Commodities Jan-Dec 1993 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Imports of Major Commodities Jan-Dec 1993 </PHRASE></F></HT>
 
-<F P=102>   HK1602142694 Beijing CEI Database in English 16 Feb 94 </F>
-<F P=103> HK1602142694 </F>
-<F P=104>  Beijing CEI Database </F>
-<F P=105>  English </F>
+<F P="102">   HK1602142694 Beijing CEI Database in English 16 Feb 94 </F>
+<F P="103"> HK1602142694 </F>
+<F P="104">  Beijing CEI Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14815,23 +14816,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Paper Lists Beijing District Affairs Advisers </TI></H3>
-<HT><F P=107><PHRASE>    Paper Lists Beijing District Affairs Advisers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Paper Lists Beijing District Affairs Advisers </PHRASE></F></HT>
 
-<F P=102>   HK0603063994 Hong Kong SOUTH CHINA MORNING POST in English 5 
+<F P="102">   HK0603063994 Hong Kong SOUTH CHINA MORNING POST in English 5 
 Mar 94 p 5 </F>
 
-<F P=103> HK0603063994 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK0603063994 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Full List" of district affairs advisers appointed by </F>
+<F P="106"> ["Full List" of district affairs advisers appointed by </F>
 Beijing on 4 March] 
   [Text] Legislator 
   Alfred Tso Shiu-wai (LDF) [Liberal Democratic Federation] 
@@ -14890,7 +14891,7 @@ Betterment of Hong Kong]
 ------------------------------------------------------------------------------- 
 |District Board Members (96)           |                                      | 
 ------------------------------------------------------------------------------- 
-|Central &amp; Western:                |Chan Choi-hi (MP) [Meeting Point]     | 
+|Central  amp; Western:                |Chan Choi-hi (MP) [Meeting Point]     | 
 ------------------------------------------------------------------------------- 
 |                                      |Alexander Chang Yau-hung (LDF)        | 
 ------------------------------------------------------------------------------- 
@@ -15212,15 +15213,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Panel Discusses Fate of Regions Public Servants </TI></H3>
-<HT><F P=107><PHRASE>    Panel Discusses Fate of Regions Public Servants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Panel Discusses Fate of Regions Public Servants </PHRASE></F></HT>
 
-<F P=102>   OW3003131994 Beijing XINHUA in English 1246 GMT 30 Mar 94 </F>
-<F P=103> OW3003131994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003131994 Beijing XINHUA in English 1246 GMT 30 Mar 94 </F>
+<F P="103"> OW3003131994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15308,17 +15309,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Task Force Views Hong Kong's Public Servants </TI></H3>
-<HT><F P=107><PHRASE>    Task Force Views Hong Kong's Public Servants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Task Force Views Hong Kong's Public Servants </PHRASE></F></HT>
 
-<F P=102>   OW3003130594 Beijing XINHUA Domestic Service in Chinese 0852 
+<F P="102">   OW3003130594 Beijing XINHUA Domestic Service in Chinese 0852 
 GMT 30 Mar 94 </F>
 
-<F P=103> OW3003130594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW3003130594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -15545,15 +15546,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Jiang Zemin Meets Hong Kong Press Chiefs </TI></H3>
-<HT><F P=107><PHRASE>    Jiang Zemin Meets Hong Kong Press Chiefs </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiang Zemin Meets Hong Kong Press Chiefs </PHRASE></F></HT>
 
-<F P=102>   OW3003134194 Beijing XINHUA in English 1310 GMT 30 Mar 94 </F>
-<F P=103> OW3003134194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003134194 Beijing XINHUA in English 1310 GMT 30 Mar 94 </F>
+<F P="103"> OW3003134194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15594,17 +15595,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Official Calls For Hong Kong To Control Prices, Housing </TI></H3>
-<HT><F P=107><PHRASE>    Official Calls For Hong Kong To Control Prices, Housing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Official Calls For Hong Kong To Control Prices, Housing </PHRASE></F></HT>
 
-<F P=102>   HK3103141494 Beijing ZHONGGUO XINWEN SHE in English 1120 GMT 
+<F P="102">   HK3103141494 Beijing ZHONGGUO XINWEN SHE in English 1120 GMT 
 31 Mar 94 </F>
 
-<F P=103> HK3103141494 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK3103141494 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15668,17 +15669,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Customs Official Views `Sheer Volume' of Counterfeit CD's </TI></H3>
-<HT><F P=107><PHRASE>    Customs Official Views `Sheer Volume' of Counterfeit CD's </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Customs Official Views `Sheer Volume' of Counterfeit CD's </PHRASE></F></HT>
 
-<F P=102>   HK2303063294 Hong Kong EASTERN EXPRESS in English 23 Mar 94 
+<F P="102">   HK2303063294 Hong Kong EASTERN EXPRESS in English 23 Mar 94 
 p 5 </F>
 
-<F P=103> HK2303063294 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> HK2303063294 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15776,23 +15777,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Jardine Delisting To Prevent Hostile Takeover </TI></H3>
-<HT><F P=107><PHRASE>    Jardine Delisting To Prevent Hostile Takeover </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jardine Delisting To Prevent Hostile Takeover </PHRASE></F></HT>
 
-<F P=102>   HK2803082094 Hong Kong SOUTH CHINA MORNING POST in English 
+<F P="102">   HK2803082094 Hong Kong SOUTH CHINA MORNING POST in English 
 28 Mar 94 p 1 </F>
 
-<F P=103> HK2803082094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK2803082094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Sheel Kohli in Bermuda] </F>
+<F P="106"> [By Sheel Kohli in Bermuda] </F>
   [Text] Jardine Matheson is seeking to enshrine a takeover 
 code in Bermudan law because it fears a takeover by Chinese 
 companies, according to a senior Bermudan minister. 
@@ -15865,24 +15866,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Li Ruihuan Rejoices at Sihanouk's Recovery From Illness </TI></H3>
-<HT><F P=107><PHRASE>    Li Ruihuan Rejoices at Sihanouk's Recovery From Illness </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Ruihuan Rejoices at Sihanouk's Recovery From Illness </PHRASE></F></HT>
 
-<F P=102>   OW3103140894 Beijing Central Television Program One Network 
+<F P="102">   OW3103140894 Beijing Central Television Program One Network 
 in Mandarin 1122 GMT 31 Mar 94 </F>
 
-<F P=103> OW3103140894 </F>
-<F P=104>  Beijing Central Television Program One Network 
+<F P="103"> OW3103140894 </F>
+<F P="104">  Beijing Central Television Program One Network 
 in Mandarin 1122 GMT 31 Mar 94 </F>
 
-<F P=105> Mandarin </F>
+<F P="105"> Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read "flash news" report over the video; from the </F>
+<F P="106"> [Announcer-read "flash news" report over the video; from the </F>
 "National News Hookup" program] 
   [Text] [Video opens with a medium-range shot of 
 bald-headed Sihanouk, walking briskly toward Li Ruihuan to shake 
@@ -15950,14 +15951,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Li Ruihuan Meets, Fetes Cambodian King Sihanouk </TI></H3>
-<HT><F P=107><PHRASE>    Li Ruihuan Meets, Fetes Cambodian King Sihanouk </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Ruihuan Meets, Fetes Cambodian King Sihanouk </PHRASE></F></HT>
 
-<F P=102>   OW3103142094 Beijing XINHUA in English 1408 GMT 31 Mar 94 </F>
-<F P=103> OW3103142094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103142094 Beijing XINHUA in English 1408 GMT 31 Mar 94 </F>
+<F P="103"> OW3103142094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16029,14 +16030,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   State Councillor Chen Junsheng Meets Western Samoan Guests </TI></H3>
-<HT><F P=107><PHRASE>    State Councillor Chen Junsheng Meets Western Samoan Guests </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    State Councillor Chen Junsheng Meets Western Samoan Guests </PHRASE></F></HT>
 
-<F P=102>   OW3003110794 Beijing XINHUA in English 1036 GMT 30 Mar 94 </F>
-<F P=103> OW3003110794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003110794 Beijing XINHUA in English 1036 GMT 30 Mar 94 </F>
+<F P="103"> OW3003110794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16067,20 +16068,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   `Roundup' Views Singapore Prime Minister's Burma Visit </TI></H3>
-<HT><F P=107><PHRASE>    `Roundup' Views Singapore Prime Minister's Burma Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Roundup' Views Singapore Prime Minister's Burma Visit </PHRASE></F></HT>
 
-<F P=102>   OW3103104394 Beijing XINHUA in English 0910 GMT 31 Mar 94 </F>
-<F P=103> OW3103104394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103104394 Beijing XINHUA in English 0910 GMT 31 Mar 94 </F>
+<F P="103"> OW3103104394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Roundup" by Zhang Yunfei: "Singapore PM Visit Promotes </F>
+<F P="106"> ["Roundup" by Zhang Yunfei: "Singapore PM Visit Promotes </F>
 Bilateral Ties"] 
   [Text] Yangon [Rangoon], March 31 (XINHUA) -- Singapore's 
 prime minister Myanmar [Burma] visit this week was widely 
@@ -16152,14 +16153,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   NPC Chairman Qiao Shi Meets Philippine Visitors </TI></H3>
-<HT><F P=107><PHRASE>    NPC Chairman Qiao Shi Meets Philippine Visitors </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    NPC Chairman Qiao Shi Meets Philippine Visitors </PHRASE></F></HT>
 
-<F P=102>   OW2903132494 Beijing XINHUA in English 1240 GMT 29 Mar 94 </F>
-<F P=103> OW2903132494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2903132494 Beijing XINHUA in English 1240 GMT 29 Mar 94 </F>
+<F P="103"> OW2903132494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16202,16 +16203,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Australian Foreign Minister's Meeting With Qian Delayed </TI></H3>
-<HT><F P=107><PHRASE>    Australian Foreign Minister's Meeting With Qian Delayed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Australian Foreign Minister's Meeting With Qian Delayed </PHRASE></F></HT>
 
-<F P=102>   BK0104061294 Melbourne Radio Australia in English 0500 GMT 1 
+<F P="102">   BK0104061294 Melbourne Radio Australia in English 0500 GMT 1 
 Apr 94 </F>
 
-<F P=103> BK0104061294 </F>
-<F P=104>  Melbourne Radio Australia </F>
-<F P=105>  English </F>
+<F P="103"> BK0104061294 </F>
+<F P="104">  Melbourne Radio Australia </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16247,14 +16248,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   New Zealand Prime Minister Meets Deng Nan-Led Delegation </TI></H3>
-<HT><F P=107><PHRASE>    New Zealand Prime Minister Meets Deng Nan-Led Delegation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Zealand Prime Minister Meets Deng Nan-Led Delegation </PHRASE></F></HT>
 
-<F P=102>   OW3003114394 Beijing XINHUA in English 0854 GMT 30 Mar 94 </F>
-<F P=103> OW3003114394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3003114394 Beijing XINHUA in English 0854 GMT 30 Mar 94 </F>
+<F P="103"> OW3003114394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16304,20 +16305,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Next Cross-Strait Talks Scheduled for Taipei `Late April' </TI></H3>
-<HT><F P=107><PHRASE>    Next Cross-Strait Talks Scheduled for Taipei `Late April' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Next Cross-Strait Talks Scheduled for Taipei `Late April' </PHRASE></F></HT>
 
-<F P=102>   OW3103143894 Taipei CNA in English 1326 GMT 31 Mar 94 </F>
-<F P=103> OW3103143894 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103143894 Taipei CNA in English 1326 GMT 31 Mar 94 </F>
+<F P="103"> OW3103143894 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Debbie Kuo] </F>
+<F P="106"> [By Debbie Kuo] </F>
   [Text] Taipei, March 31 (CNA) -- The next round of talks 
 between Taiwan and Mainland China is expected to be held in 
 Taipei in late April, chief Taiwan negotiator Hsu Hui-yu said 
@@ -16360,22 +16361,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   MAC Official on GATT Membership, Cross-Strait Trade </TI></H3>
-<HT><F P=107><PHRASE>    MAC Official on GATT Membership, Cross-Strait Trade </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    MAC Official on GATT Membership, Cross-Strait Trade </PHRASE></F></HT>
 
-<F P=102>   OW0104101794 Taipei Voice of Free China in English 0200 GMT 
+<F P="102">   OW0104101794 Taipei Voice of Free China in English 0200 GMT 
 6 Mar 94 </F>
 
-<F P=103> OW0104101794 </F>
-<F P=104>  Taipei Voice of Free China </F>
-<F P=105>  English </F>
+<F P="103"> OW0104101794 </F>
+<F P="104">  Taipei Voice of Free China </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "News" program] </F>
+<F P="106"> [From the "News" program] </F>
   [Text] Kao Koong-lian, vice chairman of the Mainland 
 Affairs Council, Friday [4 March] said Taiwan's future admission 
 to the General Agreement for Tariffs and Trade, or GATT, does 
@@ -16411,20 +16412,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Taipei To Establish Antipiracy Union </TI></H3>
-<HT><F P=107><PHRASE>    Taipei To Establish Antipiracy Union </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Taipei To Establish Antipiracy Union </PHRASE></F></HT>
 
-<F P=102>   OW0104091394 Taipei CNA in English 0756 GMT 1 Apr 94 </F>
-<F P=103> OW0104091394 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104091394 Taipei CNA in English 0756 GMT 1 Apr 94 </F>
+<F P="103"> OW0104091394 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Y.C. Tsai] </F>
+<F P="106"> [By Y.C. Tsai] </F>
   [Text] Taipei, April 1 (CNA) -- In a new effort to better 
 protect intellectual property rights, Taiwan will establish the 
 information product anti-piracy union in late April, the 
@@ -16474,20 +16475,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Belgian Bank Opens Representative Office in Taipei </TI></H3>
-<HT><F P=107><PHRASE>    Belgian Bank Opens Representative Office in Taipei </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Belgian Bank Opens Representative Office in Taipei </PHRASE></F></HT>
 
-<F P=102>   OW0104080994 Taipei CNA in English 0733 GMT 1 Apr 94 </F>
-<F P=103> OW0104080994 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104080994 Taipei CNA in English 0733 GMT 1 Apr 94 </F>
+<F P="103"> OW0104080994 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Danielle Yang] </F>
+<F P="106"> [By Danielle Yang] </F>
   [Text] Taipei, April 1 (CNA) -- The Belgian Bank opened a 
 representative office in Taipei Thursday [31 March] to promote 
 financial cooperation and trade between the Kingdom of Belgium 
@@ -16519,20 +16520,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Editorial Calls on China To Abandon `Big Brother Mentality' </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Calls on China To Abandon `Big Brother Mentality' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Calls on China To Abandon `Big Brother Mentality' </PHRASE></F></HT>
 
-<F P=102>   OW2202091794 Taipei CHINA POST in English 16 Feb 94 p 4 </F>
-<F P=103> OW2202091794 </F>
-<F P=104>  Taipei CHINA POST </F>
-<F P=105>  English </F>
+<F P="102">   OW2202091794 Taipei CHINA POST in English 16 Feb 94 p 4 </F>
+<F P="103"> OW2202091794 </F>
+<F P="104">  Taipei CHINA POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "Big brother mentality"] </F>
+<F P="106"> [Editorial: "Big brother mentality"] </F>
   [Text] Beijing must give up its big brotherism and cease 
 to intervene in Taiwan's efforts to develop foreign relations if 
 it wants to see a steady normalization of relations between the 
@@ -16613,14 +16614,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   China Reportedly `Willing To Be Helpful' on MFN </TI></H3>
-<HT><F P=107><PHRASE>    China Reportedly `Willing To Be Helpful' on MFN </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    China Reportedly `Willing To Be Helpful' on MFN </PHRASE></F></HT>
 
-<F P=102>   HK0104111394 Hong Kong AFP in English 1059 GMT 1 Apr 94 </F>
-<F P=103> HK0104111394 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102">   HK0104111394 Hong Kong AFP in English 1059 GMT 1 Apr 94 </F>
+<F P="103"> HK0104111394 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16684,14 +16685,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   Qian Qichen Meets, Fetes Cyrus Vance, Party </TI></H3>
-<HT><F P=107><PHRASE>    Qian Qichen Meets, Fetes Cyrus Vance, Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Qian Qichen Meets, Fetes Cyrus Vance, Party </PHRASE></F></HT>
 
-<F P=102>   OW0104092894 Beijing XINHUA in English 0919 GMT 1 Apr 94 </F>
-<F P=103> OW0104092894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104092894 Beijing XINHUA in English 0919 GMT 1 Apr 94 </F>
+<F P="103"> OW0104092894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16739,14 +16740,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   XINHUA Notes U.S. Report on Trade Obligations Fulfillment </TI></H3>
-<HT><F P=107><PHRASE>    XINHUA Notes U.S. Report on Trade Obligations Fulfillment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    XINHUA Notes U.S. Report on Trade Obligations Fulfillment </PHRASE></F></HT>
 
-<F P=102>   OW3103224994 Beijing XINHUA in English 2109 GMT 31 Mar 94 </F>
-<F P=103> OW3103224994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103224994 Beijing XINHUA in English 2109 GMT 31 Mar 94 </F>
+<F P="103"> OW3103224994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16805,22 +16806,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> United States &amp; Canada </F>
+<F P="100"> United States  amp; Canada </F>
 <H3> <TI>   `Special Article' Sees Permanent Sino-U.S. MFN Status </TI></H3>
-<HT><F P=107><PHRASE>    `Special Article' Sees Permanent Sino-U.S. MFN Status </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Special Article' Sees Permanent Sino-U.S. MFN Status </PHRASE></F></HT>
 
-<F P=102>   HK2503124894 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 0703 
+<F P="102">   HK2503124894 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 0703 
 GMT 20 Mar 94 </F>
 
-<F P=103> HK2503124894 </F>
-<F P=104>  Hong Kong ZHONGGUO TONGXUN SHE </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK2503124894 </F>
+<F P="104">  Hong Kong ZHONGGUO TONGXUN SHE </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Special article" by reporter He Chong (6320 3095): "It Is </F>
+<F P="106"> ["Special article" by reporter He Chong (6320 3095): "It Is </F>
 Historically Inevitable That China and the United States Will 
 Permanently Grant Preferential Trading Status to Each Other"] 
   [Text] Hong Kong, 20 Mar (ZHONGGUO TONGXUN SHE)--Prior to 
@@ -16937,17 +16938,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Envoy Explains PRC Stand to UN on DPRK Nuclear Issue </TI></H3>
-<HT><F P=107><PHRASE>    Envoy Explains PRC Stand to UN on DPRK Nuclear Issue </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Envoy Explains PRC Stand to UN on DPRK Nuclear Issue </PHRASE></F></HT>
 
-<F P=102>   OW0104112094 Beijing XINHUA Domestic Service in Chinese 0818 
+<F P="102">   OW0104112094 Beijing XINHUA Domestic Service in Chinese 0818 
 GMT 1 Apr 94 </F>
 
-<F P=103> OW0104112094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0104112094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -17010,21 +17011,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   Foreign Ministry Spokesman Views DPRK Nuclear Issue </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Ministry Spokesman Views DPRK Nuclear Issue </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Ministry Spokesman Views DPRK Nuclear Issue </PHRASE></F></HT>
 
-<F P=102>   HK0104044094 Beijing CHINA DAILY in English 1 Apr 94 p 1 </F>
-<F P=103> HK0104044094 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102">   HK0104044094 Beijing CHINA DAILY in English 1 Apr 94 p 1 </F>
+<F P="103"> HK0104044094 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Xu Yang: "Call for Moderation on Nukes"] </F>
+<F P="106"> [By staff reporter Xu Yang: "Call for Moderation on Nukes"] </F>
   [Excerpt] China favours a "moderately-worded and 
 constructive" presidential statement from the UN Security 
 Council on the Korean nuclear issue, a spokesman for the 
@@ -17069,15 +17070,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   UN Calls on DPRK To Cooperate on Nuclear Inspections </TI></H3>
-<HT><F P=107><PHRASE>    UN Calls on DPRK To Cooperate on Nuclear Inspections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UN Calls on DPRK To Cooperate on Nuclear Inspections </PHRASE></F></HT>
 
-<F P=102>   OW0104041894 Beijing XINHUA in English 0355 GMT 1 Apr 94 </F>
-<F P=103> OW0104041894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104041894 Beijing XINHUA in English 0355 GMT 1 Apr 94 </F>
+<F P="103"> OW0104041894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17128,15 +17129,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   UN Security Council Approves 3,500 More Troops for Bosnia </TI></H3>
-<HT><F P=107><PHRASE>    UN Security Council Approves 3,500 More Troops for Bosnia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UN Security Council Approves 3,500 More Troops for Bosnia </PHRASE></F></HT>
 
-<F P=102>   OW0104051094 Beijing XINHUA in English 0441 GMT 1 Apr 94 </F>
-<F P=103> OW0104051094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104051094 Beijing XINHUA in English 0441 GMT 1 Apr 94 </F>
+<F P="103"> OW0104051094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17192,15 +17193,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> General </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> General </F>
 <H3> <TI>   ITAR-TASS Cited on ROK Foreign Minister's Moscow Visit </TI></H3>
-<HT><F P=107><PHRASE>    ITAR-TASS Cited on ROK Foreign Minister's Moscow Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ITAR-TASS Cited on ROK Foreign Minister's Moscow Visit </PHRASE></F></HT>
 
-<F P=102>   OW3103141994 Beijing XINHUA in English 1330 GMT 31 Mar 94 </F>
-<F P=103> OW3103141994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103141994 Beijing XINHUA in English 1330 GMT 31 Mar 94 </F>
+<F P="103"> OW3103141994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17250,23 +17251,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Governments To Try To Control Level of Home Prices </TI></H3>
-<HT><F P=107><PHRASE>    Governments To Try To Control Level of Home Prices </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Governments To Try To Control Level of Home Prices </PHRASE></F></HT>
 
-<F P=102>   HK0104111994 Hong Kong SOUTH CHINA MORNING POST in English 1 
+<F P="102">   HK0104111994 Hong Kong SOUTH CHINA MORNING POST in English 1 
 Apr 94 pp 1, 2 </F>
 
-<F P=103> HK0104111994 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK0104111994 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Doreen Cheung in Beijing and S.Y. Yue] </F>
+<F P="106"> [By Doreen Cheung in Beijing and S.Y. Yue] </F>
   [Text] Both the Hong Kong and Chinese governments moved 
 yesterday to begin implementing measures to cool property 
 speculation and bring flat prices back to affordable levels. 
@@ -17377,17 +17378,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Survey Warns of `Exodus' `If Things Go Badly' After 1997 </TI></H3>
-<HT><F P=107><PHRASE>    Survey Warns of `Exodus' `If Things Go Badly' After 1997 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Survey Warns of `Exodus' `If Things Go Badly' After 1997 </PHRASE></F></HT>
 
-<F P=102>   HK0104103594 Hong Kong HONGKONG STANDARD in English 1 Apr 94 
+<F P="102">   HK0104103594 Hong Kong HONGKONG STANDARD in English 1 Apr 94 
 p 4 </F>
 
-<F P=103> HK0104103594 </F>
-<F P=104>  Hong Kong HONGKONG STANDARD </F>
-<F P=105>  English </F>
+<F P="103"> HK0104103594 </F>
+<F P="104">  Hong Kong HONGKONG STANDARD </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17450,21 +17451,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   RENMIN RIBAO Rejects UK White Paper on Talks </TI></H3>
-<HT><F P=107><PHRASE>    RENMIN RIBAO Rejects UK White Paper on Talks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    RENMIN RIBAO Rejects UK White Paper on Talks </PHRASE></F></HT>
 
-<F P=102>   HK2103123094 Beijing RENMIN RIBAO in Chinese 18 Mar 94 p 10 </F>
-<F P=103> HK2103123094 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK2103123094 Beijing RENMIN RIBAO in Chinese 18 Mar 94 p 10 </F>
+<F P="103"> HK2103123094 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Zheng Yan (6774 6056): "Where Is the British </F>
+<F P="106"> [Article by Zheng Yan (6774 6056): "Where Is the British </F>
 Side's sincerity in Holding the Talks?--Commenting on the White 
 Paper 'Representative Government in Hong Kong'"] 
   [Text] After the British side published its white paper 
@@ -17863,21 +17864,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   RENMIN RIBAO Further Criticizes UK White Paper </TI></H3>
-<HT><F P=107><PHRASE>    RENMIN RIBAO Further Criticizes UK White Paper </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    RENMIN RIBAO Further Criticizes UK White Paper </PHRASE></F></HT>
 
-<F P=102>   HK2103141094 Beijing RENMIN RIBAO in Chinese 18 Mar 94 p 10 </F>
-<F P=103> HK2103141094 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK2103141094 Beijing RENMIN RIBAO in Chinese 18 Mar 94 p 10 </F>
+<F P="103"> HK2103141094 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Shi Da (2514 6671): "What Kind of Stuff Is the British </F>
+<F P="106"> [By Shi Da (2514 6671): "What Kind of Stuff Is the British </F>
 Side's So-called `Being Fair and Open?'--Also Commenting on the 
 White Paper on 'Representative Government in Hong Kong'"] 
   [Text] Not long ago, without consulting its Chinese 
@@ -18094,15 +18095,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Macao </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Macao </F>
 <H3> <TI>   Macao Marks 1st Anniversary of Issuing SAR Basic Law </TI></H3>
-<HT><F P=107><PHRASE>    Macao Marks 1st Anniversary of Issuing SAR Basic Law </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Macao Marks 1st Anniversary of Issuing SAR Basic Law </PHRASE></F></HT>
 
-<F P=102>   OW3103153694 Beijing XINHUA in English 1458 GMT 31 Mar 94 </F>
-<F P=103> OW3103153694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103153694 Beijing XINHUA in English 1458 GMT 31 Mar 94 </F>
+<F P="103"> OW3103153694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18150,14 +18151,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   XINHUA Notes Steps Toward Bosnian Croat-Muslim Federation </TI></H3>
-<HT><F P=107><PHRASE>    XINHUA Notes Steps Toward Bosnian Croat-Muslim Federation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    XINHUA Notes Steps Toward Bosnian Croat-Muslim Federation </PHRASE></F></HT>
 
-<F P=102>   OW2703060594 Beijing XINHUA in English 0356 GMT 27 Mar 94 </F>
-<F P=103> OW2703060594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2703060594 Beijing XINHUA in English 0356 GMT 27 Mar 94 </F>
+<F P="103"> OW2703060594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18213,16 +18214,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   Croatian Delegation Visits Shenzhen, Discusses Economies </TI></H3>
-<HT><F P=107><PHRASE>    Croatian Delegation Visits Shenzhen, Discusses Economies </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Croatian Delegation Visits Shenzhen, Discusses Economies </PHRASE></F></HT>
 
-<F P=102>   LD2903104394 Zagreb Radio Croatia Network in Serbo-Croatian 
+<F P="102">   LD2903104394 Zagreb Radio Croatia Network in Serbo-Croatian 
 1000 GMT 29 Mar 94 </F>
 
-<F P=103> LD2903104394 </F>
-<F P=104>  Zagreb Radio Croatia Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD2903104394 </F>
+<F P="104">  Zagreb Radio Croatia Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -18257,14 +18258,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   Qian Qichen Meets Croatian Deputy Foreign Minister </TI></H3>
-<HT><F P=107><PHRASE>    Qian Qichen Meets Croatian Deputy Foreign Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Qian Qichen Meets Croatian Deputy Foreign Minister </PHRASE></F></HT>
 
-<F P=102>   OW2603132494 Beijing XINHUA in English 1306 GMT 26 Mar 94 </F>
-<F P=103> OW2603132494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2603132494 Beijing XINHUA in English 1306 GMT 26 Mar 94 </F>
+<F P="103"> OW2603132494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18310,14 +18311,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   Joint Polish Trade Committee Holds Session in Beijing </TI></H3>
-<HT><F P=107><PHRASE>    Joint Polish Trade Committee Holds Session in Beijing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Joint Polish Trade Committee Holds Session in Beijing </PHRASE></F></HT>
 
-<F P=102>   OW2803092494 Beijing XINHUA in English 0719 GMT 28 Mar 94 </F>
-<F P=103> OW2803092494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2803092494 Beijing XINHUA in English 0719 GMT 28 Mar 94 </F>
+<F P="103"> OW2803092494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18348,16 +18349,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   Romania To Establish `Permanent Presence' in Guangdong </TI></H3>
-<HT><F P=107><PHRASE>    Romania To Establish `Permanent Presence' in Guangdong </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Romania To Establish `Permanent Presence' in Guangdong </PHRASE></F></HT>
 
-<F P=102>   HK1503011694 Beijing ZHONGGUO XINWEN SHE in English 1350 GMT 
+<F P="102">   HK1503011694 Beijing ZHONGGUO XINWEN SHE in English 1350 GMT 
 14 Mar 94 </F>
 
-<F P=103> HK1503011694 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK1503011694 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18394,14 +18395,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   Romanian President Praises PRC's Economic Achievements </TI></H3>
-<HT><F P=107><PHRASE>    Romanian President Praises PRC's Economic Achievements </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Romanian President Praises PRC's Economic Achievements </PHRASE></F></HT>
 
-<F P=102>   OW1503020994 Beijing XINHUA in English 0154 GMT 15 Mar 94 </F>
-<F P=103> OW1503020994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1503020994 Beijing XINHUA in English 0154 GMT 15 Mar 94 </F>
+<F P="103"> OW1503020994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18444,14 +18445,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Sub-Saharan Africa </F>
+<F P="100"> Sub-Saharan Africa </F>
 <H3> <TI>   Rong Yiren Meets Angolan Foreign Minister </TI></H3>
-<HT><F P=107><PHRASE>    Rong Yiren Meets Angolan Foreign Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rong Yiren Meets Angolan Foreign Minister </PHRASE></F></HT>
 
-<F P=102>   OW3103085794 Beijing XINHUA in English 0826 GMT 31 Mar 94 </F>
-<F P=103> OW3103085794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103085794 Beijing XINHUA in English 0826 GMT 31 Mar 94 </F>
+<F P="103"> OW3103085794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18504,14 +18505,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Sub-Saharan Africa </F>
+<F P="100"> Sub-Saharan Africa </F>
 <H3> <TI>   Qiao Shi Meets Benin Parliament Leader </TI></H3>
-<HT><F P=107><PHRASE>    Qiao Shi Meets Benin Parliament Leader </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Qiao Shi Meets Benin Parliament Leader </PHRASE></F></HT>
 
-<F P=102>   OW2603142194 Beijing XINHUA in English 1353 GMT 26 Mar 94 </F>
-<F P=103> OW2603142194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2603142194 Beijing XINHUA in English 1353 GMT 26 Mar 94 </F>
+<F P="103"> OW2603142194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18574,14 +18575,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Sub-Saharan Africa </F>
+<F P="100"> Sub-Saharan Africa </F>
 <H3> <TI>   Rong Yiren Meets Benin National Assembly President </TI></H3>
-<HT><F P=107><PHRASE>    Rong Yiren Meets Benin National Assembly President </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rong Yiren Meets Benin National Assembly President </PHRASE></F></HT>
 
-<F P=102>   OW2803125894 Beijing XINHUA in English 1239 GMT 28 Mar 94 </F>
-<F P=103> OW2803125894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2803125894 Beijing XINHUA in English 1239 GMT 28 Mar 94 </F>
+<F P="103"> OW2803125894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18634,14 +18635,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Sub-Saharan Africa </F>
+<F P="100"> Sub-Saharan Africa </F>
 <H3> <TI>   Economic Joint Commission Session Planned With Nigeria </TI></H3>
-<HT><F P=107><PHRASE>    Economic Joint Commission Session Planned With Nigeria </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Economic Joint Commission Session Planned With Nigeria </PHRASE></F></HT>
 
-<F P=102>   OW1503015094 Beijing XINHUA in English 0118 GMT 15 Mar 94 </F>
-<F P=103> OW1503015094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1503015094 Beijing XINHUA in English 0118 GMT 15 Mar 94 </F>
+<F P="103"> OW1503015094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18682,14 +18683,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Sub-Saharan Africa </F>
+<F P="100"> Sub-Saharan Africa </F>
 <H3> <TI>   China To Send Doctors, Medical Equipment to Madagascar </TI></H3>
-<HT><F P=107><PHRASE>    China To Send Doctors, Medical Equipment to Madagascar </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    China To Send Doctors, Medical Equipment to Madagascar </PHRASE></F></HT>
 
-<F P=102>   OW2403040394 Beijing XINHUA in English 0324 GMT 24 Mar 94 </F>
-<F P=103> OW2403040394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW2403040394 Beijing XINHUA in English 0324 GMT 24 Mar 94 </F>
+<F P="103"> OW2403040394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18726,20 +18727,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Sub-Saharan Africa </F>
+<F P="100"> Sub-Saharan Africa </F>
 <H3> <TI>   South Africa Holds Trade Fair in Beijing </TI></H3>
-<HT><F P=107><PHRASE>    South Africa Holds Trade Fair in Beijing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    South Africa Holds Trade Fair in Beijing </PHRASE></F></HT>
 
-<F P=102>   HK2303065994 Beijing CHINA DAILY in English 23 Mar 94 p 2 </F>
-<F P=103> HK2303065994 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102">   HK2303065994 Beijing CHINA DAILY in English 23 Mar 94 p 2 </F>
+<F P="103"> HK2303065994 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Qiu Qi: "S. Africa Opens First China </F>
+<F P="106"> [By staff reporter Qiu Qi: "S. Africa Opens First China </F>
 Fair"] 
   [Text] South Africa's first commodity fair in China opened 
 yesterday in Beijing, marking a further step by the growing 
@@ -18754,7 +18755,7 @@ from
 31 industries including South Africa's strongest sectors such as 
 mining equipment, electronics and jewellery. 
   Many South African big name companies such as Sasol, Iscor 
-Mining &amp; Steel Production, Saflec Electronics and Nampak are 
+Mining  amp; Steel Production, Saflec Electronics and Nampak are 
 seeking shares in China's flourishing industrial and commercial 
 market. 
   Graaff said he believes the exhibition "will make an 
@@ -18799,14 +18800,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Sub-Saharan Africa </F>
+<F P="100"> Sub-Saharan Africa </F>
 <H3> <TI>   Office Equipment, Stationery Donated to Zambia College </TI></H3>
-<HT><F P=107><PHRASE>    Office Equipment, Stationery Donated to Zambia College </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Office Equipment, Stationery Donated to Zambia College </PHRASE></F></HT>
 
-<F P=102>   OW3103171394 Beijing XINHUA in English 1653 GMT 31 Mar 94 </F>
-<F P=103> OW3103171394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103171394 Beijing XINHUA in English 1653 GMT 31 Mar 94 </F>
+<F P="103"> OW3103171394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18845,14 +18846,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Finnish Prime Minister Says Helsinki Ready To Promote Ties </TI></H3>
-<HT><F P=107><PHRASE>    Finnish Prime Minister Says Helsinki Ready To Promote Ties </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Finnish Prime Minister Says Helsinki Ready To Promote Ties </PHRASE></F></HT>
 
-<F P=102>   OW0104030794 Beijing XINHUA in English 0230 GMT 1 Apr 94 </F>
-<F P=103> OW0104030794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104030794 Beijing XINHUA in English 0230 GMT 1 Apr 94 </F>
+<F P="103"> OW0104030794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18916,14 +18917,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Lufthansa Opens Shanghai-Frankfurt Route </TI></H3>
-<HT><F P=107><PHRASE>    Lufthansa Opens Shanghai-Frankfurt Route </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Lufthansa Opens Shanghai-Frankfurt Route </PHRASE></F></HT>
 
-<F P=102>   OW0104070494 Beijing XINHUA in English 0643 GMT 1 Apr 94 </F>
-<F P=103> OW0104070494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104070494 Beijing XINHUA in English 0643 GMT 1 Apr 94 </F>
+<F P="103"> OW0104070494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18956,14 +18957,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Qian Qichen, Icelandic Foreign Minister Hold Talks </TI></H3>
-<HT><F P=107><PHRASE>    Qian Qichen, Icelandic Foreign Minister Hold Talks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Qian Qichen, Icelandic Foreign Minister Hold Talks </PHRASE></F></HT>
 
-<F P=102>   OW3103133294 Beijing XINHUA in English 1318 GMT 31 Mar 94 </F>
-<F P=103> OW3103133294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103133294 Beijing XINHUA in English 1318 GMT 31 Mar 94 </F>
+<F P="103"> OW3103133294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -19029,14 +19030,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Rong Yiren Meets Icelandic Foreign Minister </TI></H3>
-<HT><F P=107><PHRASE>    Rong Yiren Meets Icelandic Foreign Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rong Yiren Meets Icelandic Foreign Minister </PHRASE></F></HT>
 
-<F P=102>   OW0104100094 Beijing XINHUA in English 0934 GMT 1 Apr 94 </F>
-<F P=103> OW0104100094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0104100094 Beijing XINHUA in English 0934 GMT 1 Apr 94 </F>
+<F P="103"> OW0104100094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -19088,14 +19089,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Shandong Governor Meets With Swedish Delegation </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Governor Meets With Swedish Delegation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Governor Meets With Swedish Delegation </PHRASE></F></HT>
 
-<F P=102>   SK0104080294 Jinan DAZHONG RIBAO in Chinese 20 Mar 94 p 1 </F>
-<F P=103> SK0104080294 </F>
-<F P=104>  Jinan DAZHONG RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   SK0104080294 Jinan DAZHONG RIBAO in Chinese 20 Mar 94 p 1 </F>
+<F P="103"> SK0104080294 </F>
+<F P="104">  Jinan DAZHONG RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -19141,23 +19142,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Article on Detentions During Hosokawa's China Visit </TI></H3>
-<HT><F P=107><PHRASE>    Article on Detentions During Hosokawa's China Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Article on Detentions During Hosokawa's China Visit </PHRASE></F></HT>
 
-<F P=102>   HK0104095294 Hong Kong CHENG MING in Chinese No 198, 1 Apr 
+<F P="102">   HK0104095294 Hong Kong CHENG MING in Chinese No 198, 1 Apr 
 94 p 26 </F>
 
-<F P=103> HK0104095294 </F>
-<F P=104>  Hong Kong CHENG MING </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK0104095294 </F>
+<F P="104">  Hong Kong CHENG MING </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Reference News" by Ta Ta (6671 6671)] </F>
+<F P="106"> ["Reference News" by Ta Ta (6671 6671)] </F>
   [Text] On 19 March when Japanese Prime Minister Morohiro 
 Hosokawa began his China visit, the General Office of the State 
 Council sent a decree to 10 cities ordering that they prevent 
@@ -19190,21 +19191,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Poll Shows People Support Demonstrations When Necessary </TI></H3>
-<HT><F P=107><PHRASE>    Poll Shows People Support Demonstrations When Necessary </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Poll Shows People Support Demonstrations When Necessary </PHRASE></F></HT>
 
-<F P=102>   HK0104045894 Hong Kong MING PAO in Chinese 1 Apr 94 p A10 </F>
-<F P=103> HK0104045894 </F>
-<F P=104>  Hong Kong MING PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK0104045894 Hong Kong MING PAO in Chinese 1 Apr 94 p A10 </F>
+<F P="103"> HK0104045894 </F>
+<F P="104">  Hong Kong MING PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By special correspondent Ching Chi (5427 2765): "Fifty </F>
+<F P="106"> [By special correspondent Ching Chi (5427 2765): "Fifty </F>
 Percent of People Favor Using Demonstrations When Necessary"] 
   [Text] With the further development of reform and opening 
 up in China in the past year, citizens are enjoying more and 
@@ -19286,15 +19287,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Cholera Epidemic Hit China in 1993, Killing 142 </TI></H3>
-<HT><F P=107><PHRASE>    Cholera Epidemic Hit China in 1993, Killing 142 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cholera Epidemic Hit China in 1993, Killing 142 </PHRASE></F></HT>
 
-<F P=102>   HK0104091194 Hong Kong AFP in English 0841 GMT 1 April 94 </F>
-<F P=103> HK0104091194 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102">   HK0104091194 Hong Kong AFP in English 0841 GMT 1 April 94 </F>
+<F P="103"> HK0104091194 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -19341,23 +19342,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Noted Academic Urges Giving Top Priority to Stability </TI></H3>
-<HT><F P=107><PHRASE>    Noted Academic Urges Giving Top Priority to Stability </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Noted Academic Urges Giving Top Priority to Stability </PHRASE></F></HT>
 
-<F P=102>   HK0104095394 Beijing ZHONGGUO XINWEN SHE in Chinese 0516 GMT 
+<F P="102">   HK0104095394 Beijing ZHONGGUO XINWEN SHE in Chinese 0516 GMT 
 22 Mar 94 </F>
 
-<F P=103> HK0104095394 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK0104095394 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report on "exclusive" interview with Lu Xueyi (7120 1331 </F>
+<F P="106"> [Report on "exclusive" interview with Lu Xueyi (7120 1331 </F>
 5669), National People's Congress deputy and noted sociologist, 
 by reporters Zhang Hong (1728 4767) and Liu Hongtao (0491 3163 
 3447); date, place not given] 
@@ -19428,23 +19429,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Paper Cites Internal-Circulation Police Handbook </TI></H3>
-<HT><F P=107><PHRASE>    Paper Cites Internal-Circulation Police Handbook </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Paper Cites Internal-Circulation Police Handbook </PHRASE></F></HT>
 
-<F P=102>   HK0104081094 Hong Kong EASTERN EXPRESS in English 1 Apr 94 p 
+<F P="102">   HK0104081094 Hong Kong EASTERN EXPRESS in English 1 Apr 94 p 
 7 </F>
 
-<F P=103> HK0104081094 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> HK0104081094 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By A. R. Wilkie] </F>
+<F P="106"> [By A. R. Wilkie] </F>
   [Text] Imagine a world where all outsiders are enemies; 
 where not even your closest colleagues are above suspicion, 
 where all telephone calls are assumed to be bugged; where even 
@@ -19576,23 +19577,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Deng's Daughter Pursues Publishers of Pirated Biography </TI></H3>
-<HT><F P=107><PHRASE>    Deng's Daughter Pursues Publishers of Pirated Biography </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Deng's Daughter Pursues Publishers of Pirated Biography </PHRASE></F></HT>
 
-<F P=102>   HK0104074094 Hong Kong EASTERN EXPRESS in English 1 Apr 94 p 
+<F P="102">   HK0104074094 Hong Kong EASTERN EXPRESS in English 1 Apr 94 p 
 1 </F>
 
-<F P=103> HK0104074094 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> HK0104074094 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Bruce Gilley] </F>
+<F P="106"> [Report by Bruce Gilley] </F>
   [Text] Deng Xiaoping's daughter is suing a printing 
 factory in Shandong province after it pirated thousands of 
 copies of her biography of the patriarch, mainland sources say. 
@@ -19666,21 +19667,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Code for Appraisal of Government Workers Introduced </TI></H3>
-<HT><F P=107><PHRASE>    Code for Appraisal of Government Workers Introduced </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Code for Appraisal of Government Workers Introduced </PHRASE></F></HT>
 
-<F P=102>   HK0104050294 Beijing CHINA DAILY in English 1 Apr 94 p 1 </F>
-<F P=103> HK0104050294 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102">   HK0104050294 Beijing CHINA DAILY in English 1 Apr 94 p 1 </F>
+<F P="103"> HK0104050294 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Cao Min: "Code Rates The Work of State Employees"] </F>
+<F P="106"> [By Cao Min: "Code Rates The Work of State Employees"] </F>
   [Text] The Personnel Ministry has issued China's first 
 code to appraise government workers. 
   And it lays down grades for regular checks on their 
@@ -19734,15 +19735,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Air China Drafts New `Standards' for Delayed Passengers </TI></H3>
-<HT><F P=107><PHRASE>    Air China Drafts New `Standards' for Delayed Passengers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Air China Drafts New `Standards' for Delayed Passengers </PHRASE></F></HT>
 
-<F P=102>   OW3103132894 Beijing XINHUA in English 1308 GMT 31 Mar 94 </F>
-<F P=103> OW3103132894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103132894 Beijing XINHUA in English 1308 GMT 31 Mar 94 </F>
+<F P="103"> OW3103132894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -19795,15 +19796,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Younger Clergy Involved in Religious Affairs in Beijing </TI></H3>
-<HT><F P=107><PHRASE>    Younger Clergy Involved in Religious Affairs in Beijing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Younger Clergy Involved in Religious Affairs in Beijing </PHRASE></F></HT>
 
-<F P=102>   OW3103131594 Beijing XINHUA in English 1254 GMT 31 Mar 94 </F>
-<F P=103> OW3103131594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW3103131594 Beijing XINHUA in English 1254 GMT 31 Mar 94 </F>
+<F P="103"> OW3103131594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -19853,14 +19854,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Report on Central Leaders' Activities 25-31 Mar </TI></H3>
-<HT><F P=107><PHRASE>    Report on Central Leaders' Activities 25-31 Mar </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Report on Central Leaders' Activities 25-31 Mar </PHRASE></F></HT>
 
-<F P=102>   OW0104083094 </F>
-<F P=103> OW0104083094 </F>
-<F P=104></F>
+<F P="102">   OW0104083094 </F>
+<F P="103"> OW0104083094 </F>
+<F P="104"></F>
 
 
 
@@ -19944,21 +19945,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Hainan Succeeds in Anticorruption Work </TI></H3>
-<HT><F P=107><PHRASE>    Hainan Succeeds in Anticorruption Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hainan Succeeds in Anticorruption Work </PHRASE></F></HT>
 
-<F P=102>   HK0104020294 Beijing RENMIN RIBAO in Chinese 27 Mar 94 p 1 </F>
-<F P=103> HK0104020294 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK0104020294 Beijing RENMIN RIBAO in Chinese 27 Mar 94 p 1 </F>
+<F P="103"> HK0104020294 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Bao Hongjun (7637 3163 0193): "Hainan </F>
+<F P="106"> [By staff reporter Bao Hongjun (7637 3163 0193): "Hainan </F>
 Province Fights Corruption by Looking Into Both Its Root Cause 
 and Symptoms -- Not Only Handling Cases in Earnest, But Also 
 Deepening Structural Reform"] 
@@ -20166,23 +20167,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Report on Economic, Social Plans </TI></H3>
-<HT><F P=107><PHRASE>    Report on Economic, Social Plans </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Report on Economic, Social Plans </PHRASE></F></HT>
 
-<F P=102>   OW0104095594 Beijing XINHUA Domestic Service in Chinese 2150 
+<F P="102">   OW0104095594 Beijing XINHUA Domestic Service in Chinese 2150 
 GMT 23 Mar 94 </F>
 
-<F P=103> OW0104095594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0104095594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Report on the Implementation of the National Economic and </F>
+<F P="106"> ["Report on the Implementation of the National Economic and </F>
 Social Development Plan for 1993 and the Draft Plan for National 
 Economic and Social Development for 1994" -- delivered by Chen 
 Jinhua, minister in charge of the State Planning Commission, at 
@@ -21273,3 +21274,4 @@ Chinese characteristics and of the party's basic line.
 </TEXT>
 
 </DOC>
+</root>

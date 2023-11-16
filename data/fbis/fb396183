@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS3-46633 </DOCNO>
@@ -11,21 +12,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Article Views Coalition's Tax Reform Policy </TI></H3>
-<F P=102>  OW3112084693 Tokyo ASAHI SHIMBUN in Japanese 22 Dec 93 
+<F P="102">  OW3112084693 Tokyo ASAHI SHIMBUN in Japanese 22 Dec 93 
 Morning Edition p 7 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW3112084693 </F>
-<F P=104>  Tokyo ASAHI SHIMBUN </F>
+<F P="103"> OW3112084693 </F>
+<F P="104">  Tokyo ASAHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article; part 27 in the series: "The </F>
+<F P="106"> [Unattributed article; part 27 in the series: "The </F>
 Coalition -- A Revolving Stage": "The Coalition's Tax Reform"] 
   [Text] On the morning of 21 December, the Social 
 Democratic Party of Japan's [SDPJ] Tax System Research Council 
@@ -177,21 +178,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Article on `Danger' of Financial Uncertainty </TI></H3>
-<F P=102>  OW3112123393 Tokyo SHUKAN DAIYAMONDO in Japanese 11 Dec 93 p 
+<F P="102">  OW3112123393 Tokyo SHUKAN DAIYAMONDO in Japanese 11 Dec 93 p 
 8-10 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW3112123393 </F>
-<F P=104>  Tokyo SHUKAN DAIYAMONDO </F>
+<F P="103"> OW3112123393 </F>
+<F P="104">  Tokyo SHUKAN DAIYAMONDO </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> ["DAIYAMONDO Report" article by Susumu Saito, representative </F>
+<F P="106"> ["DAIYAMONDO Report" article by Susumu Saito, representative </F>
 director of Sankyoku Economic Research Institute: "Tokyo Stocks 
 Plunge! Government Should Do Its Utmost To Avoid Worldwide 
 Financial Uncertainty"] 
@@ -416,15 +417,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   ROK Reportedly Held `War Exercise' Near DMZ </TI></H3>
-<F P=102>  SK3112045593 Pyongyang KCNA in English 0418 GMT 31 Dec 93 </F>
-<F P=103> SK3112045593 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112045593 Pyongyang KCNA in English 0418 GMT 31 Dec 93 </F>
+<F P="103"> SK3112045593 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Armed bandits of 
@@ -457,18 +458,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   South `Clique' Criticized for `Fascist Remarks' </TI></H3>
-<F P=102>  SK0201094594 Pyongyang KCNA in English 0857 GMT 2 Jan 94 </F>
-<F P=103> SK0201094594 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0201094594 Pyongyang KCNA in English 0857 GMT 2 Jan 94 </F>
+<F P="103"> SK0201094594 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Desperate Fascist Frenzy" -- KCNA headline] </F>
+<F P="106"> ["Desperate Fascist Frenzy" -- KCNA headline] </F>
   [Text] Pyongyang, January 2 (KCNA) -- NODONG SINMUN today 
 denounces the Kim Yong-sam group for throwing off the "civilian" 
 veil and openly making fascist remarks these days. 
@@ -516,18 +517,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Paper Condemns Kim Yong-sam's `Treacheries' </TI></H3>
-<F P=102>  SK0401110294 Pyongyang KCNA in English 1020 GMT 4 Jan 94 </F>
-<F P=103> SK0401110294 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0401110294 Pyongyang KCNA in English 1020 GMT 4 Jan 94 </F>
+<F P="103"> SK0401110294 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["No Need To Watch South Korean `Regime' and Nothing To </F>
+<F P="106"> ["No Need To Watch South Korean `Regime' and Nothing To </F>
 Expect From It"--KCNA headline] 
   [Text] Pyongyang, January 4 (KCNA) -- Now the South Korean 
 people and public figures are courageously turning out in the 
@@ -606,15 +607,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Daily Criticizes Kim Yong-sam's Policies </TI></H3>
-<F P=102>  SK3112105893 Pyongyang KCNA in English 1018 GMT 31 Dec 93 </F>
-<F P=103> SK3112105893 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112105893 Pyongyang KCNA in English 1018 GMT 31 Dec 93 </F>
+<F P="103"> SK3112105893 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The traitor Kim 
@@ -659,15 +660,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Reunification Group Denounces Kim Yong-sam </TI></H3>
-<F P=102>  SK3112110093 Pyongyang KCNA in English 1011 GMT 31 Dec 93 </F>
-<F P=103> SK3112110093 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112110093 Pyongyang KCNA in English 1011 GMT 31 Dec 93 </F>
+<F P="103"> SK3112110093 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The Secretariat of 
@@ -738,18 +739,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Remark by Japan's Hata on Nuclear Issue Berated </TI></H3>
-<F P=102>  SK0401103394 Pyongyang KCNA in English 1024 GMT 4 Jan 94 </F>
-<F P=103> SK0401103394 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0401103394 Pyongyang KCNA in English 1024 GMT 4 Jan 94 </F>
+<F P="103"> SK0401103394 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Anti-DPRK Policy Revealed Again"--KCNA headline] </F>
+<F P="106"> ["Anti-DPRK Policy Revealed Again"--KCNA headline] </F>
   [Text] Pyongyang, January 4 (KCNA) -- Japanese Foreign 
 Minister Hata reportedly told a press conference that "suspected 
 nuclear programme of North Korea is a factor of destability in 
@@ -799,15 +800,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Kim Il-song Meets Students Visiting From Japan </TI></H3>
-<F P=102>  SK0101104794 Pyongyang KCNA in English 1008 GMT 1 Jan 94 </F>
-<F P=103> SK0101104794 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0101104794 Pyongyang KCNA in English 1008 GMT 1 Jan 94 </F>
+<F P="103"> SK0101104794 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 1 (KCNA) -- The great leader 
@@ -839,15 +840,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Chongnyon Officials Swear Allegiance in Tokyo </TI></H3>
-<F P=102>  SK0301103894 Pyongyang KCNA in English 1020 GMT 3 Jan 94 </F>
-<F P=103> SK0301103894 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0301103894 Pyongyang KCNA in English 1020 GMT 3 Jan 94 </F>
+<F P="103"> SK0301103894 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, January 1 (KNS-KCNA) -- Officials of the 
@@ -889,18 +890,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   U.S. Commander's Remarks on Presence Decried </TI></H3>
-<F P=102>  SK3112053693 Pyongyang KCNA in English 0429 GMT 31 Dec 93 </F>
-<F P=103> SK3112053693 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112053693 Pyongyang KCNA in English 0429 GMT 31 Dec 93 </F>
+<F P="103"> SK3112053693 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Anachronistic Policy of Strength" -- KCNA headline] </F>
+<F P="106"> ["Anachronistic Policy of Strength" -- KCNA headline] </F>
   [Text] Pyongyang, December 31 (KCNA) -- Charles Larson, 
 commander-in-chief of the U.S. Pacific Forces, recently tried to 
 justify the U.S. nuclear umbrella and military bases in South 
@@ -951,15 +952,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   KCNA: Over 200 U.S. `Aerial Espionages' in Dec </TI></H3>
-<F P=102>  SK3112043093 Pyongyang KCNA in English 0402 GMT 31 Dec 93 </F>
-<F P=103> SK3112043093 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112043093 Pyongyang KCNA in English 0402 GMT 31 Dec 93 </F>
+<F P="103"> SK3112043093 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The U.S. 
@@ -992,16 +993,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   35th Anniversary of Cuban Revolution Marked </TI></H3>
 <H4>   Kim Il-song Greets Fidel Castro </H4>
-<F P=102> SK3112112793 Pyongyang KCNA in English 1038 GMT 31 Dec 93 </F>
-<F P=103> SK3112112793 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK3112112793 Pyongyang KCNA in English 1038 GMT 31 Dec 93 </F>
+<F P="103"> SK3112112793 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Comrade Kim 
@@ -1054,16 +1055,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   35th Anniversary of Cuban Revolution Marked </TI></H3>
 <H4>   Kim Il-song Sends Flowers </H4>
-<F P=102> SK3112112993 Pyongyang KCNA in English 1044 GMT 31 Dec 93 </F>
-<F P=103> SK3112112993 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK3112112993 Pyongyang KCNA in English 1044 GMT 31 Dec 93 </F>
+<F P="103"> SK3112112993 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The great leader 
@@ -1089,16 +1090,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   35th Anniversary of Cuban Revolution Marked </TI></H3>
 <H4>   Kim Chong-il Sends Flowers </H4>
-<F P=102> SK3112113293 Pyongyang KCNA in English 1045 GMT 31 Dec 93 </F>
-<F P=103> SK3112113293 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK3112113293 Pyongyang KCNA in English 1045 GMT 31 Dec 93 </F>
+<F P="103"> SK3112113293 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The dear leader 
@@ -1124,16 +1125,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   35th Anniversary of Cuban Revolution Marked </TI></H3>
 <H4>   Ministry Sends Flowers to Embassy </H4>
-<F P=102> SK0101104494 Pyongyang KCNA in English 1006 GMT 1 Jan 94 </F>
-<F P=103> SK0101104494 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK0101104494 Pyongyang KCNA in English 1006 GMT 1 Jan 94 </F>
+<F P="103"> SK0101104494 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 1 (KCNA) -- A ministry and a 
@@ -1163,16 +1164,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   35th Anniversary of Cuban Revolution Marked </TI></H3>
 <H4>   Daily Carries Editorial Article </H4>
-<F P=102> SK3112105193 Pyongyang KCNA in English 1003 GMT 31 Dec 93 </F>
-<F P=103> SK3112105193 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK3112105193 Pyongyang KCNA in English 1003 GMT 31 Dec 93 </F>
+<F P="103"> SK3112105193 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- NODONG SINMUN today 
@@ -1224,19 +1225,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   KPA Naval Delegation Returns From Cuba 30 Dec </TI></H3>
-<F P=102>  SK3112100093 Pyongyang Korean Central Broadcasting Network 
+<F P="102">  SK3112100093 Pyongyang Korean Central Broadcasting Network 
 in Korean 1500 GMT 30 Dec 93 </F>
 
-<F P=103> SK3112100093 </F>
-<F P=104>  Pyongyang Korean Central Broadcasting Network 
+<F P="103"> SK3112100093 </F>
+<F P="104">  Pyongyang Korean Central Broadcasting Network 
 in Korean 1500 GMT 30 Dec 93 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Korean </F>
+Language: <F P="105">Korean </F>
 Article Type:BFN 
 
   [Text] The naval delegation of the Korean People's Army 
@@ -1261,15 +1262,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Kim Yong-nam Greets Singaporean Counterpart </TI></H3>
-<F P=102>  SK0301113194 Pyongyang KCNA in English 1104 GMT 3 Jan 94 </F>
-<F P=103> SK0301113194 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0301113194 Pyongyang KCNA in English 1104 GMT 3 Jan 94 </F>
+<F P="103"> SK0301113194 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 3 (KCNA) -- Foreign Minister Kim 
@@ -1297,15 +1298,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   WPK Sends Message to Cambodia's Ranariddh </TI></H3>
-<F P=102>  SK0201084894 Pyongyang KCNA in English 0811 GMT 2 Jan 94 </F>
-<F P=103> SK0201084894 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0201084894 Pyongyang KCNA in English 0811 GMT 2 Jan 94 </F>
+<F P="103"> SK0201084894 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 2 (KCNA) -- The Central Committee 
@@ -1342,15 +1343,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Kim Il-song Sends Greetings to PLO's 'Arafat </TI></H3>
-<F P=102>  SK3112113693 Pyongyang KCNA in English 1048 GMT 31 Dec 93 </F>
-<F P=103> SK3112113693 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112113693 Pyongyang KCNA in English 1048 GMT 31 Dec 93 </F>
+<F P="103"> SK3112113693 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Comrade Kim 
@@ -1390,15 +1391,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Papers Mark Palestine Revolution Anniversary </TI></H3>
-<F P=102>  SK3112105493 Pyongyang KCNA in English 1029 GMT 31 Dec 93 </F>
-<F P=103> SK3112105493 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112105493 Pyongyang KCNA in English 1029 GMT 31 Dec 93 </F>
+<F P="103"> SK3112105493 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Papers here today 
@@ -1440,15 +1441,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Papers Observe Anniversary of Sudan Independence </TI></H3>
-<F P=102>  SK3112105393 Pyongyang KCNA in English 1033 GMT 31 Dec 93 </F>
-<F P=103> SK3112105393 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112105393 Pyongyang KCNA in English 1033 GMT 31 Dec 93 </F>
+<F P="103"> SK3112105393 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Pyongyang-based 
@@ -1492,15 +1493,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Kim Il-song Greets Sudan President </TI></H3>
-<F P=102>  SK3112112493 Pyongyang KCNA in English 1041 GMT 31 Dec 93 </F>
-<F P=103> SK3112112493 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112112493 Pyongyang KCNA in English 1041 GMT 31 Dec 93 </F>
+<F P="103"> SK3112112493 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- President Kim 
@@ -1530,15 +1531,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Official Greets Equatorial Guinean Premier </TI></H3>
-<F P=102>  SK0301112794 Pyongyang KCNA in English 1105 GMT 3 Jan 94 </F>
-<F P=103> SK0301112794 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0301112794 Pyongyang KCNA in English 1105 GMT 3 Jan 94 </F>
+<F P="103"> SK0301112794 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 3 (KCNA) -- Premier of the 
@@ -1566,15 +1567,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Minister Greets Equatorial Guinea Counterpart </TI></H3>
-<F P=102>  SK3112045193 Pyongyang KCNA in English 0416 GMT 31 Dec 93 </F>
-<F P=103> SK3112045193 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112045193 Pyongyang KCNA in English 0416 GMT 31 Dec 93 </F>
+<F P="103"> SK3112045193 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Foreign Minister 
@@ -1604,15 +1605,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Ministers Mark Peru-DPRK Relations </TI></H3>
-<F P=102>  SK3112053993 Pyongyang KCNA in English 0424 GMT 31 Dec 93 </F>
-<F P=103> SK3112053993 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112053993 Pyongyang KCNA in English 0424 GMT 31 Dec 93 </F>
+<F P="103"> SK3112053993 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The Korean and 
@@ -1648,15 +1649,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   WPK Sends Greetings to Uruguay Communist Party </TI></H3>
-<F P=102>  SK3112114093 Pyongyang KCNA in English 1053 GMT 31 Dec 93 </F>
-<F P=103> SK3112114093 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112114093 Pyongyang KCNA in English 1053 GMT 31 Dec 93 </F>
+<F P="103"> SK3112114093 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The Central 
@@ -1687,15 +1688,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   WPK Greets Socialist People's Party of Mexico </TI></H3>
-<F P=102>  SK3112114293 Pyongyang KCNA in English 1055 GMT 31 Dec 93 </F>
-<F P=103> SK3112114293 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112114293 Pyongyang KCNA in English 1055 GMT 31 Dec 93 </F>
+<F P="103"> SK3112114293 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The Central 
@@ -1726,15 +1727,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Press Club of Nepal Awards Kim Chong-il </TI></H3>
-<F P=102>  SK3112150793 Pyongyang KCNA in English 1502 GMT 31 Dec 93 </F>
-<F P=103> SK3112150793 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112150793 Pyongyang KCNA in English 1502 GMT 31 Dec 93 </F>
+<F P="103"> SK3112150793 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The dear leader 
@@ -1768,15 +1769,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Parties Support Korean Reunification </TI></H3>
-<F P=102>  SK0301105494 Pyongyang KCNA in English 1037 GMT 3 Jan 94 </F>
-<F P=103> SK0301105494 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0301105494 Pyongyang KCNA in English 1037 GMT 3 Jan 94 </F>
+<F P="103"> SK0301105494 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 3 (KCNA) -- The solidarity 
@@ -1823,15 +1824,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Groups Support Stand on Nuclear Issue </TI></H3>
-<F P=102>  SK0301105394 Pyongyang KCNA in English 1032 GMT 3 Jan 94 </F>
-<F P=103> SK0301105394 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0301105394 Pyongyang KCNA in English 1032 GMT 3 Jan 94 </F>
+<F P="103"> SK0301105394 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 3 (KCNA) -- Officials of seven 
@@ -1875,23 +1876,23 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Reaction to Kim Il-song New Year Address </TI></H3>
 <H4>   Vice President Voices Support </H4>
-<F P=102> SK0301233194 Pyongyang Korean Central Broadcasting Network 
+<F P="102"> SK0301233194 Pyongyang Korean Central Broadcasting Network 
 in Korean 2110 GMT 3 Jan 94 </F>
 
-<F P=103> SK0301233194 </F>
-<F P=104>  Pyongyang Korean Central Broadcasting Network 
+<F P="103"> SK0301233194 </F>
+<F P="104">  Pyongyang Korean Central Broadcasting Network 
 in Korean 2110 GMT 3 Jan 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Korean </F>
+Language: <F P="105">Korean </F>
 Article Type:BFN 
 
-<F P=106> [Press statement issued by Pak Song-chol, member of the WPK </F>
+<F P="106"> [Press statement issued by Pak Song-chol, member of the WPK </F>
 Central Committee Political Bureau and vice president, on 3 
 January; place not given] 
   [Text] Comrade Pak Song-chol, member of the Political 
@@ -2087,16 +2088,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Reaction to Kim Il-song New Year Address </TI></H3>
 <H4>   KCNA on Vice President's Comments </H4>
-<F P=102> SK0401051394 Pyongyang KCNA in English 0424 GMT 4 Jan 94 </F>
-<F P=103> SK0401051394 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK0401051394 Pyongyang KCNA in English 0424 GMT 4 Jan 94 </F>
+<F P="103"> SK0401051394 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 4 (KCNA) -- "The principled stand 
@@ -2161,16 +2162,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Reaction to Kim Il-song New Year Address </TI></H3>
 <H4>   Industry, Energy Officials Respond </H4>
-<F P=102> SK0301061094 Pyongyang KCNA in English 0512 GMT 3 Jan 94 </F>
-<F P=103> SK0301061094 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK0301061094 Pyongyang KCNA in English 0512 GMT 3 Jan 94 </F>
+<F P="103"> SK0301061094 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 3 (KCNA) -- The New Year address 
@@ -2231,15 +2232,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   PAF Ministry Hosts Cocktail Party on New Year </TI></H3>
-<F P=102>  SK3112045693 Pyongyang KCNA in English 0419 GMT 31 Dec 93 </F>
-<F P=103> SK3112045693 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112045693 Pyongyang KCNA in English 0419 GMT 31 Dec 93 </F>
+<F P="103"> SK3112045693 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The Ministry of 
@@ -2268,15 +2269,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Diplomats Send Flowers to Kim Il-song </TI></H3>
-<F P=102>  SK3112113793 Pyongyang KCNA in English 1051 GMT 31 Dec 93 </F>
-<F P=103> SK3112113793 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112113793 Pyongyang KCNA in English 1051 GMT 31 Dec 93 </F>
+<F P="103"> SK3112113793 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Foreign diplomatic 
@@ -2312,15 +2313,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Kim Chong-il Receives Flowers </TI></H3>
-<F P=102>  SK3112113993 Pyongyang KCNA in English 1058 GMT 31 Dec 93 </F>
-<F P=103> SK3112113993 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112113993 Pyongyang KCNA in English 1058 GMT 31 Dec 93 </F>
+<F P="103"> SK3112113993 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- Foreign diplomatic 
@@ -2355,15 +2356,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Leaders Greet Kim Il-song on New Year </TI></H3>
-<F P=102>  SK0401045994 Pyongyang KCNA in English 0405 GMT 4 Jan 94 </F>
-<F P=103> SK0401045994 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0401045994 Pyongyang KCNA in English 0405 GMT 4 Jan 94 </F>
+<F P="103"> SK0401045994 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 4 (KCNA) -- President Kim Il-song 
@@ -2410,15 +2411,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Economic Corps Greets Kim Il-song on New Year </TI></H3>
-<F P=102>  SK3112112193 Pyongyang KCNA in English 1040 GMT 31 Dec 93 </F>
-<F P=103> SK3112112193 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112112193 Pyongyang KCNA in English 1040 GMT 31 Dec 93 </F>
+<F P="103"> SK3112112193 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- A floral basket and 
@@ -2445,15 +2446,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Sends Greetings to Kim Chong-il </TI></H3>
-<F P=102>  SK3112112393 Pyongyang KCNA in English 1043 GMT 31 Dec 93 </F>
-<F P=103> SK3112112393 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112112393 Pyongyang KCNA in English 1043 GMT 31 Dec 93 </F>
+<F P="103"> SK3112112393 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- A floral basket and 
@@ -2480,15 +2481,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Kim Chong-il Thanks Units, Officials, Workers </TI></H3>
-<F P=102>  SK3112110193 Pyongyang KCNA in English 1014 GMT 31 Dec 93 </F>
-<F P=103> SK3112110193 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112110193 Pyongyang KCNA in English 1014 GMT 31 Dec 93 </F>
+<F P="103"> SK3112110193 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The dear leader 
@@ -2528,18 +2529,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Nationwide `Bumper Harvests' in 1993 Reported </TI></H3>
-<F P=102>  SK0401151294 Pyongyang KCNA in English 1506 GMT 4 Jan 94 </F>
-<F P=103> SK0401151294 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0401151294 Pyongyang KCNA in English 1506 GMT 4 Jan 94 </F>
+<F P="103"> SK0401151294 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Bountiful Results in Agriculture"--KCNA headline] </F>
+<F P="106"> ["Bountiful Results in Agriculture"--KCNA headline] </F>
   [Text] Pyongyang, January 4 (KCNA) -- Korea's agriculture 
 brought a bountiful results last year. 
   More than 8 tons of rice was reaped from each hectare on an 
@@ -2594,15 +2595,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Scientists Develop New Fodder for Livestock </TI></H3>
-<F P=102>  SK0301150694 Pyongyang KCNA in English 1501 GMT 3 Jan 94 </F>
-<F P=103> SK0301150694 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0301150694 Pyongyang KCNA in English 1501 GMT 3 Jan 94 </F>
+<F P="103"> SK0301150694 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 3 (KCNA) -- Korea produced a 
@@ -2643,15 +2644,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   NODONG SINMUN Calls for Reunification </TI></H3>
-<F P=102>  SK3112105793 Pyongyang KCNA in English 1026 GMT 31 Dec 93 </F>
-<F P=103> SK3112105793 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK3112105793 Pyongyang KCNA in English 1026 GMT 31 Dec 93 </F>
+<F P="103"> SK3112105793 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, December 31 (KCNA) -- The confirmation of 
@@ -2720,15 +2721,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Achievements of Different Sectors Highlighted </TI></H3>
-<F P=102>  SK0301111194 Pyongyang KCNA in English 1039 GMT 3 Jan 94 </F>
-<F P=103> SK0301111194 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0301111194 Pyongyang KCNA in English 1039 GMT 3 Jan 94 </F>
+<F P="103"> SK0301111194 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 3 (KCNA) -- Great achievements 
@@ -2767,22 +2768,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Talk Discusses Indoctrination in Chuche Idea </TI></H3>
-<F P=102>  SK0401060194 Pyongyang Korean Central Broadcasting Network 
+<F P="102">  SK0401060194 Pyongyang Korean Central Broadcasting Network 
 in Korean 1230 GMT 3 Jan 94 </F>
 
-<F P=103> SK0401060194 </F>
-<F P=104>  Pyongyang Korean Central Broadcasting Network 
+<F P="103"> SK0401060194 </F>
+<F P="104">  Pyongyang Korean Central Broadcasting Network 
 in Korean 1230 GMT 3 Jan 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Korean </F>
+Language: <F P="105">Korean </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed talk: "Indoctrination in the Chuche Idea Is an </F>
+<F P="106"> [Unattributed talk: "Indoctrination in the Chuche Idea Is an </F>
 Indoctrination To Strengthen the Main Force of the Revolution"] 
   [Text] Our party's indoctrination in the chuche idea is 
 basically aimed at strengthening the main force of the 
@@ -2912,16 +2913,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Cause of Flights' Delays Across Siberia Viewed </TI></H3>
-<F P=102>  OW0401125394 Tokyo KYODO in English 1220 GMT 4 Jan 94 </F>
-<F P=103> OW0401125394 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401125394 Tokyo KYODO in English 1220 GMT 4 Jan 94 </F>
+<F P="103"> OW0401125394 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Narita, Chiba Pref., Jan. 4 KYODO -- Russia has 
@@ -2967,16 +2968,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Burmese Dissidents Mark Independence Day </TI></H3>
-<F P=102>  OW0401085294 Tokyo KYODO in English 0823 GMT 4 Jan 94 </F>
-<F P=103> OW0401085294 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401085294 Tokyo KYODO in English 0823 GMT 4 Jan 94 </F>
+<F P="103"> OW0401085294 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- Myanmar [Burma] dissidents 
@@ -3024,16 +3025,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Emperor, Hosokawa Exchange New Year's Greetings </TI></H3>
-<F P=102>  OW0101051494 Tokyo KYODO in English 0411 GMT 1 Jan 93 </F>
-<F P=103> OW0101051494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0101051494 Tokyo KYODO in English 0411 GMT 1 Jan 93 </F>
+<F P="103"> OW0101051494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 1 KYODO -- Emperor Akihito and Empress 
@@ -3071,16 +3072,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Ex-Foreign Minister Opposes Diet Dissolution </TI></H3>
-<F P=102>  OW0201102594 Tokyo KYODO in English 1009 GMT 2 Jan 94 </F>
-<F P=103> OW0201102594 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0201102594 Tokyo KYODO in English 1009 GMT 2 Jan 94 </F>
+<F P="103"> OW0201102594 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Otawara, Tochigi Pref., Jan. 2 KYODO -- Former 
@@ -3130,16 +3131,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Watanabe Views Ozawa's `Dictatorial' Plans </TI></H3>
-<F P=102>  OW0401103094 Tokyo KYODO in English 0951 GMT 4 Jan 94 </F>
-<F P=103> OW0401103094 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401103094 Tokyo KYODO in English 0951 GMT 4 Jan 94 </F>
+<F P="103"> OW0401103094 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Utsunomiya, Jan. 4 KYODO -- Former Foreign 
@@ -3178,16 +3179,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Coalition Seeks 14 Jan End to Reform Debate </TI></H3>
-<F P=102>  OW0401115294 Tokyo KYODO in English 1129 GMT 4 Jan 94 </F>
-<F P=103> OW0401115294 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401115294 Tokyo KYODO in English 1129 GMT 4 Jan 94 </F>
+<F P="103"> OW0401115294 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- The ruling coalition said 
@@ -3234,16 +3235,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hosokawa Vows Reform, Denies Diet Dissolution </TI></H3>
-<F P=102>  OW0401075294 Tokyo KYODO in English 0736 GMT 4 Jan 94 </F>
-<F P=103> OW0401075294 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401075294 Tokyo KYODO in English 0736 GMT 4 Jan 94 </F>
+<F P="103"> OW0401075294 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Ise, Mie Pref., Jan. 4 KYODO -- Prime Minister 
@@ -3312,21 +3313,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Ruling Parties Decide To Resume Diet Debate </TI></H3>
-<F P=102>  OW0401052894 Tokyo NHK General Television Network in 
+<F P="102">  OW0401052894 Tokyo NHK General Television Network in 
 Japanese 0303 GMT 4 Jan 94 </F>
 
-<F P=103> OW0401052894 </F>
-<F P=104>  Tokyo NHK General Television Network </F>
+<F P="103"> OW0401052894 </F>
+<F P="104">  Tokyo NHK General Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Announcer-read report over video; from "NHK News" program] </F>
+<F P="106"> [Announcer-read report over video; from "NHK News" program] </F>
   [Excerpt] All ruling parties held their meetings of 
 legislators today to decide to resume the deliberations on 
 political reform bills tomorrow in the House of Councilors and 
@@ -3386,16 +3387,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Shimizu Reportedly Gave 3 Million Yen to Otsuka </TI></H3>
-<F P=102>  OW0201130694 Tokyo KYODO in English 1249 GMT 2 Jan 94 </F>
-<F P=103> OW0201130694 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0201130694 Tokyo KYODO in English 1249 GMT 2 Jan 94 </F>
+<F P="103"> OW0201130694 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 2 KYODO -- Shimizu Corp. gave 3 million 
@@ -3451,18 +3452,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   LDP President Interviewed on Hosokawa Government </TI></H3>
-<F P=102>  OW0401000294 Tokyo NHK General Television Network in 
+<F P="102">  OW0401000294 Tokyo NHK General Television Network in 
 Japanese 0000 GMT 3 Jan 94 </F>
 
-<F P=103> OW0401000294 </F>
-<F P=104>  Tokyo NHK General Television Network </F>
+<F P="103"> OW0401000294 </F>
+<F P="104">  Tokyo NHK General Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Editorial Report] Tokyo NHK General Television Network in 
@@ -3567,16 +3568,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Former LDP Members Form Lower House Group </TI></H3>
-<F P=102>  OW0401061294 Tokyo KYODO in English 0548 GMT 4 Jan 94 </F>
-<F P=103> OW0401061294 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401061294 Tokyo KYODO in English 0548 GMT 4 Jan 94 </F>
+<F P="103"> OW0401061294 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- Five House of 
@@ -3628,16 +3629,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Ex-Premier Uno Discusses Early LDP Comeback </TI></H3>
-<F P=102>  OW0401103494 Tokyo KYODO in English 0934 GMT 4 Jan 94 </F>
-<F P=103> OW0401103494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401103494 Tokyo KYODO in English 0934 GMT 4 Jan 94 </F>
+<F P="103"> OW0401103494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- Former Prime Minister 
@@ -3674,16 +3675,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Seven-Trillion-Yen Income Tax Cut Studied </TI></H3>
-<F P=102>  OW0301025394 Tokyo KYODO in English 0127 GMT 3 Jan 94 </F>
-<F P=103> OW0301025394 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0301025394 Tokyo KYODO in English 0127 GMT 3 Jan 94 </F>
+<F P="103"> OW0301025394 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 3 KYODO -- The government has begun to 
@@ -3732,16 +3733,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Bad Bank Loans Said To Exceed Disclosed Number </TI></H3>
-<F P=102>  OW0401000394 Tokyo KYODO in English 2318 GMT 3 Jan 94 </F>
-<F P=103> OW0401000394 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401000394 Tokyo KYODO in English 2318 GMT 3 Jan 94 </F>
+<F P="103"> OW0401000394 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- Japan's 11 major commercial 
@@ -3780,16 +3781,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Farming Industry Leader To Resign Due to Health </TI></H3>
-<F P=102>  OW0401045394 Tokyo KYODO in English 0429 GMT 4 Jan 94 </F>
-<F P=103> OW0401045394 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401045394 Tokyo KYODO in English 0429 GMT 4 Jan 94 </F>
+<F P="103"> OW0401045394 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Fukushima, Jan. 4 KYODO -- Japan's top farming 
@@ -3834,16 +3835,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Banks Plan To Cut 10,000 Jobs in Next 3 Years </TI></H3>
-<F P=102>  OW3112013393 Tokyo KYODO in English 0115 GMT 31 Dec 93 </F>
-<F P=103> OW3112013393 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW3112013393 Tokyo KYODO in English 0115 GMT 31 Dec 93 </F>
+<F P="103"> OW3112013393 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Dec. 31 KYODO -- Eleven major Japanese 
@@ -3882,16 +3883,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Business Leaders' Messages Urge Restructuring </TI></H3>
-<F P=102>  OW0401111194 Tokyo KYODO in English 1043 GMT 4 Jan 94 </F>
-<F P=103> OW0401111194 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401111194 Tokyo KYODO in English 1043 GMT 4 Jan 94 </F>
+<F P="103"> OW0401111194 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- Business leaders sent 
@@ -3951,16 +3952,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Employee Share of National Income `Record High' </TI></H3>
-<F P=102>  OW0401015094 Tokyo KYODO in English 0029 GMT 4 Jan 94 </F>
-<F P=103> OW0401015094 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401015094 Tokyo KYODO in English 0029 GMT 4 Jan 94 </F>
+<F P="103"> OW0401015094 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- The ratio of employees' 
@@ -3996,16 +3997,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Births Hit Historic Low; Divorces, Marriages Up </TI></H3>
-<F P=102>  OW3112075293 Tokyo KYODO in English 0721 GMT 31 Dec 93 </F>
-<F P=103> OW3112075293 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW3112075293 Tokyo KYODO in English 0721 GMT 31 Dec 93 </F>
+<F P="103"> OW3112075293 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Dec. 31 KYODO -- Despite a wedding every 40 
@@ -4065,15 +4066,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Officials Prepare for Better U.S.-DPRK Ties </TI></H3>
-<F P=102>  SK0401081894 Seoul YONHAP in English 0807 GMT 4 Jan 94 </F>
-<F P=103> SK0401081894 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401081894 Seoul YONHAP in English 0807 GMT 4 Jan 94 </F>
+<F P="103"> SK0401081894 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- With the United States 
@@ -4164,18 +4165,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Foreign Minister Outlines 1994 Policy Goals </TI></H3>
-<F P=102>  SK0401093594 Seoul SEOUL SINMUN in Korean 4 Jan 94 p 3 </F>
-<F P=103> SK0401093594 </F>
-<F P=104>  Seoul SEOUL SINMUN </F>
+<F P="102">  SK0401093594 Seoul SEOUL SINMUN in Korean 4 Jan 94 p 3 </F>
+<F P="103"> SK0401093594 </F>
+<F P="104">  Seoul SEOUL SINMUN </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [Article by Foreign Minister Han Sung-chu] </F>
+<F P="106"> [Article by Foreign Minister Han Sung-chu] </F>
   [Text] Many changes took place last year at home and 
 abroad. At home the civilian-led government was inaugurated and 
 new policies and reform were promoted. Internationally, 
@@ -4330,18 +4331,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Research Report Assesses North-South Relations </TI></H3>
-<F P=102>  SK0401142194 Seoul CHUNGANG ILBO in Korean 4 Jan 94 p 11 </F>
-<F P=103> SK0401142194 </F>
-<F P=104>  Seoul CHUNGANG ILBO </F>
+<F P="102">  SK0401142194 Seoul CHUNGANG ILBO in Korean 4 Jan 94 p 11 </F>
+<F P="103"> SK0401142194 </F>
+<F P="104">  Seoul CHUNGANG ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [Article by reporter O Yong-hwan on the research report "The </F>
+<F P="106"> [Article by reporter O Yong-hwan on the research report "The </F>
 Environment for Reunification and North-South Relations," issued 
 on 3 December by the Research Institute for National 
 Reunification, affiliated with the National Unification Board 
@@ -4582,15 +4583,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Government Stand on DPRK Nuclear Issue Viewed </TI></H3>
-<F P=102>  SK0401100194 Seoul SEOUL SINMUN in Korean 4 Jan 94 p 6 </F>
-<F P=103> SK0401100194 </F>
-<F P=104>  Seoul SEOUL SINMUN </F>
+<F P="102">  SK0401100194 Seoul SEOUL SINMUN in Korean 4 Jan 94 p 6 </F>
+<F P="103"> SK0401100194 </F>
+<F P="104">  Seoul SEOUL SINMUN </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] The government's view of the North Korean nuclear 
@@ -4694,15 +4695,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Contact With DPRK Religious Figures Approved </TI></H3>
-<F P=102>  SK0401035694 Seoul HANGYORE SINMUN in Korean 4 Jan 94 p 3 </F>
-<F P=103> SK0401035694 </F>
-<F P=104>  Seoul HANGYORE SINMUN </F>
+<F P="102">  SK0401035694 Seoul HANGYORE SINMUN in Korean 4 Jan 94 p 3 </F>
+<F P="103"> SK0401035694 </F>
+<F P="104">  Seoul HANGYORE SINMUN </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] The government on 3 January approved the Korean 
@@ -4735,15 +4736,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Seoul Plans Economic Talks With NAFTA Parties </TI></H3>
-<F P=102>  SK0301012594 Seoul YONHAP in English 0102 GMT 3 Jan 94 </F>
-<F P=103> SK0301012594 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301012594 Seoul YONHAP in English 0102 GMT 3 Jan 94 </F>
+<F P="103"> SK0301012594 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- South Korea holds economic 
@@ -4786,15 +4787,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Speaker Yi Man-sop To Visit Beijing 6-12 Jan </TI></H3>
-<F P=102>  SK0301031694 Seoul YONHAP in English 0301 GMT 3 Jan 94 </F>
-<F P=103> SK0301031694 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301031694 Seoul YONHAP in English 0301 GMT 3 Jan 94 </F>
+<F P="103"> SK0301031694 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- National Assembly Speaker 
@@ -4830,15 +4831,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Government To Send Youth Service Corps to PRC </TI></H3>
-<F P=102>  SK0301075694 Seoul CHUNGANG ILBO in Korean 3 Jan 94 p 2 </F>
-<F P=103> SK0301075694 </F>
-<F P=104>  Seoul CHUNGANG ILBO </F>
+<F P="102">  SK0301075694 Seoul CHUNGANG ILBO in Korean 3 Jan 94 p 2 </F>
+<F P="103"> SK0301075694 </F>
+<F P="104">  Seoul CHUNGANG ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] The Government has decided for the first time to 
@@ -4865,18 +4866,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   DPRK-Russia Logging Agreement Expired 31 Dec </TI></H3>
-<F P=102>  SK3112100393 Seoul CHUNGANG ILBO in Korean 1 Jan 94 p 7 </F>
-<F P=103> SK3112100393 </F>
-<F P=104>  Seoul CHUNGANG ILBO </F>
+<F P="102">  SK3112100393 Seoul CHUNGANG ILBO in Korean 1 Jan 94 p 7 </F>
+<F P="103"> SK3112100393 </F>
+<F P="104">  Seoul CHUNGANG ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [YONHAP from Moscow] </F>
+<F P="106"> [YONHAP from Moscow] </F>
   [Text] The North Korea-Russia forestry agreement to cut 
 logs in Siberia was automatically abolished as the agreement 
 expired on 31 December. Whether North Korea will withdraw its 
@@ -4904,15 +4905,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   `Redistricting' Plan for Elections Under Study </TI></H3>
-<F P=102>  SK0301082994 Seoul YONHAP in English 0757 GMT 3 Jan 94 </F>
-<F P=103> SK0301082994 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301082994 Seoul YONHAP in English 0757 GMT 3 Jan 94 </F>
+<F P="103"> SK0301082994 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- The government and its 
@@ -4985,15 +4986,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Kim Yong-sam Comments on Plan </TI></H3>
-<F P=102>  SK0401032494 Seoul YONHAP in English 0243 GMT 4 Jan 94 </F>
-<F P=103> SK0401032494 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401032494 Seoul YONHAP in English 0243 GMT 4 Jan 94 </F>
+<F P="103"> SK0401032494 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- President Kim Yong-sam 
@@ -5041,15 +5042,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   DLP, DP Prepare for 1995 Local Elections </TI></H3>
-<F P=102>  SK0401040394 Seoul YONHAP in English 0234 GMT 4 Jan 94 </F>
-<F P=103> SK0401040394 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401040394 Seoul YONHAP in English 0234 GMT 4 Jan 94 </F>
+<F P="103"> SK0401040394 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- The ruling and opposition 
@@ -5121,15 +5122,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Finance Minister: Deregulation To Accelerate </TI></H3>
-<F P=102>  SK0401030794 Seoul THE KOREA HERALD in English 4 Jan 94 p 8 </F>
-<F P=103> SK0401030794 </F>
-<F P=104>  Seoul THE KOREA HERALD </F>
+<F P="102">  SK0401030794 Seoul THE KOREA HERALD in English 4 Jan 94 p 8 </F>
+<F P="103"> SK0401030794 </F>
+<F P="104">  Seoul THE KOREA HERALD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The government, in order to lure back foreign direct 
@@ -5203,15 +5204,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   BAI To Investigate Government Budgets </TI></H3>
-<F P=102>  SK0301080994 Seoul YONHAP in English 0731 GMT 3 Jan 94 </F>
-<F P=103> SK0301080994 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301080994 Seoul YONHAP in English 0731 GMT 3 Jan 94 </F>
+<F P="103"> SK0301080994 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- The Board of Audit and 
@@ -5257,15 +5258,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Probe: Ex-DLA Procurement Director Took Bribe </TI></H3>
-<F P=102>  SK0401071294 Seoul YONHAP in English 0640 GMT 4 Jan 94 </F>
-<F P=103> SK0401071294 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401071294 Seoul YONHAP in English 0640 GMT 4 Jan 94 </F>
+<F P="103"> SK0401071294 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- Hong Kol-hui took a bribe 
@@ -5304,15 +5305,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   DLA Reportedly Rigged Purchase of Ship Systems </TI></H3>
-<F P=102>  SK3112030293 Seoul YONHAP in English 0154 GMT 31 Dec 93 </F>
-<F P=103> SK3112030293 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK3112030293 Seoul YONHAP in English 0154 GMT 31 Dec 93 </F>
+<F P="103"> SK3112030293 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Dec. 31 (YONHAP) -- The Defense Logistics 
@@ -5356,15 +5357,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Military Should `Root Out' Private Societies </TI></H3>
-<F P=102>  SK0401041494 Seoul YONHAP in English 0257 GMT 4 Jan 94 </F>
-<F P=103> SK0401041494 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401041494 Seoul YONHAP in English 0257 GMT 4 Jan 94 </F>
+<F P="103"> SK0401041494 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- A debate among Army 
@@ -5416,15 +5417,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Trade, Industry, Energy Ministry on `Revamp' </TI></H3>
-<F P=102>  SK0401122094 Seoul YONHAP in English 1121 GMT 4 Jan 94 </F>
-<F P=103> SK0401122094 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401122094 Seoul YONHAP in English 1121 GMT 4 Jan 94 </F>
+<F P="103"> SK0401122094 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- The Trade, Industry, and 
@@ -5469,15 +5470,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Government To Recruit Fewer Public Servants </TI></H3>
-<F P=102>  SK0301034694 Seoul YONHAP in English 0158 GMT 3 Jan 94 </F>
-<F P=103> SK0301034694 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301034694 Seoul YONHAP in English 0158 GMT 3 Jan 94 </F>
+<F P="103"> SK0301034694 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- The government will 
@@ -5519,15 +5520,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Stock Exchange Off To `High-Kicking Start' </TI></H3>
-<F P=102>  SK0301083094 Seoul YONHAP in English 0802 GMT 3 Jan 94 </F>
-<F P=103> SK0301083094 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301083094 Seoul YONHAP in English 0802 GMT 3 Jan 94 </F>
+<F P="103"> SK0301083094 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- The Korea Stock Exchange 
@@ -5572,15 +5573,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Trade Deficit Drops to $1.35 Billion in 1993 </TI></H3>
-<F P=102>  SK0301025094 Seoul YONHAP in English 0234 GMT 3 Jan 94 </F>
-<F P=103> SK0301025094 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301025094 Seoul YONHAP in English 0234 GMT 3 Jan 94 </F>
+<F P="103"> SK0301025094 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- A strong final quarter 
@@ -5637,15 +5638,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Daewoo Plans To Develop Projects in Middle East </TI></H3>
-<F P=102>  SK0301120794 Seoul YONHAP in English 1107 GMT 3 Jan 94 </F>
-<F P=103> SK0301120794 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0301120794 Seoul YONHAP in English 1107 GMT 3 Jan 94 </F>
+<F P="103"> SK0301120794 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- The Daewoo group, South 
@@ -5683,19 +5684,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Framework Discussions on Insurance Held With U.S. </TI></H3>
 <H4>   National Positions Outlined </H4>
-<F P=102> 942A0013A Tokyo HOKEN MAINICHI SHIMBUN in Japanese 21 Oct 93 
+<F P="102"> 942A0013A Tokyo HOKEN MAINICHI SHIMBUN in Japanese 21 Oct 93 
 pp 1-2--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 942A0013A </F>
-<F P=104>  Tokyo HOKEN MAINICHI SHIMBUN </F>
+<F P="103"> 942A0013A </F>
+<F P="104">  Tokyo HOKEN MAINICHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
   [Text] The insurance working-level conference of the 
@@ -5787,22 +5788,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Framework Discussions on Insurance Held With U.S. </TI></H3>
 <H4>   U.S. Official Holds News Conference </H4>
-<F P=102> 942A0013B Tokyo HOKEN MAINICHI SHIMBUN in Japanese 21 Oct 93 
+<F P="102"> 942A0013B Tokyo HOKEN MAINICHI SHIMBUN in Japanese 21 Oct 93 
 pp 1-2--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 942A0013B </F>
-<F P=104>  Tokyo HOKEN MAINICHI SHIMBUN </F>
+<F P="103"> 942A0013B </F>
+<F P="104">  Tokyo HOKEN MAINICHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> ["Summary" of remarks by unidentified "senior U.S. </F>
+<F P="106"> ["Summary" of remarks by unidentified "senior U.S. </F>
 Government official" at news conference at U.S. Embassy in Tokyo 
 following 12-13 October U.S.-Japan discussions on insurance] 
   [Text] Two days of discussions were held regarding the 
@@ -6019,18 +6020,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   `War Hokum' by Top ROK Defense Officials Decried </TI></H3>
-<F P=102>  SK0401104294 Pyongyang KCNA in English 1030 GMT 4 Jan 94 </F>
-<F P=103> SK0401104294 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0401104294 Pyongyang KCNA in English 1030 GMT 4 Jan 94 </F>
+<F P="103"> SK0401104294 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Rash Acts of Warlikers in War Fever"--KCNA headline] </F>
+<F P="106"> ["Rash Acts of Warlikers in War Fever"--KCNA headline] </F>
   [Text] Pyongyang, January 4 (KCNA) -- The South Korean 
 puppet defence minister, Yi Pyong-tae, reportedly told "a 
 ceremony for the commencement of the work this year" on January 
@@ -6085,19 +6086,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Reaction to Kim Il-song New Year Address </TI></H3>
 <H4>   Officials Resolve To Achieve Goals </H4>
-<F P=102> SK0401105094 Pyongyang KCNA in English 1006 GMT 4 Jan 94 </F>
-<F P=103> SK0401105094 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102"> SK0401105094 Pyongyang KCNA in English 1006 GMT 4 Jan 94 </F>
+<F P="103"> SK0401105094 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Officials Resolved To Thoroughly Implement Tasks Set Forth </F>
+<F P="106"> ["Officials Resolved To Thoroughly Implement Tasks Set Forth </F>
 by President Kim Il-song in New Year Address"--KCNA headline] 
   [Text] Pyongyang, January 4 (KCNA) -- The working people 
 across the country are overwhelmed with emotion and joy upon 
@@ -6152,16 +6153,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hata Plans To Discuss DPRK Issue in Beijing </TI></H3>
-<F P=102>  OW0401124494 Tokyo KYODO in English 1202 GMT 4 Jan 94 </F>
-<F P=103> OW0401124494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0401124494 Tokyo KYODO in English 1202 GMT 4 Jan 94 </F>
+<F P="103"> OW0401124494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 KYODO -- Foreign Minister Tsutomu 
@@ -6197,15 +6198,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   U.S.-DPRK Contact Expected `This Week' </TI></H3>
-<F P=102>  SK0401010094 Seoul YONHAP in English 0045 GMT 4 Jan 94 </F>
-<F P=103> SK0401010094 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401010094 Seoul YONHAP in English 0045 GMT 4 Jan 94 </F>
+<F P="103"> SK0401010094 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Washington, Jan. 3 (YONHAP) -- The United States 
@@ -6289,15 +6290,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   People Vow To Realize Leader's New Year Goals </TI></H3>
-<F P=102>  SK0501105594 Pyongyang KCNA in English 1024 GMT 5 Jan 94 </F>
-<F P=103> SK0501105594 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501105594 Pyongyang KCNA in English 1024 GMT 5 Jan 94 </F>
+<F P="103"> SK0501105594 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 5 (KCNA) -- Working people in 
@@ -6342,15 +6343,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Anniversary of Kim Chong-il Work Noted </TI></H3>
-<F P=102>  SK0401105794 Pyongyang KCNA in English 1010 GMT 4 Jan 94 </F>
-<F P=103> SK0401105794 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0401105794 Pyongyang KCNA in English 1010 GMT 4 Jan 94 </F>
+<F P="103"> SK0401105794 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 4 (KCNA) -- Two years have 
@@ -6395,15 +6396,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Publication of Kim Chong-il's Work Marked </TI></H3>
-<F P=102>  SK0501052094 Pyongyang KCNA in English 0419 GMT 5 Jan 94 </F>
-<F P=103> SK0501052094 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501052094 Pyongyang KCNA in English 0419 GMT 5 Jan 94 </F>
+<F P="103"> SK0501052094 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 5 (KCNA) -- A meeting was held 
@@ -6463,18 +6464,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   People Urged To Employ `Revolutionary Optimism' </TI></H3>
-<F P=102>  SK0401050394 Pyongyang KCNA in English 0414 GMT 4 Jan 94 </F>
-<F P=103> SK0401050394 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0401050394 Pyongyang KCNA in English 0414 GMT 4 Jan 94 </F>
+<F P="103"> SK0401050394 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["NODONG SINMUN Calls for Winning New Victory With </F>
+<F P="106"> ["NODONG SINMUN Calls for Winning New Victory With </F>
 Revolutionary Optimism" -- KCNA headline] 
   [Text] Pyongyang, January 4 (KCNA) -- In order to make 1994 
 a year of a historical turn in the revolution and construction 
@@ -6527,15 +6528,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   `Fruitful Year' of Construction Achievements </TI></H3>
-<F P=102>  SK0501105894 Pyongyang KCNA in English 1029 GMT 5 Jan 94 </F>
-<F P=103> SK0501105894 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501105894 Pyongyang KCNA in English 1029 GMT 5 Jan 94 </F>
+<F P="103"> SK0501105894 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 5 (KCNA) -- 1993 was a fruitful 
@@ -6587,15 +6588,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Composing, Choreography Machine Developed </TI></H3>
-<F P=102>  SK0501045694 Pyongyang KCNA in English 1501 GMT 4 Jan 94 </F>
-<F P=103> SK0501045694 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501045694 Pyongyang KCNA in English 1501 GMT 4 Jan 94 </F>
+<F P="103"> SK0501045694 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 4 (KCNA) -- A composing and 
@@ -6642,16 +6643,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Complaint Over Fake U.S. Military Highway Passes </TI></H3>
-<F P=102>  OW0501144994 Tokyo KYODO in English 1428 GMT 5 Jan 94 </F>
-<F P=103> OW0501144994 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501144994 Tokyo KYODO in English 1428 GMT 5 Jan 94 </F>
+<F P="103"> OW0501144994 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- The Defense Facilities 
@@ -6690,16 +6691,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Ministry Official Leaves for Africa, South Asia </TI></H3>
-<F P=102>  OW0501113094 Tokyo KYODO in English 0959 GMT 5 Jan 94 </F>
-<F P=103> OW0501113094 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501113094 Tokyo KYODO in English 0959 GMT 5 Jan 94 </F>
+<F P="103"> OW0501113094 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- Parliamentary Vice Foreign 
@@ -6737,16 +6738,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Ministry Announces Grant for Thai University </TI></H3>
-<F P=102>  OW0501081194 Tokyo KYODO in English 0731 GMT 5 Jan 94 </F>
-<F P=103> OW0501081194 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501081194 Tokyo KYODO in English 0731 GMT 5 Jan 94 </F>
+<F P="103"> OW0501081194 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- Japan will grant Thailand up 
@@ -6782,19 +6783,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Economic Cooperation in Russian Far East Viewed </TI></H3>
-<F P=102>  942A0028A Tokyo GEKKAN KEIDANREN in Japanese Sep 93 pp 26-27 </F>
-<F P=103> 942A0028A </F>
-<F P=104>  Tokyo GEKKAN KEIDANREN </F>
+<F P="102">  942A0028A Tokyo GEKKAN KEIDANREN in Japanese Sep 93 pp 26-27 </F>
+<F P="103"> 942A0028A </F>
+<F P="104">  Tokyo GEKKAN KEIDANREN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Susumu Yoshida, managing director, Nissho Iwai: </F>
+<F P="106"> [Article by Susumu Yoshida, managing director, Nissho Iwai: </F>
 "Economic Cooperation and Characteristics of Russian Far East; 
 Resources and Industries of Far Eastern Region"] 
   [Text] The area of Russia's Far East region is 16 times 
@@ -6930,16 +6931,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Diet Panel Resumes Debate on Reform Bills </TI></H3>
-<F P=102>  OW0501040494 Tokyo KYODO in English 0257 GMT 5 Jan 94 </F>
-<F P=103> OW0501040494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501040494 Tokyo KYODO in English 0257 GMT 5 Jan 94 </F>
+<F P="103"> OW0501040494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- The House of Councillors' 
@@ -7005,16 +7006,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   LDP Agrees To Suspend Debate Boycott </TI></H3>
-<F P=102>  OW0501144194 Tokyo KYODO in English 1430 GMT 5 Jan 94 </F>
-<F P=103> OW0501144194 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501144194 Tokyo KYODO in English 1430 GMT 5 Jan 94 </F>
+<F P="103"> OW0501144194 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- The opposition Liberal 
@@ -7110,16 +7111,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Government, Coalition To Resume Tax Debate 6 Jan </TI></H3>
-<F P=102>  OW0501064894 Tokyo KYODO in English 0612 GMT 5 Jan 94 </F>
-<F P=103> OW0501064894 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501064894 Tokyo KYODO in English 0612 GMT 5 Jan 94 </F>
+<F P="103"> OW0501064894 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- Cabinet ministers in charge 
@@ -7165,16 +7166,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Coalition To Amend Provision on Miniparties </TI></H3>
-<F P=102>  OW0501121994 Tokyo KYODO in English 1203 GMT 5 Jan 94 </F>
-<F P=103> OW0501121994 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501121994 Tokyo KYODO in English 1203 GMT 5 Jan 94 </F>
+<F P="103"> OW0501121994 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- The ruling coalition agreed 
@@ -7271,16 +7272,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Business Leaders Warn Against Dissolving Diet </TI></H3>
-<F P=102>  OW0501122494 Tokyo KYODO in English 1209 GMT 5 Jan 94 </F>
-<F P=103> OW0501122494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501122494 Tokyo KYODO in English 1209 GMT 5 Jan 94 </F>
+<F P="103"> OW0501122494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- Japan's top four business 
@@ -7338,16 +7339,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Communist Legislator Accuses Hosokawa of Bribery </TI></H3>
-<F P=102>  OW0501140694 Tokyo KYODO in English 1345 GMT 5 Jan 94 </F>
-<F P=103> OW0501140694 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501140694 Tokyo KYODO in English 1345 GMT 5 Jan 94 </F>
+<F P="103"> OW0501140694 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- A Diet member accused Prime 
@@ -7429,16 +7430,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Probe Claims Former Governor Kept Secret Fund </TI></H3>
-<F P=102>  OW0501125694 Tokyo KYODO in English 1201 GMT 5 Jan 94 </F>
-<F P=103> OW0501125694 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501125694 Tokyo KYODO in English 1201 GMT 5 Jan 94 </F>
+<F P="103"> OW0501125694 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Sendai, Jan. 5 KYODO -- Miyagi Governor Shuntaro 
@@ -7491,16 +7492,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Government Said To Want Dollar at 115 Yen </TI></H3>
-<F P=102>  OW0501022794 Tokyo KYODO in English 0208 GMT 5 Jan 94 </F>
-<F P=103> OW0501022794 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501022794 Tokyo KYODO in English 0208 GMT 5 Jan 94 </F>
+<F P="103"> OW0501022794 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- A Japanese Government 
@@ -7546,16 +7547,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Ministry: Government May Attain Revenue Target </TI></H3>
-<F P=102>  OW0501110094 Tokyo KYODO in English 1031 GMT 5 Jan 94 </F>
-<F P=103> OW0501110094 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501110094 Tokyo KYODO in English 1031 GMT 5 Jan 94 </F>
+<F P="103"> OW0501110094 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- The government's tax 
@@ -7594,16 +7595,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Expenditures Outpace Revenues for Apr-Dec </TI></H3>
-<F P=102>  OW0501121894 Tokyo KYODO in English 1146 GMT 5 Jan 94 </F>
-<F P=103> OW0501121894 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501121894 Tokyo KYODO in English 1146 GMT 5 Jan 94 </F>
+<F P="103"> OW0501121894 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- The government's 
@@ -7644,16 +7645,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Foreign Reserves Reach $95.59 Billion in Dec </TI></H3>
-<F P=102>  OW0501090394 Tokyo KYODO in English 0826 GMT 5 Jan 94 </F>
-<F P=103> OW0501090394 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501090394 Tokyo KYODO in English 0826 GMT 5 Jan 94 </F>
+<F P="103"> OW0501090394 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- Japan's foreign exchange 
@@ -7703,16 +7704,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Auto Association Reports 6-Year Low in Sales </TI></H3>
-<F P=102>  OW0501090494 Tokyo KYODO in English 0814 GMT 5 Jan 94 </F>
-<F P=103> OW0501090494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501090494 Tokyo KYODO in English 0814 GMT 5 Jan 94 </F>
+<F P="103"> OW0501090494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- Reflecting the prolonged 
@@ -7772,16 +7773,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Underground Expressway Planned for Tokyo </TI></H3>
-<F P=102>  OW0501091494 Tokyo KYODO in English 0844 GMT 5 Jan 94 </F>
-<F P=103> OW0501091494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501091494 Tokyo KYODO in English 0844 GMT 5 Jan 94 </F>
+<F P="103"> OW0501091494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- A huge new underground 
@@ -7818,16 +7819,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Tokyo To Reduce Ground Forces Beginning in 1996 </TI></H3>
-<F P=102>  OW0301031494 Tokyo KYODO in English 0218 GMT 3 Jan 94 </F>
-<F P=103> OW0301031494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0301031494 Tokyo KYODO in English 0218 GMT 3 Jan 94 </F>
+<F P="103"> OW0301031494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 3 KYODO -- The Ground Staff Office of 
@@ -7869,23 +7870,23 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTHEAST ASIA </F>
-<F P=101> Cambodia </F>
+<F P="100"> SOUTHEAST ASIA </F>
+<F P="101"> Cambodia </F>
 <H3> <TI>   Editorial Berates SRV, `Half-Breed' Government </TI></H3>
-<F P=102>  BK0201101594 (Clandestine) Voice of the Great National Union 
+<F P="102">  BK0201101594 (Clandestine) Voice of the Great National Union 
 Front of Cambodia in Cambodian 2330 GMT 1 Jan 94 </F>
 
-<F P=103> BK0201101594 </F>
-<F P=104>  (Clandestine) Voice of the Great National Union 
+<F P="103"> BK0201101594 </F>
+<F P="104">  (Clandestine) Voice of the Great National Union 
 Front of Cambodia </F>
 
 
 
 <TEXT>
-Language: <F P=105> Cambodian </F>
+Language: <F P="105"> Cambodian </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "The Vietnamese Communists Have Transported </F>
+<F P="106"> [Editorial: "The Vietnamese Communists Have Transported </F>
 Ammunition and Tanks from Ho Chi Minh City to Phnom Penh Through 
 the Mekong River To Continue Kindling the Vietnamese War of 
 Aggression Against Cambodia"] 
@@ -7986,17 +7987,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Minister: Criticism Must Not Undermine Stability </TI></H3>
-<F P=102>  BK0401113194 Jakarta THE JAKARTA POST in English 22 Dec 93 p 
+<F P="102">  BK0401113194 Jakarta THE JAKARTA POST in English 22 Dec 93 p 
 1 </F>
 
-<F P=103> BK0401113194 </F>
-<F P=104>  Jakarta THE JAKARTA POST </F>
+<F P="103"> BK0401113194 </F>
+<F P="104">  Jakarta THE JAKARTA POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Excerpts] Jakarta (JP) -- Minister/State Secretary 
@@ -8064,17 +8065,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Minister Backs Move on Dialogue With Students </TI></H3>
-<F P=102>  BK0501050794 Jakarta Radio Republik Indonesia Network in 
+<F P="102">  BK0501050794 Jakarta Radio Republik Indonesia Network in 
 Indonesian 0000 GMT 5 Jan 94 </F>
 
-<F P=103> BK0501050794 </F>
-<F P=104>  Jakarta Radio Republik Indonesia Network </F>
+<F P="103"> BK0501050794 </F>
+<F P="104">  Jakarta Radio Republik Indonesia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Indonesian </F>
+Language: <F P="105"> Indonesian </F>
 Article Type:BFN 
 
   [Text] Education and Culture Minister Wardiman Joyonegoro 
@@ -8111,17 +8112,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Lawyers Review 1993 Human Rights Infractions </TI></H3>
-<F P=102>  BK0501112394 Jakarta THE JAKARTA POST in English 28 Dec 93 p 
+<F P="102">  BK0501112394 Jakarta THE JAKARTA POST in English 28 Dec 93 p 
 1 </F>
 
-<F P=103> BK0501112394 </F>
-<F P=104>  Jakarta THE JAKARTA POST </F>
+<F P="103"> BK0501112394 </F>
+<F P="104">  Jakarta THE JAKARTA POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Jakarta (JP) -- The observation of human rights in 
@@ -8197,20 +8198,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Bishop Discusses Human Rights, Democratization </TI></H3>
-<F P=102>  BK0401130194 Jakarta THE JAKARTA POST in English 24 Dec 93 p 
+<F P="102">  BK0401130194 Jakarta THE JAKARTA POST in English 24 Dec 93 p 
 5 </F>
 
-<F P=103> BK0401130194 </F>
-<F P=104>  Jakarta THE JAKARTA POST </F>
+<F P="103"> BK0401130194 </F>
+<F P="104">  Jakarta THE JAKARTA POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Excerpt" of interview with Monsignor Carlos Filipe Ximenes </F>
+<F P="106"> ["Excerpt" of interview with Monsignor Carlos Filipe Ximenes </F>
 Belo, bishop of East Timor, by correspondent Yacob Herin in 
 Dili; date not given] 
   [Excerpt] Question: During your trip to 
@@ -8351,17 +8352,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Commander: Visitors No Longer Incite Timorese </TI></H3>
-<F P=102>  BK0501104394 Jakarta THE JAKARTA POST in English 28 Dec 93 p 
+<F P="102">  BK0501104394 Jakarta THE JAKARTA POST in English 28 Dec 93 p 
 2 </F>
 
-<F P=103> BK0501104394 </F>
-<F P=104>  Jakarta THE JAKARTA POST </F>
+<F P="103"> BK0501104394 </F>
+<F P="104">  Jakarta THE JAKARTA POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Dili, East Timor (JP) -- The visit to East Timor of 
@@ -8447,20 +8448,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Editorial on Armed Forces Commitment to 'Openness' </TI></H3>
-<F P=102>  BK0401122994 Jakarta THE JAKARTA POST in English 22 Dec 93 p 
+<F P="102">  BK0401122994 Jakarta THE JAKARTA POST in English 22 Dec 93 p 
 4 </F>
 
-<F P=103> BK0401122994 </F>
-<F P=104>  Jakarta THE JAKARTA POST </F>
+<F P="103"> BK0401122994 </F>
+<F P="104">  Jakarta THE JAKARTA POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "No Stepping Back"] </F>
+<F P="106"> [Editorial: "No Stepping Back"] </F>
   [Text] The initial concern that the gate of openness would 
 be shut temporarily following President Suharto's stern warning 
 the other day that certain elements in society have used 
@@ -8546,17 +8547,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Suharto Discusses Investment With UK Official </TI></H3>
-<F P=102>  BK0401101594 Jakarta Radio Republik Indonesia Network in 
+<F P="102">  BK0401101594 Jakarta Radio Republik Indonesia Network in 
 Indonesian 0600 GMT 4 Jan 94 </F>
 
-<F P=103> BK0401101594 </F>
-<F P=104>  Jakarta Radio Republik Indonesia Network </F>
+<F P="103"> BK0401101594 </F>
+<F P="104">  Jakarta Radio Republik Indonesia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Indonesian </F>
+Language: <F P="105"> Indonesian </F>
 Article Type:BFN 
 
   [Text] President Suharto held talks on trade and investment 
@@ -8604,17 +8605,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Finance Minister on Impact of GATT Accord </TI></H3>
-<F P=102>  BK0401110394 Jakarta THE JAKARTA POST in English 22 Dec 93 p 
+<F P="102">  BK0401110394 Jakarta THE JAKARTA POST in English 22 Dec 93 p 
 1 </F>
 
-<F P=103> BK0401110394 </F>
-<F P=104>  Jakarta THE JAKARTA POST </F>
+<F P="103"> BK0401110394 </F>
+<F P="104">  Jakarta THE JAKARTA POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Excerpts] Jakarta (JP) -- Minister of Finance Mar'ie 
@@ -8685,17 +8686,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Indonesia </F>
+<F P="100"> Indonesia </F>
 <H3> <TI>   Firm To Build Indigenously Designed Aircraft </TI></H3>
-<F P=102>  BK0501084894 Jakarta Radio Republik Indonesia Network in 
+<F P="102">  BK0501084894 Jakarta Radio Republik Indonesia Network in 
 Indonesian 0000 GMT 5 Jan 94 </F>
 
-<F P=103> BK0501084894 </F>
-<F P=104>  Jakarta Radio Republik Indonesia Network </F>
+<F P="103"> BK0501084894 </F>
+<F P="104">  Jakarta Radio Republik Indonesia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Indonesian </F>
+Language: <F P="105"> Indonesian </F>
 Article Type:BFN 
 
   [Excerpt] The IPTN [Nusantara Aviation Industries] will 
@@ -8725,17 +8726,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Laos </F>
+<F P="100"> Laos </F>
 <H3> <TI>   Saravane Province To Face Rice Shortages </TI></H3>
-<F P=102>  BK0501093394 Vientiane Vitthayou Hengsat Radio Network in 
+<F P="102">  BK0501093394 Vientiane Vitthayou Hengsat Radio Network in 
 Lao 0500 GMT 5 Jan 94 </F>
 
-<F P=103> BK0501093394 </F>
-<F P=104>  Vientiane Vitthayou Hengsat Radio Network </F>
+<F P="103"> BK0501093394 </F>
+<F P="104">  Vientiane Vitthayou Hengsat Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Lao </F>
+Language: <F P="105"> Lao </F>
 Article Type:BFN 
 
   [Text] The seasonal rice production on 41,774 hectares of 
@@ -8778,17 +8779,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Laos </F>
+<F P="100"> Laos </F>
 <H3> <TI>   Congratulatory Messages to Cuban Counterparts </TI></H3>
-<F P=102>  BK0301145594 Vientiane Vitthayou Hengsat Radio Network in 
+<F P="102">  BK0301145594 Vientiane Vitthayou Hengsat Radio Network in 
 Lao 1200 GMT 3 Jan 94 </F>
 
-<F P=103> BK0301145594 </F>
-<F P=104>  Vientiane Vitthayou Hengsat Radio Network </F>
+<F P="103"> BK0301145594 </F>
+<F P="104">  Vientiane Vitthayou Hengsat Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Lao </F>
+Language: <F P="105"> Lao </F>
 Article Type:BFN 
 
   [Text] On 31 December 1993, President Nouhak Phoumsavan and 
@@ -8831,17 +8832,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Laos </F>
+<F P="100"> Laos </F>
 <H3> <TI>   Nouhak, Khamtai Send Message to Castro </TI></H3>
-<F P=102>  BK3012073993 Vientiane Vitthayou Hengsat Radio Network in 
+<F P="102">  BK3012073993 Vientiane Vitthayou Hengsat Radio Network in 
 Lao 0500 GMT 30 Dec 93 </F>
 
-<F P=103> BK3012073993 </F>
-<F P=104>  Vientiane Vitthayou Hengsat Radio Network </F>
+<F P="103"> BK3012073993 </F>
+<F P="104">  Vientiane Vitthayou Hengsat Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Lao </F>
+Language: <F P="105"> Lao </F>
 Article Type:BFN 
 
   [Text] On 24 December, President Nouhak Phoumsavan and 
@@ -8875,17 +8876,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Ramos Discusses Government Priorities for 1994 </TI></H3>
-<F P=102>  BK0301105594 Quezon City PTV-4 Television Network in Tagalog 
+<F P="102">  BK0301105594 Quezon City PTV-4 Television Network in Tagalog 
 0500 GMT 3 Jan 94 </F>
 
-<F P=103> BK0301105594 </F>
-<F P=104>  Quezon City PTV-4 Television Network </F>
+<F P="103"> BK0301105594 </F>
+<F P="104">  Quezon City PTV-4 Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Tagalog </F>
+Language: <F P="105"> Tagalog </F>
 Article Type:BFN 
 
   [Excerpt] [passage omitted] In a report to the nation 
@@ -8953,17 +8954,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Economic Agreement Signed With PRC Province </TI></H3>
-<F P=102>  BK0401100594 Manila MANILA BULLETIN in English 29 Dec 93 p 
+<F P="102">  BK0401100594 Manila MANILA BULLETIN in English 29 Dec 93 p 
 B-1 </F>
 
-<F P=103> BK0401100594 </F>
-<F P=104>  Manila MANILA BULLETIN </F>
+<F P="103"> BK0401100594 </F>
+<F P="104">  Manila MANILA BULLETIN </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The Philippines and the province of Guangdong, China 
@@ -9004,17 +9005,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   De Villa: Holiday Truce With Communists Holds </TI></H3>
-<F P=102>  BK0501091794 Quezon City PTV-4 Television Network in Tagalog 
+<F P="102">  BK0501091794 Quezon City PTV-4 Television Network in Tagalog 
 0500 GMT 5 Jan 94 </F>
 
-<F P=103> BK0501091794 </F>
-<F P=104>  Quezon City PTV-4 Television Network </F>
+<F P="103"> BK0501091794 </F>
+<F P="104">  Quezon City PTV-4 Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Tagalog </F>
+Language: <F P="105"> Tagalog </F>
 Article Type:BFN 
 
   [Text] Defense Secretary Renato De Villa has reported that 
@@ -9048,11 +9049,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Roundup of Rebel Activities 25-31 Dec </TI></H3>
-<F P=102>  BK0501090694 </F>
-<F P=103> BK0501090694 </F>
-<F P=104></F>
+<F P="102">  BK0501090694 </F>
+<F P="103"> BK0501090694 </F>
+<F P="104"></F>
 
 
 
@@ -9099,15 +9100,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   `Kidnapped' American Freed in Davao </TI></H3>
-<F P=102>  BK0501104894 Hong Kong AFP in English 1042 GMT 5 Jan 94 </F>
-<F P=103> BK0501104894 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  BK0501104894 Hong Kong AFP in English 1042 GMT 5 Jan 94 </F>
+<F P="103"> BK0501104894 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Davao, Philippines, Jan 5 (AFP) -- A missing 
@@ -9150,18 +9151,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Wimon Warns Against Provoking Military </TI></H3>
-<F P=102>  BK0301150594 Bangkok THAI RAT in Thai 3 Jan 94 p 3 </F>
-<F P=103> BK0301150594 </F>
-<F P=104>  Bangkok THAI RAT </F>
+<F P="102">  BK0301150594 Bangkok THAI RAT in Thai 3 Jan 94 p 3 </F>
+<F P="103"> BK0301150594 </F>
+<F P="104">  Bangkok THAI RAT </F>
 
 
 <TEXT>
-Language: <F P=105> Thai </F>
+Language: <F P="105"> Thai </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Army Commander General Wimon Wongwanit by </F>
+<F P="106"> [Interview with Army Commander General Wimon Wongwanit by </F>
 THAI RAT political correspondent; place, date not given] 
   [Text] [THAI RAT] Will you leave your post as Army 
 commander when the October 1994 military reshuffle is made? 
@@ -9278,17 +9279,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Prime Minister To Visit Cambodia 12-14 Jan </TI></H3>
-<F P=102>  BK0501084494 Bangkok Radio Thailand Network in English 0000 
+<F P="102">  BK0501084494 Bangkok Radio Thailand Network in English 0000 
 GMT 5 Jan 94 </F>
 
-<F P=103> BK0501084494 </F>
-<F P=104>  Bangkok Radio Thailand Network </F>
+<F P="103"> BK0501084494 </F>
+<F P="104">  Bangkok Radio Thailand Network </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Prime Minister Chuan Likphai will visit Cambodia 
@@ -9324,15 +9325,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Phaithun To Succeed Chawalit as Labor Minister </TI></H3>
-<F P=102>  BK0501004794 Bangkok BANGKOK POST in English 5 Jan 94 p 1 </F>
-<F P=103> BK0501004794 </F>
-<F P=104>  Bangkok BANGKOK POST </F>
+<F P="102">  BK0501004794 Bangkok BANGKOK POST in English 5 Jan 94 p 1 </F>
+<F P="103"> BK0501004794 </F>
+<F P="104">  Bangkok BANGKOK POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Deputy labour and Social Welfare Minister Phaithun 
@@ -9369,18 +9370,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Paper Cautions on Financial Liberalization Haste </TI></H3>
-<F P=102>  BK0501094994 Bangkok SIAM RAT in Thai 5 Jan 94 p 3 </F>
-<F P=103> BK0501094994 </F>
-<F P=104>  Bangkok SIAM RAT </F>
+<F P="102">  BK0501094994 Bangkok SIAM RAT in Thai 5 Jan 94 p 3 </F>
+<F P="103"> BK0501094994 </F>
+<F P="104">  Bangkok SIAM RAT </F>
 
 
 <TEXT>
-Language: <F P=105> Thai </F>
+Language: <F P="105"> Thai </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Do Not Rush Into Financial Liberalization"] </F>
+<F P="106"> [Editorial: "Do Not Rush Into Financial Liberalization"] </F>
   [Excerpts] [passage omitted] We take this opportunity to 
 express a view in the interest of the country. That is, in 
 accordance with the GATT accord Thailand can no longer keep its 
@@ -9427,17 +9428,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Conclusion of DPRK Nuclear Issue `Soon' </TI></H3>
-<F P=102>  SK0501125094 Seoul KBS-1 Television Network in Korean 1222 
+<F P="102">  SK0501125094 Seoul KBS-1 Television Network in Korean 1222 
 GMT 5 Jan 94 </F>
 
-<F P=103> SK0501125094 </F>
-<F P=104>  Seoul KBS-1 Television Network </F>
+<F P="103"> SK0501125094 </F>
+<F P="104">  Seoul KBS-1 Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] North Korean UN Ambassador Pak Kil-yon today said 
@@ -9469,18 +9470,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   U.S., DPRK Have `Delicate Difference in Views' </TI></H3>
-<F P=102>  SK0501041394 Seoul TONG-A ILBO in Korean 5 Jan 94 p 5 </F>
-<F P=103> SK0501041394 </F>
-<F P=104>  Seoul TONG-A ILBO </F>
+<F P="102">  SK0501041394 Seoul TONG-A ILBO in Korean 5 Jan 94 p 5 </F>
+<F P="103"> SK0501041394 </F>
+<F P="104">  Seoul TONG-A ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [Article by Washington-based correspondent Nam Chan-sun: </F>
+<F P="106"> [Article by Washington-based correspondent Nam Chan-sun: </F>
 "War of Nerves on `Juridical Viewpoint' of Nuclear Inspection of 
 North Korea"] 
   [Text] It has been learned that there is a delicate 
@@ -9555,15 +9556,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Government Asks U.S. Embassy To Pay Rent </TI></H3>
-<F P=102>  SK0501061194 Seoul CHUNGANG ILBO in Korean 5 Jan 94 p 3 </F>
-<F P=103> SK0501061194 </F>
-<F P=104>  Seoul CHUNGANG ILBO </F>
+<F P="102">  SK0501061194 Seoul CHUNGANG ILBO in Korean 5 Jan 94 p 3 </F>
+<F P="103"> SK0501061194 </F>
+<F P="104">  Seoul CHUNGANG ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] The government was learned to have recently sent a 
@@ -9617,15 +9618,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Veterans Reject Settlement on Agent Orange </TI></H3>
-<F P=102>  SK0501042694 Seoul YONHAP in English 0146 GMT 5 Jan 94 </F>
-<F P=103> SK0501042694 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501042694 Seoul YONHAP in English 0146 GMT 5 Jan 94 </F>
+<F P="103"> SK0501042694 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- Some 200 South Korean 
@@ -9682,15 +9683,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Minister Raises DPRK Human Rights Issue </TI></H3>
-<F P=102>  SK0501072994 Seoul YONHAP in English 0718 GMT 5 Jan 94 </F>
-<F P=103> SK0501072994 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501072994 Seoul YONHAP in English 0718 GMT 5 Jan 94 </F>
+<F P="103"> SK0501072994 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- Deputy Prime Minister Yi 
@@ -9738,20 +9739,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Defense Ministry Aide on North Nuclear Issue </TI></H3>
-<F P=102>  SK0101062094 Seoul THE KOREA HERALD (Supplement) in English 
+<F P="102">  SK0101062094 Seoul THE KOREA HERALD (Supplement) in English 
 1 Jan 94 p 9 </F>
 
-<F P=103> SK0101062094 </F>
-<F P=104>  Seoul THE KOREA HERALD (Supplement) </F>
+<F P="103"> SK0101062094 </F>
+<F P="104">  Seoul THE KOREA HERALD (Supplement) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Excerpts" from the paper: "Nuclear Disarmament and </F>
+<F P="106"> ["Excerpts" from the paper: "Nuclear Disarmament and </F>
 Nonproliferation in Northeast Asia" by Dr. Jan Yong-sup, aide to 
 the Defense Ministry] 
   [Text] North Koreans have maintained that their nuclear 
@@ -9906,18 +9907,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Daily Predicts Changes in DPRK in New Year </TI></H3>
-<F P=102>  SK0301141694 Seoul CHUNGANG ILBO in Korean 3 Jan 94 p 29 </F>
-<F P=103> SK0301141694 </F>
-<F P=104>  Seoul CHUNGANG ILBO </F>
+<F P="102">  SK0301141694 Seoul CHUNGANG ILBO in Korean 3 Jan 94 p 29 </F>
+<F P="103"> SK0301141694 </F>
+<F P="104">  Seoul CHUNGANG ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [Article by Yu Yong-ku and O Yong-hwan: "How Will North </F>
+<F P="106"> [Article by Yu Yong-ku and O Yong-hwan: "How Will North </F>
 Korea Change in the New Year?"] 
   [Text] 
 <H5>  Power Structure </H5>
@@ -10121,15 +10122,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   President's 1994 Trips To Include Russia, Japan </TI></H3>
-<F P=102>  SK0501010794 Seoul YONHAP in English 0023 GMT 5 Jan 94 </F>
-<F P=103> SK0501010794 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501010794 Seoul YONHAP in English 0023 GMT 5 Jan 94 </F>
+<F P="103"> SK0501010794 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- President Kim Yong-sam 
@@ -10173,15 +10174,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Russia Studying Cooperation With DPRK, ROK </TI></H3>
-<F P=102>  SK0501082294 Seoul HANGYORE SINMUN in Korean 4 Jan 94 p 7 </F>
-<F P=103> SK0501082294 </F>
-<F P=104>  Seoul HANGYORE SINMUN </F>
+<F P="102">  SK0501082294 Seoul HANGYORE SINMUN in Korean 4 Jan 94 p 7 </F>
+<F P="103"> SK0501082294 </F>
+<F P="104">  Seoul HANGYORE SINMUN </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] Russia has been learned to be looking into ways of 
@@ -10254,15 +10255,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Tax-Free Regulations on Russians Affect Business </TI></H3>
-<F P=102>  SK0401021594 Seoul YONHAP in English 0142 GMT 4 Jan 94 </F>
-<F P=103> SK0401021594 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401021594 Seoul YONHAP in English 0142 GMT 4 Jan 94 </F>
+<F P="103"> SK0401021594 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pusan, Jan 4 (YONHAP) -- The Russian Government will 
@@ -10301,15 +10302,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Country To Join OECD Maritime Commission </TI></H3>
-<F P=102>  SK0401021294 Seoul YONHAP in English 0136 GMT 4 Jan 94 </F>
-<F P=103> SK0401021294 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401021294 Seoul YONHAP in English 0136 GMT 4 Jan 94 </F>
+<F P="103"> SK0401021294 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- Korea will join the 
@@ -10360,15 +10361,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Figures on Exports to Latin America Reported </TI></H3>
-<F P=102>  SK0501030194 Seoul YONHAP in English 0220 GMT 5 Jan 94 </F>
-<F P=103> SK0501030194 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501030194 Seoul YONHAP in English 0220 GMT 5 Jan 94 </F>
+<F P="103"> SK0501030194 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- Exports to Latin America 
@@ -10415,15 +10416,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Joint Venture To Build Oil Refinery in PRC </TI></H3>
-<F P=102>  SK0401020794 Seoul YONHAP in English 0117 GMT 4 Jan 94 </F>
-<F P=103> SK0401020794 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401020794 Seoul YONHAP in English 0117 GMT 4 Jan 94 </F>
+<F P="103"> SK0401020794 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- Yukong Ltd. has initiated 
@@ -10465,15 +10466,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Ssangyong To Cooperate With Japanese Manufacturer </TI></H3>
-<F P=102>  SK0401025094 Seoul YONHAP in English 0156 GMT 4 Jan 94 </F>
-<F P=103> SK0401025094 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401025094 Seoul YONHAP in English 0156 GMT 4 Jan 94 </F>
+<F P="103"> SK0401025094 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 4 (YONHAP) -- Ssangyong Cement 
@@ -10512,15 +10513,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   President Assures Industry Free Activity </TI></H3>
-<F P=102>  SK0501100894 Seoul YONHAP in English 0936 GMT 5 Jan 94 </F>
-<F P=103> SK0501100894 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501100894 Seoul YONHAP in English 0936 GMT 5 Jan 94 </F>
+<F P="103"> SK0501100894 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- President Kim Yong-sam 
@@ -10568,15 +10569,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Foreign Ministry To Reorganize `Drastically' </TI></H3>
-<F P=102>  SK0501075294 Seoul TONG-A ILBO in Korean 5 Jan 94 p 1 </F>
-<F P=103> SK0501075294 </F>
-<F P=104>  Seoul TONG-A ILBO </F>
+<F P="102">  SK0501075294 Seoul TONG-A ILBO in Korean 5 Jan 94 p 1 </F>
+<F P="103"> SK0501075294 </F>
+<F P="104">  Seoul TONG-A ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] It was learned on 4 December that the Foreign 
@@ -10612,15 +10613,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Assistant-Minister-Level Officials Reshuffled </TI></H3>
-<F P=102>  SK0501081394 Seoul YONHAP in English 0722 GMT 5 Jan 94 </F>
-<F P=103> SK0501081394 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501081394 Seoul YONHAP in English 0722 GMT 5 Jan 94 </F>
+<F P="103"> SK0501081394 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- Deputy Forestry 
@@ -10670,15 +10671,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Former Minister Cleared in Arms Fraud Case </TI></H3>
-<F P=102>  SK0501074494 Seoul YONHAP in English 0623 GMT 5 Jan 94 </F>
-<F P=103> SK0501074494 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501074494 Seoul YONHAP in English 0623 GMT 5 Jan 94 </F>
+<F P="103"> SK0501074494 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- Former Defense Minister 
@@ -10733,17 +10734,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Shortage of Inspectors for Agricultural Imports </TI></H3>
-<F P=102>  SK0401145994 Seoul KBS-1 Television Network in Korean 1235 
+<F P="102">  SK0401145994 Seoul KBS-1 Television Network in Korean 1235 
 GMT 4 Jan 94 </F>
 
-<F P=103> SK0401145994 </F>
-<F P=104>  Seoul KBS-1 Television Network </F>
+<F P="103"> SK0401145994 </F>
+<F P="104">  Seoul KBS-1 Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] There is a shortage of personnel at quarantine 
@@ -10812,15 +10813,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Apple, Microsoft Compatible Notebook PC Created </TI></H3>
-<F P=102>  SK0501042294 Seoul YONHAP in English 0229 GMT 5 Jan 94 </F>
-<F P=103> SK0501042294 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501042294 Seoul YONHAP in English 0229 GMT 5 Jan 94 </F>
+<F P="103"> SK0501042294 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- Korean scientists have 
@@ -10865,15 +10866,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Country To Increase 16 M-Dram Exports in 1994 </TI></H3>
-<F P=102>  SK0501021494 Seoul YONHAP in English 0131 GMT 5 Jan 94 </F>
-<F P=103> SK0501021494 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501021494 Seoul YONHAP in English 0131 GMT 5 Jan 94 </F>
+<F P="103"> SK0501021494 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- South Korea's 
@@ -10923,15 +10924,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Country Reported To Receive Most New Ship Orders </TI></H3>
-<F P=102>  SK0501070594 Seoul YONHAP in English 0443 GMT 5 Jan 94 </F>
-<F P=103> SK0501070594 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501070594 Seoul YONHAP in English 0443 GMT 5 Jan 94 </F>
+<F P="103"> SK0501070594 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 (YONHAP) -- South Korea received the 
@@ -10970,15 +10971,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   1993 Overseas Construction Orders Reported </TI></H3>
-<F P=102>  SK0401011894 Seoul YONHAP in English 0049 GMT 4 Jan 94 </F>
-<F P=103> SK0401011894 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0401011894 Seoul YONHAP in English 0049 GMT 4 Jan 94 </F>
+<F P="103"> SK0401011894 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 4 (YONHAP) -- South Korean construction 
@@ -11024,20 +11025,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Commentary Reviews Human Rights Achievements </TI></H3>
-<F P=102>  BK0401133094 Hanoi Voice of Vietnam in English 1000 GMT 4 
+<F P="102">  BK0401133094 Hanoi Voice of Vietnam in English 1000 GMT 4 
 Jan 94 </F>
 
-<F P=103> BK0401133094 </F>
-<F P=104>  Hanoi Voice of Vietnam </F>
+<F P="103"> BK0401133094 </F>
+<F P="104">  Hanoi Voice of Vietnam </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Station commentary] </F>
+<F P="106"> [Station commentary] </F>
   [Text] Prominent and obvious achievements obtained by 
 Vietnam in 1993 were recognized by the world. In addition, it 
 is an undeniable fact that human rights have been ensured and 
@@ -11112,17 +11113,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Hanoi Reviews Relations With China in 1993 </TI></H3>
-<F P=102>  BK0401043594 Hanoi Voice of Vietnam in English 1000 GMT 3 
+<F P="102">  BK0401043594 Hanoi Voice of Vietnam in English 1000 GMT 3 
 Jan 94 </F>
 
-<F P=103> BK0401043594 </F>
-<F P=104>  Hanoi Voice of Vietnam </F>
+<F P="103"> BK0401043594 </F>
+<F P="104">  Hanoi Voice of Vietnam </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Looking back to 1993, Vietnam and China are very 
@@ -11213,20 +11214,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Radio Reviews `Breakthrough' Ties With EC </TI></H3>
-<F P=102>  BK0501142594 Hanoi Voice of Vietnam in English 1000 GMT 5 
+<F P="102">  BK0501142594 Hanoi Voice of Vietnam in English 1000 GMT 5 
 Jan 94 </F>
 
-<F P=103> BK0501142594 </F>
-<F P=104>  Hanoi Voice of Vietnam </F>
+<F P="103"> BK0501142594 </F>
+<F P="104">  Hanoi Voice of Vietnam </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Station commentary] </F>
+<F P="106"> [Station commentary] </F>
   [Text] Nineteen Ninety Three marked a breakthrough in the 
 cooperation between Vietnam and the European Community. Here is 
 our comment on the issue: 
@@ -11300,17 +11301,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Direct Shipping Link With U.S. Given Approval </TI></H3>
-<F P=102>  BK0501141494 Hanoi Voice of Vietnam in English 1000 GMT 5 
+<F P="102">  BK0501141494 Hanoi Voice of Vietnam in English 1000 GMT 5 
 Jan 94 </F>
 
-<F P=103> BK0501141494 </F>
-<F P=104>  Hanoi Voice of Vietnam </F>
+<F P="103"> BK0501141494 </F>
+<F P="104">  Hanoi Voice of Vietnam </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Vietnam Transport Ministry and shipping authorities 
@@ -11339,15 +11340,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Official Discusses Thai Use of Mekong </TI></H3>
-<F P=102>  BK0401143994 Hanoi VNA in English 1435 GMT 4 Jan 94 </F>
-<F P=103> BK0401143994 </F>
-<F P=104>  Hanoi VNA </F>
+<F P="102">  BK0401143994 Hanoi VNA in English 1435 GMT 4 Jan 94 </F>
+<F P="103"> BK0401143994 </F>
+<F P="104">  Hanoi VNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hanoi VNA Jan. 4 -- Mr. Pham Sy Ky, vice minister of 
@@ -11431,20 +11432,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Chief of Staff Writes Article on Army Tasks </TI></H3>
-<F P=102>  BK0501145594 Hanoi QUAN DOI NHAN DAN in Vietnamese 20 Dec 93 
+<F P="102">  BK0501145594 Hanoi QUAN DOI NHAN DAN in Vietnamese 20 Dec 93 
 pp 1, 2 </F>
 
-<F P=103> BK0501145594 </F>
-<F P=104>  Hanoi QUAN DOI NHAN DAN </F>
+<F P="103"> BK0501145594 </F>
+<F P="104">  Hanoi QUAN DOI NHAN DAN </F>
 
 
 <TEXT>
-Language: <F P=105> Vietnamese </F>
+Language: <F P="105"> Vietnamese </F>
 Article Type:BFN 
 
-<F P=106> [Article by Senior Lieutenant General Dao Dinh Luyen, member </F>
+<F P="106"> [Article by Senior Lieutenant General Dao Dinh Luyen, member </F>
 of the Communist Party of Vietnam Central Committee and chief of 
 the Vietnam People's Army General Staff: "Take a New Step To 
 Build a Revolutionary, Regular, Seasoned, and Modern Army Step 
@@ -11782,15 +11783,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Bank Officials: Renovation Achieves Good Results </TI></H3>
-<F P=102>  BK0301064894 Hanoi VNA in English 0625 GMT 3 Jan 94 </F>
-<F P=103> BK0301064894 </F>
-<F P=104>  Hanoi VNA </F>
+<F P="102">  BK0301064894 Hanoi VNA in English 0625 GMT 3 Jan 94 </F>
+<F P="103"> BK0301064894 </F>
+<F P="104">  Hanoi VNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hanoi VNA Jan. 3 -- The renovation of banking in Ho 
@@ -11834,15 +11835,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Decree Broadens Business Insurance Services </TI></H3>
-<F P=102>  BK0401073394 Hanoi VNA in English 0610 GMT 4 Jan 94 </F>
-<F P=103> BK0401073394 </F>
-<F P=104>  Hanoi VNA </F>
+<F P="102">  BK0401073394 Hanoi VNA in English 0610 GMT 4 Jan 94 </F>
+<F P="103"> BK0401073394 </F>
+<F P="104">  Hanoi VNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hanoi VNA Jan. 4 -- The Vietnamese Government has 
@@ -11879,17 +11880,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Vietsovpetro Oil Production for 1993 Reported </TI></H3>
-<F P=102>  BK0501115494 Hanoi Voice of Vietnam in English 1000 GMT 5 
+<F P="102">  BK0501115494 Hanoi Voice of Vietnam in English 1000 GMT 5 
 Jan 94 </F>
 
-<F P=103> BK0501115494 </F>
-<F P=104>  Hanoi Voice of Vietnam </F>
+<F P="103"> BK0501115494 </F>
+<F P="104">  Hanoi Voice of Vietnam </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Vietsovpetro pumped up 6.3 million tonnes of crude 
@@ -11920,16 +11921,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hata To Discuss Nuclear Test Ban, GATT in PRC </TI></H3>
-<F P=102>  OW0501141294 Tokyo KYODO in English 1358 GMT 5 Jan 94 </F>
-<F P=103> OW0501141294 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0501141294 Tokyo KYODO in English 1358 GMT 5 Jan 94 </F>
+<F P="103"> OW0501141294 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 5 KYODO -- Foreign Minister Tsutomu 
@@ -11971,16 +11972,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTHEAST ASIA </F>
-<F P=101> Cambodia </F>
+<F P="100"> SOUTHEAST ASIA </F>
+<F P="101"> Cambodia </F>
 <H3> <TI>   Royalists, Khmer Rouge May Meet in Surin 8 Jan </TI></H3>
-<F P=102>  BK0501132094 Hong Kong AFP in English 1308 GMT 5 Jan 94 </F>
-<F P=103> BK0501132094 </F>
-<F P=104>  Hong Kong AFP </F>
+<F P="102">  BK0501132094 Hong Kong AFP in English 1308 GMT 5 Jan 94 </F>
+<F P="103"> BK0501132094 </F>
+<F P="104">  Hong Kong AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] ARANYAPRATHET, Thailand, Jan 5 (AFP) -- Cambodian 
@@ -12039,16 +12040,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> SOUTHEAST ASIA </F>
-<F P=101> Cambodia </F>
+<F P="100"> SOUTHEAST ASIA </F>
+<F P="101"> Cambodia </F>
 <H3> <TI>   Khmer Rouge Shelling Kills 100 Near Border </TI></H3>
-<F P=102>  BK0501091194 Bangkok NAEO NA in Thai 5 Jan 94 p 9 </F>
-<F P=103> BK0501091194 </F>
-<F P=104>  Bangkok NAEO NA </F>
+<F P="102">  BK0501091194 Bangkok NAEO NA in Thai 5 Jan 94 p 9 </F>
+<F P="103"> BK0501091194 </F>
+<F P="104">  Bangkok NAEO NA </F>
 
 
 <TEXT>
-Language: <F P=105> Thai </F>
+Language: <F P="105"> Thai </F>
 Article Type:BFN 
 
   [Text] At about 1300 on 4 January, the 450th Division of 
@@ -12082,18 +12083,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Kim Yong-sam's New Year Remarks `Foolish Outcry' </TI></H3>
-<F P=102>  SK0501045494 Pyongyang KCNA in English 0431 GMT 5 Jan 94 </F>
-<F P=103> SK0501045494 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501045494 Pyongyang KCNA in English 0431 GMT 5 Jan 94 </F>
+<F P="103"> SK0501045494 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Foolish Jargon of the Doomed" -- KCNA headline] </F>
+<F P="106"> ["Foolish Jargon of the Doomed" -- KCNA headline] </F>
   [Text] Pyongyang, January 5 (KCNA) -- NODONG SINMUN today 
 comments on the trash spun out by Kim Yong-sam the traitor on 
 the New Year. Drivelling about "larger reforms", he blared that 
@@ -12144,22 +12145,22 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Radio Carries Commentary on Address </TI></H3>
-<F P=102>  SK0501013394 Pyongyang Korean Central Broadcasting Network 
+<F P="102">  SK0501013394 Pyongyang Korean Central Broadcasting Network 
 in Korean 1154 GMT 4 Jan 94 </F>
 
-<F P=103> SK0501013394 </F>
-<F P=104>  Pyongyang Korean Central Broadcasting Network 
+<F P="103"> SK0501013394 </F>
+<F P="104">  Pyongyang Korean Central Broadcasting Network 
 in Korean 1154 GMT 4 Jan 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Korean </F>
+Language: <F P="105">Korean </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Yun Pyong-son: "Traitor's New Year </F>
+<F P="106"> [Commentary by Yun Pyong-son: "Traitor's New Year </F>
 Gibberish"] 
   [Text] The crow, cawing twelve times, can only utter caw, 
 so the saying goes. This means that one who is a bad man by 
@@ -12270,19 +12271,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   ROK Defense Minister's Remarks Denounced </TI></H3>
-<F P=102>  SK0501005794 Pyongyang Korean Central Broadcasting Network 
+<F P="102">  SK0501005794 Pyongyang Korean Central Broadcasting Network 
 in Korean 1500 GMT 4 Jan 94 </F>
 
-<F P=103> SK0501005794 </F>
-<F P=104>  Pyongyang Korean Central Broadcasting Network 
+<F P="103"> SK0501005794 </F>
+<F P="104">  Pyongyang Korean Central Broadcasting Network 
 in Korean 1500 GMT 4 Jan 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Korean </F>
+Language: <F P="105">Korean </F>
 Article Type:BFN 
 
   [Text] The South Korean puppet clique is frantically trying 
@@ -12328,15 +12329,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   SKNDF Issues Communique on Committee Meeting </TI></H3>
-<F P=102>  SK0501052794 Pyongyang KCNA in English 0426 GMT 5 Jan 94 </F>
-<F P=103> SK0501052794 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501052794 Pyongyang KCNA in English 0426 GMT 5 Jan 94 </F>
+<F P="103"> SK0501052794 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 5 (KCNA) -- Radio Voice of 
@@ -12398,18 +12399,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Vows To `Overthrow' Kim Yong-sam </TI></H3>
-<F P=102>  SK0501104694 Pyongyang KCNA in English 1004 GMT 5 Jan 94 </F>
-<F P=103> SK0501104694 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501104694 Pyongyang KCNA in English 1004 GMT 5 Jan 94 </F>
+<F P="103"> SK0501104694 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Hanminjon Declares Its Break With Kim Yong-sam </F>
+<F P="106"> ["Hanminjon Declares Its Break With Kim Yong-sam </F>
 Regime"--KCNA headline] 
   [Text] Pyongyang, January 5 (KCNA) -- The South Korean 
 National Democratic Front (Hanminjon) solemnly vowed to 
@@ -12471,19 +12472,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   `Slanderous' Remarks by Japan's Hata Denounced </TI></H3>
-<F P=102>  SK0501014794 Pyongyang Korean Central Broadcasting Network 
+<F P="102">  SK0501014794 Pyongyang Korean Central Broadcasting Network 
 in Korean 1500 GMT 4 Jan 94 </F>
 
-<F P=103> SK0501014794 </F>
-<F P=104>  Pyongyang Korean Central Broadcasting Network 
+<F P="103"> SK0501014794 </F>
+<F P="104">  Pyongyang Korean Central Broadcasting Network 
 in Korean 1500 GMT 4 Jan 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Korean </F>
+Language: <F P="105">Korean </F>
 Article Type:BFN 
 
   [Text] According to reports, Japanese Foreign Minister Hata 
@@ -12533,15 +12534,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Vice President Yi Chong-ok Meets Algerian Envoy </TI></H3>
-<F P=102>  SK0501110894 Pyongyang KCNA in English 1030 GMT 5 Jan 94 </F>
-<F P=103> SK0501110894 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501110894 Pyongyang KCNA in English 1030 GMT 5 Jan 94 </F>
+<F P="103"> SK0501110894 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 5 (KCNA) -- Vice President Yi 
@@ -12567,15 +12568,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Media Report Kim Il-song's Address </TI></H3>
-<F P=102>  SK0501050294 Pyongyang KCNA in English 0413 GMT 5 Jan 94 </F>
-<F P=103> SK0501050294 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501050294 Pyongyang KCNA in English 0413 GMT 5 Jan 94 </F>
+<F P="103"> SK0501050294 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 5 (KCNA) -- The great leader 
@@ -12606,18 +12607,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Vice President Supports Kim Il-song's Address </TI></H3>
-<F P=102>  SK0501060194 Pyongyang KCNA in English 0445 GMT 5 Jan 94 </F>
-<F P=103> SK0501060194 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0501060194 Pyongyang KCNA in English 0445 GMT 5 Jan 94 </F>
+<F P="103"> SK0501060194 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Vice-President Kim Pyong-sik on Principled Stand for </F>
+<F P="106"> ["Vice-President Kim Pyong-sik on Principled Stand for </F>
 National Reunification" -- KCNA headline] 
   [Text] Pyongyang, January 5 (KCNA) -- The principled stand 
 regarding national reunification clarified by the respected 
@@ -12671,15 +12672,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   U.S., DPRK Said To Agree on Inspection Principles </TI></H3>
-<F P=102>  SK0501065094 Seoul MUNHWA ILBO in Korean 5 Jan 94 p 1 </F>
-<F P=103> SK0501065094 </F>
-<F P=104>  Seoul MUNHWA ILBO </F>
+<F P="102">  SK0501065094 Seoul MUNHWA ILBO in Korean 5 Jan 94 p 1 </F>
+<F P="103"> SK0501065094 </F>
+<F P="104">  Seoul MUNHWA ILBO </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] On 5 December, a relevant government official 
@@ -12727,20 +12728,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Foreign Minister on 1993 Accomplishments </TI></H3>
-<F P=102>  BK0301141194 Hanoi Voice of Vietnam Network in Vietnamese 
+<F P="102">  BK0301141194 Hanoi Voice of Vietnam Network in Vietnamese 
 1430 GMT 2 Jan 94 </F>
 
-<F P=103> BK0301141194 </F>
-<F P=104>  Hanoi Voice of Vietnam Network </F>
+<F P="103"> BK0301141194 </F>
+<F P="104">  Hanoi Voice of Vietnam Network </F>
 
 
 <TEXT>
-Language: <F P=105> Vietnamese </F>
+Language: <F P="105"> Vietnamese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Foreign Minister Nguyen Manh Cam by </F>
+<F P="106"> [Interview with Foreign Minister Nguyen Manh Cam by </F>
 unidentified correspondent; from the 1 January NHAN DAN -- 
 place, date not given] 
   [Text] [Correspondent] Dear Comrade Foreign Minister: Last 
@@ -12916,19 +12917,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   South Berated for `Dependence on Outside Forces' </TI></H3>
-<F P=102>  SK0601021194 Pyongyang Korean Central Broadcasting Network 
+<F P="102">  SK0601021194 Pyongyang Korean Central Broadcasting Network 
 in Korean 2200 GMT 5 Jan 94 </F>
 
-<F P=103> SK0601021194 </F>
-<F P=104>  Pyongyang Korean Central Broadcasting Network 
+<F P="103"> SK0601021194 </F>
+<F P="104">  Pyongyang Korean Central Broadcasting Network 
 in Korean 2200 GMT 5 Jan 94 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Korean </F>
+Language: <F P="105">Korean </F>
 Article Type:BFN 
 
   [Text] Wearing the horsehair cap of a civilian-led 
@@ -13001,18 +13002,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   `Traitorious Government of Kim Yong-sam' Denounced </TI></H3>
-<F P=102>  SK0601113694 Pyongyang KCNA in English 1009 GMT 6 Jan 93 </F>
-<F P=103> SK0601113694 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0601113694 Pyongyang KCNA in English 1009 GMT 6 Jan 93 </F>
+<F P="103"> SK0601113694 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Traitorous `Civilian'-Veiled Group Shunning Fellow </F>
+<F P="106"> ["Traitorous `Civilian'-Veiled Group Shunning Fellow </F>
 Countrymen and Depending on Outside Forces"--KCNA headline] 
   [Text] Pyongyang, January 6 (KCNA) -- NODONG SINMUN today 
 comes out with an article denouncing the Kim Yong-sam puppet 
@@ -13084,15 +13085,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Chondoist Chongu Party Supports Reunification </TI></H3>
-<F P=102>  SK0601042594 Pyongyang KCNA in English 0416 GMT 6 Jan 94 </F>
-<F P=103> SK0601042594 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0601042594 Pyongyang KCNA in English 0416 GMT 6 Jan 94 </F>
+<F P="103"> SK0601042594 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 6 (KCNA) -- Yu Mi-yong, 
@@ -13151,15 +13152,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Media Report on Kim Il-song's Address </TI></H3>
-<F P=102>  SK0601041694 Pyongyang KCNA in English 0407 GMT 6 Jan 94 </F>
-<F P=103> SK0601041694 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0601041694 Pyongyang KCNA in English 0407 GMT 6 Jan 94 </F>
+<F P="103"> SK0601041694 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 6 (KCNA) -- Foreign media gave 
@@ -13210,15 +13211,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Foreign Leaders Greet Kim Chong-il on New Year </TI></H3>
-<F P=102>  SK0601042294 Pyongyang KCNA in English 0409 GMT 6 Jan 94 </F>
-<F P=103> SK0601042294 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0601042294 Pyongyang KCNA in English 0409 GMT 6 Jan 94 </F>
+<F P="103"> SK0601042294 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 6 (KCNA) -- The dear leader 
@@ -13253,15 +13254,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Symposium Held on Kim Il-song Linguistic Theory </TI></H3>
-<F P=102>  SK0601043094 Pyongyang KCNA in English 0422 GMT 6 Jan 94 </F>
-<F P=103> SK0601043094 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0601043094 Pyongyang KCNA in English 0422 GMT 6 Jan 94 </F>
+<F P="103"> SK0601043094 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Pyongyang, January 6 (KCNA) -- A scientific 
@@ -13322,18 +13323,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   MITI on Plan To End Car-Export Restraints </TI></H3>
-<F P=102>  OW0401113194 Tokyo TOKYO SHIMBUN in Japanese 28 Dec 93 
+<F P="102">  OW0401113194 Tokyo TOKYO SHIMBUN in Japanese 28 Dec 93 
 Morning Edition p 7 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0401113194 </F>
-<F P=104>  Tokyo TOKYO SHIMBUN </F>
+<F P="103"> OW0401113194 </F>
+<F P="104">  Tokyo TOKYO SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] On 27 December, the Ministry of International Trade 
@@ -13398,18 +13399,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Ministry Examines U.S. Relations, DPRK Issue </TI></H3>
-<F P=102>  OW0601142394 Tokyo NIHON KEIZAI SHIMBUN in Japanese 31 Dec 
+<F P="102">  OW0601142394 Tokyo NIHON KEIZAI SHIMBUN in Japanese 31 Dec 
 93 Morning Edition p 2 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0601142394 </F>
-<F P=104>  Tokyo NIHON KEIZAI SHIMBUN </F>
+<F P="103"> OW0601142394 </F>
+<F P="104">  Tokyo NIHON KEIZAI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] Reviewing this year's [1993] diplomacy, the 
@@ -13482,21 +13483,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Deputy Minister on DPRK, U.S. Security Issues </TI></H3>
-<F P=102>  OW0501055094 Tokyo NIHON KEIZAI SHIMBUN in Japanese 1 Jan 94 
+<F P="102">  OW0501055094 Tokyo NIHON KEIZAI SHIMBUN in Japanese 1 Jan 94 
 Morning Edition p 13 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0501055094 </F>
-<F P=104>  Tokyo NIHON KEIZAI SHIMBUN </F>
+<F P="103"> OW0501055094 </F>
+<F P="104">  Tokyo NIHON KEIZAI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Deputy Foreign Minister Kunihiko Saito by </F>
+<F P="106"> [Interview with Deputy Foreign Minister Kunihiko Saito by </F>
 NIHON KEIZAI SHIMBUN reporter; place and date not given] 
   [Text] [Reporter] Japan's diplomacy is expected to be 
 forced to go through fundamental changes in the post-Cold War 
@@ -13597,18 +13598,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   `Extraordinary Events' Expected in DPRK </TI></H3>
-<F P=102>  OW0401055494 Tokyo YOMIURI SHIMBUN in Japanese 3 Jan 93 
+<F P="102">  OW0401055494 Tokyo YOMIURI SHIMBUN in Japanese 3 Jan 93 
 Morning Edition p 2 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0401055494 </F>
-<F P=104>  Tokyo YOMIURI SHIMBUN </F>
+<F P="103"> OW0401055494 </F>
+<F P="104">  Tokyo YOMIURI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] Believing that some extraordinary events will 
@@ -13680,18 +13681,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Toyota Motors Firm Considers Mexican Market </TI></H3>
-<F P=102>  OW3112120593 Tokyo NIHON KEIZAI SHIMBUN in Japanese 23 Dec 
+<F P="102">  OW3112120593 Tokyo NIHON KEIZAI SHIMBUN in Japanese 23 Dec 
 93 Morning Edition p 11 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW3112120593 </F>
-<F P=104>  Tokyo NIHON KEIZAI SHIMBUN </F>
+<F P="103"> OW3112120593 </F>
+<F P="104">  Tokyo NIHON KEIZAI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] During a 22 December news conference, Tatsuro 
@@ -13753,21 +13754,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hata Interviewed on Role in Asia-Pacific Region </TI></H3>
-<F P=102>  OW0601131194 Tokyo SANKEI SHIMBUN in Japanese 3 Jan 94 
+<F P="102">  OW0601131194 Tokyo SANKEI SHIMBUN in Japanese 3 Jan 94 
 Morning Edition p 4 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0601131194 </F>
-<F P=104>  Tokyo SANKEI SHIMBUN </F>
+<F P="103"> OW0601131194 </F>
+<F P="104">  Tokyo SANKEI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Foreign Minister Tsutomu Hata by SANKEI </F>
+<F P="106"> [Interview with Foreign Minister Tsutomu Hata by SANKEI </F>
 SHIMBUN; place and date not given] 
   [Text] [SANKEI SHIMBUN] The geopolitical environment in 
 the Asia-Pacific region is undergoing changes with events taking 
@@ -13839,18 +13840,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   MOFA Predicts 1994 To Be Year of Uncertainty </TI></H3>
-<F P=102>  OW0601135294 Tokyo TOKYO SHIMBUN in Japanese 31 Dec 93 
+<F P="102">  OW0601135294 Tokyo TOKYO SHIMBUN in Japanese 31 Dec 93 
 Morning Edition p 2 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0601135294 </F>
-<F P=104>  Tokyo TOKYO SHIMBUN </F>
+<F P="103"> OW0601135294 </F>
+<F P="104">  Tokyo TOKYO SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] With 1993 coming to an end, the Ministry of Foreign 
@@ -13921,21 +13922,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   * Outlook for Relations With Russia Discussed </TI></H3>
-<F P=102>  942A0026A Tokyo GEKKAN KEIDANREN in Japanese Sep 93 pp 
+<F P="102">  942A0026A Tokyo GEKKAN KEIDANREN in Japanese Sep 93 pp 
 10-21--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 942A0026A </F>
-<F P=104>  Tokyo GEKKAN KEIDANREN </F>
+<F P="103"> 942A0026A </F>
+<F P="104">  Tokyo GEKKAN KEIDANREN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> [Roundtable discussion with Isamu Yamashita, president of </F>
+<F P="106"> [Roundtable discussion with Isamu Yamashita, president of </F>
 Japan-Russia Economic Committee (adviser to Mitsui Shipbuilding, 
 top adviser to JR East Japan); Jiro Kawake, vice president of 
 Japan-Russia Economic Committee (chairman of Oji Paper); Jiro 
@@ -14536,18 +14537,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Russian Subs Operations in Sea of Japan Reported </TI></H3>
-<F P=102>  OW0501204794 Tokyo SANKEI SHIMBUN in Japanese 4 Jan 94 
+<F P="102">  OW0501204794 Tokyo SANKEI SHIMBUN in Japanese 4 Jan 94 
 Morning Edition p 1 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0501204794 </F>
-<F P=104>  Tokyo SANKEI SHIMBUN </F>
+<F P="103"> OW0501204794 </F>
+<F P="104">  Tokyo SANKEI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] On 3 January a source specializing in international 
@@ -14609,21 +14610,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Zhrinovskiy Interviewed on Territorial Issue </TI></H3>
-<F P=102>  OW0601113694 Tokyo NIHON KEIZAI SHIMBUN in Japanese 6 Jan 94 
+<F P="102">  OW0601113694 Tokyo NIHON KEIZAI SHIMBUN in Japanese 6 Jan 94 
 Morning Edition p 8 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0601113694 </F>
-<F P=104>  Tokyo NIHON KEIZAI SHIMBUN </F>
+<F P="103"> OW0601113694 </F>
+<F P="104">  Tokyo NIHON KEIZAI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Vladimir Zhrinovskiy, leader of the Russian </F>
+<F P="106"> [Interview with Vladimir Zhrinovskiy, leader of the Russian </F>
 Liberal Democratic Party, by Motohiro Ikeda on 4 January; place 
 not given] 
   [Text] Moscow 5 Jan -- Vladimir Zhrinovskiy, leader of the 
@@ -14708,18 +14709,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   DA Decides To Appoint Makoto Sakuma as Adviser </TI></H3>
-<F P=102>  OW0401141594 Tokyo ASAHI SHIMBUN in Japanese 29 Dec 93 
+<F P="102">  OW0401141594 Tokyo ASAHI SHIMBUN in Japanese 29 Dec 93 
 Morning Edition p 3 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0401141594 </F>
-<F P=104>  Tokyo ASAHI SHIMBUN </F>
+<F P="103"> OW0401141594 </F>
+<F P="104">  Tokyo ASAHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] The Defense Agency [DA] decided on 28 December to 
@@ -14763,18 +14764,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Defense Agency Decides on New Defense Concept </TI></H3>
-<F P=102>  OW0501214894 Tokyo YOMIURI SHIMBUN in Japanese 31 Dec 93 
+<F P="102">  OW0501214894 Tokyo YOMIURI SHIMBUN in Japanese 31 Dec 93 
 Morning Edition p 1 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0501214894 </F>
-<F P=104>  Tokyo YOMIURI SHIMBUN </F>
+<F P="103"> OW0501214894 </F>
+<F P="104">  Tokyo YOMIURI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] The Defense Agency has decided on a new defense 
@@ -14844,18 +14845,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   GSO Decides To Reduce Military Bases to 99 </TI></H3>
-<F P=102>  OW0401042794 Tokyo YOMIURI SHIMBUN in Japanese 3 Jan 94 
+<F P="102">  OW0401042794 Tokyo YOMIURI SHIMBUN in Japanese 3 Jan 94 
 Morning Edition p 1 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0401042794 </F>
-<F P=104>  Tokyo YOMIURI SHIMBUN </F>
+<F P="103"> OW0401042794 </F>
+<F P="104">  Tokyo YOMIURI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] The Ground Self-Defense Force [GSDF] is now 
@@ -14933,18 +14934,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   `Strong' Authority Planned for Reform Council </TI></H3>
-<F P=102>  OW0201143494 Tokyo YOMIURI SHIMBUN in Japanese 27 Dec 93 
+<F P="102">  OW0201143494 Tokyo YOMIURI SHIMBUN in Japanese 27 Dec 93 
 Morning Edition p 1 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0201143494 </F>
-<F P=104>  Tokyo YOMIURI SHIMBUN </F>
+<F P="103"> OW0201143494 </F>
+<F P="104">  Tokyo YOMIURI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] A third party organ will be established in the 
@@ -15023,18 +15024,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Political Reform Line `Obstacle' to Diplomacy </TI></H3>
-<F P=102>  OW0201130494 Tokyo ASAHI SHIMBUN in Japanese 27 Dec 93 
+<F P="102">  OW0201130494 Tokyo ASAHI SHIMBUN in Japanese 27 Dec 93 
 Morning Edition p 3 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0201130494 </F>
-<F P=104>  Tokyo ASAHI SHIMBUN </F>
+<F P="103"> OW0201130494 </F>
+<F P="104">  Tokyo ASAHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] Prime Minister Morihiro Hosokawa's "political 
@@ -15110,18 +15111,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   MPT Reportedly Favored Ex-Officials in Bids </TI></H3>
-<F P=102>  OW0601140894 Tokyo MAINICHI SHIMBUN in Japanese 5 Jan 94 
+<F P="102">  OW0601140894 Tokyo MAINICHI SHIMBUN in Japanese 5 Jan 94 
 Morning Edition p 1 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0601140894 </F>
-<F P=104>  Tokyo MAINICHI SHIMBUN </F>
+<F P="103"> OW0601140894 </F>
+<F P="104">  Tokyo MAINICHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] As a result of investigations conducted by MAINICHI 
@@ -15224,18 +15225,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Sakigake Prepares for Second-Phase Realignment </TI></H3>
-<F P=102>  OW0301124394 Tokyo YOMIURI SHIMBUN in Japanese 27 Dec 93 
+<F P="102">  OW0301124394 Tokyo YOMIURI SHIMBUN in Japanese 27 Dec 93 
 Morning Edition p 2 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0301124394 </F>
-<F P=104>  Tokyo YOMIURI SHIMBUN </F>
+<F P="103"> OW0301124394 </F>
+<F P="104">  Tokyo YOMIURI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] To prepare for the "second phase" of political 
@@ -15278,7 +15279,7 @@ electoral reform debate.
   Sakigake also gropes for measures to form an alliance with 
 "Democrats," a new political group composed of right-wing and 
 neutral factions of the SDPJ. Moreover, it has frequently held 
-study meetings with "Group C&amp;C," a political group within the 
+study meetings with "Group C amp;C," a political group within the 
 DSP composed of former labor union members. 
   Sakigake aims to achieve a "moderate multiparty" political 
 system, taking a different stance from Shinseito Chief Secretary 
@@ -15311,21 +15312,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hosokawa's Leadership Facing `Crucial Stage' </TI></H3>
-<F P=102>  OW0601004294 Tokyo ASAHI SHIMBUN in Japanese 29 Dec 93 
+<F P="102">  OW0601004294 Tokyo ASAHI SHIMBUN in Japanese 29 Dec 93 
 Morning Edition p 7 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0601004294 </F>
-<F P=104>  Tokyo ASAHI SHIMBUN </F>
+<F P="103"> OW0601004294 </F>
+<F P="104">  Tokyo ASAHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article; part 29 in the series "The Coalition </F>
+<F P="106"> [Unattributed article; part 29 in the series "The Coalition </F>
 -- A Revolving Stage"; "A Bitter Year End and Beginning of New 
 Year for the Prime Minister; Endurance Required as Cohesive 
 Power Seems To Fade; Crucial Stage Where Leadership Is Put To 
@@ -15487,21 +15488,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Editorial Urges Hosokawa Leadership on Economy </TI></H3>
-<F P=102>  OW0101085494 Tokyo NIHON KEIZAI SHIMBUN in Japanese 26 Dec 
+<F P="102">  OW0101085494 Tokyo NIHON KEIZAI SHIMBUN in Japanese 26 Dec 
 93 Morning Edition p 2 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0101085494 </F>
-<F P=104>  Tokyo NIHON KEIZAI SHIMBUN </F>
+<F P="103"> OW0101085494 </F>
+<F P="104">  Tokyo NIHON KEIZAI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "The Prime Minister Should Fulfill Leadership To </F>
+<F P="106"> [Editorial: "The Prime Minister Should Fulfill Leadership To </F>
 Indicate Economic Vision"] 
   [Text] The public has begun to be critical of the Hosokawa 
 administration because it has become difficult for political 
@@ -15607,18 +15608,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   MOF Expands Firms' Access to Customs Data </TI></H3>
-<F P=102>  OW0301141794 Tokyo NIHON KEIZAI SHIMBUN in Japanese 27 Dec 
+<F P="102">  OW0301141794 Tokyo NIHON KEIZAI SHIMBUN in Japanese 27 Dec 
 93 Morning Edition p 3 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0301141794 </F>
-<F P=104>  Tokyo NIHON KEIZAI SHIMBUN </F>
+<F P="103"> OW0301141794 </F>
+<F P="104">  Tokyo NIHON KEIZAI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] The Finance Ministry [MOF], which operates the 
@@ -15682,18 +15683,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Agencies Decide To Launch Stimulus Measures </TI></H3>
-<F P=102>  OW0401235294 Tokyo ASAHI SHIMBUN in Japanese 28 Dec 93 
+<F P="102">  OW0401235294 Tokyo ASAHI SHIMBUN in Japanese 28 Dec 93 
 Morning Edition p 1--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0401235294 </F>
-<F P=104>  Tokyo ASAHI SHIMBUN </F>
+<F P="103"> OW0401235294 </F>
+<F P="104">  Tokyo ASAHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] In order to boost the actual growth rate to 2 
@@ -15796,21 +15797,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Auto Imports Making Inroads in Domestic Market </TI></H3>
-<F P=102>  942A0041A Tokyo SHUKAN TOYO KEIZAI in Japanese 9 Oct 93 pp 
+<F P="102">  942A0041A Tokyo SHUKAN TOYO KEIZAI in Japanese 9 Oct 93 pp 
 46-48--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 942A0041A </F>
-<F P=104>  Tokyo SHUKAN TOYO KEIZAI </F>
+<F P="103"> 942A0041A </F>
+<F P="104">  Tokyo SHUKAN TOYO KEIZAI </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Jun Fukuda] </F>
+<F P="106"> [Article by reporter Jun Fukuda] </F>
   [Text] Import cars are not gaining strength only because of 
 the strong yen. An offensive, which has included restructuring, 
 sales channel reorganization, the introduction of new cars, 
@@ -16029,21 +16030,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Impact of Toyota Restructuring Offensive Examined </TI></H3>
-<F P=102>  942A0045A Tokyo SHUKAN TOYO KEIZAI in Japanese 16 Oct 93 pp 
+<F P="102">  942A0045A Tokyo SHUKAN TOYO KEIZAI in Japanese 16 Oct 93 pp 
 148-151--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 942A0045A </F>
-<F P=104>  Tokyo SHUKAN TOYO KEIZAI </F>
+<F P="103"> 942A0045A </F>
+<F P="104">  Tokyo SHUKAN TOYO KEIZAI </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Momoko Itoh: "Post-Bubble Business </F>
+<F P="106"> [Article by reporter Momoko Itoh: "Post-Bubble Business </F>
 Strategies--Toyota Motors--Offensive of `Colossus' Indifferent 
 to Appearances"] 
   [Text] Its operating rate has dropped with the stagnation 
@@ -16327,21 +16328,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Reform of Lifetime Employment Practice Urged </TI></H3>
-<F P=102>  942A0021A Tokyo EKONOMISUTO in Japanese 12 Oct 93 pp 
+<F P="102">  942A0021A Tokyo EKONOMISUTO in Japanese 12 Oct 93 pp 
 18-23--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 942A0021A </F>
-<F P=104>  Tokyo EKONOMISUTO </F>
+<F P="103"> 942A0021A </F>
+<F P="104">  Tokyo EKONOMISUTO </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Naohiro Yashiro, Sophia University professor and </F>
+<F P="106"> [Article by Naohiro Yashiro, Sophia University professor and </F>
 senior researcher for the Japan Economic Research Center: "The 
 Cost and Benefits of Stable Employment"] 
   [Text] A unique characteristic at this point in the 
@@ -16741,18 +16742,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Mongolia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Mongolia </F>
 <H3> <TI>   Cattle Registration to Private Ownership Noted </TI></H3>
-<F P=102>  OW0501173594 Ulaanbaatar MONTSAME in English 1605 GMT 5 Jan 
+<F P="102">  OW0501173594 Ulaanbaatar MONTSAME in English 1605 GMT 5 Jan 
 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0501173594 </F>
-<F P=104>  Ulaanbaatar MONTSAME </F>
+<F P="103"> OW0501173594 </F>
+<F P="104">  Ulaanbaatar MONTSAME </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Ulaanbaatar, January 5 (OANA-MONTSAME) -- In the 
@@ -16784,18 +16785,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Tariff Cuts Ordered on AFTA Product Groups </TI></H3>
-<F P=102>  BK0601072994 Manila MANILA STANDARD in English 30 Dec 93 p 13 </F>
-<F P=103> BK0601072994 </F>
-<F P=104>  Manila MANILA STANDARD </F>
+<F P="102">  BK0601072994 Manila MANILA STANDARD in English 30 Dec 93 p 13 </F>
+<F P="103"> BK0601072994 </F>
+<F P="104">  Manila MANILA STANDARD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Marichu A. Villanueva] </F>
+<F P="106"> [By Marichu A. Villanueva] </F>
   [Text] President Ramos has issued four executive orders 
 [EO] that will implement the Philippine program of reducing 
 tariff rates of 15 groups of products effective January 1994 in 
@@ -16905,18 +16906,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Ramos Moves To Streamline Bureaucracy </TI></H3>
-<F P=102>  BK0601120394 Manila BUSINESS WORLD in English 30 Dec 93 p 12 </F>
-<F P=103> BK0601120394 </F>
-<F P=104>  Manila BUSINESS WORLD </F>
+<F P="102">  BK0601120394 Manila BUSINESS WORLD in English 30 Dec 93 p 12 </F>
+<F P="103"> BK0601120394 </F>
+<F P="104">  Manila BUSINESS WORLD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Rachel E. Khan] </F>
+<F P="106"> [By Rachel E. Khan] </F>
   [Text] President Ramos yesterday moved to streamline the 
 bureaucracy by transferring 15 agencies and corporations under 
 government departments. 
@@ -16986,20 +16987,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Government Approves Infrastructure, Social Works </TI></H3>
-<F P=102>  BK0601100794 Manila BUSINESS WORLD in English 30 Dec 93 pp 
+<F P="102">  BK0601100794 Manila BUSINESS WORLD in English 30 Dec 93 pp 
 1, 5 </F>
 
-<F P=103> BK0601100794 </F>
-<F P=104>  Manila BUSINESS WORLD </F>
+<F P="103"> BK0601100794 </F>
+<F P="104">  Manila BUSINESS WORLD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Ramoncito P. De La Cruz] </F>
+<F P="106"> [By Ramoncito P. De La Cruz] </F>
   [Text] A total of 353 critical public infrastructure and 
 social services projects, with an aggregate cost of P67.771 
 billion [Philippine pesos], has been approved by the Ramos 
@@ -17062,20 +17063,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Communist Request for Preliminary Talks Accepted </TI></H3>
-<F P=102>  BK0601101394 Manila THE MANILA CHRONICLE in English 30 Dec 
+<F P="102">  BK0601101394 Manila THE MANILA CHRONICLE in English 30 Dec 
 93 p 2 </F>
 
-<F P=103> BK0601101394 </F>
-<F P=104>  Manila THE MANILA CHRONICLE </F>
+<F P="103"> BK0601101394 </F>
+<F P="104">  Manila THE MANILA CHRONICLE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Manny Mogato] </F>
+<F P="106"> [By Manny Mogato] </F>
   [Text] The government has accepted the request of exiled 
 communist leader Luis Jalandoni for a preliminary meeting before 
 the second round of exploratory peace talks are held in Vietnam 
@@ -17136,20 +17137,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   CPLA Chief Agrees To Return Government Arms </TI></H3>
-<F P=102>  BK0601124594 Manila PHILIPPINE DAILY INQUIRER in English 31 
+<F P="102">  BK0601124594 Manila PHILIPPINE DAILY INQUIRER in English 31 
 Dec 93 p 8 </F>
 
-<F P=103> BK0601124594 </F>
-<F P=104>  Manila PHILIPPINE DAILY INQUIRER </F>
+<F P="103"> BK0601124594 </F>
+<F P="104">  Manila PHILIPPINE DAILY INQUIRER </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Rolando Fernandez] </F>
+<F P="106"> [By Rolando Fernandez] </F>
   [Text] Baguio City -- Former rebel priest Conrado Balweg 
 has agreed to return all firearms issued by the government to 
 the Cordillera People's Liberation Army [CPLA] but he stood firm 
@@ -17232,20 +17233,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   MNLF Chief Says Saboteurs Cannot Stop Peace </TI></H3>
-<F P=102>  BK0601054994 Manila PHILIPPINE DAILY INQUIRER in English 30 
+<F P="102">  BK0601054994 Manila PHILIPPINE DAILY INQUIRER in English 30 
 Dec 93 pp 1, 6 </F>
 
-<F P=103> BK0601054994 </F>
-<F P=104>  Manila PHILIPPINE DAILY INQUIRER </F>
+<F P="103"> BK0601054994 </F>
+<F P="104">  Manila PHILIPPINE DAILY INQUIRER </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Rolly San Juan] </F>
+<F P="106"> [By Rolly San Juan] </F>
   [Text] Moro rebel leader Nur Misuari yesterday denounced 
 the spate of bombings in Davao City and said he will not allow 
 saboteurs to disrupt the peace talks between the government and 
@@ -17346,20 +17347,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Official: Issues To Be Resolved With MNLF by Mar </TI></H3>
-<F P=102>  BK0601020094 Manila THE MANILA CHRONICLE in English 30 Dec 
+<F P="102">  BK0601020094 Manila THE MANILA CHRONICLE in English 30 Dec 
 93 p 2 </F>
 
-<F P=103> BK0601020094 </F>
-<F P=104>  Manila THE MANILA CHRONICLE </F>
+<F P="103"> BK0601020094 </F>
+<F P="104">  Manila THE MANILA CHRONICLE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Danny Agoncillo] </F>
+<F P="106"> [By Danny Agoncillo] </F>
   [Text] The government peace panel is trying to resolve 
 five key issues with representatives of the secessionist Moro 
 National Liberation Front (MNLF) in a bid to clear the way for 
@@ -17415,20 +17416,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   MNLF To Protect Government Panel in Talks </TI></H3>
-<F P=102>  BK0601014894 Manila MANILA BULLETIN in English 30 Dec 93 p 
+<F P="102">  BK0601014894 Manila MANILA BULLETIN in English 30 Dec 93 p 
 b-6 </F>
 
-<F P=103> BK0601014894 </F>
-<F P=104>  Manila MANILA BULLETIN </F>
+<F P="103"> BK0601014894 </F>
+<F P="104">  Manila MANILA BULLETIN </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By N. Lacson] </F>
+<F P="106"> [By N. Lacson] </F>
   [Text] Jolo, Sulu -- The joint national government-Moro 
 National Liberation Front (MNLF) cease fire committee decided 
 that MNLF gives security to the government panel during the 
@@ -17476,20 +17477,20 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Philippines </F>
+<F P="100"> Philippines </F>
 <H3> <TI>   Columnist on Fundamentalist Threat in Mindanao </TI></H3>
-<F P=102>  BK0601071994 Manila THE MANILA CHRONICLE in English 30 Dec 
+<F P="102">  BK0601071994 Manila THE MANILA CHRONICLE in English 30 Dec 
 93 p 4 </F>
 
-<F P=103> BK0601071994 </F>
-<F P=104>  Manila THE MANILA CHRONICLE </F>
+<F P="103"> BK0601071994 </F>
+<F P="104">  Manila THE MANILA CHRONICLE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [From the "On the level" column by Alex Magno: "The </F>
+<F P="106"> [From the "On the level" column by Alex Magno: "The </F>
 Resurgence of Communal Conflict"] 
   [Text] The bizarre bombings of the Davao Cathedral and two 
 mosques in the same city do not threaten the rapidly progressing 
@@ -17594,15 +17595,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Military Asks Cambodian Cease-Fire for Harvests </TI></H3>
-<F P=102>  BK0601015394 Bangkok BANGKOK POST in English 6 Jan 94 p 6 </F>
-<F P=103> BK0601015394 </F>
-<F P=104>  Bangkok BANGKOK POST </F>
+<F P="102">  BK0601015394 Bangkok BANGKOK POST in English 6 Jan 94 p 6 </F>
+<F P="103"> BK0601015394 </F>
+<F P="104">  Bangkok BANGKOK POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Cambodian government and Khmer Rouge forces have 
@@ -17646,15 +17647,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   General: `No Effect' From Burmese-MTA Fight </TI></H3>
-<F P=102>  BK0601013594 Bangkok BANGKOK POST in English 6 Jan 94 p 2 </F>
-<F P=103> BK0601013594 </F>
-<F P=104>  Bangkok BANGKOK POST </F>
+<F P="102">  BK0601013594 Bangkok BANGKOK POST in English 6 Jan 94 p 2 </F>
+<F P="103"> BK0601013594 </F>
+<F P="104">  Bangkok BANGKOK POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Fighting between rival forces of Rangoon government 
@@ -17697,15 +17698,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Embassy in Morocco To Be Gateway to EC, Africa </TI></H3>
-<F P=102>  BK0601022994 Bangkok THE NATION in English 6 Jan 94 p A4 </F>
-<F P=103> BK0601022994 </F>
-<F P=104>  Bangkok THE NATION </F>
+<F P="102">  BK0601022994 Bangkok THE NATION in English 6 Jan 94 p A4 </F>
+<F P="103"> BK0601022994 </F>
+<F P="104">  Bangkok THE NATION </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Thailand will soon open its first embassy in the 
@@ -17756,15 +17757,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Deputy Minister Confirms Lao Water Sale Offer </TI></H3>
-<F P=102>  BK0601014394 Bangkok BANGKOK POST in English 6 Jan 94 p 6 </F>
-<F P=103> BK0601014394 </F>
-<F P=104>  Bangkok BANGKOK POST </F>
+<F P="102">  BK0601014394 Bangkok BANGKOK POST in English 6 Jan 94 p 6 </F>
+<F P="103"> BK0601014394 </F>
+<F P="104">  Bangkok BANGKOK POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Laos has offered to sell Thailand water from rivers 
@@ -17823,15 +17824,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Agreement Signed To Export Rice to Japan </TI></H3>
-<F P=102>  BK0601021194 Bangkok BANGKOK POST in English 6 Jan 94 p 24 </F>
-<F P=103> BK0601021194 </F>
-<F P=104>  Bangkok BANGKOK POST </F>
+<F P="102">  BK0601021194 Bangkok BANGKOK POST in English 6 Jan 94 p 24 </F>
+<F P="103"> BK0601021194 </F>
+<F P="104">  Bangkok BANGKOK POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Excerpt] A group of Thai rice exporters has agreed to sell 
@@ -17866,15 +17867,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Chawalit Views Panel Rejection of Police Chief </TI></H3>
-<F P=102>  BK0601021994 Bangkok THE NATION in English 6 Jan 94 p A1 </F>
-<F P=103> BK0601021994 </F>
-<F P=104>  Bangkok THE NATION </F>
+<F P="102">  BK0601021994 Bangkok THE NATION in English 6 Jan 94 p A1 </F>
+<F P="103"> BK0601021994 </F>
+<F P="104">  Bangkok THE NATION </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Excerpt] The Police Commission yesterday rejected Interior 
@@ -17948,15 +17949,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Agreement Reached on 8 Charter Amendments </TI></H3>
-<F P=102>  BK0601022594 Bangkok THE NATION in English 6 Jan 94 p A4 </F>
-<F P=103> BK0601022594 </F>
-<F P=104>  Bangkok THE NATION </F>
+<F P="102">  BK0601022594 Bangkok THE NATION in English 6 Jan 94 p A4 </F>
+<F P="103"> BK0601022594 </F>
+<F P="104">  Bangkok THE NATION </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Government and opposition representatives have 
@@ -18043,15 +18044,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   Commerce Minister Reshuffles Duties, Deputies </TI></H3>
-<F P=102>  BK0601020594 Bangkok BANGKOK POST in English 6 Jan 94 p 17 </F>
-<F P=103> BK0601020594 </F>
-<F P=104>  Bangkok BANGKOK POST </F>
+<F P="102">  BK0601020594 Bangkok BANGKOK POST in English 6 Jan 94 p 17 </F>
+<F P="103"> BK0601020594 </F>
+<F P="104">  Bangkok BANGKOK POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Commerce Minister Uthai Phimchaichon has reshuffled 
@@ -18093,17 +18094,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Hanoi on MIA Specialists' First 1994 Search </TI></H3>
-<F P=102>  BK0601110994 Hanoi Voice of Vietnam in English 1000 GMT 6 
+<F P="102">  BK0601110994 Hanoi Voice of Vietnam in English 1000 GMT 6 
 Jan 94 </F>
 
-<F P=103> BK0601110994 </F>
-<F P=104>  Hanoi Voice of Vietnam </F>
+<F P="103"> BK0601110994 </F>
+<F P="104">  Hanoi Voice of Vietnam </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] The United States and Vietnam on Thurday began the 
@@ -18144,17 +18145,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Official: Better Ties To Depend on U.S. </TI></H3>
-<F P=102>  BK0601123194 Hanoi Voice of Vietnam Network in Vietnamese 
+<F P="102">  BK0601123194 Hanoi Voice of Vietnam Network in Vietnamese 
 1100 GMT 6 Jan 94 </F>
 
-<F P=103> BK0601123194 </F>
-<F P=104>  Hanoi Voice of Vietnam Network </F>
+<F P="103"> BK0601123194 </F>
+<F P="104">  Hanoi Voice of Vietnam Network </F>
 
 
 <TEXT>
-Language: <F P=105> Vietnamese </F>
+Language: <F P="105"> Vietnamese </F>
 Article Type:BFN 
 
   [Text] The Foreign Ministry held a new year international 
@@ -18196,15 +18197,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   United Kingdom Announces $90 Million in Aid </TI></H3>
-<F P=102>  BK0401150594 Hanoi VNA in English 1439 GMT 4 Jan 94 </F>
-<F P=103> BK0401150594 </F>
-<F P=104>  Hanoi VNA </F>
+<F P="102">  BK0401150594 Hanoi VNA in English 1439 GMT 4 Jan 94 </F>
+<F P="103"> BK0401150594 </F>
+<F P="104">  Hanoi VNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hanoi VNA Jan 4 -- The United Kingdom has pledged to 
@@ -18246,17 +18247,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   New Border Gate With Laos Inaugurated </TI></H3>
-<F P=102>  BK0601130294 Hanoi Voice of Vietnam Network in Vietnamese 
+<F P="102">  BK0601130294 Hanoi Voice of Vietnam Network in Vietnamese 
 1100 GMT 6 Jan 94 </F>
 
-<F P=103> BK0601130294 </F>
-<F P=104>  Hanoi Voice of Vietnam Network </F>
+<F P="103"> BK0601130294 </F>
+<F P="104">  Hanoi Voice of Vietnam Network </F>
 
 
 <TEXT>
-Language: <F P=105> Vietnamese </F>
+Language: <F P="105"> Vietnamese </F>
 Article Type:BFN 
 
   [Text] With the approval of the governments of the 
@@ -18295,15 +18296,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Transportation Projects for Economic Development </TI></H3>
-<F P=102>  BK0301064294 Hanoi VNA in English 0624 GMT 3 Jan 94 </F>
-<F P=103> BK0301064294 </F>
-<F P=104>  Hanoi VNA </F>
+<F P="102">  BK0301064294 Hanoi VNA in English 0624 GMT 3 Jan 94 </F>
+<F P="103"> BK0301064294 </F>
+<F P="104">  Hanoi VNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hanoi VNA Jan. 3 -- A number of transport projects 
@@ -18369,15 +18370,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Vietnam </F>
+<F P="100"> Vietnam </F>
 <H3> <TI>   Credit Groups To Sell Shares to Foreigners </TI></H3>
-<F P=102>  BK0201055894 Hanoi VNA in English 0551 GMT 2 Jan 94 </F>
-<F P=103> BK0201055894 </F>
-<F P=104>  Hanoi VNA </F>
+<F P="102">  BK0201055894 Hanoi VNA in English 0551 GMT 2 Jan 94 </F>
+<F P="103"> BK0201055894 </F>
+<F P="104">  Hanoi VNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Hanoi VNA Jan. 2 -- The government has issued a new 
@@ -18434,17 +18435,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Inspection Schedule To Be Set </TI></H3>
-<F P=102>  SK0601035894 Seoul KBS-1 Radio Network in Korean 0315 GMT 6 
+<F P="102">  SK0601035894 Seoul KBS-1 Radio Network in Korean 0315 GMT 6 
 Jan 94 </F>
 
-<F P=103> SK0601035894 </F>
-<F P=104>  Seoul KBS-1 Radio Network </F>
+<F P="103"> SK0601035894 </F>
+<F P="104">  Seoul KBS-1 Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
   [Text] Chang Chae-yong, director of the American Affairs 
@@ -18492,15 +18493,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   North Korea-U.S. Contact Expected `Next Week' </TI></H3>
-<F P=102>  SK0601064294 Seoul YONHAP in English 0636 GMT 6 Jan 94 </F>
-<F P=103> SK0601064294 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0601064294 Seoul YONHAP in English 0636 GMT 6 Jan 94 </F>
+<F P="103"> SK0601064294 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 6 (YONHAP) -- North Korea and the 
@@ -18552,15 +18553,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   U.S. Deports Embezzlement Suspect Home to ROK </TI></H3>
-<F P=102>  SK0601023194 Seoul YONHAP in English 0217 GMT 6 Jan 94 </F>
-<F P=103> SK0601023194 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0601023194 Seoul YONHAP in English 0217 GMT 6 Jan 94 </F>
+<F P="103"> SK0601023194 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 6 (YONHAP) -- Yi Su-chong, 40, who is 
@@ -18595,11 +18596,11 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Newspapers Comment on Kim Il-song's Address </TI></H3>
-<F P=102>  SK0601072094 </F>
-<F P=103> SK0601072094 </F>
-<F P=104></F>
+<F P="102">  SK0601072094 </F>
+<F P="103"> SK0601072094 </F>
+<F P="104"></F>
 
 
 
@@ -18899,15 +18900,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Assembly Speaker Leaves for Visit to Beijing </TI></H3>
-<F P=102>  SK0601012594 Seoul YONHAP in English 0102 GMT 6 Jan 94 </F>
-<F P=103> SK0601012594 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0601012594 Seoul YONHAP in English 0102 GMT 6 Jan 94 </F>
+<F P="103"> SK0601012594 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 3 (YONHAP) -- National Assembly Speaker 
@@ -18943,21 +18944,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   President Kim Yong-sam Holds News Conference </TI></H3>
 <H4>   President's Opening Remarks </H4>
-<F P=102> SK0601011494 Seoul KBS-1 Television Network in Korean 0000 
+<F P="102"> SK0601011494 Seoul KBS-1 Television Network in Korean 0000 
 GMT 6 Jan 94 </F>
 
-<F P=103> SK0601011494 </F>
-<F P=104>  Seoul KBS-1 Television Network </F>
+<F P="103"> SK0601011494 </F>
+<F P="104">  Seoul KBS-1 Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [Opening remarks to a "New Year News Conference" by </F>
+<F P="106"> [Opening remarks to a "New Year News Conference" by </F>
 President Kim Yong-sam for foreign and domestic reporters at the 
 Chongwadae presidential offices, Seoul--live] 
   [Text] I am glad to meet you, especially you foreign and 
@@ -19293,21 +19294,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   President Kim Yong-sam Holds News Conference </TI></H3>
 <H4>   Question-Answer Session </H4>
-<F P=102> SK0601053294 Seoul KBS-1 Television Network in Korean 0028 
+<F P="102"> SK0601053294 Seoul KBS-1 Television Network in Korean 0028 
 GMT 6 Jan 94 </F>
 
-<F P=103> SK0601053294 </F>
-<F P=104>  Seoul KBS-1 Television Network </F>
+<F P="103"> SK0601053294 </F>
+<F P="104">  Seoul KBS-1 Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> ["News Conference" held by President Kim Yong-sam with </F>
+<F P="106"> ["News Conference" held by President Kim Yong-sam with </F>
 foreign and domestic reporters at the Chongwadae presidential 
 offices in Seoul -- live] 
   [Text] [President Kim] Now I am pleased to receive 
@@ -19805,16 +19806,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   President Kim Yong-sam Holds News Conference </TI></H3>
 <H4>   Conference Draws `Mixed Reaction' </H4>
-<F P=102> SK0601092294 Seoul YONHAP in English 0748 GMT 6 Jan 94 </F>
-<F P=103> SK0601092294 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102"> SK0601092294 Seoul YONHAP in English 0748 GMT 6 Jan 94 </F>
+<F P="103"> SK0601092294 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 6 (YONHAP) -- President Kim Yong-sam's 
@@ -19917,16 +19918,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   President Kim Yong-sam Holds News Conference </TI></H3>
 <H4>   YONHAP on Events at Conference </H4>
-<F P=102> SK0601062194 Seoul YONHAP in English 0533 GMT 6 Jan 94 </F>
-<F P=103> SK0601062194 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102"> SK0601062194 Seoul YONHAP in English 0533 GMT 6 Jan 94 </F>
+<F P="103"> SK0601062194 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Excerpts] Seoul, Jan. 6 (YONHAP) -- As in his first press 
@@ -20038,15 +20039,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Business Groups Welcome President's 1994 Address </TI></H3>
-<F P=102>  SK0601025394 Seoul YONHAP in English 0246 GMT 6 Jan 94 </F>
-<F P=103> SK0601025394 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0601025394 Seoul YONHAP in English 0246 GMT 6 Jan 94 </F>
+<F P="103"> SK0601025394 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 6 (YONHAP) -- Major economic 
@@ -20100,15 +20101,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Parties Act To Assuage Pre-Election `Overheating' </TI></H3>
-<F P=102>  SK0501071694 Seoul YONHAP in English 0541 GMT 5 Jan 94 </F>
-<F P=103> SK0501071694 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0501071694 Seoul YONHAP in English 0541 GMT 5 Jan 94 </F>
+<F P="103"> SK0501071694 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Seoul, Jan. 5 (YONHAP) -- The ruling and opposition 
@@ -20202,18 +20203,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Handling of Hanahoe-Affiliated Officers Queried </TI></H3>
-<F P=102>  SK0501044894 Seoul HANGYORE SINMUN in Korean 4 Jan 94 p 4 </F>
-<F P=103> SK0501044894 </F>
-<F P=104>  Seoul HANGYORE SINMUN </F>
+<F P="102">  SK0501044894 Seoul HANGYORE SINMUN in Korean 4 Jan 94 p 4 </F>
+<F P="103"> SK0501044894 </F>
+<F P="104">  Seoul HANGYORE SINMUN </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:BFN 
 
-<F P=106> [Article by Yi Sang-ki] </F>
+<F P="106"> [Article by Yi Sang-ki] </F>
   [Text] With the release from their posts of Lieutenant 
 General Yi Taek-hyong (the 19th Class of the Korean Military 
 Academy, KMA), chief of the Strategic Planning Bureau of the 
@@ -20308,15 +20309,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   Samsung To Build Production Plant in Portugal </TI></H3>
-<F P=102>  SK0501234594 Seoul THE KOREA HERALD in English 6 Jan 94 p 8 </F>
-<F P=103> SK0501234594 </F>
-<F P=104>  Seoul THE KOREA HERALD </F>
+<F P="102">  SK0501234594 Seoul THE KOREA HERALD in English 6 Jan 94 p 8 </F>
+<F P="103"> SK0501234594 </F>
+<F P="104">  Seoul THE KOREA HERALD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Samsung Electronics, the nation's leading 
@@ -20367,18 +20368,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   * Reporters Evaluate National Assemblymen </TI></H3>
-<F P=102>  942C0048A Seoul SIN TONG-A in Korean Dec 93 pp 250-264 </F>
-<F P=103> 942C0048A </F>
-<F P=104>  Seoul SIN TONG-A </F>
+<F P="102">  942C0048A Seoul SIN TONG-A in Korean Dec 93 pp 250-264 </F>
+<F P="103"> 942C0048A </F>
+<F P="104">  Seoul SIN TONG-A </F>
 
 
 <TEXT>
-Language: <F P=105> Korean </F>
+Language: <F P="105"> Korean </F>
 Article Type:CSO 
 
-<F P=106> [Report on a SIN TONG-A poll of 72 political reporters on </F>
+<F P="106"> [Report on a SIN TONG-A poll of 72 political reporters on </F>
 the performances of the 14th National Assembly and its members, 
 by the SIN TONG-A Editorial Department] 
   [Text] A year and a half has elapsed since the 14th 
@@ -20972,16 +20973,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Tokyo, U.S. Remain `Apart' on Telecom Trade </TI></H3>
-<F P=102>  OW0601054694 Tokyo KYODO in English 0548 GMT 6 Jan 94 </F>
-<F P=103> OW0601054694 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601054694 Tokyo KYODO in English 0548 GMT 6 Jan 94 </F>
+<F P="103"> OW0601054694 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Washington, Jan. 5 KYODO -- Japan and the United 
@@ -21031,16 +21032,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hata Not `Fully Informed' of U.S.-DPRK Accord </TI></H3>
-<F P=102>  OW0601034494 Tokyo KYODO in English 0329 GMT 6 Jan 94 </F>
-<F P=103> OW0601034494 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601034494 Tokyo KYODO in English 0329 GMT 6 Jan 94 </F>
+<F P="103"> OW0601034494 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- Foreign Minister Tsutomu 
@@ -21084,16 +21085,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hata's PRC Visit's Focus, Agenda Discussed </TI></H3>
-<F P=102>  OW0601071894 Tokyo KYODO in English 0717 GMT 6 Jan 94 </F>
-<F P=103> OW0601071894 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601071894 Tokyo KYODO in English 0717 GMT 6 Jan 94 </F>
+<F P="103"> OW0601071894 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- North Korea's suspected 
@@ -21173,16 +21174,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Tokyo, Seoul Sending Survey Team to Sakhalin </TI></H3>
-<F P=102>  OW0601114694 Tokyo KYODO in English 1054 GMT 6 Jan 94 </F>
-<F P=103> OW0601114694 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601114694 Tokyo KYODO in English 1054 GMT 6 Jan 94 </F>
+<F P="103"> OW0601114694 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- Japan and South Korea will 
@@ -21228,16 +21229,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   European Union Said To End Curbs on Some Goods </TI></H3>
-<F P=102>  OW0601022194 Tokyo KYODO in English 0142 GMT 6 Jan 94 </F>
-<F P=103> OW0601022194 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601022194 Tokyo KYODO in English 0142 GMT 6 Jan 94 </F>
+<F P="103"> OW0601022194 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Brussels, Jan. 5 KYODO -- The European Union (EU) 
@@ -21274,16 +21275,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Takemura: Tokyo Wants `Stable' Yen Movements </TI></H3>
-<F P=102>  OW0601024394 Tokyo KYODO in English 0238 GMT 6 Jan 94 </F>
-<F P=103> OW0601024394 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601024394 Tokyo KYODO in English 0238 GMT 6 Jan 94 </F>
+<F P="103"> OW0601024394 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- Japan hopes for "stable" 
@@ -21318,16 +21319,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Price of Imported Rice Reflects `Gap in Quality' </TI></H3>
-<F P=102>  OW0601040194 Tokyo KYODO in English 0339 GMT 6 Jan 94 </F>
-<F P=103> OW0601040194 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601040194 Tokyo KYODO in English 0339 GMT 6 Jan 94 </F>
+<F P="103"> OW0601040194 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- Farm Minister Eijiro Hata 
@@ -21363,16 +21364,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Finance Minister Denies Fiscal Action Delayed </TI></H3>
-<F P=102>  OW0601114794 Tokyo KYODO in English 1143 GMT 6 Jan 94 </F>
-<F P=103> OW0601114794 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601114794 Tokyo KYODO in English 1143 GMT 6 Jan 94 </F>
+<F P="103"> OW0601114794 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- Finance Minister Hirohisa 
@@ -21426,16 +21427,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Postal Ministry Seeks Bank Demand Deposits Data </TI></H3>
-<F P=102>  OW0601125594 Tokyo KYODO in English 1226 GMT 6 Jan 94 </F>
-<F P=103> OW0601125594 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601125594 Tokyo KYODO in English 1226 GMT 6 Jan 94 </F>
+<F P="103"> OW0601125594 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- The Posts and 
@@ -21472,16 +21473,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Minister Views Multimedia Market Growth, Value </TI></H3>
-<F P=102>  OW0601043894 Tokyo KYODO in English 0406 GMT 6 Jan 94 </F>
-<F P=103> OW0601043894 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601043894 Tokyo KYODO in English 0406 GMT 6 Jan 94 </F>
+<F P="103"> OW0601043894 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- The country's multimedia 
@@ -21535,16 +21536,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Government Decides To Set Up Unemployment Team </TI></H3>
-<F P=102>  OW0601043794 Tokyo KYODO in English 0424 GMT 6 Jan 94 </F>
-<F P=103> OW0601043794 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601043794 Tokyo KYODO in English 0424 GMT 6 Jan 94 </F>
+<F P="103"> OW0601043794 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- The government decided at a 
@@ -21593,16 +21594,16 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORTHEAST ASIA </F>
-<F P=101> Japan </F>
+<F P="100"> NORTHEAST ASIA </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Hosokawa Heads New Task Force </TI></H3>
-<F P=102>  OW0601112694 Tokyo KYODO in English 1127 GMT 6 Jan 94 </F>
-<F P=103> OW0601112694 </F>
-<F P=104>  Tokyo KYODO </F>
+<F P="102">  OW0601112694 Tokyo KYODO in English 1127 GMT 6 Jan 94 </F>
+<F P="103"> OW0601112694 </F>
+<F P="104">  Tokyo KYODO </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Tokyo, Jan. 6 KYODO -- A new government task force 
@@ -21665,18 +21666,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> North Korea </F>
+<F P="100"> North Korea </F>
 <H3> <TI>   Daily on Comments by South's JCS Chairman </TI></H3>
-<F P=102>  SK0601043894 Pyongyang KCNA in English 0427 GMT 6 Jan 94 </F>
-<F P=103> SK0601043894 </F>
-<F P=104>  Pyongyang KCNA </F>
+<F P="102">  SK0601043894 Pyongyang KCNA in English 0427 GMT 6 Jan 94 </F>
+<F P="103"> SK0601043894 </F>
+<F P="104">  Pyongyang KCNA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["South Korean Puppets Must Act With Discretion" -- KCNA </F>
+<F P="106"> ["South Korean Puppets Must Act With Discretion" -- KCNA </F>
 headline] 
   [Text] Pyongyang, January 6 (KCNA) -- A few days ago, the 
 South Korean puppet chairman of Joint Chiefs of Staff [JCS] 
@@ -21724,18 +21725,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Businesses Wary of Participation in TMD Plan </TI></H3>
-<F P=102>  OW0601133194 Tokyo ASAHI SHIMBUN in Japanese 30 Dec 93 
+<F P="102">  OW0601133194 Tokyo ASAHI SHIMBUN in Japanese 30 Dec 93 
 Morning Edition p 9 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0601133194 </F>
-<F P=104>  Tokyo ASAHI SHIMBUN </F>
+<F P="103"> OW0601133194 </F>
+<F P="104">  Tokyo ASAHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] The Defense Production Committee under the 
@@ -21803,18 +21804,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   Steel Firms To Send Half-Done Items to U.S. </TI></H3>
-<F P=102>  OW3112132793 Tokyo ASAHI SHIMBUN in Japanese 26 Dec 93 
+<F P="102">  OW3112132793 Tokyo ASAHI SHIMBUN in Japanese 26 Dec 93 
 Morning Edition p 9 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW3112132793 </F>
-<F P=104>  Tokyo ASAHI SHIMBUN </F>
+<F P="103"> OW3112132793 </F>
+<F P="104">  Tokyo ASAHI SHIMBUN </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] Nippon Steel Corporation [NSC] and other major 
@@ -21866,18 +21867,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   `Secret' Agreement on Port Relocation Alleged </TI></H3>
-<F P=102>  OW0301195594 Naha RYUKYU SHIMPO in Japanese 27 Dec 93 
+<F P="102">  OW0301195594 Naha RYUKYU SHIMPO in Japanese 27 Dec 93 
 Evening Edition p 1--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> OW0301195594 </F>
-<F P=104>  Naha RYUKYU SHIMPO </F>
+<F P="103"> OW0301195594 </F>
+<F P="104">  Naha RYUKYU SHIMPO </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:BFN 
 
   [Text] Urasoe and the Naha Defense Facilities 
@@ -21953,17 +21954,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> Thailand </F>
+<F P="100"> Thailand </F>
 <H3> <TI>   NSC Chief Comments on Cambodian `Factions' </TI></H3>
-<F P=102>  BK0601095994 Bangkok Radio Thailand Network in Thai 0000 GMT 
+<F P="102">  BK0601095994 Bangkok Radio Thailand Network in Thai 0000 GMT 
 6 Jan 94 </F>
 
-<F P=103> BK0601095994 </F>
-<F P=104>  Bangkok Radio Thailand Network </F>
+<F P="103"> BK0601095994 </F>
+<F P="104">  Bangkok Radio Thailand Network </F>
 
 
 <TEXT>
-Language: <F P=105> Thai </F>
+Language: <F P="105"> Thai </F>
 Article Type:BFN 
 
   [Text] A meeting of the committee in charge of national 
@@ -22010,15 +22011,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   DPRK Said To Agree to Nuclear Inspections </TI></H3>
-<F P=102>  SK0601010294 Seoul YONHAP in English 0053 GMT 6 Jan 94 </F>
-<F P=103> SK0601010294 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0601010294 Seoul YONHAP in English 0053 GMT 6 Jan 94 </F>
+<F P="103"> SK0601010294 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Washington, Jan. 5 (YONHAP) -- North Korea has 
@@ -22064,15 +22065,15 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> South Korea </F>
+<F P="100"> South Korea </F>
 <H3> <TI>   DPRK, IAEA Hold Working-Level Contact 5 Jan </TI></H3>
-<F P=102>  SK0601020594 Seoul YONHAP in English 0154 GMT 6 Jan 94 </F>
-<F P=103> SK0601020594 </F>
-<F P=104>  Seoul YONHAP </F>
+<F P="102">  SK0601020594 Seoul YONHAP in English 0154 GMT 6 Jan 94 </F>
+<F P="103"> SK0601020594 </F>
+<F P="104">  Seoul YONHAP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Berlin, Jan. 5 (YONHAP) -- North Korea had a 
@@ -22120,21 +22121,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   * Long-Term Issues Facing Government Examined </TI></H3>
-<F P=102>  932B0214A Tokyo SEKAI in Japanese Sep 93 pp 100-104--FOR 
+<F P="102">  932B0214A Tokyo SEKAI in Japanese Sep 93 pp 100-104--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> 932B0214A </F>
-<F P=104>  Tokyo SEKAI </F>
+<F P="103"> 932B0214A </F>
+<F P="104">  Tokyo SEKAI </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Hiroshi Tanaka] </F>
+<F P="106"> [Article by Hiroshi Tanaka] </F>
   [Text] Declining Population 
   A review of the future of Japan's economy reveals a big pile 
 of serious problems that can probably cause a weak-minded person 
@@ -22421,21 +22422,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   * Reporters Discuss Political Developments </TI></H3>
-<F P=102>  942B0016A Tokyo SEIRON in Japanese Oct 93 pp 76-87 -- FOR 
+<F P="102">  942B0016A Tokyo SEIRON in Japanese Oct 93 pp 76-87 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> 942B0016A </F>
-<F P=104>  Tokyo SEIRON </F>
+<F P="103"> 942B0016A </F>
+<F P="104">  Tokyo SEIRON </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> ["Discussion" among unidentified SANKEI SHIMBUN reporters: </F>
+<F P="106"> ["Discussion" among unidentified SANKEI SHIMBUN reporters: </F>
 "The Way To Look at the `Non-LDP Coalition'"] 
   [Text] [Moderator] The Hosokawa cabinet has finally 
 started, but the meaning of this upheaval is yet to be clearly 
@@ -23086,21 +23087,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Japan </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Japan </F>
 <H3> <TI>   * Political Trends Behind Hosokawa Administration </TI></H3>
-<F P=102>  942B0022A Tokyo EKONOMISUTO in Japanese 19 Oct 93 pp 
+<F P="102">  942B0022A Tokyo EKONOMISUTO in Japanese 19 Oct 93 pp 
 34-39--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 942B0022A </F>
-<F P=104>  Tokyo EKONOMISUTO </F>
+<F P="103"> 942B0022A </F>
+<F P="104">  Tokyo EKONOMISUTO </F>
 
 
 <TEXT>
-Language: <F P=105> Japanese </F>
+Language: <F P="105"> Japanese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Hideo Otake, professor of Kyoto University] </F>
+<F P="106"> [Article by Hideo Otake, professor of Kyoto University] </F>
   [Text] Two tendencies among the new conservatives have 
 united to give birth to the Hosokawa administration. They are 
 the tendency toward "small government" and the tendency toward a 
@@ -23510,7 +23511,7 @@ participation by local government employees. He introduced the
 method of participation used by employees of Japan's companies 
 (through QC [quality control] circles, for example) to the local 
 bodies--i.e. the same method used by (the then) Chairman Hisashi 
-Shindo of the Nippon Telegraph &amp; Telephone Public Corp. It 
+Shindo of the Nippon Telegraph  amp; Telephone Public Corp. It 
 served to energize the local bodies, but it is highly 
 questionable whether it promoted participation at the citizens' 
 level. The situation is pretty much the same in the cities, 
@@ -23536,3 +23537,4 @@ Political Power and Economic Power.
 </TEXT>
 
 </DOC>
+</root>

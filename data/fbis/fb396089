@@ -1,3 +1,4 @@
+<root>
 <DOC>
 <DOCNO> FBIS3-24118 </DOCNO>
 <HT>  "jpusr026___94009" </HT>
@@ -12,19 +13,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Manpower Shortage in Karabakh Army Detailed </TI></H3>
-<F P=102>  944K0781C Yerevan YERKIR in Armenian 3 Feb 94 p 3 </F>
-<F P=103> 944K0781C </F>
-<F P=104>  Yerevan YERKIR </F>
+<F P="102">  944K0781C Yerevan YERKIR in Armenian 3 Feb 94 p 3 </F>
+<F P="103"> 944K0781C </F>
+<F P="104">  Yerevan YERKIR </F>
 
 
 <TEXT>
-Language: <F P=105> Armenian </F>
+Language: <F P="105"> Armenian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Nayiri Badalyan: "The Army Needs Reserves and </F>
+<F P="106"> [Article by Nayiri Badalyan: "The Army Needs Reserves and </F>
 Supplies"] 
   [Excerpts] Martakert [Nagorno-Karabakh]--The war continues 
 in Artsakh. It continues with unrelenting intensity. The 
@@ -135,19 +136,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Elchibey Comments on Azerbaijan's Foreign Policy, Political Future </TI></H3>
-<F P=102>  944K0860A Moscow MOSCOW NEWS in English No 9, 4-10 Mar 94 p 6 </F>
-<F P=103> 944K0860A </F>
-<F P=104>  Moscow MOSCOW NEWS </F>
+<F P="102">  944K0860A Moscow MOSCOW NEWS in English No 9, 4-10 Mar 94 p 6 </F>
+<F P="103"> 944K0860A </F>
+<F P="104">  Moscow MOSCOW NEWS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Abulfaz Elchibey, Azerbaijan's former </F>
+<F P="106"> [Interview with Abulfaz Elchibey, Azerbaijan's former </F>
 president, by MOSCOW NEWS observer Sanobar Shermatova: "Former 
 President of Azerbaijan Does Not Rule Out a Comeback"] 
   [Text] According to some estimates, Azerbaijan has 
@@ -256,21 +257,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Ambassador Abashidze on Europe's Interest in Georgia </TI></H3>
-<F P=102>  944K0844A Tbilisi SAKARTVELOS RESPUBLIKA in Georgian 14 Jan 
+<F P="102">  944K0844A Tbilisi SAKARTVELOS RESPUBLIKA in Georgian 14 Jan 
 p 1 </F>
 
-<F P=103> 944K0844A </F>
-<F P=104>  Tbilisi SAKARTVELOS RESPUBLIKA </F>
+<F P="103"> 944K0844A </F>
+<F P="104">  Tbilisi SAKARTVELOS RESPUBLIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Georgian </F>
+Language: <F P="105"> Georgian </F>
 Article Type:CSO 
 
-<F P=106> [Sakinform interview with Zurab Abashidze, ambassador to the </F>
+<F P="106"> [Sakinform interview with Zurab Abashidze, ambassador to the </F>
 European Union and diplomatic representative to NATO: "European 
 Union's Interest Focuses on Georgia"; time and date not given] 
   [Text] It has been six months since Georgia opened 
@@ -447,21 +448,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 January 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Minister Kereselidze Views State of Nation's Industrial Base </TI></H3>
-<F P=102>  944K0845A Tbilisi SAKARTVELOS RESPUBLIKA in Georgian 19 Jan 
+<F P="102">  944K0845A Tbilisi SAKARTVELOS RESPUBLIKA in Georgian 19 Jan 
 94 p 2 </F>
 
-<F P=103> 944K0845A </F>
-<F P=104>  Tbilisi SAKARTVELOS RESPUBLIKA </F>
+<F P="103"> 944K0845A </F>
+<F P="104">  Tbilisi SAKARTVELOS RESPUBLIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Georgian </F>
+Language: <F P="105"> Georgian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Georgian Republic Industry Minister Vladimer </F>
+<F P="106"> [Article by Georgian Republic Industry Minister Vladimer </F>
 Kereselidze: "A Turnaround Year. Our Industry Yesterday, Today, 
 Tomorrow"] 
   [Text] The past year added many bitter pages to 
@@ -700,21 +701,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Deputy Explains Talks With Duma Factions </TI></H3>
-<F P=102>  944K0848A Moscow OBSHCHAYA GAZETA in Russian No 9, 4-10 Mar 
+<F P="102">  944K0848A Moscow OBSHCHAYA GAZETA in Russian No 9, 4-10 Mar 
 94 p 2 </F>
 
-<F P=103> 944K0848A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
+<F P="103"> 944K0848A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Vakhtang Rcheulishvili, deputy speaker of </F>
+<F P="106"> [Interview with Vakhtang Rcheulishvili, deputy speaker of </F>
 the Georgian parliament, by OBSHCHAYA GAZETA correspondent 
 Yelena Imedashvili; place and date not given: "Deputies Hope for 
 Accord"] 
@@ -799,19 +800,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Central Bank Attempts To Gain Control Over Precious Metals Market </TI></H3>
-<F P=102>  944E0563A Moscow KOMMERSANT-DAILY in Russian 2 Mar 94 p 1 </F>
-<F P=103> 944E0563A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
+<F P="102">  944E0563A Moscow KOMMERSANT-DAILY in Russian 2 Mar 94 p 1 </F>
+<F P="103"> 944E0563A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dmitriy Simonov: "The Central Bank Has Raised </F>
+<F P="106"> [Article by Dmitriy Simonov: "The Central Bank Has Raised </F>
 Doubts About the Authenticity of the Ministry of Finance's Gold"] 
   [Text] The changes in the composition of the Russian 
 cabinet--the Central Bank's most important victory in the latest 
@@ -940,19 +941,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Central Bank Warns Public Against Unlicensed Firms' Banking Operations </TI></H3>
-<F P=102>  944E0573A Moscow IZVESTIYA in Russian 11 Mar 94 p 2 </F>
-<F P=103> 944E0573A </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="102">  944E0573A Moscow IZVESTIYA in Russian 11 Mar 94 p 2 </F>
+<F P="103"> 944E0573A </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ivan Zhagel, IZVESTIYA: "Central Bank Warns: </F>
+<F P="106"> [Article by Ivan Zhagel, IZVESTIYA: "Central Bank Warns: </F>
 Trustfulness Is Dangerous for Your Purses"] 
   [Text] The Main Administration of the Central Bank in 
 the city of Moscow disseminated a special press release, in 
@@ -1035,21 +1036,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Bank Consortium To Improve Bank System, Activities </TI></H3>
-<F P=102>  944E0560A Moscow BIZNES I BANKI in Russian No 9, Mar 94 pp 
+<F P="102">  944E0560A Moscow BIZNES I BANKI in Russian No 9, Mar 94 pp 
 1, 2 </F>
 
-<F P=103> 944E0560A </F>
-<F P=104>  Moscow BIZNES I BANKI </F>
+<F P="103"> 944E0560A </F>
+<F P="104">  Moscow BIZNES I BANKI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M.S. Zotov, general director of the Executive </F>
+<F P="106"> [Article by M.S. Zotov, general director of the Executive </F>
 Council of the Energy Association of Independent Commercial 
 Banks, under the rubric "Competent View": "On Perfecting the 
 System of Banks and Banking"] 
@@ -1332,21 +1333,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Conversion of Foreign Currency Credits into Tubles To Boost Economy </TI></H3>
-<F P=102>  944E0572A Moscow FINANSOVYYE IZVESTIYA in Russian No 10, 
+<F P="102">  944E0572A Moscow FINANSOVYYE IZVESTIYA in Russian No 10, 
 10-16 Mar 94 p III </F>
 
-<F P=103> 944E0572A </F>
-<F P=104>  Moscow FINANSOVYYE IZVESTIYA </F>
+<F P="103"> 944E0572A </F>
+<F P="104">  Moscow FINANSOVYYE IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Mikhail Delyagin, Institute of Economic Problems </F>
+<F P="106"> [Article by Mikhail Delyagin, Institute of Economic Problems </F>
 of the Transition Period: "Conversion of Currency Credits Helps 
 Regenerate Russia's Economy"] 
   [Text] The gradual, but steady stabilization of the ruble, 
@@ -1442,21 +1443,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   24 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Privatization Plan Seen as Utopian </TI></H3>
-<F P=102>  944F0373A Moscow ROSSIYSKAYA GAZETA in Russian 24 Feb 94 pp 
+<F P="102">  944F0373A Moscow ROSSIYSKAYA GAZETA in Russian 24 Feb 94 pp 
 1, 3 </F>
 
-<F P=103> 944F0373A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="103"> 944F0373A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sergey Alekseyev, corresponding member of the </F>
+<F P="106"> [Article by Sergey Alekseyev, corresponding member of the </F>
 Russian Academy of Sciences, chairman of the Research Council of 
 the Center for Private Rights under the president of the Russian 
 Federation: "Under the Spell of the New Utopia: About Old Errors 
@@ -1721,19 +1722,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   New System for Registration of Stock Issues </TI></H3>
-<F P=102>  944E0540A Moscow KOMMERSANT in Russian No 6, 22 Feb 94 p 11 </F>
-<F P=103> 944E0540A </F>
-<F P=104>  Moscow KOMMERSANT </F>
+<F P="102">  944E0540A Moscow KOMMERSANT in Russian No 6, 22 Feb 94 p 11 </F>
+<F P="103"> 944E0540A </F>
+<F P="104">  Moscow KOMMERSANT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yelena Makovskaya, under the rubric the "Money </F>
+<F P="106"> [Article by Yelena Makovskaya, under the rubric the "Money </F>
 Market": "New System for Registration of Stock Issues: Bankers 
 Must Report to Future Investors"] 
   [Text] The Central Bank of Russia [TsBR] has published a 
@@ -1839,19 +1840,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   24 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   `Reforma' Foundation on Results of Gaydar's Economic Reforms </TI></H3>
-<F P=102>  944E0539A Moscow NEZAVISIMAYA GAZETA in Russian 24 Feb 94 p 4 </F>
-<F P=103> 944E0539A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944E0539A Moscow NEZAVISIMAYA GAZETA in Russian 24 Feb 94 p 4 </F>
+<F P="103"> 944E0539A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sergey Assekritov, first vice president of the </F>
+<F P="106"> [Article by Sergey Assekritov, first vice president of the </F>
 "Reforma" Foundation, under the rubric "Talk about Oneself": 
 "The `Shatalin Team' and the `Gaydar Team': Each Person Has His 
 Own Interpretation of What Is Occurring in Russia"] 
@@ -2129,21 +2130,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Socially Oriented Economic Reforms Advocated </TI></H3>
-<F P=102>  944E0548A Moscow EKONOMIKA I ZHIZN in Russian No 8, February 
+<F P="102">  944E0548A Moscow EKONOMIKA I ZHIZN in Russian No 8, February 
 94 p 1 </F>
 
-<F P=103> 944E0548A </F>
-<F P=104>  Moscow EKONOMIKA I ZHIZN </F>
+<F P="103"> 944E0548A </F>
+<F P="104">  Moscow EKONOMIKA I ZHIZN </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. Shprygin, director of the Center for Studying </F>
+<F P="106"> [Article by V. Shprygin, director of the Center for Studying </F>
 the Price and Market Situation ("Tsenakor" EKONOMIKA I ZHIZN) 
 and corresponding member of the Russian Academy of Economic 
 Sciences: "Price and Finance Ratios: Economic Regulation Is 
@@ -2414,19 +2415,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Banks' Heads Against Duties on Hard Currency Operations </TI></H3>
-<F P=102>  944E0557A Moscow KOMMERSANT-DAILY in Russian 1 Mar 94 p 1 </F>
-<F P=103> 944E0557A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
+<F P="102">  944E0557A Moscow KOMMERSANT-DAILY in Russian 1 Mar 94 p 1 </F>
+<F P="103"> 944E0557A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yuriy Katsman: "The Banks Have Tried to </F>
+<F P="106"> [Article by Yuriy Katsman: "The Banks Have Tried to </F>
 Influence the Municipal Council at the Last Minute"] 
   [Text] The squabble around the decision of the Moscow 
 municipal council to introduce a duty on exchange currency 
@@ -2571,19 +2572,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Lack of Available Information on 1993 Budget Criticized </TI></H3>
-<F P=102>  944E0555A Moscow RABOCHAYA TRIBUNA in Russian 4 Mar 94 p 2 </F>
-<F P=103> 944E0555A </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
+<F P="102">  944E0555A Moscow RABOCHAYA TRIBUNA in Russian 4 Mar 94 p 2 </F>
+<F P="103"> 944E0555A </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Viktor Chernov, Sigmatsentr consultant: "Did </F>
+<F P="106"> [Article by Viktor Chernov, Sigmatsentr consultant: "Did </F>
 Russia Have a Budget in 1993?" 
   [Text] It would be worthwhile to hold parliamentary 
 hearings on this subject with the participation of Boris 
@@ -2685,21 +2686,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   National Socioeconomic Statistics for 1993 </TI></H3>
-<F P=102>  PM1003114594 Moscow EKONOMIKA I ZHIZN in Russian No. 6, Feb 
+<F P="102">  PM1003114594 Moscow EKONOMIKA I ZHIZN in Russian No. 6, Feb 
 94 pp 7-9 </F>
 
-<F P=103> PM1003114594 </F>
-<F P=104>  Moscow EKONOMIKA I ZHIZN </F>
+<F P="103"> PM1003114594 </F>
+<F P="104">  Moscow EKONOMIKA I ZHIZN </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed report "based on Russian State Committee for </F>
+<F P="106"> [Unattributed report "based on Russian State Committee for </F>
 Statistics Material": "On Russia's Socioeconomic Situation in 
 1993" -- first paragraph is introduction] 
   [Text] Having received countless requests from our 
@@ -4083,19 +4084,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   1993 Tax Service Results Summed Up </TI></H3>
-<F P=102>  944E0561A Moscow MOSCOW NEWS in English No 9, 4-10 Mar 94 p 9 </F>
-<F P=103> 944E0561A </F>
-<F P=104>  Moscow MOSCOW NEWS </F>
+<F P="102">  944E0561A Moscow MOSCOW NEWS in English No 9, 4-10 Mar 94 p 9 </F>
+<F P="103"> 944E0561A </F>
+<F P="104">  Moscow MOSCOW NEWS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Irina Dyomina: "Tax Police Have Their Work Cut </F>
+<F P="106"> [Article by Irina Dyomina: "Tax Police Have Their Work Cut </F>
 Out for Them: Russia's Tax Service Sums Up the Results of 1993"] 
   [Text] According to data furnished by the Department of Tax 
 Police, the majority of tax violations were committed by 
@@ -4168,21 +4169,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Appeal, Draft Agreement on Cooperation of Government, Manufacturers' Federation </TI></H3>
-<F P=102>  944E0556A Moscow NEZAVISIMAYA GAZETA in Russian 1 Mar 94 pp 
+<F P="102">  944E0556A Moscow NEZAVISIMAYA GAZETA in Russian 1 Mar 94 pp 
 1,3 </F>
 
-<F P=103> 944E0556A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="103"> 944E0556A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Appeal to the President and Government of the Russian </F>
+<F P="106"> [Appeal to the President and Government of the Russian </F>
 Federation and draft of a cooperation agreement transmitted by 
 Yuriy Skokov, Chairman of the Federation of the Commodity 
 Producers of Russia: "What Will be Viktor Chernomyrdin's 
@@ -4441,21 +4442,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Decree on Government Delegation of Powers in Property Management </TI></H3>
-<F P=102>  944E0562A Moscow ROSSIYSKAYA GAZETA in Russian 19 Feb 94 
+<F P="102">  944E0562A Moscow ROSSIYSKAYA GAZETA in Russian 19 Feb 94 
 First Edition p 5 </F>
 
-<F P=103> 944E0562A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="103"> 944E0562A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Text of "Russian Federation Government Decree No. 96, </F>
+<F P="106"> [Text of "Russian Federation Government Decree No. 96, </F>
 Moscow, 10 February 1994, `On Delegation of Powers By the 
 Russian Federation Government in the Management and Disposition 
 of Federally-Owned Facilities'"] 
@@ -4663,21 +4664,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Edict on Certain Amendments to Taxation, Budget Interrelations </TI></H3>
-<F P=102>  944E0547A Moscow EKONOMIKA I ZHIZN in Russian No 2, Jan 94 p 
+<F P="102">  944E0547A Moscow EKONOMIKA I ZHIZN in Russian No 2, Jan 94 p 
 16 </F>
 
-<F P=103> 944E0547A </F>
-<F P=104>  Moscow EKONOMIKA I ZHIZN </F>
+<F P="103"> 944E0547A </F>
+<F P="104">  Moscow EKONOMIKA I ZHIZN </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> ["Edict of the Russian Federation President: On Certain </F>
+<F P="106"> ["Edict of the Russian Federation President: On Certain </F>
 Amendments to Taxation and the Interrelations of Budgets of 
 Various Levels"] 
   [Text] With the aim of effecting priority measures to 
@@ -5179,21 +5180,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Agrarian Deputy on Agricultural Policies </TI></H3>
-<F P=102>  944K0839A Moscow LITERATURNAYA GAZETA in Russian No 9, 2 Mar 
+<F P="102">  944K0839A Moscow LITERATURNAYA GAZETA in Russian No 9, 2 Mar 
 94 p 10 </F>
 
-<F P=103> 944K0839A </F>
-<F P=104>  Moscow LITERATURNAYA GAZETA </F>
+<F P="103"> 944K0839A </F>
+<F P="104">  Moscow LITERATURNAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrey Popov, economist, Deputy of the State </F>
+<F P="106"> [Article by Andrey Popov, economist, Deputy of the State </F>
 Duma from the Agrarian Party of Russia: "An Alliance of Bankers 
 and Peasants Will Save Russia's Fields"] 
   [Text] An agrarian deputy rang up the editorial 
@@ -5359,19 +5360,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   System for Certification of Goods, Services Explained </TI></H3>
-<F P=102>  944Q0199B Moscow DELOVOY MIR in Russian 15 Feb 94 p 5 </F>
-<F P=103> 944Q0199B </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="102">  944Q0199B Moscow DELOVOY MIR in Russian 15 Feb 94 p 5 </F>
+<F P="103"> 944Q0199B </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Candidate of Technical Sciences Boris Minin, </F>
+<F P="106"> [Article by Candidate of Technical Sciences Boris Minin, </F>
 director of the Methodological Center of Systems of Quality 
 Certification of Goods and Services, under the rubric "Quality 
 Control": "Certification With No Tricks"] 
@@ -5487,21 +5488,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Falling Ostankino Ratings Viewed </TI></H3>
-<F P=102>  944F0397A Moscow MOSKOVSKIYE NOVOSTI in Russian No 8, 20-27 
+<F P="102">  944F0397A Moscow MOSKOVSKIYE NOVOSTI in Russian No 8, 20-27 
 Feb 94 p B 12 </F>
 
-<F P=103> 944F0397A </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 944F0397A </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Survey of Vsevolod Vilchek's Sociological Service on </F>
+<F P="106"> [Survey of Vsevolod Vilchek's Sociological Service on </F>
 Television Viewing; interview with director of the Service by 
 Yuriy Bogomolov, MOSKOVSKIYE NOVOSTI correspondent] 
   [Text] Vsevolod Vilchek's Sociological Service made a 
@@ -5606,19 +5607,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Journalists Worried by Edict on Secrets </TI></H3>
-<F P=102>  944F0397B Moscow ROSSIYSKIYE VESTI in Russian 3 Mar 94 p 4 </F>
-<F P=103> 944F0397B </F>
-<F P=104>  Moscow ROSSIYSKIYE VESTI </F>
+<F P="102">  944F0397B Moscow ROSSIYSKIYE VESTI in Russian 3 Mar 94 p 4 </F>
+<F P="103"> 944F0397B </F>
+<F P="104">  Moscow ROSSIYSKIYE VESTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Tatyana Akkuratova: "Glavlit Is Dead. Long Live </F>
+<F P="106"> [Article by Tatyana Akkuratova: "Glavlit Is Dead. Long Live </F>
 Glavlit?"] 
   [Text] A directive of the President of the Russian 
 Federation has endowed the directors of 38 ministries and 
@@ -5724,19 +5725,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Head of Social Security Ministry on Growing Homelessness </TI></H3>
-<F P=102>  944E0534A Moscow RABOCHAYA TRIBUNA in Russian 23 Feb 94 p 4 </F>
-<F P=103> 944E0534A </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
+<F P="102">  944E0534A Moscow RABOCHAYA TRIBUNA in Russian 23 Feb 94 p 4 </F>
+<F P="103"> 944E0534A </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Yelena Yulikova, head of the administration </F>
+<F P="106"> [Interview with Yelena Yulikova, head of the administration </F>
 of social service nonmobile institutions under the Russian 
 Federation Ministry for Social Protection of the Population, by 
 Yelena Vasilkova, under the "Continuing the Subject" rubric: 
@@ -5919,19 +5920,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Regional Unit Battles Moscow Mafia </TI></H3>
-<F P=102>  944F0414A Moscow TRUD in Russian 1 Mar 94 p 7 </F>
-<F P=103> 944F0414A </F>
-<F P=104>  Moscow TRUD </F>
+<F P="102">  944F0414A Moscow TRUD in Russian 1 Mar 94 p 7 </F>
+<F P="103"> 944F0414A </F>
+<F P="104">  Moscow TRUD </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Colonel of Militia Vladimir Rushaylo, head </F>
+<F P="106"> [Interview with Colonel of Militia Vladimir Rushaylo, head </F>
 of the Regional Directorate for Fighting Organized Crime, by 
 Aleksandr Danilkin; place and date not given: "We Are a Bone in 
 the Mafia's Throat"] 
@@ -6185,19 +6186,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   `Omnipotence' of Corruption in Power Structure Deplored </TI></H3>
-<F P=102>  944E0554A Moscow NEZAVISIMAYA GAZETA in Russian 26 Feb 94 p 2 </F>
-<F P=103> 944E0554A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944E0554A Moscow NEZAVISIMAYA GAZETA in Russian 26 Feb 94 p 2 </F>
+<F P="103"> 944E0554A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Karen Brutents: "Why Did Yegor Gaydar Suddenly </F>
+<F P="106"> [Article by Karen Brutents: "Why Did Yegor Gaydar Suddenly </F>
 Start Talking About Corruption?: What Kept Him From Fighting It 
 When He Was in the Government?"] 
   [Text] I am prompted to write about corruption again, not 
@@ -6387,21 +6388,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   MVD Assesses Fight Against Crime 1993-94 </TI></H3>
-<F P=102>  PM1403140994 Moscow ROSSIYSKAYA GAZETA in Russian 11 Mar 94 
+<F P="102">  PM1403140994 Moscow ROSSIYSKAYA GAZETA in Russian 11 Mar 94 
 First Edition pp 1, 3, 4 </F>
 
-<F P=103> PM1403140994 </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="103"> PM1403140994 </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Feature comprising address to Russia's citizens from the </F>
+<F P="106"> [Feature comprising address to Russia's citizens from the </F>
 Russian Ministry of Internal Affairs and "Materials from" 
 "Report by the Ministry of Internal Affairs to Russia's 
 Citizens" under the "ROSSIYSKAYA GAZETA Exclusive" rubric: "We 
@@ -7355,19 +7356,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   17 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Russian Coal Industry Jan-Aug 93 Performance Viewed </TI></H3>
-<F P=102>  944E0564A Moscow UGOL in Russian No 12, Dec 93 pp 14-19 </F>
-<F P=103> 944E0564A </F>
-<F P=104>  Moscow UGOL </F>
+<F P="102">  944E0564A Moscow UGOL in Russian No 12, Dec 93 pp 14-19 </F>
+<F P="103"> 944E0564A </F>
+<F P="104">  Moscow UGOL </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report compiled by V.N. Sukhov, canadidate of economic </F>
+<F P="106"> [Report compiled by V.N. Sukhov, canadidate of economic </F>
 sciences and deputy chief of the Strategic Research and 
 Information Support Administration of the "Rosugol" Company: 
 "Brief Summary of the Russian Coal Industry's Work from January 
@@ -7392,7 +7393,7 @@ in the plans of 28 of the 34 associations (82.4 percent),
 because the overall coal extraction plan was set lower by 23.2 
 million metric tons (10.6 percent). 
 
-<FIG ID=FBIS-USR-026-72A>           Coal Mined in 1993, By Months </FIG>
+<FIG ID="FBIS-USR-026-72A">           Coal Mined in 1993, By Months </FIG>
 
 
 
@@ -7703,7 +7704,7 @@ May. This is because of the unsatisfactory working conditions
 and the wage level, as well as seasonal fluctuations throughout 
 the year. 
 
-<FIG ID=FBIS-USR-026-75A>           Number of PPP [Workers Directly Engaged in Industrial Production] in 1993 </FIG>
+<FIG ID="FBIS-USR-026-75A">           Number of PPP [Workers Directly Engaged in Industrial Production] in 1993 </FIG>
 
 
 
@@ -7845,22 +7846,22 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 February 1994 </DATE1>
-<F P=100> COMMONWEALTH AFFAIRS </F>
-<F P=101></F>
+<F P="100"> COMMONWEALTH AFFAIRS </F>
+<F P="101"></F>
 <H3> <TI>     Regulations for Russia-CIS Trade Published </TI></H3>
 <H4>   Appendix No. 1 </H4>
-<F P=102> 944E0550B Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA in 
+<F P="102"> 944E0550B Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA in 
 Russian No 1, 22 Feb 94 pp 14-15 </F>
 
-<F P=103> 944E0550B </F>
-<F P=104>  Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA </F>
+<F P="103"> 944E0550B </F>
+<F P="104">  Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Text of Appendix 1 to the GTK of Russia Instruction No. </F>
+<F P="106"> [Text of Appendix 1 to the GTK of Russia Instruction No. </F>
 01-12/19 of 10 January 1994: "Rules for the Determination of the 
 Country of Origin of Goods"] 
   [Text] 
@@ -8124,19 +8125,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> INTERSTATE AFFAIRS </F>
-<F P=101></F>
+<F P="100"> INTERSTATE AFFAIRS </F>
+<F P="101"></F>
 <H3> <TI>     Russo-Estonian `Endless' Conflict Over Pechora Region Discussed </TI></H3>
-<F P=102>  944Q0225A Moscow SEGODNYA in Russian 2 Mar 94 p 2 </F>
-<F P=103> 944Q0225A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944Q0225A Moscow SEGODNYA in Russian 2 Mar 94 p 2 </F>
+<F P="103"> 944Q0225A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. Nesvizhskiy: "Tallinn and Moscow Argue About </F>
+<F P="106"> [Article by V. Nesvizhskiy: "Tallinn and Moscow Argue About </F>
 the Border"] 
   [Text] Residents of Pechora Region obtaining Estonian 
 passports 
@@ -8273,21 +8274,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 February 1994 </DATE1>
-<F P=100> INTERSTATE AFFAIRS </F>
-<F P=101></F>
+<F P="100"> INTERSTATE AFFAIRS </F>
+<F P="101"></F>
 <H3> <TI>     Migranyan Conclusions on CIS Federalization Disputed </TI></H3>
-<F P=102>  944K0810A Moscow NEZAVISIMAYA GAZETA in Russian 22 Feb 94 p 
+<F P="102">  944K0810A Moscow NEZAVISIMAYA GAZETA in Russian 22 Feb 94 p 
 3 </F>
 
-<F P=103> 944K0810A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="103"> 944K0810A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Suren Zolyan, deputy of Supreme Council of the </F>
+<F P="106"> [Article by Suren Zolyan, deputy of Supreme Council of the </F>
 republic of Armenia: "What Is Good for Russia Is Not Necessarily 
 Acceptable for All"] 
   [Text] Besides integration "in the Moscow manner" 
@@ -8568,19 +8569,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   25 February 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Possible Kravchuk Political Moves Examined </TI></H3>
-<F P=102>  944K0806A Moscow NEZAVISIMAYA GAZETA in Russian 25 Feb 94 p 3 </F>
-<F P=103> 944K0806A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944K0806A Moscow NEZAVISIMAYA GAZETA in Russian 25 Feb 94 p 3 </F>
+<F P="103"> 944K0806A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Skachko: "Not All Have Resigned </F>
+<F P="106"> [Article by Vladimir Skachko: "Not All Have Resigned </F>
 Themselves to the Success of Soviet Power: Paths of Development 
 of the Presidency in Ukraine"] 
   [Text] Leonid Kravchuk gave three reasons for his decision 
@@ -8709,19 +8710,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Candidates Profiled Statistically </TI></H3>
-<F P=102>  944K0855A Moscow NEZAVISIMAYA GAZETA in Russian 4 Mar 94 p 3 </F>
-<F P=103> 944K0855A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944K0855A Moscow NEZAVISIMAYA GAZETA in Russian 4 Mar 94 p 3 </F>
+<F P="103"> 944K0855A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Skachko: "Central Electoral Commission </F>
+<F P="106"> [Article by Vladimir Skachko: "Central Electoral Commission </F>
 Feeling Sorry for the Voters--Preliminary Results Show 
 Communists Fared Better Than Other Parties in the Election of 
 People's Deputies"] 
@@ -8844,19 +8845,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Nomenklatura Election Strategy Described </TI></H3>
-<F P=102>  944K0790A Kiev NEZAVISIMOST in Russian 23 Feb 94 p 3 </F>
-<F P=103> 944K0790A </F>
-<F P=104>  Kiev NEZAVISIMOST </F>
+<F P="102">  944K0790A Kiev NEZAVISIMOST in Russian 23 Feb 94 p 3 </F>
+<F P="103"> 944K0790A </F>
+<F P="104">  Kiev NEZAVISIMOST </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vyacheslav Pikhovshek, "Choice," under the </F>
+<F P="106"> [Article by Vyacheslav Pikhovshek, "Choice," under the </F>
 rubric "Of Current Interest": "The Strategy and Tactics of the 
 Nomenklatura in the Forthcoming Elections"] 
   [Text] The nature of electoral legislation has been of 
@@ -9152,21 +9153,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   24 February 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Voters Seen Making Uninformed Choices </TI></H3>
-<F P=102>  944K0856A Kiev LITERATURNA UKRAYINA in Ukrainian No 10-11, 
+<F P="102">  944K0856A Kiev LITERATURNA UKRAYINA in Ukrainian No 10-11, 
 24 Feb 94 p 5 </F>
 
-<F P=103> 944K0856A </F>
-<F P=104>  Kiev LITERATURNA UKRAYINA </F>
+<F P="103"> 944K0856A </F>
+<F P="104">  Kiev LITERATURNA UKRAYINA </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yuriy Dzhedzhula: "What Mirror Are We To Look </F>
+<F P="106"> [Article by Yuriy Dzhedzhula: "What Mirror Are We To Look </F>
 In?"] 
   [Text] Various public opinion surveys will certainly be 
 taken on the eve of the elections to the Supreme Council of 
@@ -9329,19 +9330,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Possible Left Victory Seen Positive </TI></H3>
-<F P=102>  944K0793A Kiev NEZAVISIMOST in Russian 23 Feb 94 pp 1-2 </F>
-<F P=103> 944K0793A </F>
-<F P=104>  Kiev NEZAVISIMOST </F>
+<F P="102">  944K0793A Kiev NEZAVISIMOST in Russian 23 Feb 94 pp 1-2 </F>
+<F P="103"> 944K0793A </F>
+<F P="104">  Kiev NEZAVISIMOST </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Kuleba, NEZAVISIMOST editor in chief, </F>
+<F P="106"> [Article by Vladimir Kuleba, NEZAVISIMOST editor in chief, </F>
 under the rubric "Political Diary": "Who Pushed Ukraine Into the 
 Abyss?"] 
   [Text] Had any person with integrity been in Leonid 
@@ -9554,19 +9555,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Three Figures Seen Key to Crimea Politics </TI></H3>
-<F P=102>  944K0831A Kiev NEZAVISIMOST in Russian 2 Mar 94 pp 1-2 </F>
-<F P=103> 944K0831A </F>
-<F P=104>  Kiev NEZAVISIMOST </F>
+<F P="102">  944K0831A Kiev NEZAVISIMOST in Russian 2 Mar 94 pp 1-2 </F>
+<F P="103"> 944K0831A </F>
+<F P="104">  Kiev NEZAVISIMOST </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by NEZAVISIMOST observer Yanina Sokolovskaya: "The </F>
+<F P="106"> [Article by NEZAVISIMOST observer Yanina Sokolovskaya: "The </F>
 Crimean Triangle--Alas, Not a Love Triangle. In It, the Fifth 
 Wheel Is the Betrayed Voter"] 
   [Text] Hardly had the postelection passions subsided, 
@@ -9709,21 +9710,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 February 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Effect of Crimea Decree Pondered </TI></H3>
-<F P=102>  944K0805A Moscow NEZAVISIMAYA GAZETA in Russian 26 Feb 94 pp 
+<F P="102">  944K0805A Moscow NEZAVISIMAYA GAZETA in Russian 26 Feb 94 pp 
 1, 3 </F>
 
-<F P=103> 944K0805A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="103"> 944K0805A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vitaliy Portnikov: "Kiev Let Simferopol Know </F>
+<F P="106"> [Article by Vitaliy Portnikov: "Kiev Let Simferopol Know </F>
 That It Thinks Too Much of Itself: The Demand To Bring the 
 Constitution of Crimea Into Compliance With the Ukrainian 
 Constitution May Ultimately Embroil Yuriy Meshkov With the 
@@ -9815,19 +9816,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 February 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Ukrainian TV Seen Stifling Political Debate </TI></H3>
-<F P=102>  944K0804A Kiev VECHIRNIY KYYIV in Ukrainian 26 Feb 94 p 1 </F>
-<F P=103> 944K0804A </F>
-<F P=104>  Kiev VECHIRNIY KYYIV </F>
+<F P="102">  944K0804A Kiev VECHIRNIY KYYIV in Ukrainian 26 Feb 94 p 1 </F>
+<F P="103"> 944K0804A </F>
+<F P="104">  Kiev VECHIRNIY KYYIV </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vitaliy Karpen: "What One Can See and What One </F>
+<F P="106"> [Article by Vitaliy Karpen: "What One Can See and What One </F>
 Cannot See on the Television Screen"] 
   [Text] Frankly, we did not want to return to this subject. 
 VECHIRNIY KYYIV has often criticized the provincialism, low 
@@ -10045,19 +10046,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Nomenklatura Seen Divided in Election </TI></H3>
-<F P=102>  944K0854A Kiev NEZAVISIMOST in Russian 4 Mar 94 pp 1-2 </F>
-<F P=103> 944K0854A </F>
-<F P=104>  Kiev NEZAVISIMOST </F>
+<F P="102">  944K0854A Kiev NEZAVISIMOST in Russian 4 Mar 94 pp 1-2 </F>
+<F P="103"> 944K0854A </F>
+<F P="104">  Kiev NEZAVISIMOST </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vyacheslav Pikhovshek: "The Self-Preservation </F>
+<F P="106"> [Article by Vyacheslav Pikhovshek: "The Self-Preservation </F>
 Instinct, or the Mobilization of the Nomenklatura"] 
   [Text] Ukrainians know by sight many of those who 
 were registered on 15 February as candidates for people's deputy 
@@ -10216,19 +10217,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   21 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Green Party Head Outlines Party Stand </TI></H3>
-<F P=102>  Kiev ZELENYY SVIT in Ukrainian No 3, Feb 94 p 3 </F>
-<F P=103> Kiev </F>
-<F P=104>  ZELENYY SVIT </F>
+<F P="102">  Kiev ZELENYY SVIT in Ukrainian No 3, Feb 94 p 3 </F>
+<F P="103"> Kiev </F>
+<F P="104">  ZELENYY SVIT </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:BFN 
 
-<F P=106> [Report by Vitaliy Kononov, Head of the PZU [Green Party of </F>
+<F P="106"> [Report by Vitaliy Kononov, Head of the PZU [Green Party of </F>
 Ukraine]: "The Political Situation in Our Country and the Tasks 
 of the PZU (From His Report to the Fourth PZU Congress)"] 
   [Text] What stance do the "Greens" take on the 
@@ -10372,19 +10373,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Residents Polled on Politics, Economy </TI></H3>
-<F P=102>  944K0815A Moscow NEZAVISIMAYA GAZETA in Russian 1 Mar 94 p 3 </F>
-<F P=103> 944K0815A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944K0815A Moscow NEZAVISIMAYA GAZETA in Russian 1 Mar 94 p 3 </F>
+<F P="103"> 944K0815A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Skachko: "The Republic Is Ready for </F>
+<F P="106"> [Article by Vladimir Skachko: "The Republic Is Ready for </F>
 Elections: And, According to Sociologists' Data, Not Ready for 
 Withdrawal from the CIS"] 
   [Text] The Elections-94 independent press center has 
@@ -10507,19 +10508,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> ECONOMIC AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> ECONOMIC AFFAIRS </F>
 <H3> <TI>   Saburov: Continued Ties to Ukraine Needed </TI></H3>
-<F P=102>  944K0833A Kiev NEZAVISIMOST in Russian 2 Mar 94 p 2 </F>
-<F P=103> 944K0833A </F>
-<F P=104>  Kiev NEZAVISIMOST </F>
+<F P="102">  944K0833A Kiev NEZAVISIMOST in Russian 2 Mar 94 p 2 </F>
+<F P="103"> 944K0833A </F>
+<F P="104">  Kiev NEZAVISIMOST </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Yevgeniy Saburov by unidentified </F>
+<F P="106"> [Interview with Yevgeniy Saburov by unidentified </F>
 NEZAVISIMOST correspondent under the rubric "Open Microphone"; 
 place and date not given: "`The Supreme Council Decree Could Be 
 Circumvented'"] 
@@ -10630,19 +10631,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> ECONOMIC AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> ECONOMIC AFFAIRS </F>
 <H3> <TI>   Legalization of Shadow Economy Favored </TI></H3>
-<F P=102>  944K0801A Kiev HOLOS UKRAYINY in Ukrainian 2 Mar 94 p 6 </F>
-<F P=103> 944K0801A </F>
-<F P=104>  Kiev HOLOS UKRAYINY </F>
+<F P="102">  944K0801A Kiev HOLOS UKRAYINY in Ukrainian 2 Mar 94 p 6 </F>
+<F P="103"> 944K0801A </F>
+<F P="104">  Kiev HOLOS UKRAYINY </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Oleksandr Turchynov, chairman of the political </F>
+<F P="106"> [Article by Oleksandr Turchynov, chairman of the political </F>
 and economic council of the Hromada All-Ukrainian Association: 
 "A Shadow That Wants Into the Light. In Lieu of a Confession of 
 a `Typical Businessman Engaged in the Shadow Economy'"] 
@@ -10941,19 +10942,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 March 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> ECONOMIC AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> ECONOMIC AFFAIRS </F>
 <H3> <TI>   Nuclear Power Moratorium Seen To Inflict Blow on Energy Sector </TI></H3>
-<F P=102>  944K0822A Kiev PRAVDA UKRAINY in Russian 1 Mar 94 p 2 </F>
-<F P=103> 944K0822A </F>
-<F P=104>  Kiev PRAVDA UKRAINY </F>
+<F P="102">  944K0822A Kiev PRAVDA UKRAINY in Russian 1 Mar 94 p 2 </F>
+<F P="103"> 944K0822A </F>
+<F P="104">  Kiev PRAVDA UKRAINY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Aleksandr Panchenko: "A Chain Reaction to Acute </F>
+<F P="106"> [Article by Aleksandr Panchenko: "A Chain Reaction to Acute </F>
 Problems"] 
   [Text] Late last year, against the background of the 
 continuously worsening energy crisis, the Supreme Soviet 
@@ -11178,19 +11179,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 February 1994 </DATE1>
-<F P=100> UKRAINE </F>
-<F P=101> ECONOMIC AFFAIRS </F>
+<F P="100"> UKRAINE </F>
+<F P="101"> ECONOMIC AFFAIRS </F>
 <H3> <TI>   Official on Agrosector Investment Prospects </TI></H3>
-<F P=102>  944K0800A Kiev MOLOD UKRAYINY in Ukrainian 22 Feb 94 p 1 </F>
-<F P=103> 944K0800A </F>
-<F P=104>  Kiev MOLOD UKRAYINY </F>
+<F P="102">  944K0800A Kiev MOLOD UKRAYINY in Ukrainian 22 Feb 94 p 1 </F>
+<F P="103"> 944K0800A </F>
+<F P="104">  Kiev MOLOD UKRAYINY </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Viktor Kozoriz, Rural Renewal Department, Tel.: </F>
+<F P="106"> [Article by Viktor Kozoriz, Rural Renewal Department, Tel.: </F>
 441-82-03: "What Will Happen To Our Own Stalingrad?"] 
   [Text] You have probably noticed that since MOLOD UKRAYINY 
 took Ukraine's agroindustrial complex under its patronage, there 
@@ -11345,19 +11346,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   24 February 1994 </DATE1>
-<F P=100> WESTERN REGION </F>
-<F P=101> BELARUS </F>
+<F P="100"> WESTERN REGION </F>
+<F P="101"> BELARUS </F>
 <H3> <TI>   Republic Seen Politically, Economically Stagnant </TI></H3>
-<F P=102>  944K0798A Moscow IZVESTIYA in Russian 24 Feb 94 p 4 </F>
-<F P=103> 944K0798A </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="102">  944K0798A Moscow IZVESTIYA in Russian 24 Feb 94 p 4 </F>
+<F P="103"> 944K0798A </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by A. Starikevich: "Belarus: Back Into the USSR"] </F>
+<F P="106"> [Article by A. Starikevich: "Belarus: Back Into the USSR"] </F>
   [Text] The five-year mandate of republic authorities 
 is expiring. Everyone in a leadership position wants to catch 
 the next train, including those who are responsible for the 
@@ -11538,21 +11539,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> WESTERN REGION </F>
-<F P=101> MOLDOVA </F>
+<F P="100"> WESTERN REGION </F>
+<F P="101"> MOLDOVA </F>
 <H3> <TI>   Chief Details Work of Financial Guard </TI></H3>
-<F P=102>  944K0791A Chisinau KISHINEVSKIYE NOVOSTI in Russian No 3, 26 
+<F P="102">  944K0791A Chisinau KISHINEVSKIYE NOVOSTI in Russian No 3, 26 
 Jan 94 pp 6-7 </F>
 
-<F P=103> 944K0791A </F>
-<F P=104>  Chisinau KISHINEVSKIYE NOVOSTI </F>
+<F P="103"> 944K0791A </F>
+<F P="104">  Chisinau KISHINEVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview, under the rubric "Problems: A Meeting for You," </F>
+<F P="106"> [Interview, under the rubric "Problems: A Meeting for You," </F>
 with Nikolae Bivol, chief of the financial guard under the 
 Ministry of Finance of the Republic of Moldova, conducted by 
 Gennadiy Skvirenko; date and place not given] 
@@ -11930,19 +11931,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   23 January 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> ESTONIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> ESTONIA </F>
 <H3> <TI>   Officers, Men of Independent Company Profiled </TI></H3>
-<F P=102>  944K0670A Stockholm DAGENS NYHETER in Swedish 23 Jan 94 p 9 </F>
-<F P=103> 944K0670A </F>
-<F P=104>  Stockholm DAGENS NYHETER </F>
+<F P="102">  944K0670A Stockholm DAGENS NYHETER in Swedish 23 Jan 94 p 9 </F>
+<F P="103"> 944K0670A </F>
+<F P="104">  Stockholm DAGENS NYHETER </F>
 
 
 <TEXT>
-Language: <F P=105> Swedish </F>
+Language: <F P="105"> Swedish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Mert Kubu: "Private Army in Estonia Causes </F>
+<F P="106"> [Article by Mert Kubu: "Private Army in Estonia Causes </F>
 Concern"] 
   [Text] "Halt! This is as far as you can go." With his 
 combat-ready Kalashnikov, 21-year-old Joel Kitt stands in front 
@@ -12095,21 +12096,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> ESTONIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> ESTONIA </F>
 <H3> <TI>   Poll Shows Gains in Government Approval Ratings </TI></H3>
-<F P=102>  944K0799 Tallinn RAHVA HÆaÆaL in Estonian 1 Feb 94 p 
+<F P="102">  944K0799 Tallinn RAHVA Hï¿½aï¿½aL in Estonian 1 Feb 94 p 
 2 </F>
 
-<F P=103> 944K0799 </F>
-<F P=104>  Tallinn RAHVA HÆaÆaL </F>
+<F P="103"> 944K0799 </F>
+<F P="104">  Tallinn RAHVA Hï¿½aï¿½aL </F>
 
 
 <TEXT>
-Language: <F P=105> Estonian </F>
+Language: <F P="105"> Estonian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Juhan KivirÆahk: "All Institutions of Power </F>
+<F P="106"> [Article by Juhan Kivirï¿½ahk: "All Institutions of Power </F>
 Improved Their Standing 
 <H6>  Public Opinion in January </H6>
   The internal political tensions of January, stemming 
@@ -12296,19 +12297,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> ESTONIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> ESTONIA </F>
 <H3> <TI>   Zhirinovskiy Representative Urges Russian Retired Military To Defy Estonian Laws </TI></H3>
-<F P=102>  944K0799B Tallinn PÆaEVALEHT in Estonian 2 Feb 94 p 3 </F>
-<F P=103> 944K0799B </F>
-<F P=104>  Tallinn PÆaEVALEHT </F>
+<F P="102">  944K0799B Tallinn Pï¿½aEVALEHT in Estonian 2 Feb 94 p 3 </F>
+<F P="103"> 944K0799B </F>
+<F P="104">  Tallinn Pï¿½aEVALEHT </F>
 
 
 <TEXT>
-Language: <F P=105> Estonian </F>
+Language: <F P="105"> Estonian </F>
 Article Type:CSO 
 
-<F P=106> [BNS release: "Zhirinovskiy's Representative in Estonia </F>
+<F P="106"> [BNS release: "Zhirinovskiy's Representative in Estonia </F>
 Recommends That Retired Russian Military Personnel Form Defense 
 Units"] 
   [Text] 
@@ -12364,34 +12365,34 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 February 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> ESTONIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> ESTONIA </F>
 <H3> <TI>   Land Reform Stalled </TI></H3>
-<F P=102>  944K0799C Tallinn RAHVA HÆaÆaL in Estonian 5 Feb 94 
+<F P="102">  944K0799C Tallinn RAHVA Hï¿½aï¿½aL in Estonian 5 Feb 94 
 p 3 </F>
 
-<F P=103> 944K0799C </F>
-<F P=104>  Tallinn RAHVA HÆaÆaL </F>
+<F P="103"> 944K0799C </F>
+<F P="104">  Tallinn RAHVA Hï¿½aï¿½aL </F>
 
 
 <TEXT>
-Language: <F P=105> Estonian </F>
+Language: <F P="105"> Estonian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Agnes JÆurgens: "Land Reform Not Moving </F>
+<F P="106"> [Article by Agnes Jï¿½urgens: "Land Reform Not Moving </F>
 Ahead, Because People Do Not Want the Land Back"] 
   [Text] 
   Yesterday, the government's land reform commission held 
 its ninth session. As is known, the work of this commission is 
-headed by reform minister Liia HÆanni, others attending 
+headed by reform minister Liia Hï¿½anni, others attending 
 were 
 ministers Jaan Leetsaar, Kaido Kama and Andres Tarand. 
   Those gathered listened to information about how land reform 
-and ownership reform are coming along in the VÅorumaa 
+and ownership reform are coming along in the Vï¿½orumaa 
 district. An overview was given by Tiit Soosaar, the new 
-district elder of VÅorumaa and Tiiu JÅoe, head of the 
-VÅorumaa Land Office. There are more than 200 registered 
-pieces of real estate in the VÅorumaa district, making it 
+district elder of Vï¿½orumaa and Tiiu Jï¿½oe, head of the 
+Vï¿½orumaa Land Office. There are more than 200 registered 
+pieces of real estate in the Vï¿½orumaa district, making it 
 one 
 of the three leading districts in the republic. One could say 
 that property returns in Vrumaa have been carried out 
@@ -12410,7 +12411,7 @@ time for the parish governments to assemble legally entitled
 owners and current users of land around a negotiating table and 
 reach a peaceful agreement about land management. 
   The bill of the cadastral law was also discussed by the 
-commission. A review of it was presented by Valter AasmÆae, 
+commission. A review of it was presented by Valter Aasmï¿½ae, 
 one of the principal authors of the bill. Next week, all members 
 of the government commission will give their opinions on the 
 bill, whereupon it will be introduced to the ministries. Land 
@@ -12452,21 +12453,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   8 February 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> ESTONIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> ESTONIA </F>
 <H3> <TI>   January Cost of Living Increase Noted </TI></H3>
-<F P=102>  944k0799D Tallinn RAHVA HÆaÆaL in Estonian 8 Feb 94 
+<F P="102">  944k0799D Tallinn RAHVA Hï¿½aï¿½aL in Estonian 8 Feb 94 
 p 1 </F>
 
-<F P=103> 944k0799D </F>
-<F P=104>  Tallinn RAHVA HÆaÆaL </F>
+<F P="103"> 944k0799D </F>
+<F P="104">  Tallinn RAHVA Hï¿½aï¿½aL </F>
 
 
 <TEXT>
-Language: <F P=105> Estonian </F>
+Language: <F P="105"> Estonian </F>
 Article Type:CSO 
 
-<F P=106> [Report from Business Desk: "Cost of Living Up 5.5 Percent </F>
+<F P="106"> [Report from Business Desk: "Cost of Living Up 5.5 Percent </F>
 in January"] 
   [Text] 
   The increase in the consumer price index was bigger in 
@@ -12560,22 +12561,22 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 February 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> ESTONIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> ESTONIA </F>
 <H3> <TI>   Paldiski Nuclear Waste To Be Removed Using New Russian Containers </TI></H3>
-<F P=102>  944K0799E Tallinn RAHVA HÆaÆaL in Estonian 12 Feb 94 
+<F P="102">  944K0799E Tallinn RAHVA Hï¿½aï¿½aL in Estonian 12 Feb 94 
 p </F>
 
 
 
 <TEXT>
 1 
-<F P=103> 944K0799E </F>
-<F P=104>  Tallinn RAHVA HÆaÆaL </F>
- Language: <F P=105>Estonian </F>
+<F P="103"> 944K0799E </F>
+<F P="104">  Tallinn RAHVA Hï¿½aï¿½aL </F>
+ Language: <F P="105">Estonian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Tiit Tambi: "Problems of Nuclear Waste Removal </F>
+<F P="106"> [Article by Tiit Tambi: "Problems of Nuclear Waste Removal </F>
 About To Be Solved"] 
   [Text] 
   A conference of the working group on nuclear and 
@@ -12607,7 +12608,7 @@ government. Besides, this policy supposedly also depends on the
 availability of money and on Russia's so-called `global nuclear 
 problems.' By way of consolation: The Paldiski issue will not be 
 coming to a standstill because of these snags. 
-  The working group also discussed SillamÆae and matters 
+  The working group also discussed Sillamï¿½ae and matters 
 related to radioactive beacons. Other news pertaining to the 
 not-so-secret Salaspilsis reactor in Latvia (a science-oriented 
 facility) revealed that it uses 90-percent enriched uranium. The 
@@ -12631,21 +12632,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 March 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> ESTONIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> ESTONIA </F>
 <H3> <TI>   World Bank Loan for Modernizing Kunda Plant </TI></H3>
-<F P=102>  94P50102A Copenhagen BERLINGSKE TIDENDE in Danish 1 Mar 94 p 
+<F P="102">  94P50102A Copenhagen BERLINGSKE TIDENDE in Danish 1 Mar 94 p 
 6 </F>
 
-<F P=103> 94P50102A </F>
-<F P=104>  Copenhagen BERLINGSKE TIDENDE </F>
+<F P="103"> 94P50102A </F>
+<F P="104">  Copenhagen BERLINGSKE TIDENDE </F>
 
 
 <TEXT>
-Language: <F P=105> Danish </F>
+Language: <F P="105"> Danish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lise Tajik: "Cement Plant in Estonia Gets Big </F>
+<F P="106"> [Article by Lise Tajik: "Cement Plant in Estonia Gets Big </F>
 Environment Loan"] 
   [Text] The World Bank through its subsidiary, the 
 International Finance Corporation (IFC), has granted over 200 
@@ -12692,19 +12693,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   18 February 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> LITHUANIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> LITHUANIA </F>
 <H3> <TI>   Defense Ministry Reorganization Plans Examined </TI></H3>
-<F P=102>  944K0824A Vilnius LIETUVOS RYTAS in Lithuanian 18 Feb 94 p 3 </F>
-<F P=103> 944K0824A </F>
-<F P=104>  Vilnius LIETUVOS RYTAS </F>
+<F P="102">  944K0824A Vilnius LIETUVOS RYTAS in Lithuanian 18 Feb 94 p 3 </F>
+<F P="103"> 944K0824A </F>
+<F P="104">  Vilnius LIETUVOS RYTAS </F>
 
 
 <TEXT>
-Language: <F P=105> Lithuanian </F>
+Language: <F P="105"> Lithuanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Thomas Juknevicius: "The Project for the </F>
+<F P="106"> [Article by Thomas Juknevicius: "The Project for the </F>
 Reorganization of the National Defense Ministry Provides for 
 Wide Epaulets for Almost Every Official"] 
   [Text] Following the reorganization of the National Defense 
@@ -12776,19 +12777,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   18 February 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> LITHUANIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> LITHUANIA </F>
 <H3> <TI>   Independent Radio, TV Seek Measures Against Media Monopoly </TI></H3>
-<F P=102>  944K0824B Vilnius LIETUVOS RYTAS in Lithuanian 18 Feb 94 p 3 </F>
-<F P=103> 944K0824B </F>
-<F P=104>  Vilnius LIETUVOS RYTAS </F>
+<F P="102">  944K0824B Vilnius LIETUVOS RYTAS in Lithuanian 18 Feb 94 p 3 </F>
+<F P="103"> 944K0824B </F>
+<F P="104">  Vilnius LIETUVOS RYTAS </F>
 
 
 <TEXT>
-Language: <F P=105> Lithuanian </F>
+Language: <F P="105"> Lithuanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Daiva Rinkeviciute: "The Independent Radio and </F>
+<F P="106"> [Article by Daiva Rinkeviciute: "The Independent Radio and </F>
 TV Stations Against National Monopoly of the Ether"] 
   [Text] Instead of their accustomed programs or music, the 
 listeners of the radio stations M1, RADIOCENTRAS (Radio Center), 
@@ -12866,19 +12867,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   28 January 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> LITHUANIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> LITHUANIA </F>
 <H3> <TI>   Brazauskas Addresses North Atlantic Council </TI></H3>
-<F P=102>  944K0766A Vilnius TIESA in Lithuanian 28 Jan 94 p 3 </F>
-<F P=103> 944K0766A </F>
-<F P=104>  Vilnius TIESA </F>
+<F P="102">  944K0766A Vilnius TIESA in Lithuanian 28 Jan 94 p 3 </F>
+<F P="103"> 944K0766A </F>
+<F P="104">  Vilnius TIESA </F>
 
 
 <TEXT>
-Language: <F P=105> Lithuanian </F>
+Language: <F P="105"> Lithuanian </F>
 Article Type:CSO 
 
-<F P=106> [Speech by Algirdas Brazauskas, president of the Republic of </F>
+<F P="106"> [Speech by Algirdas Brazauskas, president of the Republic of </F>
 Lithuania, to the North Atlantic Council: "Cooperation For 
 Peace, Not War] 
   [Text] Mr. General Secretary of NATO! 
@@ -13018,19 +13019,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   29 January 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> LITHUANIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> LITHUANIA </F>
 <H3> <TI>   Increase in Accidental Death, Suicide Rates Noted </TI></H3>
-<F P=102>  944K0766B Vilnius TIESA in Lithuanian 29 Jan 94 p 1 </F>
-<F P=103> 944K0766B </F>
-<F P=104>  Vilnius TIESA </F>
+<F P="102">  944K0766B Vilnius TIESA in Lithuanian 29 Jan 94 p 1 </F>
+<F P="103"> 944K0766B </F>
+<F P="104">  Vilnius TIESA </F>
 
 
 <TEXT>
-Language: <F P=105> Lithuanian </F>
+Language: <F P="105"> Lithuanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ana Trescina: "Trauma and Economic Loss: The </F>
+<F P="106"> [Article by Ana Trescina: "Trauma and Economic Loss: The </F>
 Medical Profession is Again Sounding the Alarm, this time over 
 Needless Deaths"] 
   [Text] Many inhabitants of Lithuania die from accidents, 
@@ -13086,19 +13087,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   21 March 1994 </DATE1>
-<F P=100> BALTIC STATES </F>
-<F P=101> LITHUANIA </F>
+<F P="100"> BALTIC STATES </F>
+<F P="101"> LITHUANIA </F>
 <H3> <TI>   Icelandic Firm To Produce Pharmaceuticals </TI></H3>
-<F P=102>  94P20490Z Reykjavik NEWS FROM ICELAND in English Feb 94 p B 4 </F>
-<F P=103> 94P20490Z </F>
-<F P=104>  Reykjavik NEWS FROM ICELAND </F>
+<F P="102">  94P20490Z Reykjavik NEWS FROM ICELAND in English Feb 94 p B 4 </F>
+<F P="103"> 94P20490Z </F>
+<F P="104">  Reykjavik NEWS FROM ICELAND </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: "Center Spurs Trade With Lithuania"] </F>
+<F P="106"> [Unattributed article: "Center Spurs Trade With Lithuania"] </F>
   [Text] The Iceland-Lithuania Friendship Society has set up 
 a new communications center in Vilnius in the hope of spurring 
 commercial activity between Iceland and the Baltic nation. 
@@ -13136,19 +13137,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 March 1994 </DATE1>
-<F P=100> COMMONWEALTH AFFAIRS </F>
-<F P=101></F>
+<F P="100"> COMMONWEALTH AFFAIRS </F>
+<F P="101"></F>
 <H3> <TI>     CIS Transformation Into `Confederative Union' Urged </TI></H3>
-<F P=102>  944Q0224A Moscow NEZAVISIMAYA GAZETA in Russian 3 Mar 94 p 3 </F>
-<F P=103> 944Q0224A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944Q0224A Moscow NEZAVISIMAYA GAZETA in Russian 3 Mar 94 p 3 </F>
+<F P="103"> 944Q0224A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yakov Plyays, doctor of historical sciences: </F>
+<F P="106"> [Article by Yakov Plyays, doctor of historical sciences: </F>
 "About the Present and Future of the CIS; Notes on the 
 National-State Structure of the Former USSR"] 
   [Text] 
@@ -13339,22 +13340,22 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 February 1994 </DATE1>
-<F P=100> COMMONWEALTH AFFAIRS </F>
-<F P=101></F>
+<F P="100"> COMMONWEALTH AFFAIRS </F>
+<F P="101"></F>
 <H3> <TI>     Regulations for Russia-CIS Trade Published </TI></H3>
 <H4>   State Tariff Committee Instructions </H4>
-<F P=102> 944E0550A Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA in 
+<F P="102"> 944E0550A Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA in 
 Russian No 1, 22 Feb 94 p 14 </F>
 
-<F P=103> 944E0550A </F>
-<F P=104>  Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA </F>
+<F P="103"> 944E0550A </F>
+<F P="104">  Moscow DELOVOY MIR SUPPLEMENT PRAVO I EKONOMIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Text of Instruction No. 01-12/19 of State Customs Committee </F>
+<F P="106"> [Text of Instruction No. 01-12/19 of State Customs Committee </F>
 [GTK] of the Russian Federation of 10 January 1994, recorded by 
 the Ministry of Justice of Russia on 17 January 1994 No. 460, 
 under the rubric "Foreign Economic Relations"] 
@@ -13543,21 +13544,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Kabardino-Balkaria Justice Ministry Views Work of Courts </TI></H3>
-<F P=102>  944F0366A Nalchik KABARDINO-BALKARSKAYA PRAVDA in Russian 1 
+<F P="102">  944F0366A Nalchik KABARDINO-BALKARSKAYA PRAVDA in Russian 1 
 Feb 94 p 1 </F>
 
-<F P=103> 944F0366A </F>
-<F P=104>  Nalchik KABARDINO-BALKARSKAYA PRAVDA </F>
+<F P="103"> 944F0366A </F>
+<F P="104">  Nalchik KABARDINO-BALKARSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Kyasova: "KBR Judicial Body </F>
+<F P="106"> [Article by M. Kyasova: "KBR Judicial Body </F>
 Presents Results"] 
   [Text] Last Friday the work results of the KBR 
 [Kabardino-Balkaria Republic] People's Courts during the first 
@@ -13663,21 +13664,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Kabardino-Balkaria Internal Affairs Ministry Holds Press Conference </TI></H3>
-<F P=102>  944F0366B Nalchik KABARDINO-BALKARSKAYA PRAVDA in Russian 3 
+<F P="102">  944F0366B Nalchik KABARDINO-BALKARSKAYA PRAVDA in Russian 3 
 Feb 94 p 2 </F>
 
-<F P=103> 944F0366B </F>
-<F P=104>  Nalchik KABARDINO-BALKARSKAYA PRAVDA </F>
+<F P="103"> 944F0366B </F>
+<F P="104">  Nalchik KABARDINO-BALKARSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Z. Malbakhova: "Situation Under </F>
+<F P="106"> [Article by Z. Malbakhova: "Situation Under </F>
 Control: From an MVD [Ministry of Internal Affairs] Press 
 Conference"] 
   [Text] A press conference took place in the assembly hall 
@@ -13841,19 +13842,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Tambov Admin Chief Struggles With Oblast Soviet </TI></H3>
-<F P=102>  944F0379A Moscow SOVETSKAYA ROSSIYA in Russian 26 Feb 94 p 2 </F>
-<F P=103> 944F0379A </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="102">  944F0379A Moscow SOVETSKAYA ROSSIYA in Russian 26 Feb 94 p 2 </F>
+<F P="103"> 944F0379A </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Toporkov, SOVETSKAYA ROSSIYA </F>
+<F P="106"> [Article by Vladimir Toporkov, SOVETSKAYA ROSSIYA </F>
 correspondent in Tambov: "The Governor Has Become Enraged; War 
 With Oblast Soviet Continues in Tambov"] 
   [Text] It was difficult to find the open room on the third 
@@ -14134,21 +14135,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Discontent of Volga Germans Examined </TI></H3>
-<F P=102>  944F0432A Moscow KOMSOMOLSKAYA PRAVDA in Russian 10 Mar 94 p 
+<F P="102">  944F0432A Moscow KOMSOMOLSKAYA PRAVDA in Russian 10 Mar 94 p 
 2 </F>
 
-<F P=103> 944F0432A </F>
-<F P=104>  Moscow KOMSOMOLSKAYA PRAVDA </F>
+<F P="103"> 944F0432A </F>
+<F P="104">  Moscow KOMSOMOLSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by staff correspondent Irina Chernova: "Achtung! </F>
+<F P="106"> [Article by staff correspondent Irina Chernova: "Achtung! </F>
 Achtung! The Secret of Esteemed Frau Kopel's Success Lies in the 
 Millions"]] 
   [Text] Volgograd--They pleaded: do not harm us. If Germany 
@@ -14435,19 +14436,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Volgograd Left-Wing Groups Oppose Reconciliation Monument </TI></H3>
-<F P=102>  944F0436A Moscow IZVESTIYA in Russian 11 Mar 94 p 4 </F>
-<F P=103> 944F0436A </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="102">  944F0436A Moscow IZVESTIYA in Russian 11 Mar 94 p 4 </F>
+<F P="103"> 944F0436A </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Valeriy Korney: "Battles Over Reconciliation </F>
+<F P="106"> [Article by Valeriy Korney: "Battles Over Reconciliation </F>
 Monument"] 
   [Text] Representatives of the Volgograd Oblast 
 organizations of the Russian Federation Communist Party, the 
@@ -14537,19 +14538,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Sakha President on Developing Northern Regions </TI></H3>
-<F P=102>  944F0425B Moscow NEZAVISIMAYA GAZETA in Russian 26 Feb 94 p 3 </F>
-<F P=103> 944F0425B </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944F0425B Moscow NEZAVISIMAYA GAZETA in Russian 26 Feb 94 p 3 </F>
+<F P="103"> 944F0425B </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Mikhail Nikolayev, president of the Republic of </F>
+<F P="106"> [Article by Mikhail Nikolayev, president of the Republic of </F>
 Sakha (Yakutia), under rubric "Position": "Peoples of the North: 
 Prospects for Common Development. Yakutia Sets a Good Example"] 
   [Text] By and large, all of the problems in the North are a 
@@ -14878,21 +14879,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   `Siberian Agreement' on Regional Growth </TI></H3>
-<F P=102>  944F0434B Novosibirsk SOVETSKAYA SIBIR in Russian 11 Mar 94 
+<F P="102">  944F0434B Novosibirsk SOVETSKAYA SIBIR in Russian 11 Mar 94 
 p 1 </F>
 
-<F P=103> 944F0434B </F>
-<F P=104>  Novosibirsk SOVETSKAYA SIBIR </F>
+<F P="103"> 944F0434B </F>
+<F P="104">  Novosibirsk SOVETSKAYA SIBIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by V. Maltseva under the rubric "Press Conference": </F>
+<F P="106"> [Report by V. Maltseva under the rubric "Press Conference": </F>
 "Siberian Agreement: Concept of the Region's Development"] 
   [Text] Vladimir Ivankov, general director of the 
 Siberian Agreement interregional association's executive board, 
@@ -14975,19 +14976,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   `Siberian Agreement' Seeks To Expand Regional Export Rights </TI></H3>
-<F P=102>  944F0431B Moscow SEGODNYA in Russian 5 Mar 94 p 2 </F>
-<F P=103> 944F0431B </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944F0431B Moscow SEGODNYA in Russian 5 Mar 94 p 2 </F>
+<F P="103"> 944F0431B </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Tordes: "Siberia Demands an Increase in </F>
+<F P="106"> [Article by Vladimir Tordes: "Siberia Demands an Increase in </F>
 Export Quotas: and the Far East Military-Industrial Complex 
 Demands a Supplemental Feeding From Moscow"] 
   [Text] It is not just in the capital that passions over the 
@@ -15073,19 +15074,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Smolensk 1993 Socioeconomic Figures Reported </TI></H3>
-<F P=102>  944F0392A Smolensk RABOCHIY PUT in Russian 3 Feb 94 pp 1, 5 </F>
-<F P=103> 944F0392A </F>
-<F P=104>  Smolensk RABOCHIY PUT </F>
+<F P="102">  944F0392A Smolensk RABOCHIY PUT in Russian 3 Feb 94 pp 1, 5 </F>
+<F P="103"> 944F0392A </F>
+<F P="104">  Smolensk RABOCHIY PUT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by the Smolensk Oblast Statistics Directorate: </F>
+<F P="106"> [Report by the Smolensk Oblast Statistics Directorate: </F>
 "Socioeconomic Situation of Smolensk Oblast in 1993"] 
   [Text] The socioeconomic situation of the oblast last year 
 is characterized by the following data: 
@@ -15790,19 +15791,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Smolensk Internal Affairs Chief on 1993 Crime Statistics </TI></H3>
-<F P=102>  944F0391A Smolensk RABOCHIY PUT in Russian 2 Feb 94 p 3 </F>
-<F P=103> 944F0391A </F>
-<F P=104>  Smolensk RABOCHIY PUT </F>
+<F P="102">  944F0391A Smolensk RABOCHIY PUT in Russian 2 Feb 94 p 3 </F>
+<F P="103"> 944F0391A </F>
+<F P="104">  Smolensk RABOCHIY PUT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by militia Major-General V. Vorobyev, chief of the </F>
+<F P="106"> [Article by militia Major-General V. Vorobyev, chief of the </F>
 oblast UVD [Internal Affairs Administration]: "Without 
 Overcoming Crime, We Will Not Achieve a Normal Life." Comments 
 on summary of criminal statistics for 1993] 
@@ -16007,21 +16008,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Sverdlovsk 1993 Socioeconomic Figures Reported </TI></H3>
-<F P=102>  944F0380A Yekaterinburg URALSKIY RABOCHIY in Russian 4 Feb 
+<F P="102">  944F0380A Yekaterinburg URALSKIY RABOCHIY in Russian 4 Feb 
 94 pp 1-2 </F>
 
-<F P=103> 944F0380A </F>
-<F P=104>  Yekaterinburg URALSKIY RABOCHIY </F>
+<F P="103"> 944F0380A </F>
+<F P="104">  Yekaterinburg URALSKIY RABOCHIY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sverdlovsk Oblast Statistical Administration: </F>
+<F P="106"> [Article by Sverdlovsk Oblast Statistical Administration: </F>
 "Gaydar Would Call It Stabilization...On the Socioeconomic 
 Position of Sverdlovsk Oblast in 1993"] 
   [Text] In 1993 enterprises of the oblast produced 5.4737 
@@ -16748,21 +16749,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Rossel Continues Work To Legalize Urals Autonomy </TI></H3>
-<F P=102>  944F0415A Moscow OBSHCHAYA GAZETA in Russian No 9, 4 Mar 94 
+<F P="102">  944F0415A Moscow OBSHCHAYA GAZETA in Russian No 9, 4 Mar 94 
 p 8 </F>
 
-<F P=103> 944F0415A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
+<F P="103"> 944F0415A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Oleg Zhirnov: "Rossel Persists"] </F>
+<F P="106"> [Article by Oleg Zhirnov: "Rossel Persists"] </F>
   [Text] The all but buried and long-forgotten plan for 
 the Ural Republic has risen like a phoenix from the ashes. 
   Last week former Governor Eduard Rossel, now a senator from 
@@ -16880,20 +16881,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   9 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Tyumen Statistics Committee Reports 1993 Figures </TI></H3>
 <H4>   Statistics for Enterprises </H4>
-<F P=102> 944F0402A Tyumen TYUMENSKAYA PRAVDA in Russian 9 Feb 94 p 1 </F>
-<F P=103> 944F0402A </F>
-<F P=104>  Tyumen TYUMENSKAYA PRAVDA </F>
+<F P="102"> 944F0402A Tyumen TYUMENSKAYA PRAVDA in Russian 9 Feb 94 p 1 </F>
+<F P="103"> 944F0402A </F>
+<F P="104">  Tyumen TYUMENSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report of Tyumen Oblast Statistics Committee: "The Amount </F>
+<F P="106"> [Report of Tyumen Oblast Statistics Committee: "The Amount </F>
 of Money Is Substantial but Insufficient"] 
   [Text] Businessmen and organizations in the oblast earned 
 1.2 trillion rubles in profit in the first 11 months of 1993. 
@@ -16969,20 +16970,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   10 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Tyumen Statistics Committee Reports 1993 Figures </TI></H3>
 <H4>   Production Statistics </H4>
-<F P=102> 944F0402B Tyumen TYUMENSKAYA PRAVDA in Russian 10 Feb 94 p 1 </F>
-<F P=103> 944F0402B </F>
-<F P=104>  Tyumen TYUMENSKAYA PRAVDA </F>
+<F P="102"> 944F0402B Tyumen TYUMENSKAYA PRAVDA in Russian 10 Feb 94 p 1 </F>
+<F P="103"> 944F0402B </F>
+<F P="104">  Tyumen TYUMENSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report of Tyumen Oblast Statistics Committee: "More New </F>
+<F P="106"> [Report of Tyumen Oblast Statistics Committee: "More New </F>
 Structures, Fewer Products"] 
   [Text] Output and Deliveries of Manufactured 
 Goods: The process of forming new entrepreneurial 
@@ -17068,20 +17069,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Tyumen Statistics Committee Reports 1993 Figures </TI></H3>
 <H4>   More Production Statistics </H4>
-<F P=102> 944F0402C Tyumen TYUMENSKAYA PRAVDA in Russian 15 Feb 94 p 2 </F>
-<F P=103> 944F0402C </F>
-<F P=104>  Tyumen TYUMENSKAYA PRAVDA </F>
+<F P="102"> 944F0402C Tyumen TYUMENSKAYA PRAVDA in Russian 15 Feb 94 p 2 </F>
+<F P="103"> 944F0402C </F>
+<F P="104">  Tyumen TYUMENSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report of Tyumen Oblast Statistics Committee: "Work in </F>
+<F P="106"> [Report of Tyumen Oblast Statistics Committee: "Work in </F>
 `Automatic Stop' Mode"] 
   [Text] Industrial enterprises in the oblast employed 
 304,500 people in January-November 1993: 52 percent in the 
@@ -17146,19 +17147,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   9 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Tyumen Counterintelligence Service Restructured </TI></H3>
-<F P=102>  944F0403A Tyumen TYUMENSKAYA PRAVDA in Russian 9 Feb 94 p 1 </F>
-<F P=103> 944F0403A </F>
-<F P=104>  Tyumen TYUMENSKAYA PRAVDA </F>
+<F P="102">  944F0403A Tyumen TYUMENSKAYA PRAVDA in Russian 9 Feb 94 p 1 </F>
+<F P="103"> 944F0403A </F>
+<F P="104">  Tyumen TYUMENSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Press release of Tyumen Oblast Administration of Federal </F>
+<F P="106"> [Press release of Tyumen Oblast Administration of Federal </F>
 Counterintelligence Service: "Tyumen Counterintelligence Will Be 
 Regional"] 
   [Text] Colonel-General Nikolay Golushko, director of the 
@@ -17198,19 +17199,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Tyumen Law Enforcement Officials Meet Press </TI></H3>
-<F P=102>  944F0403B Tyumen TYUMENSKAYA PRAVDA in Russian 5 Feb 94 p 1 </F>
-<F P=103> 944F0403B </F>
-<F P=104>  Tyumen TYUMENSKAYA PRAVDA </F>
+<F P="102">  944F0403B Tyumen TYUMENSKAYA PRAVDA in Russian 5 Feb 94 p 1 </F>
+<F P="103"> 944F0403B </F>
+<F P="104">  Tyumen TYUMENSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. Grachev: "Not That Bad?"] </F>
+<F P="106"> [Article by V. Grachev: "Not That Bad?"] </F>
   [Text] The heads of oblast law enforcement agencies had a 
 meeting with journalists last Wednesday at the suggestion of the 
 oblast administration. 
@@ -17361,19 +17362,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Tyumen Oblast, Autonomous Okrugs Negotiate on Treaty </TI></H3>
-<F P=102>  944F0403C Tyumen TYUMENSKAYA PRAVDA in Russian 15 Feb 94 p 1 </F>
-<F P=103> 944F0403C </F>
-<F P=104>  Tyumen TYUMENSKAYA PRAVDA </F>
+<F P="102">  944F0403C Tyumen TYUMENSKAYA PRAVDA in Russian 15 Feb 94 p 1 </F>
+<F P="103"> 944F0403C </F>
+<F P="104">  Tyumen TYUMENSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by S. Shilnikov, economic correspondent: "The </F>
+<F P="106"> [Article by S. Shilnikov, economic correspondent: "The </F>
 Negotiations Are Over"] 
   [Text] On 11 February "groups of experts from Tyumen 
 Oblast, the Khanty-Mansiysk Autonomous Okrug, and the 
@@ -17470,19 +17471,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Komsomolsk-on-Amur, Sakhalin Clash Over Gas Pricing </TI></H3>
-<F P=102>  944F0431A Moscow IZVESTIYA in Russian 10 Mar 94 p 2 </F>
-<F P=103> 944F0431A </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="102">  944F0431A Moscow IZVESTIYA in Russian 10 Mar 94 p 2 </F>
+<F P="103"> 944F0431A </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Boris Reznik, IZVESTIYA staff: "Sakhalin, Too, </F>
+<F P="106"> [Article by Boris Reznik, IZVESTIYA staff: "Sakhalin, Too, </F>
 Is Beginning a `Gas' War"] 
   [Text] Khabarovsk Kray--Gas stoves are not working in the 
 homes of residents of Komsomolsk-on-Amur, and primus and 
@@ -17539,19 +17540,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Arkhangelsk Banker Reports Nomenklatura Machinations </TI></H3>
-<F P=102>  944F0423A Moscow ROSSIYSKIYE VESTI in Russian 3 Mar 94 p 2 </F>
-<F P=103> 944F0423A </F>
-<F P=104>  Moscow ROSSIYSKIYE VESTI </F>
+<F P="102">  944F0423A Moscow ROSSIYSKIYE VESTI in Russian 3 Mar 94 p 2 </F>
+<F P="103"> 944F0423A </F>
+<F P="104">  Moscow ROSSIYSKIYE VESTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Pavel Anokhin: "Solovetsk Miracles, or How 434 </F>
+<F P="106"> [Article by Pavel Anokhin: "Solovetsk Miracles, or How 434 </F>
 Voters Cast 1604 Ballots"] 
   [Text] Passions aroused by the December parliamentary 
 elections have not yet settled, and now Russians will have new 
@@ -17738,21 +17739,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Maritime Kray Struggles To Save Economy </TI></H3>
-<F P=102>  944F0445B Vladivostok KRASNOYE ZNAMYA in Russian 15 Mar 94 p 
+<F P="102">  944F0445B Vladivostok KRASNOYE ZNAMYA in Russian 15 Mar 94 p 
 1 </F>
 
-<F P=103> 944F0445B </F>
-<F P=104>  Vladivostok KRASNOYE ZNAMYA </F>
+<F P="103"> 944F0445B </F>
+<F P="104">  Vladivostok KRASNOYE ZNAMYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dmitriy Latypov: "Alas, Moscow Has Cooled Toward </F>
+<F P="106"> [Article by Dmitriy Latypov: "Alas, Moscow Has Cooled Toward </F>
 Us: The Center Is Far Away, Economy Is a Shambles, and Only We 
 Ourselves Can Save the Kray"] 
   [Text] This was more or less the tone of the conference 
@@ -17876,21 +17877,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   16 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Railways Official on New Tariffs </TI></H3>
-<F P=102>  944F0446B Vladivostok KRASNOYE ZNAMYA in Russian 16 Mar 94 p 
+<F P="102">  944F0446B Vladivostok KRASNOYE ZNAMYA in Russian 16 Mar 94 p 
 1 </F>
 
-<F P=103> 944F0446B </F>
-<F P=104>  Vladivostok KRASNOYE ZNAMYA </F>
+<F P="103"> 944F0446B </F>
+<F P="104">  Vladivostok KRASNOYE ZNAMYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by German Orlovskiy: "The Debt Predicament"] </F>
+<F P="106"> [Article by German Orlovskiy: "The Debt Predicament"] </F>
   [Text] The Russian Federation Committee on Pricing Policy 
 has established effective 10 March 1994 the maximum index of 
 tariff increases for freight shipments in intra- and interstate 
@@ -17973,21 +17974,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Novosibirsk Migration Official on Refugees </TI></H3>
-<F P=102>  944F0452A Novosibirsk SOVETSKAYA SIBIR in Russian 15 Mar 94 
+<F P="102">  944F0452A Novosibirsk SOVETSKAYA SIBIR in Russian 15 Mar 94 
 p 2 </F>
 
-<F P=103> 944F0452A </F>
-<F P=104>  Novosibirsk SOVETSKAYA SIBIR </F>
+<F P="103"> 944F0452A </F>
+<F P="104">  Novosibirsk SOVETSKAYA SIBIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Yuriy Moshkov, head of the Novosibirsk </F>
+<F P="106"> [Interview with Yuriy Moshkov, head of the Novosibirsk </F>
 Oblast migration service, and Mikhail Bakshin, his deputy, by 
 SOVETSKAYA SIBIR correspondent G. Sassa; place and date not 
 given: "Siberia Can Be Warm, Too: Refugees' Fate"] 
@@ -18223,21 +18224,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Novosibirsk Land Distribution Detailed </TI></H3>
-<F P=102>  944F0441A Novosibirsk SOVETSKAYA SIBIR in Russian 12 Mar 94 
+<F P="102">  944F0441A Novosibirsk SOVETSKAYA SIBIR in Russian 12 Mar 94 
 p 1 </F>
 
-<F P=103> 944F0441A </F>
-<F P=104>  Novosibirsk SOVETSKAYA SIBIR </F>
+<F P="103"> 944F0441A </F>
+<F P="104">  Novosibirsk SOVETSKAYA SIBIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed report: "Land Distribution"] </F>
+<F P="106"> [Unattributed report: "Land Distribution"] </F>
   [Text] The oblast administration has approved the report on 
 the inventory of lands and their distribution by category, 
 agricultural use, proprietor, land owner, and land user as of 1 
@@ -18271,19 +18272,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Vladivostok Mayor Adds Referendum to Vote </TI></H3>
-<F P=102>  944F0434A Vladivostok VLADIVOSTOK in Russian 11 Mar 94 p 2 </F>
-<F P=103> 944F0434A </F>
-<F P=104>  Vladivostok VLADIVOSTOK </F>
+<F P="102">  944F0434A Vladivostok VLADIVOSTOK in Russian 11 Mar 94 p 2 </F>
+<F P="103"> 944F0434A </F>
+<F P="104">  Vladivostok VLADIVOSTOK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by VLADIVOSTOK correspondent Vladimir Rozanov: "The </F>
+<F P="106"> [Report by VLADIVOSTOK correspondent Vladimir Rozanov: "The </F>
 Mayor Wants the City To Live by a Charter"] 
   [Text] The head of the Vladivostok administration, 
 Viktor Cherepkov, announced in a television address on 9 March 
@@ -18341,19 +18342,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   16 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Vladivostok To Be Polled on City Charter </TI></H3>
-<F P=102>  944F0447A Vladivostok UTRO ROSSII in Russian 16 Mar 94 p 2 </F>
-<F P=103> 944F0447A </F>
-<F P=104>  Vladivostok UTRO ROSSII </F>
+<F P="102">  944F0447A Vladivostok UTRO ROSSII in Russian 16 Mar 94 p 2 </F>
+<F P="103"> 944F0447A </F>
+<F P="104">  Vladivostok UTRO ROSSII </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> ["Proposed Charter of the City of Vladivostok"] </F>
+<F P="106"> ["Proposed Charter of the City of Vladivostok"] </F>
   [Text] 
 <H5>  Popular Referendum </H5>
   [Begin box] 
@@ -18559,19 +18560,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Vladivostok City Manager Runs for Kray Duma </TI></H3>
-<F P=102>  944F0435A Vladivostok UTRO ROSSII in Russian 11 Mar 94 p 1 </F>
-<F P=103> 944F0435A </F>
-<F P=104>  Vladivostok UTRO ROSSII </F>
+<F P="102">  944F0435A Vladivostok UTRO ROSSII in Russian 11 Mar 94 p 1 </F>
+<F P="103"> 944F0435A </F>
+<F P="104">  Vladivostok UTRO ROSSII </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Vladimir Gilgenberg, Vladivostok city </F>
+<F P="106"> [Interview with Vladimir Gilgenberg, Vladivostok city </F>
 manager, by Raisa Fomicheva; place and date not given: 
 "Vladimir Gilgenberg: `There Is Hope...'"] 
   [Text] Vladimir Aleksandrovich Gilgenberg, 38 years 
@@ -18758,21 +18759,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Vladivostok City Manager Shuffles Staff </TI></H3>
-<F P=102>  944F0445A Vladivostok KRASNOYE ZNAMYA in Russian 15 Mar 94 p 
+<F P="102">  944F0445A Vladivostok KRASNOYE ZNAMYA in Russian 15 Mar 94 p 
 1 </F>
 
-<F P=103> 944F0445A </F>
-<F P=104>  Vladivostok KRASNOYE ZNAMYA </F>
+<F P="103"> 944F0445A </F>
+<F P="104">  Vladivostok KRASNOYE ZNAMYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sergey Glushkov: "A Personnel Revolution?"] </F>
+<F P="106"> [Article by Sergey Glushkov: "A Personnel Revolution?"] </F>
   [Text] Last Friday, administrations of three rayons 
 in Vladivostok were literally shocked by an unexpected 
 visit. 
@@ -18817,19 +18818,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Vladivostok Official Interferes With Media </TI></H3>
-<F P=102>  944F0441B Vladivostok UTRO ROSSII in Russian 12 Mar 94 p 1 </F>
-<F P=103> 944F0441B </F>
-<F P=104>  Vladivostok UTRO ROSSII </F>
+<F P="102">  944F0441B Vladivostok UTRO ROSSII in Russian 12 Mar 94 p 1 </F>
+<F P="103"> 944F0441B </F>
+<F P="104">  Vladivostok UTRO ROSSII </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Damir Gaynutdinov under the rubric "The </F>
+<F P="106"> [Article by Damir Gaynutdinov under the rubric "The </F>
 Authorities and the Press": "Dare Not To Have an Opinion--Vice 
 Governor Igor Lebedinets Demanded of our UTRO ROSSII 
 Correspondent"] 
@@ -18948,19 +18949,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   International Conference on Bosnia Under UN Aegis Urged </TI></H3>
-<F P=102>  944Q0226A Moscow NEZAVISIMAYA GAZETA in Russian 4 Mar 94 p 4 </F>
-<F P=103> 944Q0226A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944Q0226A Moscow NEZAVISIMAYA GAZETA in Russian 4 Mar 94 p 4 </F>
+<F P="103"> 944Q0226A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Igor Laptev, Foreign Policy Association: </F>
+<F P="106"> [Article by Igor Laptev, Foreign Policy Association: </F>
 "Conference on Bosnian Conflict Needed"] 
   [Text] The process of reaching a settlement in Bosnia and 
 Herzegovina based on the principle of threat of use of force has 
@@ -19049,21 +19050,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   23 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   RF Diplomacy on Bosnia, Politicking on Foreign Policy Assessed </TI></H3>
-<F P=102>  944Q0233A Moscow OBSHCHAYA GAZETA in Russian No 9, 4-10 Mar 
+<F P="102">  944Q0233A Moscow OBSHCHAYA GAZETA in Russian No 9, 4-10 Mar 
 94 p 7 </F>
 
-<F P=103> 944Q0233A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
+<F P="103"> 944Q0233A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Pavel Kandel: "Russian Policy in the Bosnian </F>
+<F P="106"> [Article by Pavel Kandel: "Russian Policy in the Bosnian </F>
 Mirror"] 
   [Text] Russia's actions in the recent crisis around 
 Sarajevo can be relegated to a number of rare successes from the 
@@ -19216,21 +19217,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   23 March 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Brutents Ponders Russia's Position Between East, West </TI></H3>
-<F P=102>  944Q0212A Moscow INTERNATIONAL AFFAIRS in English No 1-2, 
+<F P="102">  944Q0212A Moscow INTERNATIONAL AFFAIRS in English No 1-2, 
 Jan-Feb 94 [Signed to press 26 Jan 94] pp 40-44 </F>
 
-<F P=103> 944Q0212A </F>
-<F P=104>  Moscow INTERNATIONAL AFFAIRS </F>
+<F P="103"> 944Q0212A </F>
+<F P="104">  Moscow INTERNATIONAL AFFAIRS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> ["Viewpoint" article by Karen Brutents, doctor of historical </F>
+<F P="106"> ["Viewpoint" article by Karen Brutents, doctor of historical </F>
 sciences and adviser to the president of the Political Studies 
 Foundation: "Russia and the East"] 
   [Text] Russia is in transition in almost every respect. 
@@ -19543,3 +19544,4 @@ many forecasts.
 </TEXT>
 
 </DOC>
+</root>

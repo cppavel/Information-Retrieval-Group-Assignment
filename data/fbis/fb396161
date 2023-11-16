@@ -1,3 +1,4 @@
+<root>
 <DOC>
 <DOCNO> FBIS3-42500 </DOCNO>
 <HT>  "jpuma008___94030" </HT>
@@ -12,19 +13,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> UKRAINE </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> UKRAINE </F>
 <H3> <TI>   Regional SOU Leader Discusses Military Doctrine </TI></H3>
-<F P=102>  AU0802090294 Lvov ZA VILNU UKRAYINU in Ukrainian 1 Feb 94 p 2 </F>
-<F P=103> AU0802090294 </F>
-<F P=104>  Lvov ZA VILNU UKRAYINU </F>
+<F P="102">  AU0802090294 Lvov ZA VILNU UKRAYINU in Ukrainian 1 Feb 94 p 2 </F>
+<F P="103"> AU0802090294 </F>
+<F P="104">  Lvov ZA VILNU UKRAYINU </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Colonel Mykola Vasylkevych, head of the Lvov </F>
+<F P="106"> [Interview with Colonel Mykola Vasylkevych, head of the Lvov </F>
 Oblast organization of Ukraine's Officers Union [SOU], by Mariya 
 Bazelyuk; place and date not given: "Ukraine's Military 
 Doctrine Rules Out Full Unilateral Disarmament"] 
@@ -163,19 +164,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> BALTIC STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> BALTIC STATES </F>
 <H3> <TI>   Current Status of Latvian Armed Forces </TI></H3>
-<F P=102>  944K0684A Moscow IZVESTIYA in Russian 4 Feb 94 p 5 </F>
-<F P=103> 944K0684A </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="102">  944K0684A Moscow IZVESTIYA in Russian 4 Feb 94 p 5 </F>
+<F P="103"> 944K0684A </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Irina Litvinova, IZVESTIYA: "The Latvian Army: </F>
+<F P="106"> [Article by Irina Litvinova, IZVESTIYA: "The Latvian Army: </F>
 `Green Beret' Experience Plus Soviet Training"] 
   [Text] The security of the state is becoming a priority for 
 the government; Prime Minister of Latvia Valdis Birkavs has 
@@ -359,19 +360,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> BALTIC STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> BALTIC STATES </F>
 <H3> <TI>   Baltic States Plan for Military Cooperation </TI></H3>
-<F P=102>  94UM0169A Moscow KRASNAYA ZVEZDA in Russian 15 Jan 94 p 3 </F>
-<F P=103> 94UM0169A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0169A Moscow KRASNAYA ZVEZDA in Russian 15 Jan 94 p 3 </F>
+<F P="103"> 94UM0169A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by KRASNAYA ZVEZDA Correspondents Captains 1st Rank </F>
+<F P="106"> [Article by KRASNAYA ZVEZDA Correspondents Captains 1st Rank </F>
 Vladimir Urban and Valeriy Gromak, under the rubric: "Military 
 Review":"`If We Can Just Hold Out for Another Year' -- After 
 That the Baltic Countries Hope To Form a Military Alliance"] 
@@ -475,7 +476,7 @@ end of 1994 which will then be placed at the disposal of UN
 peacekeeping forces. 
 
 
-<FIG ID=JPRS-UMA-008C-48A>           Diagram of One Possible Variant of the Future Alliance </FIG>
+<FIG ID="JPRS-UMA-008C-48A">           Diagram of One Possible Variant of the Future Alliance </FIG>
 
 
   They plan to deploy the battalion at Alitus 
@@ -577,19 +578,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> CAUCASIAN STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> CAUCASIAN STATES </F>
 <H3> <TI>   Georgian Artillery Fires Into Abkhazia </TI></H3>
-<F P=102>  94UM0223A Moscow KRASNAYA ZVEZDA in Russian 8 Feb 94 p 3 </F>
-<F P=103> 94UM0223A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0223A Moscow KRASNAYA ZVEZDA in Russian 8 Feb 94 p 3 </F>
+<F P="103"> 94UM0223A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by Vitaliy Denisov: "They Are Firing Again on the </F>
+<F P="106"> [Report by Vitaliy Denisov: "They Are Firing Again on the </F>
 Inguri"] 
   [Text] 
 <H3>  Abkhazians and Georgians Accuse of One Another of Heating up 
@@ -638,21 +639,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> ARMS TRADE </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> ARMS TRADE </F>
 <H3> <TI>   V-Adm Kravchenko of Baltic Fleet on Auction of Obsolete Equipment </TI></H3>
-<F P=102>  WS1102171994 Kaliningrad KALININGRADSKAYA PRAVDA in Russian 
+<F P="102">  WS1102171994 Kaliningrad KALININGRADSKAYA PRAVDA in Russian 
 8 Feb 94 p 7 </F>
 
-<F P=103> WS1102171994 </F>
-<F P=104>  Kaliningrad KALININGRADSKAYA PRAVDA </F>
+<F P="103"> WS1102171994 </F>
+<F P="104">  Kaliningrad KALININGRADSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Baltic Fleet Vice-Admiral Viktor Kravchenko </F>
+<F P="106"> [Interview with Baltic Fleet Vice-Admiral Viktor Kravchenko </F>
 by Captain First Rank V. Gromak under the "Pressing" rubric; 
 place and date not given: "Used Combat Ships Come Under the 
 Hammer" -- first paragraph is KALININGRADSKAYA PRAVDA 
@@ -740,19 +741,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> ARMS TRADE </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> ARMS TRADE </F>
 <H3> <TI>   Ukraine Offers Submarine to Iran </TI></H3>
-<F P=102>  94UM0223B Moscow KRASNAYA ZVEZDA in Russian 4 Feb 94 p 3 </F>
-<F P=103> 94UM0223B </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0223B Moscow KRASNAYA ZVEZDA in Russian 4 Feb 94 p 3 </F>
+<F P="103"> 94UM0223B </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report under the rubric "Military Reports From Abroad": </F>
+<F P="106"> [Report under the rubric "Military Reports From Abroad": </F>
 "Ukraine Has Offered To Sell Iran a Submarine"] 
   [Text] The Saudi newspaper AS SHARQ AL AWSAT has reported 
 that Ukraine has offered to sell "a considerable portion of its 
@@ -780,21 +781,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Voronin on Industrial Crisis, Naval Construction Halt </TI></H3>
-<F P=102>  PM1102200194 Moscow KRASNAYA ZVEZDA in Russian 10 Feb 94 pp 
+<F P="102">  PM1102200194 Moscow KRASNAYA ZVEZDA in Russian 10 Feb 94 pp 
 1, 2 </F>
 
-<F P=103> PM1102200194 </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="103"> PM1102200194 </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> ["Topical interview" with Gennadiy Voronin, chairman of the </F>
+<F P="106"> ["Topical interview" with Gennadiy Voronin, chairman of the </F>
 Russian Federation State Committee for Defense Sectors of 
 Industry, by Vladimir Gundarov; date and place not given: 
 "Russia's Naval Prestige Bound To Sink Below `Red' Line" -- 
@@ -1058,19 +1059,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Ministry of Defense Appeal on Unpaid Arms Debts </TI></H3>
-<F P=102>  94UM0223C Moscow KRASNAYA ZVEZDA in Russian 3 Feb 94 p 1 </F>
-<F P=103> 94UM0223C </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0223C Moscow KRASNAYA ZVEZDA in Russian 3 Feb 94 p 1 </F>
+<F P="103"> 94UM0223C </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report under the rubric "News": "The Debts Have Not Yet </F>
+<F P="106"> [Report under the rubric "News": "The Debts Have Not Yet </F>
 Been Paid"] 
   [Text] 
 <H5>  From Moscow </H5>
@@ -1104,20 +1105,20 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Antonov Aviation Complex Role in Ukraine's Military Industry </TI></H3>
 <H4>   Radetskyy Visits Design Bureau </H4>
-<F P=102> 94UM0189A Kiev NARODNA ARMIYA in Ukrainian 17 Dec 93 p 1 </F>
-<F P=103> 94UM0189A </F>
-<F P=104>  Kiev NARODNA ARMIYA </F>
+<F P="102"> 94UM0189A Kiev NARODNA ARMIYA in Ukrainian 17 Dec 93 p 1 </F>
+<F P="103"> 94UM0189A </F>
+<F P="104">  Kiev NARODNA ARMIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed news item: "Minister of Defense of Ukraine </F>
+<F P="106"> [Unattributed news item: "Minister of Defense of Ukraine </F>
 Visits KB imeni Antonov"] 
   [Text] Minister of Defense General of the Army of Ukraine 
 Vitaliy Radetskyy yesterday visited the Experimental Design 
@@ -1157,20 +1158,20 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Antonov Aviation Complex Role in Ukraine's Military Industry </TI></H3>
 <H4>   Radetskyy, Oliynyk Briefed on Design, Production </H4>
-<F P=102> 94UN0189B Kiev NARODNA ARMIYA in Ukrainian 21 Dec 93 p 1 </F>
-<F P=103> 94UN0189B </F>
-<F P=104>  Kiev NARODNA ARMIYA </F>
+<F P="102"> 94UN0189B Kiev NARODNA ARMIYA in Ukrainian 21 Dec 93 p 1 </F>
+<F P="103"> 94UN0189B </F>
+<F P="104">  Kiev NARODNA ARMIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:CSO 
 
-<F P=106> [Article by NARODNA ARMIYA correspondent Senior Lieutenant </F>
+<F P="106"> [Article by NARODNA ARMIYA correspondent Senior Lieutenant </F>
 Serhiy Zhurets: "Ukrainian Aviation Has Solid Wings"] 
   [Text] As we have already reported, Minister of 
 Defense General of the Army of Ukraine Vitaliy Radetskyy, Deputy 
@@ -1290,20 +1291,20 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Antonov Aviation Complex Role in Ukraine's Military Industry </TI></H3>
 <H4>   First An-70 Result of Interrepublic Cooperation </H4>
-<F P=102> 94UM0189C Kiev NARODNA ARMIYA in Ukrainian 22 Jan 94 p 1 </F>
-<F P=103> 94UM0189C </F>
-<F P=104>  Kiev NARODNA ARMIYA </F>
+<F P="102"> 94UM0189C Kiev NARODNA ARMIYA in Ukrainian 22 Jan 94 p 1 </F>
+<F P="103"> 94UM0189C </F>
+<F P="104">  Kiev NARODNA ARMIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:CSO 
 
-<F P=106> [NA news item under the rubric "Event": "The First An-70 </F>
+<F P="106"> [NA news item under the rubric "Event": "The First An-70 </F>
 Exists!"] 
   [Text] The new An-70 transport aircraft could be considered 
 the latest achievement of the Ukrainian aircraft builders, 
@@ -1350,19 +1351,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> SECURITY SERVICES </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> SECURITY SERVICES </F>
 <H3> <TI>   Yeltsin Names Deputy Counterintelligence Directors </TI></H3>
-<F P=102>  94UM0224A Moscow KRASNAYA ZVEZDA in Russian 3 Feb 94 p 1 </F>
-<F P=103> 94UM0224A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0224A Moscow KRASNAYA ZVEZDA in Russian 3 Feb 94 p 1 </F>
+<F P="103"> 94UM0224A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [News item from Moscow: "Vacancies in Counterintelligence </F>
+<F P="106"> [News item from Moscow: "Vacancies in Counterintelligence </F>
 Gradually Being Filled"] 
   [Text] President of the Russian Federation Boris Yeltsin 
 has ordered the appointment of directors of the main 
@@ -1391,21 +1392,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> SECURITY SERVICES </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> SECURITY SERVICES </F>
 <H3> <TI>   Duma Security Committee's Agenda Outlined </TI></H3>
-<F P=102>  PM1702132194 Moscow ROSSIYSKAYA GAZETA in Russian 15 Feb 94 
+<F P="102">  PM1702132194 Moscow ROSSIYSKAYA GAZETA in Russian 15 Feb 94 
 First Edition pp 1, 2 </F>
 
-<F P=103> PM1702132194 </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="103"> PM1702132194 </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Viktor Ilyukhin, chairman of the State Duma </F>
+<F P="106"> [Interview with Viktor Ilyukhin, chairman of the State Duma </F>
 Security Committee, by Valentin Maslennikov; date and place not 
 given: "Without Bias or Timidity" -- first paragraph is 
 introduction] 
@@ -1595,13 +1596,13 @@ just like the concept of security itself.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Description of Control Associated With Placement of 
 Spacecraft in Vicinity of L Point of Sun-Earth 
 System Via Use of Lunar Gravity (Relict-2 Mission) </TI></H3>
@@ -1609,15 +1610,15 @@ System Via Use of Lunar Gravity (Relict-2 Mission) </TI></H3>
 
 <TEXT>
 [.sup]2[/] 
-<F P=102>  937Q0059A Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
+<F P="102">  937Q0059A Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
 31 No 5, Sep-Oct 93 pp 3-20 </F>
 
-<F P=103> 937Q0059A </F>
-<F P=104>  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
- Language: <F P=105>Russian </F>
+<F P="103"> 937Q0059A </F>
+<F P="104">  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
+ Language: <F P="105">Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. L. Lidov, V. A. Lyakhova, N. M. Teslenko; UDC </F>
+<F P="106"> [Article by M. L. Lidov, V. A. Lyakhova, N. M. Teslenko; UDC </F>
 629.197.23] 
   [Abstract] Until recently, trajectory designs have involved 
 a single-stage, one-impulse flight to halo orbit near libration 
@@ -1659,26 +1660,26 @@ launches in October and November 1994. Figures 4, references 5:
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Optimal Spatial Transfer of a Spacecraft Between the Lunar Surface and Artificial Lunar Satellite Orbit </TI></H3>
-<F P=102>  937Q0059B Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
+<F P="102">  937Q0059B Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
 31 No 5, Sep-Oct 93 pp 34-52 </F>
 
-<F P=103> 937Q0059B </F>
-<F P=104>  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
+<F P="103"> 937Q0059B </F>
+<F P="104">  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by K. G. Grigoryev, Ye. V. Zapletina, M. P. </F>
+<F P="106"> [Article by K. G. Grigoryev, Ye. V. Zapletina, M. P. </F>
 Zapletin; UDC 629.195.3] 
   [Abstract] In earlier works, the researchers examined 
 optimal transfers between the lunar surface and lunar orbit for 
@@ -1711,26 +1712,26 @@ conditions. Figures 5, references 33 (Russian).
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Optical Emissions of Pulsed Cosmic Source of 1 keV X-ray Beam </TI></H3>
-<F P=102>  937Q0059C Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
+<F P="102">  937Q0059C Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
 31 No 5, Sep-Oct 93 pp 78-83 </F>
 
-<F P=103> 937Q0059C </F>
-<F P=104>  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
+<F P="103"> 937Q0059C </F>
+<F P="104">  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by K. S. Mozgov; UDC 523.165;538.561;551.593] </F>
+<F P="106"> [Article by K. S. Mozgov; UDC 523.165;538.561;551.593] </F>
   [Abstract] A great deal of practical value attaches to the 
 study of the propagation in the Earth's atmosphere of x-ray 
 emissions from deep-space nuclear explosions and the secondary 
@@ -1765,26 +1766,26 @@ closer the site is to the beam, the faster the intensity grows
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Space-Time Correlation Between Earthquakes and Variations in High-Energy Particle Flux in the Inner Radiation Belt </TI></H3>
-<F P=102>  937Q0059D Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
+<F P="102">  937Q0059D Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
 31 No 5, Sep-Oct 93 pp 84-90 </F>
 
-<F P=103> 937Q0059D </F>
-<F P=104>  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
+<F P="103"> 937Q0059D </F>
+<F P="104">  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. P. Pustovetov, A. B. Malyshev; UDC </F>
+<F P="106"> [Article by V. P. Pustovetov, A. B. Malyshev; UDC </F>
 523.037:525.7] 
   [Abstract] The search for phenomena tying anomalous 
 variations in certain physical characteristics of near-Earth 
@@ -1807,7 +1808,7 @@ of high-energy particles trapped by the geomagnetic field and
 geoseismic activity. Analysis of the relationship between number 
 of earthquakes and difference between the time of main shock and 
 time of deviation of particle flux has produced a figure of 
-øt 
+ï¿½t 
 as approximately 2.5 hours. The researchers here set out to 
 either confirm that finding or refute it by examining data 
 obtained for the period of 16 June to 16 July 1990. They studied 
@@ -1816,7 +1817,7 @@ and focused near the L parameter corresponding to a projection
 of the earthquake coordinates to an altitude of 100 km. 
 Sixty-four percent of the earthquakes occurring within the 
 stated time frame were in a region whose center had the 
-coordinates of 37ëN lat, 49.5ëE long. The researchers 
+coordinates of 37ï¿½N lat, 49.5ï¿½E long. The researchers 
 confirmed a space-time correlation between earthquakes with a 
 magnitude of 3 or greater and the anomalous variation. Figures 
 3, references 13: 11 Russian, 2 Western. 
@@ -1833,26 +1834,26 @@ magnitude of 3 or greater and the anomalous variation. Figures
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Effect of Fractal Geometry of Spatial Distribution of Radiating Electrons on Spectrum of Cosmic Radio Emissions </TI></H3>
-<F P=102>  937Q0056 Moscow ASTRONOMICHESKIY ZHURNAL in Russian Vol 70 
+<F P="102">  937Q0056 Moscow ASTRONOMICHESKIY ZHURNAL in Russian Vol 70 
 No 5, Sep-Oct 93 pp 1120-1122 </F>
 
-<F P=103> 937Q0056 </F>
-<F P=104>  Moscow ASTRONOMICHESKIY ZHURNAL </F>
+<F P="103"> 937Q0056 </F>
+<F P="104">  Moscow ASTRONOMICHESKIY ZHURNAL </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. D. Noskov, Tomsk State University; UDC </F>
+<F P="106"> [Article by M. D. Noskov, Tomsk State University; UDC </F>
 524.7-77] 
   [Abstract] According to radio astronomy data, many cosmic 
 radiation sources have a spectrum in which F(_n_) is 
@@ -1889,26 +1890,26 @@ distribution was found to be 1.08 +/-0.15 in the range of
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Measures To Deal With Problem of Space Debris Urged </TI></H3>
-<F P=102>  947Q0040A Moscow IZVESTIYA in Russian 11 Dec 93 First 
+<F P="102">  947Q0040A Moscow IZVESTIYA in Russian 11 Dec 93 First 
 Edition p 15 </F>
 
-<F P=103> 947Q0040A </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="103"> 947Q0040A </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Kim Smirnov: "A General Cleanup of Space Must </F>
+<F P="106"> [Article by Kim Smirnov: "A General Cleanup of Space Must </F>
 Begin"; the first paragraph is an introduction] 
   [Text] Who does not know the words from the "Little Prince" 
 by Saint-Exupery: "He got up in the morning, washed up, put 
@@ -2048,26 +2049,26 @@ heads.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE ENGINEERING </F>
+<F P="100"> SPACE ENGINEERING </F>
 <H3> <TI>   Russia's Position in World Aerospace Materials Market </TI></H3>
-<F P=102>  947Q0048A Moscow KOMMERSANT DAILY in Russian No 239, 11 Dec 
+<F P="102">  947Q0048A Moscow KOMMERSANT DAILY in Russian No 239, 11 Dec 
 93 p 8 </F>
 
-<F P=103> 947Q0048A </F>
-<F P=104>  Moscow KOMMERSANT DAILY </F>
+<F P="103"> 947Q0048A </F>
+<F P="104">  Moscow KOMMERSANT DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sergey Morgachev and Igor Vershinin: "The World </F>
+<F P="106"> [Article by Sergey Morgachev and Igor Vershinin: "The World </F>
 Market Is Interested in the `Know-How' of Russian Aerospace 
 Materials Science"; the first paragraph is an introduction; the 
 last three paragraphs provide general information] 
@@ -2090,7 +2091,7 @@ and our expert Igor Vershinin comment on the situation in this
 market. 
 
 
-<FIG ID=JPRS-USP-001C-10A>           World market for aerospace materials </FIG>
+<FIG ID="JPRS-USP-001C-10A">           World market for aerospace materials </FIG>
 
 
 
@@ -2275,24 +2276,24 @@ components of fuel tanks.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE ENGINEERING </F>
+<F P="100"> SPACE ENGINEERING </F>
 <H3> <TI>   Fly-Back Booster Said To Be Most Promising Design for Reusable Aerospace System </TI></H3>
-<F P=102>  947Q0044A Moscow NEZAVISIMAYA GAZETA in Russian 14 Dec 93 p 6 </F>
-<F P=103> 947Q0044A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  947Q0044A Moscow NEZAVISIMAYA GAZETA in Russian 14 Dec 93 p 6 </F>
+<F P="103"> 947Q0044A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lev Kamanin, candidate of technical sciences: "A </F>
+<F P="106"> [Article by Lev Kamanin, candidate of technical sciences: "A </F>
 Single Step From Cosmic to Comical. Curious End to Discredited 
 Offspring of the Cold War Era"] 
   [Text] Five years have elapsed since the day of the first 
@@ -2436,26 +2437,26 @@ airliner descend along the stairs. They are to be envied!
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE ENGINEERING </F>
+<F P="100"> SPACE ENGINEERING </F>
 <H3> <TI>   Air-Launch of Converted SLBMs Planned for 1996-97 </TI></H3>
-<F P=102>  947Q0038A Moscow MOSKOVSKIYE NOVOSTI in Russian No 44, 31 
+<F P="102">  947Q0038A Moscow MOSKOVSKIYE NOVOSTI in Russian No 44, 31 
 Oct 93 p B12 </F>
 
-<F P=103> 947Q0038A </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 947Q0038A </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrey Lomanov: "Aerokosmos Will Be Launched in </F>
+<F P="106"> [Article by Andrey Lomanov: "Aerokosmos Will Be Launched in </F>
 Two Years. Sea-Based Missiles Also Are Launchable From Aircraft"] 
   [Text] All modern Russian ballistic missiles (SLBMs) with 
 which navy submarines have been outfitted have been constructed 
@@ -2511,31 +2512,31 @@ in the reoutfitting of SLBM intend to take part in the project.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE ENGINEERING </F>
+<F P="100"> SPACE ENGINEERING </F>
 <H3> <TI>   Remote Manipulator Arm for Buran Tested </TI></H3>
-<F P=102>  947Q0038B Moscow MASHINOSTROITEL in Russian Sep 93 p 2 </F>
-<F P=103> 947Q0038B </F>
-<F P=104>  Moscow MASHINOSTROITEL </F>
+<F P="102">  947Q0038B Moscow MASHINOSTROITEL in Russian Sep 93 p 2 </F>
+<F P="103"> 947Q0038B </F>
+<F P="104">  Moscow MASHINOSTROITEL </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Unsigned item: "Arm for the Buran"] </F>
+<F P="106"> [Unsigned item: "Arm for the Buran"] </F>
   [Text] St. Petersburg. At the Central Scientific Research 
 Institute of Robot Technology and Technical Cybernetics 
 specialists are completing testing a manipulator for the Buran, 
 a multiply reusable space ship. 
 
 
-<FIG ID=JPRS-USP-001C-14A>           Spatial Tests of the Manipulator </FIG>
+<FIG ID="JPRS-USP-001C-14A">           Spatial Tests of the Manipulator </FIG>
 
 
   This original development of the body of institute 
@@ -2563,26 +2564,26 @@ manipulator.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE APPLICATIONS </F>
+<F P="100"> SPACE APPLICATIONS </F>
 <H3> <TI>   Annual, Semiannual, and Seasonal Variations of Total Ozone as Deduced From TOMS Data for the Region of St. Petersburg </TI></H3>
-<F P=102>  937Q0058A Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
+<F P="102">  937Q0058A Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
 No 5, Sep-Oct 93 pp 18-26 </F>
 
-<F P=103> 937Q0058A </F>
-<F P=104>  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
+<F P="103"> 937Q0058A </F>
+<F P="104">  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by K. Ya. Kondratyev, K. Varotsos, International </F>
+<F P="106"> [Article by K. Ya. Kondratyev, K. Varotsos, International </F>
 Center for the Environment and Remote Sensing imeni Nansen, St. 
 Petersburg; Applied Physics Faculty, Athens University; UDC 
 558.88.042.4:551.534] 
@@ -2616,26 +2617,26 @@ Russian, 17 Western.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE APPLICATIONS </F>
+<F P="100"> SPACE APPLICATIONS </F>
 <H3> <TI>   Recursive Nonlinear Filtration of Binary Images </TI></H3>
-<F P=102>  937Q0058B Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
+<F P="102">  937Q0058B Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
 No 5, Sep-Oct 93 pp 51-56 </F>
 
-<F P=103> 937Q0058B </F>
-<F P=104>  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
+<F P="103"> 937Q0058B </F>
+<F P="104">  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. V. Yanshin, Institute of Animal Evolutional </F>
+<F P="106"> [Article by V. V. Yanshin, Institute of Animal Evolutional </F>
 Morphology and Ecology imeni A. N. Severtsov, Moscow; UDC 
 391.621.25] 
   [Abstract] Images produced in the sensing of the Earth's 
@@ -2649,9 +2650,9 @@ filter is compared with that of a nonrecursive filter (maximum
 probabilities of events are y = 1 and y = 0. With p = 0.1, the 
 recursive filter produced a probability value of P(y = 1) = 
 0.0122, whereas the nonrecursive filter produced a value of P(y 
-= 1) = 0.28 &gt;  0.0122. With p = 0.9, the values changed to P(y 
+= 1) = 0.28  gt;  0.0122. With p = 0.9, the values changed to P(y 
 = 
-1) = 0.9882 and P(y = 1) = 0.972 &lt; 0.9882, respectively. By 
+1) = 0.9882 and P(y = 1) = 0.972  lt; 0.9882, respectively. By 
 and 
 large, a (2/3)[.sup]3[/] recursive filter produced better 
 values than those of a similar nonrecursive filter. References 
@@ -2669,28 +2670,28 @@ values than those of a similar nonrecursive filter. References
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE APPLICATIONS </F>
+<F P="100"> SPACE APPLICATIONS </F>
 <H3> <TI>   Combined Use of Onboard Standards and Reference Areas of the 
 Ocean Surface for Calibrating Satellite-Based Microwave 
 Radiometer Measurements </TI></H3>
-<F P=102>  937Q0058C Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
+<F P="102">  937Q0058C Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
 No 5, Sep-Oct 93 pp 57-65 </F>
 
-<F P=103> 937Q0058C </F>
-<F P=104>  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
+<F P="103"> 937Q0058C </F>
+<F P="104">  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by B. Z. Petrenko, Institute of Radio Engineering </F>
+<F P="106"> [Article by B. Z. Petrenko, Institute of Radio Engineering </F>
 and Electronics, Russian Academy of Sciences, Moscow; UDC 
 528.852.4] 
   [Abstract] Reliable absolute calibration of microwave 
@@ -2730,28 +2731,28 @@ Figures 6, references 12: 10 Russian, 2 Western.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE APPLICATIONS </F>
+<F P="100"> SPACE APPLICATIONS </F>
 <H3> <TI>   Meeting of the Section `Space-Based Natural-Resource and 
 Ecological Research' of the Russian Academy of Sciences Space 
 Council </TI></H3>
-<F P=102>  937Q0058D Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
+<F P="102">  937Q0058D Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA in Russian 
 No 5, Sep-Oct 93 pp 122-124 </F>
 
-<F P=103> 937Q0058D </F>
-<F P=104>  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
+<F P="103"> 937Q0058D </F>
+<F P="104">  Moscow ISSLEDOVANIYE ZEMLI IZ KOSMOSA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. G. Krasnogorskiy, P. A. Shirokov; UDC 528.8] </F>
+<F P="106"> [Article by M. G. Krasnogorskiy, P. A. Shirokov; UDC 528.8] </F>
   [Abstract] The Space-Based Natural-Resource and Ecological 
 Research Section of the Russian Academy of Sciences Space 
 Council met on 15 March 1993, in Moscow. The meeting was devoted 
@@ -2796,26 +2797,26 @@ study of propagation of surface and internal waves).
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE APPLICATIONS </F>
+<F P="100"> SPACE APPLICATIONS </F>
 <H3> <TI>   Russia's Position in World Market for Space-Based Monitoring Systems </TI></H3>
-<F P=102>  947Q0041A Moscow KOMMERSANT DAILY in Russian No 234, 4 Dec 
+<F P="102">  947Q0041A Moscow KOMMERSANT DAILY in Russian No 234, 4 Dec 
 93 p 8 </F>
 
-<F P=103> 947Q0041A </F>
-<F P=104>  Moscow KOMMERSANT DAILY </F>
+<F P="103"> 947Q0041A </F>
+<F P="104">  Moscow KOMMERSANT DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sergey Morgachev and Ilya Neyman: "The World </F>
+<F P="106"> [Article by Sergey Morgachev and Ilya Neyman: "The World </F>
 Must Be Viewed From Above"; the first paragraph is an 
 introduction and the last six paragraphs provide general 
 information] 
@@ -2914,7 +2915,7 @@ the share of Russia in the primary world market for satellite
 photographs and their derivatives in any case does not exceed 
 1%. 
 
-<FIG ID=JPRS-USP-001C-17A>           World (primary, commercial) </FIG>
+<FIG ID="JPRS-USP-001C-17A">           World (primary, commercial) </FIG>
 
 
 
@@ -3048,26 +3049,26 @@ commercial firms.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Commentary on Statute for State Support to Space Sector </TI></H3>
-<F P=102>  947Q0069A Moscow NEZAVISIMAYA GAZETA in Russian 14 Jan 94 pp 
+<F P="102">  947Q0069A Moscow NEZAVISIMAYA GAZETA in Russian 14 Jan 94 pp 
 1, 2 </F>
 
-<F P=103> 947Q0069A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="103"> 947Q0069A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dmitriy Payson: "Russian Cosmonautics: Ordered </F>
+<F P="106"> [Article by Dmitriy Payson: "Russian Cosmonautics: Ordered </F>
 To Concentrate. The Need Has Arisen for Restructuring"] 
   [Text] A resolution of the government of the Russian 
 Federation entitled "State Support and Protection of Space 
@@ -3234,26 +3235,26 @@ Isabella of Castile to finance the voyage of Columbus.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Russian Space Policy Said To Repeat Past Mistakes </TI></H3>
-<F P=102>  947Q0068A Moscow MOSKOVSKIYE NOVOSTI in Russian No 52, 29 
+<F P="102">  947Q0068A Moscow MOSKOVSKIYE NOVOSTI in Russian No 52, 29 
 Dec 93 p B12 </F>
 
-<F P=103> 947Q0068A </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 947Q0068A </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Aleksandr Borodulin: "Space Expenditures Enter </F>
+<F P="106"> [Article by Aleksandr Borodulin: "Space Expenditures Enter </F>
 the Budget as a Separate Item. Oriented on Large-Scale 
 Prestigious Manned Flights, Russian Cosmonautics May Repeat the 
 Errors of the Soviets"] 
@@ -3336,26 +3337,26 @@ the branch ignored commercial cosmonautics.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Current Economic Situation at TsAGI </TI></H3>
-<F P=102>  947Q0068B Moscow MOSKOVSKIYE NOVOSTI in Russian No 50, 12 
+<F P="102">  947Q0068B Moscow MOSKOVSKIYE NOVOSTI in Russian No 50, 12 
 Dec 93 p B10 </F>
 
-<F P=103> 947Q0068B </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 947Q0068B </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrey Baranovskiy: "TsAGI Has Reduced the </F>
+<F P="106"> [Article by Andrey Baranovskiy: "TsAGI Has Reduced the </F>
 Volume of Aircraft Tests By Two-Thirds. Foreign Aerospace Firms 
 Provide One-Third of the Orders for the Largest Aviation 
 Scientific Research Institute"] 
@@ -3420,24 +3421,24 @@ Lyubertsy, Lytkarino, Reutovo and Balashikha.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Commentary on Current Space Policy Issues </TI></H3>
-<F P=102>  947Q0055A Moscow SEGODNYA in Russian 30 Dec 93 p 8 </F>
-<F P=103> 947Q0055A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  947Q0055A Moscow SEGODNYA in Russian 30 Dec 93 p 8 </F>
+<F P="103"> 947Q0055A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Mikhail Chernyshov: "`Seriuses' Descend From </F>
+<F P="106"> [Article by Mikhail Chernyshov: "`Seriuses' Descend From </F>
 Orbit. But Life in Orbit Continues"] 
   [Text] Once each of our space attainments was broadly 
 discussed in the smallest detail. Now, probably, there are few 
@@ -3559,24 +3560,24 @@ world for these rockets.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Belarus Space Enterprises Continue Support of CIS Space Program </TI></H3>
-<F P=102>  947Q0054A Moscow DELOVOY MIR in Russian 28 Dec 93 p 4 </F>
-<F P=103> 947Q0054A </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="102">  947Q0054A Moscow DELOVOY MIR in Russian 28 Dec 93 p 4 </F>
+<F P="103"> 947Q0054A </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dmitriy Patyko: "Belarus: It's More Costly To </F>
+<F P="106"> [Article by Dmitriy Patyko: "Belarus: It's More Costly To </F>
 Leave Space Than to Remain"] 
   [Text] Should Belarus continue its participation in space 
 research programs? An answer to this question has been sought in 
@@ -3684,24 +3685,24 @@ service to a state level."
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Programs, Aims of Ukrainian Space Program </TI></H3>
-<F P=102>  947Q0066A Moscow POISK in Russian No 51, 30 Dec 93 p 13 </F>
-<F P=103> 947Q0066A </F>
-<F P=104>  Moscow POISK </F>
+<F P="102">  947Q0066A Moscow POISK in Russian No 51, 30 Dec 93 p 13 </F>
+<F P="103"> 947Q0066A </F>
+<F P="104">  Moscow POISK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrey Yevtushenko: "Satellite With Zaporozhe </F>
+<F P="106"> [Article by Andrey Yevtushenko: "Satellite With Zaporozhe </F>
 Accent"] 
   [Text] The Ukraine wants to be in space. It has all the 
 prerequisites to make a breakthrough into space. We have the 
@@ -3800,24 +3801,24 @@ found for mankind's problems of space monitoring of the Earth.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Belarus Continuing Work in Space Sector </TI></H3>
-<F P=102>  947Q0065A Moscow POISK in Russian No 51, 30 Dec 93 p 13 </F>
-<F P=103> 947Q0065A </F>
-<F P=104>  Moscow POISK </F>
+<F P="102">  947Q0065A Moscow POISK in Russian No 51, 30 Dec 93 p 13 </F>
+<F P="103"> 947Q0065A </F>
+<F P="104">  Moscow POISK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Olga Tomashevskaya: "Will Space Yield </F>
+<F P="106"> [Article by Olga Tomashevskaya: "Will Space Yield </F>
 Dividends?"] 
   [Text] Space research in Belarus is under the direction of 
 the Technical Cybernetics Institute, Belarus Academy of 
@@ -3935,24 +3936,24 @@ Belarus or those countries which are interested in such work."
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Koptev Press Conference Stresses Benefits to Russia From `Alpha' Space Station Project </TI></H3>
-<F P=102>  937Q0033 Moscow KOMMERSANT DAILY in Russian 17 Nov 93 p 4 </F>
-<F P=103> 937Q0033 </F>
-<F P=104>  Moscow KOMMERSANT DAILY </F>
+<F P="102">  937Q0033 Moscow KOMMERSANT DAILY in Russian 17 Nov 93 p 4 </F>
+<F P="103"> 937Q0033 </F>
+<F P="104">  Moscow KOMMERSANT DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Viktor Zamyatin, under the rubric "Cooperation </F>
+<F P="106"> [Article by Viktor Zamyatin, under the rubric "Cooperation </F>
 Between Russian and the US in Space": "Russia Intends To Work 
 Out an Equitable Partnership"; first paragraph is source 
 introduction] 
@@ -4027,24 +4028,24 @@ the marketing for that.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Cosmonaut Sevastyanov Runs for Legislature as Communist Candidate </TI></H3>
-<F P=102>  937Q0046 Moscow PRAVDA in Russian 11 Dec 93 p 1 </F>
-<F P=103> 937Q0046 </F>
-<F P=104>  Moscow PRAVDA </F>
+<F P="102">  937Q0046 Moscow PRAVDA in Russian 11 Dec 93 p 1 </F>
+<F P="103"> 937Q0046 </F>
+<F P="104">  Moscow PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with V. I. Sevastyanov, USSR pilot-cosmonaut, </F>
+<F P="106"> [Interview with V. I. Sevastyanov, USSR pilot-cosmonaut, </F>
 twice Hero of the Soviet Union, and USSR State Prize laureate, 
 by Valentina Nikiforova: "Once He Told a Parable"; first 
 paragraph is source introduction] 
@@ -4191,24 +4192,24 @@ mixed up with any other.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   U.S. Said To Be Taking Advantage of Russia in New Space Agreements </TI></H3>
-<F P=102>  937Q0043 Moscow YEZHEDNEVNAYA GAZETA in Russian 8 Dec 93 p 3 </F>
-<F P=103> 937Q0043 </F>
-<F P=104>  Moscow YEZHEDNEVNAYA GAZETA </F>
+<F P="102">  937Q0043 Moscow YEZHEDNEVNAYA GAZETA in Russian 8 Dec 93 p 3 </F>
+<F P="103"> 937Q0043 </F>
+<F P="104">  Moscow YEZHEDNEVNAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lev Kamanin, candidate of technical sciences, </F>
+<F P="106"> [Article by Lev Kamanin, candidate of technical sciences, </F>
 docent, and instructor at the Military Air Academy imeni N. Ye. 
 Zhukovskiy, under the rubric "Documents": "Theft in Orbit, Or 
 How Our `Space Achievements' Are Being Put Onto the World 
@@ -4318,24 +4319,24 @@ patiently awaiting the next pittance from a bar stool.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Commercial, Conversion Activities at TsAGI </TI></H3>
-<F P=102>  937Q0042A Moscow NEZAVISIMAYA GAZETA in Russian 30 Nov 93 p 6 </F>
-<F P=103> 937Q0042A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  937Q0042A Moscow NEZAVISIMAYA GAZETA in Russian 30 Nov 93 p 6 </F>
+<F P="103"> 937Q0042A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Kalashnikova, under the rubric "Anniversary": </F>
+<F P="106"> [Article by M. Kalashnikova, under the rubric "Anniversary": </F>
 "Dreaming About the High Heavens, TsAGI Is Busy Making Its Own 
 Boots"] 
   [Text] Throughout its entire 75-year history, the N. Ye. 
@@ -4430,24 +4431,24 @@ prestige in the world.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   NASA Signs MOU on Cooperation With TsAGI </TI></H3>
-<F P=102>  937Q0042B Moscow SEGODNYA in Russian 7 Dec 93 p 3 </F>
-<F P=103> 937Q0042B </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  937Q0042B Moscow SEGODNYA in Russian 7 Dec 93 p 3 </F>
+<F P="103"> 937Q0042B </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Kalashnikova, under the rubric "Partners": </F>
+<F P="106"> [Article by M. Kalashnikova, under the rubric "Partners": </F>
 "TsAGI and NASA Have Signed a Memorandum on Cooperation: The 
 American Side Is Interested in the Russian Intellect and 
 Technologies"] 
@@ -4497,26 +4498,26 @@ A. N. Tupolev designed his first airplanes.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Work Proceeding on Papua-New Guinea Spaceport Project </TI></H3>
-<F P=102>  947Q0045A Moscow FINANSOVYYE IZVESTIYA in Russian No 59, 
+<F P="102">  947Q0045A Moscow FINANSOVYYE IZVESTIYA in Russian No 59, 
 17-23 Dec 93 p 8 </F>
 
-<F P=103> 947Q0045A </F>
-<F P=104>  Moscow FINANSOVYYE IZVESTIYA </F>
+<F P="103"> 947Q0045A </F>
+<F P="104">  Moscow FINANSOVYYE IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Petr Yevseyev, FINANSOVYYE IZVESTIYA </F>
+<F P="106"> [Article by Petr Yevseyev, FINANSOVYYE IZVESTIYA </F>
 correspondent: "International Spaceport Uses Russian Technology"] 
   [Text] Russian space industry is receiving a chance for 
 strengthening its positions in the world and broadening its 
@@ -4528,7 +4529,7 @@ located on one of the islands of Papua-New Guinea and Russian
 specialists will play the leading role in its construction. 
 
 
-<FIG ID=JPRS-USP-001C-30A>           nnot&gt; Key: 1. Equator 2. Papua-New Guinea </FIG>
+<FIG ID="JPRS-USP-001C-30A">           nnot gt; Key: 1. Equator 2. Papua-New Guinea </FIG>
 
 
 
@@ -4611,24 +4612,24 @@ ceased due to pressure from the American side.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Disadvantages to Russia Seen in `Alpha' Space Station Project </TI></H3>
-<F P=102>  947Q0037A Moscow SEGODNYA in Russian 25 Nov 93 p 8 </F>
-<F P=103> 947Q0037A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  947Q0037A Moscow SEGODNYA in Russian 25 Nov 93 p 8 </F>
+<F P="103"> 947Q0037A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Mikhail Chernyshov: "Mir + Freedom = Alpha. The </F>
+<F P="106"> [Article by Mikhail Chernyshov: "Mir + Freedom = Alpha. The </F>
 Americans Pay and Profit"] 
   [Text] In the middle of December Russian prime minister 
 Viktor Chernomyrdin and American vice president Albert Gore most 
@@ -4755,26 +4756,26 @@ of Russia.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Former IKI Director Sagdeyev Comments on Russian Space Program </TI></H3>
-<F P=102>  947Q0036A Moscow MOSKOVSKIYE NOVOSTI in Russian No 48, 28 
+<F P="102">  947Q0036A Moscow MOSKOVSKIYE NOVOSTI in Russian No 48, 28 
 Nov 93 p 9 </F>
 
-<F P=103> 947Q0036A </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 947Q0036A </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview between Yuriy Sigov, MOSKOVSKIYE NOVOSTI </F>
+<F P="106"> [Interview between Yuriy Sigov, MOSKOVSKIYE NOVOSTI </F>
 correspondent, and Academician Roald Sagdeyev, at College Park, 
 Maryland, date not given: "Did Russia Sell Out to the United 
 States"; the first paragraph is an introduction] 
@@ -4970,26 +4971,26 @@ but for others?
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   RSA Director, Ministry of Defense Request Special Funding for Space Sector </TI></H3>
-<F P=102>  947Q0035A Moscow MOSKOVSKIYE NOVOSTI in Russian No 47, 21 
+<F P="102">  947Q0035A Moscow MOSKOVSKIYE NOVOSTI in Russian No 47, 21 
 Nov 93 p 2 </F>
 
-<F P=103> 947Q0035A </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 947Q0035A </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Unsigned article: "Cosmonautics in a Beggar's Orbit"; the </F>
+<F P="106"> [Unsigned article: "Cosmonautics in a Beggar's Orbit"; the </F>
 first paragraph is an introduction] 
   [Text] The Ministry of Defense and the Russian Space Agency 
 have sent to the government a draft decree of the Council of 
@@ -5036,24 +5037,24 @@ branch.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE POLICY, ADMINISTRATION </F>
+<F P="100"> SPACE POLICY, ADMINISTRATION </F>
 <H3> <TI>   Russian Role in International Space Station Project Assessed Favorably </TI></H3>
-<F P=102>  937Q0039 Moscow PRAVDA in Russian 10 Dec 93 p 4 </F>
-<F P=103> 937Q0039 </F>
-<F P=104>  Moscow PRAVDA </F>
+<F P="102">  937Q0039 Moscow PRAVDA in Russian 10 Dec 93 p 4 </F>
+<F P="103"> 937Q0039 </F>
+<F P="104">  Moscow PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Anatoliy Pokrovskiy: "What Will It Be Called </F>
+<F P="106"> [Article by Anatoliy Pokrovskiy: "What Will It Be Called </F>
 Now? Three Continents Are Slated To Meet in Orbit"] 
   [Text] With complicated configuration and a complex fate, 
 this international space station has gone through the 
@@ -5088,7 +5089,7 @@ time and monetary constraints set by Congress.
   What does it consist of? Briefly put, in the conditions that 
 exist today, it is best to design and build a permanently 
 inhabited international space station with an inclination of 
-51.6ë, i.e., with the same inclination at which Mir is now 
+51.6ï¿½, i.e., with the same inclination at which Mir is now 
 flying. The same stock of completed research gathered in our 
 country for the Mir-2 will be used for the station, as well as 
 the American, European, and Japanese modules. 
@@ -5173,24 +5174,24 @@ gathering in orbit in the name of our common cradle.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> MANNED MISSION HIGHLIGHTS </F>
+<F P="100"> MANNED MISSION HIGHLIGHTS </F>
 <H3> <TI>   Crew Members, Aims of New Mission to Mir Station </TI></H3>
-<F P=102>  947Q0053A Moscow KRASNAYA ZVEZDA in Russian 6 Jan 94 p 3 </F>
-<F P=103> 947Q0053A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  947Q0053A Moscow KRASNAYA ZVEZDA in Russian 6 Jan 94 p 3 </F>
+<F P="103"> 947Q0053A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Valeriy Baberdin, KRASNAYA ZVEZDA correspondent: </F>
+<F P="106"> [Article by Valeriy Baberdin, KRASNAYA ZVEZDA correspondent: </F>
 "Extending One's Hand From the Mir to Mars; The Next Space 
 Expedition Leaves in January. It Includes a Physician Who Will 
 Spend a Record Time in the Station: 427 Days"] 
@@ -5252,28 +5253,28 @@ more than once."
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Regression Approach to Calculated Absolute Calibration of Satellite-Borne IR Radiometers </TI></H3>
-<F P=102>  947Q0072 Moscow IZVESTIYA AKADEMII NAUK FIZIKA ATMOSFERY I 
+<F P="102">  947Q0072 Moscow IZVESTIYA AKADEMII NAUK FIZIKA ATMOSFERY I 
 OKEANA in Russian Vol 29, No 5, Sep-Oct 93 pp 634-638 </F>
 
-<F P=103> 947Q0072 </F>
-<F P=104>  Moscow IZVESTIYA AKADEMII NAUK FIZIKA ATMOSFERY I 
+<F P="103"> 947Q0072 </F>
+<F P="104">  Moscow IZVESTIYA AKADEMII NAUK FIZIKA ATMOSFERY I 
 OKEANA </F>
 
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. P. Kozlov, Yu. M. Timofeyev, A. V. Polyakov, </F>
+<F P="106"> [Article by V. P. Kozlov, Yu. M. Timofeyev, A. V. Polyakov, </F>
 St. Petersburg State University; UDC 551.510.5] 
   [Abstract] Most satellite IR radiometers used for remote 
 sensing of the atmosphere and the underlying layer have systems 
@@ -5313,24 +5314,24 @@ Western.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Russian To Launch Israel's TAUVEX Ultraviolet Telescope in 1995 </TI></H3>
-<F P=102>  947Q0070 Moscow NEZAVISIMAYA GAZETA in Russian 18 Jan 94 p 6 </F>
-<F P=103> 947Q0070 </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  947Q0070 Moscow NEZAVISIMAYA GAZETA in Russian 18 Jan 94 p 6 </F>
+<F P="103"> 947Q0070 </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sharon Kenon, JerusalemInform, under the rubric </F>
+<F P="106"> [Article by Sharon Kenon, JerusalemInform, under the rubric </F>
 "Astronomy": "The Ultraviolet Universe: Space Telescope Studies 
 New Stars"] 
   [Text] A new space-based ultraviolet telescope designed and 
@@ -5414,26 +5415,26 @@ all scientists participating in the project.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Optimization of Perturbation Maneuver of Solar-Sail-Equipped Spacecraft Near the Moon in a Geocentric Boost Problem </TI></H3>
-<F P=102>  937Q0064A Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
+<F P="102">  937Q0064A Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
 31 No 6, Nov-Dec 93 pp 31-38 </F>
 
-<F P=103> 937Q0064A </F>
-<F P=104>  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
+<F P="103"> 937Q0064A </F>
+<F P="104">  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. V. Smirnov, V. A. Yegorov, V. V. Sazonov; UDC </F>
+<F P="106"> [Article by V. V. Smirnov, V. A. Yegorov, V. V. Sazonov; UDC </F>
 629.7] 
   [Abstract] In work reported earlier (Smirnov et al., 
 "Geocentric Boost Trajectory for Spacecraft With Solar Sail," 
@@ -5452,11 +5453,11 @@ if the angle between the planes of orbit of the spacecraft and
 the Moon is large, then the spacecraft can be sent to any point 
 of the rather small environs of the Moon on the picture plane 
 via selection of the beginning and ending times of the passive 
-leg. If the angle is 2-20ë, however, the small environs of 
+leg. If the angle is 2-20ï¿½, however, the small environs of 
 the Moon in the picture plane may be unreachable, which limits 
 the possibilities of a perturbation maneuver. In the earlier 
 work, to expand the perturbation maneuver possibilities, the 
-researchers suggested reducing the angle to less than 1ë by 
+researchers suggested reducing the angle to less than 1ï¿½ by 
 making a minor correction in the locally optimal principle of 
 control in the first and third boost legs. Here, they suggest a 
 different method for optimizing the perturbation maneuver, i.e., 
@@ -5480,26 +5481,26 @@ considerably and total boost time is reduced somewhat. Figures
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Model of Particle Fluxes and Averaged Energy Spectra of Solar Cosmic Rays </TI></H3>
-<F P=102>  937Q0064B Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
+<F P="102">  937Q0064B Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
 31 No 6, Nov-Dec 93 pp 51-59 </F>
 
-<F P=103> 937Q0064B </F>
-<F P=104>  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
+<F P="103"> 937Q0064B </F>
+<F P="104">  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by R. A. Nymmik; UDC 543.42:522.124] </F>
+<F P="106"> [Article by R. A. Nymmik; UDC 543.42:522.124] </F>
   [Abstract] The high-energy charged-particle fluxes that 
 accompany solar flares are a focus of study because of their 
 effect on biological objects and hardware during spaceflight. 
@@ -5538,26 +5539,26 @@ near-Earth orbits of satellites with small inclinations. Figures
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Forecasting Radiation Conditions in Interplanetary Space </TI></H3>
-<F P=102>  937Q0064C Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
+<F P="102">  937Q0064C Moscow KOSMICHESKIYE ISSLEDOVANIYA in Russian Vol 
 31 No 6, Nov-Dec 93 pp 89-103 </F>
 
-<F P=103> 937Q0064C </F>
-<F P=104>  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
+<F P="103"> 937Q0064C </F>
+<F P="104">  Moscow KOSMICHESKIYE ISSLEDOVANIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by B. M. Kuzhevskiy, V. M. Petrov, I. P. </F>
+<F P="106"> [Article by B. M. Kuzhevskiy, V. M. Petrov, I. P. </F>
 Shestopalov; UDC 581.521] 
   [Abstract] Sources of radiation in interplanetary space are 
 essentially three: galactic cosmic rays, solar-flare cosmic 
@@ -5597,26 +5598,26 @@ references 15: 13 Russian, 2 Western.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Depth Profiles of Dielectric Permeability of Cryolithosphere of Mars </TI></H3>
-<F P=102>  937Q0063A Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
+<F P="102">  937Q0063A Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
 No 6, Nov-Dec 93 pp 3-11 </F>
 
-<F P=103> 937Q0063A </F>
-<F P=104>  Moscow ASTRONOMICHESKIY VESTNIK </F>
+<F P="103"> 937Q0063A </F>
+<F P="104">  Moscow ASTRONOMICHESKIY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. A. Andrianov, I. N. Kibardina, R. O. Kuzmin, </F>
+<F P="106"> [Article by V. A. Andrianov, I. N. Kibardina, R. O. Kuzmin, </F>
 Institute of Radio Engineering and Electronics, Russian Academy 
 of Sciences; Institute of Geochemistry and Analytical Chemistry 
 imeni V. I. Vernadskiy, Russian Academy of Sciences; UDC 
@@ -5661,26 +5662,26 @@ references 13: 6 Russian, 7 Western.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Qualitative Analysis of Some Methods of Reducing the Asteroid Hazards for the Earth </TI></H3>
-<F P=102>  937Q0063B Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
+<F P="102">  937Q0063B Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
 No 6, Nov-Dec 93 pp 46-54 </F>
 
-<F P=103> 937Q0063B </F>
-<F P=104>  Moscow ASTRONOMICHESKIY VESTNIK </F>
+<F P="103"> 937Q0063B </F>
+<F P="104">  Moscow ASTRONOMICHESKIY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. V. Ivashkin, V. V. Smirnov, Institute of </F>
+<F P="106"> [Article by V. V. Ivashkin, V. V. Smirnov, Institute of </F>
 Applied Mathematics imeni M. V. Keldysh, Russian Academy of 
 Sciences; UDC 629] 
   [Abstract] The probability of a collision between the Earth 
@@ -5719,26 +5720,26 @@ Figures 2, references 4 (Russian).
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Origin and Current Status of the Problem of Asteroid Hazard </TI></H3>
-<F P=102>  937Q0063C Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
+<F P="102">  937Q0063C Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
 No 6, Nov-Dec 93 pp 55-68 </F>
 
-<F P=103> 937Q0063C </F>
-<F P=104>  Moscow ASTRONOMICHESKIY VESTNIK </F>
+<F P="103"> 937Q0063C </F>
+<F P="104">  Moscow ASTRONOMICHESKIY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by F. A. Tsitsin, V. M. Chepurova, I. L. Genkin, </F>
+<F P="106"> [Article by F. A. Tsitsin, V. M. Chepurova, I. L. Genkin, </F>
 State Astronomy Institute imeni P. K. Shternberg; Kazakh State 
 University imeni al Farabi; UDC 523.4-523.62-726] 
   [Abstract] In a survey of the history and background of 
@@ -5775,24 +5776,24 @@ Western.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   History, Present Significance of Kapustin Yar Cosmodrome Discussed </TI></H3>
-<F P=102>  937Q0032 Moscow KOMSOMOLSKAYA PRAVDA in Russian 26 Nov 93 p 3 </F>
-<F P=103> 937Q0032 </F>
-<F P=104>  Moscow KOMSOMOLSKAYA PRAVDA </F>
+<F P="102">  937Q0032 Moscow KOMSOMOLSKAYA PRAVDA in Russian 26 Nov 93 p 3 </F>
+<F P="103"> 937Q0032 </F>
+<F P="104">  Moscow KOMSOMOLSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Igor Yemelyanov: "This Yar Wasn't So Easy to </F>
+<F P="106"> [Article by Igor Yemelyanov: "This Yar Wasn't So Easy to </F>
 Come By: Our First Space Launch Facility Hears the Roar of 
 Rockets Less and Less Often"] 
   [Text] When the United States got its hands on the German 
@@ -5970,26 +5971,26 @@ expensive foreign launch pads.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Probability of Asteroids Colliding With Earth </TI></H3>
-<F P=102>  937Q0061 Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
+<F P="102">  937Q0061 Moscow ASTRONOMICHESKIY VESTNIK in Russian Vol 27 
 No 5, Sep-Oct 93 pp 83-87 </F>
 
-<F P=103> 937Q0061 </F>
-<F P=104>  Moscow ASTRONOMICHESKIY VESTNIK </F>
+<F P="103"> 937Q0061 </F>
+<F P="104">  Moscow ASTRONOMICHESKIY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by A. F. Zausayev, A. N. Pushkarev, Institute of </F>
+<F P="106"> [Article by A. F. Zausayev, A. N. Pushkarev, Institute of </F>
 Astrophysics, Academy of Sciences of the Republic of Tajikistan; 
 UDC 521.1] 
   [Abstract] In studying the danger of asteroid collisions 
@@ -6031,27 +6032,27 @@ Russian, 2 Western.
 <HEADER>
 <AU>   JPRS-USP-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  Central Eurasia: Space </ABS>
 <DATE1>    16 February 1994 </DATE1>
-<F P=100> SPACE SCIENCES </F>
+<F P="100"> SPACE SCIENCES </F>
 <H3> <TI>   Control of Flight to Halo Orbit in the Vicinity of the L Point (Relict-2 Mission) </TI></H3>
 
 
 <TEXT>
 [.sup]2[/] 
-<F P=102>  937Q0060 Moscow PISMA V ASTRONOMICHESKIY ZHURNAL in Russian 
+<F P="102">  937Q0060 Moscow PISMA V ASTRONOMICHESKIY ZHURNAL in Russian 
 Vol 19 No 9, Sep 93 pp 868-880 </F>
 
-<F P=103> 937Q0060 </F>
-<F P=104>  Moscow PISMA V ASTRONOMICHESKIY ZHURNAL </F>
- Language: <F P=105>Russian </F>
+<F P="103"> 937Q0060 </F>
+<F P="104">  Moscow PISMA V ASTRONOMICHESKIY ZHURNAL </F>
+ Language: <F P="105">Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. L. Lidov, V. A. Lyakhov, N. M. Teslenko, </F>
+<F P="106"> [Article by M. L. Lidov, V. A. Lyakhov, N. M. Teslenko, </F>
 Institute of Applied Mathematics, Russian Academy of Sciences, 
 Moscow; UDC 521.1] 
   [Abstract] Trajectory designs have traditionally involved a 
@@ -6096,19 +6097,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Work of State Duma Highlighted </TI></H3>
-<F P=102>  944E0383A Moscow TRUD in Russian 21 Jan 94 p 1 </F>
-<F P=103> 944E0383A </F>
-<F P=104>  Moscow TRUD </F>
+<F P="102">  944E0383A Moscow TRUD in Russian 21 Jan 94 p 1 </F>
+<F P="103"> 944E0383A </F>
+<F P="104">  Moscow TRUD </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by TRUD correspondent Nikolay Kishkin: "The First </F>
+<F P="106"> [Report by TRUD correspondent Nikolay Kishkin: "The First </F>
 Test of Strength"] 
   [Text] Over the past week the State Duma has generally 
 completed its internal self-organizing. Eight factions and one 
@@ -6189,19 +6190,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Duma Members' Working, Living Conditions </TI></H3>
-<F P=102>  944E0383B Moscow TRUD in Russian 21 Jan 94 p 1 </F>
-<F P=103> 944E0383B </F>
-<F P=104>  Moscow TRUD </F>
+<F P="102">  944E0383B Moscow TRUD in Russian 21 Jan 94 p 1 </F>
+<F P="103"> 944E0383B </F>
+<F P="104">  Moscow TRUD </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by TRUD correspondent Nikolay Dorofeyev: "Deputy </F>
+<F P="106"> [Report by TRUD correspondent Nikolay Dorofeyev: "Deputy </F>
 Baburin's Car to the Entrance!"] 
   [Text] While members of the Federation Council took a short 
 recess from their activities, State Duma deputies continued to 
@@ -6271,21 +6272,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Problems in Presidential Flight Team Noted </TI></H3>
-<F P=102>  944K0598A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
+<F P="102">  944K0598A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
 pp 1-2 </F>
 
-<F P=103> 944K0598A </F>
-<F P=104>  Moscow ARGUMENTY I FAKTY </F>
+<F P="103"> 944K0598A </F>
+<F P="104">  Moscow ARGUMENTY I FAKTY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Aleksandr Sargin under the rubric "Scandal": "A </F>
+<F P="106"> [Article by Aleksandr Sargin under the rubric "Scandal": "A </F>
 Soft Landing to You, Mr. President!"] 
   [Text] It is interesting whether the president of 
 Russia will be able to endure aerobatic maneuvers, such as 
@@ -6416,21 +6417,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Officer Views Security Ministry Changes </TI></H3>
-<F P=102>  944K0600A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
+<F P="102">  944K0600A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
 p 3 </F>
 
-<F P=103> 944K0600A </F>
-<F P=104>  Moscow ARGUMENTY I FAKTY </F>
+<F P="103"> 944K0600A </F>
+<F P="104">  Moscow ARGUMENTY I FAKTY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with unidentified "high-ranking officer of the </F>
+<F P="106"> [Interview with unidentified "high-ranking officer of the </F>
 former Ministry of Security" by ARGUMENTY I FAKTY special 
 correspondent V. Savichev; place and date not given: "The Snail 
 Effect: Former Ministry of Security Staff Must Be Cut by 42 
@@ -6572,21 +6573,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Zhirinovskiy Background Explored </TI></H3>
-<F P=102>  944K0599A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
+<F P="102">  944K0599A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
 p 3 </F>
 
-<F P=103> 944K0599A </F>
-<F P=104>  Moscow ARGUMENTY I FAKTY </F>
+<F P="103"> 944K0599A </F>
+<F P="104">  Moscow ARGUMENTY I FAKTY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dmitriy Makarov and Dmitriy Ragozin: "Around </F>
+<F P="106"> [Article by Dmitriy Makarov and Dmitriy Ragozin: "Around </F>
 Zhirinovskiy. A Political Portrait"] 
   [Text] The fashion of writing books that has swept over 
 Russian politicians in recent years has not bypassed Vladimir 
@@ -6790,19 +6791,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   LDPR Deputy Profiled </TI></H3>
-<F P=102>  944F0268A Moscow OBSHCHAYA GAZETA in Russian 1-7 Jan 94 p 7 </F>
-<F P=103> 944F0268A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
+<F P="102">  944F0268A Moscow OBSHCHAYA GAZETA in Russian 1-7 Jan 94 p 7 </F>
+<F P="103"> 944F0268A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yelena Dikun: "Lukava To Open the Duma"] </F>
+<F P="106"> [Article by Yelena Dikun: "Lukava To Open the Duma"] </F>
   [Text] According to the new Constitution of the 
 Russian Federation, the first sitting of the State Duma will be 
 opened by the most senior deputy in terms of years. This is 
@@ -6912,21 +6913,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Novodvorskaya Outlines Background, Views </TI></H3>
-<F P=102>  944K0603A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
+<F P="102">  944K0603A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
 p 6 </F>
 
-<F P=103> 944K0603A </F>
-<F P=104>  Moscow ARGUMENTY I FAKTY </F>
+<F P="103"> 944K0603A </F>
+<F P="104">  Moscow ARGUMENTY I FAKTY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Valeriya Novodvorskaya, leader of the </F>
+<F P="106"> [Interview with Valeriya Novodvorskaya, leader of the </F>
 Democratic Union of Russia Party, by ARGUMENTY I FAKTY 
 correspondent A. Sargin, under the rubric "Lady in Politics"; 
 place and date not given: "V. Novodvorskaya: `I Would Become a 
@@ -7126,19 +7127,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Chuvash Republic President on Current Tasks, Federation </TI></H3>
-<F P=102>  944F0273A Moscow TRUD in Russian 18 Jan 94 p 2 </F>
-<F P=103> 944F0273A </F>
-<F P=104>  Moscow TRUD </F>
+<F P="102">  944F0273A Moscow TRUD in Russian 18 Jan 94 p 2 </F>
+<F P="103"> 944F0273A </F>
+<F P="104">  Moscow TRUD </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Nikolay Fedorov, president of Chuvashia, by </F>
+<F P="106"> [Interview with Nikolay Fedorov, president of Chuvashia, by </F>
 ITAR-TASS correspondent Valentina Ivanova, place and date not 
 given: "Chuvashia Can Only Develop as a Part of Russia"] 
   [Text] Nikolay Fedorovich, 35-year-old former minister of 
@@ -7290,19 +7291,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Diamond Stock Exchange Founded in Yakutia </TI></H3>
-<F P=102>  944F0266A Moscow SEGODNYA in Russian 11 Jan 94 p 13 </F>
-<F P=103> 944F0266A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944F0266A Moscow SEGODNYA in Russian 11 Jan 94 p 13 </F>
+<F P="103"> 944F0266A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by INTERFAX: "Yakutia Will Establish a Diamond </F>
+<F P="106"> [Report by INTERFAX: "Yakutia Will Establish a Diamond </F>
 Exchange Before the End of January 1994"] 
   [Text] An edict on establishing a diamond exchange in 
 Yakutia (a republic belonging to the Russian Federation in the 
@@ -7367,19 +7368,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Dudayev Accuses Russia of Destabilizing Situation </TI></H3>
-<F P=102>  944F0266B Moscow SEGODNYA in Russian 11 Jan 94 p 10 </F>
-<F P=103> 944F0266B </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944F0266B Moscow SEGODNYA in Russian 11 Jan 94 p 10 </F>
+<F P="103"> 944F0266B </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Chechen Republic President Dzhokhar Dudayev </F>
+<F P="106"> [Interview with Chechen Republic President Dzhokhar Dudayev </F>
 by Vakhtang Dzhanashiya, under the rubric "Separatists"; place 
 and date not given: "The Dark, the Secret, the Imperial... 
 Dzhokhar Dudayev Unmasks the Culprits in All Troubles"] 
@@ -7520,21 +7521,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Moscow City Government's 1994 Program </TI></H3>
-<F P=102>  944F0274A Moscow MOSKOVSKAYA PRAVDA in Russian 6 Jan 94 pp 
+<F P="102">  944F0274A Moscow MOSKOVSKAYA PRAVDA in Russian 6 Jan 94 pp 
 1-2 </F>
 
-<F P=103> 944F0274A </F>
-<F P=104>  Moscow MOSKOVSKAYA PRAVDA </F>
+<F P="103"> 944F0274A </F>
+<F P="104">  Moscow MOSKOVSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> ["Program of the Government of Moscow for 1994"] </F>
+<F P="106"> ["Program of the Government of Moscow for 1994"] </F>
   [Text] 
 <H5>  I. </H5>
   The government of Moscow notes that as a whole the tasks 
@@ -7796,19 +7797,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Sobchak Dissolves City Soviet </TI></H3>
-<F P=102>  944F0269A Moscow OBSHCHAYA GAZETA in Russian 1-7 Jan 94 p 7 </F>
-<F P=103> 944F0269A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
+<F P="102">  944F0269A Moscow OBSHCHAYA GAZETA in Russian 1-7 Jan 94 p 7 </F>
+<F P="103"> 944F0269A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> Article by Igor Arkhipov, observer of the weekly CHAS PIK, </F>
+<F P="106"> Article by Igor Arkhipov, observer of the weekly CHAS PIK, </F>
 for OBSHCHAYA GAZETA: "Sobchak Has Given It to the St. 
 Petersburg Soviet Via Moscow"] 
   [Text] A long-standing dream of the mayor of St. 
@@ -7935,21 +7936,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Lukin Assesses Clinton Moscow Visit </TI></H3>
-<F P=102>  944K0611A Moscow LITERATURNAYA GAZETA in Russian No 3, 19 
+<F P="102">  944K0611A Moscow LITERATURNAYA GAZETA in Russian No 3, 19 
 Jan 94 p 9 </F>
 
-<F P=103> 944K0611A </F>
-<F P=104>  Moscow LITERATURNAYA GAZETA </F>
+<F P="103"> 944K0611A </F>
+<F P="104">  Moscow LITERATURNAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Vladimir Lukin, Russian ambassador to the </F>
+<F P="106"> [Interview with Vladimir Lukin, Russian ambassador to the </F>
 United States, by Denis Molchanov; place and date not given: 
 "Fate Leads Those Who Agree With It, and Drags Along Those Who 
 Do Not: Russia's Ambassador to the United States Vladimir Lukin 
@@ -8022,19 +8023,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Clinton's Approach to Foreign Affairs Assessed </TI></H3>
-<F P=102>  944Q0136A Moscow SEGODNYA in Russian 12 Jan 94 p 3 </F>
-<F P=103> 944Q0136A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944Q0136A Moscow SEGODNYA in Russian 12 Jan 94 p 3 </F>
+<F P="103"> 944Q0136A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Viktor Kalashnikov and Marina Kalashnikova: </F>
+<F P="106"> [Article by Viktor Kalashnikov and Marina Kalashnikova: </F>
 "Russia as a Mirror of the American Revolution: Bush's Legacy 
 and Clinton's Reform Ambitions"] 
   [Text] There has always been for the Russian observer 
@@ -8247,21 +8248,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   `Substantive' Results of Summit With U.S. </TI></H3>
-<F P=102>  944Q0138A Moscow ROSSIYA in Russian No 3, 19-25 Jan 94 
+<F P="102">  944Q0138A Moscow ROSSIYA in Russian No 3, 19-25 Jan 94 
 (signed to press 18 Jan 94) pp 1-2 </F>
 
-<F P=103> 944Q0138A </F>
-<F P=104>  Moscow ROSSIYA </F>
+<F P="103"> 944Q0138A </F>
+<F P="104">  Moscow ROSSIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sergey Ostrovskiy: "Is Optimism Justified?"] </F>
+<F P="106"> [Article by Sergey Ostrovskiy: "Is Optimism Justified?"] </F>
   [Excerpts] The man in the street is bored with 
 meetings of "giants." Today a summit like the one in Moscow is 
 not likely to evoke the almost hysterical excitement of 
@@ -8391,19 +8392,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   1992, 1993 Export, Import Figures Compared </TI></H3>
-<F P=102>  944Q0127A Moscow SEGODNYA in Russian 30 Dec 93 p 11 </F>
-<F P=103> 944Q0127A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944Q0127A Moscow SEGODNYA in Russian 30 Dec 93 p 11 </F>
+<F P="103"> 944Q0127A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Economic report by the Center for Economic and Business </F>
+<F P="106"> [Economic report by the Center for Economic and Business </F>
 Conditions of the Russian Federation Government: "On the 
 Commodity Structure of Exports and Imports"] 
   [Text] The Center for Economic and Business Conditions of 
@@ -9011,19 +9012,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   1993 Foreign Trade Statistics Reported </TI></H3>
-<F P=102>  944Q0131A Moscow SEGODNYA in Russian 13 Jan 94 p 2 </F>
-<F P=103> 944Q0131A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944Q0131A Moscow SEGODNYA in Russian 13 Jan 94 p 2 </F>
+<F P="103"> 944Q0131A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [INTERFAX-SEGODNYA report: "Russia: Foreign Trade in </F>
+<F P="106"> [INTERFAX-SEGODNYA report: "Russia: Foreign Trade in </F>
 1993--Oil Exports Increased by 20 Percent"] 
   [Text] In 1993, Russia's foreign trade turnover, taking 
 into account approximate estimates of exports and imports by 
@@ -9101,19 +9102,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Disadvantages Seen in New Import Regulations </TI></H3>
-<F P=102>  944Q0131B Moscow KOMMERSANT-DAILY in Russian 11 Jan 94 p 2 </F>
-<F P=103> 944Q0131B </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
+<F P="102">  944Q0131B Moscow KOMMERSANT-DAILY in Russian 11 Jan 94 p 2 </F>
+<F P="103"> 944Q0131B </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Tatyana Korotkova and Leonid Zavarskiy: "The </F>
+<F P="106"> [Article by Tatyana Korotkova and Leonid Zavarskiy: "The </F>
 State Regulates Private Imports: A Customs Committee 
 Instruction"] 
   [Text] The much-discussed Government Decree No. 1322 
@@ -9192,21 +9193,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Decree on Regulating Trade Disputes </TI></H3>
-<F P=102>  944Q0133A Moscow MOSKOVSKIYE NOVOSTI in Russian No 52, 29 
+<F P="102">  944Q0133A Moscow MOSKOVSKIYE NOVOSTI in Russian No 52, 29 
 Dec 93 p B15 </F>
 
-<F P=103> 944Q0133A </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 944Q0133A </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> ["Decree of the Government of the Russian Federation: </F>
+<F P="106"> ["Decree of the Government of the Russian Federation: </F>
 Measures Regulating Trade Disputes Arising in Connection With 
 Russian Commodity Exports"] 
   [Text] To ensure propitious trade and political conditions 
@@ -9292,21 +9293,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Statute on Service for Hard Currency, Export Control </TI></H3>
-<F P=102>  944Q0133B Moscow MOSKOVSKIYE NOVOSTI in Russian No 52, 29 
+<F P="102">  944Q0133B Moscow MOSKOVSKIYE NOVOSTI in Russian No 52, 29 
 Dec 93 p B15 </F>
 
-<F P=103> 944Q0133B </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 944Q0133B </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> ["Statute on Federal Service of Russia for Currency and </F>
+<F P="106"> ["Statute on Federal Service of Russia for Currency and </F>
 Export Control"[.sup]*[/]] 
   [Text] 
 <H5>  I. General Provisions </H5>
@@ -9624,21 +9625,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   MFER Official on Foreign Trade Policy </TI></H3>
-<F P=102>  944Q0130A Moscow EKONOMIKA I ZHIZN in Russian No 1, Jan 94 
+<F P="102">  944Q0130A Moscow EKONOMIKA I ZHIZN in Russian No 1, Jan 94 
 pp 1-2 </F>
 
-<F P=103> 944Q0130A </F>
-<F P=104>  Moscow EKONOMIKA I ZHIZN </F>
+<F P="103"> 944Q0130A </F>
+<F P="104">  Moscow EKONOMIKA I ZHIZN </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Candidate of Economic Sciences V.A. Oreshkin, </F>
+<F P="106"> [Article by Candidate of Economic Sciences V.A. Oreshkin, </F>
 department chief at the All-Russia Institute for Market Trends 
 Research of the Russian Ministry of Foreign Economic Relations: 
 "The Year 1994: Basic Directions in the Formation of Foreign 
@@ -9874,19 +9875,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Historical Details on DPRK's Kim Il-song </TI></H3>
-<F P=102>  944Q0134A Moscow NEZAVISIMAYA GAZETA in Russian 29 Sep 93 p 5 </F>
-<F P=103> 944Q0134A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944Q0134A Moscow NEZAVISIMAYA GAZETA in Russian 29 Sep 93 p 5 </F>
+<F P="103"> 944Q0134A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Leonid Vasin: "Steps Toward the Throne. Kim </F>
+<F P="106"> [Article by Leonid Vasin: "Steps Toward the Throne. Kim </F>
 Il-song: Who Is He?" Names in parentheses as transliterated] 
   [Text] The "Great Leader" of the Korean people was created 
 and cultivated and exists not in accordance with the wishes of 
@@ -10561,19 +10562,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> KAZAKHSTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> KAZAKHSTAN </F>
 <H3> <TI>   Taldyqorghan Oblast Governor Discusses Current Conditions, Problems </TI></H3>
-<F P=102>  944K0465A Almaty YEGEMEN QAZAQSTAN in Kazakh 20 Oct 93 p 2 </F>
-<F P=103> 944K0465A </F>
-<F P=104>  Almaty YEGEMEN QAZAQSTAN </F>
+<F P="102">  944K0465A Almaty YEGEMEN QAZAQSTAN in Kazakh 20 Oct 93 p 2 </F>
+<F P="103"> 944K0465A </F>
+<F P="104">  Almaty YEGEMEN QAZAQSTAN </F>
 
 
 <TEXT>
-Language: <F P=105> Kazakh </F>
+Language: <F P="105"> Kazakh </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Serik Shayakhmetuly Aqymbekov, recorded by </F>
+<F P="106"> [Interview with Serik Shayakhmetuly Aqymbekov, recorded by </F>
 Seydakhmet Mukhametshe: To Establish the Power of the Nation.] 
   [Text] [Mukhametshe] Serik Shayakhmetuly sir! Four months 
 have passed since you took over the administration of the 
@@ -10843,19 +10844,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> KAZAKHSTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> KAZAKHSTAN </F>
 <H3> <TI>   Qyzylorda Oblast Governor on Effects of Sovereignty on His Oblast </TI></H3>
-<F P=102>  944K0466A Almaty YEGEMEN QAZAQSTAN in Kazakh 23 Oct 93 p 3 </F>
-<F P=103> 944K0466A </F>
-<F P=104>  Almaty YEGEMEN QAZAQSTAN </F>
+<F P="102">  944K0466A Almaty YEGEMEN QAZAQSTAN in Kazakh 23 Oct 93 p 3 </F>
+<F P="103"> 944K0466A </F>
+<F P="104">  Almaty YEGEMEN QAZAQSTAN </F>
 
 
 <TEXT>
-Language: <F P=105> Kazakh </F>
+Language: <F P="105"> Kazakh </F>
 Article Type:CSO 
 
-<F P=106> [Article by Seyilbek Shawkhamanov, governor of Qyzylorda </F>
+<F P="106"> [Article by Seyilbek Shawkhamanov, governor of Qyzylorda </F>
 Oblast, Kazakhstan peoples deputy: We Have Planted Seeds in the 
 Garden of Sovereignty. 
   [Text] The Kazakhs have said: it is easy to get married, 
@@ -11031,21 +11032,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> UZBEKISTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> UZBEKISTAN </F>
 <H3> <TI>   Refugee Camp in Afghanistan Said Attacked </TI></H3>
-<F P=102>  944K0620A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 21 
+<F P="102">  944K0620A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 21 
 Jan 94 p 2 </F>
 
-<F P=103> 944K0620A </F>
-<F P=104>  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
+<F P="103"> 944K0620A </F>
+<F P="104">  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Oleg Panfilov under the rubric "Version": </F>
+<F P="106"> [Article by Oleg Panfilov under the rubric "Version": </F>
 "Dustum's Air Force Drops Bombs on Tajik Refugee Camps in 
 Afghanistan"] 
   [Text] HORASAN information agency, set up by Tajik refugee 
@@ -11125,19 +11126,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> UZBEKISTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> UZBEKISTAN </F>
 <H3> <TI>   Deputy Minister on Reasons for Bread Shortages </TI></H3>
-<F P=102>  944K0575A Dushanbe NARODNAYA GAZETA in Russian 18 Dec 93 p 1 </F>
-<F P=103> 944K0575A </F>
-<F P=104>  Dushanbe NARODNAYA GAZETA </F>
+<F P="102">  944K0575A Dushanbe NARODNAYA GAZETA in Russian 18 Dec 93 p 1 </F>
+<F P="103"> 944K0575A </F>
+<F P="104">  Dushanbe NARODNAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Sh. Odilov, deputy minister of grain </F>
+<F P="106"> [Interview with Sh. Odilov, deputy minister of grain </F>
 products of the Republic of Tajikistan, by N. Vanichkin; place 
 and date not given: "Bread Passion, or Someone's Misfortune"] 
   [Text] A neighbor of mine, a woman in her declining 
@@ -11301,21 +11302,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> UZBEKISTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> UZBEKISTAN </F>
 <H3> <TI>   Path for Resolving Economic Crisis Proposed </TI></H3>
-<F P=102>  944K0576A Dushanbe VECHERNIY DUSHANBE in Russian 20 Dec 93 p 
+<F P="102">  944K0576A Dushanbe VECHERNIY DUSHANBE in Russian 20 Dec 93 p 
 2 </F>
 
-<F P=103> 944K0576A </F>
-<F P=104>  Dushanbe VECHERNIY DUSHANBE </F>
+<F P="103"> 944K0576A </F>
+<F P="104">  Dushanbe VECHERNIY DUSHANBE </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Crisis solution strategy: "Socioeconomic Crisis: Strategy </F>
+<F P="106"> [Crisis solution strategy: "Socioeconomic Crisis: Strategy </F>
 of a Way Out"] 
   [Text] An entire kaleidoscope of different parties 
 and movements, each of which is proposing its own strategy of a 
@@ -11556,19 +11557,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Voronezh on Food Coupon System </TI></H3>
-<F P=102>  944F0270A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 3 </F>
-<F P=103> 944F0270A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944F0270A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 3 </F>
+<F P="103"> 944F0270A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by ITAR-TASS correspondent Anatoliy Starukhin, </F>
+<F P="106"> [Article by ITAR-TASS correspondent Anatoliy Starukhin, </F>
 special for ROSSIYSKAYA GAZETA: "Tickets to Satiety: On the 
 Distribution-by-Coupon System in Voronezh Oblast"] 
   [Text] Voronezh--As usual, the doorbell rang in the 
@@ -11695,19 +11696,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Trade Union Official Deported by Moscow Authorities </TI></H3>
-<F P=102>  944E0382A Moscow SEGODNYA in Russian 14 Jan 94 p 2 </F>
-<F P=103> 944E0382A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944E0382A Moscow SEGODNYA in Russian 14 Jan 94 p 2 </F>
+<F P="103"> 944E0382A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrey Nikolayev under the rubric "Persecution": </F>
+<F P="106"> [Article by Andrey Nikolayev under the rubric "Persecution": </F>
 "An Attempt To Expel the Chairman of the Free Trade Unions 
 Central Committee From Russia: Vladimir Klebanov Escapes 
 Detention"] 
@@ -11803,19 +11804,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   FITUR To Boycott American-Backed Free Trade Unions of Russia </TI></H3>
-<F P=102>  944E0392A Moscow SEGODNYA in Russian 21 Jan 94 p 2 </F>
-<F P=103> 944E0392A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944E0392A Moscow SEGODNYA in Russian 21 Jan 94 p 2 </F>
+<F P="103"> 944E0392A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrey Nikolayev under the rubric "Fighters": </F>
+<F P="106"> [Article by Andrey Nikolayev under the rubric "Fighters": </F>
 "Federation of Independent Trade Unions of Russia Fights Against 
 U.S. Influence--and Defines Social Utility of a Individual"] 
   [Text] The central coordinating council of the Federation 
@@ -11890,19 +11891,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   `Rostelekom' Awarded License for Local, International Communications Services </TI></H3>
-<F P=102>  944Q0140A Moscow KOMMERSANT-DAILY in Russian 14 Jan 94 p 9 </F>
-<F P=103> 944Q0140A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
+<F P="102">  944Q0140A Moscow KOMMERSANT-DAILY in Russian 14 Jan 94 p 9 </F>
+<F P="103"> 944Q0140A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Aleksey Sinitskiy under rubric "Plans of Russian </F>
+<F P="106"> [Article by Aleksey Sinitskiy under rubric "Plans of Russian </F>
 Companies for 1994": "Rostelekom Receives Ministry of 
 Communications License"] 
   [Text] 
@@ -12004,19 +12005,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Reforms in Nonferrous Metallurgy Production Viewed </TI></H3>
-<F P=102>  944E0384A Moscow DELOVOY MIR in Russian 12 Jan 94 p 4 </F>
-<F P=103> 944E0384A </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="102">  944E0384A Moscow DELOVOY MIR in Russian 12 Jan 94 p 4 </F>
+<F P="103"> 944E0384A </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Stanislav Podvishenskiy, Marina Teslitskaya, and </F>
+<F P="106"> [Article by Stanislav Podvishenskiy, Marina Teslitskaya, and </F>
 Yelena Razgon, members of the Central Scientific-Research 
 Institute for Nonferrous Metallurgy Economics and Information: 
 "Priorities in Nonferrous Metallurgy"] 
@@ -12162,21 +12163,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Gold Mining Sector Activities for 1993 Viewed </TI></H3>
-<F P=102>  944E0396A Moscow DELOVOY MIR in Russian No 2, 10-16 Jan 94 p 
+<F P="102">  944E0396A Moscow DELOVOY MIR in Russian No 2, 10-16 Jan 94 p 
 10 </F>
 
-<F P=103> 944E0396A </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="103"> 944E0396A </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report of Viktor Gritsayev, deputy chairman of the Russian </F>
+<F P="106"> [Report of Viktor Gritsayev, deputy chairman of the Russian </F>
 Federation Committee on Precious Metals and Precious Stones, at 
 all-Russia conference of managers of gold-mining enterprises, 
 under the general heading: "Gold Mining: An Inside View": "It Is 
@@ -12255,7 +12256,7 @@ resources.
   The president and the government of Russia, the speaker 
 said, 
 have made a decision to set up a nonbudget fund to finance 
-scientific-technical and R&amp;D work in the sector. This 
+scientific-technical and R amp;D work in the sector. This 
 decision 
 was in effect in 1993, and we asked the government to extend it 
 to 1994. I want everybody present to understand that all of us 
@@ -12314,19 +12315,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Designer on Russian Federation Nuclear Power Stations' Status, Future </TI></H3>
-<F P=102>  944E0354A Moscow ROSSIYSKAYA GAZETA in Russian 6 Jan 94 p 3 </F>
-<F P=103> 944E0354A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944E0354A Moscow ROSSIYSKAYA GAZETA in Russian 6 Jan 94 p 3 </F>
+<F P="103"> 944E0354A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Vasiliy Stekolnikov, chief designer of </F>
+<F P="106"> [Interview with Vasiliy Stekolnikov, chief designer of </F>
 Russia's nuclear reactors, by Vladimir Gubarev; place and date 
 not given: "A Nuclear Island"] 
   [Text] Nekos Studio. Chief Designer of Reactors, 
@@ -12692,19 +12693,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Creating New Aviation Companies </TI></H3>
-<F P=102>  944E0371A Moscow TRUD in Russian 12 Jan 94 p 4 </F>
-<F P=103> 944E0371A </F>
-<F P=104>  Moscow TRUD </F>
+<F P="102">  944E0371A Moscow TRUD in Russian 12 Jan 94 p 4 </F>
+<F P="103"> 944E0371A </F>
+<F P="104">  Moscow TRUD </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Viktor Trubitsin: "Military Aircraft Were </F>
+<F P="106"> [Article by Viktor Trubitsin: "Military Aircraft Were </F>
 Acquired; the Process of Creating New Airline Companies Is 
 Proceeding in Civil Aviation"] 
   [Text] Anxiety compelled Muscovite Nikolay Mitin to plan a 
@@ -12862,19 +12863,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Irkutsk Air Crash Investigation Continues </TI></H3>
-<F P=102>  944F0271A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 8 </F>
-<F P=103> 944F0271A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944F0271A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 8 </F>
+<F P="103"> 944F0271A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ruslan Ignatyev: "Specialists Investigating the </F>
+<F P="106"> [Article by Ruslan Ignatyev: "Specialists Investigating the </F>
 Causes of the Tragedy Talk About the Air Crash Near Irkutsk"] 
   [Text] The ROSSIYSKAYA GAZETA editorial office was 
 visited yesterday by representatives of the Ministry of 
@@ -13044,19 +13045,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Customs Seizure `Discredits' Weapons Makers </TI></H3>
-<F P=102>  944F0265A Moscow ROSSIYSKAYA GAZETA in Russian 12 Jan 94 p 3 </F>
-<F P=103> 944F0265A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944F0265A Moscow ROSSIYSKAYA GAZETA in Russian 12 Jan 94 p 3 </F>
+<F P="103"> 944F0265A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by ROSSIYSKAYA GAZETA staff correspondent Nikolay </F>
+<F P="106"> [Article by ROSSIYSKAYA GAZETA staff correspondent Nikolay </F>
 Kireyev, Tula: "Smugglers Are Revealing Incognito Who Is 
 Discrediting the Profitable Contracts of Russian Weapons Makers"] 
   [Text] At the end of last year, given in a number of 
@@ -13207,19 +13208,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Land Registry Director on Land Transactions </TI></H3>
-<F P=102>  944F0265B Moscow ROSSIYSKAYA GAZETA in Russian 12 Jan 94 p 3 </F>
-<F P=103> 944F0265B </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944F0265B Moscow ROSSIYSKAYA GAZETA in Russian 12 Jan 94 p 3 </F>
+<F P="103"> 944F0265B </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Nikolay Komov, chairman of the Russian </F>
+<F P="106"> [Interview with Nikolay Komov, chairman of the Russian </F>
 Federation Committee on Land Resources and Land Management, by 
 ROSSIYSKAYA GAZETA correspondent Aleksandr Gavrilyuk: "Land Can 
 Be Sold... if Roskomzem Permits It"; date and place not given] 
@@ -13400,20 +13401,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Decree, Statute on State Control of Land Use </TI></H3>
 <H4>   Text of Decree </H4>
-<F P=102> 944F0267A Moscow ROSSIYSKAYA GAZETA in Russian 14 Jan 94 p 4 </F>
-<F P=103> 944F0267A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102"> 944F0267A Moscow ROSSIYSKAYA GAZETA in Russian 14 Jan 94 p 4 </F>
+<F P="103"> 944F0267A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Decree of the Council of Ministers-Government of the </F>
+<F P="106"> [Decree of the Council of Ministers-Government of the </F>
 Russian Federation of 23 December 1993, No. 1362, Moscow: "On 
 Approval of the Statute on the Procedure for Exercising State 
 Control Over the Utilization and Protection of Land in the 
@@ -13456,22 +13457,22 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Decree, Statute on State Control of Land Use </TI></H3>
 <H4>   Text of Statute </H4>
-<F P=102> 944F0267B Moscow ROSSIYSKAYA GAZETA in Russian 14 Jan 94 pp 
+<F P="102"> 944F0267B Moscow ROSSIYSKAYA GAZETA in Russian 14 Jan 94 pp 
 4, 5 </F>
 
-<F P=103> 944F0267B </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="103"> 944F0267B </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Statute "On the Procedure for Exercising State Control over </F>
+<F P="106"> [Statute "On the Procedure for Exercising State Control over </F>
 the Utilization and Protection of Land in the Russian 
 Federation"] 
   [Text] 
@@ -14004,19 +14005,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Decree on Changes in Customs Law </TI></H3>
-<F P=102>  944F0272A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 5 </F>
-<F P=103> 944F0272A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944F0272A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 5 </F>
+<F P="103"> 944F0272A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> ["Decree of the Council of Ministers-Government of the </F>
+<F P="106"> ["Decree of the Council of Ministers-Government of the </F>
 Russian Federation of 23 December 1993 No. 1322, Moscow: `On the 
 Procedure for Movement of Goods Not Intended for Production or 
 Other Commercial Activity Across the Customs Border of the 
@@ -14264,19 +14265,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Edict on One-Time Compensation for Depreciated Savings </TI></H3>
-<F P=102>  944E0414A Moscow ROSSIYSKAYA GAZETA in Russian 29 Jan 94 p 4 </F>
-<F P=103> 944E0414A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944E0414A Moscow ROSSIYSKAYA GAZETA in Russian 29 Jan 94 p 4 </F>
+<F P="103"> 944E0414A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Text of edict of the president of the Russian Federation </F>
+<F P="106"> [Text of edict of the president of the Russian Federation </F>
 "On One-Time Compensation for Russian Federation Savings Bank 
 Depositors Who Held Deposits as of 1 January 1992"] 
   [Text] In order to provide partial compensation for 
@@ -14381,19 +14382,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Edict on State Support for `Auto Alliance' </TI></H3>
-<F P=102>  944F0264A Moscow ROSSIYSKAYA GAZETA in Russian 10 Jan 93 p 5 </F>
-<F P=103> 944F0264A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944F0264A Moscow ROSSIYSKAYA GAZETA in Russian 10 Jan 93 p 5 </F>
+<F P="103"> 944F0264A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Edict by the President of the Russian Federation "On </F>
+<F P="106"> [Edict by the President of the Russian Federation "On </F>
 Measures of State Support for the Avtomobilnyy Vserossiyskiy 
 Alyans [All-Russian Motor Vehicle Alliance] Joint-Stock Company] 
   [Text] For the purpose of developing the production of 
@@ -14486,19 +14487,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Yeltsin Edict Terminating City Soviets' Powers Clarified </TI></H3>
-<F P=102>  944E0387A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 4 </F>
-<F P=103> 944E0387A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="102">  944E0387A Moscow ROSSIYSKAYA GAZETA in Russian 15 Jan 94 p 4 </F>
+<F P="103"> 944E0387A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> ["Instructions of the Ministry of Labor On Certain Issues </F>
+<F P="106"> ["Instructions of the Ministry of Labor On Certain Issues </F>
 Associated With the Termination of Activities of the Soviets of 
 People's Deputies, approved by Decree of the Russian Federation 
 Ministry of Labor, Dated 16 November 1993, No. 170": `How the 
@@ -14606,19 +14607,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Ter-Petrosyan Calls for Russia, CSCE Efforts on Nagorno-Karabakh </TI></H3>
-<F P=102>  944K0591A Moscow NEZAVISIMAYA GAZETA in Russian 12 Jan 94 p 3 </F>
-<F P=103> 944K0591A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102">  944K0591A Moscow NEZAVISIMAYA GAZETA in Russian 12 Jan 94 p 3 </F>
+<F P="103"> 944K0591A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Levon Ter-Petrosyan by Armen Khanbabyan; </F>
+<F P="106"> [Interview with Levon Ter-Petrosyan by Armen Khanbabyan; </F>
 place and date not given: "The Formation of the CIS Enabled Us 
 To Avoid the `Yugoslav Scenario': Armenian President Levon 
 Ter-Petrosyan Believes That Russia and the CSCE Should 
@@ -14951,19 +14952,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Improvement Seen in Armenian Army Status </TI></H3>
-<F P=102>  944K0594A Paris HARATCH in Armenian 23 Dec 93 p 2 </F>
-<F P=103> 944K0594A </F>
-<F P=104>  Paris HARATCH </F>
+<F P="102">  944K0594A Paris HARATCH in Armenian 23 Dec 93 p 2 </F>
+<F P="103"> 944K0594A </F>
+<F P="104">  Paris HARATCH </F>
 
 
 <TEXT>
-Language: <F P=105> Armenian </F>
+Language: <F P="105"> Armenian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Arpi Totoyan: "Armenian Army Has Food, Uniforms </F>
+<F P="106"> [Article by Arpi Totoyan: "Armenian Army Has Food, Uniforms </F>
 and Authority"] 
   [Excerpt] [Passage omitted] It is obvious by now that 
 [former minister of defense] Vazgen Manukian played an important 
@@ -15058,16 +15059,16 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   PKK, ASALA Plan to Attack Turkey Alleged </TI></H3>
-<F P=102>  944K0594B Istanbul MARMARA in Armenian 27 Dec 93 pp 1, 4 </F>
-<F P=103> 944K0594B </F>
-<F P=104>  Istanbul MARMARA </F>
+<F P="102">  944K0594B Istanbul MARMARA in Armenian 27 Dec 93 pp 1, 4 </F>
+<F P="103"> 944K0594B </F>
+<F P="104">  Istanbul MARMARA </F>
 
 
 <TEXT>
-Language: <F P=105> Armenian </F>
+Language: <F P="105"> Armenian </F>
 Article Type:CSO 
 
   [Text] The report prepared by Turkish security circles 
@@ -15131,21 +15132,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   January-September 1993 Economic Statistics for Armenia </TI></H3>
-<F P=102>  944K0560A Yerevan RESPUBLIKA ARMENIYA in Russian 23 Nov 93 p 
+<F P="102">  944K0560A Yerevan RESPUBLIKA ARMENIYA in Russian 23 Nov 93 p 
 2 </F>
 
-<F P=103> 944K0560A </F>
-<F P=104>  Yerevan RESPUBLIKA ARMENIYA </F>
+<F P="103"> 944K0560A </F>
+<F P="104">  Yerevan RESPUBLIKA ARMENIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by the State Administration for Statistics, State </F>
+<F P="106"> [Report by the State Administration for Statistics, State </F>
 Registry, and Analysis of the Republic of Armenia: "The Economy 
 of the Republic of Armenia in January-September 1993"] 
   [Text] The dynamics of main socioeconomic indicators in the 
@@ -15879,21 +15880,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Ambassador Analyzes Relations With Russia </TI></H3>
-<F P=102>  944K0614A Moscow LITERATURNAYA GAZETA in Russian No 3, 19 
+<F P="102">  944K0614A Moscow LITERATURNAYA GAZETA in Russian No 3, 19 
 Jan 94 p 11 </F>
 
-<F P=103> 944K0614A </F>
-<F P=104>  Moscow LITERATURNAYA GAZETA </F>
+<F P="103"> 944K0614A </F>
+<F P="104">  Moscow LITERATURNAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Valter Shoniya, Russian ambassador to </F>
+<F P="106"> [Interview with Valter Shoniya, Russian ambassador to </F>
 Azerbaijan, by LITERATURNAYA GAZETA staff correspondent Elmira 
 Akhundova; place and date not given: "`I Did Not Receive 
 Instructions on Whom To Place My Bets' Says Valter Shoniya, 
@@ -16043,21 +16044,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Advadze on Impact of Gamsakhurdia Demise </TI></H3>
-<F P=102>  944K0615A Moscow OBSHCHAYA GAZETA in Russian No 2, 14 Jan 94 
+<F P="102">  944K0615A Moscow OBSHCHAYA GAZETA in Russian No 2, 14 Jan 94 
 p 5 </F>
 
-<F P=103> 944K0615A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
+<F P="103"> 944K0615A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Valerian Advadze, ambassador extraordinary </F>
+<F P="106"> [Interview with Valerian Advadze, ambassador extraordinary </F>
 and plenipotentiary of the Republic of Georgia to the Russian 
 Federation, by I.M.; place and date not given: "Gamsakhurdia's 
 Death"] 
@@ -16218,21 +16219,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Gaydar on Reform Expectations </TI></H3>
-<F P=102>  944K0602A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
+<F P="102">  944K0602A Moscow ARGUMENTY I FAKTY in Russian No 2-3, Jan 94 
 p 4 </F>
 
-<F P=103> 944K0602A </F>
-<F P=104>  Moscow ARGUMENTY I FAKTY </F>
+<F P="103"> 944K0602A </F>
+<F P="104">  Moscow ARGUMENTY I FAKTY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Ye. Gaydar, first deputy chairman of the </F>
+<F P="106"> [Interview with Ye. Gaydar, first deputy chairman of the </F>
 Government of Russia, by Tatyana Korostikova; place and date not 
 given: "What Will They Berate the Authorities For in the New 
 Year: Ye. Gaydar's Departure Facilitated an Abrupt Fall of the 
@@ -16368,19 +16369,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Yavlinskiy on Economic Situation, Future Prospects </TI></H3>
-<F P=102>  944E0410A Moscow KOMMERSANT-DAILY in Russian 22 Jan 94 p 3 </F>
-<F P=103> 944E0410A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
+<F P="102">  944E0410A Moscow KOMMERSANT-DAILY in Russian 22 Jan 94 p 3 </F>
+<F P="103"> 944E0410A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Press conference given by Grigoriy Yavlinskiy reported by </F>
+<F P="106"> [Press conference given by Grigoriy Yavlinskiy reported by </F>
 Radmir Kilmatov: "Yavlinskiy Suggested That the Dollar's 
 Exchange Rate be Increased"] 
   [Text] At his press conference yesterday, Grigoriy 
@@ -16468,21 +16469,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Academicians Offer Economic Reform Plan </TI></H3>
-<F P=102>  PM2801170594 Moscow IZVESTIYA in Russian 29 Jan 94 First 
+<F P="102">  PM2801170594 Moscow IZVESTIYA in Russian 29 Jan 94 First 
 Edition pp 1-2 </F>
 
-<F P=103> PM2801170594 </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="103"> PM2801170594 </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Article by Rustam Arifdzhanov: "Economic Advisers of the </F>
+<F P="106"> [Article by Rustam Arifdzhanov: "Economic Advisers of the </F>
 Gorbachev Era Offer Yeltsin and Chernomyrdin the New Life 
 Old-Style"] 
   [Text] Venerable academicains have just completed work on 
@@ -16645,19 +16646,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Federation of Commodity Producers Against Radical Economic Reforms </TI></H3>
-<F P=102>  944E0406A Moscow PRAVDA in Russian 18 Jan 94 p 2 </F>
-<F P=103> 944E0406A </F>
-<F P=104>  Moscow PRAVDA </F>
+<F P="102">  944E0406A Moscow PRAVDA in Russian 18 Jan 94 p 2 </F>
+<F P="103"> 944E0406A </F>
+<F P="104">  Moscow PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Declaration of Russian Commodity Producers, adopted by the </F>
+<F P="106"> [Declaration of Russian Commodity Producers, adopted by the </F>
 Congress of Representatives of Members of the Federation of 
 Public Associations of Russian Commodity Producers: "Plow, But 
 Without Seeming To"] 
@@ -16755,19 +16756,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   `Nonmonetary Means' to Correct Course of Reforms Criticized </TI></H3>
-<F P=102>  944E0409A Moscow SEGODNYA in Russian 25 Jan 94 p 1 </F>
-<F P=103> 944E0409A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944E0409A Moscow SEGODNYA in Russian 25 Jan 94 p 1 </F>
+<F P="103"> 944E0409A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Rustam Narzikulov: "Nonmonetary Jugglers"] </F>
+<F P="106"> [Article by Rustam Narzikulov: "Nonmonetary Jugglers"] </F>
   [Text] The "group of experts" formed under First Vice 
 Premier Oleg Soskovets is planning to refute one of the basic 
 postulates of current macroeconomic theory, which establishes a 
@@ -16853,21 +16854,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   `Trade Unity' Union on Strategy for Reforms </TI></H3>
-<F P=102>  944E0400A Moscow TORGOVAYA GAZETA in Russian No 5, 15 Jan 94 
+<F P="102">  944E0400A Moscow TORGOVAYA GAZETA in Russian No 5, 15 Jan 94 
 p 3 </F>
 
-<F P=103> 944E0400A </F>
-<F P=104>  Moscow TORGOVAYA GAZETA </F>
+<F P="103"> 944E0400A </F>
+<F P="104">  Moscow TORGOVAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yuriy Bobkov, chairman of the Central Committee </F>
+<F P="106"> [Article by Yuriy Bobkov, chairman of the Central Committee </F>
 of the "Trade Unity" Trade Union: "The Course: Transformations 
 and Reforming"] 
   [Text] To work so that every trade-union member is 
@@ -17059,19 +17060,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Inflation, Sharp Increase in Ruble's Exchange Projected </TI></H3>
-<F P=102>  944E0394A Moscow SEGODNYA in Russian 20 Jan 94 p 3 </F>
-<F P=103> 944E0394A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944E0394A Moscow SEGODNYA in Russian 20 Jan 94 p 3 </F>
+<F P="103"> 944E0394A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Natalya Gorodetskaya under the rubric </F>
+<F P="106"> [Article by Natalya Gorodetskaya under the rubric </F>
 "Projections"; based on reports by INTERFAX and POSTFACTUM: 
 "Experts Believe That the Ruble Will Fall Still Lower, but 
 Because of the Council of Ministers Rather Than Gaydar"] 
@@ -17173,19 +17174,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Synthesis of Planning, Market Economic Policy Recommended </TI></H3>
-<F P=102>  944E0388A Moscow RABOCHAYA TRIBUNA in Russian 19 Jan 94 p 2 </F>
-<F P=103> 944E0388A </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
+<F P="102">  944E0388A Moscow RABOCHAYA TRIBUNA in Russian 19 Jan 94 p 2 </F>
+<F P="103"> 944E0388A </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Kokorin, economist: "Viewpoint. A </F>
+<F P="106"> [Article by Vladimir Kokorin, economist: "Viewpoint. A </F>
 Pseudodemocracy and a Pseudomarket"] 
   [Text] Moscow--Entering the market in our right mind, 
 we have the right to lay claim to at least one of the stages of 
@@ -17345,21 +17346,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Antimonopoly Committee's Function Assessed </TI></H3>
-<F P=102>  944E0397A Moscow EKONOMIKA I ZHIZN in Russian No 2, Jan 94 p 
+<F P="102">  944E0397A Moscow EKONOMIKA I ZHIZN in Russian No 2, Jan 94 p 
 18 </F>
 
-<F P=103> 944E0397A </F>
-<F P=104>  Moscow EKONOMIKA I ZHIZN </F>
+<F P="103"> 944E0397A </F>
+<F P="104">  Moscow EKONOMIKA I ZHIZN </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by A. Blinov, Candidate of Economic Sciences, </F>
+<F P="106"> [Article by A. Blinov, Candidate of Economic Sciences, </F>
 Russian Federation State Committee for Antimonopoly Policy and 
 Support of New Economic Structures: "Support for 
 Entrepreneurship: Helping Those Who Help Themselves"] 
@@ -17512,21 +17513,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Federal Bankruptcy Chief Belyayev Interviewed </TI></H3>
-<F P=102>  944Q0143A Moscow NOVOYE VREMYA in Russian No 2, Jan 94 
+<F P="102">  944Q0143A Moscow NOVOYE VREMYA in Russian No 2, Jan 94 
 (Signed to press 11 Jan 94) pp 16-19 </F>
 
-<F P=103> 944Q0143A </F>
-<F P=104>  Moscow NOVOYE VREMYA </F>
+<F P="103"> 944Q0143A </F>
+<F P="104">  Moscow NOVOYE VREMYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with S. Belyayev, head of the Federal </F>
+<F P="106"> [Interview with S. Belyayev, head of the Federal </F>
 Administration for Insolvency (Bankruptcy) Cases, by NOVOYE 
 VREMYA commentator Galina Kovalskaya, under the "Special to 
 NOVOYE VREMYA" rubric; place and date not given: "If You Are 
@@ -17878,19 +17879,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Labor Ministry Official on Rising Hidden Unemployment </TI></H3>
-<F P=102>  944E0385A Moscow DELOVOY MIR in Russian 12 Jan 94 p 5 </F>
-<F P=103> 944E0385A </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="102">  944E0385A Moscow DELOVOY MIR in Russian 12 Jan 94 p 5 </F>
+<F P="103"> 944E0385A </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Aleksandr Tkachenko, chief of the </F>
+<F P="106"> [Interview with Aleksandr Tkachenko, chief of the </F>
 administration of policy for the labor market and the population 
 of the Ministry of Labor of the Russian Federation, by Inna 
 Rozanova, under the "Employment" rubric; place and date not 
@@ -18116,19 +18117,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Unpaid Wages Allegedly Being Manipulated by Finance Ministry </TI></H3>
-<F P=102>  944E0395A Moscow RABOCHAYA TRIBUNA in Russian 22 Jan 94 p 2 </F>
-<F P=103> 944E0395A </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
+<F P="102">  944E0395A Moscow RABOCHAYA TRIBUNA in Russian 22 Jan 94 p 2 </F>
+<F P="103"> 944E0395A </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Arkadiy Solovyev, RABOCHAYA TRIBUNA economics </F>
+<F P="106"> [Article by Arkadiy Solovyev, RABOCHAYA TRIBUNA economics </F>
 columnist: "A Hole in the Budget Is Not a Hole in a Bagel; An 
 Attempt Is Being Made To Patch It Up With Workers' Wages"] 
   [Text] The consumer price index for yet another month has 
@@ -18260,19 +18261,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Procedures to Acquire, Give Up RF Citizenship Detailed </TI></H3>
-<F P=102>  944E0395B Moscow RABOCHAYA TRIBUNA in Russian 25 Jan 94 p 2 </F>
-<F P=103> 944E0395B </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
+<F P="102">  944E0395B Moscow RABOCHAYA TRIBUNA in Russian 25 Jan 94 p 2 </F>
+<F P="103"> 944E0395B </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrey Novikov: "Quite Official; It Is Easy To </F>
+<F P="106"> [Article by Andrey Novikov: "Quite Official; It Is Easy To </F>
 Become a Citizen in Our Country"] 
   [Text] In connection with making changes to the law of the 
 Russian Federation "On RSFSR Citizenship," the president of 
@@ -18328,19 +18329,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Goskomstat Data on Industry's Work for 11 Months of 1993 </TI></H3>
-<F P=102>  944E0381A Moscow SEGODNYA in Russian 11 Jan 94 p 11 </F>
-<F P=103> 944E0381A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944E0381A Moscow SEGODNYA in Russian 11 Jan 94 p 11 </F>
+<F P="103"> 944E0381A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed report based on data of the Russian Federation </F>
+<F P="106"> [Unattributed report based on data of the Russian Federation </F>
 State Committee on Statistics: "Results of Russian Industry 
 Operations for 11 Months"] 
   [Text] In January-November 1993 the volume of industrial 
@@ -18496,21 +18497,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   President of Chamber of Commerce, Industry on Past Year's Activity </TI></H3>
-<F P=102>  944E0399A Moscow EKONOMIKA I ZHIZN in Russian No 3, January 
+<F P="102">  944E0399A Moscow EKONOMIKA I ZHIZN in Russian No 3, January 
 94 p 19 </F>
 
-<F P=103> 944E0399A </F>
-<F P=104>  Moscow EKONOMIKA I ZHIZN </F>
+<F P="103"> 944E0399A </F>
+<F P="104">  Moscow EKONOMIKA I ZHIZN </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Russian Federation Chamber of Commerce and </F>
+<F P="106"> [Interview with Russian Federation Chamber of Commerce and </F>
 Industry President S. Smirnov, by EKONOMIKA I ZHIZN 
 correspondent B. Rachkov: "Russia Will Be Reborn Through 
 Entrepreneurship"] 
@@ -18741,19 +18742,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Privatization Process in St Petersburg for 1993 Assessed </TI></H3>
-<F P=102>  944E0408A Moscow DELOVOY MIR in Russian 22 Jan 94 p 4 </F>
-<F P=103> 944E0408A </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="102">  944E0408A Moscow DELOVOY MIR in Russian 22 Jan 94 p 4 </F>
+<F P="103"> 944E0408A </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yelena Druzhinina, DELOVOY MIR correspondent: </F>
+<F P="106"> [Article by Yelena Druzhinina, DELOVOY MIR correspondent: </F>
 "By Its Own Path -- the Privatization Process in Petersburg Is 
 Developing"] 
   [Text] Petersburg remains the leader in Russian 
@@ -18876,21 +18877,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Trade Committee on Market Prospects for 1994 </TI></H3>
-<F P=102>  944E0398A Moscow TORGOVAYA GAZETA in Russian No 6, 18 Jan 94 
+<F P="102">  944E0398A Moscow TORGOVAYA GAZETA in Russian No 6, 18 Jan 94 
 p 2 </F>
 
-<F P=103> 944E0398A </F>
-<F P=104>  Moscow TORGOVAYA GAZETA </F>
+<F P="103"> 944E0398A </F>
+<F P="104">  Moscow TORGOVAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article: "Will We Have Enough To Eat?"] </F>
+<F P="106"> [Article: "Will We Have Enough To Eat?"] </F>
   [Text] In the last few years, despite the semblance 
 of well-being, the situation with the food supply for the 
 population has deteriorated sharply. Russia has never had enough 
@@ -19050,19 +19051,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   DELOVOY MIR Survey of Enterprise Directors, 11 January </TI></H3>
-<F P=102>  944E0374A Moscow DELOVOY MIR in Russian 11 Jan 94 p 3 </F>
-<F P=103> 944E0374A </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="102">  944E0374A Moscow DELOVOY MIR in Russian 11 Jan 94 p 3 </F>
+<F P="103"> 944E0374A </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Candidate of Economic Sciences Vladimir </F>
+<F P="106"> [Article by Candidate of Economic Sciences Vladimir </F>
 Belyanov: "There Is No Upsurge in Sight: Enterprise Directors 
 Appraise the Situation in the National Economy"] 
   [Text] DELOVOY MIR regularly publishes the results of 
@@ -19844,19 +19845,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 February 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Industrial Activity for January 1994 </TI></H3>
-<F P=102>  944E0386A Moscow DELOVOY MIR in Russian 14 Jan 94 p 5 </F>
-<F P=103> 944E0386A </F>
-<F P=104>  Moscow DELOVOY MIR </F>
+<F P="102">  944E0386A Moscow DELOVOY MIR in Russian 14 Jan 94 p 5 </F>
+<F P="103"> 944E0386A </F>
+<F P="104">  Moscow DELOVOY MIR </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Doctor of Economic Science Aleksandr Frenkel: </F>
+<F P="106"> [Article by Doctor of Economic Science Aleksandr Frenkel: </F>
 "Russian Industry in January 1994: A Forecast"] 
   [Text] In appraising the situation in Russian 
 industry in January 1994, we have first and foremost to take 
@@ -20319,3 +20320,4 @@ in developing this forecast
 </TEXT>
 
 </DOC>
+</root>

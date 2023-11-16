@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS4-68079 </DOCNO>
@@ -13,13 +14,13 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> FBIS TERRORISM REPORT HIGHLIGHTS: 6-13 May </F>
+<F P="100"> FBIS TERRORISM REPORT HIGHLIGHTS: 6-13 May </F>
 <H3> <TI>   FBIS TERRORISM REPORT HIGHLIGHTS: 6-13 May </TI></H3>
-<HT><F P=107><PHRASE>    FBIS TERRORISM REPORT HIGHLIGHTS: 6-13 May </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    FBIS TERRORISM REPORT HIGHLIGHTS: 6-13 May </PHRASE></F></HT>
 
-<F P=102>   11111111 </F>
-<F P=103> 11111111 </F>
-<F P=104></F>
+<F P="102">   11111111 </F>
+<F P="103"> 11111111 </F>
+<F P="104"></F>
 
 
 
@@ -122,13 +123,13 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> SELECTED VIDEO REPORTS </F>
+<F P="100"> SELECTED VIDEO REPORTS </F>
 <H3> <TI>   SELECTED VIDEO REPORTS </TI></H3>
-<HT><F P=107><PHRASE>    SELECTED VIDEO REPORTS </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SELECTED VIDEO REPORTS </PHRASE></F></HT>
 
-<F P=102>   11111111 </F>
-<F P=103> 11111111 </F>
-<F P=104></F>
+<F P="102">   11111111 </F>
+<F P="103"> 11111111 </F>
+<F P="104"></F>
 
 
 
@@ -209,15 +210,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> INTERNATIONAL </F>
-<F P=101></F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"></F>
 <H3> <TI>     Japan Police Reveal Threat Against Turkish Airlines Flight </TI></H3>
-<HT><F P=107><PHRASE>    Japan Police Reveal Threat Against Turkish Airlines Flight </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Japan Police Reveal Threat Against Turkish Airlines Flight </PHRASE></F></HT>
 
-<F P=102>   OW1305053894 Tokyo KYODO in English 0419 GMT 13 May 94 </F>
-<F P=103> OW1305053894 </F>
-<F P=104>  Tokyo KYODO </F>
-<F P=105>  English </F>
+<F P="102">   OW1305053894 Tokyo KYODO in English 0419 GMT 13 May 94 </F>
+<F P="103"> OW1305053894 </F>
+<F P="104">  Tokyo KYODO </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -264,23 +265,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> INTERNATIONAL </F>
-<F P=101></F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"></F>
 <H3> <TI>     Expert on Algerian FIS Structure, Operations in France </TI></H3>
-<HT><F P=107><PHRASE>    Expert on Algerian FIS Structure, Operations in France </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Expert on Algerian FIS Structure, Operations in France </PHRASE></F></HT>
 
-<F P=102>   BR1305130994 Paris LE QUOTIDIEN DE PARIS in French 11 May 94 
+<F P="102">   BR1305130994 Paris LE QUOTIDIEN DE PARIS in French 11 May 94 
 p 8 </F>
 
-<F P=103> BR1305130994 </F>
-<F P=104>  Paris LE QUOTIDIEN DE PARIS </F>
-<F P=105>  French </F>
+<F P="103"> BR1305130994 </F>
+<F P="104">  Paris LE QUOTIDIEN DE PARIS </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Charles Pellegrini, former head of the </F>
+<F P="106"> [Interview with Charles Pellegrini, former head of the </F>
 Central Criminal Repression Agency, by Christophe Gautier; place 
 and date not given: "Charles Pellegrini: `The Islamic 
 Salvation Front Has No Formal Structure and Operates Through 
@@ -349,15 +350,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> INTERNATIONAL </F>
-<F P=101></F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"></F>
 <H3> <TI>     Polish Embassy in Moscow Evacuated After Bomb Threat </TI></H3>
-<HT><F P=107><PHRASE>    Polish Embassy in Moscow Evacuated After Bomb Threat </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Polish Embassy in Moscow Evacuated After Bomb Threat </PHRASE></F></HT>
 
-<F P=102>   LD1305153694 Warsaw PAP in English 1533 GMT 13 May 94 </F>
-<F P=103> LD1305153694 </F>
-<F P=104>  Warsaw PAP </F>
-<F P=105>  English </F>
+<F P="102">   LD1305153694 Warsaw PAP in English 1533 GMT 13 May 94 </F>
+<F P="103"> LD1305153694 </F>
+<F P="104">  Warsaw PAP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -387,17 +388,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   5 May 1994 </DATE1>
-<F P=100> INTERNATIONAL </F>
-<F P=101></F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"></F>
 <H3> <TI>     Turkish Antiterror Police Detain 21 Hamas Supporters </TI></H3>
-<HT><F P=107><PHRASE>    Turkish Antiterror Police Detain 21 Hamas Supporters </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Turkish Antiterror Police Detain 21 Hamas Supporters </PHRASE></F></HT>
 
-<F P=102>   NC1005104594 Ankara TURKISH DAILY NEWS in English 5 May 94 p 
+<F P="102">   NC1005104594 Ankara TURKISH DAILY NEWS in English 5 May 94 p 
 2 </F>
 
-<F P=103> NC1005104594 </F>
-<F P=104>  Ankara TURKISH DAILY NEWS </F>
-<F P=105>  English </F>
+<F P="103"> NC1005104594 </F>
+<F P="104">  Ankara TURKISH DAILY NEWS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -444,21 +445,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   2 May 1994 </DATE1>
-<F P=100> INTERNATIONAL </F>
-<F P=101></F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"></F>
 <H3> <TI>     Terrorist Financier Bin-Ladin Said Operating From Holland </TI></H3>
-<HT><F P=107><PHRASE>    Terrorist Financier Bin-Ladin Said Operating From Holland </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Terrorist Financier Bin-Ladin Said Operating From Holland </PHRASE></F></HT>
 
-<F P=102>   NC0905153494 Cairo AL-WAFD in Arabic 2 May 94 p 12 </F>
-<F P=103> NC0905153494 </F>
-<F P=104>  Cairo AL-WAFD </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC0905153494 Cairo AL-WAFD in Arabic 2 May 94 p 12 </F>
+<F P="103"> NC0905153494 </F>
+<F P="104">  Cairo AL-WAFD </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report from London by Mustafa al-Buhayri in the "Good Day" </F>
+<F P="106"> [Report from London by Mustafa al-Buhayri in the "Good Day" </F>
 box] 
   [Text] Millionaire Usamah Bin-Ladin, the primary source of 
 financing for terrorist groups in Egypt and the Arab world, has 
@@ -487,15 +488,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> INTERNATIONAL </F>
-<F P=101></F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"></F>
 <H3> <TI>     Japan Police To Transfer Security Techniques to Mexico </TI></H3>
-<HT><F P=107><PHRASE>    Japan Police To Transfer Security Techniques to Mexico </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Japan Police To Transfer Security Techniques to Mexico </PHRASE></F></HT>
 
-<F P=102>   OW0905012094 Tokyo KYODO in English 0031 GMT 9 May 94 </F>
-<F P=103> OW0905012094 </F>
-<F P=104>  Tokyo KYODO </F>
-<F P=105>  English </F>
+<F P="102">   OW0905012094 Tokyo KYODO in English 0031 GMT 9 May 94 </F>
+<F P="103"> OW0905012094 </F>
+<F P="104">  Tokyo KYODO </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -541,23 +542,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 May 1994 </DATE1>
-<F P=100> INTERNATIONAL </F>
-<F P=101></F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"></F>
 <H3> <TI>     Turkey, Jordan Sign Narcotics, Terrorism Accords </TI></H3>
-<HT><F P=107><PHRASE>    Turkey, Jordan Sign Narcotics, Terrorism Accords </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Turkey, Jordan Sign Narcotics, Terrorism Accords </PHRASE></F></HT>
 
-<F P=102>   TA0705181994 Ankara TRT Television Network in Turkish 1700 
+<F P="102">   TA0705181994 Ankara TRT Television Network in Turkish 1700 
 GMT 7 May 94 </F>
 
-<F P=103> TA0705181994 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA0705181994 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report over video] </F>
+<F P="106"> [Announcer-read report over video] </F>
   [Text] Turkey and Jordan will cooperate in the struggle 
 against narcotics smuggling and terrorism. An agreement was 
 signed in Ankara today between Turkey and Jordan for the 
@@ -597,17 +598,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 April 1994 </DATE1>
-<F P=100> AFRICA </F>
-<F P=101> MALI </F>
+<F P="100"> AFRICA </F>
+<F P="101"> MALI </F>
 <H3> <TI>   U.S., Western Interests Reportedly Threatened </TI></H3>
-<HT><F P=107><PHRASE>    U.S., Western Interests Reportedly Threatened </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S., Western Interests Reportedly Threatened </PHRASE></F></HT>
 
-<F P=102>   AB0805203594 Libreville Africa No. 1 in French 1215 GMT 7 
+<F P="102">   AB0805203594 Libreville Africa No. 1 in French 1215 GMT 7 
 Apr 94 </F>
 
-<F P=103> AB0805203594 </F>
-<F P=104>  Libreville Africa No. 1 </F>
-<F P=105>  French </F>
+<F P="103"> AB0805203594 </F>
+<F P="104">  Libreville Africa No. 1 </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -639,17 +640,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   5 February 1994 </DATE1>
-<F P=100> EAST ASIA </F>
-<F P=101> PHILIPPINES </F>
+<F P="100"> EAST ASIA </F>
+<F P="101"> PHILIPPINES </F>
 <H3> <TI>   February Report--Police Call for Offensive on Abu-Sayyaf </TI></H3>
-<HT><F P=107><PHRASE>    February Report--Police Call for Offensive on Abu-Sayyaf </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    February Report--Police Call for Offensive on Abu-Sayyaf </PHRASE></F></HT>
 
-<F P=102>   94SEOO96 Cotabato City MINDANAO CROSS in English 5 Feb 94 pp 
+<F P="102">   94SEOO96 Cotabato City MINDANAO CROSS in English 5 Feb 94 pp 
 22, 21 </F>
 
-<F P=103> 94SEOO96 </F>
-<F P=104>  Cotabato City MINDANAO CROSS </F>
-<F P=105>  English </F>
+<F P="103"> 94SEOO96 </F>
+<F P="104">  Cotabato City MINDANAO CROSS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -729,15 +730,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   10 May 1994 </DATE1>
-<F P=100> EAST EUROPE </F>
-<F P=101> ALBANIA </F>
+<F P="100"> EAST EUROPE </F>
+<F P="101"> ALBANIA </F>
 <H3> <TI>   Explosion Reported at Anti-Greek Paper Chief Editor's Home </TI></H3>
-<HT><F P=107><PHRASE>    Explosion Reported at Anti-Greek Paper Chief Editor's Home </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Explosion Reported at Anti-Greek Paper Chief Editor's Home </PHRASE></F></HT>
 
-<F P=102>   AU1005163394 Tirana ATA in English 1204 GMT 10 May 94 </F>
-<F P=103> AU1005163394 </F>
-<F P=104>  Tirana ATA </F>
-<F P=105>  English </F>
+<F P="102">   AU1005163394 Tirana ATA in English 1204 GMT 10 May 94 </F>
+<F P="103"> AU1005163394 </F>
+<F P="104">  Tirana ATA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -779,21 +780,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   5 May 1994 </DATE1>
-<F P=100> EAST EUROPE </F>
-<F P=101> CZECH REPUBLIC </F>
+<F P="100"> EAST EUROPE </F>
+<F P="101"> CZECH REPUBLIC </F>
 <H3> <TI>   Government `Expects Terrorist Actions,' Crime </TI></H3>
-<HT><F P=107><PHRASE>    Government `Expects Terrorist Actions,' Crime </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government `Expects Terrorist Actions,' Crime </PHRASE></F></HT>
 
-<F P=102>   AU0905101694 Prague MLADA FRONTA DNES in Czech 5 May 94 p 1 </F>
-<F P=103> AU0905101694 </F>
-<F P=104>  Prague MLADA FRONTA DNES </F>
-<F P=105>  Czech </F>
+<F P="102">   AU0905101694 Prague MLADA FRONTA DNES in Czech 5 May 94 p 1 </F>
+<F P="103"> AU0905101694 </F>
+<F P="104">  Prague MLADA FRONTA DNES </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["ajk"-signed report: "Organized Crime Will Grow This Year"] </F>
+<F P="106"> ["ajk"-signed report: "Organized Crime Will Grow This Year"] </F>
   [Text] People will be exposed to even more pressure from 
 organized crime this year than they have been hitherto, and 
 especially in the fields of narcotics, embezzlement, illegal 
@@ -843,17 +844,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> ARGENTINA </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> ARGENTINA </F>
 <H3> <TI>   Tear Gas Grenade Explodes at Japanese Embassy </TI></H3>
-<HT><F P=107><PHRASE>    Tear Gas Grenade Explodes at Japanese Embassy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tear Gas Grenade Explodes at Japanese Embassy </PHRASE></F></HT>
 
-<F P=102>   PY1305161194 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
+<F P="102">   PY1305161194 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
 1436 GMT 13 May 94 </F>
 
-<F P=103> PY1305161194 </F>
-<F P=104>  Buenos Aires NOTICIAS ARGENTINAS </F>
-<F P=105>  Spanish </F>
+<F P="103"> PY1305161194 </F>
+<F P="104">  Buenos Aires NOTICIAS ARGENTINAS </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -903,15 +904,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   8 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> COLOMBIA </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> COLOMBIA </F>
 <H3> <TI>   Army, Police Foil Guerrilla Plot Against Election Process </TI></H3>
-<HT><F P=107><PHRASE>    Army, Police Foil Guerrilla Plot Against Election Process </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Army, Police Foil Guerrilla Plot Against Election Process </PHRASE></F></HT>
 
-<F P=102>   PA0805200894 Paris AFP in Spanish 1531 GMT 8 May 94 </F>
-<F P=103> PA0805200894 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  Spanish </F>
+<F P="102">   PA0805200894 Paris AFP in Spanish 1531 GMT 8 May 94 </F>
+<F P="103"> PA0805200894 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -964,17 +965,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> CUBA </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> CUBA </F>
 <H3> <TI>   Civil Aeronautics Institute Reports Hijacking </TI></H3>
-<HT><F P=107><PHRASE>    Civil Aeronautics Institute Reports Hijacking </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Civil Aeronautics Institute Reports Hijacking </PHRASE></F></HT>
 
-<F P=102>   PA0905075894 Havana PRENSA LATINA in Spanish 0709 GMT 9 May 
+<F P="102">   PA0905075894 Havana PRENSA LATINA in Spanish 0709 GMT 9 May 
 94 </F>
 
-<F P=103> PA0905075894 </F>
-<F P=104>  Havana PRENSA LATINA </F>
-<F P=105>  Spanish </F>
+<F P="103"> PA0905075894 </F>
+<F P="104">  Havana PRENSA LATINA </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1010,17 +1011,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> EL SALVADOR </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> EL SALVADOR </F>
 <H3> <TI>   FMLN Deputies Reject FRS Death Threats </TI></H3>
-<HT><F P=107><PHRASE>    FMLN Deputies Reject FRS Death Threats </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    FMLN Deputies Reject FRS Death Threats </PHRASE></F></HT>
 
-<F P=102>   PA0805231594 San Salvador LA PRENSA GRAFICA in Spanish 7 May 
+<F P="102">   PA0805231594 San Salvador LA PRENSA GRAFICA in Spanish 7 May 
 94 p 11 </F>
 
-<F P=103> PA0805231594 </F>
-<F P=104>  San Salvador LA PRENSA GRAFICA </F>
-<F P=105>  Spanish </F>
+<F P="103"> PA0805231594 </F>
+<F P="104">  San Salvador LA PRENSA GRAFICA </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1102,14 +1103,14 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Roundup of Insurgent Activities </TI></H3>
-<HT><F P=107><PHRASE>    Roundup of Insurgent Activities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Roundup of Insurgent Activities </PHRASE></F></HT>
 
-<F P=102>   PY1305015694 </F>
-<F P=103> PY1305015694 </F>
-<F P=104></F>
+<F P="102">   PY1305015694 </F>
+<F P="103"> PY1305015694 </F>
+<F P="104"></F>
 
 
 
@@ -1207,15 +1208,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   SL Raiders Seize Cocaine, Kill `Narcoterrorist' </TI></H3>
-<HT><F P=107><PHRASE>    SL Raiders Seize Cocaine, Kill `Narcoterrorist' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SL Raiders Seize Cocaine, Kill `Narcoterrorist' </PHRASE></F></HT>
 
-<F P=102>   PY1205184794 Madrid EFE in Spanish 1545 GMT 12 May 94 </F>
-<F P=103> PY1205184794 </F>
-<F P=104>  Madrid EFE </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1205184794 Madrid EFE in Spanish 1545 GMT 12 May 94 </F>
+<F P="103"> PY1205184794 </F>
+<F P="104">  Madrid EFE </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1252,15 +1253,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   4 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   `Red Path' Seeks To Gain `Strategic Balance' in Lima </TI></H3>
-<HT><F P=107><PHRASE>    `Red Path' Seeks To Gain `Strategic Balance' in Lima </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Red Path' Seeks To Gain `Strategic Balance' in Lima </PHRASE></F></HT>
 
-<F P=102>   PY1205013594 Lima EXPRESO in Spanish 4 May 94 p A2 </F>
-<F P=103> PY1205013594 </F>
-<F P=104>  Lima EXPRESO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1205013594 Lima EXPRESO in Spanish 4 May 94 p A2 </F>
+<F P="103"> PY1205013594 </F>
+<F P="104">  Lima EXPRESO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1381,15 +1382,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   2 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   New SL Central Committee To `Reorganize' Party </TI></H3>
-<HT><F P=107><PHRASE>    New SL Central Committee To `Reorganize' Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New SL Central Committee To `Reorganize' Party </PHRASE></F></HT>
 
-<F P=102>   PY1105214194 Lima EXPRESO in Spanish 2 May 94 p A6 </F>
-<F P=103> PY1105214194 </F>
-<F P=104>  Lima EXPRESO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1105214194 Lima EXPRESO in Spanish 2 May 94 p A6 </F>
+<F P="103"> PY1105214194 </F>
+<F P="104">  Lima EXPRESO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1462,15 +1463,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   3 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   SL's `Feliciano' Taking Measures Against `Possible Defeat' </TI></H3>
-<HT><F P=107><PHRASE>    SL's `Feliciano' Taking Measures Against `Possible Defeat' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SL's `Feliciano' Taking Measures Against `Possible Defeat' </PHRASE></F></HT>
 
-<F P=102>   PY1105213094 Lima EXPRESO in Spanish 3 May 94 p A2 </F>
-<F P=103> PY1105213094 </F>
-<F P=104>  Lima EXPRESO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1105213094 Lima EXPRESO in Spanish 3 May 94 p A2 </F>
+<F P="103"> PY1105213094 </F>
+<F P="104">  Lima EXPRESO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1535,15 +1536,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   5 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Arrested Shining Path Leader Talks With Captors </TI></H3>
-<HT><F P=107><PHRASE>    Arrested Shining Path Leader Talks With Captors </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arrested Shining Path Leader Talks With Captors </PHRASE></F></HT>
 
-<F P=102>   PY1105132194 Lima EXPRESO in Spanish 5 May 94 p A5 </F>
-<F P=103> PY1105132194 </F>
-<F P=104>  Lima EXPRESO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1105132194 Lima EXPRESO in Spanish 5 May 94 p A5 </F>
+<F P="103"> PY1105132194 </F>
+<F P="104">  Lima EXPRESO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1595,15 +1596,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   27 April 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Military Analysts Believe MRTA-SL Clash Inevitable </TI></H3>
-<HT><F P=107><PHRASE>    Military Analysts Believe MRTA-SL Clash Inevitable </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Military Analysts Believe MRTA-SL Clash Inevitable </PHRASE></F></HT>
 
-<F P=102>   PY1005210994 Lima EXPRESO in Spanish 27 Apr 94 p A3 </F>
-<F P=103> PY1005210994 </F>
-<F P=104>  Lima EXPRESO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1005210994 Lima EXPRESO in Spanish 27 Apr 94 p A3 </F>
+<F P="103"> PY1005210994 </F>
+<F P="104">  Lima EXPRESO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -1706,21 +1707,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   28 April 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   SL February Meeting Decided To Continue `People's War' </TI></H3>
-<HT><F P=107><PHRASE>    SL February Meeting Decided To Continue `People's War' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SL February Meeting Decided To Continue `People's War' </PHRASE></F></HT>
 
-<F P=102>   PY0905222294 Lima LA REPUBLICA in Spanish 28 Apr 94 pp 19-21 </F>
-<F P=103> PY0905222294 </F>
-<F P=104>  Lima LA REPUBLICA </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY0905222294 Lima LA REPUBLICA in Spanish 28 Apr 94 pp 19-21 </F>
+<F P="103"> PY0905222294 </F>
+<F P="104">  Lima LA REPUBLICA </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Exclusive" report by Angel Paez] </F>
+<F P="106"> ["Exclusive" report by Angel Paez] </F>
   [Text] The Shining Path [SL] Central Committee, comprised 
 of leaders who have still not been arrested and alternate 
 members elected by the SL congress in 1988, held a meeting in 
@@ -2010,17 +2011,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Police Capture `Important' MRTA Leader, Seize Weapons </TI></H3>
-<HT><F P=107><PHRASE>    Police Capture `Important' MRTA Leader, Seize Weapons </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police Capture `Important' MRTA Leader, Seize Weapons </PHRASE></F></HT>
 
-<F P=102>   PY0705031594 Lima Global de Television Network in Spanish 
+<F P="102">   PY0705031594 Lima Global de Television Network in Spanish 
 0130 GMT </F>
 
-<F P=103> PY0705031594 </F>
-<F P=104>  Lima Global de Television Network </F>
-<F P=105>  Spanish </F>
+<F P="103"> PY0705031594 </F>
+<F P="104">  Lima Global de Television Network </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -2069,21 +2070,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   26 April 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Uncovered Bodies Said To Belong to Shining Path Commanders </TI></H3>
-<HT><F P=107><PHRASE>    Uncovered Bodies Said To Belong to Shining Path Commanders </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Uncovered Bodies Said To Belong to Shining Path Commanders </PHRASE></F></HT>
 
-<F P=102>   PY0705011994 Lima EL COMERCIO in Spanish 26 Apr 94 p A1 </F>
-<F P=103> PY0705011994 </F>
-<F P=104>  Lima EL COMERCIO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY0705011994 Lima EL COMERCIO in Spanish 26 Apr 94 p A1 </F>
+<F P="103"> PY0705011994 </F>
+<F P="104">  Lima EL COMERCIO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Jose Antonio Indacochea Alvarez] </F>
+<F P="106"> [Article by Jose Antonio Indacochea Alvarez] </F>
   [Text] Tingo Maria, 25 Apr -- General Alfredo Rodriguez 
 Riveros, chief of the Huallaga Front, said that the bodies found 
 buried in a grave in the Shapingo sector (Moyuna) yesterday by 
@@ -2130,15 +2131,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   24 April 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Chilean MRTA Terrorist `May Be in Hiding' in Central Jungle </TI></H3>
-<HT><F P=107><PHRASE>    Chilean MRTA Terrorist `May Be in Hiding' in Central Jungle </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chilean MRTA Terrorist `May Be in Hiding' in Central Jungle </PHRASE></F></HT>
 
-<F P=102>   PY0705011794 Lima EXPRESO in Spanish 24 Apr 94 p A3 </F>
-<F P=103> PY0705011794 </F>
-<F P=104>  Lima EXPRESO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY0705011794 Lima EXPRESO in Spanish 24 Apr 94 p A3 </F>
+<F P="103"> PY0705011794 </F>
+<F P="104">  Lima EXPRESO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -2196,19 +2197,19 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   IRNA Says Diplomats Abducted in Lebanon in '82 Given to </TI></H3>
-<HT><F P=107><PHRASE>    IRNA Says Diplomats Abducted in Lebanon in '82 Given to </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IRNA Says Diplomats Abducted in Lebanon in '82 Given to </PHRASE></F></HT>
 
 
 <TEXT>
 Israel 
 
-<F P=102>   LD0905163994 Tehran IRNA in English 1620 GMT 9 May 94 </F>
-<F P=103> LD0905163994 </F>
-<F P=104>  Tehran IRNA </F>
-<F P=105>  English </F>
+<F P="102">   LD0905163994 Tehran IRNA in English 1620 GMT 9 May 94 </F>
+<F P="103"> LD0905163994 </F>
+<F P="104">  Tehran IRNA </F>
+<F P="105">  English </F>
 BFN 
 
   [Text] Beirut, May 9, IRNA -- Four Iranian diplomats who 
@@ -2252,21 +2253,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   Jordanian Sources Claim 'Arafat Assassination Bid Foiled </TI></H3>
-<HT><F P=107><PHRASE>    Jordanian Sources Claim 'Arafat Assassination Bid Foiled </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jordanian Sources Claim 'Arafat Assassination Bid Foiled </PHRASE></F></HT>
 
-<F P=102>   PM1305150094 London AL-SHARQ AL-AWSAT in Arabic 13 May 94 p4 </F>
-<F P=103> PM1305150094 </F>
-<F P=104>  London AL-SHARQ AL-AWSAT </F>
-<F P=105>  Arabic </F>
+<F P="102">   PM1305150094 London AL-SHARQ AL-AWSAT in Arabic 13 May 94 p4 </F>
+<F P="103"> PM1305150094 </F>
+<F P="104">  London AL-SHARQ AL-AWSAT </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "Palestinian Leading Figures Deny </F>
+<F P="106"> [Unattributed report: "Palestinian Leading Figures Deny </F>
 Knowledge of the Incident, But Jordanian Sources Say an Attempt 
 To Blow Up 'Arafat's Plane Was Foiled"] 
   [Text] Amman, AL-SHARQ AL-AWSAT -- Leading Palestinian 
@@ -2314,15 +2315,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   Hamas Moves Media Activity From Amman to Damascus </TI></H3>
-<HT><F P=107><PHRASE>    Hamas Moves Media Activity From Amman to Damascus </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas Moves Media Activity From Amman to Damascus </PHRASE></F></HT>
 
-<F P=102>   JN0705101194 Amman SHIHAN in Arabic 7-13 May 94 p 5 </F>
-<F P=103> JN0705101194 </F>
-<F P=104>  Amman SHIHAN </F>
-<F P=105>  Arabic </F>
+<F P="102">   JN0705101194 Amman SHIHAN in Arabic 7-13 May 94 p 5 </F>
+<F P="103"> JN0705101194 </F>
+<F P="104">  Amman SHIHAN </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2355,21 +2356,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   22 April 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   Hamas Rep on Jordan, Possible Rocket Attacks on Settlers </TI></H3>
-<HT><F P=107><PHRASE>    Hamas Rep on Jordan, Possible Rocket Attacks on Settlers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas Rep on Jordan, Possible Rocket Attacks on Settlers </PHRASE></F></HT>
 
-<F P=102>   NC0605200894 Beirut AL-'AHD in Arabic 22 Apr 94 p 23 </F>
-<F P=103> NC0605200894 </F>
-<F P=104>  Beirut AL-'AHD </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC0605200894 Beirut AL-'AHD in Arabic 22 Apr 94 p 23 </F>
+<F P="103"> NC0605200894 </F>
+<F P="104">  Beirut AL-'AHD </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Mustafa al-Liddawi, representative of the </F>
+<F P="106"> [Interview with Mustafa al-Liddawi, representative of the </F>
 Islamic Resistance Movement-Hamas in Beirut, by Ja'far Salim and 
 'Abbas Surur; date not given] 
   [Excerpts] [passage omitted] 
@@ -2462,17 +2463,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   10 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   FIS `Activist' Arrested in France With Car Load of Weapons </TI></H3>
-<HT><F P=107><PHRASE>    FIS `Activist' Arrested in France With Car Load of Weapons </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    FIS `Activist' Arrested in France With Car Load of Weapons </PHRASE></F></HT>
 
-<F P=102>   LD1005200294 Algiers ENTV Television Network in Arabic 1900 
+<F P="102">   LD1005200294 Algiers ENTV Television Network in Arabic 1900 
 GMT 10 May 94 </F>
 
-<F P=103> LD1005200294 </F>
-<F P=104>  Algiers ENTV Television Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> LD1005200294 </F>
+<F P="104">  Algiers ENTV Television Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2509,18 +2510,18 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   8 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Two French Citizens Killed in Casbah </TI></H3>
-<HT><F P=107><PHRASE>    Two French Citizens Killed in Casbah </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Two French Citizens Killed in Casbah </PHRASE></F></HT>
 <H4>    Security Services Report Killing </H4>
 
-<F P=102> LD0805172594 Algiers Radio Algiers Network in Arabic 1700 
+<F P="102"> LD0805172594 Algiers Radio Algiers Network in Arabic 1700 
 GMT 8 May 94 </F>
 
-<F P=103> LD0805172594 </F>
-<F P=104>  Algiers Radio Algiers Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> LD0805172594 </F>
+<F P="104">  Algiers Radio Algiers Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2552,22 +2553,22 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Two French Citizens Killed in Casbah </TI></H3>
-<HT><F P=107><PHRASE>    Two French Citizens Killed in Casbah </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Two French Citizens Killed in Casbah </PHRASE></F></HT>
 <H4>    French Statement Names Victims </H4>
 
-<F P=102> BR0905142694 Paris LIBERATION in French 9 May 94 p 48 </F>
-<F P=103> BR0905142694 </F>
-<F P=104>  Paris LIBERATION </F>
-<F P=105>  French </F>
+<F P="102"> BR0905142694 Paris LIBERATION in French 9 May 94 p 48 </F>
+<F P="103"> BR0905142694 </F>
+<F P="104">  Paris LIBERATION </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Gilles Millet report: "Two French Clergy Persons </F>
+<F P="106"> [Gilles Millet report: "Two French Clergy Persons </F>
 Assassinated in Algiers Yesterday"] 
   [Excerpts] It is clear that those who assassinated Henri 
 Verges, aged 64, and his sister Paule-Helene Saint-Raymond, 67, 
@@ -2604,15 +2605,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Three Security Men Killed in Asyut </TI></H3>
-<HT><F P=107><PHRASE>    Three Security Men Killed in Asyut </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Three Security Men Killed in Asyut </PHRASE></F></HT>
 
-<F P=102>   NC1305132994 Cairo MENA in Arabic 1235 GMT 13 May 94 </F>
-<F P=103> NC1305132994 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1305132994 Cairo MENA in Arabic 1235 GMT 13 May 94 </F>
+<F P="103"> NC1305132994 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2660,15 +2661,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   10 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Opposition MP Says State Ordered Fundamentalist Lawyer Killed </TI></H3>
-<HT><F P=107><PHRASE>    Opposition MP Says State Ordered Fundamentalist Lawyer Killed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Opposition MP Says State Ordered Fundamentalist Lawyer Killed </PHRASE></F></HT>
 
-<F P=102>   NC1005210494 Paris AFP in English 1818 GMT 10 May 94 </F>
-<F P=103> NC1005210494 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   NC1005210494 Paris AFP in English 1818 GMT 10 May 94 </F>
+<F P="103"> NC1005210494 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2729,15 +2730,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Former Council Head in Asyut Remanded for Arms' Possession </TI></H3>
-<HT><F P=107><PHRASE>    Former Council Head in Asyut Remanded for Arms' Possession </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Former Council Head in Asyut Remanded for Arms' Possession </PHRASE></F></HT>
 
-<F P=102>   NC1105142494 Cairo MENA in Arabic 1337 GMT 11 May 94 </F>
-<F P=103> NC1105142494 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1105142494 Cairo MENA in Arabic 1337 GMT 11 May 94 </F>
+<F P="103"> NC1105142494 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2772,15 +2773,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Shooting Incident in Sadafa Gas Station Injures Two </TI></H3>
-<HT><F P=107><PHRASE>    Shooting Incident in Sadafa Gas Station Injures Two </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shooting Incident in Sadafa Gas Station Injures Two </PHRASE></F></HT>
 
-<F P=102>   NC0905162894 Cairo MENA in Arabic 1505 GMT 9 May 94 </F>
-<F P=103> NC0905162894 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC0905162894 Cairo MENA in Arabic 1505 GMT 9 May 94 </F>
+<F P="103"> NC0905162894 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2835,15 +2836,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Gunmen Fire At Police Station Checkpoint, Two Injured </TI></H3>
-<HT><F P=107><PHRASE>    Gunmen Fire At Police Station Checkpoint, Two Injured </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Gunmen Fire At Police Station Checkpoint, Two Injured </PHRASE></F></HT>
 
-<F P=102>   NC0905131794 Cairo MENA in Arabic 1250 GMT 9 May 94 </F>
-<F P=103> NC0905131794 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC0905131794 Cairo MENA in Arabic 1250 GMT 9 May 94 </F>
+<F P="103"> NC0905131794 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2879,15 +2880,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   6 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Sidqi Dialogue With `Terrorists' Attempted in 1980's </TI></H3>
-<HT><F P=107><PHRASE>    Sidqi Dialogue With `Terrorists' Attempted in 1980's </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sidqi Dialogue With `Terrorists' Attempted in 1980's </PHRASE></F></HT>
 
-<F P=102>   NC0605183394 Cairo MENA in Arabic 1755 GMT 6 May 94 </F>
-<F P=103> NC0605183394 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC0605183394 Cairo MENA in Arabic 1755 GMT 6 May 94 </F>
+<F P="103"> NC0605183394 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2929,17 +2930,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> INDIA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> INDIA </F>
 <H3> <TI>   `Pakistan-Trained Kashmiri Terrorist' Arrested in Delhi </TI></H3>
-<HT><F P=107><PHRASE>    `Pakistan-Trained Kashmiri Terrorist' Arrested in Delhi </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Pakistan-Trained Kashmiri Terrorist' Arrested in Delhi </PHRASE></F></HT>
 
-<F P=102>   BK1305011694 Delhi All India Radio Network in English 1530 
+<F P="102">   BK1305011694 Delhi All India Radio Network in English 1530 
 GMT 12 May 94 </F>
 
-<F P=103> BK1305011694 </F>
-<F P=104>  Delhi All India Radio Network </F>
-<F P=105>  English </F>
+<F P="103"> BK1305011694 </F>
+<F P="104">  Delhi All India Radio Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2971,17 +2972,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> INDIA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> INDIA </F>
 <H3> <TI>   Two Bombs Explode at Officials' Homes in Sikkim </TI></H3>
-<HT><F P=107><PHRASE>    Two Bombs Explode at Officials' Homes in Sikkim </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Two Bombs Explode at Officials' Homes in Sikkim </PHRASE></F></HT>
 
-<F P=102>   BK0905102094 Delhi All India Radio Network in English 0830 
+<F P="102">   BK0905102094 Delhi All India Radio Network in English 0830 
 GMT 9 May 94 </F>
 
-<F P=103> BK0905102094 </F>
-<F P=104>  Delhi All India Radio Network </F>
-<F P=105>  English </F>
+<F P="103"> BK0905102094 </F>
+<F P="104">  Delhi All India Radio Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3014,17 +3015,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Hamas al-Qassam Battalions Claim 12 May Attacks </TI></H3>
-<HT><F P=107><PHRASE>    Hamas al-Qassam Battalions Claim 12 May Attacks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas al-Qassam Battalions Claim 12 May Attacks </PHRASE></F></HT>
 
-<F P=102>   JN1205163594 Paris Radio Monte Carlo in Arabic 1600 GMT 12 
+<F P="102">   JN1205163594 Paris Radio Monte Carlo in Arabic 1600 GMT 12 
 May 94 </F>
 
-<F P=103> JN1205163594 </F>
-<F P=104>  Paris Radio Monte Carlo </F>
-<F P=105>  Arabic </F>
+<F P="103"> JN1205163594 </F>
+<F P="104">  Paris Radio Monte Carlo </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -3055,17 +3056,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   PFLP Claims Responsibility for Attack on Bus </TI></H3>
-<HT><F P=107><PHRASE>    PFLP Claims Responsibility for Attack on Bus </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PFLP Claims Responsibility for Attack on Bus </PHRASE></F></HT>
 
-<F P=102>   JN1105094394 Paris Radio Monte Carlo in Arabic 0900 GMT 11 
+<F P="102">   JN1105094394 Paris Radio Monte Carlo in Arabic 0900 GMT 11 
 May 94 </F>
 
-<F P=103> JN1105094394 </F>
-<F P=104>  Paris Radio Monte Carlo </F>
-<F P=105>  Arabic </F>
+<F P="103"> JN1105094394 </F>
+<F P="104">  Paris Radio Monte Carlo </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -3101,23 +3102,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Arab Teenager Reportedly Killed by Settler </TI></H3>
-<HT><F P=107><PHRASE>    Arab Teenager Reportedly Killed by Settler </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arab Teenager Reportedly Killed by Settler </PHRASE></F></HT>
 
-<F P=102>   TA0905174494 Jerusalem New Channel 2 Television Network in 
+<F P="102">   TA0905174494 Jerusalem New Channel 2 Television Network in 
 Hebrew 1700 GMT 9 May 94 </F>
 
-<F P=103> TA0905174494 </F>
-<F P=104>  Jerusalem New Channel 2 Television Network </F>
-<F P=105>  Hebrew </F>
+<F P="103"> TA0905174494 </F>
+<F P="104">  Jerusalem New Channel 2 Television Network </F>
+<F P="105">  Hebrew </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Text] Here is a report just in: A resident of the Neve 
 Deqalim settlement has killed an Arab youth with his firearm. 
 This was reported by Palestinian sources. The ITIM news agency 
@@ -3143,17 +3144,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   U.S. Tourist Stabbed in W. Bank Village </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Tourist Stabbed in W. Bank Village </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Tourist Stabbed in W. Bank Village </PHRASE></F></HT>
 
-<F P=102>   TA0705191494 Jerusalem Qol Yisra'el in Hebrew 1900 GMT 7 May 
+<F P="102">   TA0705191494 Jerusalem Qol Yisra'el in Hebrew 1900 GMT 7 May 
 94 </F>
 
-<F P=103> TA0705191494 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
-<F P=105>  Hebrew </F>
+<F P="103"> TA0705191494 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
+<F P="105">  Hebrew </F>
 
 
 <TEXT>
@@ -3184,21 +3185,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> JORDAN </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> JORDAN </F>
 <H3> <TI>   Report Reviews Details of `Afghans' Case </TI></H3>
-<HT><F P=107><PHRASE>    Report Reviews Details of `Afghans' Case </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Report Reviews Details of `Afghans' Case </PHRASE></F></HT>
 
-<F P=102>   JN0905170594 Amman AL-RA'Y in Arabic 9 May 94 p 28 </F>
-<F P=103> JN0905170594 </F>
-<F P=104>  Amman AL-RA'Y </F>
-<F P=105>  Arabic </F>
+<F P="102">   JN0905170594 Amman AL-RA'Y in Arabic 9 May 94 p 28 </F>
+<F P="103"> JN0905170594 </F>
+<F P="104">  Amman AL-RA'Y </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Ahmad Kurayshan] </F>
+<F P="106"> [Report by Ahmad Kurayshan] </F>
   [Excerpts] The public prosecutor of the State Security 
 Court has issued a decision dismissing the case of seven 
 Jordanian Afghan defendants. The public prosecutor announced 
@@ -3309,17 +3310,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> LEBANON </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> LEBANON </F>
 <H3> <TI>   Arrest Warrant Issued for Former President's Murderer </TI></H3>
-<HT><F P=107><PHRASE>    Arrest Warrant Issued for Former President's Murderer </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arrest Warrant Issued for Former President's Murderer </PHRASE></F></HT>
 
-<F P=102>   NC1205122794 Beirut Radio Lebanon in Arabic 1030 GMT 12 May 
+<F P="102">   NC1205122794 Beirut Radio Lebanon in Arabic 1030 GMT 12 May 
 94 </F>
 
-<F P=103> NC1205122794 </F>
-<F P=104>  Beirut Radio Lebanon </F>
-<F P=105>  Arabic </F>
+<F P="103"> NC1205122794 </F>
+<F P="104">  Beirut Radio Lebanon </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -3354,17 +3355,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> LEBANON </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> LEBANON </F>
 <H3> <TI>   Amal Movement Issues Statement After Member Killed at Home </TI></H3>
-<HT><F P=107><PHRASE>    Amal Movement Issues Statement After Member Killed at Home </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Amal Movement Issues Statement After Member Killed at Home </PHRASE></F></HT>
 
-<F P=102>   NC1205083094 Beirut Radio Lebanon in Arabic 0800 GMT 12 May 
+<F P="102">   NC1205083094 Beirut Radio Lebanon in Arabic 0800 GMT 12 May 
 94 </F>
 
-<F P=103> NC1205083094 </F>
-<F P=104>  Beirut Radio Lebanon </F>
-<F P=105>  Arabic </F>
+<F P="103"> NC1205083094 </F>
+<F P="104">  Beirut Radio Lebanon </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -3396,21 +3397,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   6 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> LEBANON </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> LEBANON </F>
 <H3> <TI>   Hizballah Issues Statement Denouncing Cairo Agreement </TI></H3>
-<HT><F P=107><PHRASE>    Hizballah Issues Statement Denouncing Cairo Agreement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hizballah Issues Statement Denouncing Cairo Agreement </PHRASE></F></HT>
 
-<F P=102>   NC1105203594 Beirut AL-'AHD in Arabic 6 May 94 p 6 </F>
-<F P=103> NC1105203594 </F>
-<F P=104>  Beirut AL-'AHD </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1105203594 Beirut AL-'AHD in Arabic 6 May 94 p 6 </F>
+<F P="103"> NC1105203594 </F>
+<F P="104">  Beirut AL-'AHD </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Statement by Hizballah on the Palestinian-Israeli Agreement </F>
+<F P="106"> [Statement by Hizballah on the Palestinian-Israeli Agreement </F>
 signed in Cairo; date not given] 
   [Text] A new festival of fraudulence is being held in an 
 Arab capital to obliterate the most luminous cause, the 
@@ -3475,15 +3476,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> LIBYA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> LIBYA </F>
 <H3> <TI>   Foreign Liaison Bureau Reacts To U.S. Terrorism Report </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Liaison Bureau Reacts To U.S. Terrorism Report </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Liaison Bureau Reacts To U.S. Terrorism Report </PHRASE></F></HT>
 
-<F P=102>   LD1205132394 Tripoli JANA in Arabic 1144 GMT 12 May 94 </F>
-<F P=103> LD1205132394 </F>
-<F P=104>  Tripoli JANA </F>
-<F P=105>  Arabic </F>
+<F P="102">   LD1205132394 Tripoli JANA in Arabic 1144 GMT 12 May 94 </F>
+<F P="103"> LD1205132394 </F>
+<F P="104">  Tripoli JANA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -3549,17 +3550,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PAKISTAN </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PAKISTAN </F>
 <H3> <TI>   Troops Arrest Two `Indian Terrorists' in Azad Kashmir </TI></H3>
-<HT><F P=107><PHRASE>    Troops Arrest Two `Indian Terrorists' in Azad Kashmir </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Troops Arrest Two `Indian Terrorists' in Azad Kashmir </PHRASE></F></HT>
 
-<F P=102>   BK0905145594 Islamabad PTV Television Network in English 
+<F P="102">   BK0905145594 Islamabad PTV Television Network in English 
 1400 GMT 9 May 94 </F>
 
-<F P=103> BK0905145594 </F>
-<F P=104>  Islamabad PTV Television Network </F>
-<F P=105>  English </F>
+<F P="103"> BK0905145594 </F>
+<F P="104">  Islamabad PTV Television Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3614,23 +3615,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> RUSSIA </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> RUSSIA </F>
 <H3> <TI>   Radiation Sources Reported Missing From Laboratory </TI></H3>
-<HT><F P=107><PHRASE>    Radiation Sources Reported Missing From Laboratory </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Radiation Sources Reported Missing From Laboratory </PHRASE></F></HT>
 
-<F P=102>   MK0705103594 Moscow NEZAVISIMAYA GAZETA in Russian 7 May 94 
+<F P="102">   MK0705103594 Moscow NEZAVISIMAYA GAZETA in Russian 7 May 94 
 p 2 </F>
 
-<F P=103> MK0705103594 </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> MK0705103594 </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed INTERFAX report in the "In Brief" column] </F>
+<F P="106"> [Unattributed INTERFAX report in the "In Brief" column] </F>
   [Text] Nakhodka -- A few days ago eight radiation sources 
 from ship dosimeters containing highly active strontium-90, 
 yttrium-90, and plutonium-239 radionuclides were stolen from the 
@@ -3659,23 +3660,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Article Examines Gulua Murder, Lists Other 1994 Incidents </TI></H3>
-<HT><F P=107><PHRASE>    Article Examines Gulua Murder, Lists Other 1994 Incidents </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Article Examines Gulua Murder, Lists Other 1994 Incidents </PHRASE></F></HT>
 
-<F P=102>   AU0905120594 Tbilisi NOVAYA GAZETA in Russian No. 7 (73) Apr 
+<F P="102">   AU0905120594 Tbilisi NOVAYA GAZETA in Russian No. 7 (73) Apr 
 94 p 1 </F>
 
-<F P=103> AU0905120594 </F>
-<F P=104>  Tbilisi NOVAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> AU0905120594 </F>
+<F P="104">  Tbilisi NOVAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Has the Ice Begun To Break?"] </F>
+<F P="106"> [Unattributed article: "Has the Ice Begun To Break?"] </F>
   [Text] Several people have been detained on suspicion of 
 being involved in the murder of Gia Gulua, deputy minister of 
 internal affairs. We were informed about this in the press 
@@ -3800,21 +3801,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> UKRAINE </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> UKRAINE </F>
 <H3> <TI>   Would-Be Terrorists Arrested in Mariupol </TI></H3>
-<HT><F P=107><PHRASE>    Would-Be Terrorists Arrested in Mariupol </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Would-Be Terrorists Arrested in Mariupol </PHRASE></F></HT>
 
-<F P=102>   PM0905101794 Moscow TRUD in Russian 7 May 94 p 3 </F>
-<F P=103> PM0905101794 </F>
-<F P=104>  Moscow TRUD </F>
-<F P=105>  Russian </F>
+<F P="102">   PM0905101794 Moscow TRUD in Russian 7 May 94 p 3 </F>
+<F P="103"> PM0905101794 </F>
+<F P="104">  Moscow TRUD </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report from roundup of UKRINFORM and TASS reports: </F>
+<F P="106"> [Report from roundup of UKRINFORM and TASS reports: </F>
 "Terrorists' Trace"] 
   [Excerpt] Donetsk Oblast -- An operation to arrest and 
 convict a group of foreign citizens who intended to commit an 
@@ -3841,17 +3842,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> GREECE </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> GREECE </F>
 <H3> <TI>   New Organization Claims Attack on Labor Confederation Car </TI></H3>
-<HT><F P=107><PHRASE>    New Organization Claims Attack on Labor Confederation Car </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Organization Claims Attack on Labor Confederation Car </PHRASE></F></HT>
 
-<F P=102>   NC1205125294 Athens Elliniki Radhiofonia Radio Network in 
+<F P="102">   NC1205125294 Athens Elliniki Radhiofonia Radio Network in 
 Greek 1130 GMT 12 May 94 </F>
 
-<F P=103> NC1205125294 </F>
-<F P=104>  Athens Elliniki Radhiofonia Radio Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC1205125294 </F>
+<F P="104">  Athens Elliniki Radhiofonia Radio Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -3888,15 +3889,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   4 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Terrorist Front Responsible for Attack on Freemasons </TI></H3>
-<HT><F P=107><PHRASE>    Terrorist Front Responsible for Attack on Freemasons </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Terrorist Front Responsible for Attack on Freemasons </PHRASE></F></HT>
 
-<F P=102>   NC1305155694 Istanbul SABAH in Turkish 4 May 94 p 13 </F>
-<F P=103> NC1305155694 </F>
-<F P=104>  Istanbul SABAH </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC1305155694 Istanbul SABAH in Turkish 4 May 94 p 13 </F>
+<F P="103"> NC1305155694 </F>
+<F P="104">  Istanbul SABAH </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -3934,23 +3935,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Twelve PKK Members Planning Attack Caught in Istanbul </TI></H3>
-<HT><F P=107><PHRASE>    Twelve PKK Members Planning Attack Caught in Istanbul </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Twelve PKK Members Planning Attack Caught in Istanbul </PHRASE></F></HT>
 
-<F P=102>   TA1205153094 Ankara TRT Television Network in Turkish 1500 
+<F P="102">   TA1205153094 Ankara TRT Television Network in Turkish 1500 
 GMT 12 May 94 </F>
 
-<F P=103> TA1205153094 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA1205153094 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report over video] </F>
+<F P="106"> [Announcer-read report over video] </F>
   [Text] Twelve members of the PKK [Workers Party of 
 Kurdistan] terrorist organization who were preparing to commit a 
 terrorist attack have been caught in Istanbul. 
@@ -3986,15 +3987,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Foreign Ministry Says PKK Trying To Obtain UN Funds </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Ministry Says PKK Trying To Obtain UN Funds </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Ministry Says PKK Trying To Obtain UN Funds </PHRASE></F></HT>
 
-<F P=102>   TA1105155194 Ankara ANATOLIA in English 1430 GMT 11 May 94 </F>
-<F P=103> TA1105155194 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA1105155194 Ankara ANATOLIA in English 1430 GMT 11 May 94 </F>
+<F P="103"> TA1105155194 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4050,15 +4051,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Spokesman Welcomes 1993 U.S. Report on Terrorism </TI></H3>
-<HT><F P=107><PHRASE>    Spokesman Welcomes 1993 U.S. Report on Terrorism </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Spokesman Welcomes 1993 U.S. Report on Terrorism </PHRASE></F></HT>
 
-<F P=102>   TA1105163194 Ankara ANATOLIA in Turkish 1530 GMT 11 May 94 </F>
-<F P=103> TA1105163194 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  Turkish </F>
+<F P="102">   TA1105163194 Ankara ANATOLIA in Turkish 1530 GMT 11 May 94 </F>
+<F P="103"> TA1105163194 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -4107,23 +4108,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   `Sound Bombs' at Istanbul Train Station; No Casualties </TI></H3>
-<HT><F P=107><PHRASE>    `Sound Bombs' at Istanbul Train Station; No Casualties </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Sound Bombs' at Istanbul Train Station; No Casualties </PHRASE></F></HT>
 
-<F P=102>   TA0905082394 Ankara TRT Television Network in Turkish 0700 
+<F P="102">   TA0905082394 Ankara TRT Television Network in Turkish 0700 
 GMT 9 May 94 </F>
 
-<F P=103> TA0905082394 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA0905082394 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report over video] </F>
+<F P="106"> [Announcer-read report over video] </F>
   [Text] Two sound bombs were thrown underneath one of the 
 coaches of the blue train at Haydarpasa Station in Istanbul last 
 night. No one was killed or injured in the incident. 
@@ -4154,17 +4155,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   8 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   PKK Militants Arrested for Conspiracy in France </TI></H3>
-<HT><F P=107><PHRASE>    PKK Militants Arrested for Conspiracy in France </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PKK Militants Arrested for Conspiracy in France </PHRASE></F></HT>
 
-<F P=102>   LD0805141794 Paris France-2 Teletext in French 1216 GMT 8 
+<F P="102">   LD0805141794 Paris France-2 Teletext in French 1216 GMT 8 
 May 94 </F>
 
-<F P=103> LD0805141794 </F>
-<F P=104>  Paris France-2 Teletext </F>
-<F P=105>  French </F>
+<F P="103"> LD0805141794 </F>
+<F P="104">  Paris France-2 Teletext </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -4197,23 +4198,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Three Explosions Reported in Istanbul; One Injured </TI></H3>
-<HT><F P=107><PHRASE>    Three Explosions Reported in Istanbul; One Injured </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Three Explosions Reported in Istanbul; One Injured </PHRASE></F></HT>
 
-<F P=102>   TA0705151594 Ankara TRT Television Network in Turkish 1200 
+<F P="102">   TA0705151594 Ankara TRT Television Network in Turkish 1200 
 GMT 7 May 94 </F>
 
-<F P=103> TA0705151594 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA0705151594 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report over video] </F>
+<F P="106"> [Announcer-read report over video] </F>
   [Text] There were three different explosions in Istanbul 
 today. One persons was injured. According to information 
 received by a TRT correspondent from security officials, a bomb 
@@ -4248,15 +4249,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   7 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Bomb at Prosperity Party Istanbul Office Wounds Two </TI></H3>
-<HT><F P=107><PHRASE>    Bomb at Prosperity Party Istanbul Office Wounds Two </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bomb at Prosperity Party Istanbul Office Wounds Two </PHRASE></F></HT>
 
-<F P=102>   TA0705105594 Ankara ANATOLIA in English 0910 GMT 7 May 94 </F>
-<F P=103> TA0705105594 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA0705105594 Ankara ANATOLIA in English 0910 GMT 7 May 94 </F>
+<F P="103"> TA0705105594 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4295,15 +4296,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   4 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Iraqi Ambassador--`PKK Will Vanish' Without Hammer Force </TI></H3>
-<HT><F P=107><PHRASE>    Iraqi Ambassador--`PKK Will Vanish' Without Hammer Force </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Iraqi Ambassador--`PKK Will Vanish' Without Hammer Force </PHRASE></F></HT>
 
-<F P=102>   NC0605183594 Istanbul TERCUMAN in Turkish 4 May 94 p 7 </F>
-<F P=103> NC0605183594 </F>
-<F P=104>  Istanbul TERCUMAN </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC0605183594 Istanbul TERCUMAN in Turkish 4 May 94 p 7 </F>
+<F P="103"> NC0605183594 </F>
+<F P="104">  Istanbul TERCUMAN </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -4355,14 +4356,14 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   24 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> COLOMBIA </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> COLOMBIA </F>
 <H3> <TI>   Roundup of Colombian Guerrilla Activities </TI></H3>
-<HT><F P=107><PHRASE>    Roundup of Colombian Guerrilla Activities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Roundup of Colombian Guerrilla Activities </PHRASE></F></HT>
 
-<F P=102>   PA1905041794 </F>
-<F P=103> PA1905041794 </F>
-<F P=104></F>
+<F P="102">   PA1905041794 </F>
+<F P="103"> PA1905041794 </F>
+<F P="104"></F>
 
 
 
@@ -4403,14 +4404,14 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   24 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> COLOMBIA </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> COLOMBIA </F>
 <H3> <TI>   Roundup of Colombian Guerrilla Activities </TI></H3>
-<HT><F P=107><PHRASE>    Roundup of Colombian Guerrilla Activities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Roundup of Colombian Guerrilla Activities </PHRASE></F></HT>
 
-<F P=102>   PA1705173094 </F>
-<F P=103> PA1705173094 </F>
-<F P=104></F>
+<F P="102">   PA1705173094 </F>
+<F P="103"> PA1705173094 </F>
+<F P="104"></F>
 
 
 
@@ -4475,17 +4476,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> COLOMBIA </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> COLOMBIA </F>
 <H3> <TI>   Failed Assassination of Santander Governor Reported </TI></H3>
-<HT><F P=107><PHRASE>    Failed Assassination of Santander Governor Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Failed Assassination of Santander Governor Reported </PHRASE></F></HT>
 
-<F P=102>   PA1505133094 Mexico City NOTIMEX in Spanish 1737 GMT 14 May 
+<F P="102">   PA1505133094 Mexico City NOTIMEX in Spanish 1737 GMT 14 May 
 94 </F>
 
-<F P=103> PA1505133094 </F>
-<F P=104>  Mexico City NOTIMEX </F>
-<F P=105>  Spanish </F>
+<F P="103"> PA1505133094 </F>
+<F P="104">  Mexico City NOTIMEX </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -4542,21 +4543,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   8 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> MEXICO </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> MEXICO </F>
 <H3> <TI>   New Antiterrorist Group Formed </TI></H3>
-<HT><F P=107><PHRASE>    New Antiterrorist Group Formed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Antiterrorist Group Formed </PHRASE></F></HT>
 
-<F P=102>   PA1605134994 Mexico City REFORMA in Spanish 8 May 94 p 1A </F>
-<F P=103> PA1605134994 </F>
-<F P=104>  Mexico City REFORMA </F>
-<F P=105>  Spanish </F>
+<F P="102">   PA1605134994 Mexico City REFORMA in Spanish 8 May 94 p 1A </F>
+<F P="103"> PA1605134994 </F>
+<F P="104">  Mexico City REFORMA </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Gerardo Roman] </F>
+<F P="106"> [Report by Gerardo Roman] </F>
   [Text] In the middle of the guerrilla crisis caused by the 
 Zapatist National Liberation Army [EZLN] in Chiapas, the 
 National Security and Investigation Center requested that 
@@ -4605,15 +4606,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   15 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> MEXICO </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> MEXICO </F>
 <H3> <TI>   Guatemalans, Salvadorans Arrested in Chiapas Rail Bombing </TI></H3>
-<HT><F P=107><PHRASE>    Guatemalans, Salvadorans Arrested in Chiapas Rail Bombing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guatemalans, Salvadorans Arrested in Chiapas Rail Bombing </PHRASE></F></HT>
 
-<F P=102>   PA1505201494 Madrid EFE in Spanish 1835 GMT 15 May 94 </F>
-<F P=103> PA1505201494 </F>
-<F P=104>  Madrid EFE </F>
-<F P=105>  Spanish </F>
+<F P="102">   PA1505201494 Madrid EFE in Spanish 1835 GMT 15 May 94 </F>
+<F P="103"> PA1505201494 </F>
+<F P="104">  Madrid EFE </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -4655,14 +4656,14 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   24 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Roundup of Insurgent Activities </TI></H3>
-<HT><F P=107><PHRASE>    Roundup of Insurgent Activities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Roundup of Insurgent Activities </PHRASE></F></HT>
 
-<F P=102>   PY1805162094 </F>
-<F P=103> PY1805162094 </F>
-<F P=104></F>
+<F P="102">   PY1805162094 </F>
+<F P="103"> PY1805162094 </F>
+<F P="104"></F>
 
 
 
@@ -4705,15 +4706,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   8 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Dincote Claims 20 MRTA Bases Dismantled; Only Four Remain </TI></H3>
-<HT><F P=107><PHRASE>    Dincote Claims 20 MRTA Bases Dismantled; Only Four Remain </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Dincote Claims 20 MRTA Bases Dismantled; Only Four Remain </PHRASE></F></HT>
 
-<F P=102>   PY1805121694 Lima EL COMERCIO in Spanish 8 May 94 p A13 </F>
-<F P=103> PY1805121694 </F>
-<F P=104>  Lima EL COMERCIO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1805121694 Lima EL COMERCIO in Spanish 8 May 94 p A13 </F>
+<F P="103"> PY1805121694 </F>
+<F P="104">  Lima EL COMERCIO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -4799,21 +4800,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   6 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Coca Dealers Reportedly Paid $200 Million to SL Leader </TI></H3>
-<HT><F P=107><PHRASE>    Coca Dealers Reportedly Paid $200 Million to SL Leader </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Coca Dealers Reportedly Paid $200 Million to SL Leader </PHRASE></F></HT>
 
-<F P=102>   PY1805025694 Lima EXPRESO in Spanish 6 May 94 p A6 </F>
-<F P=103> PY1805025694 </F>
-<F P=104>  Lima EXPRESO </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1805025694 Lima EXPRESO in Spanish 6 May 94 p A6 </F>
+<F P="103"> PY1805025694 </F>
+<F P="104">  Lima EXPRESO </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Carlos Aponte, a correspondent in Tingo Maria] </F>
+<F P="106"> [Article by Carlos Aponte, a correspondent in Tingo Maria] </F>
   [Excerpt] Interior Ministry intelligence analysts estimated 
 the fortune amassed by Oscar Alberto Ramirez, aka "President 
 Feliciano," at $200 million through kickbacks paid by gangs of 
@@ -4894,17 +4895,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   State of Emergency Extended in Lima, Callao </TI></H3>
-<HT><F P=107><PHRASE>    State of Emergency Extended in Lima, Callao </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    State of Emergency Extended in Lima, Callao </PHRASE></F></HT>
 
-<F P=102>   PY1705214594 Lima Radio Programas del Peru Network in 
+<F P="102">   PY1705214594 Lima Radio Programas del Peru Network in 
 Spanish 1800 GMT 17 May 94 </F>
 
-<F P=103> PY1705214594 </F>
-<F P=104>  Lima Radio Programas del Peru Network </F>
-<F P=105>  Spanish </F>
+<F P="103"> PY1705214594 </F>
+<F P="104">  Lima Radio Programas del Peru Network </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -4940,15 +4941,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   16 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Car Bomb Explodes in Lima; No Injuries Reported </TI></H3>
-<HT><F P=107><PHRASE>    Car Bomb Explodes in Lima; No Injuries Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Car Bomb Explodes in Lima; No Injuries Reported </PHRASE></F></HT>
 
-<F P=102>   PY1605133994 Madrid EFE in Spanish 1245 GMT 16 May 94 </F>
-<F P=103> PY1605133994 </F>
-<F P=104>  Madrid EFE </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1605133994 Madrid EFE in Spanish 1245 GMT 16 May 94 </F>
+<F P="103"> PY1605133994 </F>
+<F P="104">  Madrid EFE </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -4990,15 +4991,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Wave of Attacks To Celebrate 14th SL Anniversary Feared </TI></H3>
-<HT><F P=107><PHRASE>    Wave of Attacks To Celebrate 14th SL Anniversary Feared </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Wave of Attacks To Celebrate 14th SL Anniversary Feared </PHRASE></F></HT>
 
-<F P=102>   PY1305223894 Madrid EFE in Spanish 0622 GMT 13 May 94 </F>
-<F P=103> PY1305223894 </F>
-<F P=104>  Madrid EFE </F>
-<F P=105>  Spanish </F>
+<F P="102">   PY1305223894 Madrid EFE in Spanish 0622 GMT 13 May 94 </F>
+<F P="103"> PY1305223894 </F>
+<F P="104">  Madrid EFE </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -5062,23 +5063,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   24 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> PERU </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> PERU </F>
 <H3> <TI>   Guzman's Third Letter Appeals for Peace Accord </TI></H3>
-<HT><F P=107><PHRASE>    Guzman's Third Letter Appeals for Peace Accord </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guzman's Third Letter Appeals for Peace Accord </PHRASE></F></HT>
 
-<F P=102>   94WR0136A Lima SI in Spanish 11-17 Apr 94 pp 20-22--FOR 
+<F P="102">   94WR0136A Lima SI in Spanish 11-17 Apr 94 pp 20-22--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> 94WR0136A </F>
-<F P=104>  Lima SI </F>
-<F P=105>  Spanish </F>
+<F P="103"> 94WR0136A </F>
+<F P="104">  Lima SI </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed article: "The Letter That Was Filed"; first </F>
+<F P="106"> [Unattributed article: "The Letter That Was Filed"; first </F>
 paragraph is SI editorial introduction] 
   [Text] Six months after it was signed Shining Path [SL] 
 has made public the often reported third letter from prison of 
@@ -5297,21 +5298,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Egypt-Kuwait Relations After Kuwaiti Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Egypt-Kuwait Relations After Kuwaiti Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Egypt-Kuwait Relations After Kuwaiti Arrested </PHRASE></F></HT>
 
-<F P=102>   NC1705145994 Cairo AL-AKHBAR in Arabic 13 May 94 pp 1, 3 </F>
-<F P=103> NC1705145994 </F>
-<F P=104>  Cairo AL-AKHBAR </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1705145994 Cairo AL-AKHBAR in Arabic 13 May 94 pp 1, 3 </F>
+<F P="103"> NC1705145994 </F>
+<F P="104">  Cairo AL-AKHBAR </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Jalal Duwaydar: "Solidarity To Abort Foreign </F>
+<F P="106"> [Article by Jalal Duwaydar: "Solidarity To Abort Foreign </F>
 Funding of Terrorism"] 
   [Excerpts] There may be a gray cloud over Egyptian-Kuwaiti 
 relations as a result of some irresponsible behavior by certain 
@@ -5376,15 +5377,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Pakistan Extradites `Key Terrorist' to Egypt </TI></H3>
-<HT><F P=107><PHRASE>    Pakistan Extradites `Key Terrorist' to Egypt </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Pakistan Extradites `Key Terrorist' to Egypt </PHRASE></F></HT>
 
-<F P=102>   NC1705141094 Cairo MENA in Arabic 1308 GMT 17 May 94 </F>
-<F P=103> NC1705141094 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1705141094 Cairo MENA in Arabic 1308 GMT 17 May 94 </F>
+<F P="103"> NC1705141094 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -5423,17 +5424,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   Gaza Police Commander on `Full Understanding' With Hamas </TI></H3>
-<HT><F P=107><PHRASE>    Gaza Police Commander on `Full Understanding' With Hamas </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Gaza Police Commander on `Full Understanding' With Hamas </PHRASE></F></HT>
 
-<F P=102>   TA1805151494 Jerusalem Qol Yisra'el in Hebrew 1400 GMT 18 
+<F P="102">   TA1805151494 Jerusalem Qol Yisra'el in Hebrew 1400 GMT 18 
 May 94 </F>
 
-<F P=103> TA1805151494 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
-<F P=105>  Hebrew </F>
+<F P="103"> TA1805151494 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
+<F P="105">  Hebrew </F>
 
 
 <TEXT>
@@ -5469,15 +5470,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   16 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   Hamas Official on PFLP-GC, Palestinian Police </TI></H3>
-<HT><F P=107><PHRASE>    Hamas Official on PFLP-GC, Palestinian Police </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas Official on PFLP-GC, Palestinian Police </PHRASE></F></HT>
 
-<F P=102>   JN1605104294 Amman AL-MAJD in Arabic 16 May 94 pp 1, 11 </F>
-<F P=103> JN1605104294 </F>
-<F P=104>  Amman AL-MAJD </F>
-<F P=105>  Arabic </F>
+<F P="102">   JN1605104294 Amman AL-MAJD in Arabic 16 May 94 pp 1, 11 </F>
+<F P="103"> JN1605104294 </F>
+<F P="104">  Amman AL-MAJD </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -5539,15 +5540,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PALESTINIAN AFFAIRS </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PALESTINIAN AFFAIRS </F>
 <H3> <TI>   Opposition Factions Moving Operations to Territories </TI></H3>
-<HT><F P=107><PHRASE>    Opposition Factions Moving Operations to Territories </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Opposition Factions Moving Operations to Territories </PHRASE></F></HT>
 
-<F P=102>   JN1405141494 Amman AL-MAJD in Arabic 9 May 94 p 1 </F>
-<F P=103> JN1405141494 </F>
-<F P=104>  Amman AL-MAJD </F>
-<F P=105>  Arabic </F>
+<F P="102">   JN1405141494 Amman AL-MAJD in Arabic 9 May 94 p 1 </F>
+<F P="103"> JN1405141494 </F>
+<F P="104">  Amman AL-MAJD </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -5584,17 +5585,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Security Forces Kill 20 `Armed Group Members' </TI></H3>
-<HT><F P=107><PHRASE>    Security Forces Kill 20 `Armed Group Members' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Security Forces Kill 20 `Armed Group Members' </PHRASE></F></HT>
 
-<F P=102>   LD1405223294 Algiers Radio Algiers Network in Arabic 2200 
+<F P="102">   LD1405223294 Algiers Radio Algiers Network in Arabic 2200 
 GMT 14 May 94 </F>
 
-<F P=103> LD1405223294 </F>
-<F P=104>  Algiers Radio Algiers Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> LD1405223294 </F>
+<F P="104">  Algiers Radio Algiers Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -5624,23 +5625,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   19 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ALGERIA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ALGERIA </F>
 <H3> <TI>   Three Russians, 11 Escort Troops Dead in Bus Ambush </TI></H3>
-<HT><F P=107><PHRASE>    Three Russians, 11 Escort Troops Dead in Bus Ambush </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Three Russians, 11 Escort Troops Dead in Bus Ambush </PHRASE></F></HT>
 
-<F P=102>   LD1905122394 Moscow ITAR-TASS World Service in Russian 1220 
+<F P="102">   LD1905122394 Moscow ITAR-TASS World Service in Russian 1220 
 GMT 19 May 94 </F>
 
-<F P=103> LD1905122394 </F>
-<F P=104>  Moscow ITAR-TASS World Service </F>
-<F P=105>  Russian </F>
+<F P="103"> LD1905122394 </F>
+<F P="104">  Moscow ITAR-TASS World Service </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By ITAR-TASS diplomatic correspondents Boris Krivoshey and </F>
+<F P="106"> [By ITAR-TASS diplomatic correspondents Boris Krivoshey and </F>
 Aleksandr Krylovich] 
   [Text] Moscow, 19 May (ITAR-TASS) -- A terrorist attack 
 against Russian citizens took place in Algeria yesterday. As a 
@@ -5696,17 +5697,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Interior Ministry Releases 38 Repentant Extremist Detainees </TI></H3>
-<HT><F P=107><PHRASE>    Interior Ministry Releases 38 Repentant Extremist Detainees </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Interior Ministry Releases 38 Repentant Extremist Detainees </PHRASE></F></HT>
 
-<F P=102>   NC1805155794 Cairo Arab Republic of Egypt Radio Network in 
+<F P="102">   NC1805155794 Cairo Arab Republic of Egypt Radio Network in 
 Arabic 1400 GMT 18 May 94 </F>
 
-<F P=103> NC1805155794 </F>
-<F P=104>  Cairo Arab Republic of Egypt Radio Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> NC1805155794 </F>
+<F P="104">  Cairo Arab Republic of Egypt Radio Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -5747,15 +5748,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   15 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Unidentified Gunmen Kill Policeman in Asyut </TI></H3>
-<HT><F P=107><PHRASE>    Unidentified Gunmen Kill Policeman in Asyut </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Unidentified Gunmen Kill Policeman in Asyut </PHRASE></F></HT>
 
-<F P=102>   NC1505102594 Cairo MENA in Arabic 0958 GMT 15 May 94 </F>
-<F P=103> NC1505102594 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1505102594 Cairo MENA in Arabic 0958 GMT 15 May 94 </F>
+<F P="103"> NC1505102594 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -5790,15 +5791,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Militants Claim Killings of 3 Policemen in Asyut </TI></H3>
-<HT><F P=107><PHRASE>    Militants Claim Killings of 3 Policemen in Asyut </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Militants Claim Killings of 3 Policemen in Asyut </PHRASE></F></HT>
 
-<F P=102>   NC1405205394 Paris AFP in English 2000 GMT 14 May 94 </F>
-<F P=103> NC1405205394 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   NC1405205394 Paris AFP in English 2000 GMT 14 May 94 </F>
+<F P="103"> NC1405205394 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5839,15 +5840,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> EGYPT </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> EGYPT </F>
 <H3> <TI>   Police Raid 11 Hideouts, Campaign To Continue </TI></H3>
-<HT><F P=107><PHRASE>    Police Raid 11 Hideouts, Campaign To Continue </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police Raid 11 Hideouts, Campaign To Continue </PHRASE></F></HT>
 
-<F P=102>   NC1405185594 Cairo MENA in Arabic 1615 GMT 14 May 94 </F>
-<F P=103> NC1405185594 </F>
-<F P=104>  Cairo MENA </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1405185594 Cairo MENA in Arabic 1615 GMT 14 May 94 </F>
+<F P="103"> NC1405185594 </F>
+<F P="104">  Cairo MENA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -5996,21 +5997,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   19 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Hamas Holds Israel Responsible for Shakh Yasin's Health </TI></H3>
-<HT><F P=107><PHRASE>    Hamas Holds Israel Responsible for Shakh Yasin's Health </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas Holds Israel Responsible for Shakh Yasin's Health </PHRASE></F></HT>
 
-<F P=102>   PM1905112694 London AL-HAYAH in Arabic 19 May 94 p 5 </F>
-<F P=103> PM1905112694 </F>
-<F P=104>  London AL-HAYAH </F>
-<F P=105>  Arabic </F>
+<F P="102">   PM1905112694 London AL-HAYAH in Arabic 19 May 94 p 5 </F>
+<F P="103"> PM1905112694 </F>
+<F P="104">  London AL-HAYAH </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Ibrahim Humaydi report: "Hamas Demands Its Founder's </F>
+<F P="106"> [Ibrahim Humaydi report: "Hamas Demands Its Founder's </F>
 Release"] 
   [Excerpts] Damascus -- The Islamic Resistance Movement 
 (Hamas) has demanded the "immediate" release of Shaykh Ahmad 
@@ -6052,22 +6053,22 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Hamas </TI></H3>
-<HT><F P=107><PHRASE>    Hamas </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas </PHRASE></F></HT>
 
 
 <TEXT>
 Claims   Bet Hagay Shootings 
 <H4>  Two Dead, One Seriously Wounded </H4>
 
-<F P=102> TA1705072694 Jerusalem Qol Yisra'el in Hebrew 0700 GMT 17 
+<F P="102"> TA1705072694 Jerusalem Qol Yisra'el in Hebrew 0700 GMT 17 
 May 94 </F>
 
-<F P=103> TA1705072694 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
-<F P=105>  Hebrew </F>
+<F P="103"> TA1705072694 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
+<F P="105">  Hebrew </F>
 BFN 
 
   [Text] Two Israelis -- a man and a woman -- were killed and 
@@ -6097,22 +6098,22 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Hamas </TI></H3>
-<HT><F P=107><PHRASE>    Hamas </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas </PHRASE></F></HT>
 
 
 <TEXT>
 Claims   Bet Hagay Shootings 
 <H4>  Hamas Squad Claims Responsibility </H4>
 
-<F P=102> TA1705083494 Jerusalem Qol Yisra'el in Hebrew 0800 GMT 17 
+<F P="102"> TA1705083494 Jerusalem Qol Yisra'el in Hebrew 0800 GMT 17 
 May 94 </F>
 
-<F P=103> TA1705083494 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
-<F P=105>  Hebrew </F>
+<F P="103"> TA1705083494 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
+<F P="105">  Hebrew </F>
 BFN 
 
   [Excerpt] [passage omitted] In a telephone call to Qol 
@@ -6145,22 +6146,22 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Hamas </TI></H3>
-<HT><F P=107><PHRASE>    Hamas </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hamas </PHRASE></F></HT>
 
 
 <TEXT>
 Claims   Bet Hagay Shootings 
 <H4>  Baraq Asks Citizens To Carry Weapons </H4>
 
-<F P=102> TA1705134594 Jerusalem Qol Yisra'el in Hebrew 1100 GMT 17 
+<F P="102"> TA1705134594 Jerusalem Qol Yisra'el in Hebrew 1100 GMT 17 
 May 94 </F>
 
-<F P=103> TA1705134594 </F>
-<F P=104>  Jerusalem Qol Yisra'el </F>
-<F P=105>  Hebrew </F>
+<F P="103"> TA1705134594 </F>
+<F P="104">  Jerusalem Qol Yisra'el </F>
+<F P="105">  Hebrew </F>
 BFN 
 
   [Text] Touring the site of this morning's terrorist attack 
@@ -6192,15 +6193,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   16 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> ISRAEL </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> ISRAEL </F>
 <H3> <TI>   Palestinian Police Save Hawks From IDF Capture </TI></H3>
-<HT><F P=107><PHRASE>    Palestinian Police Save Hawks From IDF Capture </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Palestinian Police Save Hawks From IDF Capture </PHRASE></F></HT>
 
-<F P=102>   NC1605131894 Paris AFP in English 1203 GMT 16 May 94 </F>
-<F P=103> NC1605131894 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   NC1605131894 Paris AFP in English 1203 GMT 16 May 94 </F>
+<F P="103"> NC1605131894 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6249,21 +6250,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> LEBANON </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> LEBANON </F>
 <H3> <TI>   Hizballah's Qasim Denies Links With Foreign Hostages </TI></H3>
-<HT><F P=107><PHRASE>    Hizballah's Qasim Denies Links With Foreign Hostages </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hizballah's Qasim Denies Links With Foreign Hostages </PHRASE></F></HT>
 
-<F P=102>   NC1805144994 Beirut AL-DIYAR in Arabic 11 May 94 p 4 </F>
-<F P=103> NC1805144994 </F>
-<F P=104>  Beirut AL-DIYAR </F>
-<F P=105>  Arabic </F>
+<F P="102">   NC1805144994 Beirut AL-DIYAR in Arabic 11 May 94 p 4 </F>
+<F P="103"> NC1805144994 </F>
+<F P="104">  Beirut AL-DIYAR </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Hizballah Deputy Secretary General Shaykh </F>
+<F P="106"> [Interview with Hizballah Deputy Secretary General Shaykh </F>
 Na'im Qasim by unidentified CENTRAL NEWS AGENCY correspondent; 
 place, date not given] 
   [Excerpts] [passage omitted] Correspondent: Some 
@@ -6344,23 +6345,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> LIBYA </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> LIBYA </F>
 <H3> <TI>   `Connection' Between Al-Muntasir's Paris Trip, UTA Case </TI></H3>
-<HT><F P=107><PHRASE>    `Connection' Between Al-Muntasir's Paris Trip, UTA Case </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Connection' Between Al-Muntasir's Paris Trip, UTA Case </PHRASE></F></HT>
 
-<F P=102>   BR1805152494 Paris LE QUOTIDIEN DE PARIS in French 18 May 94 
+<F P="102">   BR1805152494 Paris LE QUOTIDIEN DE PARIS in French 18 May 94 
 p 7 </F>
 
-<F P=103> BR1805152494 </F>
-<F P=104>  Paris LE QUOTIDIEN DE PARIS </F>
-<F P=105>  French </F>
+<F P="103"> BR1805152494 </F>
+<F P="104">  Paris LE QUOTIDIEN DE PARIS </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Sandrine Briclot report: "Strange Visit by Libyan </F>
+<F P="106"> [Sandrine Briclot report: "Strange Visit by Libyan </F>
 Minister; Victims of Bomb Attack Against UTA DC-10 Protest"] 
   [Excerpt] A (private) visit by Libya's foreign minister to 
 Paris this weekend raises pressing questions and indignation on 
@@ -6443,21 +6444,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   15 May 1994 </DATE1>
-<F P=100> NEAR EAST/SOUTH ASIA </F>
-<F P=101> PAKISTAN </F>
+<F P="100"> NEAR EAST/SOUTH ASIA </F>
+<F P="101"> PAKISTAN </F>
 <H3> <TI>   Bomb Blasts Rock Karachi Mosques 14 May </TI></H3>
-<HT><F P=107><PHRASE>    Bomb Blasts Rock Karachi Mosques 14 May </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bomb Blasts Rock Karachi Mosques 14 May </PHRASE></F></HT>
 
-<F P=102>   BK1505111394 Islamabad THE MUSLIM in English 15 May 94 p 1 </F>
-<F P=103> BK1505111394 </F>
-<F P=104>  Islamabad THE MUSLIM </F>
-<F P=105>  English </F>
+<F P="102">   BK1505111394 Islamabad THE MUSLIM in English 15 May 94 p 1 </F>
+<F P="103"> BK1505111394 </F>
+<F P="104">  Islamabad THE MUSLIM </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Salahuddin Haider and Surender Valasai] </F>
+<F P="106"> [Report by Salahuddin Haider and Surender Valasai] </F>
   [Text] Karachi, May 14, A series of bomb blasts in two 
 Karachi mosques and hnambargahs [shrines] shook the city on 
 Saturday morning. 
@@ -6529,21 +6530,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> RUSSIA </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> RUSSIA </F>
 <H3> <TI>   Car Bomb, Improvised Bomb Detonate in Moscow </TI></H3>
-<HT><F P=107><PHRASE>    Car Bomb, Improvised Bomb Detonate in Moscow </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Car Bomb, Improvised Bomb Detonate in Moscow </PHRASE></F></HT>
 
-<F P=102>   LD1705113494 Moscow ITAR-TASS in English 1110 GMT 17 May 94 </F>
-<F P=103> LD1705113494 </F>
-<F P=104>  Moscow ITAR-TASS </F>
-<F P=105>  English </F>
+<F P="102">   LD1705113494 Moscow ITAR-TASS in English 1110 GMT 17 May 94 </F>
+<F P="103"> LD1705113494 </F>
+<F P="104">  Moscow ITAR-TASS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By ITAR-TASS correspondent Larisa Kislinskaya] </F>
+<F P="106"> [By ITAR-TASS correspondent Larisa Kislinskaya] </F>
   [Text] Moscow May 17 TASS -- One of two blasts ripped the 
 air in downtown Moscow where a joint stock society of the closed 
 type was located. 
@@ -6584,23 +6585,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Official Claims Attempt To Kill Kitovani, Sigua Thwarted </TI></H3>
-<HT><F P=107><PHRASE>    Official Claims Attempt To Kill Kitovani, Sigua Thwarted </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Official Claims Attempt To Kill Kitovani, Sigua Thwarted </PHRASE></F></HT>
 
-<F P=102>   AU1805094994 Tbilisi SVOBODNAYA GRUZIYA in Russian 12 May 94 
+<F P="102">   AU1805094994 Tbilisi SVOBODNAYA GRUZIYA in Russian 12 May 94 
 p 1 </F>
 
-<F P=103> AU1805094994 </F>
-<F P=104>  Tbilisi SVOBODNAYA GRUZIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> AU1805094994 </F>
+<F P="104">  Tbilisi SVOBODNAYA GRUZIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["BS-Press" report under rubric "According to Reports From </F>
+<F P="106"> ["BS-Press" report under rubric "According to Reports From </F>
 Correspondents and Information Agencies": "An Attempt on the 
 Lives of Tengiz Kitovani and Tengiz Sigua Was Being Prepared"] 
   [Text] Weapons discovered during a search of the plane 
@@ -6633,24 +6634,24 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   15 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Armenian Theater in Tbilisi Bombed </TI></H3>
-<HT><F P=107><PHRASE>    Armenian Theater in Tbilisi Bombed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Armenian Theater in Tbilisi Bombed </PHRASE></F></HT>
 <H4>    `Powerful' Explosion Reported </H4>
 
-<F P=102> LD1505111494 Moscow Radio Rossii Network in Russian 1100 GMT 
+<F P="102"> LD1505111494 Moscow Radio Rossii Network in Russian 1100 GMT 
 15 May 94 </F>
 
-<F P=103> LD1505111494 </F>
-<F P=104>  Moscow Radio Rossii Network </F>
-<F P=105>  Russian </F>
+<F P="103"> LD1505111494 </F>
+<F P="104">  Moscow Radio Rossii Network </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [See "Selected Video Reports" section for TV footage] </F>
+<F P="106"> [See "Selected Video Reports" section for TV footage] </F>
   [Text] A powerful explosion occurred today at approximately 
 1300 in the Armenian Drama Theater building in Tbilisi. 
 Interfax was informed of this at the press center of Georgia's 
@@ -6677,18 +6678,18 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   15 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Armenian Theater in Tbilisi Bombed </TI></H3>
-<HT><F P=107><PHRASE>    Armenian Theater in Tbilisi Bombed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Armenian Theater in Tbilisi Bombed </PHRASE></F></HT>
 <H4>    Shevardnadze Calls Explosion `Terrorist Act' </H4>
 
-<F P=102> LD1505190294 Tbilisi First Program Television Network in 
+<F P="102"> LD1505190294 Tbilisi First Program Television Network in 
 Georgian 1700 GMT 15 May 94 </F>
 
-<F P=103> LD1505190294 </F>
-<F P=104>  Tbilisi First Program Television Network </F>
-<F P=105>  Georgian </F>
+<F P="103"> LD1505190294 </F>
+<F P="104">  Tbilisi First Program Television Network </F>
+<F P="105">  Georgian </F>
 
 
 <TEXT>
@@ -6733,18 +6734,18 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> CENTRAL EURASIA </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CENTRAL EURASIA </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Armenian Theater in Tbilisi Bombed </TI></H3>
-<HT><F P=107><PHRASE>    Armenian Theater in Tbilisi Bombed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Armenian Theater in Tbilisi Bombed </PHRASE></F></HT>
 <H4>    Explosive Type Identified </H4>
 
-<F P=102> NC1805131494 Yerevan ARAGIL ELECTRONIC NEWS BULLETIN in 
+<F P="102"> NC1805131494 Yerevan ARAGIL ELECTRONIC NEWS BULLETIN in 
 English 0713 GMT 18 May 94 </F>
 
-<F P=103> NC1805131494 </F>
-<F P=104>  Yerevan ARAGIL ELECTRONIC NEWS BULLETIN </F>
-<F P=105>  English </F>
+<F P="103"> NC1805131494 </F>
+<F P="104">  Yerevan ARAGIL ELECTRONIC NEWS BULLETIN </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6803,15 +6804,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   `Revolutionary Cell' Claims Paris Attack, Threatens Danes </TI></H3>
-<HT><F P=107><PHRASE>    `Revolutionary Cell' Claims Paris Attack, Threatens Danes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Revolutionary Cell' Claims Paris Attack, Threatens Danes </PHRASE></F></HT>
 
-<F P=102>   AU1805140294 Paris AFP in English 1316 GMT 18 May 94 </F>
-<F P=103> AU1805140294 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU1805140294 Paris AFP in English 1316 GMT 18 May 94 </F>
+<F P="103"> AU1805140294 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6865,16 +6866,16 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   17 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> GREECE </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> GREECE </F>
 <H3> <TI>   Blast at U.S. Computer Firm's Office </TI></H3>
-<HT><F P=107><PHRASE>    Blast at U.S. Computer Firm's Office </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Blast at U.S. Computer Firm's Office </PHRASE></F></HT>
 <H4>    November 17 Caller Warns Radio Station </H4>
 
-<F P=102> NC1805060494 Paris AFP in English 2254 GMT 17 May 94 </F>
-<F P=103> NC1805060494 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102"> NC1805060494 Paris AFP in English 2254 GMT 17 May 94 </F>
+<F P="103"> NC1805060494 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6917,18 +6918,18 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> GREECE </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> GREECE </F>
 <H3> <TI>   Blast at U.S. Computer Firm's Office </TI></H3>
-<HT><F P=107><PHRASE>    Blast at U.S. Computer Firm's Office </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Blast at U.S. Computer Firm's Office </PHRASE></F></HT>
 <H4>    Two Antitank Rockets Used </H4>
 
-<F P=102> NC1805102794 Athens Elliniki Radhiofonia Radio Network in 
+<F P="102"> NC1805102794 Athens Elliniki Radhiofonia Radio Network in 
 Greek 0400 GMT 18 May 94 </F>
 
-<F P=103> NC1805102794 </F>
-<F P=104>  Athens Elliniki Radhiofonia Radio Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC1805102794 </F>
+<F P="104">  Athens Elliniki Radhiofonia Radio Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -6963,15 +6964,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> GREECE </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> GREECE </F>
 <H3> <TI>   Neo-Nazi Group Said Target of Athens Cinema Explosion </TI></H3>
-<HT><F P=107><PHRASE>    Neo-Nazi Group Said Target of Athens Cinema Explosion </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Neo-Nazi Group Said Target of Athens Cinema Explosion </PHRASE></F></HT>
 
-<F P=102>   NC1405152594 Athens ELEVTHEROTIPIA in Greek 14 May 94 p 18 </F>
-<F P=103> NC1405152594 </F>
-<F P=104>  Athens ELEVTHEROTIPIA </F>
-<F P=105>  Greek </F>
+<F P="102">   NC1405152594 Athens ELEVTHEROTIPIA in Greek 14 May 94 p 18 </F>
+<F P="103"> NC1405152594 </F>
+<F P="104">  Athens ELEVTHEROTIPIA </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -7014,17 +7015,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> GREECE </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> GREECE </F>
 <H3> <TI>   Bomb Destroys Environment Ministry Car </TI></H3>
-<HT><F P=107><PHRASE>    Bomb Destroys Environment Ministry Car </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bomb Destroys Environment Ministry Car </PHRASE></F></HT>
 
-<F P=102>   NC1405061594 Athens Elliniki Radhiofonia Radio Network in 
+<F P="102">   NC1405061594 Athens Elliniki Radhiofonia Radio Network in 
 Greek 0400 GMT 14 May 94 </F>
 
-<F P=103> NC1405061594 </F>
-<F P=104>  Athens Elliniki Radhiofonia Radio Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC1405061594 </F>
+<F P="104">  Athens Elliniki Radhiofonia Radio Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -7056,15 +7057,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   PKK Members Caught in Istanbul, Said Trained in Greece </TI></H3>
-<HT><F P=107><PHRASE>    PKK Members Caught in Istanbul, Said Trained in Greece </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PKK Members Caught in Istanbul, Said Trained in Greece </PHRASE></F></HT>
 
-<F P=102>   TA1905093594 Ankara ANATOLIA in English 1550 GMT 18 May 94 </F>
-<F P=103> TA1905093594 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA1905093594 Ankara ANATOLIA in English 1550 GMT 18 May 94 </F>
+<F P="103"> TA1905093594 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7101,22 +7102,22 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   13 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Arrest Evidence Indicates Greece Training PKK </TI></H3>
-<HT><F P=107><PHRASE>    Arrest Evidence Indicates Greece Training PKK </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arrest Evidence Indicates Greece Training PKK </PHRASE></F></HT>
 <H4>    Paper Claims Greece Trained Bomb Experts </H4>
 
-<F P=102> NC1605155094 Istanbul HURRIYET in Turkish 13 May 94 p 22 </F>
-<F P=103> NC1605155094 </F>
-<F P=104>  Istanbul HURRIYET </F>
-<F P=105>  Turkish </F>
+<F P="102"> NC1605155094 Istanbul HURRIYET in Turkish 13 May 94 p 22 </F>
+<F P="103"> NC1605155094 </F>
+<F P="104">  Istanbul HURRIYET </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Emin Demirel report: "PKK's Bomb Expert Arrested"] </F>
+<F P="106"> [Emin Demirel report: "PKK's Bomb Expert Arrested"] </F>
   [Text] Istanbul--The teams of the Directorate of Police's 
 antiterror department have arrested Veysel Bozcali, a Kurdish 
 Workers Party [PKK] terrorist, who trained as an explosives 
@@ -7151,16 +7152,16 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Arrest Evidence Indicates Greece Training PKK </TI></H3>
-<HT><F P=107><PHRASE>    Arrest Evidence Indicates Greece Training PKK </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arrest Evidence Indicates Greece Training PKK </PHRASE></F></HT>
 <H4>    Defense Minister's Statement </H4>
 
-<F P=102> NC1805152294 Athens ELEVTHEROTIPIA in Greek 18 May 94 p 4 </F>
-<F P=103> NC1805152294 </F>
-<F P=104>  Athens ELEVTHEROTIPIA </F>
-<F P=105>  Greek </F>
+<F P="102"> NC1805152294 Athens ELEVTHEROTIPIA in Greek 18 May 94 p 4 </F>
+<F P="103"> NC1805152294 </F>
+<F P="104">  Athens ELEVTHEROTIPIA </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -7193,18 +7194,18 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   19 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Arrest Evidence Indicates Greece Training PKK </TI></H3>
-<HT><F P=107><PHRASE>    Arrest Evidence Indicates Greece Training PKK </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arrest Evidence Indicates Greece Training PKK </PHRASE></F></HT>
 <H4>    Greece Rejects Allegations </H4>
 
-<F P=102> NC1905130094 Athens Elliniki Radhiofonia Radio Network in 
+<F P="102"> NC1905130094 Athens Elliniki Radhiofonia Radio Network in 
 Greek 1130 GMT 19 May 94 </F>
 
-<F P=103> NC1905130094 </F>
-<F P=104>  Athens Elliniki Radhiofonia Radio Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC1905130094 </F>
+<F P="104">  Athens Elliniki Radhiofonia Radio Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -7244,21 +7245,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   16 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Bomb in Post Office Leaves One Dead, One Wounded </TI></H3>
-<HT><F P=107><PHRASE>    Bomb in Post Office Leaves One Dead, One Wounded </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bomb in Post Office Leaves One Dead, One Wounded </PHRASE></F></HT>
 
-<F P=102>   NC1605182194 Paris AFP in English 1650 GMT 16 May 94 </F>
-<F P=103> NC1605182194 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   NC1605182194 Paris AFP in English 1650 GMT 16 May 94 </F>
+<F P="103"> NC1605182194 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [See "Selected Video Reports" section for TV footage.] </F>
+<F P="106"> [See "Selected Video Reports" section for TV footage.] </F>
   [Text] Istanbul, May 16 (AFP)--A bomb exploded in the 
 administrative offices of the Turkish postal service Monday, 
 killing one person and injuring another, both believed to be 
@@ -7295,23 +7296,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   15 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Interior Minister Gives PKK Surrender Numbers </TI></H3>
-<HT><F P=107><PHRASE>    Interior Minister Gives PKK Surrender Numbers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Interior Minister Gives PKK Surrender Numbers </PHRASE></F></HT>
 
-<F P=102>   TA1505153494 Ankara TRT Television Network in Turkish 1000 
+<F P="102">   TA1505153494 Ankara TRT Television Network in Turkish 1000 
 GMT 15 May 94 </F>
 
-<F P=103> TA1505153494 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA1505153494 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Excerpts] Interior Minister Nahit Mentese has said that 
 the fight against the separatist terrorist organization PKK 
 [Workers Party of Kurdistan] is continuing successfully and 
@@ -7351,23 +7352,23 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> TURKEY </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> TURKEY </F>
 <H3> <TI>   Eight Illegal Organization Members Captured in Istanbul </TI></H3>
-<HT><F P=107><PHRASE>    Eight Illegal Organization Members Captured in Istanbul </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Eight Illegal Organization Members Captured in Istanbul </PHRASE></F></HT>
 
-<F P=102>   TA1405150294 Ankara TRT Television Network in Turkish 1000 
+<F P="102">   TA1405150294 Ankara TRT Television Network in Turkish 1000 
 GMT 14 May 94 </F>
 
-<F P=103> TA1405150294 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA1405150294 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report over video] </F>
+<F P="106"> [Announcer-read report over video] </F>
   [Text] Eight members of an illegal leftist terrorist 
 organization have been captured in Istanbul and Mugla while they 
 were planning an armed attack. 
@@ -7396,21 +7397,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> UNITED KINGDOM </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> UNITED KINGDOM </F>
 <H3> <TI>   Brits Fear IRA May Obtain Stinger Missiles </TI></H3>
-<HT><F P=107><PHRASE>    Brits Fear IRA May Obtain Stinger Missiles </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Brits Fear IRA May Obtain Stinger Missiles </PHRASE></F></HT>
 
-<F P=102>   PM1405110294 London THE TIMES in English 14 May 94 p 17 </F>
-<F P=103> PM1405110294 </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="102">   PM1405110294 London THE TIMES in English 14 May 94 p 17 </F>
+<F P="103"> PM1405110294 </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Edward Gorman report: "MI6 Fears IRA May Obtain Missing </F>
+<F P="106"> [Edward Gorman report: "MI6 Fears IRA May Obtain Missing </F>
 Afghan Missiles"] 
   [Excerpts] Kabul -- American attempts to control the black 
 market in Stinger anti-aircraft missiles, first supplied eight 
@@ -7484,22 +7485,22 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 April 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> UNITED KINGDOM </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> UNITED KINGDOM </F>
 <H3> <TI>   Airports Using New Technology To Screen Luggage </TI></H3>
-<HT><F P=107><PHRASE>    Airports Using New Technology To Screen Luggage </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Airports Using New Technology To Screen Luggage </PHRASE></F></HT>
 <H4>    New Bar Code Equipment </H4>
 
-<F P=102> London THE DAILY TELEGRAPH in English 9 Apr 94 p 2 </F>
-<F P=103> London </F>
-<F P=104>  THE DAILY TELEGRAPH </F>
-<F P=105>  English </F>
+<F P="102"> London THE DAILY TELEGRAPH in English 9 Apr 94 p 2 </F>
+<F P="103"> London </F>
+<F P="104">  THE DAILY TELEGRAPH </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Toby Moore, transport correspondent: "Luggage </F>
+<F P="106"> [Article by Toby Moore, transport correspondent: "Luggage </F>
 Bar-Code To Beat Bombers"] 
   [Text] Airlines are being ordered by the Government to stop 
 unaccompanied luggage being put on board aircraft, as part of 
@@ -7566,26 +7567,26 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   9 April 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> UNITED KINGDOM </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> UNITED KINGDOM </F>
 <H3> <TI>   Airports Using New Technology To Screen Luggage </TI></H3>
-<HT><F P=107><PHRASE>    Airports Using New Technology To Screen Luggage </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Airports Using New Technology To Screen Luggage </PHRASE></F></HT>
 <H4>    `Sniffer' System On-line in 1996 </H4>
 
-<F P=102> 94WR0141B London THE TIMES in English 9 Apr 94 p 10 </F>
-<F P=103> 94WR0141B </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="102"> 94WR0141B London THE TIMES in English 9 Apr 94 p 10 </F>
+<F P="103"> 94WR0141B </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> ["Luggage for Explosives"] </F>
+<F P="106"> ["Luggage for Explosives"] </F>
   [Text] Luggage loaded into aircraft holds at Britain's main 
 airports will be automatically screened for explosives from 1996. 
   BAA, the private company which operates the airports, is to 
-spend &pound;150 million installing the screening system, which 
+spend  pound;150 million installing the screening system, which 
 has 
 been developed as the latest technology has become available. 
   It will be installed initially at Heathrow and Gatwick 
@@ -7639,15 +7640,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   4 April 1994 </DATE1>
-<F P=100> WEST EUROPE </F>
-<F P=101> UNITED KINGDOM </F>
+<F P="100"> WEST EUROPE </F>
+<F P="101"> UNITED KINGDOM </F>
 <H3> <TI>   Terrorist Fears Halt Sundridge Airfield Reopening </TI></H3>
-<HT><F P=107><PHRASE>    Terrorist Fears Halt Sundridge Airfield Reopening </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Terrorist Fears Halt Sundridge Airfield Reopening </PHRASE></F></HT>
 
-<F P=102>   94WR0143A London THE TIMES in English 4 Apr 94 p 7 </F>
-<F P=103> 94WR0143A </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="102">   94WR0143A London THE TIMES in English 4 Apr 94 p 7 </F>
+<F P="103"> 94WR0143A </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7706,13 +7707,13 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   24 May 1994 </DATE1>
-<F P=100> FBIS TERRORISM REPORT HIGHLIGHTS: 13-19 March </F>
+<F P="100"> FBIS TERRORISM REPORT HIGHLIGHTS: 13-19 March </F>
 <H3> <TI>   FBIS TERRORISM REPORT HIGHLIGHTS: 13-19 March </TI></H3>
-<HT><F P=107><PHRASE>    FBIS TERRORISM REPORT HIGHLIGHTS: 13-19 March </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    FBIS TERRORISM REPORT HIGHLIGHTS: 13-19 March </PHRASE></F></HT>
 
-<F P=102>   11111111 </F>
-<F P=103> 11111111 </F>
-<F P=104></F>
+<F P="102">   11111111 </F>
+<F P="103"> 11111111 </F>
+<F P="104"></F>
 
 
 
@@ -7791,13 +7792,13 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   24 May 1994 </DATE1>
-<F P=100> FBIS TERRORISM REPORT HIGHLIGHTS: 13-19 March </F>
+<F P="100"> FBIS TERRORISM REPORT HIGHLIGHTS: 13-19 March </F>
 <H3> <TI>   SELECTED VIDEO REPORTS </TI></H3>
-<HT><F P=107><PHRASE>    SELECTED VIDEO REPORTS </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SELECTED VIDEO REPORTS </PHRASE></F></HT>
 
-<F P=102>   11111111 </F>
-<F P=103> 11111111 </F>
-<F P=104></F>
+<F P="102">   11111111 </F>
+<F P="103"> 11111111 </F>
+<F P="104"></F>
 
 
 
@@ -7854,15 +7855,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> AFRICA </F>
-<F P=101> BENIN </F>
+<F P="100"> AFRICA </F>
+<F P="101"> BENIN </F>
 <H3> <TI>   Cotonou Bar Explosion Injures Two Foreigners </TI></H3>
-<HT><F P=107><PHRASE>    Cotonou Bar Explosion Injures Two Foreigners </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cotonou Bar Explosion Injures Two Foreigners </PHRASE></F></HT>
 
-<F P=102>   AB1405131794 Paris AFP in French 1112 GMT 14 May 94 </F>
-<F P=103> AB1405131794 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  French </F>
+<F P="102">   AB1405131794 Paris AFP in French 1112 GMT 14 May 94 </F>
+<F P="103"> AB1405131794 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -7898,15 +7899,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   16 May 1994 </DATE1>
-<F P=100> AFRICA </F>
-<F P=101> SOUTH AFRICA </F>
+<F P="100"> AFRICA </F>
+<F P="101"> SOUTH AFRICA </F>
 <H3> <TI>   IFP East Rand Official Killed in Drive-by Shooting </TI></H3>
-<HT><F P=107><PHRASE>    IFP East Rand Official Killed in Drive-by Shooting </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    IFP East Rand Official Killed in Drive-by Shooting </PHRASE></F></HT>
 
-<F P=102>   MB1605210194 Johannesburg SAPA in English 2051 GMT 16 May 94 </F>
-<F P=103> MB1605210194 </F>
-<F P=104>  Johannesburg SAPA </F>
-<F P=105>  English </F>
+<F P="102">   MB1605210194 Johannesburg SAPA in English 2051 GMT 16 May 94 </F>
+<F P="103"> MB1605210194 </F>
+<F P="104">  Johannesburg SAPA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7964,19 +7965,19 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   18 May 1994 </DATE1>
-<F P=100> EAST ASIA </F>
-<F P=101> PHILIPPINES </F>
+<F P="100"> EAST ASIA </F>
+<F P="101"> PHILIPPINES </F>
 <H3> <TI>   ABB Reportedly Orders Assassination of Sison Loyalists </TI></H3>
-<HT><F P=107><PHRASE>    ABB Reportedly Orders Assassination of Sison Loyalists </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ABB Reportedly Orders Assassination of Sison Loyalists </PHRASE></F></HT>
 
-<F P=102>   BK1805143294 Quezon City GMA-7 Radio-Television Arts Network 
+<F P="102">   BK1805143294 Quezon City GMA-7 Radio-Television Arts Network 
 in Tagalog 0930 GMT 18 May 94 </F>
 
-<F P=103> BK1805143294 </F>
-<F P=104>  Quezon City GMA-7 Radio-Television Arts Network 
+<F P="103"> BK1805143294 </F>
+<F P="104">  Quezon City GMA-7 Radio-Television Arts Network 
 in Tagalog 0930 GMT 18 May 94 </F>
 
-<F P=105> Tagalog </F>
+<F P="105"> Tagalog </F>
 
 
 <TEXT>
@@ -8020,21 +8021,21 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   19 May 1994 </DATE1>
-<F P=100> EAST ASIA </F>
-<F P=101> TAIWAN </F>
+<F P="100"> EAST ASIA </F>
+<F P="101"> TAIWAN </F>
 <H3> <TI>   High Court Cuts Jail Terms of Mainland Hijackers </TI></H3>
-<HT><F P=107><PHRASE>    High Court Cuts Jail Terms of Mainland Hijackers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    High Court Cuts Jail Terms of Mainland Hijackers </PHRASE></F></HT>
 
-<F P=102>   OW1905082794 Taipei CNA in English 0811 GMT 19 May 94 </F>
-<F P=103> OW1905082794 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102">   OW1905082794 Taipei CNA in English 0811 GMT 19 May 94 </F>
+<F P="103"> OW1905082794 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Lilian Wu] </F>
+<F P="106"> [By Lilian Wu] </F>
   [Text] Taipei, May 19 (CNA) -- The Taiwan High Court 
 Thursday [19 May] cut the jail terms for two mainland Chinese 
 hijackers from 10 years to seven years. 
@@ -8073,15 +8074,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> EAST ASIA </F>
-<F P=101> THAILAND </F>
+<F P="100"> EAST ASIA </F>
+<F P="101"> THAILAND </F>
 <H3> <TI>   Muslim Groups Link South Bombs to May 1992 Violence </TI></H3>
-<HT><F P=107><PHRASE>    Muslim Groups Link South Bombs to May 1992 Violence </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Muslim Groups Link South Bombs to May 1992 Violence </PHRASE></F></HT>
 
-<F P=102>   BK1405151994 Bangkok THE NATION in English 14 May 94 p A4 </F>
-<F P=103> BK1405151994 </F>
-<F P=104>  Bangkok THE NATION </F>
-<F P=105>  English </F>
+<F P="102">   BK1405151994 Bangkok THE NATION in English 14 May 94 p A4 </F>
+<F P="103"> BK1405151994 </F>
+<F P="104">  Bangkok THE NATION </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8162,15 +8163,15 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   14 May 1994 </DATE1>
-<F P=100> EAST EUROPE </F>
-<F P=101> BULGARIA </F>
+<F P="100"> EAST EUROPE </F>
+<F P="101"> BULGARIA </F>
 <H3> <TI>   Bomb Near Turkish Consulate Mafia-Related Incident </TI></H3>
-<HT><F P=107><PHRASE>    Bomb Near Turkish Consulate Mafia-Related Incident </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bomb Near Turkish Consulate Mafia-Related Incident </PHRASE></F></HT>
 
-<F P=102>   TA1405153794 Ankara ANATOLIA in English 1521 GMT 14 May 94 </F>
-<F P=103> TA1405153794 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA1405153794 Ankara ANATOLIA in English 1521 GMT 14 May 94 </F>
+<F P="103"> TA1405153794 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8207,17 +8208,17 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   16 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> ARGENTINA </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> ARGENTINA </F>
 <H3> <TI>   ORP Denies Attack on Japanese Embassy </TI></H3>
-<HT><F P=107><PHRASE>    ORP Denies Attack on Japanese Embassy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    ORP Denies Attack on Japanese Embassy </PHRASE></F></HT>
 
-<F P=102>   PY1605183094 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
+<F P="102">   PY1605183094 Buenos Aires NOTICIAS ARGENTINAS in Spanish 
 0010 GMT 16 May 94 </F>
 
-<F P=103> PY1605183094 </F>
-<F P=104>  Buenos Aires NOTICIAS ARGENTINAS </F>
-<F P=105>  Spanish </F>
+<F P="103"> PY1605183094 </F>
+<F P="104">  Buenos Aires NOTICIAS ARGENTINAS </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -8254,19 +8255,19 @@ Terrorism
 
 <ABS>  FOUO </ABS>
 <DATE1>   16 May 1994 </DATE1>
-<F P=100> LATIN AMERICA </F>
-<F P=101> CHILE </F>
+<F P="100"> LATIN AMERICA </F>
+<F P="101"> CHILE </F>
 <H3> <TI>   Bomb Destroys Bank Branch in Santiago; No Casualties </TI></H3>
-<HT><F P=107><PHRASE>    Bomb Destroys Bank Branch in Santiago; No Casualties </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bomb Destroys Bank Branch in Santiago; No Casualties </PHRASE></F></HT>
 
-<F P=102>   PY1605213894 Santiago Television Nacional de Chile Imagen 
+<F P="102">   PY1605213894 Santiago Television Nacional de Chile Imagen 
 Internacional in Spanish 1800 GMT 16 May 94 </F>
 
-<F P=103> PY1605213894 </F>
-<F P=104>  Santiago Television Nacional de Chile Imagen 
+<F P="103"> PY1605213894 </F>
+<F P="104">  Santiago Television Nacional de Chile Imagen 
 Internacional </F>
 
-<F P=105>  Spanish </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -8305,23 +8306,23 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     U.S. Chemical Weapons Disposal Program </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Chemical Weapons Disposal Program </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Chemical Weapons Disposal Program </PHRASE></F></HT>
 
-<F P=102>   94UM0337A Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102">   94UM0337A Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94) pp 4-8--FOR </F>
 
 
 
 <TEXT>
 OFFICIAL USE ONLY 
-<F P=103> 94UM0337A </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337A </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article by E. Gams] </F>
+<F P="106"> [Article by E. Gams] </F>
   [Text] The United States presently is carrying out a set of 
 measures for preparing to eliminate its stockpiles of chemical 
 weapons. This is connected with fulfillment of obligations 
@@ -8391,12 +8392,12 @@ underground vaults.
 permits disposing of all existing chemical agents. It is also 
 used widely in working with toxic industrial and household 
 wastes. For complete disposal of chemical agents, it is 
-necessary to maintain a temperature of over 1,100ëC in the 
+necessary to maintain a temperature of over 1,100ï¿½C in the 
 furnaces and ensure an oxygen surplus and the presence of 
 gaseous materials in the incineration chamber for around two 
 seconds. Temperature and time regimes have been worked out for 
 eliminating parts of chemical munitions and packaging--an 
-incineration temperature from 760 to 1,200ëC and presence in 
+incineration temperature from 760 to 1,200ï¿½C and presence in 
 the combustion zone for from a few seconds to 15 minutes. Safety 
 of gaseous discharges is ensured by secondary reburning of toxic 
 substances and trapping of ash, hydrogen fluoride and chloride, 
@@ -8735,23 +8736,23 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Saudi Arabian Armed Forces </TI></H3>
-<HT><F P=107><PHRASE>    Saudi Arabian Armed Forces </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Saudi Arabian Armed Forces </PHRASE></F></HT>
 
-<F P=102>   94UM0337B Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102">   94UM0337B Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94) pp 9-11--FOR </F>
 
 
 
 <TEXT>
 OFFICIAL USE ONLY 
-<F P=103> 94UM0337B </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337B </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article by Colonel R. Rusinov] </F>
+<F P="106"> [Article by Colonel R. Rusinov] </F>
   [Text] The Kingdom of Saudi Arabia, an absolute theocratic 
 monarchy, occupies a large part of the Arabian Peninsula. It 
 formed within existing boundaries in 1932 by the unification of 
@@ -8804,7 +8805,7 @@ ministers of Foreign Affairs, Interior, Finance and National
 Economy, and Communications, Chief of the General Staff and 
 Commander of the National Guard. 
 
-<FIG ID=JPRS-UFM-004L-05A>      Fig. 1. Saudi Arabian Armed </FIG>
+<FIG ID="JPRS-UFM-004L-05A">      Fig. 1. Saudi Arabian Armed </FIG>
 
 
   The Minister of Defense and Civil Aviation directs the Armed 
@@ -8925,23 +8926,23 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Chinese Military Science </TI></H3>
-<HT><F P=107><PHRASE>    Chinese Military Science </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chinese Military Science </PHRASE></F></HT>
 
-<F P=102>   94UM0337C Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102">   94UM0337C Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94) pp 12-14--FOR </F>
 
 
 
 <TEXT>
 OFFICIAL USE ONLY 
-<F P=103> 94UM0337C </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337C </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article by Colonel V. Stefashin, candidate of military </F>
+<F P="106"> [Article by Colonel V. Stefashin, candidate of military </F>
 sciences, and Colonel M. Markov] 
   [Text] This is the first in a series of articles on 
 Chinese military science. It provides a general impression of 
@@ -8968,7 +8969,7 @@ period comprised the years of cultural revolution (1966-1976),
 when the country's leadership rejected military cooperation with 
 the USSR. General stagnation of military research is a 
 distinctive feature: There was a sharp drop in volume and 
-quality of military RDT&amp;E, but work to create nuclear weapons 
+quality of military RDT amp;E, but work to create nuclear weapons 
 and missile-space equipment was carried on actively. Profound 
 transformations of the state's entire military system were 
 required with transition to a reform policy in the late 1970's. 
@@ -8998,7 +8999,7 @@ the property of the civilian sector of the economy is growing
 continuously. There were around 40 of them in 1983, already 800 
 in 1984, and over 20,000 in 1985, which contributed to a 
 constant growth in volume of funds for economic agreement work, 
-consultations and S&amp;T servicing of projects between 
+consultations and S amp;T servicing of projects between 
 military-scientific establishments and enterprises of the 
 country's economic complex. (In 1984, for example, it was around 
 430 million yuan and in 1985 it exceeded one billion yuan). This 
@@ -9130,7 +9131,7 @@ be used in all cases and at any time. Difficulties connected
 with determining directions of Armed Forces development stem 
 from this. 
 
-<FIG ID=JPRS-UFM-004L-09A>      Structure of military theory </FIG>
+<FIG ID="JPRS-UFM-004L-09A">      Structure of military theory </FIG>
 
 
   To perform its principal task, Chinese military science now 
@@ -9223,23 +9224,23 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Mobile POL Supply Systems </TI></H3>
-<HT><F P=107><PHRASE>    Mobile POL Supply Systems </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Mobile POL Supply Systems </PHRASE></F></HT>
 
-<F P=102>   94UM0337D Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102">   94UM0337D Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94) pp 23-24--FOR </F>
 
 
 
 <TEXT>
 OFFICIAL USE ONLY 
-<F P=103> 94UM0337D </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337D </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article by Lieutenant Colonel A. Rozhkov] </F>
+<F P="106"> [Article by Lieutenant Colonel A. Rozhkov] </F>
   [Text] A mobile system developed in the United States for 
 receiving fuel and issuing it to subunits under field conditions 
 which approximate combat conditions to the maximum presently is 
@@ -9258,7 +9259,7 @@ issuing it from the reservoirs into tanker trucks (fueling
 trucks), canisters, barrels, and vehicle fuel tanks over six 
 lines, and into Sealdrum soft containers over two lines. 
 
-<FIG ID=JPRS-UFM-004L-10A>      Flow diagram of fuel receiving </FIG>
+<FIG ID="JPRS-UFM-004L-10A">      Flow diagram of fuel receiving </FIG>
 
 
   The set of equipment can be divided depending on the 
@@ -9323,23 +9324,23 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     New Directions for U.S. Air Force Combat Employment </TI></H3>
-<HT><F P=107><PHRASE>    New Directions for U.S. Air Force Combat Employment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Directions for U.S. Air Force Combat Employment </PHRASE></F></HT>
 
-<F P=102>   94UM0337E Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102">   94UM0337E Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94) pp 30-35--FOR </F>
 
 
 
 <TEXT>
 OFFICIAL USE ONLY 
-<F P=103> 94UM0337E </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337E </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article by Colonel A. Sergeyev, candidate of military </F>
+<F P="106"> [Article by Colonel A. Sergeyev, candidate of military </F>
 sciences] 
   [Text] Changes in the world military-political situation 
 which began in the mid-1980's forced the U.S. leadership to 
@@ -9766,23 +9767,23 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Status and Development Prospects of Fleets of NATO Navies </TI></H3>
-<HT><F P=107><PHRASE>    Status and Development Prospects of Fleets of NATO Navies </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Status and Development Prospects of Fleets of NATO Navies </PHRASE></F></HT>
 
-<F P=102>   94UM0337F Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102">   94UM0337F Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94) pp 45-52--FOR </F>
 
 
 
 <TEXT>
 OFFICIAL USE ONLY 
-<F P=103> 94UM0337F </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337F </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Part One of article based on foreign press materials by </F>
+<F P="106"> [Part One of article based on foreign press materials by </F>
 Captain 1st Rank V. Aksenov and Captain 1st Rank K. Lumpurov] 
   [Text] This article, prepared from foreign press materials, 
 provides a brief analysis of the status and immediate 
@@ -10348,21 +10349,21 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Articles Not Translated from ZARUBEZHNOYE VOYENNOYE </TI></H3>
-<HT><F P=107><PHRASE>    Articles Not Translated from ZARUBEZHNOYE VOYENNOYE </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Articles Not Translated from ZARUBEZHNOYE VOYENNOYE </PHRASE></F></HT>
 
 
 <TEXT>
 OBOZRENIYE   No 1, Jan 1994 
 
-<F P=102> 94UM0337G Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102"> 94UM0337G Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94) p 1--FOR </F>
 
 OFFICIAL USE ONLY 
-<F P=103> 94UM0337G </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337G </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
   [Text] France-NATO: Expansion of Military-Political 
@@ -10408,20 +10409,20 @@ Central Eurasia
 
 <ABS>  FOREIGN MILITARY REVIEW No 1, January 1994 </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Publication Data </TI></H3>
-<HT><F P=107><PHRASE>    Publication Data </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Publication Data </PHRASE></F></HT>
 
-<F P=102>   94UM0337H Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
+<F P="102">   94UM0337H Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE in 
 Russian No 1, Jan 94 (signed to press 10 Jan 94)--FOR OFFICIAL </F>
 
 
 
 <TEXT>
 USE ONLY 
-<F P=103> 94UM0337H </F>
-<F P=104>  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
-<F P=105>  Russian </F>
+<F P="103"> 94UM0337H </F>
+<F P="104">  Moscow ZARUBEZHNOYE VOYENNOYE OBOZRENIYE </F>
+<F P="105">  Russian </F>
 CSO 
 
   [Text] 
@@ -10455,23 +10456,23 @@ Central Eurasia
 <TEXT>
 fit  in box. 
 <DATE1>  25 May 1994 </DATE1>
-<F P=100></F>
-<F P=101></F>
+<F P="100"></F>
+<F P="101"></F>
 <H3> <TI>       Arms Exports Subject to Export Licensing </TI></H3>
-<HT><F P=107><PHRASE>    Arms Exports Subject to Export Licensing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arms Exports Subject to Export Licensing </PHRASE></F></HT>
 
-<F P=102>   945C0011A Moscow PERECHEN LITSENZIRUYEMOY PRODUKTSII 
+<F P="102">   945C0011A Moscow PERECHEN LITSENZIRUYEMOY PRODUKTSII 
 VOYENNOGO NAZNACHENIYA S UKAZANIYEM KODOV TN VED in Russian </F>
 
 (Unknown Pub Date) pp 1-3--FOR OFFICIAL USE ONLY 
-<F P=103> 945C0011A </F>
-<F P=104>  Moscow PERECHEN LITSENZIRUYEMOY PRODUKTSII 
+<F P="103"> 945C0011A </F>
+<F P="104">  Moscow PERECHEN LITSENZIRUYEMOY PRODUKTSII 
 VOYENNOGO NAZNACHENIYA S UKAZANIYEM KODOV TN VED </F>
 
-<F P=105>  Russian </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Unattributed table] </F>
+<F P="106"> [Unattributed table] </F>
   [Text] 
 
 
@@ -10634,20 +10635,20 @@ Central Eurasia
 <TEXT>
 fit  in box. 
 <DATE1>  2 February 1994 </DATE1>
-<F P=100></F>
-<F P=101></F>
+<F P="100"></F>
+<F P="101"></F>
 <H3> <TI>       Russian Import Certificate </TI></H3>
-<HT><F P=107><PHRASE>    Russian Import Certificate </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russian Import Certificate </PHRASE></F></HT>
 
-<F P=102>   945C0012C Moscow ROSSIYSKIY IMPORTNYY SERTIFIKAT in Russian 
+<F P="102">   945C0012C Moscow ROSSIYSKIY IMPORTNYY SERTIFIKAT in Russian 
 2 Feb 94 p 1--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 945C0012C </F>
-<F P=104>  Moscow ROSSIYSKIY IMPORTNYY SERTIFIKAT </F>
-<F P=105>  Russian </F>
+<F P="103"> 945C0012C </F>
+<F P="104">  Moscow ROSSIYSKIY IMPORTNYY SERTIFIKAT </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Russian Federation Ministry of Foreign Economic Relations </F>
+<F P="106"> [Russian Federation Ministry of Foreign Economic Relations </F>
 Russian Import Certificate No 94/002/1 dated 2 Feb 94, signed by 
 Main Administration Deputy Chief Yu. A. Buykin] 
   [Text] 
@@ -10662,7 +10663,7 @@ No 94/002/1
 1. Importer,        04766526             2. Exporter, address 
 address 
 
-VO Tekhnointorg, 113386, Moscow, GSP,    AT&amp;T Network System Nederland, 
+VO Tekhnointorg, 113386, Moscow, GSP,    AT amp;T Network System Nederland, 
 Pyatnitskaya ul., d. 64                  B. V. Larenseveg 50, P.O. Box 1168, 
                                          1200 B.V. Hilversum THE NETHERLANDS 
 
@@ -10724,20 +10725,20 @@ Central Eurasia
 <TEXT>
 fit  in box. 
 <DATE1>  25 May 1994 </DATE1>
-<F P=100></F>
-<F P=101></F>
+<F P="100"></F>
+<F P="101"></F>
 <H3> <TI>       Russian Export License Application </TI></H3>
-<HT><F P=107><PHRASE>    Russian Export License Application </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russian Export License Application </PHRASE></F></HT>
 
-<F P=102>   945C0012D Moscow UNKNOWN in Russian (Unknown Pub Date) p 
+<F P="102">   945C0012D Moscow UNKNOWN in Russian (Unknown Pub Date) p 
 1--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 945C0012D </F>
-<F P=104>  Moscow UNKNOWN </F>
-<F P=105>  Russian </F>
+<F P="103"> 945C0012D </F>
+<F P="104">  Moscow UNKNOWN </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Russian Federation Ministry of Foreign Economic Relations </F>
+<F P="106"> [Russian Federation Ministry of Foreign Economic Relations </F>
 Russian Export License No (4)0850003 dated 2 Feb 94; characters 
 in parentheses are only partially legible] 
   [Text] 
@@ -10819,20 +10820,20 @@ Central Eurasia
 <TEXT>
 fit  in box. 
 <DATE1>  2 March 1994 </DATE1>
-<F P=100></F>
-<F P=101></F>
+<F P="100"></F>
+<F P="101"></F>
 <H3> <TI>       Russian Export License </TI></H3>
-<HT><F P=107><PHRASE>    Russian Export License </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russian Export License </PHRASE></F></HT>
 
-<F P=102>   945C0012E Moscow UNKNOWN in Russian 2 Mar 94 p 1--FOR 
+<F P="102">   945C0012E Moscow UNKNOWN in Russian 2 Mar 94 p 1--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> 945C0012E </F>
-<F P=104>  Moscow UNKNOWN </F>
-<F P=105>  Russian </F>
+<F P="103"> 945C0012E </F>
+<F P="104">  Moscow UNKNOWN </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Russian Federation Ministry of Foreign </F>
+<F P="106"> [Russian Federation Ministry of Foreign </F>
 Economic Relations Russian Export License No 07301440550386 
 dated 2 Mar 94, issued by Ministry of Foreign Economic Relations 
 Central Area Representative N. F. Solovyev] 
@@ -10918,27 +10919,27 @@ Central Eurasia
 <TEXT>
 fit  in box. 
 <DATE1>  25 May 1994 </DATE1>
-<F P=100></F>
-<F P=101></F>
+<F P="100"></F>
+<F P="101"></F>
 <H3> <TI>       Militarily Useful Items Subject to Export Controls--I </TI></H3>
-<HT><F P=107><PHRASE>    Militarily Useful Items Subject to Export Controls--I </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Militarily Useful Items Subject to Export Controls--I </PHRASE></F></HT>
 
-<F P=102>   945D0034A Moscow ROSSIYSKIYE VESTI in Russian 15, 16 Mar 
+<F P="102">   945D0034A Moscow ROSSIYSKIYE VESTI in Russian 15, 16 Mar 
 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 945D0034A </F>
-<F P=104>  Moscow ROSSIYSKIYE VESTI </F>
-<F P=105>  Russian </F>
+<F P="103"> 945D0034A </F>
+<F P="104">  Moscow ROSSIYSKIYE VESTI </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Russian Federation Presidential Directive No 74-rp of 11 </F>
+<F P="106"> [Russian Federation Presidential Directive No 74-rp of 11 </F>
 February 1994 "On Control of Exports From the Russian Federation 
 of Certain Kinds of Raw Materials, Other Materials, Equipment, 
-Technologies, and S&amp;T Information Which Can Be Used To 
+Technologies, and S amp;T Information Which Can Be Used To 
 Develop 
 Weapons and Military Equipment," followed by beginning portion 
 of "List of Certain Kinds of Raw Materials, Other Materials, 
-Equipment, Technologies and S&amp;T Information Which Can Be 
+Equipment, Technologies and S amp;T Information Which Can Be 
 Used To 
 Develop Weapons and Military Equipment, Export of Which Is 
 Controlled and Accomplished by Licenses." The text of the 
@@ -10950,7 +10951,7 @@ added as II]
 <H5>  [15 Mar 94 pp 6-7] </H5>
 <H5>  DIRECTIVE </H5>
   [Text] 1. To approve the List of Certain Types of Raw 
-Materials, Other Materials, Equipment, Technology and S&amp;T 
+Materials, Other Materials, Equipment, Technology and S amp;T 
 Information That Can Be Used To Develop Weapons and Military 
 Equipment, Export of Which Shall Be Controlled and Carried Out 
 by Licenses (appended), submitted by the Government of the 
@@ -10958,7 +10959,7 @@ Russian Federation.
   2. That the Government of the Russian Federation shall 
 approve the Statute on the Procedure for Control of Exports From 
 the Russian Federation of Certain Types of Raw Materials, Other 
-Materials, Equipment, Technologies, and S&amp;T Information From 
+Materials, Equipment, Technologies, and S amp;T Information From 
 the 
 Russian Federation That Can Be Used To Develop Weapons and 
 Military Equipment. 
@@ -11147,7 +11148,7 @@ I.1.8.1.        nickel alloys (Ni-Al-X, Ni-X-Al)        750400000
                 parts or components--that is, with 
                 less than three nonmetallic particles 
                 (embedded during production) greater 
-                than 100 æ per 10 alloy particles; 
+                than 100 ï¿½ per 10 alloy particles; 
 
 I.1.8.2.        niobium alloys (Nb-Al-X or Nb-X-Al,     811291310; 811299300 
                 NB-Si-X or Nb-X-Si, Nb-Ti-X or 
@@ -11239,7 +11240,7 @@ I.2.1.9.        Polybenzimidazoles and materials        391190900
                 based on them 
 
 I.2.1.10.       Aromatic polybenzothiazoles and         391190900 
-                materials based on them&gt; 
+                materials based on them gt; 
 
 I.2.1.11.       Aromatic poly oxadiazoles and           391190900 
                 materials based on them with thermal 
@@ -11353,7 +11354,7 @@ I.2.2.3.        Seals, gaskets, valve seats, tubular    391990900
 I.2.2.4.        Piezoelectric polymers and copolymers   390799000 
                 manufactured from vinylidene fluoride 
                 in the form of a film or sheet with 
-                thickness greater than 200 æ 
+                thickness greater than 200 ï¿½ 
 
 I.2.3.          Conducting polymer materials with 
                 conductance above 10 siemens/m or 
@@ -11428,9 +11429,9 @@ I.3.3.1.        Basic materials made from simple and    285000900
                 special additives) at a level of less 
                 than 5,000 particles per million, at 
                 an average particle size equal to or 
-                less than 5 æ (in this case there 
+                less than 5 ï¿½ (in this case there 
                 must be no more than 10% of particles 
-                greater than 10 æ in size) 
+                greater than 10 ï¿½ in size) 
 
 I.3.3.2.        Noncomposite ceramic materials in the   285000900 
                 form of crude semifinished products 
@@ -11466,8 +11467,8 @@ I.3.6.          Foam plastic with microspheres for      392190900
                 includes hollow plastic or glass 
                 spheres filled with a rubber matrix 
 
-I.3.7.          Crystalline and amorphous boron with    280450100 &lt;tc rs=1 
-                not less than 99.5% principal           cs=3&gt; Section 1.4. 
+I.3.7.          Crystalline and amorphous boron with    280450100  lt;tc rs="1" 
+                not less than 99.5% principal           cs="3" gt; Section 1.4. 
                 ingredient                              Fluids and 
                                                         Lubricating Materials 
 
@@ -11518,7 +11519,7 @@ I.4.2.2.        fluorinated silicon-containing fluids   391000000
 I.4.3.          Wetting or flotating fluids with a 
                 purity indicator greater than 99.8%, 
                 containing less than 25 particles 200 
-                æ or more in size per 100 ml, and 
+                ï¿½ or more in size per 100 ml, and 
                 manufactured from at least 85% of the 
                 following substances and materials: 
 
@@ -11670,7 +11671,7 @@ I.6.11.1.       Positive resists with spectral          854140990
 I.6.11.2.       All resists used for exposure by        854140990 
                 electronic or ionic beams with 
                 sensitivity no worse than 0.01 
-                æKl/mm[.sup]2[/] 
+                ï¿½Kl/mm[.sup]2[/] 
 
 I.6.11.3.       All resists used for exposure by        854140990 
                 X-rays with sensitivity no worse than 
@@ -11720,7 +11721,7 @@ I.7.1.1.1.      embedded in a matrix not made from      811299300; 854419900
                 copper-containing material; 
 
 I.7.1.1.2.      with a cross section less than          811299300; 854419900 
-                0.28|b10[.sup]-4[/] mm[.sup]2[/] (6 æ 
+                0.28|b10[.sup]-4[/] mm[.sup]2[/] (6 ï¿½ 
                 in diameter in the case of round 
                 filaments) 
 
@@ -11836,7 +11837,7 @@ I.7.5.          X-ray systems characterized by          902219000
                 short-pulse discharging, having peak 
                 power exceeding 500 MW, output 
                 voltage exceeding 500 kV and pulse 
-                width less than 0.2 æsec 
+                width less than 0.2 ï¿½sec 
 
 Section I.8 Functional Equipment, Units and Parts 
 
@@ -11987,7 +11988,7 @@ I.9.3.                Numerically controlled or manually
                       control elements and accessories for 
                       them, specially designed for 
                       milling, finish work, polishing or 
-                      honing of tempered (Rc=40 or more) 
+                      honing of tempered (Rc="40" or more) 
                       conical or cylindrical gears, and 
                       namely: 
 
@@ -12087,7 +12088,7 @@ I.9.4.5.              Production units equipped with         845690000
                       metal-coating by spraying, capable 
                       of maintaining a current density of 
                       0.1 mA/mm[.sup]2[/] or more at a 
-                      spraying productivity of 15 æ/hr or 
+                      spraying productivity of 15 ï¿½/hr or 
                       more 
 
 I.9.4.6.              Production units equipped with         851580900 
@@ -12360,7 +12361,7 @@ I.10.2.8.             Electromagnetic sensors used to
 
 I.10.2.8.1.           containing thin-film SQUIDs with a     901580930 
                       minimum characteristic dimension 
-                      less than 2 æ and the corresponding 
+                      less than 2 ï¿½ and the corresponding 
                       input and output connection 
                       circuits; 
 
@@ -12382,7 +12383,7 @@ I.10.3.               Gravitometers
 I.10.3.1.             Gravitometers for terrestrial use      901580930 
                       with statistical precision below 
                       (better than) 1|b10[.sup]-7[/] 
-                      m/sec[.sup]2[/] (10 ægal) 
+                      m/sec[.sup]2[/] (10 ï¿½gal) 
 
                       Note: Export controls pertaining to 
                       items I.10.3.1. and I.10.3.2. do not 
@@ -12573,12 +12574,12 @@ I.10.11.1.1.2.        Acoustic systems for detection or      901580910
 I.10.11.1.1.2.1.      working frequency below 10 kHz;        901580910 
 
 I.10.11.1.1.2.2.      acoustic pressure above 224 dB (1      901580910 
-                      æPa per 1 m) for apparatus with a 
+                      ï¿½Pa per 1 m) for apparatus with a 
                       working frequency in a range from 10 
                       to 24 kHz; 
 
 I.10.11.1.1.2.3.      acoustic pressure above 235 dB (1      901580910 
-                      æPa per 1 m) for apparatus with a 
+                      ï¿½Pa per 1 m) for apparatus with a 
                       working frequency in a range from 24 
                       to 30 kHz; 
 
@@ -12732,9 +12733,9 @@ I.10.11.1.2.1.7.      Hydrophones (transducers) developed    901580930
                       hydrophonic pickup, less the 
                       preamplifier, is located within the 
                       acoustic field of a plane wave with 
-                      root-mean-square pressure 1 æPa. For 
+                      root-mean-square pressure 1 ï¿½Pa. For 
                       example, a -160 dB hydrophone (with 
-                      a reference voltage of 1 V/æPa) 
+                      a reference voltage of 1 V/ï¿½Pa) 
                       produces an output voltage of 
                       10[.sup]-[superscript  illegible][/] 
                       V in such a field, while a 
@@ -13240,7 +13241,7 @@ I.12.1.5.2.           Apparatus capable of controlling,      903140000; 90328990
                       tracking, stabilizing or tuning a 
                       resonator with a frequency band 
                       equal to or greater than 100 Hz, and 
-                      an error of 10 ærad or less 
+                      an error of 10 ï¿½rad or less 
 
 I.12.1.5.3.           Cardan suspensions with a 5  maximum 
                       turning angle, a frequency bandwidth 
@@ -13251,7 +13252,7 @@ I.12.1.5.3.1.         diameter or greater axis longer than   903289900
                       0.15 m, but not more than 1 m, 
                       sensitivity to angular acceleration 
                       greater than 2 rad/sec[.sup]2[/], an 
-                      error of angular of 200 ærad or 
+                      error of angular of 200 ï¿½rad or 
                       less; 
 
 I.12.1.5.3.2.         ones specially developed to align      903289900 
@@ -13262,7 +13263,7 @@ I.12.1.5.3.2.         ones specially developed to align      903289900
                       sensitive to angular accelerations 
                       greater than 0.5 rad/sec[.sup]2[/] 
                       and having an error of angular 
-                      guidance of 200 ærad or less 
+                      guidance of 200 ï¿½rad or less 
 
 I.12.1.6.             Apparatus for measuring absolute       903140000 
                       reflectivity with an error of +/- 
@@ -13308,7 +13309,7 @@ I.12.2.1.2.1.         Electron-optic brightness amplifiers   854140990; 90138000
                       anode for electron image 
                       amplification with a port spacing 
                       (distance between centers) less than 
-                      25 æ, and possessing S-20 or S-25 
+                      25 ï¿½, and possessing S-20 or S-25 
                       photocathodes, a multiple-slit 
                       photocathode, or GaAs or GainAs 
                       photocathodes 
@@ -13323,7 +13324,7 @@ I.12.2.1.2.2.1.       fiber-optic inverters;                 854140990; 90138000
 I.12.2.1.2.2.2.       microchannel anodes having 15,000 or   854140990 
                       more glow-discharge lamps per plate 
                       and a port spacing (distance between 
-                      centers) less than 25 æ; 
+                      centers) less than 25 ï¿½; 
 
 I.12.2.1.2.2.3.       photocathodes made from GaAs or        854140990 
                       GainAS 
@@ -13381,7 +13382,7 @@ I.12.2.2.             Multispectral image shapers for use
                       the following characteristics: 
 
 I.12.2.2.1.           an instantaneous visual field of       854089900 
-                      less than 2,000 ærad; 
+                      less than 2,000 ï¿½rad; 
 
 I.12.2.2.2.           ones specially designed for work in    854089900 
                       a wavelength range above 400 nm but 
@@ -13490,7 +13491,7 @@ I.12.3.1.2.           Mechanical high-speed cameras in       900719000
 I.12.3.1.3.           Mechanical or electronic               900719000 
                       photochronographic cameras with a 
                       recording speed greater than 10 
-                      mm/æsec 
+                      mm/ï¿½sec 
 
 I.12.3.1.4.           Electronic frame camera with speed     900719000 
                       greater than 10[.sup]5[/] 
@@ -13499,7 +13500,7 @@ I.12.3.1.4.           Electronic frame camera with speed     900719000
 
 I.12.3.1.5.           Electronic cameras with an             90071900 
                       electronic shutter speed (strobing 
-                      speed) less than 1 æsec per complete 
+                      speed) less than 1 ï¿½sec per complete 
                       frame, and with a reading time 
                       permitting acquisition of more than 
                       125 complete frames per second 
@@ -13622,12 +13623,12 @@ I.12.4.1.4.1.         continuous output greater than 10      901320000
                       kW; 
 
 I.12.4.1.4.2.         pulsed radiation with pulse length     901320000 
-                      greater than 10 æsec, mean output 
+                      greater than 10 ï¿½sec, mean output 
                       power over 10 kW or pulse peak power 
                       greater than 100 kW; 
 
 I.12.4.1.4.3.         pulsed radiation with pulse length 
-                      equal to or less than 10 æsec, pulse 
+                      equal to or less than 10 ï¿½sec, pulse 
                       energy greater than 5 J, pulse peak 
                       power over 2.5 kW or mean power, or 
                       continuous output power greater than 
@@ -13706,7 +13707,7 @@ I.12.4.2.2.           Individual semiconductor single-mode
                       lasers with transverse modes or 
                       laser arrays with: 
 
-I.12.4.2.2.1.         output energy greater than 500 æJ      901320000 
+I.12.4.2.2.1.         output energy greater than 500 ï¿½J      901320000 
                       per pulse, pulse peak power over 10 
                       W 
 
@@ -13758,28 +13759,28 @@ Central Eurasia
 <TEXT>
 fit  in box. 
 <DATE1>  11 February 1994 </DATE1>
-<F P=100></F>
-<F P=101></F>
+<F P="100"></F>
+<F P="101"></F>
 <H3> <TI>       Militarily Useful Items Subject to Export Controls--II </TI></H3>
-<HT><F P=107><PHRASE>    Militarily Useful Items Subject to Export Controls--II </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Militarily Useful Items Subject to Export Controls--II </PHRASE></F></HT>
 
-<F P=102>   945C0010A Moscow PERECHEN OTDELNYKH VIDOV SYRYA, MATERIALOV, 
+<F P="102">   945C0010A Moscow PERECHEN OTDELNYKH VIDOV SYRYA, MATERIALOV, 
 OBORUDOVANIYA, TEKHNOLOGIY I NAUCHNO-TECHNICHESKOY INFORMATSII, </F>
 
 KOTORYYE MOGUT BYT PRIMENENY PRI SOZDANII VOORUZHENIYA I 
 VOYENNOY TEKHNIKI in Russian 11 Feb 94 pp 1, 60-225--FOR 
 OFFICIAL USE ONLY 
-<F P=103> 945C0010A </F>
-<F P=104>  Moscow PERECHEN OTDELNYKH VIDOV SYRYA, MATERIALOV, 
+<F P="103"> 945C0010A </F>
+<F P="104">  Moscow PERECHEN OTDELNYKH VIDOV SYRYA, MATERIALOV, 
 OBORUDOVANIYA, TEKHNOLOGIY I NAUCHNO-TECHNICHESKOY INFORMATSII, </F>
 
 KOTORYYE MOGUT BYT PRIMENENY PRI SOZDANII VOORUZHENIYA I 
 VOYENNOY TEKHNIKI 
-<F P=105> Russian </F>
+<F P="105"> Russian </F>
 CSO 
 
-<F P=106> [Concluding portion of "List of Certain Kinds of Raw </F>
-Materials, Other Materials, Equipment, Technologies and S&amp;T 
+<F P="106"> [Concluding portion of "List of Certain Kinds of Raw </F>
+Materials, Other Materials, Equipment, Technologies and S amp;T 
 Information Which Can Be Used To Develop Weapons and Military 
 Equipment, Export of Which Is Controlled and Accomplished by 
 Licenses", approved by Russian Federation Presidential Directive 
@@ -13792,7 +13793,7 @@ translated by FBIS from an unpublished typescript.]
 LIST 
 
 of Certain Kinds of Raw Materials, Supplies, Equipment, Technologies and 
-S&amp;T Information Which May Be Used in Creating Arms and Military 
+S amp;T Information Which May Be Used in Creating Arms and Military 
 Equipment, Export of Which Is Controlled and Accomplished by Licenses 
 
 Part I. Raw Materials, Other Materials and Equipment [continued] 
@@ -14357,7 +14358,7 @@ Section I.14. Test Equipment
 
 I.14.1.                  Flow channels having a noise       903120000 
                          background of less than 100 db 
-                         (standard--1 micropascal [æPa], 
+                         (standard--1 micropascal [ï¿½Pa], 
                          1 Hz) in the frequency band from 
                          0 to 500 Hz, designed to measure 
                          acoustic fields generated by the 
@@ -16173,7 +16174,7 @@ I.16.10.3.               Optical computers                  8471
 
 
 
-Part II. Technologies and S&amp;T Information 
+Part II. Technologies and S amp;T Information 
 
 Section II.1. Metallic Materials 
 
@@ -17324,7 +17325,7 @@ II.10.4.                         Design and technology for producing machine
                                  components, control elements and fixtures 
                                  for them, specially designed for milling, 
                                  finishing treatment, polishing or honing of 
-                                 hardened (Rc=40 or more) bevel or spur 
+                                 hardened (Rc="40" or more) bevel or spur 
                                  pinions in accordance with items 
                                  I.9.3.-I.9.3.2. 
 
@@ -18860,11 +18861,11 @@ II.11.20.1.1.2.                  Design and technology for producing acoustic
 
 II.11.20.1.1.2.1.                operating frequency less than 10 kHz; 
 
-II.11.20.1.1.2.2.                sound pressure level above 224 db (1 æPa/m) 
+II.11.20.1.1.2.2.                sound pressure level above 224 db (1 ï¿½Pa/m) 
                                  for gear with an operating frequency in the 
                                  band from 10 to 24 kHz; 
 
-II.11.20.1.1.2.3.                sound pressure level above 235 db (1 æPa/m) 
+II.11.20.1.1.2.3.                sound pressure level above 235 db (1 ï¿½Pa/m) 
                                  for gear with an operating frequency in the 
                                  band from 24 to 30 kHz; 
 
@@ -20915,7 +20916,7 @@ Section II.15. Test Equipment
 
 II.15.1.                         Design and technology for producing flow 
                                  channels having a noise background of less 
-                                 than 100 db (standard--1 æPa, 1 Hz) in the 
+                                 than 100 db (standard--1 ï¿½Pa, 1 Hz) in the 
                                  frequency band from 0 to 500 Hz, designed to 
                                  measure acoustic fields generated by the 
                                  hydraulic flow around propeller system 
@@ -22703,3 +22704,4 @@ II.17.38.5.                      Operating systems specially designed for
 </TEXT>
 
 </DOC>
+</root>

@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS4-54492 </DOCNO>
@@ -11,22 +12,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   R. Kovac Rejects Accusations, Corruption Charge </TI></H3>
-<HT><F P=107><PHRASE>    R. Kovac Rejects Accusations, Corruption Charge </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    R. Kovac Rejects Accusations, Corruption Charge </PHRASE></F></HT>
 
-<F P=102>   AU0205134394 Bratislava NARODNA OBRODA in Slovak 28 Apr 94 p 
+<F P="102">   AU0205134394 Bratislava NARODNA OBRODA in Slovak 28 Apr 94 p 
 2 </F>
 
-<F P=103> AU0205134394 </F>
-<F P=104>  Bratislava NARODNA OBRODA </F>
-<F P=105>  Slovak </F>
+<F P="103"> AU0205134394 </F>
+<F P="104">  Bratislava NARODNA OBRODA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [TA SR report] </F>
+<F P="106"> [TA SR report] </F>
   [Text] Bratislava -- In a statement issued yesterday, 
 Deputy Prime Minister Roman Kovac states that he learned about 
 the motion by 35 deputies to recall him from the post of Slovak 
@@ -70,18 +71,18 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Moravcik on Deputy Prime Minister Kovac's Post </TI></H3>
-<HT><F P=107><PHRASE>    Moravcik on Deputy Prime Minister Kovac's Post </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Moravcik on Deputy Prime Minister Kovac's Post </PHRASE></F></HT>
 
-<F P=102>   LD2904182694 Bratislava Rozhlasova Stanica Slovensko Network 
+<F P="102">   LD2904182694 Bratislava Rozhlasova Stanica Slovensko Network 
 in Slovak 1000 GMT 29 Apr 94 </F>
 
-<F P=103> LD2904182694 </F>
-<F P=104>  Bratislava Rozhlasova Stanica Slovensko Network 
+<F P="103"> LD2904182694 </F>
+<F P="104">  Bratislava Rozhlasova Stanica Slovensko Network 
 in Slovak 1000 GMT 29 Apr 94 </F>
 
-<F P=105> Slovak </F>
+<F P="105"> Slovak </F>
 
 
 <TEXT>
@@ -158,22 +159,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Meciar on New Government, Decisions Made </TI></H3>
-<HT><F P=107><PHRASE>    Meciar on New Government, Decisions Made </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Meciar on New Government, Decisions Made </PHRASE></F></HT>
 
-<F P=102>   94CH0211A Prague ZEMEDELSKE NOVINY in Czech 25 Mar 94 pp 1, 
+<F P="102">   94CH0211A Prague ZEMEDELSKE NOVINY in Czech 25 Mar 94 pp 1, 
 10 </F>
 
-<F P=103> 94CH0211A </F>
-<F P=104>  Prague ZEMEDELSKE NOVINY </F>
-<F P=105>  Czech </F>
+<F P="103"> 94CH0211A </F>
+<F P="104">  Prague ZEMEDELSKE NOVINY </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Vladimir Meciar, chairman of the Movement </F>
+<F P="106"> [Interview with Vladimir Meciar, chairman of the Movement </F>
 for a Democratic Slovakia and former Slovak prime minister, by 
 unidentified correspondent; place and date not given: "The Path 
 I Followed Was the Right One"] 
@@ -369,20 +370,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Schmognerova Addresses IMF on `Transformation' </TI></H3>
-<HT><F P=107><PHRASE>    Schmognerova Addresses IMF on `Transformation' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Schmognerova Addresses IMF on `Transformation' </PHRASE></F></HT>
 
-<F P=102>   AU0105183494 Bratislava PRAVDA in Slovak 27 Apr 94 p 13 </F>
-<F P=103> AU0105183494 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0105183494 Bratislava PRAVDA in Slovak 27 Apr 94 p 13 </F>
+<F P="103"> AU0105183494 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [TA SR report: "Unpopular Measures on the Horizon"] </F>
+<F P="106"> [TA SR report: "Unpopular Measures on the Horizon"] </F>
   [Text] Washington -- "The International Monetary Fund 
 (IMF) should establish close contacts with the emerging World 
 Trade Organization (WTO). We support the view that industrially 
@@ -434,20 +435,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Poll on Meciar, Kovac Speeches to Assembly </TI></H3>
-<HT><F P=107><PHRASE>    Poll on Meciar, Kovac Speeches to Assembly </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Poll on Meciar, Kovac Speeches to Assembly </PHRASE></F></HT>
 
-<F P=102>   AU3004135094 Bratislava SME in Slovak 27 Apr 94 p 3 </F>
-<F P=103> AU3004135094 </F>
-<F P=104>  Bratislava SME </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU3004135094 Bratislava SME in Slovak 27 Apr 94 p 3 </F>
+<F P="103"> AU3004135094 </F>
+<F P="104">  Bratislava SME </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by "r": "Slovak Republic Citizens' Approach to the </F>
+<F P="106"> [Article by "r": "Slovak Republic Citizens' Approach to the </F>
 Speeches Made in Parliament on 9 and 11 March 1994"] 
   [Text] Bratislava--Citizens' views on the speeches made by 
 President Michal Kovac and then Prime Minister Vladimir Meciar 
@@ -539,22 +540,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Five Right-Wing Parties Consider Forming Bloc </TI></H3>
-<HT><F P=107><PHRASE>    Five Right-Wing Parties Consider Forming Bloc </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Five Right-Wing Parties Consider Forming Bloc </PHRASE></F></HT>
 
-<F P=102>   AU2904200394 Bratislava SLOVENSKY DENNIK in Slovak 27 Apr 94 
+<F P="102">   AU2904200394 Bratislava SLOVENSKY DENNIK in Slovak 27 Apr 94 
 p 1 </F>
 
-<F P=103> AU2904200394 </F>
-<F P=104>  Bratislava SLOVENSKY DENNIK </F>
-<F P=105>  Slovak </F>
+<F P="103"> AU2904200394 </F>
+<F P="104">  Bratislava SLOVENSKY DENNIK </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by "var": "United by Closeness"] </F>
+<F P="106"> [Article by "var": "United by Closeness"] </F>
   [Text] Bratislava--Representatives of the National 
 Democratic Party, the Christian Democratic Movement, the 
 Democratic Union of Slovakia, the Democratic Party, and the 
@@ -601,22 +602,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   KOZ Decides Not To Back Any Party </TI></H3>
-<HT><F P=107><PHRASE>    KOZ Decides Not To Back Any Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    KOZ Decides Not To Back Any Party </PHRASE></F></HT>
 
-<F P=102>   AU3004134994 Bratislava HOSPODARSKE NOVINY in Slovak 27 Apr 
+<F P="102">   AU3004134994 Bratislava HOSPODARSKE NOVINY in Slovak 27 Apr 
 94 p 2 </F>
 
-<F P=103> AU3004134994 </F>
-<F P=104>  Bratislava HOSPODARSKE NOVINY </F>
-<F P=105>  Slovak </F>
+<F P="103"> AU3004134994 </F>
+<F P="104">  Bratislava HOSPODARSKE NOVINY </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [TA SR report: "The Confederation of Trade Unions Will </F>
+<F P="106"> [TA SR report: "The Confederation of Trade Unions Will </F>
 Remain Apolitical"] 
   [Text] Bratislava--At a regular meeting in Bratislava 
 yesterday, participants in the Assembly of the Confederation of 
@@ -663,20 +664,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Coalition Deputies To Head Council Committees </TI></H3>
-<HT><F P=107><PHRASE>    Coalition Deputies To Head Council Committees </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Coalition Deputies To Head Council Committees </PHRASE></F></HT>
 
-<F P=102>   AU0205133594 Bratislava PRAVDA in Slovak 29 Apr 94 pp 1, 2 </F>
-<F P=103> AU0205133594 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0205133594 Bratislava PRAVDA in Slovak 29 Apr 94 pp 1, 2 </F>
+<F P="103"> AU0205133594 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Ivan Bielik and Stefan Hrcka: "Partly Disclosed </F>
+<F P="106"> [Report by Ivan Bielik and Stefan Hrcka: "Partly Disclosed </F>
 Party Finances"] 
   [Excerpts] Bratislava -- Yesterday's second day of the 
 30th meeting of the National Council of the Slovak Republic 
@@ -764,22 +765,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Latest Trends in Foreign Trade Analyzed </TI></H3>
-<HT><F P=107><PHRASE>    Latest Trends in Foreign Trade Analyzed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Latest Trends in Foreign Trade Analyzed </PHRASE></F></HT>
 
-<F P=102>   AU2904182094 Bratislava HOSPODARSKE NOVINY in Slovak 27 Apr 
+<F P="102">   AU2904182094 Bratislava HOSPODARSKE NOVINY in Slovak 27 Apr 
 94 p 2 </F>
 
-<F P=103> AU2904182094 </F>
-<F P=104>  Bratislava HOSPODARSKE NOVINY </F>
-<F P=105>  Slovak </F>
+<F P="103"> AU2904182094 </F>
+<F P="104">  Bratislava HOSPODARSKE NOVINY </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [TA SR report: "Trade Deficit for January and February; </F>
+<F P="106"> [TA SR report: "Trade Deficit for January and February; </F>
 Czech Republic Is Slovakia's Largest Trading Partner"] 
   [Text] Bratislava--The Slovak Republic's foreign trade 
 turnover in the first two months of the year reached a sum of 
@@ -819,20 +820,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Licensing Commission Chief Views Arms Trade </TI></H3>
-<HT><F P=107><PHRASE>    Licensing Commission Chief Views Arms Trade </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Licensing Commission Chief Views Arms Trade </PHRASE></F></HT>
 
-<F P=102>   AU2904162594 Bratislava SME in Slovak 27 Apr 94 p 13 </F>
-<F P=103> AU2904162594 </F>
-<F P=104>  Bratislava SME </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU2904162594 Bratislava SME in Slovak 27 Apr 94 p 13 </F>
+<F P="103"> AU2904162594 </F>
+<F P="104">  Bratislava SME </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Colonel Bohumir Gerinec, director of the </F>
+<F P="106"> [Interview with Colonel Bohumir Gerinec, director of the </F>
 Defense and Security Affairs Department operating under the 
 Slovak Government Office, by Peter Sporer; place and date not 
 given: "Armex Has Not Become an Alternative to Omnipol in 
@@ -1013,17 +1014,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Kosovo </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Kosovo </F>
 <H3> <TI>   Rugova: `Too Early' To Discuss Confederation </TI></H3>
-<HT><F P=107><PHRASE>    Rugova: `Too Early' To Discuss Confederation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rugova: `Too Early' To Discuss Confederation </PHRASE></F></HT>
 
-<F P=102>   AU2904163294 Tirana Radio Tirana Network in Albanian 1330 
+<F P="102">   AU2904163294 Tirana Radio Tirana Network in Albanian 1330 
 GMT 29 Apr 94 </F>
 
-<F P=103> AU2904163294 </F>
-<F P=104>  Tirana Radio Tirana Network </F>
-<F P=105>  Albanian </F>
+<F P="103"> AU2904163294 </F>
+<F P="104">  Tirana Radio Tirana Network </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
@@ -1104,20 +1105,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Cabinet Discord Expected Over Pilip Nomination </TI></H3>
-<HT><F P=107><PHRASE>    Cabinet Discord Expected Over Pilip Nomination </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cabinet Discord Expected Over Pilip Nomination </PHRASE></F></HT>
 
-<F P=102>   AU2904172894 Prague MLADA FRONTA DNES in Czech 28 Apr 94 p 6 </F>
-<F P=103> AU2904172894 </F>
-<F P=104>  Prague MLADA FRONTA DNES </F>
-<F P=105>  Czech </F>
+<F P="102">   AU2904172894 Prague MLADA FRONTA DNES in Czech 28 Apr 94 p 6 </F>
+<F P="103"> AU2904172894 </F>
+<F P="104">  Prague MLADA FRONTA DNES </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Jiri Leschtina: "The `Dwarf's' Rocket Growth"] </F>
+<F P="106"> [Commentary by Jiri Leschtina: "The `Dwarf's' Rocket Growth"] </F>
   [Text] Vaclav Benda [Christian Democratic Party founder and 
 first chairman] probably never erred more than when, during the 
 struggle for leadership of the Christian Democratic Party [KDS], 
@@ -1174,20 +1175,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Military Pay Changes Approved by Parliament </TI></H3>
-<HT><F P=107><PHRASE>    Military Pay Changes Approved by Parliament </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Military Pay Changes Approved by Parliament </PHRASE></F></HT>
 
-<F P=102>   94CH0210E Prague A REPORT in Czech 22 Feb 94 p 1 </F>
-<F P=103> 94CH0210E </F>
-<F P=104>  Prague A REPORT </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0210E Prague A REPORT in Czech 22 Feb 94 p 1 </F>
+<F P="103"> 94CH0210E </F>
+<F P="104">  Prague A REPORT </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by sta: "Parliament Has Approved the Amendment to </F>
+<F P="106"> [Article by sta: "Parliament Has Approved the Amendment to </F>
 Law No. 143 on Pay and Emoluments"] 
   [Text] On the first day of its 16th session, the 
 Chamber of Deputies of parliament (15 February 1994) approved an 
@@ -1239,20 +1240,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Results of Army Pay Changes Discussed </TI></H3>
-<HT><F P=107><PHRASE>    Results of Army Pay Changes Discussed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Results of Army Pay Changes Discussed </PHRASE></F></HT>
 
-<F P=102>   94CH0210F Prague A REPORT in Czech 22 Feb 94 p 4 </F>
-<F P=103> 94CH0210F </F>
-<F P=104>  Prague A REPORT </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0210F Prague A REPORT in Czech 22 Feb 94 p 4 </F>
+<F P="103"> 94CH0210F </F>
+<F P="104">  Prague A REPORT </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Vlastimil Stana: "As of April, Things Will Be </F>
+<F P="106"> [Article by Vlastimil Stana: "As of April, Things Will Be </F>
 Different"] 
   [Text] The amendment of the law that has to do with 
 pay and emoluments for readiness to work in budgetary and some 
@@ -1340,20 +1341,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Additional Information on Army Pay Changes </TI></H3>
-<HT><F P=107><PHRASE>    Additional Information on Army Pay Changes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Additional Information on Army Pay Changes </PHRASE></F></HT>
 
-<F P=102>   94CH0210G Prague A REPORT in Czech 8 Mar 94 p 3 </F>
-<F P=103> 94CH0210G </F>
-<F P=104>  Prague A REPORT </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0210G Prague A REPORT in Czech 8 Mar 94 p 3 </F>
+<F P="103"> 94CH0210G </F>
+<F P="104">  Prague A REPORT </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Jiri Stonawsky and Vlastimil Stana: "Soldiers To </F>
+<F P="106"> [Article by Jiri Stonawsky and Vlastimil Stana: "Soldiers To </F>
 Receive April Pay on 13 May"] 
   [Text] At the beginning of March, directives issued 
 by the deputy minister of defense and having to do with new due 
@@ -1466,20 +1467,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Proposal To Transform Military Education Due </TI></H3>
-<HT><F P=107><PHRASE>    Proposal To Transform Military Education Due </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Proposal To Transform Military Education Due </PHRASE></F></HT>
 
-<F P=102>   94CH0210H Prague A REPORT in Czech 8 Mar 94 p 3 </F>
-<F P=103> 94CH0210H </F>
-<F P=104>  Prague A REPORT </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0210H Prague A REPORT in Czech 8 Mar 94 p 3 </F>
+<F P="103"> 94CH0210H </F>
+<F P="104">  Prague A REPORT </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Miloslav Frydl: "Three Schools To Remain"] </F>
+<F P="106"> [Article by Miloslav Frydl: "Three Schools To Remain"] </F>
   [Text] By 1 September 1994, the advanced military 
 education system is supposed to be reduced. As of that date, 
 however, three advanced military schools will remain. During the 
@@ -1550,20 +1551,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   General Nekvasil Reports on Army Transformation </TI></H3>
-<HT><F P=107><PHRASE>    General Nekvasil Reports on Army Transformation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    General Nekvasil Reports on Army Transformation </PHRASE></F></HT>
 
-<F P=102>   94CH0210D Prague A REPORT in Czech 22 Feb 94 p 3 </F>
-<F P=103> 94CH0210D </F>
-<F P=104>  Prague A REPORT </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0210D Prague A REPORT in Czech 22 Feb 94 p 3 </F>
+<F P="103"> 94CH0210D </F>
+<F P="104">  Prague A REPORT </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Vlastimil Stana on press conference given by </F>
+<F P="106"> [Article by Vlastimil Stana on press conference given by </F>
 Chief of General Staff Jiri Nekvasil: "Yesterday, Today, and 
 Tomorrow--Some Facts on the Transformation of the Army of the 
 Czech Republic"] 
@@ -1675,20 +1676,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Logistics Chief Views Military of Future </TI></H3>
-<HT><F P=107><PHRASE>    Logistics Chief Views Military of Future </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Logistics Chief Views Military of Future </PHRASE></F></HT>
 
-<F P=102>   94CH0210I Prague A REPORT in Czech 22 Feb 94 p 5 </F>
-<F P=103> 94CH0210I </F>
-<F P=104>  Prague A REPORT </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0210I Prague A REPORT in Czech 22 Feb 94 p 5 </F>
+<F P="103"> 94CH0210I </F>
+<F P="104">  Prague A REPORT </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with General Major Oldrich Barta, chief of </F>
+<F P="106"> [Interview with General Major Oldrich Barta, chief of </F>
 logistics, Czech Republic Ministry of Defense, by Vladimir 
 Marek; place and date not given: "A Small but High-Quality Army"] 
   [Text] The Army of the Czech Republic should be small 
@@ -1837,20 +1838,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Foreign Currency Transactions Made Easier </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Currency Transactions Made Easier </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Currency Transactions Made Easier </PHRASE></F></HT>
 
-<F P=102>   94CH0233A Prague HOSPODARSKE NOVINY in Czech 10 Mar 94 p 9 </F>
-<F P=103> 94CH0233A </F>
-<F P=104>  Prague HOSPODARSKE NOVINY </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0233A Prague HOSPODARSKE NOVINY in Czech 10 Mar 94 p 9 </F>
+<F P="103"> 94CH0233A </F>
+<F P="104">  Prague HOSPODARSKE NOVINY </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Announcement by Czech National Bank: "Official Announcement </F>
+<F P="106"> [Announcement by Czech National Bank: "Official Announcement </F>
 by the Czech National Bank Regarding the Relaxation of 
 Requirements To Offer Foreign Exchange to the State and the 
 Establishment of Foreign Exchange Accounts"] 
@@ -2086,20 +2087,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Higher Grain Harvest Expected in 1994 </TI></H3>
-<HT><F P=107><PHRASE>    Higher Grain Harvest Expected in 1994 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Higher Grain Harvest Expected in 1994 </PHRASE></F></HT>
 
-<F P=102>   94CH0233B Prague HOSPODARSKE NOVINY in Czech 21 Mar 94 p 2 </F>
-<F P=103> 94CH0233B </F>
-<F P=104>  Prague HOSPODARSKE NOVINY </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0233B Prague HOSPODARSKE NOVINY in Czech 21 Mar 94 p 2 </F>
+<F P="103"> 94CH0233B </F>
+<F P="104">  Prague HOSPODARSKE NOVINY </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Jana Francikova: "The Grain Harvest Should Be </F>
+<F P="106"> [Article by Jana Francikova: "The Grain Harvest Should Be </F>
 Higher This Year"] 
   [Text] Total grain production this year is expected to 
 amount to 7 million tons, which is approximately 400,000 tons 
@@ -2145,17 +2146,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Breakaways From Ruling HDZ Form New Party </TI></H3>
-<HT><F P=107><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
 <H4>    Mesic Elected Chairman </H4>
 
-<F P=102> LD3004160994 Zagreb Radio Croatia Network in Serbo-Croatian 
+<F P="102"> LD3004160994 Zagreb Radio Croatia Network in Serbo-Croatian 
 1500 GMT 30 Apr 94 </F>
 
-<F P=103> LD3004160994 </F>
-<F P=104>  Zagreb Radio Croatia Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD3004160994 </F>
+<F P="104">  Zagreb Radio Croatia Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -2201,23 +2202,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Breakaways From Ruling HDZ Form New Party </TI></H3>
-<HT><F P=107><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
 <H4>    Mesic Interviewed </H4>
 
-<F P=102> LD3005235994 Zagreb HTV Television in Serbo-Croatian 2205 
+<F P="102"> LD3005235994 Zagreb HTV Television in Serbo-Croatian 2205 
 GMT 30 Apr 94 </F>
 
-<F P=103> LD3005235994 </F>
-<F P=104>  Zagreb HTV Television </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD3005235994 </F>
+<F P="104">  Zagreb HTV Television </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Stipe Mesic, chairman of the Croatian </F>
+<F P="106"> [Interview with Stipe Mesic, chairman of the Croatian </F>
 Independent Democrats, by unidentified studio announcer -- live] 
   [Excerpts] [Announcer] Our guest this evening is Stipe 
 Mesic, the newly elected chairman of the Croatian Independent 
@@ -2296,23 +2297,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Breakaways From Ruling HDZ Form New Party </TI></H3>
-<HT><F P=107><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
 <H4>    Leaders Blame Tudjman for War </H4>
 
-<F P=102> LD3004163094 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102"> LD3004163094 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1500 GMT 30 Apr 94 </F>
 
-<F P=103> LD3004163094 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD3004163094 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by correspondent Nada Al Issa from Zagreb] </F>
+<F P="106"> [Report by correspondent Nada Al Issa from Zagreb] </F>
   [Excerpts] The founding assembly of the Croatian 
 Independent Democrats [HND] was held in Zagreb today. The party 
 was founded by Stjepan Mesic and Josip Manolic. [passage omitted] 
@@ -2354,23 +2355,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Breakaways From Ruling HDZ Form New Party </TI></H3>
-<HT><F P=107><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Breakaways From Ruling HDZ Form New Party </PHRASE></F></HT>
 <H4>    Commentary on Potential `Crisis' </H4>
 
-<F P=102> AU0205094594 Zagreb VJESNIK in Serbo-Croatian 21 Apr 94 pp 
+<F P="102"> AU0205094594 Zagreb VJESNIK in Serbo-Croatian 21 Apr 94 pp 
 2-3 </F>
 
-<F P=103> AU0205094594 </F>
-<F P=104>  Zagreb VJESNIK </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0205094594 </F>
+<F P="104">  Zagreb VJESNIK </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Aleksa Crnjakovic: "Will `Turncoats' Cause a </F>
+<F P="106"> [Commentary by Aleksa Crnjakovic: "Will `Turncoats' Cause a </F>
 Crisis?"] 
   [Text] Although there are no big surprises regarding 
 members of the future party, the making of the list of HDZ 
@@ -2594,16 +2595,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   RSK Cites `Terror by the Croatian State' </TI></H3>
-<HT><F P=107><PHRASE>    RSK Cites `Terror by the Croatian State' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    RSK Cites `Terror by the Croatian State' </PHRASE></F></HT>
 
-<F P=102>   LD2904165494 Belgrade TANJUG Domestic Service in 
+<F P="102">   LD2904165494 Belgrade TANJUG Domestic Service in 
 Serbo-Croatian 1411 GMT 29 Apr 94 </F>
 
-<F P=103> LD2904165494 </F>
-<F P=104>  Belgrade TANJUG Domestic Service </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD2904165494 </F>
+<F P="104">  Belgrade TANJUG Domestic Service </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -2664,16 +2665,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Presidential Council Issues Statement </TI></H3>
-<HT><F P=107><PHRASE>    Presidential Council Issues Statement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Presidential Council Issues Statement </PHRASE></F></HT>
 
-<F P=102>   LD2904212994 Zagreb HTV Television in Serbo-Croatian 1730 
+<F P="102">   LD2904212994 Zagreb HTV Television in Serbo-Croatian 1730 
 GMT 29 Apr 94 </F>
 
-<F P=103> LD2904212994 </F>
-<F P=104>  Zagreb HTV Television </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD2904212994 </F>
+<F P="104">  Zagreb HTV Television </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -2768,22 +2769,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Albania's Berisha Addresses Reporters </TI></H3>
-<HT><F P=107><PHRASE>    Albania's Berisha Addresses Reporters </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Albania's Berisha Addresses Reporters </PHRASE></F></HT>
 
-<F P=102>   AU2904210794 Tirana TVSH Television Network in Albanian 1800 
+<F P="102">   AU2904210794 Tirana TVSH Television Network in Albanian 1800 
 GMT 29 Apr 94 </F>
 
-<F P=103> AU2904210794 </F>
-<F P=104>  Tirana TVSH Television Network </F>
-<F P=105>  Albanian </F>
+<F P="103"> AU2904210794 </F>
+<F P="104">  Tirana TVSH Television Network </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Sokol Balla in Sofia] </F>
+<F P="106"> [Report by Sokol Balla in Sofia] </F>
   [Text] After the visit to the Bulgarian National 
 Historical Museum here in Sofia, an important topic on the third 
 day of the official visit of our President Sali Berisha was the 
@@ -2919,16 +2920,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Boross Meets Slovak Counterpart in Komarom </TI></H3>
-<HT><F P=107><PHRASE>    Boross Meets Slovak Counterpart in Komarom </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Boross Meets Slovak Counterpart in Komarom </PHRASE></F></HT>
 
-<F P=102>   LD0105215294 Budapest Kossuth Radio Network in Hungarian 
+<F P="102">   LD0105215294 Budapest Kossuth Radio Network in Hungarian 
 2100 GMT 1 May 94 </F>
 
-<F P=103> LD0105215294 </F>
-<F P=104>  Budapest Kossuth Radio Network </F>
-<F P=105>  Hungarian </F>
+<F P="103"> LD0105215294 </F>
+<F P="104">  Budapest Kossuth Radio Network </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
@@ -2962,14 +2963,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   UNPROFOR Protests Attack Near Gorazde </TI></H3>
-<HT><F P=107><PHRASE>    UNPROFOR Protests Attack Near Gorazde </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UNPROFOR Protests Attack Near Gorazde </PHRASE></F></HT>
 
-<F P=102>   AU3004125594 Paris AFP in English 1010 GMT 30 Apr 94 </F>
-<F P=103> AU3004125594 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU3004125594 Paris AFP in English 1010 GMT 30 Apr 94 </F>
+<F P="103"> AU3004125594 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3009,16 +3010,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   UNPROFOR `Attack' Near Tuzla Reported </TI></H3>
-<HT><F P=107><PHRASE>    UNPROFOR `Attack' Near Tuzla Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UNPROFOR `Attack' Near Tuzla Reported </PHRASE></F></HT>
 
-<F P=102>   LD0105160694 Belgrade TANJUG Domestic Service in 
+<F P="102">   LD0105160694 Belgrade TANJUG Domestic Service in 
 Serbo-Croatian 1429 GMT 1 May 94 </F>
 
-<F P=103> LD0105160694 </F>
-<F P=104>  Belgrade TANJUG Domestic Service </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD0105160694 </F>
+<F P="104">  Belgrade TANJUG Domestic Service </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -3099,20 +3100,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Moravcik on Political Situation, Nuclear Plants </TI></H3>
-<HT><F P=107><PHRASE>    Moravcik on Political Situation, Nuclear Plants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Moravcik on Political Situation, Nuclear Plants </PHRASE></F></HT>
 
-<F P=102>   AU3004181094 Vienna DIE PRESSE in German 30 Apr-1 May 94 p 3 </F>
-<F P=103> AU3004181094 </F>
-<F P=104>  Vienna DIE PRESSE </F>
-<F P=105>  German </F>
+<F P="102">   AU3004181094 Vienna DIE PRESSE in German 30 Apr-1 May 94 p 3 </F>
+<F P="103"> AU3004181094 </F>
+<F P="104">  Vienna DIE PRESSE </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Slovak Prime Minister Jozef Moravcik by </F>
+<F P="106"> [Interview with Slovak Prime Minister Jozef Moravcik by </F>
 Karl-Peter Schwarz; place and date not given: "Closing Down 
 Bohunice Is Just a Matter of Time"] 
   [Text] [Schwarz] Mr. Prime Minister, for two years you 
@@ -3211,23 +3212,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   Jovanovic Discusses Renewal of Peace Process </TI></H3>
-<HT><F P=107><PHRASE>    Jovanovic Discusses Renewal of Peace Process </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jovanovic Discusses Renewal of Peace Process </PHRASE></F></HT>
 
-<F P=102>   AU3004181394 Belgrade RTB Television Network in 
+<F P="102">   AU3004181394 Belgrade RTB Television Network in 
 Serbo-Croatian 2005 GMT 29 Apr 94 </F>
 
-<F P=103> AU3004181394 </F>
-<F P=104>  Belgrade RTB Television Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU3004181394 </F>
+<F P="104">  Belgrade RTB Television Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with FRY Foreign Minister Vladislav Jovanovic by </F>
+<F P="106"> [Interview with FRY Foreign Minister Vladislav Jovanovic by </F>
 Milica Ostojic-Pusara; place and date not given -- recorded] 
   [Text] [Ostojic-Pusara] Good evening, esteemed viewers. 
 We know that several days ago the so-called contact group for 
@@ -3564,20 +3565,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Cabinet Accepts Revised Security Report </TI></H3>
-<HT><F P=107><PHRASE>    Cabinet Accepts Revised Security Report </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cabinet Accepts Revised Security Report </PHRASE></F></HT>
 
-<F P=102>   AU2904154394 Prague HOSPODARSKE NOVINY in Czech 28 Apr 94 p 3 </F>
-<F P=103> AU2904154394 </F>
-<F P=104>  Prague HOSPODARSKE NOVINY </F>
-<F P=105>  Czech </F>
+<F P="102">   AU2904154394 Prague HOSPODARSKE NOVINY in Czech 28 Apr 94 p 3 </F>
+<F P="103"> AU2904154394 </F>
+<F P="104">  Prague HOSPODARSKE NOVINY </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by "jip": "The Cabinet Accepted the Security </F>
+<F P="106"> [Article by "jip": "The Cabinet Accepted the Security </F>
 Report"] 
   [Excerpt] Prague--The Cabinet accepted the revised report 
 by Interior Minister Jan Ruml on security in the Czech Republic. 
@@ -3613,21 +3614,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    Krzaklewski on Coal Strike, Decentralization </H4>
 
-<F P=102> PM2904153294 Lodz GLOS PORANNY in Polish 22 Apr 94 p 5 </F>
-<F P=103> PM2904153294 </F>
-<F P=104>  Lodz GLOS PORANNY </F>
-<F P=105>  Polish </F>
+<F P="102"> PM2904153294 Lodz GLOS PORANNY in Polish 22 Apr 94 p 5 </F>
+<F P="103"> PM2904153294 </F>
+<F P="104">  Lodz GLOS PORANNY </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Solidarity Chairman Marian Krzaklewski by </F>
+<F P="106"> [Interview with Solidarity Chairman Marian Krzaklewski by </F>
 correspondent Beata Kostrzewska; place and date not given] 
   [Text] [Kostrzewska] You were supposed to be going to 
 Romania, but you stayed in the country. Was this to meet with 
@@ -3767,21 +3768,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    More on Minister's Report to Senate </H4>
 
-<F P=102> WS2904123894 Warsaw ZYCIE WARSZAWY in Polish 29 Apr 94 p 6 </F>
-<F P=103> WS2904123894 </F>
-<F P=104>  Warsaw ZYCIE WARSZAWY </F>
-<F P=105>  Polish </F>
+<F P="102"> WS2904123894 Warsaw ZYCIE WARSZAWY in Polish 29 Apr 94 p 6 </F>
+<F P="103"> WS2904123894 </F>
+<F P="104">  Warsaw ZYCIE WARSZAWY </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Igor Zalewski: "Miller Lectures on Strikes in </F>
+<F P="106"> [Article by Igor Zalewski: "Miller Lectures on Strikes in </F>
 Senate"] 
   [Text] "Is the government in favor of salary 
 controls? What is Waldemar Pawlak's position on the issue? How 
@@ -3867,15 +3868,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    Solidarity Leader on Pawlak's Speech </H4>
 
-<F P=102> LD2904140494 Warsaw PAP in Polish 1321 GMT 29 Apr 94 </F>
-<F P=103> LD2904140494 </F>
-<F P=104>  Warsaw PAP </F>
-<F P=105>  Polish </F>
+<F P="102"> LD2904140494 Warsaw PAP in Polish 1321 GMT 29 Apr 94 </F>
+<F P="103"> LD2904140494 </F>
+<F P="104">  Warsaw PAP </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
@@ -3904,17 +3905,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    Krzaklewski Announces Strikes 4-7 May </H4>
 
-<F P=102> LD2904221594 Warsaw Third Program Radio Network in Polish 
+<F P="102"> LD2904221594 Warsaw Third Program Radio Network in Polish 
 2100 GMT 29 Apr 94 </F>
 
-<F P=103> LD2904221594 </F>
-<F P=104>  Warsaw Third Program Radio Network </F>
-<F P=105>  Polish </F>
+<F P="103"> LD2904221594 </F>
+<F P="104">  Warsaw Third Program Radio Network </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
@@ -3960,15 +3961,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    Brown Coal Miners To Suspend Action </H4>
 
-<F P=102> LD3004081394 Warsaw PAP in Polish 0700 GMT 30 Apr 94 </F>
-<F P=103> LD3004081394 </F>
-<F P=104>  Warsaw PAP </F>
-<F P=105>  Polish </F>
+<F P="102"> LD3004081394 Warsaw PAP in Polish 0700 GMT 30 Apr 94 </F>
+<F P="103"> LD3004081394 </F>
+<F P="104">  Warsaw PAP </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
@@ -4001,21 +4002,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    More on Suspension Decision </H4>
 
-<F P=102> WS0205083794 Warsaw ZYCIE WARSZAWY in Polish 2-3 May 94 p 5 </F>
-<F P=103> WS0205083794 </F>
-<F P=104>  Warsaw ZYCIE WARSZAWY </F>
-<F P=105>  Polish </F>
+<F P="102"> WS0205083794 Warsaw ZYCIE WARSZAWY in Polish 2-3 May 94 p 5 </F>
+<F P="103"> WS0205083794 </F>
+<F P="104">  Warsaw ZYCIE WARSZAWY </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Adam Soful: "Brown-Coal Mines Suspended Their </F>
+<F P="106"> [Article by Adam Soful: "Brown-Coal Mines Suspended Their </F>
 Strike; Solidarity-Government; Marek Pol Signed an Agreement 
 With Miners" 
   [Text] Brown-coal miners have suspended their 
@@ -4087,17 +4088,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    Solidarity Suspension of Strikes Possible </H4>
 
-<F P=102> LD3004100394 Warsaw Third Program Radio Network in Polish 
+<F P="102"> LD3004100394 Warsaw Third Program Radio Network in Polish 
 0800 GMT 30 Apr 94 </F>
 
-<F P=103> LD3004100394 </F>
-<F P=104>  Warsaw Third Program Radio Network </F>
-<F P=105>  Polish </F>
+<F P="103"> LD3004100394 </F>
+<F P="104">  Warsaw Third Program Radio Network </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
@@ -4133,17 +4134,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    Miller on `Incomprehensible' Strikes </H4>
 
-<F P=102> LD3004085894 Warsaw Radio Warszawa Network in Polish 0800 
+<F P="102"> LD3004085894 Warsaw Radio Warszawa Network in Polish 0800 
 GMT 30 Apr 94 </F>
 
-<F P=103> LD3004085894 </F>
-<F P=104>  Warsaw Radio Warszawa Network </F>
-<F P=105>  Polish </F>
+<F P="103"> LD3004085894 </F>
+<F P="104">  Warsaw Radio Warszawa Network </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
@@ -4186,17 +4187,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Further Reportage on Continuing Strikes </TI></H3>
-<HT><F P=107><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further Reportage on Continuing Strikes </PHRASE></F></HT>
 <H4>    Pawlak on Talks With Unions </H4>
 
-<F P=102> LD3004194494 Warsaw Radio Warszawa Network in Polish 1700 
+<F P="102"> LD3004194494 Warsaw Radio Warszawa Network in Polish 1700 
 GMT 30 Apr 94 </F>
 
-<F P=103> LD3004194494 </F>
-<F P=104>  Warsaw Radio Warszawa Network </F>
-<F P=105>  Polish </F>
+<F P="103"> LD3004194494 </F>
+<F P="104">  Warsaw Radio Warszawa Network </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
@@ -4258,22 +4259,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Prime Minister Makes Report to Parliament </TI></H3>
-<HT><F P=107><PHRASE>    Prime Minister Makes Report to Parliament </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Prime Minister Makes Report to Parliament </PHRASE></F></HT>
 
-<F P=102>   LD2904190794 Warsaw Fourth Program Radio Network in Polish 
+<F P="102">   LD2904190794 Warsaw Fourth Program Radio Network in Polish 
 0930 GMT 29 Apr 94 </F>
 
-<F P=103> LD2904190794 </F>
-<F P=104>  Warsaw Fourth Program Radio Network </F>
-<F P=105>  Polish </F>
+<F P="103"> LD2904190794 </F>
+<F P="104">  Warsaw Fourth Program Radio Network </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report to the Polish Sejm by Prime Minister Waldemar </F>
+<F P="106"> [Report to the Polish Sejm by Prime Minister Waldemar </F>
 Pawlak--live] 
   [Text] Mr Speaker: May it please the House! As you know, 
 thousands of enterprises, schools, universities, and private and 
@@ -4593,20 +4594,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Pawlak on Economy, Coalition, Walesa Rapport </TI></H3>
-<HT><F P=107><PHRASE>    Pawlak on Economy, Coalition, Walesa Rapport </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Pawlak on Economy, Coalition, Walesa Rapport </PHRASE></F></HT>
 
-<F P=102>   WS2904123094 Poznan WPROST in Polish 1 May 94 pp 13-14 </F>
-<F P=103> WS2904123094 </F>
-<F P=104>  Poznan WPROST </F>
-<F P=105>  Polish </F>
+<F P="102">   WS2904123094 Poznan WPROST in Polish 1 May 94 pp 13-14 </F>
+<F P="103"> WS2904123094 </F>
+<F P="104">  Poznan WPROST </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Prime Minister Waldemar Pawlak by Dobrochna </F>
+<F P="106"> [Interview with Prime Minister Waldemar Pawlak by Dobrochna </F>
 Kedzierska, Marek Krol, and Boguslaw Mazur under the "WPROST 
 Conversations" rubric; place and date not given: "Teamwork"] 
   [Text] [WPROST] There is a strong coalition behind your 
@@ -4811,20 +4812,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Foreign Cooperation Minister Interviewed </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Cooperation Minister Interviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Cooperation Minister Interviewed </PHRASE></F></HT>
 
-<F P=102>   WS2904131594 Warsaw NOWA EUROPA in Polish 29 Apr-3 May 94 p 5 </F>
-<F P=103> WS2904131594 </F>
-<F P=104>  Warsaw NOWA EUROPA </F>
-<F P=105>  Polish </F>
+<F P="102">   WS2904131594 Warsaw NOWA EUROPA in Polish 29 Apr-3 May 94 p 5 </F>
+<F P="103"> WS2904131594 </F>
+<F P="104">  Warsaw NOWA EUROPA </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Foreign Economic Cooperation Minister Leslaw </F>
+<F P="106"> [Interview with Foreign Economic Cooperation Minister Leslaw </F>
 Podkanski, by Urszula Kujawska; place and date not given: "Forum 
 of Cooperation"] 
   [Excerpts] From 5 to 7 May, the Third East-West 
@@ -4990,22 +4991,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Ministerial Conflicts Over Privatization </TI></H3>
-<HT><F P=107><PHRASE>    Ministerial Conflicts Over Privatization </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ministerial Conflicts Over Privatization </PHRASE></F></HT>
 
-<F P=102>   94EP0057B Warsaw ZYCIE GOSPODARCZE in Polish No. 15 10 Apr 
+<F P="102">   94EP0057B Warsaw ZYCIE GOSPODARCZE in Polish No. 15 10 Apr 
 94 p 15 </F>
 
-<F P=103> 94EP0057B </F>
-<F P=104>  Warsaw ZYCIE GOSPODARCZE </F>
-<F P=105>  Polish </F>
+<F P="103"> 94EP0057B </F>
+<F P="104">  Warsaw ZYCIE GOSPODARCZE </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zbigniew Grzegorzewski: "How Much Haggling, How </F>
+<F P="106"> [Article by Zbigniew Grzegorzewski: "How Much Haggling, How </F>
 Much Market?"] 
   [Text] The debate over the form of the new privatization 
 law exploded rather suddenly during a recent meeting of the 
@@ -5146,24 +5147,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Report on Foreign Investments Summarized </TI></H3>
-<HT><F P=107><PHRASE>    Report on Foreign Investments Summarized </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Report on Foreign Investments Summarized </PHRASE></F></HT>
 
-<F P=102>   94EP0056B Warsaw RZECZPOSPOLITA (ECONOMY AND MARKET 
+<F P="102">   94EP0056B Warsaw RZECZPOSPOLITA (ECONOMY AND MARKET 
 supplement) in Polish 12 Apr 94 p 9 </F>
 
-<F P=103> 94EP0056B </F>
-<F P=104>  Warsaw RZECZPOSPOLITA (ECONOMY AND MARKET 
+<F P="103"> 94EP0056B </F>
+<F P="104">  Warsaw RZECZPOSPOLITA (ECONOMY AND MARKET 
 supplement) </F>
 
-<F P=105>  Polish </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by D.W., based on a report of the Institute for the </F>
+<F P="106"> [Article by D.W., based on a report of the Institute for the </F>
 Study of Foreign Trade Business Cycles and Prices entitled 
 "Foreign Investments in Poland," published in Warsaw in 1994: 
 ""Good but Not Excellent: How Foreign Investors Grade Poland"] 
@@ -5289,13 +5290,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Digital Telecommunications System Developed </TI></H3>
-<HT><F P=107><PHRASE>    Digital Telecommunications System Developed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Digital Telecommunications System Developed </PHRASE></F></HT>
 
-<F P=102>   94P20677A </F>
-<F P=103> 94P20677A </F>
-<F P=104></F>
+<F P="102">   94P20677A </F>
+<F P="103"> 94P20677A </F>
+<F P="104"></F>
 
 
 
@@ -5312,7 +5313,7 @@ DGT3450 system by the firm, which was cofounded by a group of
 graduate students from the Gdansk Institute of Technology 
 (Politechnika Gdanska). According to the article, the firm is 
 competing on the market with "such giants as Siemens, Alcatel, 
-Ericsson, and AT&amp;T," a competition that Waldemar Frenkel, 
+Ericsson, and AT amp;T," a competition that Waldemar Frenkel, 
 Warsaw 
 representative of DGT, compares with "domestic car production 
 competing with Mercedes or Volvo." 
@@ -5373,22 +5374,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Second Bidding for Oil, Gas Reserves Set </TI></H3>
-<HT><F P=107><PHRASE>    Second Bidding for Oil, Gas Reserves Set </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Second Bidding for Oil, Gas Reserves Set </PHRASE></F></HT>
 
-<F P=102>   94EP0056A Warsaw GAZETA PRZEMYSLOWA I HANDLOWA in Polish No. 
+<F P="102">   94EP0056A Warsaw GAZETA PRZEMYSLOWA I HANDLOWA in Polish No. 
 13, 29 Mar-5 Apr 94 p 3 </F>
 
-<F P=103> 94EP0056A </F>
-<F P=104>  Warsaw GAZETA PRZEMYSLOWA I HANDLOWA </F>
-<F P=105>  Polish </F>
+<F P="103"> 94EP0056A </F>
+<F P="104">  Warsaw GAZETA PRZEMYSLOWA I HANDLOWA </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Jacek Swidzinski: "Second Round of Concessions: </F>
+<F P="106"> [Article by Jacek Swidzinski: "Second Round of Concessions: </F>
 Oil and Gas Prospecting"] 
   [Text] On 12 April 1994 expires the deadline for the 
 submission of bids during the second round of bidding for 
@@ -5471,22 +5472,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Machine-Building Industry Reviewed </TI></H3>
-<HT><F P=107><PHRASE>    Machine-Building Industry Reviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Machine-Building Industry Reviewed </PHRASE></F></HT>
 
-<F P=102>   94EP0057A Warsaw ZYCIE GOSPODARCZE in Polish No. 13, 27 Mar 
+<F P="102">   94EP0057A Warsaw ZYCIE GOSPODARCZE in Polish No. 13, 27 Mar 
 94 p 16 </F>
 
-<F P=103> 94EP0057A </F>
-<F P=104>  Warsaw ZYCIE GOSPODARCZE </F>
-<F P=105>  Polish </F>
+<F P="103"> 94EP0057A </F>
+<F P="104">  Warsaw ZYCIE GOSPODARCZE </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Elzbieta Maczynska: "The Machine-Building </F>
+<F P="106"> [Article by Elzbieta Maczynska: "The Machine-Building </F>
 Industry on the `500 List'"] 
   [Text] The machine-building industry fulfills the function 
 of carrier of technical progress and modernity, throwing 
@@ -5617,22 +5618,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   General Year-to-Date Economic Trends Viewed </TI></H3>
-<HT><F P=107><PHRASE>    General Year-to-Date Economic Trends Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    General Year-to-Date Economic Trends Viewed </PHRASE></F></HT>
 
-<F P=102>   94EP0059A Warsaw ZYCIE GOSPODARCZE in Polish No. 15, 10 Apr 
+<F P="102">   94EP0059A Warsaw ZYCIE GOSPODARCZE in Polish No. 15, 10 Apr 
 94 p 12 </F>
 
-<F P=103> 94EP0059A </F>
-<F P=104>  Warsaw ZYCIE GOSPODARCZE </F>
-<F P=105>  Polish </F>
+<F P="103"> 94EP0059A </F>
+<F P="104">  Warsaw ZYCIE GOSPODARCZE </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by mak.: "Favorable Signals"] </F>
+<F P="106"> [Article by mak.: "Favorable Signals"] </F>
   [Text] Early this year, the indicators of industrial 
 output, labor productivity, and exports have been favorable. 
 Such is the conclusion from the findings of polls conducted by 
@@ -5787,22 +5788,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Boross Interviewed on Achievements, Prospects </TI></H3>
-<HT><F P=107><PHRASE>    Boross Interviewed on Achievements, Prospects </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Boross Interviewed on Achievements, Prospects </PHRASE></F></HT>
 
-<F P=102>   AU0205191894 Budapest UJ MAGYARORSZAG in Hungarian 28 Apr 94 
+<F P="102">   AU0205191894 Budapest UJ MAGYARORSZAG in Hungarian 28 Apr 94 
 p 6 </F>
 
-<F P=103> AU0205191894 </F>
-<F P=104>  Budapest UJ MAGYARORSZAG </F>
-<F P=105>  Hungarian </F>
+<F P="103"> AU0205191894 </F>
+<F P="104">  Budapest UJ MAGYARORSZAG </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Prime Minister Peter Boross by Laszlo </F>
+<F P="106"> [Interview with Prime Minister Peter Boross by Laszlo </F>
 Fabian; place and date not given: "What We Did Is the Future!"] 
   [Excerpts] [passage omitted] [Fabian] Mr. Boross, one 
 cannot rule out the possibility that the left will come to power 
@@ -5901,20 +5902,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Party Leaders View Need for NATO Membership </TI></H3>
-<HT><F P=107><PHRASE>    Party Leaders View Need for NATO Membership </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Party Leaders View Need for NATO Membership </PHRASE></F></HT>
 
-<F P=102>   AU2904151594 Budapest NEPSZAVA in Hungarian 27 Apr 94 p 5 </F>
-<F P=103> AU2904151594 </F>
-<F P=104>  Budapest NEPSZAVA </F>
-<F P=105>  Hungarian </F>
+<F P="102">   AU2904151594 Budapest NEPSZAVA in Hungarian 27 Apr 94 p 5 </F>
+<F P="103"> AU2904151594 </F>
+<F P="104">  Budapest NEPSZAVA </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "Party Views on Hungary's NATO </F>
+<F P="106"> [Unattributed report: "Party Views on Hungary's NATO </F>
 Membership -- Do You Approve of Hungary's NATO Membership 
 Request? If You Do, When Will This Issue Be Timely, and Which 
 Forum Should Decide on Entering It?"] 
@@ -6044,22 +6045,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   MSZDP Leader Comments on Election Prospects </TI></H3>
-<HT><F P=107><PHRASE>    MSZDP Leader Comments on Election Prospects </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    MSZDP Leader Comments on Election Prospects </PHRASE></F></HT>
 
-<F P=102>   AU0205181394 Budapest MAGYAR HIRLAP in Hungarian 29 Apr 94 p 
+<F P="102">   AU0205181394 Budapest MAGYAR HIRLAP in Hungarian 29 Apr 94 p 
 5 </F>
 
-<F P=103> AU0205181394 </F>
-<F P=104>  Budapest MAGYAR HIRLAP </F>
-<F P=105>  Hungarian </F>
+<F P="103"> AU0205181394 </F>
+<F P="104">  Budapest MAGYAR HIRLAP </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["G.Z."-signed interview with Zoltan Kiraly, chairman of the </F>
+<F P="106"> ["G.Z."-signed interview with Zoltan Kiraly, chairman of the </F>
 Hungarian Social Democratic Party; place and date not given: 
 "We Speak of Accepting Government Obligations More Emphatically 
 Than Anyone Else"] 
@@ -6145,16 +6146,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   MSZDP To Support Socialists in First Round </TI></H3>
-<HT><F P=107><PHRASE>    MSZDP To Support Socialists in First Round </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    MSZDP To Support Socialists in First Round </PHRASE></F></HT>
 
-<F P=102>   LD0205195294 Budapest Kossuth Radio Network in Hungarian 
+<F P="102">   LD0205195294 Budapest Kossuth Radio Network in Hungarian 
 1600 GMT 2 May 94 </F>
 
-<F P=103> LD0205195294 </F>
-<F P=104>  Budapest Kossuth Radio Network </F>
-<F P=105>  Hungarian </F>
+<F P="103"> LD0205195294 </F>
+<F P="104">  Budapest Kossuth Radio Network </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
@@ -6196,20 +6197,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Bekesi Views MSZP's Economic Program </TI></H3>
-<HT><F P=107><PHRASE>    Bekesi Views MSZP's Economic Program </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bekesi Views MSZP's Economic Program </PHRASE></F></HT>
 
-<F P=102>   AU0305103194 Budapest NEPSZABADSAG in Hungarian 29 Apr 94 </F>
-<F P=103> AU0305103194 </F>
-<F P=104>  Budapest NEPSZABADSAG </F>
-<F P=105>  Hungarian </F>
+<F P="102">   AU0305103194 Budapest NEPSZABADSAG in Hungarian 29 Apr 94 </F>
+<F P="103"> AU0305103194 </F>
+<F P="104">  Budapest NEPSZABADSAG </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Laszlo Bekesi, former finance minister and </F>
+<F P="106"> [Interview with Laszlo Bekesi, former finance minister and </F>
 economic expert of the Hungarian Socialist Party, by Katalin 
 Bossanyi; place and date not given: "We Cannot Allow Ourselves 
 To Make Baseless Promises -- Laszlo Bekesi on Crisis Management, 
@@ -6481,22 +6482,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Workers Party Leader on Election Prospects </TI></H3>
-<HT><F P=107><PHRASE>    Workers Party Leader on Election Prospects </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Workers Party Leader on Election Prospects </PHRASE></F></HT>
 
-<F P=102>   AU0205195094 Budapest MAGYAR NEMZET in Hungarian 29 Apr 94 p 
+<F P="102">   AU0205195094 Budapest MAGYAR NEMZET in Hungarian 29 Apr 94 p 
 7 </F>
 
-<F P=103> AU0205195094 </F>
-<F P=104>  Budapest MAGYAR NEMZET </F>
-<F P=105>  Hungarian </F>
+<F P="103"> AU0205195094 </F>
+<F P="104">  Budapest MAGYAR NEMZET </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Workers Party Chairman Gyula Thurmer by </F>
+<F P="106"> [Interview with Workers Party Chairman Gyula Thurmer by </F>
 Gabor Moricz; place and date not given: "We Are Following Our 
 Own Road"] 
   [Text] There is a political party in Hungary today that is 
@@ -6701,16 +6702,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Defense Minister Denies Intent To Resign </TI></H3>
-<HT><F P=107><PHRASE>    Defense Minister Denies Intent To Resign </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Defense Minister Denies Intent To Resign </PHRASE></F></HT>
 
-<F P=102>   AU0305103094 Sofia Khorizont Radio Network in Bulgarian 0900 
+<F P="102">   AU0305103094 Sofia Khorizont Radio Network in Bulgarian 0900 
 GMT 3 May 94 </F>
 
-<F P=103> AU0305103094 </F>
-<F P=104>  Sofia Khorizont Radio Network </F>
-<F P=105>  Bulgarian </F>
+<F P="103"> AU0305103094 </F>
+<F P="104">  Sofia Khorizont Radio Network </F>
+<F P="105">  Bulgarian </F>
 
 
 <TEXT>
@@ -6738,20 +6739,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Daskalov on Yugoslav Conflict, Russian Ties </TI></H3>
-<HT><F P=107><PHRASE>    Daskalov on Yugoslav Conflict, Russian Ties </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daskalov on Yugoslav Conflict, Russian Ties </PHRASE></F></HT>
 
-<F P=102>   AU2904150394 Prague LIDOVE NOVINY in Czech 28 Apr 94 p 5 </F>
-<F P=103> AU2904150394 </F>
-<F P=104>  Prague LIDOVE NOVINY </F>
-<F P=105>  Czech </F>
+<F P="102">   AU2904150394 Prague LIDOVE NOVINY in Czech 28 Apr 94 p 5 </F>
+<F P="103"> AU2904150394 </F>
+<F P="104">  Prague LIDOVE NOVINY </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Foreign Minister Stanislav Daskalov by Adam </F>
+<F P="106"> [Interview with Foreign Minister Stanislav Daskalov by Adam </F>
 Cerny; place and date not given: "The Developments in Bosnia 
 Make Us Anxious"] 
   [Text] LIDOVE NOVINY asked the Bulgarian foreign minister, 
@@ -6856,16 +6857,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   KNSB Adopts Measures, Prepares for Strike </TI></H3>
-<HT><F P=107><PHRASE>    KNSB Adopts Measures, Prepares for Strike </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    KNSB Adopts Measures, Prepares for Strike </PHRASE></F></HT>
 
-<F P=102>   AU2904172694 Sofia Khorizont Radio Network in Bulgarian 1600 
+<F P="102">   AU2904172694 Sofia Khorizont Radio Network in Bulgarian 1600 
 GMT 29 Apr 94 </F>
 
-<F P=103> AU2904172694 </F>
-<F P=104>  Sofia Khorizont Radio Network </F>
-<F P=105>  Bulgarian </F>
+<F P="103"> AU2904172694 </F>
+<F P="104">  Sofia Khorizont Radio Network </F>
+<F P="105">  Bulgarian </F>
 
 
 <TEXT>
@@ -6901,20 +6902,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Commentary on Berov Remaining in Power </TI></H3>
-<HT><F P=107><PHRASE>    Commentary on Berov Remaining in Power </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commentary on Berov Remaining in Power </PHRASE></F></HT>
 
-<F P=102>   AU2904133394 Sofia DUMA in Bulgarian 26 Apr 94 p 8 </F>
-<F P=103> AU2904133394 </F>
-<F P=104>  Sofia DUMA </F>
-<F P=105>  Bulgarian </F>
+<F P="102">   AU2904133394 Sofia DUMA in Bulgarian 26 Apr 94 p 8 </F>
+<F P="103"> AU2904133394 </F>
+<F P="104">  Sofia DUMA </F>
+<F P="105">  Bulgarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Sonya Angelova: "Berov Will Call the Tune for </F>
+<F P="106"> [Commentary by Sonya Angelova: "Berov Will Call the Tune for </F>
 a Few More Months"] 
   [Text] Despite the permanent talk regarding early 
 parliamentary elections, the current prime minister can be calm 
@@ -7014,22 +7015,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Minister on Popular Gains From Privatization </TI></H3>
-<HT><F P=107><PHRASE>    Minister on Popular Gains From Privatization </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Minister on Popular Gains From Privatization </PHRASE></F></HT>
 
-<F P=102>   WS0205130094 Warsaw TRYBUNA in Polish 30 Apr-3 May 94 pp 1, 
+<F P="102">   WS0205130094 Warsaw TRYBUNA in Polish 30 Apr-3 May 94 pp 1, 
 19 </F>
 
-<F P=103> WS0205130094 </F>
-<F P=104>  Warsaw TRYBUNA </F>
-<F P=105>  Polish </F>
+<F P="103"> WS0205130094 </F>
+<F P="104">  Warsaw TRYBUNA </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Ownership Transformations Minister Wieslaw </F>
+<F P="106"> [Interview with Ownership Transformations Minister Wieslaw </F>
 Kaczmarek by Jerzy Sieradzinski; place and date not given: 
 "What Do Working People Get From Privatization?"] 
   [Text] [Sieradzinski] Is it not a paradox that, on the eve 
@@ -7328,22 +7329,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
+<F P="100"> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
 <H3> <TI>   Commentary Views FYROM-IMF Relations </TI></H3>
-<HT><F P=107><PHRASE>    Commentary Views FYROM-IMF Relations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commentary Views FYROM-IMF Relations </PHRASE></F></HT>
 
-<F P=102>   AU0205112394 Skopje NOVA MAKEDONIJA in Macedonian 23 Apr 94 
+<F P="102">   AU0205112394 Skopje NOVA MAKEDONIJA in Macedonian 23 Apr 94 
 p 13 </F>
 
-<F P=103> AU0205112394 </F>
-<F P=104>  Skopje NOVA MAKEDONIJA </F>
-<F P=105>  Macedonian </F>
+<F P="103"> AU0205112394 </F>
+<F P="104">  Skopje NOVA MAKEDONIJA </F>
+<F P="105">  Macedonian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Violeta Cvetkovska: "Do as I Say, Not as I </F>
+<F P="106"> [Commentary by Violeta Cvetkovska: "Do as I Say, Not as I </F>
 Do"] 
   [Text] "A bowed head will not be cut by a spade," our 
 people say, seeking to justify an existential obedience. 
@@ -7531,16 +7532,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Tudjman Stresses Implementing Washington Accord </TI></H3>
-<HT><F P=107><PHRASE>    Tudjman Stresses Implementing Washington Accord </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tudjman Stresses Implementing Washington Accord </PHRASE></F></HT>
 
-<F P=102>   LD0205181194 Zagreb Radio Croatia Network in Serbo-Croatian 
+<F P="102">   LD0205181194 Zagreb Radio Croatia Network in Serbo-Croatian 
 1700 GMT 2 May 94 </F>
 
-<F P=103> LD0205181194 </F>
-<F P=104>  Zagreb Radio Croatia Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD0205181194 </F>
+<F P="104">  Zagreb Radio Croatia Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -7587,20 +7588,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   RSK's Babic Announces Topics for Talks </TI></H3>
-<HT><F P=107><PHRASE>    RSK's Babic Announces Topics for Talks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    RSK's Babic Announces Topics for Talks </PHRASE></F></HT>
 
-<F P=102>   AU0305100994 Belgrade BORBA in Serbo-Croatian 29 Apr 94 p 4 </F>
-<F P=103> AU0305100994 </F>
-<F P=104>  Belgrade BORBA </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="102">   AU0305100994 Belgrade BORBA in Serbo-Croatian 29 Apr 94 p 4 </F>
+<F P="103"> AU0305100994 </F>
+<F P="104">  Belgrade BORBA </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Dj.M.: "List of Priority Topics for `The Third </F>
+<F P="106"> [Article by Dj.M.: "List of Priority Topics for `The Third </F>
 Round of Talks'"] 
   [Text] Knin -- The establishment of peace on all 
 territories of the former Yugoslavia is in the interest of the 
@@ -7642,16 +7643,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   U.S. Military Delegation Meets Tudjman Adviser </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Military Delegation Meets Tudjman Adviser </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Military Delegation Meets Tudjman Adviser </PHRASE></F></HT>
 
-<F P=102>   LD0205192194 Zagreb HTV Television in Serbo-Croatian 1730 
+<F P="102">   LD0205192194 Zagreb HTV Television in Serbo-Croatian 1730 
 GMT 2 May 94 </F>
 
-<F P=103> LD0205192194 </F>
-<F P=104>  Zagreb HTV Television </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD0205192194 </F>
+<F P="104">  Zagreb HTV Television </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -7699,20 +7700,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   New Party of `HDZ Malcontents' Examined </TI></H3>
-<HT><F P=107><PHRASE>    New Party of `HDZ Malcontents' Examined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Party of `HDZ Malcontents' Examined </PHRASE></F></HT>
 
-<F P=102>   AU0205091594 Rijeka NOVI LIST in Serbo-Croatian 20 Apr 94 p 5 </F>
-<F P=103> AU0205091594 </F>
-<F P=104>  Rijeka NOVI LIST </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="102">   AU0205091594 Rijeka NOVI LIST in Serbo-Croatian 20 Apr 94 p 5 </F>
+<F P="103"> AU0205091594 </F>
+<F P="104">  Rijeka NOVI LIST </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Sanja Modric: "The Manolic-Mesic Parliamentary </F>
+<F P="106"> [Article by Sanja Modric: "The Manolic-Mesic Parliamentary </F>
 Storm"] 
   [Text] The steering committee of the new party, the 
 Croatian Independent Democrats [HND], the founding of which was 
@@ -7864,20 +7865,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Tudjman, Conflict in HDZ Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Tudjman, Conflict in HDZ Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tudjman, Conflict in HDZ Viewed </PHRASE></F></HT>
 
-<F P=102>   AU0205133994 Zagreb DANAS in Serbo-Croatian 19 Apr 94 pp 6-9 </F>
-<F P=103> AU0205133994 </F>
-<F P=104>  Zagreb DANAS </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="102">   AU0205133994 Zagreb DANAS in Serbo-Croatian 19 Apr 94 pp 6-9 </F>
+<F P="103"> AU0205133994 </F>
+<F P="104">  Zagreb DANAS </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Marko Barisic: "Wrong Interpretations of </F>
+<F P="106"> [Article by Marko Barisic: "Wrong Interpretations of </F>
 Tudjman"] 
   [Text] Few could have anticipated that the dilemma from 
 the last HDZ [Croatian Democratic Community] congress about 
@@ -8254,20 +8255,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Right-Wing Parties Form New Bloc </TI></H3>
-<HT><F P=107><PHRASE>    Right-Wing Parties Form New Bloc </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Right-Wing Parties Form New Bloc </PHRASE></F></HT>
 
-<F P=102>   AU0205181094 Zagreb VJESNIK in Serbo-Croatian 29 Apr 94 p 48 </F>
-<F P=103> AU0205181094 </F>
-<F P=104>  Zagreb VJESNIK </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="102">   AU0205181094 Zagreb VJESNIK in Serbo-Croatian 29 Apr 94 p 48 </F>
+<F P="103"> AU0205181094 </F>
+<F P="104">  Zagreb VJESNIK </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "Right-Wing Parties Are Creating a New </F>
+<F P="106"> [Unattributed report: "Right-Wing Parties Are Creating a New </F>
 Bloc"] 
   [Text] Zagreb -- As stated by the Croatian National 
 Democratic League, right-wing Croatian parties held a meeting in 
@@ -8301,20 +8302,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Government To Replace National Currency </TI></H3>
-<HT><F P=107><PHRASE>    Government To Replace National Currency </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government To Replace National Currency </PHRASE></F></HT>
 
-<F P=102>   AU0205191494 Zagreb VJESNIK in Serbo-Croatian 30 Apr 94 p 1 </F>
-<F P=103> AU0205191494 </F>
-<F P=104>  Zagreb VJESNIK </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="102">   AU0205191494 Zagreb VJESNIK in Serbo-Croatian 30 Apr 94 p 1 </F>
+<F P="103"> AU0205191494 </F>
+<F P="104">  Zagreb VJESNIK </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Franjo Kiseljak: "Kuna on Statehood Day"] </F>
+<F P="106"> [Report by Franjo Kiseljak: "Kuna on Statehood Day"] </F>
   [Text] Zagreb -- After being used for three years and five 
 months and honorably accomplishing the task of achieving the 
 monetary independence of Croatia, the temporary Croatian dinar 
@@ -8381,16 +8382,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Manolic Denies Meeting With Markovic </TI></H3>
-<HT><F P=107><PHRASE>    Manolic Denies Meeting With Markovic </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Manolic Denies Meeting With Markovic </PHRASE></F></HT>
 
-<F P=102>   LD0205190394 Zagreb HTV Television in Serbo-Croatian 1730 
+<F P="102">   LD0205190394 Zagreb HTV Television in Serbo-Croatian 1730 
 GMT 2 May 94 </F>
 
-<F P=103> LD0205190394 </F>
-<F P=104>  Zagreb HTV Television </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD0205190394 </F>
+<F P="104">  Zagreb HTV Television </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -8419,18 +8420,18 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Czech Defense Minister Signs Agreement </TI></H3>
-<HT><F P=107><PHRASE>    Czech Defense Minister Signs Agreement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Czech Defense Minister Signs Agreement </PHRASE></F></HT>
 
-<F P=102>   LD0205133194 Bratislava Rozhlasova Stanica Slovensko Network 
+<F P="102">   LD0205133194 Bratislava Rozhlasova Stanica Slovensko Network 
 in Slovak 1000 GMT 2 May 94 </F>
 
-<F P=103> LD0205133194 </F>
-<F P=104>  Bratislava Rozhlasova Stanica Slovensko Network 
+<F P="103"> LD0205133194 </F>
+<F P="104">  Bratislava Rozhlasova Stanica Slovensko Network 
 in Slovak 1000 GMT 2 May 94 </F>
 
-<F P=105> Slovak </F>
+<F P="105"> Slovak </F>
 
 
 <TEXT>
@@ -8488,22 +8489,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Ethnic Hungarian HZDS Deputy Leaves Movement </TI></H3>
-<HT><F P=107><PHRASE>    Ethnic Hungarian HZDS Deputy Leaves Movement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ethnic Hungarian HZDS Deputy Leaves Movement </PHRASE></F></HT>
 
-<F P=102>   AU0205141494 Bratislava NARODNA OBRODA in Slovak 29 Apr 94 p 
+<F P="102">   AU0205141494 Bratislava NARODNA OBRODA in Slovak 29 Apr 94 p 
 21 </F>
 
-<F P=103> AU0205141494 </F>
-<F P=104>  Bratislava NARODNA OBRODA </F>
-<F P=105>  Slovak </F>
+<F P="103"> AU0205141494 </F>
+<F P="104">  Bratislava NARODNA OBRODA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with M. Hudina, deputy to the National Council of </F>
+<F P="106"> [Interview with M. Hudina, deputy to the National Council of </F>
 the Slovak Republic, by an unidentified PRACA correspondent; 
 place and date not given: "Disagreement With Orientation; M. 
 Hudina Has Become an Independent Deputy"] 
@@ -8546,13 +8547,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Cernak Says 5 Right-Wing Parties To Cooperate </TI></H3>
-<HT><F P=107><PHRASE>    Cernak Says 5 Right-Wing Parties To Cooperate </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cernak Says 5 Right-Wing Parties To Cooperate </PHRASE></F></HT>
 
-<F P=102>   AU0205144194 </F>
-<F P=103> AU0205144194 </F>
-<F P=104></F>
+<F P="102">   AU0205144194 </F>
+<F P="103"> AU0205144194 </F>
+<F P="104"></F>
 
 
 
@@ -8601,20 +8602,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Cernak Said To Own Compromising Documents </TI></H3>
-<HT><F P=107><PHRASE>    Cernak Said To Own Compromising Documents </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cernak Said To Own Compromising Documents </PHRASE></F></HT>
 
-<F P=102>   AU0205171594 Bratislava PRAVDA in Slovak 29 Apr 94 p 2 </F>
-<F P=103> AU0205171594 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0205171594 Bratislava PRAVDA in Slovak 29 Apr 94 p 2 </F>
+<F P="103"> AU0205171594 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "Slovak National Party: Documents </F>
+<F P="106"> [Unattributed report: "Slovak National Party: Documents </F>
 Disappeared"] 
   [Text] Bratislava--"Important documents that Ludovit 
 Cernak signed as chairman of the Slovak National Party [SNS], 
@@ -8651,20 +8652,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Misappropriation Charge Denied </TI></H3>
-<HT><F P=107><PHRASE>    Misappropriation Charge Denied </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Misappropriation Charge Denied </PHRASE></F></HT>
 
-<F P=102>   AU0205173094 Bratislava PRAVDA in Slovak 29 Apr 94 p 2 </F>
-<F P=103> AU0205173094 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0205173094 Bratislava PRAVDA in Slovak 29 Apr 94 p 2 </F>
+<F P="103"> AU0205173094 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [TA SR report: "Ludovit Cernak Rejects Accusations"] </F>
+<F P="106"> [TA SR report: "Ludovit Cernak Rejects Accusations"] </F>
   [Text] Bratislava--"I resolutely deny and protest the 
 allegation that I have misappropriated some important documents 
 that I had signed as chairman of the Slovak National Party 
@@ -8707,16 +8708,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   President Kovac Appoints Sitko as Media Adviser </TI></H3>
-<HT><F P=107><PHRASE>    President Kovac Appoints Sitko as Media Adviser </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    President Kovac Appoints Sitko as Media Adviser </PHRASE></F></HT>
 
-<F P=102>   LD0205194094 Bratislava STV 1 Television Network in Slovak 
+<F P="102">   LD0205194094 Bratislava STV 1 Television Network in Slovak 
 1730 GMT 2 May 94 </F>
 
-<F P=103> LD0205194094 </F>
-<F P=104>  Bratislava STV 1 Television Network </F>
-<F P=105>  Slovak </F>
+<F P="103"> LD0205194094 </F>
+<F P="104">  Bratislava STV 1 Television Network </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
@@ -8743,20 +8744,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   `Liquidation' of TV's Independence Feared </TI></H3>
-<HT><F P=107><PHRASE>    `Liquidation' of TV's Independence Feared </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Liquidation' of TV's Independence Feared </PHRASE></F></HT>
 
-<F P=102>   AU0105183594 Bratislava PRAVDA in Slovak 27 Apr 94 p 3 </F>
-<F P=103> AU0105183594 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0105183594 Bratislava PRAVDA in Slovak 27 Apr 94 p 3 </F>
+<F P="103"> AU0105183594 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by "su": "Slovak Television Council's Protest"] </F>
+<F P="106"> [Article by "su": "Slovak Television Council's Protest"] </F>
   [Text] Bratislava--At an extraordinary news conference 
 yesterday, members of the Slovak Television Council made 
 available to reporters a statement that expresses disagreement 
@@ -8811,20 +8812,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Customs Law, Food Import Certification Approved </TI></H3>
-<HT><F P=107><PHRASE>    Customs Law, Food Import Certification Approved </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Customs Law, Food Import Certification Approved </PHRASE></F></HT>
 
-<F P=102>   AU0205180994 Bratislava PRAVDA in Slovak 27 Apr 94 p 2 </F>
-<F P=103> AU0205180994 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0205180994 Bratislava PRAVDA in Slovak 27 Apr 94 p 2 </F>
+<F P="103"> AU0205180994 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Antonia Vymazalova: "Imports Only With a </F>
+<F P="106"> [Article by Antonia Vymazalova: "Imports Only With a </F>
 Certificate"] 
   [Text] Bratislava--The first item on the agenda of the 
 government session, chaired by Prime Minister Jozef Moravcik 
@@ -8910,16 +8911,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Moravcik on Czech Food Import Certificates </TI></H3>
-<HT><F P=107><PHRASE>    Moravcik on Czech Food Import Certificates </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Moravcik on Czech Food Import Certificates </PHRASE></F></HT>
 
-<F P=102>   LD0205101994 Prague Radiozurnal Radio Network in Czech 0800 
+<F P="102">   LD0205101994 Prague Radiozurnal Radio Network in Czech 0800 
 GMT 2 May 94 </F>
 
-<F P=103> LD0205101994 </F>
-<F P=104>  Prague Radiozurnal Radio Network </F>
-<F P=105>  Czech </F>
+<F P="103"> LD0205101994 </F>
+<F P="104">  Prague Radiozurnal Radio Network </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
@@ -8955,16 +8956,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Czech Customs Union, Payments Agreement Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Czech Customs Union, Payments Agreement Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Czech Customs Union, Payments Agreement Viewed </PHRASE></F></HT>
 
-<F P=102>   LD0205124794 Prague Radiozurnal Radio Network in Czech 1200 
+<F P="102">   LD0205124794 Prague Radiozurnal Radio Network in Czech 1200 
 GMT 2 May 94 </F>
 
-<F P=103> LD0205124794 </F>
-<F P=104>  Prague Radiozurnal Radio Network </F>
-<F P=105>  Czech </F>
+<F P="103"> LD0205124794 </F>
+<F P="104">  Prague Radiozurnal Radio Network </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
@@ -8997,20 +8998,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   NBS Reports Favorably on Inflation, Budget </TI></H3>
-<HT><F P=107><PHRASE>    NBS Reports Favorably on Inflation, Budget </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    NBS Reports Favorably on Inflation, Budget </PHRASE></F></HT>
 
-<F P=102>   AU0305105594 Bratislava PRAVDA in Slovak 29 Apr 94 p 2 </F>
-<F P=103> AU0305105594 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0305105594 Bratislava PRAVDA in Slovak 29 Apr 94 p 2 </F>
+<F P="103"> AU0305105594 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by "ip": "Inflation Slowing, Reserves Growing; Good </F>
+<F P="106"> [Article by "ip": "Inflation Slowing, Reserves Growing; Good </F>
 News From the Slovak National Bank Directorate"] 
   [Text] Bratislava--Yesterday's meeting of the Slovak 
 National Bank [NBS] Directorate considered the main trends of 
@@ -9074,22 +9075,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Coposu Discusses `Cooperation Government' </TI></H3>
-<HT><F P=107><PHRASE>    Coposu Discusses `Cooperation Government' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Coposu Discusses `Cooperation Government' </PHRASE></F></HT>
 
-<F P=102>   AU0205105794 Bucharest CURIERUL NATIONAL in Romanian 25 Apr 
+<F P="102">   AU0205105794 Bucharest CURIERUL NATIONAL in Romanian 25 Apr 
 94 p 3 </F>
 
-<F P=103> AU0205105794 </F>
-<F P=104>  Bucharest CURIERUL NATIONAL </F>
-<F P=105>  Romanian </F>
+<F P="103"> AU0205105794 </F>
+<F P="104">  Bucharest CURIERUL NATIONAL </F>
+<F P="105">  Romanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Corneliu Coposu, chairman of the National </F>
+<F P="106"> [Interview with Corneliu Coposu, chairman of the National </F>
 Peasant Christian-Democratic Party, by Irinel Radulescu and Ralu 
 Filip; place and date not given: "The Solution to Our Overcoming 
 the Crisis Is a Cooperation Government"] 
@@ -9356,22 +9357,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   PDSR, PD Negotiations `Concluded for Good' </TI></H3>
-<HT><F P=107><PHRASE>    PDSR, PD Negotiations `Concluded for Good' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PDSR, PD Negotiations `Concluded for Good' </PHRASE></F></HT>
 
-<F P=102>   AU2904142594 Bucharest ROMANIA LIBERA in Romanian 27 Apr 94 
+<F P="102">   AU2904142594 Bucharest ROMANIA LIBERA in Romanian 27 Apr 94 
 p 3 </F>
 
-<F P=103> AU2904142594 </F>
-<F P=104>  Bucharest ROMANIA LIBERA </F>
-<F P=105>  Romanian </F>
+<F P="103"> AU2904142594 </F>
+<F P="104">  Bucharest ROMANIA LIBERA </F>
+<F P="105">  Romanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Clementina Filip and Daniel Uncu: "The PD-PDSR </F>
+<F P="106"> [Article by Clementina Filip and Daniel Uncu: "The PD-PDSR </F>
 Bilateral Negotiations Have Concluded for Good"] 
   [Text] It seems that the efforts made by the opposition to 
 convince the PDSR [Social Democracy Party of Romania] to attempt 
@@ -9447,16 +9448,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Iranian Minister of Industry Arrives for Talks </TI></H3>
-<HT><F P=107><PHRASE>    Iranian Minister of Industry Arrives for Talks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Iranian Minister of Industry Arrives for Talks </PHRASE></F></HT>
 
-<F P=102>   AU2704132094 Bucharest Radio Romania Network in Romanian 
+<F P="102">   AU2704132094 Bucharest Radio Romania Network in Romanian 
 1000 GMT 27 Apr 94 </F>
 
-<F P=103> AU2704132094 </F>
-<F P=104>  Bucharest Radio Romania Network </F>
-<F P=105>  Romanian </F>
+<F P="103"> AU2704132094 </F>
+<F P="104">  Bucharest Radio Romania Network </F>
+<F P="105">  Romanian </F>
 
 
 <TEXT>
@@ -9494,14 +9495,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Bilateral Ties Expanded </TI></H3>
-<HT><F P=107><PHRASE>    Bilateral Ties Expanded </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bilateral Ties Expanded </PHRASE></F></HT>
 
-<F P=102>   LD0105214694 Tehran IRNA in English 2131 GMT 1 May 94 </F>
-<F P=103> LD0105214694 </F>
-<F P=104>  Tehran IRNA </F>
-<F P=105>  English </F>
+<F P="102">   LD0105214694 Tehran IRNA in English 2131 GMT 1 May 94 </F>
+<F P="103"> LD0105214694 </F>
+<F P="104">  Tehran IRNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -9543,14 +9544,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Former King Accuses Government of Denying Visit </TI></H3>
-<HT><F P=107><PHRASE>    Former King Accuses Government of Denying Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Former King Accuses Government of Denying Visit </PHRASE></F></HT>
 
-<F P=102>   AU2904151694 Paris AFP in English 1507 GMT 29 Apr 94 </F>
-<F P=103> AU2904151694 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2904151694 Paris AFP in English 1507 GMT 29 Apr 94 </F>
+<F P="103"> AU2904151694 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -9609,16 +9610,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Government Questions Ex-King's Motives </TI></H3>
-<HT><F P=107><PHRASE>    Government Questions Ex-King's Motives </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Questions Ex-King's Motives </PHRASE></F></HT>
 
-<F P=102>   AU2904201694 Bucharest Radio Romania Network in Romanian 
+<F P="102">   AU2904201694 Bucharest Radio Romania Network in Romanian 
 1900 GMT 29 Apr 94 </F>
 
-<F P=103> AU2904201694 </F>
-<F P=104>  Bucharest Radio Romania Network </F>
-<F P=105>  Romanian </F>
+<F P="103"> AU2904201694 </F>
+<F P="104">  Bucharest Radio Romania Network </F>
+<F P="105">  Romanian </F>
 
 
 <TEXT>
@@ -9693,20 +9694,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   EU Commissioner on Admission Requirements </TI></H3>
-<HT><F P=107><PHRASE>    EU Commissioner on Admission Requirements </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    EU Commissioner on Admission Requirements </PHRASE></F></HT>
 
-<F P=102>   AU0205171494 Prague MLADA FRONTA DNES in Czech 29 Apr 94 p 2 </F>
-<F P=103> AU0205171494 </F>
-<F P=104>  Prague MLADA FRONTA DNES </F>
-<F P=105>  Czech </F>
+<F P="102">   AU0205171494 Prague MLADA FRONTA DNES in Czech 29 Apr 94 p 2 </F>
+<F P="103"> AU0205171494 </F>
+<F P="104">  Prague MLADA FRONTA DNES </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Hans Van den Broek, European Commission </F>
+<F P="106"> [Interview with Hans Van den Broek, European Commission </F>
 member for external political relations, by Josef Vesely in 
 Prague on 28 April: "The Requirements for Admission Into the 
 European Union Are Clear, Says the Belgian Commissioner"] 
@@ -9790,20 +9791,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Price Stabilization of Grain Under Way </TI></H3>
-<HT><F P=107><PHRASE>    Price Stabilization of Grain Under Way </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Price Stabilization of Grain Under Way </PHRASE></F></HT>
 
-<F P=102>   94CH0233C Prague HOSPODARSKE NOVINY in Czech 22 Mar 94 p 7 </F>
-<F P=103> 94CH0233C </F>
-<F P=104>  Prague HOSPODARSKE NOVINY </F>
-<F P=105>  Czech </F>
+<F P="102">   94CH0233C Prague HOSPODARSKE NOVINY in Czech 22 Mar 94 p 7 </F>
+<F P="103"> 94CH0233C </F>
+<F P="104">  Prague HOSPODARSKE NOVINY </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Jan Zahorka, of the CR Agricultural Chamber: </F>
+<F P="106"> [Article by Jan Zahorka, of the CR Agricultural Chamber: </F>
 "Intervention Purchases of Wheat Have Begun"] 
   [Text] The Council of the State Fund of Market Regulation 
 decided at the end of 1993 to purchase foodstuffs wheat from 
@@ -9975,20 +9976,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Horn Outlines MSZP Political, Economic Program </TI></H3>
-<HT><F P=107><PHRASE>    Horn Outlines MSZP Political, Economic Program </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Horn Outlines MSZP Political, Economic Program </PHRASE></F></HT>
 
-<F P=102>   AU0205153894 Vienna PROFIL in German 2 May 94 pp 64-65 </F>
-<F P=103> AU0205153894 </F>
-<F P=104>  Vienna PROFIL </F>
-<F P=105>  German </F>
+<F P="102">   AU0205153894 Vienna PROFIL in German 2 May 94 pp 64-65 </F>
+<F P="103"> AU0205153894 </F>
+<F P="104">  Vienna PROFIL </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Gyula Horn, chairman of the Hungarian </F>
+<F P="106"> [Interview with Gyula Horn, chairman of the Hungarian </F>
 Socialist Party, by Georg Hoffmann-Ostenhof and Gregor Mayer; 
 place and date not given: "I Ask You: Is This Liberal?"] 
   [Text] [PROFIL] Mr. Horn, are we talking to the future 
@@ -10102,14 +10103,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Solidarity Public Sector Workers on Alert </TI></H3>
-<HT><F P=107><PHRASE>    Solidarity Public Sector Workers on Alert </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Solidarity Public Sector Workers on Alert </PHRASE></F></HT>
 
-<F P=102>   LD0205140894 Warsaw PAP in Polish 1317 GMT 2 May 94 </F>
-<F P=103> LD0205140894 </F>
-<F P=104>  Warsaw PAP </F>
-<F P=105>  Polish </F>
+<F P="102">   LD0205140894 Warsaw PAP in Polish 1317 GMT 2 May 94 </F>
+<F P="103"> LD0205140894 </F>
+<F P="104">  Warsaw PAP </F>
+<F P="105">  Polish </F>
 
 
 <TEXT>
@@ -10146,16 +10147,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
+<F P="100"> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
 <H3> <TI>   Albanian `Paramilitary Units' Bought Stingers </TI></H3>
-<HT><F P=107><PHRASE>    Albanian `Paramilitary Units' Bought Stingers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Albanian `Paramilitary Units' Bought Stingers </PHRASE></F></HT>
 
-<F P=102>   LD2904122594 Belgrade TANJUG Domestic Service in 
+<F P="102">   LD2904122594 Belgrade TANJUG Domestic Service in 
 Serbo-Croatian 1105 GMT 29 Apr 94 </F>
 
-<F P=103> LD2904122594 </F>
-<F P=104>  Belgrade TANJUG Domestic Service </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD2904122594 </F>
+<F P="104">  Belgrade TANJUG Domestic Service </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -10192,16 +10193,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   UK's Hogg, Sanader Discuss Washington Accord </TI></H3>
-<HT><F P=107><PHRASE>    UK's Hogg, Sanader Discuss Washington Accord </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UK's Hogg, Sanader Discuss Washington Accord </PHRASE></F></HT>
 
-<F P=102>   LD0205191794 Zagreb HTV Television in Serbo-Croatian 1730 
+<F P="102">   LD0205191794 Zagreb HTV Television in Serbo-Croatian 1730 
 GMT 2 May 94 </F>
 
-<F P=103> LD0205191794 </F>
-<F P=104>  Zagreb HTV Television </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD0205191794 </F>
+<F P="104">  Zagreb HTV Television </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -10255,20 +10256,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SLOVAKIA </F>
+<F P="100"> SLOVAKIA </F>
 <H3> <TI>   Lack of Funds Restricts Role in `Partnership' </TI></H3>
-<HT><F P=107><PHRASE>    Lack of Funds Restricts Role in `Partnership' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Lack of Funds Restricts Role in `Partnership' </PHRASE></F></HT>
 
-<F P=102>   AU0205133794 Bratislava PRAVDA in Slovak 28 Apr 94 p 12 </F>
-<F P=103> AU0205133794 </F>
-<F P=104>  Bratislava PRAVDA </F>
-<F P=105>  Slovak </F>
+<F P="102">   AU0205133794 Bratislava PRAVDA in Slovak 28 Apr 94 p 12 </F>
+<F P="103"> AU0205133794 </F>
+<F P="104">  Bratislava PRAVDA </F>
+<F P="105">  Slovak </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [TA SR report: "Military Commanders in Brussels"] </F>
+<F P="106"> [TA SR report: "Military Commanders in Brussels"] </F>
   [Excerpts] Brussels--The chiefs of general staff of NATO 
 member states met with their counterparts from the countries of 
 the Eastern bloc yesterday to discuss plans connected with the 
@@ -10313,22 +10314,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Iliescu Stresses Desire To Join European Union </TI></H3>
-<HT><F P=107><PHRASE>    Iliescu Stresses Desire To Join European Union </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Iliescu Stresses Desire To Join European Union </PHRASE></F></HT>
 
-<F P=102>   AU0105162494 Frankfurt/Main FRANKFURTER ALLGEMEINE in German 
+<F P="102">   AU0105162494 Frankfurt/Main FRANKFURTER ALLGEMEINE in German 
 30 Apr 94 p 3 </F>
 
-<F P=103> AU0105162494 </F>
-<F P=104>  Frankfurt/Main FRANKFURTER ALLGEMEINE </F>
-<F P=105>  German </F>
+<F P="103"> AU0105162494 </F>
+<F P="104">  Frankfurt/Main FRANKFURTER ALLGEMEINE </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Matthias Rueb: "Romania Is Looking For Close </F>
+<F P="106"> [Article by Matthias Rueb: "Romania Is Looking For Close </F>
 Ties With the European Union"] 
   [Text] Bucharest, 29 April -- Romanian President Iliescu 
 hopes that his country will receive financial compensation from 
@@ -10450,17 +10451,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Slovakia, Hungary Seek Ruling on Gabcikovo </TI></H3>
-<HT><F P=107><PHRASE>    Slovakia, Hungary Seek Ruling on Gabcikovo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Slovakia, Hungary Seek Ruling on Gabcikovo </PHRASE></F></HT>
 
-<F P=102>   AU0205153694 Prague CTK in English 1443 GMT 2 May 94--FOR 
+<F P="102">   AU0205153694 Prague CTK in English 1443 GMT 2 May 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205153694 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0205153694 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10522,17 +10523,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   CEFTA Supplementary Protocol Signed </TI></H3>
-<HT><F P=107><PHRASE>    CEFTA Supplementary Protocol Signed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    CEFTA Supplementary Protocol Signed </PHRASE></F></HT>
 
-<F P=102>   AU2904175894 Budapest MTI in English 1456 GMT 29 Apr 94--FOR 
+<F P="102">   AU2904175894 Budapest MTI in English 1456 GMT 29 Apr 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904175894 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU2904175894 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10581,17 +10582,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Bulgaria </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Bulgaria </F>
 <H3> <TI>   Daskalov on `Very Successful' Prague Visit </TI></H3>
-<HT><F P=107><PHRASE>    Daskalov on `Very Successful' Prague Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daskalov on `Very Successful' Prague Visit </PHRASE></F></HT>
 
-<F P=102>   AU2904144694 Sofia BTA in English 1346 GMT 29 Apr 94--FOR 
+<F P="102">   AU2904144694 Sofia BTA in English 1346 GMT 29 Apr 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904144694 </F>
-<F P=104>  Sofia BTA </F>
-<F P=105>  English </F>
+<F P="103"> AU2904144694 </F>
+<F P="104">  Sofia BTA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10644,17 +10645,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Bulgaria </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Bulgaria </F>
 <H3> <TI>   Iraqi Envoy Briefs Matinchev on Embargo </TI></H3>
-<HT><F P=107><PHRASE>    Iraqi Envoy Briefs Matinchev on Embargo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Iraqi Envoy Briefs Matinchev on Embargo </PHRASE></F></HT>
 
-<F P=102>   AU2904154294 Sofia BTA in English 1531 GMT 29 Apr 94--FOR 
+<F P="102">   AU2904154294 Sofia BTA in English 1531 GMT 29 Apr 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904154294 </F>
-<F P=104>  Sofia BTA </F>
-<F P=105>  English </F>
+<F P="103"> AU2904154294 </F>
+<F P="104">  Sofia BTA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10695,17 +10696,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Czech Republic </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Czech Republic </F>
 <H3> <TI>   National Council Approves Law on Parties </TI></H3>
-<HT><F P=107><PHRASE>    National Council Approves Law on Parties </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    National Council Approves Law on Parties </PHRASE></F></HT>
 
-<F P=102>   AU3004135294 Prague CTK in English 1843 GMT 29 Apr 94 -- FOR 
+<F P="102">   AU3004135294 Prague CTK in English 1843 GMT 29 Apr 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU3004135294 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU3004135294 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10748,17 +10749,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Czech Republic </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Czech Republic </F>
 <H3> <TI>   Communist Party Criticizes Law </TI></H3>
-<HT><F P=107><PHRASE>    Communist Party Criticizes Law </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Communist Party Criticizes Law </PHRASE></F></HT>
 
-<F P=102>   AU2904181994 Prague CTK in English 1742 GMT 29 Apr 94 -- FOR 
+<F P="102">   AU2904181994 Prague CTK in English 1742 GMT 29 Apr 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904181994 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU2904181994 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10802,17 +10803,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Czech Republic </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Czech Republic </F>
 <H3> <TI>   National Council Passes Bill on Jewish Property </TI></H3>
-<HT><F P=107><PHRASE>    National Council Passes Bill on Jewish Property </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    National Council Passes Bill on Jewish Property </PHRASE></F></HT>
 
-<F P=102>   AU2904160094 Prague CTK in English 1412 GMT 29 Apr 94 -- FOR 
+<F P="102">   AU2904160094 Prague CTK in English 1412 GMT 29 Apr 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904160094 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU2904160094 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10895,17 +10896,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Czech Republic </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Czech Republic </F>
 <H3> <TI>   Council Approves Joint Military Exercises </TI></H3>
-<HT><F P=107><PHRASE>    Council Approves Joint Military Exercises </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Council Approves Joint Military Exercises </PHRASE></F></HT>
 
-<F P=102>   AU2904181794 Prague CTK in English 1721 GMT 29 Apr 94--FOR 
+<F P="102">   AU2904181794 Prague CTK in English 1721 GMT 29 Apr 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904181794 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU2904181794 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10951,17 +10952,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Czech Republic </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Czech Republic </F>
 <H3> <TI>   Baudys on Sale of Surplus Army Property </TI></H3>
-<HT><F P=107><PHRASE>    Baudys on Sale of Surplus Army Property </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Baudys on Sale of Surplus Army Property </PHRASE></F></HT>
 
-<F P=102>   AU0305131894 Prague CTK in English 1221 GMT 3 May 94 -- FOR 
+<F P="102">   AU0305131894 Prague CTK in English 1221 GMT 3 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305131894 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0305131894 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10999,17 +11000,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   SZDSZ Notes `Government Control' Over Media </TI></H3>
-<HT><F P=107><PHRASE>    SZDSZ Notes `Government Control' Over Media </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SZDSZ Notes `Government Control' Over Media </PHRASE></F></HT>
 
-<F P=102>   AU2904153294 Budapest MTI in English 1343 GMT 29 Apr 94 -- 
+<F P="102">   AU2904153294 Budapest MTI in English 1343 GMT 29 Apr 94 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904153294 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU2904153294 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11042,17 +11043,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   MSZP on `Biased' State Television Coverage </TI></H3>
-<HT><F P=107><PHRASE>    MSZP on `Biased' State Television Coverage </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    MSZP on `Biased' State Television Coverage </PHRASE></F></HT>
 
-<F P=102>   AU0305082394 Budapest MTI in English 1907 GMT 2 May 94--FOR 
+<F P="102">   AU0305082394 Budapest MTI in English 1907 GMT 2 May 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305082394 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU0305082394 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11095,17 +11096,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   Election Committee Cited on Media Coverage </TI></H3>
-<HT><F P=107><PHRASE>    Election Committee Cited on Media Coverage </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Election Committee Cited on Media Coverage </PHRASE></F></HT>
 
-<F P=102>   AU0305102794 Budapest MTI in English 0706 GMT 3 May 94--FOR 
+<F P="102">   AU0305102794 Budapest MTI in English 0706 GMT 3 May 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305102794 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU0305102794 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11168,17 +11169,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   Committee Says 1,903 Candidates To Run </TI></H3>
-<HT><F P=107><PHRASE>    Committee Says 1,903 Candidates To Run </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Committee Says 1,903 Candidates To Run </PHRASE></F></HT>
 
-<F P=102>   AU0205121394 Budapest MTI in English 0940 GMT 2 May 94--FOR 
+<F P="102">   AU0205121394 Budapest MTI in English 0940 GMT 2 May 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205121394 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU0205121394 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11310,17 +11311,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   Six Party List Leaders Attend Forum </TI></H3>
-<HT><F P=107><PHRASE>    Six Party List Leaders Attend Forum </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Six Party List Leaders Attend Forum </PHRASE></F></HT>
 
-<F P=102>   AU0305102494 Budapest MTI in English 2014 GMT 2 May 94 -- 
+<F P="102">   AU0305102494 Budapest MTI in English 2014 GMT 2 May 94 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305102494 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU0305102494 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11375,17 +11376,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   Official Gazette Publishes 1993 Party Budgets </TI></H3>
-<HT><F P=107><PHRASE>    Official Gazette Publishes 1993 Party Budgets </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Official Gazette Publishes 1993 Party Budgets </PHRASE></F></HT>
 
-<F P=102>   AU0205143994 Budapest MTI in English 1300 GMT 2 May 94 -- 
+<F P="102">   AU0205143994 Budapest MTI in English 1300 GMT 2 May 94 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205143994 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU0205143994 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11430,17 +11431,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   Polls Show Socialists Maintaining Lead </TI></H3>
-<HT><F P=107><PHRASE>    Polls Show Socialists Maintaining Lead </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Polls Show Socialists Maintaining Lead </PHRASE></F></HT>
 
-<F P=102>   AU2904153494 Budapest MTI in English 1316 GMT 29 Apr 94 -- 
+<F P="102">   AU2904153494 Budapest MTI in English 1316 GMT 29 Apr 94 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904153494 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU2904153494 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11505,17 +11506,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Hungary </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Hungary </F>
 <H3> <TI>   Police Comment on Arrest of Hungarist Leaders </TI></H3>
-<HT><F P=107><PHRASE>    Police Comment on Arrest of Hungarist Leaders </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police Comment on Arrest of Hungarist Leaders </PHRASE></F></HT>
 
-<F P=102>   AU2904142094 Budapest MTI in English 1200 GMT 29 Apr 94 -- 
+<F P="102">   AU2904142094 Budapest MTI in English 1200 GMT 29 Apr 94 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904142094 </F>
-<F P=104>  Budapest MTI </F>
-<F P=105>  English </F>
+<F P="103"> AU2904142094 </F>
+<F P="104">  Budapest MTI </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11567,17 +11568,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Poland </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Poland </F>
 <H3> <TI>   New Finance Minister on Economic Policy </TI></H3>
-<HT><F P=107><PHRASE>    New Finance Minister on Economic Policy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Finance Minister on Economic Policy </PHRASE></F></HT>
 
-<F P=102>   LD2904201294 Warsaw PAP in English 1618 GMT 29 Apr 94 -- FOR 
+<F P="102">   LD2904201294 Warsaw PAP in English 1618 GMT 29 Apr 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> LD2904201294 </F>
-<F P=104>  Warsaw PAP </F>
-<F P=105>  English </F>
+<F P="103"> LD2904201294 </F>
+<F P="104">  Warsaw PAP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11650,17 +11651,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Poland </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Poland </F>
 <H3> <TI>   Transportation Agreement Signed With Russia </TI></H3>
-<HT><F P=107><PHRASE>    Transportation Agreement Signed With Russia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Transportation Agreement Signed With Russia </PHRASE></F></HT>
 
-<F P=102>   LD2904184994 Warsaw PAP in English 1731 GMT 29 Apr 94 -- FOR 
+<F P="102">   LD2904184994 Warsaw PAP in English 1731 GMT 29 Apr 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> LD2904184994 </F>
-<F P=104>  Warsaw PAP </F>
-<F P=105>  English </F>
+<F P="103"> LD2904184994 </F>
+<F P="104">  Warsaw PAP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11696,17 +11697,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Moravcik Sees `No Reason' To Meet With Klaus </TI></H3>
-<HT><F P=107><PHRASE>    Moravcik Sees `No Reason' To Meet With Klaus </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Moravcik Sees `No Reason' To Meet With Klaus </PHRASE></F></HT>
 
-<F P=102>   AU0205194994 Prague CTK in English 1843 GMT 2 May 94 -- FOR 
+<F P="102">   AU0205194994 Prague CTK in English 1843 GMT 2 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205194994 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0205194994 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11750,17 +11751,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Government: Screening Law for Candidates `Valid' </TI></H3>
-<HT><F P=107><PHRASE>    Government: Screening Law for Candidates `Valid' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government: Screening Law for Candidates `Valid' </PHRASE></F></HT>
 
-<F P=102>   AU2904181694 Prague CTK in English 1729 GMT 29 Apr 94 -- FOR 
+<F P="102">   AU2904181694 Prague CTK in English 1729 GMT 29 Apr 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2904181694 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU2904181694 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11815,17 +11816,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   SDL Chairman: Government Cannot Exclude Left </TI></H3>
-<HT><F P=107><PHRASE>    SDL Chairman: Government Cannot Exclude Left </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SDL Chairman: Government Cannot Exclude Left </PHRASE></F></HT>
 
-<F P=102>   AU0205102994 Prague CTK in English 0941 GMT 2 May 94 -- FOR 
+<F P="102">   AU0205102994 Prague CTK in English 0941 GMT 2 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205102994 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0205102994 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11896,17 +11897,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Views Problems With Hungary </TI></H3>
-<HT><F P=107><PHRASE>    Views Problems With Hungary </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Views Problems With Hungary </PHRASE></F></HT>
 
-<F P=102>   AU0205114894 Prague CTK in English 1105 GMT 2 May 94 -- FOR 
+<F P="102">   AU0205114894 Prague CTK in English 1105 GMT 2 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205114894 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0205114894 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -11976,17 +11977,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Cited on Screening Issue, Coalition </TI></H3>
-<HT><F P=107><PHRASE>    Cited on Screening Issue, Coalition </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cited on Screening Issue, Coalition </PHRASE></F></HT>
 
-<F P=102>   AU0205174594 Prague CTK in English 1606 GMT 2 May 94 -- FOR 
+<F P="102">   AU0205174594 Prague CTK in English 1606 GMT 2 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205174594 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0205174594 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12058,17 +12059,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Egyutteles Leader on Joining European Charter </TI></H3>
-<HT><F P=107><PHRASE>    Egyutteles Leader on Joining European Charter </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Egyutteles Leader on Joining European Charter </PHRASE></F></HT>
 
-<F P=102>   AU0305133494 Prague CTK in English 1148 GMT 3 May 94 -- FOR 
+<F P="102">   AU0305133494 Prague CTK in English 1148 GMT 3 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305133494 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0305133494 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12115,17 +12116,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Daily `Apologizing' to Meciar on Affair Story </TI></H3>
-<HT><F P=107><PHRASE>    Daily `Apologizing' to Meciar on Affair Story </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daily `Apologizing' to Meciar on Affair Story </PHRASE></F></HT>
 
-<F P=102>   AU0305124494 Prague CTK in English 1025 GMT 3 May 94 -- FOR 
+<F P="102">   AU0305124494 Prague CTK in English 1025 GMT 3 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305124494 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0305124494 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12173,17 +12174,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Press Views HZDS, Cabinet Changes, Meciar </TI></H3>
-<HT><F P=107><PHRASE>    Press Views HZDS, Cabinet Changes, Meciar </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Press Views HZDS, Cabinet Changes, Meciar </PHRASE></F></HT>
 
-<F P=102>   AU0305121394 Prague CTK in English 1016 GMT 3 Mar 94 -- FOR 
+<F P="102">   AU0305121394 Prague CTK in English 1016 GMT 3 Mar 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305121394 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0305121394 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12280,23 +12281,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Profile of Voters Supporting Meciar </TI></H3>
-<HT><F P=107><PHRASE>    Profile of Voters Supporting Meciar </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Profile of Voters Supporting Meciar </PHRASE></F></HT>
 
-<F P=102>   94P20667A Prague PROGNOSIS in English 14 Apr 94 p 4--FOR 
+<F P="102">   94P20667A Prague PROGNOSIS in English 14 Apr 94 p 4--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> 94P20667A </F>
-<F P=104>  Prague PROGNOSIS </F>
-<F P=105>  English </F>
+<F P="103"> 94P20667A </F>
+<F P="104">  Prague PROGNOSIS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Jana Dorotkova: "The Babicka Factor"] </F>
+<F P="106"> [Article by Jana Dorotkova: "The Babicka Factor"] </F>
   [Text] Bratislava--When the crowd, consisting as usual 
 almost wholly of retired adorers of Vladimir Meciar, shouts 
 angrily for civil war, or throws eggs and yells "Fuj!" at 
@@ -12446,17 +12447,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Bohunice Nuclear Plant Not To Close Until 2002 </TI></H3>
-<HT><F P=107><PHRASE>    Bohunice Nuclear Plant Not To Close Until 2002 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bohunice Nuclear Plant Not To Close Until 2002 </PHRASE></F></HT>
 
-<F P=102>   AU0205201394 Prague CTK in English 1919 GMT 2 May 94 -- FOR 
+<F P="102">   AU0205201394 Prague CTK in English 1919 GMT 2 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205201394 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0205201394 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12494,17 +12495,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   Czech-Slovak Military Agreement Signed </TI></H3>
-<HT><F P=107><PHRASE>    Czech-Slovak Military Agreement Signed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Czech-Slovak Military Agreement Signed </PHRASE></F></HT>
 
-<F P=102>   AU0205125594 Prague CTK in English 1223 GMT 2 May 94 -- FOR 
+<F P="102">   AU0205125594 Prague CTK in English 1223 GMT 2 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205125594 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0205125594 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12556,17 +12557,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Slovakia </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Slovakia </F>
 <H3> <TI>   SME: Talks With Hungary `Exposed' Differences </TI></H3>
-<HT><F P=107><PHRASE>    SME: Talks With Hungary `Exposed' Differences </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SME: Talks With Hungary `Exposed' Differences </PHRASE></F></HT>
 
-<F P=102>   AU0305105694 Prague CTK in English 0847 GMT 3 May 94 -- FOR 
+<F P="102">   AU0305105694 Prague CTK in English 0847 GMT 3 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0305105694 </F>
-<F P=104>  Prague CTK </F>
-<F P=105>  English </F>
+<F P="103"> AU0305105694 </F>
+<F P="104">  Prague CTK </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12622,17 +12623,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Yugoslavia, Kosovo </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Yugoslavia, Kosovo </F>
 <H3> <TI>   Serb Court To Put Ethnic Albanians on Trial </TI></H3>
-<HT><F P=107><PHRASE>    Serb Court To Put Ethnic Albanians on Trial </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Serb Court To Put Ethnic Albanians on Trial </PHRASE></F></HT>
 
-<F P=102>   AU3004133294 Tirana ATA in English 1803 GMT 29 Apr 94 -- FOR 
+<F P="102">   AU3004133294 Tirana ATA in English 1803 GMT 29 Apr 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU3004133294 </F>
-<F P=104>  Tirana ATA </F>
-<F P=105>  English </F>
+<F P="103"> AU3004133294 </F>
+<F P="104">  Tirana ATA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12663,17 +12664,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Yugoslavia, Kosovo </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Yugoslavia, Kosovo </F>
 <H3> <TI>   Arkan's Troops Gather on Albanian Border </TI></H3>
-<HT><F P=107><PHRASE>    Arkan's Troops Gather on Albanian Border </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Arkan's Troops Gather on Albanian Border </PHRASE></F></HT>
 
-<F P=102>   AU0205085794 Tirana ATA in English 0819 GMT 2 May 94 -- FOR 
+<F P="102">   AU0205085794 Tirana ATA in English 0819 GMT 2 May 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU0205085794 </F>
-<F P=104>  Tirana ATA </F>
-<F P=105>  English </F>
+<F P="103"> AU0205085794 </F>
+<F P="104">  Tirana ATA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12716,13 +12717,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Bulgaria </TI></H3>
-<HT><F P=107><PHRASE>    Bulgaria </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bulgaria </PHRASE></F></HT>
 
-<F P=102>   AU0104111794 Economic Review -- FOR OFFICIAL USE ONLY </F>
-<F P=103> AU0104111794 </F>
-<F P=104>  Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="102">   AU0104111794 Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="103"> AU0104111794 </F>
+<F P="104">  Economic Review -- FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -13256,13 +13257,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Czech Republic </TI></H3>
-<HT><F P=107><PHRASE>    Czech Republic </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Czech Republic </PHRASE></F></HT>
 
-<F P=102>   AU0704121694 Economic Review -- FOR OFFICIAL USE ONLY </F>
-<F P=103> AU0704121694 </F>
-<F P=104>  Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="102">   AU0704121694 Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="103"> AU0704121694 </F>
+<F P="104">  Economic Review -- FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -14284,13 +14285,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Hungary </TI></H3>
-<HT><F P=107><PHRASE>    Hungary </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hungary </PHRASE></F></HT>
 
-<F P=102>   AU0104112294 Economic Review -- FOR OFFICIAL USE ONLY </F>
-<F P=103> AU0104112294 </F>
-<F P=104>  Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="102">   AU0104112294 Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="103"> AU0104112294 </F>
+<F P="104">  Economic Review -- FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -14487,7 +14488,7 @@ figures showed the stock standing at HUF7.431 billion. This
 series pays an annual interest of 21 percent, and redemption 
 rates 1 percentage point higher than for the 1993/I series. 
 (Budapest MTI in English 1807 GMT 1 Apr 94) 
-  R&amp;D PACT WITH IRELAND: The Irish Minister of Enterprise 
+  R amp;D PACT WITH IRELAND: The Irish Minister of Enterprise 
 and 
 Employment Ruairi Quinn and Minister Without Portfolio Erno 
 Pungor signed an agreement on bilateral cooperation in research 
@@ -14986,13 +14987,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Poland </TI></H3>
-<HT><F P=107><PHRASE>    Poland </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Poland </PHRASE></F></HT>
 
-<F P=102>   WS0804140094 Economic Review -- FOR OFFICIAL USE ONLY </F>
-<F P=103> WS0804140094 </F>
-<F P=104>  Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="102">   WS0804140094 Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="103"> WS0804140094 </F>
+<F P="104">  Economic Review -- FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -15738,13 +15739,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Romania </TI></H3>
-<HT><F P=107><PHRASE>    Romania </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Romania </PHRASE></F></HT>
 
-<F P=102>   AU0104111994 Economic Review -- FOR OFFICIAL USE ONLY </F>
-<F P=103> AU0104111994 </F>
-<F P=104>  Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="102">   AU0104111994 Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="103"> AU0104111994 </F>
+<F P="104">  Economic Review -- FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -16304,13 +16305,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Slovakia </TI></H3>
-<HT><F P=107><PHRASE>    Slovakia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Slovakia </PHRASE></F></HT>
 
-<F P=102>   AU0104113094 Economic Review -- FOR OFFICIAL USE ONLY </F>
-<F P=103> AU0104113094 </F>
-<F P=104>  Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="102">   AU0104113094 Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="103"> AU0104113094 </F>
+<F P="104">  Economic Review -- FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -17367,20 +17368,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   Selami Views 10 Apr Massacre, Greek Relations </TI></H3>
-<HT><F P=107><PHRASE>    Selami Views 10 Apr Massacre, Greek Relations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Selami Views 10 Apr Massacre, Greek Relations </PHRASE></F></HT>
 
-<F P=102>   AU2904114794 Tirana RILINDJA in Albanian 24 Apr 94 p 3 </F>
-<F P=103> AU2904114794 </F>
-<F P=104>  Tirana RILINDJA </F>
-<F P=105>  Albanian </F>
+<F P="102">   AU2904114794 Tirana RILINDJA in Albanian 24 Apr 94 p 3 </F>
+<F P="103"> AU2904114794 </F>
+<F P="104">  Tirana RILINDJA </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report on Democratic Party Chairman Eduard </F>
+<F P="106"> [Unattributed report on Democratic Party Chairman Eduard </F>
 Selami's speech at a meeting in Gjirokaster; date not given: 
 "Albanian-Greek Relations Should Not Influence Our Stand Toward 
 the Greek Minority in Albania"] 
@@ -17512,20 +17513,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   `Secrecy' Over Visit by FYROM's PDP Noted </TI></H3>
-<HT><F P=107><PHRASE>    `Secrecy' Over Visit by FYROM's PDP Noted </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Secrecy' Over Visit by FYROM's PDP Noted </PHRASE></F></HT>
 
-<F P=102>   AU0205112894 Tirana ZERI I POPULLIT in Albanian 1 May 94 p 1 </F>
-<F P=103> AU0205112894 </F>
-<F P=104>  Tirana ZERI I POPULLIT </F>
-<F P=105>  Albanian </F>
+<F P="102">   AU0205112894 Tirana ZERI I POPULLIT in Albanian 1 May 94 p 1 </F>
+<F P="103"> AU0205112894 </F>
+<F P="104">  Tirana ZERI I POPULLIT </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["G.V."-signed commentary: "Arben Xhaferi and Mendu Baci </F>
+<F P="106"> ["G.V."-signed commentary: "Arben Xhaferi and Mendu Baci </F>
 Are in Tirana. Is it a Party in Exile or..."] 
   [Text] A PDP [Party for Democratic Prosperity] delegation 
 has been visiting Tirana for the past few days. This is the 
@@ -17576,16 +17577,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   Defense Agreement Signed With Malaysia </TI></H3>
-<HT><F P=107><PHRASE>    Defense Agreement Signed With Malaysia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Defense Agreement Signed With Malaysia </PHRASE></F></HT>
 
-<F P=102>   BK0205135294 Kuala Lumpur Radio Malaysia Network in English 
+<F P="102">   BK0205135294 Kuala Lumpur Radio Malaysia Network in English 
 1300 GMT 2 May 94 </F>
 
-<F P=103> BK0205135294 </F>
-<F P=104>  Kuala Lumpur Radio Malaysia Network </F>
-<F P=105>  English </F>
+<F P="103"> BK0205135294 </F>
+<F P="104">  Kuala Lumpur Radio Malaysia Network </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17626,13 +17627,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   First Quarter Import, Aid Figures Published </TI></H3>
-<HT><F P=107><PHRASE>    First Quarter Import, Aid Figures Published </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    First Quarter Import, Aid Figures Published </PHRASE></F></HT>
 
-<F P=102>   AU0205141394 </F>
-<F P=103> AU0205141394 </F>
-<F P=104></F>
+<F P="102">   AU0205141394 </F>
+<F P="103"> AU0205141394 </F>
+<F P="104"></F>
 
 
 
@@ -17772,22 +17773,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Karadzic Warns U.S. of `New Vietnam' </TI></H3>
-<HT><F P=107><PHRASE>    Karadzic Warns U.S. of `New Vietnam' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Karadzic Warns U.S. of `New Vietnam' </PHRASE></F></HT>
 
-<F P=102>   AU0205141794 Belgrade Radio Beograd Network in 
+<F P="102">   AU0205141794 Belgrade Radio Beograd Network in 
 Serbo-Croatian 1300 GMT 2 May 94 </F>
 
-<F P=103> AU0205141794 </F>
-<F P=104>  Belgrade Radio Beograd Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0205141794 </F>
+<F P="104">  Belgrade Radio Beograd Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Passages within quotation marks recorded] </F>
+<F P="106"> [Passages within quotation marks recorded] </F>
   [Text] [Unidentified correspondent] The denouement of the 
 crisis surrounding Gorazde has shown the world that the NATO air 
 strikes that were carried out against Serbian civilian and 
@@ -17860,20 +17861,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   SDA on Implementation of </TI></H3>
-<HT><F P=107><PHRASE>    SDA on Implementation of </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SDA on Implementation of </PHRASE></F></HT>
 
 
 <TEXT>
 Washington   Accord 
 
-<F P=102> AU0205200994 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102"> AU0205200994 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1700 GMT 2 May 94 </F>
 
-<F P=103> AU0205200994 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0205200994 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="105">  Serbo-Croatian </F>
 BFN 
 
   [Text] At today's session, members of the Executive 
@@ -17901,16 +17902,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Croatian Leader Rejects Unitary Bosnia </TI></H3>
-<HT><F P=107><PHRASE>    Croatian Leader Rejects Unitary Bosnia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Croatian Leader Rejects Unitary Bosnia </PHRASE></F></HT>
 
-<F P=102>   LD0205212494 Zagreb Radio Croatia Network in Serbo-Croatian 
+<F P="102">   LD0205212494 Zagreb Radio Croatia Network in Serbo-Croatian 
 2000 GMT 2 May 94 </F>
 
-<F P=103> LD0205212494 </F>
-<F P=104>  Zagreb Radio Croatia Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD0205212494 </F>
+<F P="104">  Zagreb Radio Croatia Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -17968,22 +17969,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Reasons for Delay in Tudjman Visit Examined </TI></H3>
-<HT><F P=107><PHRASE>    Reasons for Delay in Tudjman Visit Examined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reasons for Delay in Tudjman Visit Examined </PHRASE></F></HT>
 
-<F P=102>   AU0205160994 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102">   AU0205160994 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1300 GMT 2 May 94 </F>
 
-<F P=103> AU0205160994 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0205160994 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Nada al-Isa from Zagreb] </F>
+<F P="106"> [Report by Nada al-Isa from Zagreb] </F>
   [Text] Why has Croatian President Franjo Tudjman still not 
 paid a visit to Sarajevo, even though President Izetbegovic has 
 asked him on two occasions. Is the UN Protection Forces 
@@ -18031,22 +18032,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Serbs Reportedly Continue Attacks in Bihac </TI></H3>
-<HT><F P=107><PHRASE>    Serbs Reportedly Continue Attacks in Bihac </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Serbs Reportedly Continue Attacks in Bihac </PHRASE></F></HT>
 
-<F P=102>   AU0305101294 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102">   AU0305101294 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 0800 GMT 3 May 94 </F>
 
-<F P=103> AU0305101294 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0305101294 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Mirza Sadikovic from Bihac] </F>
+<F P="106"> [Report by Mirza Sadikovic from Bihac] </F>
   [Text] Karadzic's terrorists continued attacks on the 
 Bihac district in the last 24 hours. The defenders on the Bihac 
 section of the front, the Grmusko-Srbljanski plateau, and the 
@@ -18082,22 +18083,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Serbs `Regrouping' Troops, Hardware in North </TI></H3>
-<HT><F P=107><PHRASE>    Serbs `Regrouping' Troops, Hardware in North </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Serbs `Regrouping' Troops, Hardware in North </PHRASE></F></HT>
 
-<F P=102>   AU0305104594 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102">   AU0305104594 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1000 GMT 3 May 94 </F>
 
-<F P=103> AU0305104594 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0305104594 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Smail Ceric from the Information Center of the </F>
+<F P="106"> [Report by Smail Ceric from the Information Center of the </F>
 7th South Operation group] 
   [Text] In the zone of operations of the 7th South 
 Operations Group, the aggressor is attacking fiercely. It is 
@@ -18128,16 +18129,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Izetbegovic, Delic Visit Troops in Brcko </TI></H3>
-<HT><F P=107><PHRASE>    Izetbegovic, Delic Visit Troops in Brcko </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Izetbegovic, Delic Visit Troops in Brcko </PHRASE></F></HT>
 
-<F P=102>   AU0205192394 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102">   AU0205192394 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1700 GMT 2 May 94 </F>
 
-<F P=103> AU0205192394 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0205192394 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -18202,13 +18203,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Albania </TI></H3>
-<HT><F P=107><PHRASE>    Albania </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Albania </PHRASE></F></HT>
 
-<F P=102>   AU0104111394 Economic Review -- FOR OFFICIAL USE ONLY </F>
-<F P=103> AU0104111394 </F>
-<F P=104>  Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="102">   AU0104111394 Economic Review -- FOR OFFICIAL USE ONLY </F>
+<F P="103"> AU0104111394 </F>
+<F P="104">  Economic Review -- FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -18389,7 +18390,7 @@ for Italian investors than any other east European country.
 Such activities will continue to be held in Bari, Milan, 
 Ancona, and Trieste. (Tirana ATA in English 1025 GMT 14 Apr 94) 
   EU DONATION FOR ENTERPRISES: Founded in 1992, the SME [Small 
-&amp; Medium Enterprises] Foundation supports and encourages free 
+ amp; Medium Enterprises] Foundation supports and encourages free 
 initiative among the Albanian businessmen, who have just started 
 their activity. The foundation, financed by the PHARE PROGRAM 
 [Economic Reconstruction Aid for Poland and Hungary], whose 
@@ -18626,14 +18627,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Serbs Claim Muslims Preparing Offensive at Brcko </TI></H3>
-<HT><F P=107><PHRASE>    Serbs Claim Muslims Preparing Offensive at Brcko </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Serbs Claim Muslims Preparing Offensive at Brcko </PHRASE></F></HT>
 
-<F P=102>   LD0205203994 Belgrade TANJUG in English 2014 GMT 2 May 94 </F>
-<F P=103> LD0205203994 </F>
-<F P=104>  Belgrade TANJUG </F>
-<F P=105>  English </F>
+<F P="102">   LD0205203994 Belgrade TANJUG in English 2014 GMT 2 May 94 </F>
+<F P="103"> LD0205203994 </F>
+<F P="104">  Belgrade TANJUG </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18694,20 +18695,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Muslim Attacks on Serbian Positions Reported </TI></H3>
-<HT><F P=107><PHRASE>    Muslim Attacks on Serbian Positions Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Muslim Attacks on Serbian Positions Reported </PHRASE></F></HT>
 
-<F P=102>   LD0205114594 Belgrade TANJUG in English 1108 GMT 2 May 94 </F>
-<F P=103> LD0205114594 </F>
-<F P=104>  Belgrade TANJUG </F>
-<F P=105>  English </F>
+<F P="102">   LD0205114594 Belgrade TANJUG in English 1108 GMT 2 May 94 </F>
+<F P="103"> LD0205114594 </F>
+<F P="104">  Belgrade TANJUG </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Pool" item] </F>
+<F P="106"> ["Pool" item] </F>
   [Text] Doboj, May 2 (TANJUG) -- Strong Moslem artillery 
 attacks on Teslic, Serb-held town in northern Bosnia, on Monday 
 caused huge material damage, Bosnian Serb army sources have 
@@ -18752,22 +18753,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   UN Troops `Guzzling' With Serbs in Gorazde </TI></H3>
-<HT><F P=107><PHRASE>    UN Troops `Guzzling' With Serbs in Gorazde </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UN Troops `Guzzling' With Serbs in Gorazde </PHRASE></F></HT>
 
-<F P=102>   AU0305104794 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102">   AU0305104794 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1000 GMT 3 May 94 </F>
 
-<F P=103> AU0305104794 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> AU0305104794 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Fahrudin Becic from Gorazde] </F>
+<F P="106"> [Report by Fahrudin Becic from Gorazde] </F>
   [Text] The situation in Gorazde remains unchanged. The 
 chances of the aggressor moving outside the 3-km zone on the 
 right bank of the Drina River are slim. UNPROFOR [UN Protection 
@@ -18794,16 +18795,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   UNPROFOR General Complains of Serbian Harassment </TI></H3>
-<HT><F P=107><PHRASE>    UNPROFOR General Complains of Serbian Harassment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UNPROFOR General Complains of Serbian Harassment </PHRASE></F></HT>
 
-<F P=102>   LD0205203094 Paris TF-1 Television Network in French 1800 
+<F P="102">   LD0205203094 Paris TF-1 Television Network in French 1800 
 GMT 2 May 94 </F>
 
-<F P=103> LD0205203094 </F>
-<F P=104>  Paris TF-1 Television Network </F>
-<F P=105>  French </F>
+<F P="103"> LD0205203094 </F>
+<F P="104">  Paris TF-1 Television Network </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -18840,14 +18841,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   `Radio Free Europe' on Croat-Muslim Tensions </TI></H3>
-<HT><F P=107><PHRASE>    `Radio Free Europe' on Croat-Muslim Tensions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Radio Free Europe' on Croat-Muslim Tensions </PHRASE></F></HT>
 
-<F P=102>   LD0205185494 Belgrade TANJUG in English 1720 GMT 2 May 94 </F>
-<F P=103> LD0205185494 </F>
-<F P=104>  Belgrade TANJUG </F>
-<F P=105>  English </F>
+<F P="102">   LD0205185494 Belgrade TANJUG in English 1720 GMT 2 May 94 </F>
+<F P="103"> LD0205185494 </F>
+<F P="104">  Belgrade TANJUG </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18920,20 +18921,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Review of Sarajevo Newspaper Publications </TI></H3>
-<HT><F P=107><PHRASE>    Review of Sarajevo Newspaper Publications </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Review of Sarajevo Newspaper Publications </PHRASE></F></HT>
 
-<F P=102>   94BA0255B Zagreb GLOBUS in Serbo-Croatian 1 Apr 94 pp 8-10 </F>
-<F P=103> 94BA0255B </F>
-<F P=104>  Zagreb GLOBUS </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="102">   94BA0255B Zagreb GLOBUS in Serbo-Croatian 1 Apr 94 pp 8-10 </F>
+<F P="103"> 94BA0255B </F>
+<F P="104">  Zagreb GLOBUS </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zeljko Garmaz: "Where Are the Politicians </F>
+<F P="106"> [Article by Zeljko Garmaz: "Where Are the Politicians </F>
 Headed?"] 
   [Text] Leo (23 July to 22 August) -- "These persons 
 of pronounced sincerity and an open character face indifference 
@@ -19133,20 +19134,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   U.S. Policy Toward Albania Discussed </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Policy Toward Albania Discussed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Policy Toward Albania Discussed </PHRASE></F></HT>
 
-<F P=102>   AU0405114794 Tirana KOMBI in Albanian 26 Apr 94 p 3 </F>
-<F P=103> AU0405114794 </F>
-<F P=104>  Tirana KOMBI </F>
-<F P=105>  Albanian </F>
+<F P="102">   AU0405114794 Tirana KOMBI in Albanian 26 Apr 94 p 3 </F>
+<F P="103"> AU0405114794 </F>
+<F P="104">  Tirana KOMBI </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Dr. Fatmir Zanaj: "Is U.S. Policy Toward </F>
+<F P="106"> [Commentary by Dr. Fatmir Zanaj: "Is U.S. Policy Toward </F>
 Albania Going To Change Now That Mr. Ryerson Is Leaving Our 
 Country?"] 
   [Text] The BBC Albanian Section reports that Mr. William 
@@ -19282,20 +19283,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   Editorial Examines Border Killings in Kosovo </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Examines Border Killings in Kosovo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Examines Border Killings in Kosovo </PHRASE></F></HT>
 
-<F P=102>   AU0305121494 Tirana RILINDJA in Albanian 30 Apr 94 p 2 </F>
-<F P=103> AU0305121494 </F>
-<F P=104>  Tirana RILINDJA </F>
-<F P=105>  Albanian </F>
+<F P="102">   AU0305121494 Tirana RILINDJA in Albanian 30 Apr 94 p 2 </F>
+<F P="103"> AU0305121494 </F>
+<F P="104">  Tirana RILINDJA </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "Extreme Solutions Intended"] </F>
+<F P="106"> [Editorial: "Extreme Solutions Intended"] </F>
   [Text] Prishtina, 29 Apr -- On 24 April, Serbian forces 
 executed near the village of Miratoc the young Naim Bajrami from 
 the village of Llashtice [Vlastica] in Gjilan [Gnjilane] 
@@ -19365,20 +19366,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   `Failure' of Serb-Run Economy in Kosovo Viewed </TI></H3>
-<HT><F P=107><PHRASE>    `Failure' of Serb-Run Economy in Kosovo Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Failure' of Serb-Run Economy in Kosovo Viewed </PHRASE></F></HT>
 
-<F P=102>   AU0305172994 Tirana RILINDJA in Albanian 30 Apr 94 p 2 </F>
-<F P=103> AU0305172994 </F>
-<F P=104>  Tirana RILINDJA </F>
-<F P=105>  Albanian </F>
+<F P="102">   AU0305172994 Tirana RILINDJA in Albanian 30 Apr 94 p 2 </F>
+<F P="103"> AU0305172994 </F>
+<F P="104">  Tirana RILINDJA </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Xh. Rexhepi: "Serbian Nostalgia for the </F>
+<F P="106"> [Commentary by Xh. Rexhepi: "Serbian Nostalgia for the </F>
 (Non)Exploitation of Kosova"] 
   [Text] Despair over the failure to achieve a "Serbian 
 paradise" and the rapid fall from fashion of the "Vozd" brand of 
@@ -19484,21 +19485,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Officials Views Election Chances </TI></H3>
-<HT><F P=107><PHRASE>    Officials Views Election Chances </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials Views Election Chances </PHRASE></F></HT>
 <H4>    MSZP's Imre Szekeres </H4>
 
-<F P=102> AU0405091094 Budapest PESTI HIRLAP in Hungarian 3 May 94 p 10 </F>
-<F P=103> AU0405091094 </F>
-<F P=104>  Budapest PESTI HIRLAP </F>
-<F P=105>  Hungarian </F>
+<F P="102"> AU0405091094 Budapest PESTI HIRLAP in Hungarian 3 May 94 p 10 </F>
+<F P="103"> AU0405091094 </F>
+<F P="104">  Budapest PESTI HIRLAP </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Imre Szekeres, general deputy chairman of </F>
+<F P="106"> [Interview with Imre Szekeres, general deputy chairman of </F>
 the Hungarian Socialist Party, by Janos Kecskes Szekely; place 
 and date not given: "No One Has Nostalgia for the Regime in 
 Hungary"] 
@@ -19634,23 +19635,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Officials Views Election Chances </TI></H3>
-<HT><F P=107><PHRASE>    Officials Views Election Chances </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials Views Election Chances </PHRASE></F></HT>
 <H4>    Fidesz's Jozsef Szajer </H4>
 
-<F P=102> AU0305123794 Budapest MAGYAR HIRLAP in Hungarian 30 Apr 94 p 
+<F P="102"> AU0305123794 Budapest MAGYAR HIRLAP in Hungarian 30 Apr 94 p 
 11 </F>
 
-<F P=103> AU0305123794 </F>
-<F P=104>  Budapest MAGYAR HIRLAP </F>
-<F P=105>  Hungarian </F>
+<F P="103"> AU0305123794 </F>
+<F P="104">  Budapest MAGYAR HIRLAP </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Jozsef Szajer, head of the National </F>
+<F P="106"> [Interview with Jozsef Szajer, head of the National </F>
 Committee of the Federation of Young Democrats, by Dezso Pinter; 
 place and date not given: "We Want a Government of Politicians, 
 Not a Government of Bureaucrats"] 
@@ -19802,23 +19803,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Officials Views Election Chances </TI></H3>
-<HT><F P=107><PHRASE>    Officials Views Election Chances </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials Views Election Chances </PHRASE></F></HT>
 <H4>    Agrarian Alliance's Tamas Nagy </H4>
 
-<F P=102> AU0405083294 Budapest UJ MAGYARORSZAG in Hungarian 3 May 94 
+<F P="102"> AU0405083294 Budapest UJ MAGYARORSZAG in Hungarian 3 May 94 
 p 5 </F>
 
-<F P=103> AU0405083294 </F>
-<F P=104>  Budapest UJ MAGYARORSZAG </F>
-<F P=105>  Hungarian </F>
+<F P="103"> AU0405083294 </F>
+<F P="104">  Budapest UJ MAGYARORSZAG </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Agrarian Alliance Chairman Tamas Nagy by </F>
+<F P="106"> [Interview with Agrarian Alliance Chairman Tamas Nagy by </F>
 Gaspar; place and date not given: "Whom Does the Agrarian Force 
 Attract?"] 
   [Text] We are approaching the elections. Not only the 
@@ -19896,20 +19897,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Polls Predict Election Results </TI></H3>
-<HT><F P=107><PHRASE>    Polls Predict Election Results </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Polls Predict Election Results </PHRASE></F></HT>
 
-<F P=102>   AU0305131994 Budapest NEPSZABADSAG in Hungarian 29 Apr 94 p 7 </F>
-<F P=103> AU0305131994 </F>
-<F P=104>  Budapest NEPSZABADSAG </F>
-<F P=105>  Hungarian </F>
+<F P="102">   AU0305131994 Budapest NEPSZABADSAG in Hungarian 29 Apr 94 p 7 </F>
+<F P="103"> AU0305131994 </F>
+<F P="104">  Budapest NEPSZABADSAG </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "The Number of People Intending To </F>
+<F P="106"> [Unattributed report: "The Number of People Intending To </F>
 Vote Is Increasing -- Forecast by Four Public Opinion Research 
 Companies"] 
   [Text] 
@@ -20114,14 +20115,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Credit to Businesses `Grew Vigorously' in 1993 </TI></H3>
-<HT><F P=107><PHRASE>    Credit to Businesses `Grew Vigorously' in 1993 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Credit to Businesses `Grew Vigorously' in 1993 </PHRASE></F></HT>
 
-<F P=102>   94CH0198A Budapest MAGYAR HIRLAP in Hungarian 8 Mar 94 p 9 </F>
-<F P=103> 94CH0198A </F>
-<F P=104>  Budapest MAGYAR HIRLAP </F>
-<F P=105>  Hungarian </F>
+<F P="102">   94CH0198A Budapest MAGYAR HIRLAP in Hungarian 8 Mar 94 p 9 </F>
+<F P="103"> 94CH0198A </F>
+<F P="104">  Budapest MAGYAR HIRLAP </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
@@ -20180,14 +20181,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Agreement Reached on Retirement Age for Women </TI></H3>
-<HT><F P=107><PHRASE>    Agreement Reached on Retirement Age for Women </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Agreement Reached on Retirement Age for Women </PHRASE></F></HT>
 
-<F P=102>   94CH0198B Budapest NEPSZABADSAG in Hungarian 8 Mar 94 p 1 </F>
-<F P=103> 94CH0198B </F>
-<F P=104>  Budapest NEPSZABADSAG </F>
-<F P=105>  Hungarian </F>
+<F P="102">   94CH0198B Budapest NEPSZABADSAG in Hungarian 8 Mar 94 p 1 </F>
+<F P="103"> 94CH0198B </F>
+<F P="104">  Budapest NEPSZABADSAG </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
@@ -20239,20 +20240,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Budapest Bank Expects Increase in Imports </TI></H3>
-<HT><F P=107><PHRASE>    Budapest Bank Expects Increase in Imports </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Budapest Bank Expects Increase in Imports </PHRASE></F></HT>
 
-<F P=102>   94CH0198C Budapest MAGYAR NEMZET in Hungarian 4 Mar 94 p 8 </F>
-<F P=103> 94CH0198C </F>
-<F P=104>  Budapest MAGYAR NEMZET </F>
-<F P=105>  Hungarian </F>
+<F P="102">   94CH0198C Budapest MAGYAR NEMZET in Hungarian 4 Mar 94 p 8 </F>
+<F P="103"> 94CH0198C </F>
+<F P="104">  Budapest MAGYAR NEMZET </F>
+<F P="105">  Hungarian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed article: "Budapest Bank: Increase in Interest </F>
+<F P="106"> [Unattributed article: "Budapest Bank: Increase in Interest </F>
 Rates; Increase in Imports Expected"] 
   [Text] The great question this year will be the development 
 of the balance of trade and the balance of payments, we learned 
@@ -20292,22 +20293,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Romania </F>
+<F P="100"> Romania </F>
 <H3> <TI>   Ex-King Mihai Sends Easter Message to Nation </TI></H3>
-<HT><F P=107><PHRASE>    Ex-King Mihai Sends Easter Message to Nation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ex-King Mihai Sends Easter Message to Nation </PHRASE></F></HT>
 
-<F P=102>   AU0405080094 Bucharest ROMANIA LIBERA in Romanian 30 Apr 94 
+<F P="102">   AU0405080094 Bucharest ROMANIA LIBERA in Romanian 30 Apr 94 
 p 3 </F>
 
-<F P=103> AU0405080094 </F>
-<F P=104>  Bucharest ROMANIA LIBERA </F>
-<F P=105>  Romanian </F>
+<F P="103"> AU0405080094 </F>
+<F P="104">  Bucharest ROMANIA LIBERA </F>
+<F P="105">  Romanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Message by His Majesty King Mihai I to the Homeland on </F>
+<F P="106"> ["Message by His Majesty King Mihai I to the Homeland on </F>
 Holy Easter 1994" -- date not given] 
   [Text] Romanians: 
   Today, when you are celebrating the Holy Easter Holidays, 
@@ -20384,22 +20385,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Romania </F>
+<F P="100"> Romania </F>
 <H3> <TI>   Report on Actions To Prevent King's Visit </TI></H3>
-<HT><F P=107><PHRASE>    Report on Actions To Prevent King's Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Report on Actions To Prevent King's Visit </PHRASE></F></HT>
 
-<F P=102>   AU0405092194 Bucharest ROMANIA LIBERA in Romanian 30 Apr 94 
+<F P="102">   AU0405092194 Bucharest ROMANIA LIBERA in Romanian 30 Apr 94 
 p 3 </F>
 
-<F P=103> AU0405092194 </F>
-<F P=104>  Bucharest ROMANIA LIBERA </F>
-<F P=105>  Romanian </F>
+<F P="103"> AU0405092194 </F>
+<F P="104">  Bucharest ROMANIA LIBERA </F>
+<F P="105">  Romanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Andrei Badin: "The Authorities Fear Not So Much </F>
+<F P="106"> [Report by Andrei Badin: "The Authorities Fear Not So Much </F>
 the King as the People Who Acclaim Him"] 
   [Text] Their Majesties King Mihai and Queen Ana will not 
 be in Romania over the Easter Holidays. Again, the authorities 
@@ -20517,22 +20518,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Romania </F>
+<F P="100"> Romania </F>
 <H3> <TI>   Nastase's `Grand Coalition' Idea Examined </TI></H3>
-<HT><F P=107><PHRASE>    Nastase's `Grand Coalition' Idea Examined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nastase's `Grand Coalition' Idea Examined </PHRASE></F></HT>
 
-<F P=102>   AU0305164794 Frankfurt/Main FRANKFURTER ALLGEMEINE in German 
+<F P="102">   AU0305164794 Frankfurt/Main FRANKFURTER ALLGEMEINE in German 
 3 May 94 p 7 </F>
 
-<F P=103> AU0305164794 </F>
-<F P=104>  Frankfurt/Main FRANKFURTER ALLGEMEINE </F>
-<F P=105>  German </F>
+<F P="103"> AU0305164794 </F>
+<F P="104">  Frankfurt/Main FRANKFURTER ALLGEMEINE </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Konrad Schuller: "The Social Democracy Party of </F>
+<F P="106"> [Report by Konrad Schuller: "The Social Democracy Party of </F>
 Romania Advocates a Grand Coalition in Romania"] 
   [Text] The Social Democracy Party of Romania (PDSR), the 
 strongest force in the nominally suprapartisan government in 
@@ -20624,22 +20625,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Romania </F>
+<F P="100"> Romania </F>
 <H3> <TI>   Police Inspectorate Sets Up Intelligence Group </TI></H3>
-<HT><F P=107><PHRASE>    Police Inspectorate Sets Up Intelligence Group </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police Inspectorate Sets Up Intelligence Group </PHRASE></F></HT>
 
-<F P=102>   AU2904182194 Bucharest EVENIMENTUL ZILEI in Romanian 27 Apr 
+<F P="102">   AU2904182194 Bucharest EVENIMENTUL ZILEI in Romanian 27 Apr 
 94 p 8 </F>
 
-<F P=103> AU2904182194 </F>
-<F P=104>  Bucharest EVENIMENTUL ZILEI </F>
-<F P=105>  Romanian </F>
+<F P="103"> AU2904182194 </F>
+<F P="104">  Bucharest EVENIMENTUL ZILEI </F>
+<F P="105">  Romanian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Liviu Tudor: "The General Police Inspectorate Has </F>
+<F P="106"> [Report by Liviu Tudor: "The General Police Inspectorate Has </F>
 Set Up Its Own Intelligence Service"] 
   [Text] A "Directorate for Operative Supervision and 
 Intelligence" has recently been set up within the General Police 
@@ -20686,20 +20687,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Poll: ODA, CSSD Gaining Votes From ODS </TI></H3>
-<HT><F P=107><PHRASE>    Poll: ODA, CSSD Gaining Votes From ODS </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Poll: ODA, CSSD Gaining Votes From ODS </PHRASE></F></HT>
 
-<F P=102>   AU0305145194 Prague MLADA FRONTA DNES in Czech 2 May 94 p 2 </F>
-<F P=103> AU0305145194 </F>
-<F P=104>  Prague MLADA FRONTA DNES </F>
-<F P=105>  Czech </F>
+<F P="102">   AU0305145194 Prague MLADA FRONTA DNES in Czech 2 May 94 p 2 </F>
+<F P="103"> AU0305145194 </F>
+<F P="104">  Prague MLADA FRONTA DNES </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by "(jik)": "More Than One-Third of Civic </F>
+<F P="106"> [Article by "(jik)": "More Than One-Third of Civic </F>
 Democratic Alliance Supporters Are Former Civic Democratic Party 
 Voters"] 
   [Text] Prague--The Civic Democratic Alliance and the Czech 
@@ -20739,16 +20740,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Decision Made on Repayment of IMF Debt </TI></H3>
-<HT><F P=107><PHRASE>    Decision Made on Repayment of IMF Debt </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Decision Made on Repayment of IMF Debt </PHRASE></F></HT>
 
-<F P=102>   LD0305165894 Prague Radiozurnal Radio Network in Czech 1600 
+<F P="102">   LD0305165894 Prague Radiozurnal Radio Network in Czech 1600 
 GMT 3 May 94 </F>
 
-<F P=103> LD0305165894 </F>
-<F P=104>  Prague Radiozurnal Radio Network </F>
-<F P=105>  Czech </F>
+<F P="103"> LD0305165894 </F>
+<F P="104">  Prague Radiozurnal Radio Network </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
@@ -20788,14 +20789,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Economic Cooperation Planned With Iran </TI></H3>
-<HT><F P=107><PHRASE>    Economic Cooperation Planned With Iran </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Economic Cooperation Planned With Iran </PHRASE></F></HT>
 
-<F P=102>   LD0305183094 Tehran IRNA in English 1513 GMT 3 May 94 </F>
-<F P=103> LD0305183094 </F>
-<F P=104>  Tehran IRNA </F>
-<F P=105>  English </F>
+<F P="102">   LD0305183094 Tehran IRNA in English 1513 GMT 3 May 94 </F>
+<F P="103"> LD0305183094 </F>
+<F P="104">  Tehran IRNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -20836,16 +20837,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Dlouhy Refutes Criticism of Customs Union </TI></H3>
-<HT><F P=107><PHRASE>    Dlouhy Refutes Criticism of Customs Union </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Dlouhy Refutes Criticism of Customs Union </PHRASE></F></HT>
 
-<F P=102>   LD0305172994 Prague Radiozurnal Radio Network in Czech 1600 
+<F P="102">   LD0305172994 Prague Radiozurnal Radio Network in Czech 1600 
 GMT 3 May 94 </F>
 
-<F P=103> LD0305172994 </F>
-<F P=104>  Prague Radiozurnal Radio Network </F>
-<F P=105>  Czech </F>
+<F P="103"> LD0305172994 </F>
+<F P="104">  Prague Radiozurnal Radio Network </F>
+<F P="105">  Czech </F>
 
 
 <TEXT>
@@ -20888,21 +20889,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   FRY Ambassador to Croatia Critical of U.S. </TI></H3>
-<HT><F P=107><PHRASE>    FRY Ambassador to Croatia Critical of U.S. </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    FRY Ambassador to Croatia Critical of U.S. </PHRASE></F></HT>
 
-<F P=102>   BR0305153494 Madrid ABC in Spanish 2 May 94 p 36 </F>
-<F P=103> BR0305153494 </F>
-<F P=104>  Madrid ABC </F>
-<F P=105>  Spanish </F>
+<F P="102">   BR0305153494 Madrid ABC in Spanish 2 May 94 p 36 </F>
+<F P="103"> BR0305153494 </F>
+<F P="104">  Madrid ABC </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Responses by FRY Ambassador to Croatia Veljko Knezevic to </F>
+<F P="106"> [Responses by FRY Ambassador to Croatia Veljko Knezevic to </F>
 written questions from Ramiro Villapadierna; date not given: 
 "Yugoslavia Has No Territorial Claims -- There Has Already Been 
 Too Much War"] 
@@ -21009,17 +21010,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Serbia </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Serbia </F>
 <H3> <TI>   Authorities Accuse Albanian of Killing Soldiers </TI></H3>
-<HT><F P=107><PHRASE>    Authorities Accuse Albanian of Killing Soldiers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Authorities Accuse Albanian of Killing Soldiers </PHRASE></F></HT>
 
-<F P=102>   AU0405071894 Tirana TVSH Television Network in Albanian 1800 
+<F P="102">   AU0405071894 Tirana TVSH Television Network in Albanian 1800 
 GMT 3 May 94 </F>
 
-<F P=103> AU0405071894 </F>
-<F P=104>  Tirana TVSH Television Network </F>
-<F P=105>  Albanian </F>
+<F P="103"> AU0405071894 </F>
+<F P="104">  Tirana TVSH Television Network </F>
+<F P="105">  Albanian </F>
 
 
 <TEXT>
@@ -21058,3 +21059,4 @@ front, without even their families being informed .
 </TEXT>
 
 </DOC>
+</root>

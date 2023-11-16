@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS3-20587 </DOCNO>
@@ -13,19 +14,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Heilongjiang Liquor Industry Faces Problems </TI></H3>
-<F P=102>  94CE0337A Harbin HEILONGJIANG RIBAO in Chinese 3 Feb 94 p 1 </F>
-<F P=103> 94CE0337A </F>
-<F P=104>  Harbin HEILONGJIANG RIBAO </F>
+<F P="102">  94CE0337A Harbin HEILONGJIANG RIBAO in Chinese 3 Feb 94 p 1 </F>
+<F P="103"> 94CE0337A </F>
+<F P="104">  Harbin HEILONGJIANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Meng Zhaomin (1322 2507 3046) and Xing Shiguo </F>
+<F P="106"> [Article by Meng Zhaomin (1322 2507 3046) and Xing Shiguo </F>
 (6717 0013 0948): "Numerous Alcoholic Beverage Production and 
 Sales Problems"] 
   [Text] Heilongjiang is a major alcoholic beverage producing 
@@ -115,19 +116,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Guangxi, Shandong 1994 Crop Area </TI></H3>
 <H4>   Guangxi Crop Area </H4>
-<F P=102> 94CE0344S Chongqing XINAN JINGJI RIBAO in Chinese 6 Mar 94 p 
+<F P="102"> 94CE0344S Chongqing XINAN JINGJI RIBAO in Chinese 6 Mar 94 p 
 1 </F>
 
-<F P=103> 94CE0344S </F>
-<F P=104>  Chongqing XINAN JINGJI RIBAO </F>
+<F P="103"> 94CE0344S </F>
+<F P="104">  Chongqing XINAN JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] The total crop area in Guangxi will be 740,800 
@@ -157,17 +158,17 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Guangxi, Shandong 1994 Crop Area </TI></H3>
 <H4>   Shandong Crop Area </H4>
-<F P=102> 94CE0344T Jinan SHANDONG JINGJI RIBAO in Chinese 9 Feb 94 p 3 </F>
-<F P=103> 94CE0344T </F>
-<F P=104>  Jinan SHANDONG JINGJI RIBAO </F>
+<F P="102"> 94CE0344T Jinan SHANDONG JINGJI RIBAO in Chinese 9 Feb 94 p 3 </F>
+<F P="103"> 94CE0344T </F>
+<F P="104">  Jinan SHANDONG JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] According to a survey of 3,150 rural households 
@@ -201,20 +202,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Newspaper Reviews Literary Efforts in 1993 </TI></H3>
-<F P=102>  94CM0188A Beijing ZHONGGUO QINGNIAN BAO in Chinese 20 Jan 94 
+<F P="102">  94CM0188A Beijing ZHONGGUO QINGNIAN BAO in Chinese 20 Jan 94 
 p 8 </F>
 
-<F P=103> 94CM0188A </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="103"> 94CM0188A </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Liu Shuang (0491 3642): "Writings Are </F>
+<F P="106"> [Article by reporter Liu Shuang (0491 3642): "Writings Are </F>
 Meant To Be Eternal, But Merchants Are Playing Critic Today: 
 1993--An Unpoetic Year for Writers?"] 
   [Text] 1993 was an exciting year for Chinese 
@@ -676,23 +677,23 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   History of Islamism, Turkicism in Xinjiang </TI></H3>
-<F P=102>  94CM0183A Urumqi XIYU YANJIU [THE WESTERN REGIONS STUDIES] 
+<F P="102">  94CM0183A Urumqi XIYU YANJIU [THE WESTERN REGIONS STUDIES] 
 in Chinese No 1, Jan 94 pp 70-75 </F>
 
-<F P=103> 94CM0183A </F>
-<F P=104>  Urumqi XIYU YANJIU [THE WESTERN REGIONS STUDIES] 
+<F P="103"> 94CM0183A </F>
+<F P="104">  Urumqi XIYU YANJIU [THE WESTERN REGIONS STUDIES] 
 in Chinese No 1, Jan 94 pp 70-75 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Chen Chao, affiliated with the History Institute </F>
+<F P="106"> [Article by Chen Chao, affiliated with the History Institute </F>
 of the Xinjiang Academy of Social Sciences: "The Early Spread of 
 Pan-Islamism and Pan-Turkism in Xinjiang and Yang Zengxin's 
 Responses"--edited by Qi Qingshun] 
@@ -1187,22 +1188,22 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Article Calls for Easing Peasant Burdens </TI></H3>
 <H4>   Speed Up Rural Development </H4>
-<F P=102> 94CM0187A Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187A Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187A </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="103"> 94CM0187A </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wen Wei (7186 3555): "Speak Up for the Peasants"] </F>
+<F P="106"> [Article by Wen Wei (7186 3555): "Speak Up for the Peasants"] </F>
   [Text] Easing the peasants' burden has been an important 
 part of rural work since last year. 
   Subsequent to the introduction of the State Council's 
@@ -1349,22 +1350,22 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Article Calls for Easing Peasant Burdens </TI></H3>
 <H4>   Worries of Village Cadres </H4>
-<F P=102> 94CM0187B Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187B Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187B </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="103"> 94CM0187B </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhi Yan (4160 6056): "What Do the Village Branch </F>
+<F P="106"> [Article by Zhi Yan (4160 6056): "What Do the Village Branch </F>
 Secretaries Dislike Most During New Year?" The author is from 
 Wuxian County's Changshu Town in Jiangsu Province's Suzhou City] 
   [Text] Chinese New Year will soon be here. When I asked the 
@@ -1424,22 +1425,22 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Article Calls for Easing Peasant Burdens </TI></H3>
 <H4>   Who Will Defend Me? </H4>
-<F P=102> 94CM0187C Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187C Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187C </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="103"> 94CM0187C </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Letter to the editor entitled "Whom Should I Tell My </F>
+<F P="106"> [Letter to the editor entitled "Whom Should I Tell My </F>
 Troubles To?"] 
   [Text] Comrade Editor, 
   My name is Zheng Meiling [6774 5019 3781]. I am a member of 
@@ -1527,22 +1528,22 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Article Calls for Easing Peasant Burdens </TI></H3>
 <H4>   Leadership `Bewilders' Peasants </H4>
-<F P=102> 94CM0187D Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187D Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187D </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="103"> 94CM0187D </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Letter to the editor by Xiang Gan (3276 1626): "What Do the </F>
+<F P="106"> [Letter to the editor by Xiang Gan (3276 1626): "What Do the </F>
 Village Cadres Want?"] 
   [Text] Comrade Editor: 
   We village cadres come into contact with the tail-end of the 
@@ -1609,22 +1610,22 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Article Calls for Easing Peasant Burdens </TI></H3>
 <H4>   `Editorial Note' </H4>
-<F P=102> 94CM0187E Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187E Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187E </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="103"> 94CM0187E </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Editorial note in column entitled: "Forget Not the Village </F>
+<F P="106"> [Editorial note in column entitled: "Forget Not the Village </F>
 Elders and Town Folks"] 
   [Text] Editorial Note: The Party Central 
 Committee and the State Council have issued orders again and 
@@ -1658,19 +1659,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Xinjiang Miners Distressed Over Low Prices </TI></H3>
-<F P=102>  94CM0190A Urumqi XINJIANG RIBAO in Chinese 26 Jan 94 p 1 </F>
-<F P=103> 94CM0190A </F>
-<F P=104>  Urumqi XINJIANG RIBAO </F>
+<F P="102">  94CM0190A Urumqi XINJIANG RIBAO in Chinese 26 Jan 94 p 1 </F>
+<F P="103"> 94CM0190A </F>
+<F P="104">  Urumqi XINJIANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ai Min (5337 3046): "State-Owned Coal Mines </F>
+<F P="106"> [Article by Ai Min (5337 3046): "State-Owned Coal Mines </F>
 Distressed By Artificially Lowered Prices; Government Adjustment 
 and Control Brings Hope of Alleviating Problem"] 
   [Text] Early in the morning of 14 January, I received a 
@@ -1797,19 +1798,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Xinjiang Declining Cotton Industry Analyzed </TI></H3>
-<F P=102>  94CM0190B Urumqi XINJIANG RIBAO in Chinese 2 Jan 94 p 2 </F>
-<F P=103> 94CM0190B </F>
-<F P=104>  Urumqi XINJIANG RIBAO </F>
+<F P="102">  94CM0190B Urumqi XINJIANG RIBAO in Chinese 2 Jan 94 p 2 </F>
+<F P="103"> 94CM0190B </F>
+<F P="104">  Urumqi XINJIANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Staff Reporter Liu Feng (0491 2800) and </F>
+<F P="106"> [Article by Staff Reporter Liu Feng (0491 2800) and </F>
 Correspondent Dong Feng (5516 1496): "Xinjiang's Cotton 
 Industry--Where Is the Hope? Analysis and Summary of Xinjiang's 
 Current Cotton Industry"] 
@@ -1934,19 +1935,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> REGIONAL </F>
-<F P=101> NORTHWEST REGION </F>
+<F P="100"> REGIONAL </F>
+<F P="101"> NORTHWEST REGION </F>
 <H3> <TI>   Xinjiang Fine Wool Industry Declines </TI></H3>
-<F P=102>  94CM0190C Urumqi XINJIANG RIBAO in Chinese 2 Jan 94 p 2 </F>
-<F P=103> 94CM0190C </F>
-<F P=104>  Urumqi XINJIANG RIBAO </F>
+<F P="102">  94CM0190C Urumqi XINJIANG RIBAO in Chinese 2 Jan 94 p 2 </F>
+<F P="103"> 94CM0190C </F>
+<F P="104">  Urumqi XINJIANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Staff Correspondent Yang Fan (2799 1581): </F>
+<F P="106"> [Article by Staff Correspondent Yang Fan (2799 1581): </F>
 "Concern for Decline of Fine Wool Production in Xinjiang"] 
   [Text] On 10 December 1993, I attended a forum held by the 
 Xinjiang Bureau of Husbandry and which included some experts on 
@@ -2029,20 +2030,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> HONG KONG </F>
+<F P="100"> HONG KONG </F>
 <H3> <TI>   White Paper Termed `Piece of Propaganda' </TI></H3>
-<F P=102>  HK2802055494 Hong Kong EASTERN EXPRESS in English 28 Feb 94 
+<F P="102">  HK2802055494 Hong Kong EASTERN EXPRESS in English 28 Feb 94 
 p 6 </F>
 
-<F P=103> HK2802055494 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
+<F P="103"> HK2802055494 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> ["Two Kinds of Time" column by Jonathan Mirsky: "White </F>
+<F P="106"> ["Two Kinds of Time" column by Jonathan Mirsky: "White </F>
 Paper Is Plain Propaganda"] 
   [Text] Imagine your average Legco member -- like most of 
 us averagely decent, averagely cowardly -- with a corner of his 
@@ -2155,20 +2156,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> HONG KONG </F>
+<F P="100"> HONG KONG </F>
 <H3> <TI>   Editorial on White Paper on Sino-British Talks </TI></H3>
-<F P=102>  HK2502100994 Hong Kong HONGKONG STANDARD in English 25 Feb 
+<F P="102">  HK2502100994 Hong Kong HONGKONG STANDARD in English 25 Feb 
 94 p 2 </F>
 
-<F P=103> HK2502100994 </F>
-<F P=104>  Hong Kong HONGKONG STANDARD </F>
+<F P="103"> HK2502100994 </F>
+<F P="104">  Hong Kong HONGKONG STANDARD </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "The Future Is All That Matters"] </F>
+<F P="106"> [Editorial: "The Future Is All That Matters"] </F>
   [Text] Now we know all about it. All the nitty-gritty of 
 17 rounds of Sino-British talks over eight months ending with 
 barriers lowered on 30 June, 1997. No more through train, no 
@@ -2252,20 +2253,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> HONG KONG </F>
+<F P="100"> HONG KONG </F>
 <H3> <TI>   Editorial Sees `Hope' on Sino-British Cooperation </TI></H3>
-<F P=102>  HK2702084194 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
+<F P="102">  HK2702084194 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
 English 27 Feb 94 p 16 </F>
 
-<F P=103> HK2702084194 </F>
-<F P=104>  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
+<F P="103"> HK2702084194 </F>
+<F P="104">  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial:"Encouraging Signs"] </F>
+<F P="106"> [Editorial:"Encouraging Signs"] </F>
   [Text] It may be too early, but so far the signs are 
 encouraging. Incredible as it might seem, if the past few days 
 are any indication, Beijing looks like it has drawn a line under 
@@ -2313,20 +2314,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> HONG KONG </F>
+<F P="100"> HONG KONG </F>
 <H3> <TI>   Editorial Praises Legislators' Approval of Reforms </TI></H3>
-<F P=102>  HK2502100094 Hong Kong SOUTH CHINA MORNING POST in English 
+<F P="102">  HK2502100094 Hong Kong SOUTH CHINA MORNING POST in English 
 25 Feb 94 p 32 </F>
 
-<F P=103> HK2502100094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="103"> HK2502100094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Editorial: "Momentous Days"] </F>
+<F P="106"> [Editorial: "Momentous Days"] </F>
   [Text] These are truly momentous days in Hong Kong. In 
 spite of angry fist-shaking from that powerful neighbour across 
 the border -- and future sovereign -- the Legislative Council 
@@ -2423,11 +2424,11 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> HONG KONG </F>
+<F P="100"> HONG KONG </F>
 <H3> <TI>   Hong Kong Economic Report 18 Feb-4 Mar </TI></H3>
-<F P=102>  HK0403114494 </F>
-<F P=103> HK0403114494 </F>
-<F P=104></F>
+<F P="102">  HK0403114494 </F>
+<F P="103"> HK0403114494 </F>
+<F P="104"></F>
 
 
 
@@ -2561,17 +2562,17 @@ and 22.5 percent respectively. The joint venture has a 20-year
 operating franchise for the plant. (Hong Kong HSIN PAO in 
 Chinese 1 Mar 94 p 5) 
 <H3>  Mainland Firms Sell Stake in Container Terminal to Swire, 
-P&amp;O </H3>
+P amp;O </H3>
   The China Merchants and Steam Navigation Company and the 
 China Ocean Shipping Company (COSCO) have sold 50 percent of 
-their shares in Shekou Container Terminal (SCT) to P&amp;O and 
+their shares in Shekou Container Terminal (SCT) to P amp;O and 
 Hong 
 Kong's Swire Group for HK$615 million. From 28 February, SCT 
-will be directly managed by the British-owned P&amp;O. A 
+will be directly managed by the British-owned P amp;O. A 
 spokesman 
 for SCT said that the transaction was aimed at introducing 
 advanced foreign management and technology to position SCT for 
-the development of a market economy. P&amp;O and Swire each hold 
+the development of a market economy. P amp;O and Swire each hold 
 25 
 percent and China Merchants and COSCO have 32.5 percent and 17.5 
 percent respectively. SCT maintains regular international 
@@ -2662,11 +2663,11 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> HONG KONG </F>
+<F P="100"> HONG KONG </F>
 <H3> <TI>   Hong Kong Economic Report 5-19 Mar </TI></H3>
-<F P=102>  HK1903044094 </F>
-<F P=103> HK1903044094 </F>
-<F P=104></F>
+<F P="102">  HK1903044094 </F>
+<F P="103"> HK1903044094 </F>
+<F P="104"></F>
 
 
 
@@ -2838,26 +2839,26 @@ CHINA MORNING POST (BUSINESS POST) in English 8 Mar 94 p 3)
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   12 September 1993 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   On the Installed Capacity of the Three Gorges Hydropower Project </TI></H3>
-<F P=102>  946B0010A Beijing SHUILI FADIAN [WATER POWER] in Chinese No 
+<F P="102">  946B0010A Beijing SHUILI FADIAN [WATER POWER] in Chinese No 
 9, 12 Sep 93 pp 23-25 </F>
 
-<F P=103> 946B0010A </F>
-<F P=104>  Beijing SHUILI FADIAN [WATER POWER] </F>
+<F P="103"> 946B0010A </F>
+<F P="104">  Beijing SHUILI FADIAN [WATER POWER] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wang Yongzhi [3769 3057 2535] of the Beijing </F>
+<F P="106"> [Article by Wang Yongzhi [3769 3057 2535] of the Beijing </F>
 Thermal Power Corporation] 
   [Excerpts] 
 <H5>  Abstract </H5>
@@ -3158,26 +3159,26 @@ vital importance.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   12 November 1993 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   Speeding Up Work To Establish Jinsha Jiang Hydropower Base </TI></H3>
-<F P=102>  946B0035A Beijing SHUILI FADIAN [WATER POWER] in Chinese No 
+<F P="102">  946B0035A Beijing SHUILI FADIAN [WATER POWER] in Chinese No 
 11, 12 Nov 93 pp 3-8 </F>
 
-<F P=103> 946B0035A </F>
-<F P=104>  Beijing SHUILI FADIAN [WATER POWER] </F>
+<F P="103"> 946B0035A </F>
+<F P="104">  Beijing SHUILI FADIAN [WATER POWER] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wang Xinmao [3769 0207 5399] of the Water </F>
+<F P="106"> [Article by Wang Xinmao [3769 0207 5399] of the Water </F>
 Conservancy and Hydropower Planning and Design Academy] 
   [Text] 
 <H5>  Abstract </H5>
@@ -3244,7 +3245,7 @@ Jinanqiao instead of Zhili and at Yanke instead of Hongmenkou.
 The accompanying table illustrates that this development project 
 will result in tremendous benefits. 
 
-<FIG ID=JPRS-CEN-002C-16A>           Figure 1. Plane View of Cascade Development of the Jinsha Jiang </FIG>
+<FIG ID="JPRS-CEN-002C-16A">           Figure 1. Plane View of Cascade Development of the Jinsha Jiang </FIG>
 
 
 
@@ -3252,7 +3253,7 @@ will result in tremendous benefits.
 
 
 
-<FIG ID=JPRS-CEN-002C-17A>           Figure 2. Cross-Section of Cascade Development of the Jinsha Jiang </FIG>
+<FIG ID="JPRS-CEN-002C-17A">           Figure 2. Cross-Section of Cascade Development of the Jinsha Jiang </FIG>
 
 
 
@@ -3665,24 +3666,24 @@ eastward. The Jinsha Jiang Hydropower Base will be completed by
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   11 December 1993 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   River Successfully Blocked at Ertan Site </TI></H3>
-<F P=102>  946B0039A Chengdu SICHUAN RIBAO in Chinese 11 Dec 93 p 1 </F>
-<F P=103> 946B0039A </F>
-<F P=104>  Chengdu SICHUAN RIBAO </F>
+<F P="102">  946B0039A Chengdu SICHUAN RIBAO in Chinese 11 Dec 93 p 1 </F>
+<F P="103"> 946B0039A </F>
+<F P="104">  Chengdu SICHUAN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporters Xia Guangping [1115 0342 1627] and </F>
+<F P="106"> [Article by reporters Xia Guangping [1115 0342 1627] and </F>
 Xiang Rong [7639 2837]: "River Successfully Blocked at Ertan 
 Hydroelectric Station Site] 
   [Excerpts] Panzhihua, 10 Dec -- Today the river was 
@@ -3722,26 +3723,26 @@ accumulated for use in Sichuan's hydroelectric power development.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   19 January 1994 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   First Unit of Big Daguang Hub Project Joins Grid </TI></H3>
-<F P=102>  946B0043A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0043A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 19 Jan 94 p 1 </F>
 
-<F P=103> 946B0043A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0043A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Bao Hongjun [7637 3163 0193]] </F>
+<F P="106"> [Article by reporter Bao Hongjun [7637 3163 0193]] </F>
   [Text] Haikou, 18 Jan -- The Hainan Provincial Electric 
 Power Bureau and Daguangba Power Plant Construction Directorate 
 jointly announced that the No. 1 unit of the Daguangba water 
@@ -3775,23 +3776,23 @@ technology in design and construction.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   10 November 1993 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   Work Begins on Daheko Hydropower Station </TI></H3>
-<F P=102>  94P60069A Chengdu SICHUAN JINGJI RIBAO in Chinese 10 Nov 93 
+<F P="102">  94P60069A Chengdu SICHUAN JINGJI RIBAO in Chinese 10 Nov 93 
 p 1 </F>
 
-<F P=103> 94P60069A </F>
-<F P=104>  Chengdu SICHUAN JINGJI RIBAO </F>
+<F P="103"> 94P60069A </F>
+<F P="104">  Chengdu SICHUAN JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] Work on the main portion of the Daheko hydropower 
@@ -3816,23 +3817,23 @@ kilowatt-hours of electricity a year.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   17 December 1993 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   3 Million Kilowatts in Added Hydropower Capacity in 1993 </TI></H3>
-<F P=102>  94P60073A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  94P60073A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 17 Dec 93 p 1 </F>
 
-<F P=103> 94P60073A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 94P60073A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] At 2357 hours on 15 December, the Tongjiezi 
@@ -3857,21 +3858,21 @@ kilowatts in added capacity for the year.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   1 January 1994 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   Newly Installed Hydropower Capacity Sets Record </TI></H3>
-<F P=102>  94P60113 Beijing RENMIN RIBAO in Chinese 1 Jan 94 p 1 </F>
-<F P=103> 94P60113 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  94P60113 Beijing RENMIN RIBAO in Chinese 1 Jan 94 p 1 </F>
+<F P="103"> 94P60113 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] In 1993, China's newly installed hydroelectric 
@@ -3898,21 +3899,21 @@ the United States, the former Soviet Union, and Canada.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   Update on Three Gorges Bidding </TI></H3>
-<F P=102>  94P60145 Shanghai JIEFANG RIBAO in Chinese 1 Feb 94 p 5 </F>
-<F P=103> 94P60145 </F>
-<F P=104>  Shanghai JIEFANG RIBAO </F>
+<F P="102">  94P60145 Shanghai JIEFANG RIBAO in Chinese 1 Feb 94 p 5 </F>
+<F P="103"> 94P60145 </F>
+<F P="104">  Shanghai JIEFANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] In mid-January, a meeting to solicit bids on the 
@@ -3947,21 +3948,21 @@ begin in March.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   150,000-Kilowatt Station To Be Built in Antu County, Jilin </TI></H3>
-<F P=102>  94P60151 Changchun JILIN RIBAO in Chinese 12 Jan 94 p 1 </F>
-<F P=103> 94P60151 </F>
-<F P=104>  Changchun JILIN RIBAO </F>
+<F P="102">  94P60151 Changchun JILIN RIBAO in Chinese 12 Jan 94 p 1 </F>
+<F P="103"> 94P60151 </F>
+<F P="104">  Changchun JILIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] Recently, a meeting of the State Planning Commission 
@@ -3984,21 +3985,21 @@ products, and tourism.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   17 February 1994 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   Construction Due To Start on Longtan Station </TI></H3>
-<F P=102>  40100038A Beijing CHINA DAILY in English 17 Feb 94 p 1 </F>
-<F P=103> 40100038A </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102">  40100038A Beijing CHINA DAILY in English 17 Feb 94 p 1 </F>
+<F P="103"> 40100038A </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
   [Excerpt] Nanning (Xinhua)--Construction is due to start on 
@@ -4037,26 +4038,26 @@ provided in the form of World Bank loans, the chairman said.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   27 January 1994 </DATE1>
-<F P=100> HYDROPOWER </F>
+<F P="100"> HYDROPOWER </F>
 <H3> <TI>   Foreign Firms Sign $10 Million Three Gorges Deal </TI></H3>
-<F P=102>  94FE0343B Beijing CHINA DAILY (Economics/Business) in 
+<F P="102">  94FE0343B Beijing CHINA DAILY (Economics/Business) in 
 English 27 Jan 94 p 2 </F>
 
-<F P=103> 94FE0343B </F>
-<F P=104>  Beijing CHINA DAILY (Economics/Business) </F>
+<F P="103"> 94FE0343B </F>
+<F P="104">  Beijing CHINA DAILY (Economics/Business) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Xie Songxin] </F>
+<F P="106"> [Article by Xie Songxin] </F>
   [Text] Five foreign companies yesterday signed the first 
 contracts to supply construction equipment to the giant Three 
 Gorges hydro-electric power project on the Yangtze River. 
@@ -4128,26 +4129,26 @@ Electrical of Russia.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   6 January 1994 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   China Huaneng `Trying Every Means' To Attract Foreign Funds </TI></H3>
-<F P=102>  40100028B Beijing CHINA DAILY (Economics and Business) in 
+<F P="102">  40100028B Beijing CHINA DAILY (Economics and Business) in 
 English 6 Jan 94 p 2 </F>
 
-<F P=103> 40100028B </F>
-<F P=104>  Beijing CHINA DAILY (Economics and Business) </F>
+<F P="103"> 40100028B </F>
+<F P="104">  Beijing CHINA DAILY (Economics and Business) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Chang Weimin: "Energy Group Eyes More Funds"] </F>
+<F P="106"> [Article by Chang Weimin: "Energy Group Eyes More Funds"] </F>
   [Text] The China Huaneng Group, a prototype for Chinese 
 State-run enterprises, has launched an ambitious overseas 
 expansion. 
@@ -4222,24 +4223,24 @@ past five years.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   4 December 1993 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   Sichuan Dongfang Turbine Plant Working on Nation's Largest Thermal Power Equipment </TI></H3>
-<F P=102>  946B0033C Chengdu SICHUAN RIBAO in Chinese 4 Dec 93 p 3 </F>
-<F P=103> 946B0033C </F>
-<F P=104>  Chengdu SICHUAN RIBAO </F>
+<F P="102">  946B0033C Chengdu SICHUAN RIBAO in Chinese 4 Dec 93 p 3 </F>
+<F P="103"> 946B0033C </F>
+<F P="104">  Chengdu SICHUAN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wei Tao [7614 3447]] </F>
+<F P="106"> [Article by Wei Tao [7614 3447]] </F>
   [Text] Recently the Dongfang Turbine Plant in Sichuan 
 formally began experimental manufacture of the first 
 Sino-Japanese designed 600MW turbogenerator, the largest piece 
@@ -4285,24 +4286,24 @@ century.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   16 December 1993 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   State Council Approves Construction of 1200MW Shanxi Plant </TI></H3>
-<F P=102>  946B0041A Taiyuan SHANXI RIBAO in Chinese 16 Dec 93 p 1 </F>
-<F P=103> 946B0041A </F>
-<F P=104>  Taiyuan SHANXI RIBAO </F>
+<F P="102">  946B0041A Taiyuan SHANXI RIBAO in Chinese 16 Dec 93 p 1 </F>
+<F P="103"> 946B0041A </F>
+<F P="104">  Taiyuan SHANXI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Niu Tingxiang [3662 1694 4161] and Bi Suoming </F>
+<F P="106"> [Article by Niu Tingxiang [3662 1694 4161] and Bi Suoming </F>
 [5643 6906 2494]] 
   [Text] The so-called "spigot" project for the national key 
 industry and mining development zone in Shanxi, the Liulin power 
@@ -4364,21 +4365,21 @@ requirements and grading of the site are basically completed.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   23 November 1993 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   Huangjuezhuang No. 1 Unit Joins Grid </TI></H3>
-<F P=102>  94P60078A Chengdu SICHUAN RIBAO in Chinese 23 Nov 93 p 1 </F>
-<F P=103> 94P60078A </F>
-<F P=104>  Chengdu SICHUAN RIBAO </F>
+<F P="102">  94P60078A Chengdu SICHUAN RIBAO in Chinese 23 Nov 93 p 1 </F>
+<F P="103"> 94P60078A </F>
+<F P="104">  Chengdu SICHUAN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] On 21 November, the 200-kilowatt No. 1 generator of 
@@ -4409,21 +4410,21 @@ generating power by June 1994.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   4 February 1994 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   State Council Approves Feasibility Report for Dalad Second Stage </TI></H3>
-<F P=102>  94P60133A Hohhot NEIMENGGU RIBAO in Chinese 4 Feb 94 p 1 </F>
-<F P=103> 94P60133A </F>
-<F P=104>  Hohhot NEIMENGGU RIBAO </F>
+<F P="102">  94P60133A Hohhot NEIMENGGU RIBAO in Chinese 4 Feb 94 p 1 </F>
+<F P="103"> 94P60133A </F>
+<F P="104">  Hohhot NEIMENGGU RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] The State Council has approved the feasibility 
@@ -4445,21 +4446,21 @@ added in the second phase of construction.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   23 January 1994 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   Work on Southwest's Largest Thermal Power Plant Begins </TI></H3>
-<F P=102>  94P60135 Beijing RENMIN RIBAO in Chinese 23 Jan 94 p 1 </F>
-<F P=103> 94P60135 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  94P60135 Beijing RENMIN RIBAO in Chinese 23 Jan 94 p 1 </F>
+<F P="103"> 94P60135 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] On 18 January [1994], work began on the first phase 
@@ -4483,23 +4484,23 @@ approximately 2.4 billion yuan.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   Work Proceeding on Jiangxi's Fengcheng Power Plant </TI></H3>
-<F P=102>  94P60137 Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
+<F P="102">  94P60137 Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
 23 Feb 94 p 3 </F>
 
-<F P=103> 94P60137 </F>
-<F P=104>  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
+<F P="103"> 94P60137 </F>
+<F P="104">  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] The foundation for the Fengcheng power plant, 
@@ -4526,23 +4527,23 @@ electricity a year.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   25 February 1994 </DATE1>
-<F P=100> THERMAL POWER </F>
+<F P="100"> THERMAL POWER </F>
 <H3> <TI>   Zhejiang, Hong Kong Sign Agreement for 2400MW Power Plant </TI></H3>
-<F P=102>  94P60148B Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
+<F P="102">  94P60148B Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
 25 Feb 94 p 2 </F>
 
-<F P=103> 94P60148B </F>
-<F P=104>  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
+<F P="103"> 94P60148B </F>
+<F P="104">  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] The fourth joint agreement with a foreign interest 
@@ -4572,24 +4573,24 @@ Hong Kong side and will also participate in the project.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   26 November 1993 </DATE1>
-<F P=100> COAL </F>
+<F P="100"> COAL </F>
 <H3> <TI>   Zhejiang Signs Agreement on Big 2400MW Coal-Fired Plant </TI></H3>
-<F P=102>  946B0034D Hangzhou ZHEJIANG RIBAO in Chinese 26 Nov 93 p 1 </F>
-<F P=103> 946B0034D </F>
-<F P=104>  Hangzhou ZHEJIANG RIBAO </F>
+<F P="102">  946B0034D Hangzhou ZHEJIANG RIBAO in Chinese 26 Nov 93 p 1 </F>
+<F P="103"> 946B0034D </F>
+<F P="104">  Hangzhou ZHEJIANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Chen Zhigao [7115 1807 7559]] </F>
+<F P="106"> [Article by reporter Chen Zhigao [7115 1807 7559]] </F>
   [Text] The signing ceremony for the "Agreement for 
 Cooperative Development of the Yinghua Power Plant at Ningbo, 
 Zhejiang Province" was held on 26 November. The Chief of the 
@@ -4643,24 +4644,24 @@ be formally up and running in 1999.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   8 December 1993 </DATE1>
-<F P=100> COAL </F>
+<F P="100"> COAL </F>
 <H3> <TI>   Work Begins on Haishiwan -- Gansu's Largest Mineshaft Project </TI></H3>
-<F P=102>  946B0041B Lanzhou GANSU RIBAO in Chinese 8 Dec 93 p 1 </F>
-<F P=103> 946B0041B </F>
-<F P=104>  Lanzhou GANSU RIBAO </F>
+<F P="102">  946B0041B Lanzhou GANSU RIBAO in Chinese 8 Dec 93 p 1 </F>
+<F P="103"> 946B0041B </F>
+<F P="104">  Lanzhou GANSU RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Zhang Kacong [1728 0595 5115]] </F>
+<F P="106"> [Article by reporter Zhang Kacong [1728 0595 5115]] </F>
   [Text] On 7 December, tens of thousands of mine 
 construction workers and local people gathered in Honggu 
 District of Lanzhou Municipality to attend the ceremony for the 
@@ -4708,26 +4709,26 @@ construction project in Gansu's coal mining history.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   8 January 1994 </DATE1>
-<F P=100> COAL </F>
+<F P="100"> COAL </F>
 <H3> <TI>   1.14 Billion Tons of Raw Coal Mined in 1993 </TI></H3>
-<F P=102>  946B0042A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 8 
+<F P="102">  946B0042A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 8 
 Jan 94 p 1 </F>
 
-<F P=103> 946B0042A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0042A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
+<F P="106"> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
   [Text] China's coal industry made new gains in reform and 
 development last year as its annual raw coal output reached 1.14 
 billion tons, 25.50 million tons more than the previous year; 16 
@@ -4793,24 +4794,24 @@ ventures and cooperative forms of coal operations.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100> COAL </F>
+<F P="100"> COAL </F>
 <H3> <TI>   Coal Industry Seeks More Foreign Investment, Technology </TI></H3>
-<F P=102>  94FE0315 Beijing CHINA DAILY in Enlgish 12 Jan 94 p 1 </F>
-<F P=103> 94FE0315 </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102">  94FE0315 Beijing CHINA DAILY in Enlgish 12 Jan 94 p 1 </F>
+<F P="103"> 94FE0315 </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Enlgish </F>
+Language: <F P="105"> Enlgish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Chang Weimin] </F>
+<F P="106"> [Article by Chang Weimin] </F>
   [Text] The coal industry is seeking foreign investment, 
 technology, and know-how as it maps out new development plans 
 for the next seven years. 
@@ -4864,23 +4865,23 @@ by train, adding to the rail bottleneck.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   7 January 1994 </DATE1>
-<F P=100> COAL </F>
+<F P="100"> COAL </F>
 <H3> <TI>   New Ideas on Boosting Coal Industry </TI></H3>
-<F P=102>  40100028A Beijing CHINA DAILY (Opinion) in English 7 Jan 94 
+<F P="102">  40100028A Beijing CHINA DAILY (Opinion) in English 7 Jan 94 
 p 4 </F>
 
-<F P=103> 40100028A </F>
-<F P=104>  Beijing CHINA DAILY (Opinion) </F>
+<F P="103"> 40100028A </F>
+<F P="104">  Beijing CHINA DAILY (Opinion) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
   [Text] China's coal industry is growing at the fastest rate 
@@ -4968,23 +4969,23 @@ producers to help improve efficiency.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   27 September 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   New Hope for Eastern Oil Industry </TI></H3>
-<F P=102>  946B0008A Beijing LIAOWANG ZHOUKAN [LIAOWANG WEEKLY] in 
+<F P="102">  946B0008A Beijing LIAOWANG ZHOUKAN [LIAOWANG WEEKLY] in 
 Chinese 27 Sep 93 p 13 </F>
 
-<F P=103> 946B0008A </F>
-<F P=104>  Beijing LIAOWANG ZHOUKAN [LIAOWANG WEEKLY] </F>
+<F P="103"> 946B0008A </F>
+<F P="104">  Beijing LIAOWANG ZHOUKAN [LIAOWANG WEEKLY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] Chengdao is a little known area near the area where 
@@ -5125,21 +5126,21 @@ between now and the advent of the next century.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   11 September 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Shaanxi-Gansu-Ningxia-to-Beijing Pipeline Project To Begin in 1994 </TI></H3>
-<F P=102>  946B0008B Beijing RENMIN RIBAO in Chinese 11 Sep 93 p 2 </F>
-<F P=103> 946B0008B </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  946B0008B Beijing RENMIN RIBAO in Chinese 11 Sep 93 p 2 </F>
+<F P="103"> 946B0008B </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] Beijing, 10 Sep, New China News Agency--(Reported by 
@@ -5192,26 +5193,26 @@ and standards required by the World Health Organization.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   16 December 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Tarim Update </TI></H3>
-<F P=102>  946B0032C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0032C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 16 Dec 93 p 1 </F>
 
-<F P=103> 946B0032C </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0032C </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Zhang Heping [1728 0149 1627]] </F>
+<F P="106"> [Article by reporter Zhang Heping [1728 0149 1627]] </F>
   [Text] Tarim oil field has received a loan of US$500 
 million from the Xinjiang Branch Bank of the Bank of China, 
 opening the way for further exploration and development of the 
@@ -5269,29 +5270,29 @@ oil field.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   21 December 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Progress in Synthetic Gasoline Project </TI></H3>
-<F P=102>  946B0033A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0033A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 21 Dec 93 p 1 </F>
 
-<F P=103> 946B0033A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0033A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Zhang Zhiren [1728 1807 0088] and </F>
+<F P="106"> [Article by reporter Zhang Zhiren [1728 1807 0088] and </F>
 correspondent Yan Santun [7051 0005 1470]] 
   [Text] The "1,000-ton prototype industrial production of 
-coal-based synthetic gasoline" key national S&amp;T project 
+coal-based synthetic gasoline" key national S amp;T project 
 undertaken by the No. 2 Chemical Fertilizer Plant in Pucheng, 
 Shanxi, is now producing oil. 
   Testing of this project still has 1,500 hours to go and the 
@@ -5331,26 +5332,26 @@ industrial test.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   21 December 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Agreement Signed with US, Japan on Tarim Oil </TI></H3>
-<F P=102>  946B0033B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0033B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 21 Dec 93 p 1 </F>
 
-<F P=103> 946B0033B </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0033B </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Zhang Heping [1728 0149 1627]] </F>
+<F P="106"> [Article by reporter Zhang Heping [1728 0149 1627]] </F>
   [Text] On 20 December at the Diaoyutai Hotel in Beijing, 
 the China National Petroleum and Natural Gas Corporation signed 
 a contract with the U.S. corporation, Sumitomo (Shangshi Zhushi 
@@ -5414,26 +5415,26 @@ area.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   12 December 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Significant Gains for Natural Gas Exploration </TI></H3>
-<F P=102>  946B0034B Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 
+<F P="102">  946B0034B Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 
 12 Dec 93 p 3 </F>
 
-<F P=103> 946B0034B </F>
-<F P=104>  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
+<F P="103"> 946B0034B </F>
+<F P="104">  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Xie Ranhao [6200 3544 3185]] </F>
+<F P="106"> [Article by reporter Xie Ranhao [6200 3544 3185]] </F>
   [Text] At a meeting recently held in Beijing, the President 
 of the China National Petroleum and Natural Gas Corporation, 
 Wang Tao, proclaimed that the string of natural gas discoveries 
@@ -5480,26 +5481,26 @@ gas bases.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   31 December 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Crude Oil Production for 1993 Sets Record; Gas Output Up </TI></H3>
-<F P=102>  946B0039C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0039C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 31 Dec 93 p 1 </F>
 
-<F P=103> 946B0039C </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0039C </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhang Chaowen [1728 6389 2429]: "Annual </F>
+<F P="106"> [Article by Zhang Chaowen [1728 6389 2429]: "Annual </F>
 Petroleum Output of 143.8 Million Tons Sets Record"] 
   [Text] NCNA, Beijing, 30 Dec -- Both China's continental 
 and offshore petroleum industries reached new plateaus, and 
@@ -5538,26 +5539,26 @@ Offshore oil and gas exploration and production also set records.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Erlian Enjoys 3 Years of Steady Output </TI></H3>
-<F P=102>  946B0042B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 5 
+<F P="102">  946B0042B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 5 
 Jan 94 p 1 </F>
 
-<F P=103> 946B0042B </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0042B </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Han Yuantao [7281 0337 3447]] </F>
+<F P="106"> [Article by Han Yuantao [7281 0337 3447]] </F>
   [Text] Erlian oil field, recipient of a "Seventh 5)Year 
 Plan" national quality engineering project award, went into 
 operation in late 1989, one year ahead of schedule, and by the 
@@ -5596,26 +5597,26 @@ Toloi, Inner Mongolia.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   7 January 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Output at Daqing Sets Record </TI></H3>
-<F P=102>  946B0042C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 7 
+<F P="102">  946B0042C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 7 
 Jan 94 p 2 </F>
 
-<F P=103> 946B0042C </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0042C </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Xun Peiwen [6737 1014 2429]] </F>
+<F P="106"> [Article by Xun Peiwen [6737 1014 2429]] </F>
   [Text] China's largest oil field, Daqing oil field, 
 produced 55.9019 million tons of crude oil last year, an over 
 production of 501,900 tons, setting its highest level of 
@@ -5651,23 +5652,23 @@ level can be maintained until the year 2000.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   19 January 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Sichuan Natural Gas Production Sets Record </TI></H3>
-<F P=102>  946B0043B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0043B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 19 Jan 94 p 2 </F>
 
-<F P=103> 946B0043B </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0043B </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] Sichuan Province, China's largest natural gas 
@@ -5696,26 +5697,26 @@ reserves.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   18 January 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Onshore Petroleum Production Update </TI></H3>
-<F P=102>  946B0043C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0043C Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 18 Jan 94 p 1 </F>
 
-<F P=103> 946B0043C </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0043C </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
+<F P="106"> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
   [Text] Beijing, 17 Jan -- President of the China National 
 Petroleum and Natural Gas Corporation, Wang Tao, has announced 
 that foreign cooperation in onshore oil will be expanded and the 
@@ -5757,26 +5758,26 @@ developing oil.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   19 January 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Offshore Oil Production Registers Solid Gains </TI></H3>
-<F P=102>  946B0043D Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0043D Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 19 Jan 94 p 1 </F>
 
-<F P=103> 946B0043D </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0043D </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
+<F P="106"> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
   [Text] Last year, China's offshore crude oil production was 
 4.63 million tons, an increase of 760,000 tons over the previous 
 year, earning a total of US$600 million, a 20 percent increase 
@@ -5820,24 +5821,24 @@ for foreign corporations.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   16 December 1993 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   $500 Loan for Tarim `Special Equipment,' Desert Transport Vehicles </TI></H3>
-<F P=102>  946B0044B Urumqi XINJIANG RIBAO in Chinese 16 Dec 93 p 1 </F>
-<F P=103> 946B0044B </F>
-<F P=104>  Urumqi XINJIANG RIBAO </F>
+<F P="102">  946B0044B Urumqi XINJIANG RIBAO in Chinese 16 Dec 93 p 1 </F>
+<F P="103"> 946B0044B </F>
+<F P="104">  Urumqi XINJIANG RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Yang Shenglong [2799 3932 7893]] </F>
+<F P="106"> [Article by reporter Yang Shenglong [2799 3932 7893]] </F>
   [Text] On 15 December, a ceremony was held in Beijing for 
 the signing of an agreement between the Xinjiang Uygur 
 Autonomous Region Branch Bank of the Bank of China and the Tarim 
@@ -5874,23 +5875,23 @@ schedule.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   7 February 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Arco Looking at Opportunities for Onshore Operations </TI></H3>
-<F P=102>  40100034 Beijing CHINA DAILY (Economics/Business) in English 
+<F P="102">  40100034 Beijing CHINA DAILY (Economics/Business) in English 
 7 Feb 94 p 2 </F>
 
-<F P=103> 40100034 </F>
-<F P=104>  Beijing CHINA DAILY (Economics/Business) </F>
+<F P="103"> 40100034 </F>
+<F P="104">  Beijing CHINA DAILY (Economics/Business) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
   [Text] United States oil firm Atlantic Richfield Company 
@@ -5943,21 +5944,21 @@ the world.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   16 February 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Surveys Pave Way for Oil and Gas Exploration in South China Sea </TI></H3>
-<F P=102>  40100037 Beijing CHINA DAILY in English 16 Feb 94 p 1 </F>
-<F P=103> 40100037 </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102">  40100037 Beijing CHINA DAILY in English 16 Feb 94 p 1 </F>
+<F P="103"> 40100037 </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
   [Text] A geophysical survey of the southern part of the 
@@ -5991,21 +5992,21 @@ area. (CD News)
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   17 February 1994 </DATE1>
-<F P=100> OIL, GAS </F>
+<F P="100"> OIL, GAS </F>
 <H3> <TI>   Gas Field Construction on Schedule </TI></H3>
-<F P=102>  40100038B Beijing CHINA DAILY in English 17 Feb 94 p 2 </F>
-<F P=103> 40100038B </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102">  40100038B Beijing CHINA DAILY in English 17 Feb 94 p 2 </F>
+<F P="103"> 40100038B </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
   [Text] About one-fourth of the construction on China's 
@@ -6039,26 +6040,26 @@ and Norway. (CD News)
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   15 October 1993 </DATE1>
-<F P=100> NUCLEAR POWER </F>
+<F P="100"> NUCLEAR POWER </F>
 <H3> <TI>   Report on First Run-Up of Qinshan Turbine Generator </TI></H3>
-<F P=102>  946B0028A Beijing DONGLI GONGCHENG [POWER ENGINEERING] in 
+<F P="102">  946B0028A Beijing DONGLI GONGCHENG [POWER ENGINEERING] in 
 Chinese Vol 13 No 7, 15 Oct 93 pp 1-8 </F>
 
-<F P=103> 946B0028A </F>
-<F P=104>  Beijing DONGLI GONGCHENG [POWER ENGINEERING] </F>
+<F P="103"> 946B0028A </F>
+<F P="104">  Beijing DONGLI GONGCHENG [POWER ENGINEERING] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ouyang Yu [2962 7122 0056] and Qian Juexin [6929 </F>
+<F P="106"> [Article by Ouyang Yu [2962 7122 0056] and Qian Juexin [6929 </F>
 6030 2450] of the Shanghai Nuclear Engineering Research and 
 Design Institute: "Technical Features of First Run-Up Test of 
 Turbine-Generator Unit at the Qinshan Nuclear Power Plant"] 
@@ -6082,7 +6083,7 @@ Power Plant </H3>
 consists of the following three groups: the pressurized-water 
 reactor, the primary loop system, and the secondary loop system. 
 The parameters of the reactor and the reactor coolant system 
-are: working pressure, 15.2 MPa; average temperature, 302ëC; 
+are: working pressure, 15.2 MPa; average temperature, 302ï¿½C; 
 rated flow, 24,000 tons per hour (t/h); rated reactor thermal 
 power, 966 MW; and is projected to reach 1035 MW. For the 
 secondary loop system the parameters are: rated steam flow, 1870 
@@ -6277,7 +6278,7 @@ speed and to maintain a steady operation.
   The main system of the primary loop utilizes the heat from 
 two reactor coolant pumps and the electric heating elements of 
 the pressurizer to raise the system temperature and pressure 
-from room condition to 280ëC and 15.2 MPa as well as to 
+from room condition to 280ï¿½C and 15.2 MPa as well as to 
 maintain normal operation under these parameters. At this time, 
 the steam pressure in the steam generator is 6.32 MPa. Due to 
 the fact that the input energy of the main pump is far smaller 
@@ -6296,8 +6297,8 @@ MPa; the lowest, 2.94 MPa.
   The lowest liquid level of the pressurizer is 2.5m. 
   The initial pressure of the pressurizer is 15.2 MPa; the 
 lowest, 11.27 MPa. 
-  The initial temperature of the system is 280ëC; the 
-lowest, 235ëC. 
+  The initial temperature of the system is 280ï¿½C; the 
+lowest, 235ï¿½C. 
 <H5>  4.2.2.2 Calculation of Main System Energy Output </H5>
   Heat released by the two main pumps running continuously 
 (Q[.sup]p[/]): 
@@ -6354,12 +6355,12 @@ necessary to replenish water to the main system during the
 run-up. 
   Based on the heat engineering calculation, the temperature 
 of 
-the reactor coolant drops from 280ëC to 235ëC; and the 
+the reactor coolant drops from 280ï¿½C to 235ï¿½C; and the 
 pressure, from 15.2 MPa to 11.27 MPa. The changing of the 
 coolant density causes the change of total water volume in the 
 main system, namely, the liquid level in the pressurizer drops. 
 
-<FIG ID=JPRS-CEN-002C-39A>           Formula </FIG>
+<FIG ID="JPRS-CEN-002C-39A">           Formula </FIG>
 
 
 
@@ -6392,7 +6393,7 @@ operation. Each boiler supplies steam at the rate of 10t/h with
 1.27 MPa pressure. For the run-up, the steam pipeline is 
 realigned in such a way that the boiler steam can flow directly 
 
-<FIG ID=JPRS-CEN-002C-39B>           Figure 1. Steam System Flow Diagram of Qinshan Nuclear Power Plant </FIG>
+<FIG ID="JPRS-CEN-002C-39B">           Figure 1. Steam System Flow Diagram of Qinshan Nuclear Power Plant </FIG>
 
 to the starting air extractors. At the same time, the boiler 
 steam is also used as heating steam for the de-oxygen device in 
@@ -6460,7 +6461,7 @@ nuclear power plant reached satisfactory starting state and the
 major parameters of the main system were attained: outlet steam 
 pressure and liquid level of the steam generator, 5.25 MPa and 
 11.81m, respectively; average temperature of the main system, 
-283ëC; as well as pressure and liquid level of the 
+283ï¿½C; as well as pressure and liquid level of the 
 pressurizer, 15.2 MPa and 8.5m, respectively. 
   1914: The bypass valve of the steam isolation valve was 
 opened first. When the steam pressure was equalized, the main 
@@ -6499,8 +6500,8 @@ cooling device in the low-pressure cylinder must close
 automatically. 
   The rotor vibration indicator is switched to an eccentric 
 recorder. 
-  The oil temperature controller is re-set from 45ëC to 
-30ëC. 
+  The oil temperature controller is re-set from 45ï¿½C to 
+30ï¿½C. 
   When the speed drops to 200 rpm, the upper shaft oil pump 
 must start automatically. 
   When the speed reaches 0 rpm, the rolling gear starts 
@@ -6550,17 +6551,17 @@ a normal event.
 generator not only saves capital investment cost, but also 
 brings new experience to nuclear power construction in China. 
 
-<FIG ID=JPRS-CEN-002C-41A>           Figure 2. Speed Increasing and Idling of Turbine-Generator Unit </FIG>
+<FIG ID="JPRS-CEN-002C-41A">           Figure 2. Speed Increasing and Idling of Turbine-Generator Unit </FIG>
 
-<FIG ID=JPRS-CEN-002C-41B>           Figure 3. Temperature vs. Time of Coolant in Main System </FIG>
+<FIG ID="JPRS-CEN-002C-41B">           Figure 3. Temperature vs. Time of Coolant in Main System </FIG>
 
-<FIG ID=JPRS-CEN-002C-41C>           Figure 4. Pressure and Liquid Level in Pressurizer vs. Time </FIG>
-
-
-<FIG ID=JPRS-CEN-002C-42A>           Figure 5. Pressure and Liquid Level at Outlet of Steam Generator vs. Time </FIG>
+<FIG ID="JPRS-CEN-002C-41C">           Figure 4. Pressure and Liquid Level in Pressurizer vs. Time </FIG>
 
 
-<FIG ID=JPRS-CEN-002C-42B>           Figure 6. Measured Values for Rotor Critical Speed of Turbine-Generator Unit </FIG>
+<FIG ID="JPRS-CEN-002C-42A">           Figure 5. Pressure and Liquid Level at Outlet of Steam Generator vs. Time </FIG>
+
+
+<FIG ID="JPRS-CEN-002C-42B">           Figure 6. Measured Values for Rotor Critical Speed of Turbine-Generator Unit </FIG>
 
 
 
@@ -6577,26 +6578,26 @@ brings new experience to nuclear power construction in China.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   17 December 1993 </DATE1>
-<F P=100> NUCLEAR POWER </F>
+<F P="100"> NUCLEAR POWER </F>
 <H3> <TI>   Easing of Energy Crunch: 20 Million Kilowatts of Nuclear Power by 2020 </TI></H3>
-<F P=102>  946B0032A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0032A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 17 Dec 93 p 1 </F>
 
-<F P=103> 946B0032A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0032A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporters Gao Xinghua 7559 5280 5478] and Li </F>
+<F P="106"> [Article by reporters Gao Xinghua 7559 5280 5478] and Li </F>
 Guoli [2621 0948 0448]] 
   [Text] Qinshan, 16 Dec (XINHUA) -- China will develop 
 nuclear power on many fronts, and within 20 to 30 years will 
@@ -6651,26 +6652,26 @@ nuclear power arena hasn't been decided yet.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   16 December 1993 </DATE1>
-<F P=100> NUCLEAR POWER </F>
+<F P="100"> NUCLEAR POWER </F>
 <H3> <TI>   Qinshan Ahead of Schedule in Output </TI></H3>
-<F P=102>  946B0032B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  946B0032B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 16 Dec 93 p 1 </F>
 
-<F P=103> 946B0032B </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0032B </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Han Zhenjun [7281 2102 6511] and </F>
+<F P="106"> [Article by reporter Han Zhenjun [7281 2102 6511] and </F>
 correspondent Su Yi [5685 1837] 
   [Text] Qinshan, 15 Dec (XINHUA) -- Since joining the grid 
 in 1991, the Qinshan nuclear power plant, China's first 
@@ -6717,24 +6718,24 @@ Qinshan nuclear power plant is clean, safe, and economical.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   16 December 1993 </DATE1>
-<F P=100> NUCLEAR POWER </F>
+<F P="100"> NUCLEAR POWER </F>
 <H3> <TI>   Qinshan Exceeding Plan in Power Output </TI></H3>
-<F P=102>  946B0037B Beijing RENMIN RIBAO in Chinese 16 Dec 93 p 1 </F>
-<F P=103> 946B0037B </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  946B0037B Beijing RENMIN RIBAO in Chinese 16 Dec 93 p 1 </F>
+<F P="103"> 946B0037B </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporters Wen Hongyan [3306 4767 1750] and Zhang </F>
+<F P="106"> [Article by reporters Wen Hongyan [3306 4767 1750] and Zhang </F>
 Youxin [1728 0645 2450]] 
   [Text] Haiyan, 15 Dec -- The Qinshan nuclear power plant, 
 China's first domestically designed and built nuclear power 
@@ -6774,25 +6775,25 @@ at the state-set limit (70,000 Curies) of one to 100,000 parts.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   21 January 1994 </DATE1>
-<F P=100> NUCLEAR POWER </F>
+<F P="100"> NUCLEAR POWER </F>
 <H3> <TI>   Work Progressing on AC-600 Advanced Pressurized-Water Reactor </TI></H3>
-<F P=102>  94P60130 Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
+<F P="102">  94P60130 Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
 in Chinese 21 Jan 94 p 1 </F>
 
-<F P=103> 94P60130 </F>
-<F P=104>  Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
+<F P="103"> 94P60130 </F>
+<F P="104">  Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
 in Chinese 21 Jan 94 p 1 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
   [Summary] The Nuclear Power Institute of China (NPIC) has 
@@ -6806,7 +6807,7 @@ this area is restricted by the industrial base and by the
 State's financial resources. As a result, the State hopes to 
 develop a next-generation PWR that will be safer, simpler, and 
 more economical. 
-  Since 1986, experts and S&amp;T personnel from NPIC have 
+  Since 1986, experts and S amp;T personnel from NPIC have 
 learned 
 from China's successful nuclear power research and design and 
 have intensely followed the leading edge technologies of 
@@ -6844,26 +6845,26 @@ PWR power plant in the year 2000.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   29 December 1993 </DATE1>
-<F P=100> NUCLEAR POWER </F>
+<F P="100"> NUCLEAR POWER </F>
 <H3> <TI>   Fueling Growth With Nuclear Power </TI></H3>
-<F P=102>  40100023A Beijing CHINA DAILY (Economics and Business) in 
+<F P="102">  40100023A Beijing CHINA DAILY (Economics and Business) in 
 English 29 Dec 93 p 2 </F>
 
-<F P=103> 40100023A </F>
-<F P=104>  Beijing CHINA DAILY (Economics and Business) </F>
+<F P="103"> 40100023A </F>
+<F P="104">  Beijing CHINA DAILY (Economics and Business) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by staff reporter Liu Weiling] </F>
+<F P="106"> [Article by staff reporter Liu Weiling] </F>
   [Text] China is speeding nuclear power plant construction 
 to fuel its dynamic economic growth. 
   By the year 2000, the country's nuclear power plants will 
@@ -6924,24 +6925,24 @@ generators.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   23 February 1994 </DATE1>
-<F P=100> NUCLEAR POWER </F>
+<F P="100"> NUCLEAR POWER </F>
 <H3> <TI>   Two More Nuclear Plants Planned for Guangdong </TI></H3>
-<F P=102>  40100039A Beijing CHINA DAILY in English 23 Feb 94 p 1 </F>
-<F P=103> 40100039A </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102">  40100039A Beijing CHINA DAILY in English 23 Feb 94 p 1 </F>
+<F P="103"> 40100039A </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zheng Caixiong] </F>
+<F P="106"> [Article by Zheng Caixiong] </F>
   [Text] Guangzhou--Guangdong officials have revealed plans 
 to build two more nuclear power plants. 
   Zhu Senlin, the provincial governor, said yesterday that 
@@ -7006,26 +7007,26 @@ designed by China.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   7 October 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Power Industry Makes Use of Foreign Loans </TI></H3>
-<F P=102>  946B0018A Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 7 
+<F P="102">  946B0018A Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 7 
 Oct 93 p 5 </F>
 
-<F P=103> 946B0018A </F>
-<F P=104>  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
+<F P="103"> 946B0018A </F>
+<F P="104">  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Xie Ranhao [6200 3544 3185]] </F>
+<F P="106"> [Article by reporter Xie Ranhao [6200 3544 3185]] </F>
   [Text] The Ministry of Electric Power made a point the 
 other day that since the advent of reforms, the Chinese electric 
 power industry has had great success in making use of foreign 
@@ -7087,26 +7088,26 @@ loans.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   26 September 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Guizhou Accelerates Energy, Transportation, Communications Construction </TI></H3>
-<F P=102>  946B0018B Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 
+<F P="102">  946B0018B Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 
 26 Sep 93 p 2 </F>
 
-<F P=103> 946B0018B </F>
-<F P=104>  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
+<F P="103"> 946B0018B </F>
+<F P="104">  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Zhang Jianming [1728 0494 7686]] </F>
+<F P="106"> [Article by reporter Zhang Jianming [1728 0494 7686]] </F>
   [Text] In order to turn Guizhou Province into an important 
 southern energy base, and hasten the economic development of the 
 people in its mountainous areas, national government 
@@ -7170,21 +7171,21 @@ by the end of the century.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   9 October 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Northwest Power Construction Enters Period of Massive Growth </TI></H3>
-<F P=102>  946B0029A Yinchuan NINGXIA RIBAO in Chinese 9 Oct 93 p 3 </F>
-<F P=103> 946B0029A </F>
-<F P=104>  Yinchuan NINGXIA RIBAO </F>
+<F P="102">  946B0029A Yinchuan NINGXIA RIBAO in Chinese 9 Oct 93 p 3 </F>
+<F P="103"> 946B0029A </F>
+<F P="104">  Yinchuan NINGXIA RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] Xi'an, 8 Oct (XINHUA) -- Last year 1,750MW of 
@@ -7255,26 +7256,26 @@ increased up to 69 billion kWh by 1995.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   6 December 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Growth in Power Sector Exceeding Strategic Targets </TI></H3>
-<F P=102>  946B0034C Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 6 
+<F P="102">  946B0034C Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 6 
 Dec 93 p 1 </F>
 
-<F P=103> 946B0034C </F>
-<F P=104>  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
+<F P="103"> 946B0034C </F>
+<F P="104">  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Xie Ranhao [6200 3544 3185]] </F>
+<F P="106"> [Article by reporter Xie Ranhao [6200 3544 3185]] </F>
   [Text] With the national economy in rapid growth, and the 
 need to meet the electric power requirements for the second 
 round of strategic economic and social targets, the Ministry of 
@@ -7322,26 +7323,26 @@ end, the national installed capacity total could reach
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   16 December 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Three Big Power Groups Set Targets for Year 2000 </TI></H3>
-<F P=102>  946B0038A Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 
+<F P="102">  946B0038A Beijing JINGJI RIBAO [ECONOMIC DAILY] in Chinese 
 16 Dec 93 p 2 </F>
 
-<F P=103> 946B0038A </F>
-<F P=104>  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
+<F P="103"> 946B0038A </F>
+<F P="104">  Beijing JINGJI RIBAO [ECONOMIC DAILY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Xia Ranhao [6200 3544 3185], Ran Wen [3544 </F>
+<F P="106"> [Article by Xia Ranhao [6200 3544 3185], Ran Wen [3544 </F>
 2429], Hao Wen [3185 2429], and Li Jumin [2621 5112 3046]: 
 "Three of the Large Power Groups Set Their Objectives for the 
 Year 2000"] 
@@ -7495,24 +7496,24 @@ output of electricity is 116.1 billion kWh.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   19 December 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Minister Outlines Path for Power Sector </TI></H3>
-<F P=102>  946B0040A Beijing RENMIN RIBAO in Chinese 19 Dec 93 pp 1,2 </F>
-<F P=103> 946B0040A </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102">  946B0040A Beijing RENMIN RIBAO in Chinese 19 Dec 93 pp 1,2 </F>
+<F P="103"> 946B0040A </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Shi Dazhen [0670 1129 2823], Minister of </F>
+<F P="106"> [Article by Shi Dazhen [0670 1129 2823], Minister of </F>
 Electric Power Industry: "Electric Power Industry Must Take 
 Extraordinary Path in Development"] 
   [Text] RENMIN RIBAO has published a series of reports 
@@ -7853,23 +7854,23 @@ met.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   25 January 1994 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Energy Production, January-November 1993 </TI></H3>
-<F P=102>  94P60126A Beijing ZHONGGUO NENGYUAN [ENERGY OF CHINA] in 
+<F P="102">  94P60126A Beijing ZHONGGUO NENGYUAN [ENERGY OF CHINA] in 
 Chinese No 1, 25 Jan 94 p 15 </F>
 
-<F P=103> 94P60126A </F>
-<F P=104>  Beijing ZHONGGUO NENGYUAN [ENERGY OF CHINA] </F>
+<F P="103"> 94P60126A </F>
+<F P="104">  Beijing ZHONGGUO NENGYUAN [ENERGY OF CHINA] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] 
@@ -7953,26 +7954,26 @@ Bureau
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   24 January 1994 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Ambitious Expansion Plans Attracting Top Foreign Equipment Manufacturers </TI></H3>
-<F P=102>  94FE0343A Beijing CHINA DAILY (Business Weekly) in English 
+<F P="102">  94FE0343A Beijing CHINA DAILY (Business Weekly) in English 
 24 Jan 94 p 8 </F>
 
-<F P=103> 94FE0343A </F>
-<F P=104>  Beijing CHINA DAILY (Business Weekly) </F>
+<F P="103"> 94FE0343A </F>
+<F P="104">  Beijing CHINA DAILY (Business Weekly) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Pei Jianfeng] </F>
+<F P="106"> [Article by Pei Jianfeng] </F>
   [Text] China is hoping that co-operation with foreign 
 engineering companies will help provide more large-capacity 
 generators to meet the country's rising demand for power. 
@@ -8039,26 +8040,26 @@ Bangladesh and Indonesia.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   13 December 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Focus on Hydro, Wind Power To Reduce Pollution </TI></H3>
-<F P=102>  40100021A Beijing CHINA DAILY (Business Weekly) in English 
+<F P="102">  40100021A Beijing CHINA DAILY (Business Weekly) in English 
 13 Dec 93 p 8 </F>
 
-<F P=103> 40100021A </F>
-<F P=104>  Beijing CHINA DAILY (Business Weekly) </F>
+<F P="103"> 40100021A </F>
+<F P="104">  Beijing CHINA DAILY (Business Weekly) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Chang Weimin: "State Vows To Reduce Pollution"] </F>
+<F P="106"> [Article by Chang Weimin: "State Vows To Reduce Pollution"] </F>
   [Text] China's power industry is to concentrate on the 
 development of resources that produce less pollution. 
   Efforts to tap hydro and wind resources will be encouraged, 
@@ -8137,21 +8138,21 @@ phase, is seeking moderate development in this sector.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   29 December 1993 </DATE1>
-<F P=100> NATIONAL DEVELOPMENTS </F>
+<F P="100"> NATIONAL DEVELOPMENTS </F>
 <H3> <TI>   Nation Needs Power Surge To Drive Growth </TI></H3>
-<F P=102>  40100023B CHINA DAILY (Opinion) in English 29 Dec 93 p 4 </F>
-<F P=103> 40100023B </F>
-<F P=104>  CHINA DAILY (Opinion) </F>
+<F P="102">  40100023B CHINA DAILY (Opinion) in English 29 Dec 93 p 4 </F>
+<F P="103"> 40100023B </F>
+<F P="104">  CHINA DAILY (Opinion) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
   [Text] China has been short of electricity for 23 years. 
@@ -8259,28 +8260,28 @@ interest.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   18 March 1994 </DATE1>
-<F P=100> NEW TECHNOLOGY </F>
+<F P="100"> NEW TECHNOLOGY </F>
 <H3> <TI>   Nickel/Metal Hydride Battery Developed </TI></H3>
-<F P=102>  94P60097A Beijing GAO JISHU TONGXUN [HIGH TECHNOLOGY 
+<F P="102">  94P60097A Beijing GAO JISHU TONGXUN [HIGH TECHNOLOGY 
 LETTERS] in Chinese, Vol 3 No 12, Dec 93 pp 1-3 </F>
 
-<F P=103> 94P60097A </F>
-<F P=104>  Beijing GAO JISHU TONGXUN [HIGH TECHNOLOGY 
+<F P="103"> 94P60097A </F>
+<F P="104">  Beijing GAO JISHU TONGXUN [HIGH TECHNOLOGY 
 LETTERS] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese, </F>
+Language: <F P="105"> Chinese, </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhang Yunshi [1728 0336 0087] and Chen Jun [7115 </F>
+<F P="106"> [Article by Zhang Yunshi [1728 0336 0087] and Chen Jun [7115 </F>
 6511] of the Institute of New Energy Materials Chemistry, Nankai 
 University, Tianjin 300071: "Research on Nickel/Metal Hydride 
 Battery," supported by grant from 863 Plan; MS received 11 Sep 
@@ -8297,7 +8298,7 @@ larger-current charging and discharging. The 863AA Ni/MH
 battery developed by the authors has the following key 
 performance indicators: nominal capacity exceeds 1000 mAh, 5-A 
 discharge-to-0.8-V average capacity exceeds 950mAh (95 percent 
-of rated capacity), low-temperature (-18ëC) 0.2-A 
+of rated capacity), low-temperature (-18ï¿½C) 0.2-A 
 discharge-to-1.0-V average capacity is 835 mAh (83 percent of 
 rated capacity), seven-day self-discharge is 15 percent, 28-day 
 self-discharge is 29 percent, and lifetime is over 500 cycles 
@@ -8334,23 +8335,23 @@ Tianjin, 1992.6.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   14 February 1994 </DATE1>
-<F P=100> POWER NETWORK </F>
+<F P="100"> POWER NETWORK </F>
 <H3> <TI>   Jiangsu Installed Capacity Exceeds 10 Million Kilowatts </TI></H3>
-<F P=102>  94P60134 Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
+<F P="102">  94P60134 Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
 14 Feb 94 p 2 </F>
 
-<F P=103> 94P60134 </F>
-<F P=104>  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
+<F P="103"> 94P60134 </F>
+<F P="104">  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] In 1993, Jiangsu Province added 2 million kilowatts 
@@ -8379,23 +8380,23 @@ from foreign investors.
 <HEADER>
 <AU>   JPRS-CEN-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>   26 February 1994 </DATE1>
-<F P=100> POWER NETWORK </F>
+<F P="100"> POWER NETWORK </F>
 <H3> <TI>   Big Growth Expected in Hainan Power Industry in 1994 </TI></H3>
-<F P=102>  94P60148A Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
+<F P="102">  94P60148A Beijing RENMIN RIBAO (OVERSEAS EDITION) in Chinese 
 26 Feb 94 p 1 </F>
 
-<F P=103> 94P60148A </F>
-<F P=104>  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
+<F P="103"> 94P60148A </F>
+<F P="104">  Beijing RENMIN RIBAO (OVERSEAS EDITION) </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] This year will see significant growth in Hainan's 
@@ -8418,28 +8419,28 @@ easing the energy shortage.
 <HEADER>
 <AU>   JPRS-CEN-94-001-L </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy Alternative Energy: Enormous Untapped Potential </ABS>
 <DATE1>   10 July 1993 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     New Energy Resources: Positions, Issues, Policies </TI></H3>
-<F P=102>  936B0114A Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="102">  936B0114A Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] in Chinese 10 Jul 93 pp 36-38 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 936B0114A </F>
-<F P=104>  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="103"> 936B0114A </F>
+<F P="104">  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yin Lian [1438 3550], senior engineer, Ministry </F>
+<F P="106"> [Article by Yin Lian [1438 3550], senior engineer, Ministry </F>
 of Electric Power Industry, Beijing: "Statutes, Issues, 
 Countermeasures--An Assessment of China's New Energy Resource 
 Strategy and a Discussion of Countermeasures"] 
@@ -8732,7 +8733,7 @@ new energy resources, and strive to make new energy resources
 account for a significant proportion of China's energy resource 
 structure by the year 2000. Moreover, we must lay a solid 
 foundation for accelerated development of commercial 
-applications of new energy resource S&amp;T in the next century 
+applications of new energy resource S amp;T in the next century 
 and 
 thereby resolve the limitations of fossil fuels and foster the 
 renewability of new energy resources. Increase the production of 
@@ -8758,7 +8759,7 @@ situation.
 energy resource circles worldwide have proposed the slogan of 
 "think globally, act locally." The member nations of the 
 International Energy Agency (IEA) are setting aside 7 percent of 
-their financial budgets for use in new energy resource R&amp;D 
+their financial budgets for use in new energy resource R amp;D 
 and 
 authorities are calling for all nations to place the work of 
 developing and utilizing new energy resources in the primary 
@@ -8826,7 +8827,7 @@ multi-directional and multiple level market while also relying
 on policies to support the development of new energy resources. 
 This is essential if China in the 21st century is to be able to 
 participate in global joint development on a foundation of 
-comprehensive and healthy development of S&amp;T, society, and 
+comprehensive and healthy development of S amp;T, society, and 
 the 
 economy. 
 
@@ -8842,28 +8843,28 @@ economy.
 <HEADER>
 <AU>   JPRS-CEN-94-001-L </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy Alternative Energy: Enormous Untapped Potential </ABS>
 <DATE1>   10 July 1993 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     State of PV Technology and China's Gap </TI></H3>
-<F P=102>  936B0114B Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="102">  936B0114B Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] in Chinese 10 Jul 93 pp 39-40--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 936B0114B </F>
-<F P=104>  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="103"> 936B0114B </F>
+<F P="104">  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Excerpts from article by Wang Sicheng [3769 2448 2052], </F>
+<F P="106"> [Excerpts from article by Wang Sicheng [3769 2448 2052], </F>
 senior engineer in the Ministry of Machine-Building and 
 Electronics Industry's Sixth Institute, Beijing: "The Current 
 State of Photovoltaic Power Generation and China's Lag"] 
@@ -8926,13 +8927,13 @@ Year              Yearly Output (kW)      Selling Price           Total Amount
 
 1984              50                      50                      131.5 
 
-1985              70                      45-50                   ÷200 
+1985              70                      45-50                   ï¿½200 
 
-1986              80                      40-45                   ÷280 
+1986              80                      40-45                   ï¿½280 
 
-1987              100                     40                      ÷380 
+1987              100                     40                      ï¿½380 
 
-1988              Crystalline silicon     Crystalline silicon     ÷700 
+1988              Crystalline silicon     Crystalline silicon     ï¿½700 
                   cells: 150              cells: 35-45 
 
                   Non-crystalline         Non-crystalline 
@@ -8941,7 +8942,7 @@ Year              Yearly Output (kW)      Selling Price           Total Amount
 1989              Monocrystalline         Monocrystalline 
                   silicon cells: 190      silicon cells: 38-45 
 
-                  Polycrystalline         Polycrystalline         ÷1,000 
+                  Polycrystalline         Polycrystalline         ï¿½1,000 
                   silicon cells: 90       silicon cells: 35-48 
 
                   Non-crystalline         Non-crystalline 
@@ -9034,28 +9035,28 @@ applications of PV power generation.
 <HEADER>
 <AU>   JPRS-CEN-94-001-L </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy Alternative Energy: Enormous Untapped Potential </ABS>
 <DATE1>   10 July 1993 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Thermal Utilization of Solar Energy and China's Strategy </TI></H3>
-<F P=102>  936B0114C Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="102">  936B0114C Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] in Chinese 10 Jul 93 pp 41-44--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 936B0114C </F>
-<F P=104>  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="103"> 936B0114C </F>
+<F P="104">  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Excerpts from article by Lu Weide [7120 4850 1795], </F>
+<F P="106"> [Excerpts from article by Lu Weide [7120 4850 1795], </F>
 researcher in the Solar Energy Institute, Beijing: "The Current 
 Situation of Solar Energy Heat Utilization and China's 
 Countermeasures"] 
@@ -9066,11 +9067,11 @@ photo-thermal conversion, and photo-chemical conversion. Solar
 energy heat utilization technologies can be divided overall 
 according to the temperature range of their ultimate use into 
 low-temperature, moderate-temperature, and high-temperature. 
-Low-temperature (under 100ëC): hot water for household uses, 
+Low-temperature (under 100ï¿½C): hot water for household uses, 
 heating, drying, distillation, agricultural greenhouses, etc.; 
-Moderate-temperature (100 to 300ëC): industrial heat, 
+Moderate-temperature (100 to 300ï¿½C): industrial heat, 
 cooling and air conditioning, cooking, etc.; High-temperature 
-(above 300ëC): thermal power generation, high-temperature 
+(above 300ï¿½C): thermal power generation, high-temperature 
 materials processing, sterilization processing of toxic 
 materials, etc. 
   Among solar energy heat utilization technologies, solar 
@@ -9169,12 +9170,12 @@ Technology </H3>
 utilization in an organized and guided manner began in the 
 mid-1970s. Starting in the 1980s, new energy resource and 
 renewable energy resource technology was included in the state's 
-attack on key S&amp;T problems in the Sixth 5-Year Plan, Seventh 
+attack on key S amp;T problems in the Sixth 5-Year Plan, Seventh 
 5-Year Plan, and Eighth 5-Year Plan, and solar energy heat 
 utilization technology is a subtopic in new energy resource and 
 renewable energy resource projects. 
   Starting from China's national strengths and real needs, the 
-focus of attacks on key S&amp;T problems regarding solar energy 
+focus of attacks on key S amp;T problems regarding solar energy 
 heat 
 utilization in the Sixth 5-Year Plan and Seventh 5-Year Plan was 
 placed on preferential development of low-temperature heat 
@@ -9182,7 +9183,7 @@ utilization technology. The actual projects were: solar energy
 water heaters, passive solar energy-saving houses, solar energy 
 dryers, and solar stoves. Through 10 years of efforts, solar 
 energy heat utilization technology in these four realms 
-basically moved forward, S&amp;T achievements have shifted into 
+basically moved forward, S amp;T achievements have shifted into 
 small batch production to varying degrees and a substantial 
 number have an extension and application coverage area and have 
 provided real benefits in alleviating local shortages of 
@@ -9200,7 +9201,7 @@ each year. Solar stoves can conserve 500 to 700 kg of firewood
 per unit each year. 
 <H5>  C. The Main Problems and Impediments That Exist at Present </H5>
   China lags behind foreign countries in two areas in solar 
-energy heat utilization. One is S&amp;T investments. The 
+energy heat utilization. One is S amp;T investments. The 
 government 
 in the United States invested $500 million annually in solar 
 energy research and development from the late 1970s to early 
@@ -9212,13 +9213,13 @@ level of $150 to $200 million annually. Japan's New Energy
 Resource Industrial Technology Comprehensive Development 
 Organization (NEDO) and Global Environmental Industrial 
 Technology Research Organization (RITE) organized scientific 
-research units and large enterprises to establish an R&amp;D 
+research units and large enterprises to establish an R amp;D 
 group 
-to help accelerate the course of R&amp;D and commercialization. 
+to help accelerate the course of R amp;D and commercialization. 
 Thus, the development of solar energy heat utilization in the 
 developed countries at the present time is characterized by 
-high-S&amp;T injections, especially for breakthroughs in new 
-materials R&amp;D such as light condensors and vacuum tube heat 
+high-S amp;T injections, especially for breakthroughs in new 
+materials R amp;D such as light condensors and vacuum tube heat 
 collectors used in solar energy thermal power generation 
 stations or tower-type solar energy boilers, which are the 
 result of the commercialization of major achievements in modern 
@@ -9335,28 +9336,28 @@ them competitive in the international market.
 <HEADER>
 <AU>   JPRS-CEN-94-001-L </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy Alternative Energy: Enormous Untapped Potential </ABS>
 <DATE1>   10 July 1993 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Nation's Marine Energy Resources To Be Exploited </TI></H3>
-<F P=102>  936B0114D Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="102">  936B0114D Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] in Chinese 10 Jul 93 p 44--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 936B0114D </F>
-<F P=104>  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="103"> 936B0114D </F>
+<F P="104">  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Hu Chengchun [5170 2052 2504], vice chairman, </F>
+<F P="106"> [Article by Hu Chengchun [5170 2052 2504], vice chairman, </F>
 China Energy Resource Research Society New Energy Resources 
 Special Committee, Beijing: "China's Abundant Marine Energy 
 Awaits Development"] 
@@ -9441,28 +9442,28 @@ persevere, this will benefit our nation and our people.
 <HEADER>
 <AU>   JPRS-CEN-94-001-L </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy Alternative Energy: Enormous Untapped Potential </ABS>
 <DATE1>   10 July 1993 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Development and Utilization of Geothermal Resources </TI></H3>
-<F P=102>  936B0114E Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="102">  936B0114E Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] in Chinese 10 Jul 93 pp 45-47--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 936B0114E </F>
-<F P=104>  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="103"> 936B0114E </F>
+<F P="104">  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Excerpts from article by Ren Xiang [0117 3276], chairman of </F>
+<F P="106"> [Excerpts from article by Ren Xiang [0117 3276], chairman of </F>
 the China Energy Resource Research Society Geothermal Special 
 Committee and professor, Beijing: "Development and Utilization 
 of Geothermal Energy Resources"] 
@@ -9487,11 +9488,11 @@ and hot springs have now been discovered at over 3,000 sites. We
 have completed the drilling of over 2,000 geothermal wells and 
 done surveys and evaluations of 300 geothermal points (through 
 early 1993). Among the surveyed geothermal fields, there are two 
-high-temperature (over 150ëC) ones at Yangbajing and Yangyi 
-in Tibet and we have discovered hot fluids above 200ëC. 
-There are nine moderate-temperature (90 to 150ëC) sites, 80 
-low-temperature sites (60 to 90ëC), and 209 sites below 
-60ëC. Prior to the Eighth 5-Year Plan, with the exception of 
+high-temperature (over 150ï¿½C) ones at Yangbajing and Yangyi 
+in Tibet and we have discovered hot fluids above 200ï¿½C. 
+There are nine moderate-temperature (90 to 150ï¿½C) sites, 80 
+low-temperature sites (60 to 90ï¿½C), and 209 sites below 
+60ï¿½C. Prior to the Eighth 5-Year Plan, with the exception of 
 a few high-temperature geothermal fields, the primary survey 
 regions were in the densely populated and economically developed 
 east and north China regions. The available thermal energy 
@@ -9533,17 +9534,17 @@ small-scale geothermal experimental power stations (Table 1).
 While we have moved forward in moderate and low-temperature 
 power generation technology, most of them have shut down due to 
 costs being too high, leaving only the two sites at Huitang in 
-Hunan and Fengshun in Guangdong which use 92ëC water as an 
+Hunan and Fengshun in Guangdong which use 92ï¿½C water as an 
 intermediate medium and are operating intermittently. The 
 Yangbajing Geothermal Power Station, the only one with water 
-temperatures from 150 to 172ëC and well mouth pressures of 3 
+temperatures from 150 to 172ï¿½C and well mouth pressures of 3 
 atmospheres, has grown since starting a 1MW experiment to 25.1MW 
 (1992) and has now become Lhasa's primary power station, 
 accounting for 40 percent of its power supplies (Table 2). 
 Presently, China's total geothermal installed generating 
 capacity is just 28.6MW. China has now proven over 170 sites 
 with high-temperature geothermal systems (heat reserves 
-&gt; 150ëC) distributed in southern Tibet, western Yunnan, 
+ gt; 150ï¿½C) distributed in southern Tibet, western Yunnan, 
 western Sichuan, and Taiwan with a power generation potential of 
 7,000MW. This shows that progress in China's geothermal power 
 generation industry has been slow. 
@@ -9556,7 +9557,7 @@ generation industry has been slow.
 
 Rank    Location       Period of       Water          Installed     Current         Power 
                        Station         Temperature    Generating    Situation at    Generation 
-                       Construction    (ëC)           Capacity      Power Station   Mode 
+                       Construction    (ï¿½C)           Capacity      Power Station   Mode 
                                                       (MW) 
 
 1       Yangbajing,    September,      152            25.18         Operating       Flashing 
@@ -9668,7 +9669,7 @@ resources, which have great potential. Petroleum departments
 have already discovered abundant ground pressure geothermal 
 resources in the northern part of the South China Sea. The 
 ground temperature gradient in the Yingqiong Basin is as much as 
-4.25ëC/100 meters. At a borehole at Ledong, for instance, 
+4.25ï¿½C/100 meters. At a borehole at Ledong, for instance, 
 abnormally high pressures have been discovered at 3,000 meters 
 with a pressure gradient at 5,021 meters of 19.2 kPa/meter, and 
 there were nine gas-bearing strata (natural gas contained in the 
@@ -9802,28 +9803,28 @@ of our national geothermal resources.
 <HEADER>
 <AU>   JPRS-CEN-94-001-L </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy Alternative Energy: Enormous Untapped Potential </ABS>
 <DATE1>   10 July 1993 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Development of Wind Energy Resources </TI></H3>
-<F P=102>  936B0114F Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="102">  936B0114F Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] in Chinese 10 Jul 93 pp 48-49--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 936B0114F </F>
-<F P=104>  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
+<F P="103"> 936B0114F </F>
+<F P="104">  Beijing KEJI DAOBAO [SCIENCE AND TECHNOLOGY 
 REVIEW] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lu Zhidi [0712 1807 6611], senior engineer in </F>
+<F P="106"> [Article by Lu Zhidi [0712 1807 6611], senior engineer in </F>
 the China Wind Energy Technology Development Center, Beijing: 
 "Development of China's Wind Energy"] 
   [Text] Following the worldwide petroleum crisis in the 
@@ -9848,7 +9849,7 @@ will drop to $0.04 by the year 2000). As a result, the developed
 countries are competing to develop it and are investing large 
 amounts of capital, formulating several medium and long-term 
 development programs, and establishing all types of 
-organizations to conduct R&amp;D (such as Denmark's (Lisuo) Wind 
+organizations to conduct R amp;D (such as Denmark's (Lisuo) Wind 
 Powered Generator Experiment Station, the United States Wind 
 Energy Association, the Japan Wind Energy Association, the 
 European Wind Energy Assocation, etc.). At the same time, all 
@@ -9862,11 +9863,11 @@ purchases of wind-powered generators and permitting the sale of
 electricity to electric power companies. 
   Wind energy development and utilization in China has always 
 been a concern of the state and several key wind energy projects 
-were included among projects to attack key S&amp;T problems 
+were included among projects to attack key S amp;T problems 
 during 
 the Sixth 5-Year Plan, Seventh 5-Year Plan, and Eighth 5-Year 
 Plan. 
-  China has now established an S&amp;T and production staff 
+  China has now established an S amp;T and production staff 
 of more 
 than 3,000 people, and we have established several 10 production 
 plants (producing small-scale and large and medium-sized 
@@ -9952,7 +9953,7 @@ and other ministries and commissions should control imports and,
 except in cases that have state permission, we should focus on 
 protecting our own nascent industry, and the State Science and 
 Technology Commission should increase its investments in wind 
-energy R&amp;D. The State Economics and Trade Commission should 
+energy R amp;D. The State Economics and Trade Commission should 
 increase its investments in the wind-powered machinery industry 
 and strive to attain a domestic production rate of 80 percent 
 for the wind-powered generators in China's wind-powered 
@@ -9992,18 +9993,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Oil Smuggling Across Albanian-Montenegrin Border </TI></H3>
-<F P=102>  94BA0176A Belgrade NIN in Serbo-Croatian 28 Jan 94 pp 26-27 </F>
-<F P=103> 94BA0176A </F>
-<F P=104>  Belgrade NIN </F>
+<F P="102">  94BA0176A Belgrade NIN in Serbo-Croatian 28 Jan 94 pp 26-27 </F>
+<F P="103"> 94BA0176A </F>
+<F P="104">  Belgrade NIN </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dragan Djuric: "The Scutari Oil Pipeline"] </F>
+<F P="106"> [Article by Dragan Djuric: "The Scutari Oil Pipeline"] </F>
   [Text] "God grant the sanctions continue," is the phrase 
 used most frequently by those with whom we talked about the 
 smuggling of petroleum products across Lake Scutari. The story 
@@ -10161,18 +10162,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Republics Compared One Year After CSFR's Split </TI></H3>
-<F P=102>  94CH0162A Prague PROGNOSIS in English 20 Jan 94 p 9 </F>
-<F P=103> 94CH0162A </F>
-<F P=104>  Prague PROGNOSIS </F>
+<F P="102">  94CH0162A Prague PROGNOSIS in English 20 Jan 94 p 9 </F>
+<F P="103"> 94CH0162A </F>
+<F P="104">  Prague PROGNOSIS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Commentary by Egon T. Lansky, a journalist and political </F>
+<F P="106"> [Commentary by Egon T. Lansky, a journalist and political </F>
 analyst who formerly served as Czechoslovak Foreign Ministry 
 spokesman and ambassador to the Council of Europe: "After the 
 Tragedy: A Look at Year One in the Two Republics"] 
@@ -10289,20 +10290,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   EU Commission Holds Up Health Care Funds </TI></H3>
-<F P=102>  94P20346Z Copenhagen BERLINGSKE TIDENDE in Danish 25 Jan 94 
+<F P="102">  94P20346Z Copenhagen BERLINGSKE TIDENDE in Danish 25 Jan 94 
 p 11 </F>
 
-<F P=103> 94P20346Z </F>
-<F P=104>  Copenhagen BERLINGSKE TIDENDE </F>
+<F P="103"> 94P20346Z </F>
+<F P="104">  Copenhagen BERLINGSKE TIDENDE </F>
 
 
 <TEXT>
-Language: <F P=105> Danish </F>
+Language: <F P="105"> Danish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Birger Hilstrom: "Help for Albania Must Wait"] </F>
+<F P="106"> [Article by Birger Hilstrom: "Help for Albania Must Wait"] </F>
   [Text] Enormous sums for lifting Albania's shockingly 
 deficient health care system out of its miserable condition have 
 been given over the past three years, but one-half billion 
@@ -10345,20 +10346,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   Questions About Lleshi, Brokaj Visits to FYROM </TI></H3>
-<F P=102>  94P20381A Tirana RILINDJA DEMOKRATIKE in Albanian 25 Jan 94 
+<F P="102">  94P20381A Tirana RILINDJA DEMOKRATIKE in Albanian 25 Jan 94 
 p 4 </F>
 
-<F P=103> 94P20381A </F>
-<F P=104>  Tirana RILINDJA DEMOKRATIKE </F>
+<F P="103"> 94P20381A </F>
+<F P="104">  Tirana RILINDJA DEMOKRATIKE </F>
 
 
 <TEXT>
-Language: <F P=105> Albanian </F>
+Language: <F P="105"> Albanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Menton Shehu: "Questions About Haxhi Lleshi and </F>
+<F P="106"> [Article by Menton Shehu: "Questions About Haxhi Lleshi and </F>
 Sabit Brokaj's Visit to the City of Debar, in Macedonia"] 
   [Excerpts] At a time when some "blockmen" [high-ranking 
 members of the former Albanian Workers Party] are being tried in 
@@ -10449,18 +10450,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Opening of Northern Corridor to Tuzla Urged </TI></H3>
-<F P=102>  94P20395A Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 33-34 </F>
-<F P=103> 94P20395A </F>
-<F P=104>  Belgrade VREME </F>
+<F P="102">  94P20395A Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 33-34 </F>
+<F P="103"> 94P20395A </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Drazena Peranic: "Northern Corridor of </F>
+<F P="106"> [Article by Drazena Peranic: "Northern Corridor of </F>
 Salvation"] 
   [Text] While dramatic appeals by hungry citizens have been 
 coming from Tuzla, the Bosnia-Herzegovina oasis of coexistence, 
@@ -10650,20 +10651,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Payments System To Be Unified With Krajinas </TI></H3>
-<F P=102>  AU1502102194 Belgrade POLITIKA in Serbo-Croatian 11 Feb 94 p 
+<F P="102">  AU1502102194 Belgrade POLITIKA in Serbo-Croatian 11 Feb 94 p 
 13 </F>
 
-<F P=103> AU1502102194 </F>
-<F P=104>  Belgrade POLITIKA </F>
+<F P="103"> AU1502102194 </F>
+<F P="104">  Belgrade POLITIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Article by D.K.: "New Dinar in the Srpska Republic and the </F>
+<F P="106"> [Article by D.K.: "New Dinar in the Srpska Republic and the </F>
 Republic of Serbian Krajina"] 
   [Text] Banja Luka, 10 February -- On the territory of the 
 Srpska republic and the republic of Serbian Krajina a unified 
@@ -10703,20 +10704,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Koljevic Deems Peaceful Border Changes Possible </TI></H3>
-<F P=102>  94P20377C Belgrade VECERNJE NOVOSTI in Serbo-Croatian 31 Jan 
+<F P="102">  94P20377C Belgrade VECERNJE NOVOSTI in Serbo-Croatian 31 Jan 
 94 p 4 </F>
 
-<F P=103> 94P20377C </F>
-<F P=104>  Belgrade VECERNJE NOVOSTI </F>
+<F P="103"> 94P20377C </F>
+<F P="104">  Belgrade VECERNJE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sl.P.: "Peaceful Change of Borders?"] </F>
+<F P="106"> [Article by Sl.P.: "Peaceful Change of Borders?"] </F>
   [Text] Dr. Nikola Koljevic, member of the presidency of the 
 republic of Srpska, stated yesterday in an interview with the 
 Zagreb weekly GLOBUS that "I think the resolution of the events 
@@ -10753,18 +10754,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Attack on Republic of Srpska Helicopter Alleged </TI></H3>
-<F P=102>  94P20385A Belgrade POLITIKA in Serbo-Croatian 5 Feb 94 p 3 </F>
-<F P=103> 94P20385A </F>
-<F P=104>  Belgrade POLITIKA </F>
+<F P="102">  94P20385A Belgrade POLITIKA in Serbo-Croatian 5 Feb 94 p 3 </F>
+<F P="103"> 94P20385A </F>
+<F P="104">  Belgrade POLITIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Lazanski: "With Missiles at Serb Humanitarian </F>
+<F P="106"> [Article by M. Lazanski: "With Missiles at Serb Humanitarian </F>
 Aid Helicopter"] 
   [Text] The camera of Ognjen Radosevic, photographic 
 reporter of SRPSKA VOJSKA, the journal of the army of the 
@@ -10801,20 +10802,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Srpska General Disapproves Opening of Airport </TI></H3>
-<F P=102>  94P20377B Belgrade VECERNJE NOVOSTI in Serbo-Croatian 31 Jan 
+<F P="102">  94P20377B Belgrade VECERNJE NOVOSTI in Serbo-Croatian 31 Jan 
 94 p 4 </F>
 
-<F P=103> 94P20377B </F>
-<F P=104>  Belgrade VECERNJE NOVOSTI </F>
+<F P="103"> 94P20377B </F>
+<F P="104">  Belgrade VECERNJE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: "Threats Instead of Talks"] </F>
+<F P="106"> [Unattributed article: "Threats Instead of Talks"] </F>
   [Text] Manojlo Milovanovic, chief of staff of the army of 
 the republic of Srpska, stated yesterday that "the Serbian side 
 does not approve of the attempt to open Dubrava airport near 
@@ -10859,17 +10860,17 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Humanitarian, Health Situation `Critical' </TI></H3>
-<F P=102>  AU1602210094 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102">  AU1602210094 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1800 GMT 16 Feb 94 </F>
 
-<F P=103> AU1602210094 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="103"> AU1602210094 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
   [Text] The situation with the supplies of food, medicines, 
@@ -10901,20 +10902,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Statute of Movement for Rights and Freedoms </TI></H3>
-<F P=102>  94P20225A Sofia PRAVA I SVOBODI in Bulgarian 10 Dec 93 pp 3, 
+<F P="102">  94P20225A Sofia PRAVA I SVOBODI in Bulgarian 10 Dec 93 pp 3, 
 8 </F>
 
-<F P=103> 94P20225A </F>
-<F P=104>  Sofia PRAVA I SVOBODI </F>
+<F P="103"> 94P20225A </F>
+<F P="104">  Sofia PRAVA I SVOBODI </F>
 
 
 <TEXT>
-Language: <F P=105> Bulgarian </F>
+Language: <F P="105"> Bulgarian </F>
 Article Type:CSO 
 
-<F P=106> ["Statute of the Movement for Rights and Freedoms: An </F>
+<F P="106"> ["Statute of the Movement for Rights and Freedoms: An </F>
 Association With Non-Economic Goals"] 
   [Text] 
 <H6>  General Principles </H6>
@@ -11079,7 +11080,7 @@ the Chairman of the Movement for Rights and Freedoms, and elects
 members or fills vacancies on the Central Council and the 
 Central Operations Bureau--at the request of the Chairman or the 
 members and chairmen of the control bodies. 
-<H5>  &gt; Article 7 </H5>
+<H5>   gt; Article 7 </H5>
   7.1. The Central Council is a collective leadership body of 
 the Movement for Rights and Freedoms, which is active during 
 periods between national conferences of the Movement for Rights 
@@ -11322,11 +11323,11 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Germany Criticized for Protecting Croatia </TI></H3>
-<F P=102>  94P20411A </F>
-<F P=103> 94P20411A </F>
-<F P=104></F>
+<F P="102">  94P20411A </F>
+<F P="103"> 94P20411A </F>
+<F P="104"></F>
 
 
 
@@ -11390,17 +11391,17 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Granic Interviewed on Bosnia Issues </TI></H3>
-<F P=102>  LD1102001694 Zagreb HTV Television in Serbo-Croatian 2240 
+<F P="102">  LD1102001694 Zagreb HTV Television in Serbo-Croatian 2240 
 GMT 10 Feb 94 </F>
 
-<F P=103> LD1102001694 </F>
-<F P=104>  Zagreb HTV Television </F>
+<F P="103"> LD1102001694 </F>
+<F P="104">  Zagreb HTV Television </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
   [Text] French Foreign Minister Alain Juppe arrived in 
@@ -11508,11 +11509,11 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   First Chief of FRY Office in Zagreb </TI></H3>
-<F P=102>  94P20432A </F>
-<F P=103> 94P20432A </F>
-<F P=104></F>
+<F P="102">  94P20432A </F>
+<F P="103"> 94P20432A </F>
+<F P="104"></F>
 
 
 
@@ -11554,18 +11555,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Croatian Envoy Has Faith in Muslim Alliance </TI></H3>
-<F P=102>  94BA0185A Zagreb VJESNIK in Serbo-Croatian 9 Feb 94 p 8 </F>
-<F P=103> 94BA0185A </F>
-<F P=104>  Zagreb VJESNIK </F>
+<F P="102">  94BA0185A Zagreb VJESNIK in Serbo-Croatian 9 Feb 94 p 8 </F>
+<F P="103"> 94BA0185A </F>
+<F P="104">  Zagreb VJESNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Prof. Dr. Zdravko Sancevic, Croatian </F>
+<F P="106"> [Interview with Prof. Dr. Zdravko Sancevic, Croatian </F>
 ambassador to Bosnia-Herzegovina, by Salih Zvizdic; place and 
 date not given: "If I Did Not Have Faith in the Alliance with 
 the Muslims, I Would Not Be Ambassador"] 
@@ -11861,18 +11862,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Testimonies on Croat Genocide of Serbs </TI></H3>
-<F P=102>  LD1602145694 Belgrade TANJUG in English 1222 GMT 16 Feb 94 </F>
-<F P=103> LD1602145694 </F>
-<F P=104>  Belgrade TANJUG </F>
+<F P="102">  LD1602145694 Belgrade TANJUG in English 1222 GMT 16 Feb 94 </F>
+<F P="103"> LD1602145694 </F>
+<F P="104">  Belgrade TANJUG </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Article by Ssava Jankovic; "pool" item] </F>
+<F P="106"> [Article by Ssava Jankovic; "pool" item] </F>
   [Text] Knin, Feb 16 (TANJUG)--Veritas, a non-government 
 organization of the Bosnian Serb Republic (RSK), has published 
 sections of a document containing proof that regular Croatian 
@@ -11965,18 +11966,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Reasons Boban Removed From Office Examined </TI></H3>
-<F P=102>  AU1602131094 Rijeka NOVI LIST in Serbo-Croatian 10 Feb 94 p 2 </F>
-<F P=103> AU1602131094 </F>
-<F P=104>  Rijeka NOVI LIST </F>
+<F P="102">  AU1602131094 Rijeka NOVI LIST in Serbo-Croatian 10 Feb 94 p 2 </F>
+<F P="103"> AU1602131094 </F>
+<F P="104">  Rijeka NOVI LIST </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Drazen Vukov-Colic: "A Silent Commemoration"] </F>
+<F P="106"> [Commentary by Drazen Vukov-Colic: "A Silent Commemoration"] </F>
   [Text] Mate Boban has gone, but the Declaration of the 
 Chamber of Representatives of the Croat republic of Herceg-Bosna 
 has not announced any significant changes in the Herzegovinian 
@@ -12078,18 +12079,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Commentary Views Mate Boban's Influence </TI></H3>
-<F P=102>  AU2302152194 Zagreb DANAS in Serbo-Croatian 15 Feb 94 p 4 </F>
-<F P=103> AU2302152194 </F>
-<F P=104>  Zagreb DANAS </F>
+<F P="102">  AU2302152194 Zagreb DANAS in Serbo-Croatian 15 Feb 94 p 4 </F>
+<F P="103"> AU2302152194 </F>
+<F P="104">  Zagreb DANAS </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Zvonko Lerotic: "Sacrificing the First-Born </F>
+<F P="106"> [Commentary by Zvonko Lerotic: "Sacrificing the First-Born </F>
 in Livno"] 
   [Text] The Livno meeting last week was supposed to be the 
 central event for the Croat people at the beginning of this 
@@ -12200,20 +12201,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Article Views Power Struggle in HDZ </TI></H3>
-<F P=102>  AU1102140794 Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 
+<F P="102">  AU1102140794 Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 
 34-36 </F>
 
-<F P=103> AU1102140794 </F>
-<F P=104>  Belgrade VREME </F>
+<F P="103"> AU1102140794 </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Article by Gojko Marinkovic: "Does Mesic Like Skiing?"] </F>
+<F P="106"> [Article by Gojko Marinkovic: "Does Mesic Like Skiing?"] </F>
   [Text] No sooner had the fuss abated about GLOBUS releasing 
 top secret information on war crimes committed by the so-called 
 Mercep's unit than the [Croatian] weekly again came into 
@@ -12441,20 +12442,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Article Views Developments in Serb Artillery </TI></H3>
-<F P=102>  AU1802120794 Zagreb VJESNIK in Serbo-Croatian 13 Feb 94 pp 
+<F P="102">  AU1802120794 Zagreb VJESNIK in Serbo-Croatian 13 Feb 94 pp 
 10-11 </F>
 
-<F P=103> AU1802120794 </F>
-<F P=104>  Zagreb VJESNIK </F>
+<F P="103"> AU1802120794 </F>
+<F P="104">  Zagreb VJESNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Article by Fran Visnar: "NATO and the Serb `Smart' </F>
+<F P="106"> [Article by Fran Visnar: "NATO and the Serb `Smart' </F>
 Destructive Sub-Ammunition"] 
   [Text] The fuss about the NATO ultimatum to the Bosnian 
 Serbs to withdraw their artillery-missile equipment or place it 
@@ -12612,18 +12613,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Martic's Victory in Krajina Elections Viewed </TI></H3>
-<F P=102>  94BA0177B Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 12-13 </F>
-<F P=103> 94BA0177B </F>
-<F P=104>  Belgrade VREME </F>
+<F P="102">  94BA0177B Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 12-13 </F>
+<F P="103"> 94BA0177B </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Filip Svarm: "The Return of the District Chief"] </F>
+<F P="106"> [Article by Filip Svarm: "The Return of the District Chief"] </F>
   [Text] Mile Martic has finally become president of Krajina 
 on his second, makeup, attempt. Otherwise, they would have voted 
 again and a third, fourth, or fifth time, as many times as it 
@@ -12861,15 +12862,15 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Croatian TV Comments on FRY Ambassador </TI></H3>
-<F P=102>  94P20413C Zagreb VJESNIK in Serbo-Croatian 14 Feb 94 p 17 </F>
-<F P=103> 94P20413C </F>
-<F P=104>  Zagreb VJESNIK </F>
+<F P="102">  94P20413C Zagreb VJESNIK in Serbo-Croatian 14 Feb 94 p 17 </F>
+<F P="103"> 94P20413C </F>
+<F P="104">  Zagreb VJESNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
   [Text] (HTV) -- Croatian Radio-Television Journal comments 
@@ -12921,18 +12922,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Socialist Party Statement on Bosnia Policy </TI></H3>
-<F P=102>  94P20413B Zagreb VJESNIK in Serbo-Croatian 10 Feb 94 p 4 </F>
-<F P=103> 94P20413B </F>
-<F P=104>  Zagreb VJESNIK </F>
+<F P="102">  94P20413B Zagreb VJESNIK in Serbo-Croatian 10 Feb 94 p 4 </F>
+<F P="103"> 94P20413B </F>
+<F P="104">  Zagreb VJESNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> ["SSH Public Statement"] </F>
+<F P="106"> ["SSH Public Statement"] </F>
   [Text] The SSH [Socialist Party of Croatia] leadership 
 distributed the following public statement at a news conference: 
   1) The Republic of Croatia must immediately and clearly, 
@@ -12973,15 +12974,15 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   New Resignations at SLOBODNA DALMACIJA </TI></H3>
-<F P=102>  94P20413A Zagreb VJESNIK in Serbo-Croatian 8 Feb 94 p 7 </F>
-<F P=103> 94P20413A </F>
-<F P=104>  Zagreb VJESNIK </F>
+<F P="102">  94P20413A Zagreb VJESNIK in Serbo-Croatian 8 Feb 94 p 7 </F>
+<F P="103"> 94P20413A </F>
+<F P="104">  Zagreb VJESNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
   [Text] (HINA) Split -- On Monday [7 February], Dr. Goran 
@@ -13016,18 +13017,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   FERAL TRIBUNE on Threat of Sanctions </TI></H3>
-<F P=102>  94P20396A Maribor VECER in Slovene 9 Feb 94 p 2 </F>
-<F P=103> 94P20396A </F>
-<F P=104>  Maribor VECER </F>
+<F P="102">  94P20396A Maribor VECER in Slovene 9 Feb 94 p 2 </F>
+<F P="103"> 94P20396A </F>
+<F P="104">  Maribor VECER </F>
 
 
 <TEXT>
-Language: <F P=105> Slovene </F>
+Language: <F P="105"> Slovene </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: "Staying the Course"] </F>
+<F P="106"> [Unattributed article: "Staying the Course"] </F>
   [Text] In typical FERAL TRIBUNE style, mixing seriousness 
 with satire, reporter Marinko Culic examines Croatian foreign 
 policy and the threat of possible international economic 
@@ -13070,18 +13071,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Shortcomings of Law on Conscientious Objectors </TI></H3>
-<F P=102>  94P20344A Belgrade VREME in Serbo-Croatian 24 Jan 94 p 30-31 </F>
-<F P=103> 94P20344A </F>
-<F P=104>  Belgrade VREME </F>
+<F P="102">  94P20344A Belgrade VREME in Serbo-Croatian 24 Jan 94 p 30-31 </F>
+<F P="103"> 94P20344A </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vesna Roller: "Right To Have a Conscience"] </F>
+<F P="106"> [Article by Vesna Roller: "Right To Have a Conscience"] </F>
   [Text] Fewer than 1,000 military conscripts took advantage 
 of the possibility of resorting to the right to be a 
 conscientious objector, i.e., they asked to perform their 
@@ -13257,20 +13258,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Croatian Company Wins Russian Contract </TI></H3>
-<F P=102>  94P20371B Split SLOBODNA DALMACIJA in Serbo-Croatian 1 Feb 
+<F P="102">  94P20371B Split SLOBODNA DALMACIJA in Serbo-Croatian 1 Feb 
 94 p 2 </F>
 
-<F P=103> 94P20371B </F>
-<F P=104>  Split SLOBODNA DALMACIJA </F>
+<F P="103"> 94P20371B </F>
+<F P="104">  Split SLOBODNA DALMACIJA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sa. Paparella: "INA Is Building in Vladivostok"] </F>
+<F P="106"> [Article by Sa. Paparella: "INA Is Building in Vladivostok"] </F>
   [Text] Zagreb--At a ceremony held on Monday [31 January] in 
 the offices of the INA enterprise, Franjo Greguric, general 
 director of the company, signed a $130-million agreement with 
@@ -13309,18 +13310,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Central European Presidents To Meet in April </TI></H3>
-<F P=102>  94CH0164A Prague PRAGUE POST in English 25 Jan 94 p 1 </F>
-<F P=103> 94CH0164A </F>
-<F P=104>  Prague PRAGUE POST </F>
+<F P="102">  94CH0164A Prague PRAGUE POST in English 25 Jan 94 p 1 </F>
+<F P="103"> 94CH0164A </F>
+<F P="104">  Prague PRAGUE POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sophia Coudenhove: "Visegrad Countries Make </F>
+<F P="106"> [Article by Sophia Coudenhove: "Visegrad Countries Make </F>
 Small NATO Gain"] 
   [Text] Central European leaders got both more than they 
 expected and less than they wanted when Bill Clinton offered 
@@ -13420,18 +13421,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Contents of Military Materials Trade Law Outlined </TI></H3>
-<F P=102>  AU2402094094 Prague RUDE PRAVO in Czech 17 Feb 94 p 2 </F>
-<F P=103> AU2402094094 </F>
-<F P=104>  Prague RUDE PRAVO </F>
+<F P="102">  AU2402094094 Prague RUDE PRAVO in Czech 17 Feb 94 p 2 </F>
+<F P="103"> AU2402094094 </F>
+<F P="104">  Prague RUDE PRAVO </F>
 
 
 <TEXT>
-Language: <F P=105> Czech </F>
+Language: <F P="105"> Czech </F>
 Article Type:BFN 
 
-<F P=106> [Article by Marie Koenigova and Katerina Perknerova: "Only </F>
+<F P="106"> [Article by Marie Koenigova and Katerina Perknerova: "Only </F>
 Czech Citizens Can Conduct Business in Weapons"] 
   [Text] According to the law approved by parliament, only 
 legal persons resident in the Czech Republic whose capital is 
@@ -13536,18 +13537,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Attempt To Save Czech Aircraft Industry </TI></H3>
-<F P=102>  94CH0163A Prague PRAGUE POST in English 25 Jan 94 p 5 </F>
-<F P=103> 94CH0163A </F>
-<F P=104>  Prague PRAGUE POST </F>
+<F P="102">  94CH0163A Prague PRAGUE POST in English 25 Jan 94 p 5 </F>
+<F P="103"> 94CH0163A </F>
+<F P="104">  Prague PRAGUE POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Brendan McNally: "Local Fruit Trader Sets Sights </F>
+<F P="106"> [Article by Brendan McNally: "Local Fruit Trader Sets Sights </F>
 High With Offer for Czech Aircraft Giant"] 
   [Text] A businessman who has found success selling fruit 
 and vegetables in Russia says he wants to save the Czech 
@@ -13594,14 +13595,14 @@ Investicni banka listed it as one of two companies interested in
 buying the Prague-based engine manufacturer Motorlet, one of 
 four Aero subsidiaries the bank had sent to the auction block. 
   FrutOvo's only competitor at the time was the Canadian 
-aircraft engine maker Pratt &amp; Whitney. Critics of the firm 
+aircraft engine maker Pratt  amp; Whitney. Critics of the firm 
 charge that it wants to buy Motorlet in order to shut it down 
 and sell off its assets while gaining its market share. 
-  "I cannot see any other reason Pratt &amp; Whitney would be 
+  "I cannot see any other reason Pratt  amp; Whitney would be 
 interested in Motorlet," says Michal Kraus, a leading member of 
 the Social Democratic Party bloc in parliament. Kraus has called 
 for establishing a parliamentary commission to examine the 
-collapse of the Czech aircraft industry. "They [Pratt &amp; 
+collapse of the Czech aircraft industry. "They [Pratt  amp; 
 Whitney] 
 have had to lay off 50 percent of their own work force. I don't 
 think it would go over very well in Canada if they started doing 
@@ -13620,10 +13621,10 @@ Then you're going to have to pay them rent."
   The winner has not yet been announced in the Motorlet 
 competition. Even though he says he offered 40 million Kc more 
 than the competition, Houska believes the bid will probably go 
-to Pratt &amp; Whitney. "I heard they were offering $10 million 
+to Pratt  amp; Whitney. "I heard they were offering $10 million 
 for 
 Motorlet," he says. If they do win the competition, Houska says, 
-Pratt &amp; Whitney will "have the Eastern market all to 
+Pratt  amp; Whitney will "have the Eastern market all to 
 themselves." 
 
 </TEXT>
@@ -13644,18 +13645,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Leftist Campaign Seen in Media Attacks on Fidesz </TI></H3>
-<F P=102>  94P20434A Budapest MAGYAR NEMZET in Hungarian 4 Feb 94 p 6 </F>
-<F P=103> 94P20434A </F>
-<F P=104>  Budapest MAGYAR NEMZET </F>
+<F P="102">  94P20434A Budapest MAGYAR NEMZET in Hungarian 4 Feb 94 p 6 </F>
+<F P="103"> 94P20434A </F>
+<F P="104">  Budapest MAGYAR NEMZET </F>
 
 
 <TEXT>
-Language: <F P=105> Hungarian </F>
+Language: <F P="105"> Hungarian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Gy. Laszlo Toth: "Speculation on the Opposition </F>
+<F P="106"> [Article by Gy. Laszlo Toth: "Speculation on the Opposition </F>
 Coalition: Who Is Attacking Fidesz?"] 
   [Excerpts] [passage omitted] In the history of the newest 
 Hungarian Republic, 1992 was the year of the far right's open 
@@ -13772,18 +13773,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Jeszenszky on Summit Results, Coming Elections </TI></H3>
-<F P=102>  94P20331A Warsaw POLITYKA in Polish No 3, 15 Jan 94 p 16 </F>
-<F P=103> 94P20331A </F>
-<F P=104>  Warsaw POLITYKA </F>
+<F P="102">  94P20331A Warsaw POLITYKA in Polish No 3, 15 Jan 94 p 16 </F>
+<F P="103"> 94P20331A </F>
+<F P="104">  Warsaw POLITYKA </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Geza Jeszenszky, minister of foreign </F>
+<F P="106"> [Interview with Geza Jeszenszky, minister of foreign </F>
 affairs, by Witold Pawlowski; place and date not given: "Moods 
 in a Waiting Room"] 
   [Excerpts] [Pawlowski] The meeting in Prague was meant to 
@@ -13918,18 +13919,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Current Status, Views of Political Parties </TI></H3>
-<F P=102>  94P20368A Bucharest TINERETUL LIBER in Romanian 2 Feb 94 p 5 </F>
-<F P=103> 94P20368A </F>
-<F P=104>  Bucharest TINERETUL LIBER </F>
+<F P="102">  94P20368A Bucharest TINERETUL LIBER in Romanian 2 Feb 94 p 5 </F>
+<F P="103"> 94P20368A </F>
+<F P="104">  Bucharest TINERETUL LIBER </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Francesco Gerardi: "Disunite, so as to Win!"] </F>
+<F P="106"> [Article by Francesco Gerardi: "Disunite, so as to Win!"] </F>
   [Text] At the end of the "Cotroceni Round" -- as the 
 dialogue initiated by the Presidency with the leaders of the 
 parliamentary parties was called -- we wonder if, somehow, the 
@@ -14059,18 +14060,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   No Changes Result From PUNR, PDSR Talks </TI></H3>
-<F P=102>  94P20370A Bucharest TINERETUL LIBER in Romanian 2 Feb 94 p 1 </F>
-<F P=103> 94P20370A </F>
-<F P=104>  Bucharest TINERETUL LIBER </F>
+<F P="102">  94P20370A Bucharest TINERETUL LIBER in Romanian 2 Feb 94 p 1 </F>
+<F P="103"> 94P20370A </F>
+<F P="104">  Bucharest TINERETUL LIBER </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Francesco Gerardi: "As Was Expected, the PUNR </F>
+<F P="106"> [Article by Francesco Gerardi: "As Was Expected, the PUNR </F>
 Swallowed Its Pride"] 
   [Text] Anyone who did not believe in the monolithic unity 
 of the PDSR [Party of Social Democracy of Romania], and believed 
@@ -14137,18 +14138,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   PDSR's Contacts With French Political Groups </TI></H3>
-<F P=102>  94P20367A Bucharest DIMINEATA in Romanian 3 Feb 94 pp 1-2 </F>
-<F P=103> 94P20367A </F>
-<F P=104>  Bucharest DIMINEATA </F>
+<F P="102">  94P20367A Bucharest DIMINEATA in Romanian 3 Feb 94 pp 1-2 </F>
+<F P="103"> 94P20367A </F>
+<F P="104">  Bucharest DIMINEATA </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Gheorghe Prisacaru, member of the Central </F>
+<F P="106"> [Interview with Gheorghe Prisacaru, member of the Central </F>
 Executive Bureau, head of the International Department of the 
 Party of Social Democracy of Romania, by Constantin Benga; place 
 and date not given: "Connecting to Western Democratic Values"] 
@@ -14279,18 +14280,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   Progress in Privatization, Restructuring </TI></H3>
-<F P=102>  94P20349A Bucharest DIMINEATA in Romanian 26 Jan 94 p 2 </F>
-<F P=103> 94P20349A </F>
-<F P=104>  Bucharest DIMINEATA </F>
+<F P="102">  94P20349A Bucharest DIMINEATA in Romanian 26 Jan 94 p 2 </F>
+<F P="103"> 94P20349A </F>
+<F P="104">  Bucharest DIMINEATA </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Mihai Cernat: "The PDSR Supports the </F>
+<F P="106"> [Article by Mihai Cernat: "The PDSR Supports the </F>
 Acceleration of the Process of Privatization and Restructuring"] 
   [Text] The set of "objectives and priorities of 
 socioeconomic strategy," drawn up by the PDSR [Party of Social 
@@ -14487,18 +14488,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   New Chief Promises `Apolitical' Television </TI></H3>
-<F P=102>  94P20218A Bucharest ROMANIA LIBERA in Romanian 17 Jan 94 p 3 </F>
-<F P=103> 94P20218A </F>
-<F P=104>  Bucharest ROMANIA LIBERA </F>
+<F P="102">  94P20218A Bucharest ROMANIA LIBERA in Romanian 17 Jan 94 p 3 </F>
+<F P="103"> 94P20218A </F>
+<F P="104">  Bucharest ROMANIA LIBERA </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Dumitru Popa, director general of Romanian </F>
+<F P="106"> [Interview with Dumitru Popa, director general of Romanian </F>
 Television, by Dan Priesz; place and date not given: "Don't 
 Expect Me To Make Television in My Own Image and Likeness"] 
   [Text] The new director of Romanian Television [TVR], 
@@ -14691,18 +14692,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> SLOVENIA </F>
+<F P="100"> SLOVENIA </F>
 <H3> <TI>   Danica Draskovic Blasts Serbian Leadership </TI></H3>
-<F P=102>  94P20359A Ljubljana DNEVNIK in Slovene 3 Feb 94 p 9 </F>
-<F P=103> 94P20359A </F>
-<F P=104>  Ljubljana DNEVNIK </F>
+<F P="102">  94P20359A Ljubljana DNEVNIK in Slovene 3 Feb 94 p 9 </F>
+<F P="103"> 94P20359A </F>
+<F P="104">  Ljubljana DNEVNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Slovene </F>
+Language: <F P="105"> Slovene </F>
 Article Type:CSO 
 
-<F P=106> [Article by T.M.: "Danica Mad at Serbian Leadership"] </F>
+<F P="106"> [Article by T.M.: "Danica Mad at Serbian Leadership"] </F>
   [Text] Belgrade, 3 February -- The Serbian opposition 
 magazine SRPSKA REC published a scathing criticism of Serbian 
 policy written by its director Danica Draskovic, wife of 
@@ -14743,11 +14744,11 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> SLOVENIA </F>
+<F P="100"> SLOVENIA </F>
 <H3> <TI>   Factional Strife in Party of Democratic Action </TI></H3>
-<F P=102>  94P20374A </F>
-<F P=103> 94P20374A </F>
-<F P=104></F>
+<F P="102">  94P20374A </F>
+<F P="103"> 94P20374A </F>
+<F P="104"></F>
 
 
 
@@ -14835,15 +14836,15 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> SLOVENIA </F>
+<F P="100"> SLOVENIA </F>
 <H3> <TI>   Recruits Discharged Early by Defense Ministry </TI></H3>
-<F P=102>  94P20383A Ljubljana STA in English 1335 GMT 14 Feb 94 </F>
-<F P=103> 94P20383A </F>
-<F P=104>  Ljubljana STA </F>
+<F P="102">  94P20383A Ljubljana STA in English 1335 GMT 14 Feb 94 </F>
+<F P="103"> 94P20383A </F>
+<F P="104">  Ljubljana STA </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
   [Text] At the end of the week, the August national service 
@@ -14894,17 +14895,17 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> SLOVENIA </F>
+<F P="100"> SLOVENIA </F>
 <H3> <TI>   Government Passes 1994 Budget </TI></H3>
-<F P=102>  AU1802092894 Ljubljana Radio Slovenia Network in Slovene 
+<F P="102">  AU1802092894 Ljubljana Radio Slovenia Network in Slovene 
 1430 GMT 17 Feb 94 </F>
 
-<F P=103> AU1802092894 </F>
-<F P=104>  Ljubljana Radio Slovenia Network </F>
+<F P="103"> AU1802092894 </F>
+<F P="104">  Ljubljana Radio Slovenia Network </F>
 
 
 <TEXT>
-Language: <F P=105> Slovene </F>
+Language: <F P="105"> Slovene </F>
 Article Type:BFN 
 
   [Text] Today, the government passed the proposal of the 
@@ -14964,20 +14965,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
+<F P="100"> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
 <H3> <TI>   `Plight' of Macedonians in Bulgaria Decried </TI></H3>
-<F P=102>  AU1102121994 Skopje NOVA MAKEDONIJA in Macedonian 10 Feb 94 
+<F P="102">  AU1102121994 Skopje NOVA MAKEDONIJA in Macedonian 10 Feb 94 
 p 2 </F>
 
-<F P=103> AU1102121994 </F>
-<F P=104>  Skopje NOVA MAKEDONIJA </F>
+<F P="103"> AU1102121994 </F>
+<F P="104">  Skopje NOVA MAKEDONIJA </F>
 
 
 <TEXT>
-Language: <F P=105> Macedonian </F>
+Language: <F P="105"> Macedonian </F>
 Article Type:BFN 
 
-<F P=106> [Article by Vladimir Tulevski: "Macedonians on Trial"] </F>
+<F P="106"> [Article by Vladimir Tulevski: "Macedonians on Trial"] </F>
   [Text] The plight of the Macedonians in Bulgaria continues 
 despite the alleged policy of our eastern neighbor, in its 
 transition to European, just, and civilized values. This, some 
@@ -15136,18 +15137,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
+<F P="100"> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
 <H3> <TI>   Development of Political Youth Groups </TI></H3>
-<F P=102>  94P20361A Skopje NOVA MAKEDONIJA in Macedonian 9 Jan 94 p 2 </F>
-<F P=103> 94P20361A </F>
-<F P=104>  Skopje NOVA MAKEDONIJA </F>
+<F P="102">  94P20361A Skopje NOVA MAKEDONIJA in Macedonian 9 Jan 94 p 2 </F>
+<F P="103"> 94P20361A </F>
+<F P="104">  Skopje NOVA MAKEDONIJA </F>
 
 
 <TEXT>
-Language: <F P=105> Macedonian </F>
+Language: <F P="105"> Macedonian </F>
 Article Type:CSO 
 
-<F P=106> [Article by S. Vasic and S. Colakovski: "Party Boomerang: </F>
+<F P="106"> [Article by S. Vasic and S. Colakovski: "Party Boomerang: </F>
 Youth on the Margins of Political Life"] 
   [Text] Does the formation of a new generation for the 
 parties, immediately before the elections, mean that young 
@@ -15331,18 +15332,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
+<F P="100"> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
 <H3> <TI>   Differing Inflation Rates Assessed </TI></H3>
-<F P=102>  94BA0166A Skopje VECER in Macedonian 12 Jan 94 p 3 </F>
-<F P=103> 94BA0166A </F>
-<F P=104>  Skopje VECER </F>
+<F P="102">  94BA0166A Skopje VECER in Macedonian 12 Jan 94 p 3 </F>
+<F P="103"> 94BA0166A </F>
+<F P="104">  Skopje VECER </F>
 
 
 <TEXT>
-Language: <F P=105> Macedonian </F>
+Language: <F P="105"> Macedonian </F>
 Article Type:CSO 
 
-<F P=106> [Article by V. Eftov: "Inflation Based on False </F>
+<F P="106"> [Article by V. Eftov: "Inflation Based on False </F>
 Computations"] 
   [Text] According to the government, last year's 
 inflation reached 240 percent, although the statisticians assess 
@@ -15468,18 +15469,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
+<F P="100"> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
 <H3> <TI>   Report Sums Up Country's Credits, Debts </TI></H3>
-<F P=102>  AU1002174494 Skopje MIC in English 9 Feb 94 </F>
-<F P=103> AU1002174494 </F>
-<F P=104>  Skopje MIC </F>
+<F P="102">  AU1002174494 Skopje MIC in English 9 Feb 94 </F>
+<F P="103"> AU1002174494 </F>
+<F P="104">  Skopje MIC </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed report: "Special Feature -- The New Macedonian </F>
+<F P="106"> [Unattributed report: "Special Feature -- The New Macedonian </F>
 Credits and the Return of the Debts"] 
   [Text] 1) The first credit Macedonia received after its 
 independence was the one from Mr. George Soros, last Winter, 
@@ -15670,18 +15671,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
+<F P="100"> THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA </F>
 <H3> <TI>   Food Manufacturers Warn of Spring Sowing Problems </TI></H3>
-<F P=102>  AU1402164094 Skopje MILS-NEWS in English 14 Feb 94 </F>
-<F P=103> AU1402164094 </F>
-<F P=104>  Skopje MILS-NEWS </F>
+<F P="102">  AU1402164094 Skopje MILS-NEWS in English 14 Feb 94 </F>
+<F P="103"> AU1402164094 </F>
+<F P="104">  Skopje MILS-NEWS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed report: "Spring Sowing Uncertain"] </F>
+<F P="106"> [Unattributed report: "Spring Sowing Uncertain"] </F>
   [Text] Food manufacturers announce, as early as now, a 
 lack of finances for the spring sowing. The selective program, 
 the previous sole source of finances for this and other 
@@ -15712,21 +15713,21 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   Arrests of Muslim Leaders in Sandzak </TI></H3>
-<F P=102>  94P20404C Belgrade VECERNJE NOVOSTI in Serbo-Croatian 30 Jan 
+<F P="102">  94P20404C Belgrade VECERNJE NOVOSTI in Serbo-Croatian 30 Jan 
 94 p 4 </F>
 
-<F P=103> 94P20404C </F>
-<F P=104>  Belgrade VECERNJE NOVOSTI </F>
+<F P="103"> 94P20404C </F>
+<F P="104">  Belgrade VECERNJE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by D.R.: "Stop the Arrests"] </F>
+<F P="106"> [Article by D.R.: "Stop the Arrests"] </F>
   [Text] The Democratic Action Party has sent a letter to 
 diplomatic and consular representations in Belgrade requesting 
 that they inform the governments of their countries about the 
@@ -15772,12 +15773,12 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   Arrested SDA Leaders Allegedly Planning Rebellion </TI></H3>
-<F P=102>  94P20428B </F>
-<F P=103> 94P20428B </F>
-<F P=104></F>
+<F P="102">  94P20428B </F>
+<F P="103"> 94P20428B </F>
+<F P="104"></F>
 
 
 
@@ -15826,19 +15827,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   Foreign Minister Views Current Developments </TI></H3>
-<F P=102>  AU1102184594 Zagreb DANAS in Serbo-Croatian 8 Feb 94 pp 16-18 </F>
-<F P=103> AU1102184594 </F>
-<F P=104>  Zagreb DANAS </F>
+<F P="102">  AU1102184594 Zagreb DANAS in Serbo-Croatian 8 Feb 94 pp 16-18 </F>
+<F P="103"> AU1102184594 </F>
+<F P="104">  Zagreb DANAS </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Vladislav Jovanovic, foreign minister of the </F>
+<F P="106"> [Interview with Vladislav Jovanovic, foreign minister of the </F>
 FRY, by DJ News Agency; place and date not given: "We Are 
 Expecting Mate Granic in Belgrade"] 
   [Text] Representatives of the Republic of Croatia and 
@@ -16103,21 +16104,21 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   FRY Army General Evaluates Air Strike Threat </TI></H3>
-<F P=102>  94P20377D Belgrade VECERNJE NOVOSTI in Serbo-Croatian 31 Jan 
+<F P="102">  94P20377D Belgrade VECERNJE NOVOSTI in Serbo-Croatian 31 Jan 
 94 p 4 </F>
 
-<F P=103> 94P20377D </F>
-<F P=104>  Belgrade VECERNJE NOVOSTI </F>
+<F P="103"> 94P20377D </F>
+<F P="104">  Belgrade VECERNJE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: "Strikes Could Not Achieve Objective"] </F>
+<F P="106"> [Unattributed article: "Strikes Could Not Achieve Objective"] </F>
   [Text] The chief of staff of the Yugoslav Army, General 
 Momcilo Perisic, stated yesterday that even the use of large 
 contingents of air power would result in small gains. Thus, from 
@@ -16172,19 +16173,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   Yugoslav Army Secrecy About Deaths of Soldiers </TI></H3>
-<F P=102>  94BA0177A Belgrade VREME in Serbo-Croatian 24 Jan 94 pp 24-26 </F>
-<F P=103> 94BA0177A </F>
-<F P=104>  Belgrade VREME </F>
+<F P="102">  94BA0177A Belgrade VREME in Serbo-Croatian 24 Jan 94 pp 24-26 </F>
+<F P="103"> 94BA0177A </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ivan Radovanovic and Perica Vucinic: "`When the </F>
+<F P="106"> [Article by Ivan Radovanovic and Perica Vucinic: "`When the </F>
 War Stops, We Will See Who Is Alive and Who Is Dead'"] 
   [Text] When Colonel General Momcilo Perisic, chief of the 
 General Staff of the Army of Yugoslavia [VJ], appeared on 
@@ -16418,19 +16419,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   New Unit Tasked With Securing Border With Bosnia </TI></H3>
-<F P=102>  94P20415A Belgrade VOJSKA in Serbo-Croatian 2 Dec 93 p 20 </F>
-<F P=103> 94P20415A </F>
-<F P=104>  Belgrade VOJSKA </F>
+<F P="102">  94P20415A Belgrade VOJSKA in Serbo-Croatian 2 Dec 93 p 20 </F>
+<F P="103"> 94P20415A </F>
+<F P="104">  Belgrade VOJSKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Vukosavljevic: "Guardians of Peace"] </F>
+<F P="106"> [Article by M. Vukosavljevic: "Guardians of Peace"] </F>
   [Excerpts] The unit commanded by Captain First Class Jovan 
 Adamovic is one of the newly formed units in the Niksic 
 [Montenegro] garrison. Its task is to secure the [Federal 
@@ -16466,21 +16467,21 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Federal </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Federal </F>
 <H3> <TI>   Crete Offers Military, Humanitarian Aid to Serbs </TI></H3>
-<F P=102>  94P20351A Belgrade VECERNJE NOVOSTI in Serbo-Croatian 20 Jan 
+<F P="102">  94P20351A Belgrade VECERNJE NOVOSTI in Serbo-Croatian 20 Jan 
 94 p 5 </F>
 
-<F P=103> 94P20351A </F>
-<F P=104>  Belgrade VECERNJE NOVOSTI </F>
+<F P="103"> 94P20351A </F>
+<F P="104">  Belgrade VECERNJE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by B. Dimitrovska: "Crete Is With Serbia"] </F>
+<F P="106"> [Article by B. Dimitrovska: "Crete Is With Serbia"] </F>
   [Text] Tugboats carrying the sign "You Are Not Alone -- 
 Crete Is With You" have delivered 450 metric tons of 
 humanitarian aid from Iraklion. Father Dimitrije Teodorus sent a 
@@ -16552,19 +16553,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Kosovo </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Kosovo </F>
 <H3> <TI>   Four Albanians Sentenced as Secessionists </TI></H3>
-<F P=102>  94P20366A Belgrade POLITIKA in Serbo-Croatian 2 Feb 94 p 15 </F>
-<F P=103> 94P20366A </F>
-<F P=104>  Belgrade POLITIKA </F>
+<F P="102">  94P20366A Belgrade POLITIKA in Serbo-Croatian 2 Feb 94 p 15 </F>
+<F P="103"> 94P20366A </F>
+<F P="104">  Belgrade POLITIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by P. Pasic: "Four-Member Hostile Group Sentenced"] </F>
+<F P="106"> [Article by P. Pasic: "Four-Member Hostile Group Sentenced"] </F>
   [Text] A three-member board of judges of the District Court 
 in Pec, presided over by Judge Dusan Micanovic, has pronounced 
 Afrim Mehmeti (age 38), Gazmend Muhadjeri (age 34), Mehmed Lekaj 
@@ -16614,19 +16615,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Kosovo </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Kosovo </F>
 <H3> <TI>   Kosovo Firms Violating New Measures Closed Down </TI></H3>
-<F P=102>  94P20391A Belgrade POLITIKA in Serbo-Croatian 1 Feb 94 p 13 </F>
-<F P=103> 94P20391A </F>
-<F P=104>  Belgrade POLITIKA </F>
+<F P="102">  94P20391A Belgrade POLITIKA in Serbo-Croatian 1 Feb 94 p 13 </F>
+<F P="103"> 94P20391A </F>
+<F P="104">  Belgrade POLITIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lj. Rabrenovic: "24 Firms Closed Down in </F>
+<F P="106"> [Article by Lj. Rabrenovic: "24 Firms Closed Down in </F>
 Kosovksa Mitrovica"] 
   [Excerpt] The republic market inspectorate closed down 24 
 private stores in Kosovska Mitrovica [Kosovo] for violating the 
@@ -16674,21 +16675,21 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Montenegro </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Montenegro </F>
 <H3> <TI>   Commentary Sees Montenegrin Nationalism Rising </TI></H3>
-<F P=102>  AU1702211694 Belgrade BORBA in Serbo-Croatian 16 Feb 94 p 
+<F P="102">  AU1702211694 Belgrade BORBA in Serbo-Croatian 16 Feb 94 p 
 12,13 </F>
 
-<F P=103> AU1702211694 </F>
-<F P=104>  Belgrade BORBA </F>
+<F P="103"> AU1702211694 </F>
+<F P="104">  Belgrade BORBA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Dragoljub Vukovic: "Montenegrinhood Virus </F>
+<F P="106"> [Commentary by Dragoljub Vukovic: "Montenegrinhood Virus </F>
 Activated"] 
   [Text] At the recent extraordinary session of the Peoples' 
 Party of Montenegro in Kotor, the amendment to the statute, 
@@ -16810,19 +16811,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Montenegro </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Montenegro </F>
 <H3> <TI>   Sandzak Muslims Allegedly Trained in Turkey Arrested </TI></H3>
-<F P=102>  94P20391B Belgrade POLITIKA in Serbo-Croatian 4 Feb 94 p 15 </F>
-<F P=103> 94P20391B </F>
-<F P=104>  Belgrade POLITIKA </F>
+<F P="102">  94P20391B Belgrade POLITIKA in Serbo-Croatian 4 Feb 94 p 15 </F>
+<F P="103"> 94P20391B </F>
+<F P="104">  Belgrade POLITIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Drobnjak: "Terrorists Trained in Turkey"] </F>
+<F P="106"> [Article by M. Drobnjak: "Terrorists Trained in Turkey"] </F>
   [Text] Details of a dark scenario to organize an armed 
 rebellion in northern Montenegrin municipalities and to create a 
 so-called state of Sandzak have been slowly reaching the public. 
@@ -16884,19 +16885,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Montenegro </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Montenegro </F>
 <H3> <TI>   Montenegro Prime Minister on Salvaging Maritime Trade </TI></H3>
-<F P=102>  94P20428A Podgorica POBJEDA in Serbo-Croatian 4 Feb 94 p l </F>
-<F P=103> 94P20428A </F>
-<F P=104>  Podgorica POBJEDA </F>
+<F P="102">  94P20428A Podgorica POBJEDA in Serbo-Croatian 4 Feb 94 p l </F>
+<F P="103"> 94P20428A </F>
+<F P="104">  Podgorica POBJEDA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Vico: "How To Salvage the Fleet"] </F>
+<F P="106"> [Article by M. Vico: "How To Salvage the Fleet"] </F>
   [Excerpts] Montenegro Prime Minister Mile Djukanovic, 
 opening a two-day conference on the prospects of the 
 shipbuilding, repair, and servicing industry in the Federal 
@@ -16948,21 +16949,21 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Serbia </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Serbia </F>
 <H3> <TI>   Commentary Views B-H Army's Strength </TI></H3>
-<F P=102>  AU0902163794 Belgrade POLITIKA in Serbo-Croatian 5 Feb 94 p 
+<F P="102">  AU0902163794 Belgrade POLITIKA in Serbo-Croatian 5 Feb 94 p 
 12 </F>
 
-<F P=103> AU0902163794 </F>
-<F P=104>  Belgrade POLITIKA </F>
+<F P="103"> AU0902163794 </F>
+<F P="104">  Belgrade POLITIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Radovan Kovacevic: "For How Long Are the </F>
+<F P="106"> [Commentary by Radovan Kovacevic: "For How Long Are the </F>
 Lilies Capable of Fighting?"] 
   [Text] In the presence of Yasushi Akashi, newly appointed 
 UNPROFOR chief in Bosnia, Alija Izetbegovic sent yet another 
@@ -17125,19 +17126,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Serbia </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Serbia </F>
 <H3> <TI>   `Secret Weapon' To Be Manufactured in Serbia </TI></H3>
-<F P=102>  94P20398A Zagreb VJESNIK in Serbo-Croatian 11 Feb 94 p 8 </F>
-<F P=103> 94P20398A </F>
-<F P=104>  Zagreb VJESNIK </F>
+<F P="102">  94P20398A Zagreb VJESNIK in Serbo-Croatian 11 Feb 94 p 8 </F>
+<F P="103"> 94P20398A </F>
+<F P="104">  Zagreb VJESNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by I.B. "Elipton To Be Manufactured (Also) in </F>
+<F P="106"> [Article by I.B. "Elipton To Be Manufactured (Also) in </F>
 Serbia?!"] 
   [Text] (From VJESNIK correspondent) Belgrade -- The 
 Thursday edition of POLITIKA published a statement by Tomislav 
@@ -17170,19 +17171,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Serbia </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Serbia </F>
 <H3> <TI>   Mobilization of Refugees Causes Panic </TI></H3>
-<F P=102>  94BA0177C Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 29-31 </F>
-<F P=103> 94BA0177C </F>
-<F P=104>  Belgrade VREME </F>
+<F P="102">  94BA0177C Belgrade VREME in Serbo-Croatian 31 Jan 94 pp 29-31 </F>
+<F P="103"> 94BA0177C </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Uros Komlenovic: "Mobilization: Inexpensive </F>
+<F P="106"> [Article by Uros Komlenovic: "Mobilization: Inexpensive </F>
 Heads of Refugees"] 
   [Text] In Serbia these days the constant fear that Bosnian 
 refugees of military age have of the long hand of the fatherland 
@@ -17345,19 +17346,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Serbia </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Serbia </F>
 <H3> <TI>   Problems with Introduction of New Dinar </TI></H3>
-<F P=102>  94BA0174A Belgrade VREME in Serbo-Croatian 24 Jan 94 pp 14-16 </F>
-<F P=103> 94BA0174A </F>
-<F P=104>  Belgrade VREME </F>
+<F P="102">  94BA0174A Belgrade VREME in Serbo-Croatian 24 Jan 94 pp 14-16 </F>
+<F P="103"> 94BA0174A </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zoran Jelicic: "Economic Chaos: Three </F>
+<F P="106"> [Article by Zoran Jelicic: "Economic Chaos: Three </F>
 Governments, Two Dinars, One Illusion"] 
   [Text] It will be a big and pleasant surprise if it 
 turns out that collecting foreign exchange from the citizens and 
@@ -17562,21 +17563,21 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Serbia </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Serbia </F>
 <H3> <TI>   Difficulties of Serbian Electric Industry </TI></H3>
-<F P=102>  94P20373A Belgrade EKONOMSKA POLITIKA in Serbo-Croatian 24 
+<F P="102">  94P20373A Belgrade EKONOMSKA POLITIKA in Serbo-Croatian 24 
 Jan 94 p 17 </F>
 
-<F P=103> 94P20373A </F>
-<F P=104>  Belgrade EKONOMSKA POLITIKA </F>
+<F P="103"> 94P20373A </F>
+<F P="104">  Belgrade EKONOMSKA POLITIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by D. Nedeljkovic: "Appeals"] </F>
+<F P="106"> [Article by D. Nedeljkovic: "Appeals"] </F>
   [Text] The management of the Serbian Electric Power 
 Industry has found itself in a no-win situation. By appealing to 
 consumers to conserve and rationally consume electricity, it has 
@@ -17661,19 +17662,19 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   2 March 1994 </DATE1>
-<F P=100> YUGOSLAVIA </F>
-<F P=101> Serbia </F>
+<F P="100"> YUGOSLAVIA </F>
+<F P="101"> Serbia </F>
 <H3> <TI>   High Taxes Levied on Farmers; Fuel Not Supplied </TI></H3>
-<F P=102>  AU1702102494 Belgrade BORBA in Serbo-Croatian 16 Feb 94 p 11 </F>
-<F P=103> AU1702102494 </F>
-<F P=104>  Belgrade BORBA </F>
+<F P="102">  AU1702102494 Belgrade BORBA in Serbo-Croatian 16 Feb 94 p 11 </F>
+<F P="103"> AU1702102494 </F>
+<F P="104">  Belgrade BORBA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Article by B. Gulan: "Sell Your Land To Pay the Taxes"] </F>
+<F P="106"> [Article by B. Gulan: "Sell Your Land To Pay the Taxes"] </F>
   [Excerpts] By the Serbian Government's Decree on Taxation 
 of Property, Agriculture, Forestry, and Independent Businesses, 
 the farmers across the entire country, and there are more than 2 
@@ -17732,18 +17733,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Slovenia Seeking SFRY Succession Talks </TI></H3>
-<F P=102>  94P20457A Ljubljana DELO in Slovene 10 Feb 94 p 1 </F>
-<F P=103> 94P20457A </F>
-<F P=104>  Ljubljana DELO </F>
+<F P="102">  94P20457A Ljubljana DELO in Slovene 10 Feb 94 p 1 </F>
+<F P="103"> 94P20457A </F>
+<F P="104">  Ljubljana DELO </F>
 
 
 <TEXT>
-Language: <F P=105> Slovene </F>
+Language: <F P="105"> Slovene </F>
 Article Type:CSO 
 
-<F P=106> [Article by Bozo Masanovic: "Succession Talks Must Continue"] </F>
+<F P="106"> [Article by Bozo Masanovic: "Succession Talks Must Continue"] </F>
   [Text] (From our correspondent) Geneva, 9 February -- 
 Slovenia wants to resume the negotiations on the division of the 
 assets of the former Yugoslavia. In a special memorandum 
@@ -17799,18 +17800,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   RSK, RS, FRY Intelligence Services Merging </TI></H3>
-<F P=102>  94BA0183A Ljubljana DELO in Slovene 9 Feb 93 p 6 </F>
-<F P=103> 94BA0183A </F>
-<F P=104>  Ljubljana DELO </F>
+<F P="102">  94BA0183A Ljubljana DELO in Slovene 9 Feb 93 p 6 </F>
+<F P="103"> 94BA0183A </F>
+<F P="104">  Ljubljana DELO </F>
 
 
 <TEXT>
-Language: <F P=105> Slovene </F>
+Language: <F P="105"> Slovene </F>
 Article Type:CSO 
 
-<F P=106> [Article by Kresimir Meler: "Intelligence Offices Are </F>
+<F P="106"> [Article by Kresimir Meler: "Intelligence Offices Are </F>
 Merging"] 
   [Text] A secret agreement was signed at Plitvice on 
 joint work by the intelligence and counterintelligence services 
@@ -17905,20 +17906,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   Prospects for Economic Cooperation With Greece </TI></H3>
-<F P=102>  94P20441A Tirana RILINDJA DEMOKRATIKE in Albanian 21 Jan 94 
+<F P="102">  94P20441A Tirana RILINDJA DEMOKRATIKE in Albanian 21 Jan 94 
 p 4 </F>
 
-<F P=103> 94P20441A </F>
-<F P=104>  Tirana RILINDJA DEMOKRATIKE </F>
+<F P="103"> 94P20441A </F>
+<F P="104">  Tirana RILINDJA DEMOKRATIKE </F>
 
 
 <TEXT>
-Language: <F P=105> Albanian </F>
+Language: <F P="105"> Albanian </F>
 Article Type:CSO 
 
-<F P=106> [Statement signed by Christos Failadis, press counselor of </F>
+<F P="106"> [Statement signed by Christos Failadis, press counselor of </F>
 the Greek Embassy in Tirana: "The Fourth Session of the Joint 
 Greek-Albanian Interministerial Commission Has Concluded"] 
   [Text] The proceedings of the Fourth Session of the Joint 
@@ -18013,20 +18014,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Data on Herceg-Bosna Official </TI></H3>
-<F P=102>  94P20435A Split SLOBODNA DALMACIJA in Serbo-Croatian 18 Feb 
+<F P="102">  94P20435A Split SLOBODNA DALMACIJA in Serbo-Croatian 18 Feb 
 94 p 6 </F>
 
-<F P=103> 94P20435A </F>
-<F P=104>  Split SLOBODNA DALMACIJA </F>
+<F P="103"> 94P20435A </F>
+<F P="104">  Split SLOBODNA DALMACIJA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Report by HINA: "Biography of Zubak"] </F>
+<F P="106"> [Report by HINA: "Biography of Zubak"] </F>
   [Text] Kresimir Zubak, president of the presidential 
 council of the Croat republic of Herceg-Bosna, was born on 29 
 November 1947 in Doboj and is a lawyer by training. 
@@ -18057,20 +18058,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Tudjman Addresses HDZ Committee in Zagreb </TI></H3>
-<F P=102>  LD2502144694 Zagreb HTV Television in Serbo-Croatian 1918 
+<F P="102">  LD2502144694 Zagreb HTV Television in Serbo-Croatian 1918 
 GMT 24 Feb 94 </F>
 
-<F P=103> LD2502144694 </F>
-<F P=104>  Zagreb HTV Television </F>
+<F P="103"> LD2502144694 </F>
+<F P="104">  Zagreb HTV Television </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Address by Croatian President Franjo Tudjman to first </F>
+<F P="106"> [Address by Croatian President Franjo Tudjman to first </F>
 session of the main committee of the Croatian Democratic 
 Community (HDZ) in Zagreb on 24 February -- recorded] 
   [Text] We could speak about the fourth anniversary of the 
@@ -18495,18 +18496,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   RSK's Martic on Normalization of Relations </TI></H3>
-<F P=102>  94BA0195A Belgrade NIN in Serbo-Croatian 18 Feb 94 pp 16-18 </F>
-<F P=103> 94BA0195A </F>
-<F P=104>  Belgrade NIN </F>
+<F P="102">  94BA0195A Belgrade NIN in Serbo-Croatian 18 Feb 94 pp 16-18 </F>
+<F P="103"> 94BA0195A </F>
+<F P="104">  Belgrade NIN </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Milan Martic, president of the republic of </F>
+<F P="106"> [Interview with Milan Martic, president of the republic of </F>
 Serbian Krajina, by Luka Miceta; place and date not given: 
 "Dzakula Is Not the Only One"] 
   [Text] "Personally, I have nothing against the fact 
@@ -18799,18 +18800,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Knin Radicals Feel Betrayed by Milosevic </TI></H3>
-<F P=102>  94P20439A Ljubljana DELO in Slovene 4 Feb 94 p 5 </F>
-<F P=103> 94P20439A </F>
-<F P=104>  Ljubljana DELO </F>
+<F P="102">  94P20439A Ljubljana DELO in Slovene 4 Feb 94 p 5 </F>
+<F P="103"> 94P20439A </F>
+<F P="104">  Ljubljana DELO </F>
 
 
 <TEXT>
-Language: <F P=105> Slovene </F>
+Language: <F P="105"> Slovene </F>
 Article Type:CSO 
 
-<F P=106> [Article by Kresimir Meler: "We Are Strong Enough"] </F>
+<F P="106"> [Article by Kresimir Meler: "We Are Strong Enough"] </F>
   [Text] (From our correspondent) -- "Milosevic has betrayed 
 us. What does the establishment of telephone connections between 
 Belgrade and Zagreb really mean? It means that the republic of 
@@ -18885,18 +18886,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Need To Respect `Political Will' of Serbs </TI></H3>
-<F P=102>  94P20468A Zagreb DANAS in Serbo-Croatian 22 Feb 94 p 12 </F>
-<F P=103> 94P20468A </F>
-<F P=104>  Zagreb DANAS </F>
+<F P="102">  94P20468A Zagreb DANAS in Serbo-Croatian 22 Feb 94 p 12 </F>
+<F P="103"> 94P20468A </F>
+<F P="104">  Zagreb DANAS </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Milorad Pupovac, president of the Serbian </F>
+<F P="106"> [Interview with Milorad Pupovac, president of the Serbian </F>
 Democratic Forum, by Tihomir Dujmovic; place and date not given: 
 "Do Not Mention the Badinter Commission"] 
   [Excerpts] Milorad Pupovac, a professor at the Faculty of 
@@ -19020,18 +19021,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Government Ready To Protect Czechoslovak Airlines </TI></H3>
-<F P=102>  94CH0166A Prague PRAGUE POST in English 8 Feb 94 p 7 </F>
-<F P=103> 94CH0166A </F>
-<F P=104>  Prague PRAGUE POST </F>
+<F P="102">  94CH0166A Prague PRAGUE POST in English 8 Feb 94 p 7 </F>
+<F P="103"> 94CH0166A </F>
+<F P="104">  Prague PRAGUE POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by J. Dee Hill: "Czech Protectionism Grounds KLM </F>
+<F P="106"> [Article by J. Dee Hill: "Czech Protectionism Grounds KLM </F>
 Flights"] 
   [Text] The Czech government last month reneged on its 
 air-transport agreement with the Dutch government and the 
@@ -19101,18 +19102,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Concern About Interruptions in Deliveries of Oil </TI></H3>
-<F P=102>  94CH0166B Prague PRAGUE POST in English 8 Feb 94 p 5 </F>
-<F P=103> 94CH0166B </F>
-<F P=104>  Prague PRAGUE POST </F>
+<F P="102">  94CH0166B Prague PRAGUE POST in English 8 Feb 94 p 5 </F>
+<F P="103"> 94CH0166B </F>
+<F P="104">  Prague PRAGUE POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by J. Dee Hill: "Oil Pipeline Shutdown Serves as a </F>
+<F P="106"> [Article by J. Dee Hill: "Oil Pipeline Shutdown Serves as a </F>
 Warning"] 
   [Text] When the crude oil flowing through the pipeline from 
 Russia to the Czech Republic was cut off for five days last 
@@ -19189,18 +19190,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Klaus's Party Shows Signs of Inner Strain </TI></H3>
-<F P=102>  94CH0165A Prague PRAGUE POST in English 8 Feb 94 pp 1, 3 </F>
-<F P=103> 94CH0165A </F>
-<F P=104>  Prague PRAGUE POST </F>
+<F P="102">  94CH0165A Prague PRAGUE POST in English 8 Feb 94 pp 1, 3 </F>
+<F P="103"> 94CH0165A </F>
+<F P="104">  Prague PRAGUE POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Victor Gomez: "A Crack Emerges in the Klaus </F>
+<F P="106"> [Article by Victor Gomez: "A Crack Emerges in the Klaus </F>
 Facade"] 
   [Text] A mild-mannered parliamentary deputy from northern 
 Bohemia has cracked the monolithic image of the Czech Republic's 
@@ -19330,18 +19331,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Article Criticizes Shortcomings in New Army </TI></H3>
-<F P=102>  AU1702173794 Prague CESKY DENIK in Czech 14 Feb 94 p 11 </F>
-<F P=103> AU1702173794 </F>
-<F P=104>  Prague CESKY DENIK </F>
+<F P="102">  AU1702173794 Prague CESKY DENIK in Czech 14 Feb 94 p 11 </F>
+<F P="103"> AU1702173794 </F>
+<F P="104">  Prague CESKY DENIK </F>
 
 
 <TEXT>
-Language: <F P=105> Czech </F>
+Language: <F P="105"> Czech </F>
 Article Type:BFN 
 
-<F P=106> [Article by Josef Stetka: "The Transformation of the Czech </F>
+<F P="106"> [Article by Josef Stetka: "The Transformation of the Czech </F>
 Republic Army"] 
   [Text] At his first meeting with rehabilitated soldiers, 
 Defense Minister Baudys expressed his regret that the Army does 
@@ -19680,20 +19681,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Progress of Army Transformation Assessed </TI></H3>
-<F P=102>  AU1702191994 Prague HOSPODARSKE NOVINY in Czech 15 Feb 94 p 
+<F P="102">  AU1702191994 Prague HOSPODARSKE NOVINY in Czech 15 Feb 94 p 
 19 </F>
 
-<F P=103> AU1702191994 </F>
-<F P=104>  Prague HOSPODARSKE NOVINY </F>
+<F P="103"> AU1702191994 </F>
+<F P="104">  Prague HOSPODARSKE NOVINY </F>
 
 
 <TEXT>
-Language: <F P=105> Czech </F>
+Language: <F P="105"> Czech </F>
 Article Type:BFN 
 
-<F P=106> [Article by Antonin Rasek: "The Czech Army Has Been in </F>
+<F P="106"> [Article by Antonin Rasek: "The Czech Army Has Been in </F>
 Existence for One Year"] 
   [Text] The Army of the Czech Republic is assessing the 
 first year of its existence. At the same time, however, it 
@@ -19867,18 +19868,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> CZECH REPUBLIC </F>
+<F P="100"> CZECH REPUBLIC </F>
 <H3> <TI>   Education of Czech Consumers Continues </TI></H3>
-<F P=102>  94CH0166C Prague PRAGUE POST in English 8 Feb 94 p 9 </F>
-<F P=103> 94CH0166C </F>
-<F P=104>  Prague PRAGUE POST </F>
+<F P="102">  94CH0166C Prague PRAGUE POST in English 8 Feb 94 p 9 </F>
+<F P="103"> 94CH0166C </F>
+<F P="104">  Prague PRAGUE POST </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Commentary by John Hibbs: "Consumers Still Not Kings"] </F>
+<F P="106"> [Commentary by John Hibbs: "Consumers Still Not Kings"] </F>
   [Text] If the reader of this article can correctly answer 
 the following question then he or she has rare insight into 
 doing business in the Czech Republic. 
@@ -19985,11 +19986,11 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   NATO-Compatible Encoding System Developed </TI></H3>
-<F P=102>  94P20442A </F>
-<F P=103> 94P20442A </F>
-<F P=104></F>
+<F P="102">  94P20442A </F>
+<F P="103"> 94P20442A </F>
+<F P="104"></F>
 
 
 
@@ -20028,18 +20029,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   UD Criticizes Government, To Meet With KLD </TI></H3>
-<F P=102>  94P20372A Warsaw GAZETA WYBORCZA in Polish 31 Jan 94 p 3 </F>
-<F P=103> 94P20372A </F>
-<F P=104>  Warsaw GAZETA WYBORCZA </F>
+<F P="102">  94P20372A Warsaw GAZETA WYBORCZA in Polish 31 Jan 94 p 3 </F>
+<F P="103"> 94P20372A </F>
+<F P="104">  Warsaw GAZETA WYBORCZA </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Agata Nowakowska: "Union Preparing Manifesto"] </F>
+<F P="106"> [Article by Agata Nowakowska: "Union Preparing Manifesto"] </F>
   [Text] A statement issued by the members of the Presidium 
 of the Democratic Union (UD) after their 30 January meeting 
 asserts that the end of the current government coalition will 
@@ -20115,18 +20116,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Opponent to Vatican Concordat Profiled </TI></H3>
-<F P=102>  94P20418A Poznan WPROST in Polish No 4, 23 Jan 94 p 6 </F>
-<F P=103> 94P20418A </F>
-<F P=104>  Poznan WPROST </F>
+<F P="102">  94P20418A Poznan WPROST in Polish No 4, 23 Jan 94 p 6 </F>
+<F P="103"> 94P20418A </F>
+<F P="104">  Poznan WPROST </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article under the rubric "People": "Barbara </F>
+<F P="106"> [Unattributed article under the rubric "People": "Barbara </F>
 Labuda"] 
   [Text] The Association for Rights and Freedom, which is 
 chaired by Barbara Labuda, is opposed to the Sejm ratification 
@@ -20179,18 +20180,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Economic, Social Aims of Political Grouping </TI></H3>
-<F P=102>  94EP0042B Warsaw LAD in Polish No 4, 23 Jan 94 p 3 </F>
-<F P=103> 94EP0042B </F>
-<F P=104>  Warsaw LAD </F>
+<F P="102">  94EP0042B Warsaw LAD in Polish No 4, 23 Jan 94 p 3 </F>
+<F P="103"> 94EP0042B </F>
+<F P="104">  Warsaw LAD </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Joint declaration: "Center Accord-PSL (Polish Peasant </F>
+<F P="106"> [Joint declaration: "Center Accord-PSL (Polish Peasant </F>
 Party)-Peasant Accord-Christian National Union: Economic and 
 Social Principles"] 
   [Text] A crucial prerequisite for the attainment of worthy 
@@ -20247,7 +20248,7 @@ enable our science to stay abreast of the accomplishments of
 world science. 
   3.2. Support by means of subsidies, tax exemptions, or duty 
 exemptions should be provided to both basic research in 
-particular domains and applied R&amp;D work. 
+particular domains and applied R amp;D work. 
   3.3. Support by means of both tax policy and subsidies 
 should 
 be provided to educational centers and students. 
@@ -20341,18 +20342,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Joint Program of `Center-Right' Parties </TI></H3>
-<F P=102>  94EP0042A Warsaw LAD in Polish No 3, 16 Jan 94 pp 3-4 </F>
-<F P=103> 94EP0042A </F>
-<F P=104>  Warsaw LAD </F>
+<F P="102">  94EP0042A Warsaw LAD in Polish No 3, 16 Jan 94 pp 3-4 </F>
+<F P="103"> 94EP0042A </F>
+<F P="104">  Warsaw LAD </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Declaration of joint program of the Party of Christian </F>
+<F P="106"> [Declaration of joint program of the Party of Christian </F>
 Democrats, Conservative Party, Peasant-Christian Party, and 
 Union for Real Politics: "Accord of 11 November"] 
   [Text] Like any other periodical, LAD is the 
@@ -20546,18 +20547,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Peasant Parties' Move to Right Viewed </TI></H3>
-<F P=102>  94P20422A Warsaw RZECZPOSPOLITA in Polish 4 Feb 94 p 3 </F>
-<F P=103> 94P20422A </F>
-<F P=104>  Warsaw RZECZPOSPOLITA </F>
+<F P="102">  94P20422A Warsaw RZECZPOSPOLITA in Polish 4 Feb 94 p 3 </F>
+<F P="103"> 94P20422A </F>
+<F P="104">  Warsaw RZECZPOSPOLITA </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Marcin Dominik Zdort: "Peasants to the Right"] </F>
+<F P="106"> [Article by Marcin Dominik Zdort: "Peasants to the Right"] </F>
   [Text] It appears that, before long, the only peasant 
 party remaining will be the PSL (Polish Peasant Party). Other 
 groups, until recently willing to appeal to the peasant 
@@ -20687,18 +20688,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Solidarity's Views on June Local Elections </TI></H3>
-<F P=102>  94P20421A Warsaw RZECZPOSPOLITA in Polish 2 Feb 94 p 2 </F>
-<F P=103> 94P20421A </F>
-<F P=104>  Warsaw RZECZPOSPOLITA </F>
+<F P="102">  94P20421A Warsaw RZECZPOSPOLITA in Polish 2 Feb 94 p 2 </F>
+<F P="103"> 94P20421A </F>
+<F P="104">  Warsaw RZECZPOSPOLITA </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Article by PAD: "`S' on the Elections"] </F>
+<F P="106"> [Article by PAD: "`S' on the Elections"] </F>
   [Text] Solidarity's National Commission Presidium is of the 
 opinion that the trade union should not put forth an independent 
 list of candidates in the coming [June] local elections. The 
@@ -20762,18 +20763,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   New BBWR Head Zbigniew Religa Profiled </TI></H3>
-<F P=102>  94P20418B Poznan WPROST in Polish No 4, 23 Jan 94 p 6 </F>
-<F P=103> 94P20418B </F>
-<F P=104>  Poznan WPROST </F>
+<F P="102">  94P20418B Poznan WPROST in Polish No 4, 23 Jan 94 p 6 </F>
+<F P="103"> 94P20418B </F>
+<F P="104">  Poznan WPROST </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article under the rubric "People": "Zbigniew </F>
+<F P="106"> [Unattributed article under the rubric "People": "Zbigniew </F>
 Religa"] 
   [Text] Professor Zbigniew Religa was elected the new 
 president of the Non-Party Bloc in Support of Reform (BBWR). "As 
@@ -20824,18 +20825,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Laczkowski Heads State Electoral Commission </TI></H3>
-<F P=102>  94P20418C Poznan WPROST in Polish No 5, 30 Jan 94 p 6 </F>
-<F P=103> 94P20418C </F>
-<F P=104>  Poznan WPROST </F>
+<F P="102">  94P20418C Poznan WPROST in Polish No 5, 30 Jan 94 p 6 </F>
+<F P="103"> 94P20418C </F>
+<F P="104">  Poznan WPROST </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article under the rubric "People": "Wojciech </F>
+<F P="106"> [Unattributed article under the rubric "People": "Wojciech </F>
 Laczkowski"] 
   [Text] Following the departure of Professor Andrzej Zoll, 
 who was nominated for the position of president of the 
@@ -20886,20 +20887,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Pawlak's First Hundred Days Evaluated </TI></H3>
-<F P=102>  94P20429A Warsaw TYGODNIK SOLIDARNOSC in Polish 4 Feb 94 pp 
+<F P="102">  94P20429A Warsaw TYGODNIK SOLIDARNOSC in Polish 4 Feb 94 pp 
 1-2 </F>
 
-<F P=103> 94P20429A </F>
-<F P=104>  Warsaw TYGODNIK SOLIDARNOSC </F>
+<F P="103"> 94P20429A </F>
+<F P="104">  Warsaw TYGODNIK SOLIDARNOSC </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Stanislaw Marek Krolak: "The Soul Would Like To </F>
+<F P="106"> [Article by Stanislaw Marek Krolak: "The Soul Would Like To </F>
 Be in Paradise"] 
   [Text] A hundred days is too short a period of time to sum 
 up the Cabinet activities but long enough to notice main trends. 
@@ -21102,18 +21103,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Ujazdowski of Conservative Coalition Profiled </TI></H3>
-<F P=102>  94P20418D Poznan WPROST in Polish No 8, 20 Feb 94 p 6 </F>
-<F P=103> 94P20418D </F>
-<F P=104>  Poznan WPROST </F>
+<F P="102">  94P20418D Poznan WPROST in Polish No 8, 20 Feb 94 p 6 </F>
+<F P="103"> 94P20418D </F>
+<F P="104">  Poznan WPROST </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article under the rubric "People": "Kazimierz </F>
+<F P="106"> [Unattributed article under the rubric "People": "Kazimierz </F>
 Ujazdowski"] 
   [Text] The Conservative Coalition (KK)--such is the name 
 given to the new Polish right-wing group that was formed 
@@ -21171,18 +21172,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Head of Workers Interest Group Profiled </TI></H3>
-<F P=102>  94P20426A Poznan WPROST in Polish No 6, 6 Feb 94 p 6 </F>
-<F P=103> 94P20426A </F>
-<F P=104>  Poznan WPROST </F>
+<F P="102">  94P20426A Poznan WPROST in Polish No 6, 6 Feb 94 p 6 </F>
+<F P="103"> 94P20426A </F>
+<F P="104">  Poznan WPROST </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article under the rubric "People": "Piotr </F>
+<F P="106"> [Unattributed article under the rubric "People": "Piotr </F>
 Ikonowicz"] 
   [Text] The creators of the Sejm Group to Protect the 
 Interests of Workers (Zespol Ochrony Interesow 
@@ -21240,18 +21241,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   10 March 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Navy Status, Combat Power, Future Discussed </TI></H3>
-<F P=102>  94P20280A Warsaw POLITYKA in Polish 11 Dec 93 p 7 </F>
-<F P=103> 94P20280A </F>
-<F P=104>  Warsaw POLITYKA </F>
+<F P="102">  94P20280A Warsaw POLITYKA in Polish 11 Dec 93 p 7 </F>
+<F P="103"> 94P20280A </F>
+<F P="104">  Warsaw POLITYKA </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:CSO 
 
-<F P=106> [Article by Andrzej Szafranski: "A Run-Down Navy; Going Down </F>
+<F P="106"> [Article by Andrzej Szafranski: "A Run-Down Navy; Going Down </F>
 With Honor?"] 
   [Text] 
 <H5>  Going Down With Honor </H5>
@@ -21470,3 +21471,4 @@ from time to time in Polish waters return empty-handed.
 </TEXT>
 
 </DOC>
+</root>

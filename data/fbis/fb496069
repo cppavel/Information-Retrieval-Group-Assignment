@@ -1,3 +1,4 @@
+<root>
 <DOC>
 <DOCNO> FBIS4-20298 </DOCNO>
 <HT>  "jpcar021___94001" </HT>
@@ -14,23 +15,23 @@ China
 
 </HEADER>
 
-<F P=100> INTERNATIONAL </F>
-<F P=101> GENERAL </F>
+<F P="100"> INTERNATIONAL </F>
+<F P="101"> GENERAL </F>
 <H3> <TI>   U.S. Interests in New Pacific Community Discussed </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Interests in New Pacific Community Discussed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Interests in New Pacific Community Discussed </PHRASE></F></HT>
 
-<F P=102>   94CM0194A Shanghai GUOJI ZHANWANG [WORLD OUTLOOK] in Chinese 
+<F P="102">   94CM0194A Shanghai GUOJI ZHANWANG [WORLD OUTLOOK] in Chinese 
 No 2, 23 Jan 94 pp 25-26 </F>
 
-<F P=103> 94CM0194A </F>
-<F P=104>  Shanghai GUOJI ZHANWANG [WORLD OUTLOOK] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0194A </F>
+<F P="104">  Shanghai GUOJI ZHANWANG [WORLD OUTLOOK] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Liu Xiaojun (0491 1420 6511): "What Are the U.S. </F>
+<F P="106"> [Article by Liu Xiaojun (0491 1420 6511): "What Are the U.S. </F>
 Motivations in Promoting a New Pacific Community?"] 
   [Text] In his speech at Waseda University in Japan in July 
 of 1993, Clinton raised the concept of a new Pacific Community. 
@@ -263,22 +264,22 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Journal Sees `Serious Challenges' in 1994 </TI></H3>
-<HT><F P=107><PHRASE>    Journal Sees `Serious Challenges' in 1994 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Journal Sees `Serious Challenges' in 1994 </PHRASE></F></HT>
 
-<F P=102>   94CM0158A Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] in 
+<F P="102">   94CM0158A Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] in 
 Chinese No 1, 11 Jan 94 pp 2-4 </F>
 
-<F P=103> 94CM0158A </F>
-<F P=104>  Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0158A </F>
+<F P="104">  Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Journal Commentator: "Hope for the Coming New </F>
+<F P="106"> [Article by Journal Commentator: "Hope for the Coming New </F>
 Year"] 
   [Text] The new year is here, to our broad readership we 
 send our warmest greetings! 
@@ -492,22 +493,22 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Unresolved Problems in Construction of Socialism </TI></H3>
-<HT><F P=107><PHRASE>    Unresolved Problems in Construction of Socialism </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Unresolved Problems in Construction of Socialism </PHRASE></F></HT>
 
-<F P=102>   94CM0159A Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] in 
+<F P="102">   94CM0159A Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] in 
 Chinese No 1, 11 Jan 94 pp 5-11 </F>
 
-<F P=103> 94CM0159A </F>
-<F P=104>  Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0159A </F>
+<F P="104">  Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Mei Xing (2734 5887): "Several Issues Concerning </F>
+<F P="106"> [Article by Mei Xing (2734 5887): "Several Issues Concerning </F>
 the Construction of Socialism -- Thoughts Inspired by The 
 Selected Works of Deng Xiaoping: Volume 3"] 
   [Text] The publication and organized studies of The 
@@ -1051,22 +1052,22 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Article Insists `Public Ownership' Remain </TI></H3>
-<HT><F P=107><PHRASE>    Article Insists `Public Ownership' Remain </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Article Insists `Public Ownership' Remain </PHRASE></F></HT>
 
-<F P=102>   94CM0157A Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] in 
+<F P="102">   94CM0157A Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] in 
 Chinese No 1, 11 Jan 94 pp 12-15 </F>
 
-<F P=103> 94CM0157A </F>
-<F P=104>  Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0157A </F>
+<F P="104">  Beijing ZHENLI DE ZHUIQIU [PURSUIT OF TRUTH] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Li Pingshi (7812 1627 4258): "There Can Be No </F>
+<F P="106"> [Article by Li Pingshi (7812 1627 4258): "There Can Be No </F>
 Wavering From `Public Ownership As the Mainstay'"] 
   [Text] As we implement opening and reform and develop the 
 socialist market economy, keeping public ownership in its 
@@ -1346,25 +1347,25 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> NATIONAL AFFAIRS, POLICY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> NATIONAL AFFAIRS, POLICY </F>
 <H3> <TI>   Review of 1993 Economy </TI></H3>
-<HT><F P=107><PHRASE>    Review of 1993 Economy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Review of 1993 Economy </PHRASE></F></HT>
 
-<F P=102>   94CE0320A Beijing ZHONGGUO JINGJI TIZHI GAIGE [CHINA'S 
+<F P="102">   94CE0320A Beijing ZHONGGUO JINGJI TIZHI GAIGE [CHINA'S 
 ECONOMIC STRUCTURE REFORM] in Chinese No 12, 23 Dec 93 pp 14-16 </F>
 
-<F P=103> 94CE0320A </F>
-<F P=104>  Beijing ZHONGGUO JINGJI TIZHI GAIGE [CHINA'S 
+<F P="103"> 94CE0320A </F>
+<F P="104">  Beijing ZHONGGUO JINGJI TIZHI GAIGE [CHINA'S 
 ECONOMIC STRUCTURE REFORM] </F>
 
-<F P=105>  Chinese </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Review of 1993 Economy] </F>
+<F P="106"> [Review of 1993 Economy] </F>
   [Text] The Chinese economy continued its rapid growth in 
 1993 with a projected GDP gain of about 13 percent for the 
 entire year. Macroeconomic regulation and control was highly 
@@ -1630,23 +1631,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> NATIONAL AFFAIRS, POLICY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> NATIONAL AFFAIRS, POLICY </F>
 <H3> <TI>   Characteristics of Consumer Goods Market Reported </TI></H3>
-<HT><F P=107><PHRASE>    Characteristics of Consumer Goods Market Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Characteristics of Consumer Goods Market Reported </PHRASE></F></HT>
 
-<F P=102>   94CE0356A Shanghai SHANGHAI JINGJI BAO in Chinese 15 Feb 94 
+<F P="102">   94CE0356A Shanghai SHANGHAI JINGJI BAO in Chinese 15 Feb 94 
 p 3 </F>
 
-<F P=103> 94CE0356A </F>
-<F P=104>  Shanghai SHANGHAI JINGJI BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0356A </F>
+<F P="104">  Shanghai SHANGHAI JINGJI BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed report: "Five Major Characteristics of the </F>
+<F P="106"> [Unattributed report: "Five Major Characteristics of the </F>
 Functioning of the Consumer Goods Market Nationwide"] 
   [Text] 1. The trajectory of the movement of the total 
 volume of retail sales is wavelike. Business is not really slack 
@@ -1745,21 +1746,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> NATIONAL AFFAIRS, POLICY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> NATIONAL AFFAIRS, POLICY </F>
 <H3> <TI>   State Issues Policy Adjustments on Enterprise Groups </TI></H3>
-<HT><F P=107><PHRASE>    State Issues Policy Adjustments on Enterprise Groups </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    State Issues Policy Adjustments on Enterprise Groups </PHRASE></F></HT>
 
-<F P=102>   94CE0356B Nanjing XINHUA RIBAO in Chinese 5 Feb 94 p 6 </F>
-<F P=103> 94CE0356B </F>
-<F P=104>  Nanjing XINHUA RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0356B Nanjing XINHUA RIBAO in Chinese 5 Feb 94 p 6 </F>
+<F P="103"> 94CE0356B </F>
+<F P="104">  Nanjing XINHUA RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed report: "The State Issues Policy Adjustments </F>
+<F P="106"> [Unattributed report: "The State Issues Policy Adjustments </F>
 Regarding Enterprise Groups"] 
   [Text] Recently the relevant agency of the state issued 
 five adjustment policies on enterprise groups: 
@@ -1809,23 +1810,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   GATT Potential Impact on Shanghai Industries </TI></H3>
-<HT><F P=107><PHRASE>    GATT Potential Impact on Shanghai Industries </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    GATT Potential Impact on Shanghai Industries </PHRASE></F></HT>
 
-<F P=102>   94CE0354C Shanghai SHANGHAI JINGJI BAO in Chinese 18 Feb 94 
+<F P="102">   94CE0354C Shanghai SHANGHAI JINGJI BAO in Chinese 18 Feb 94 
 p 2 </F>
 
-<F P=103> 94CE0354C </F>
-<F P=104>  Shanghai SHANGHAI JINGJI BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0354C </F>
+<F P="104">  Shanghai SHANGHAI JINGJI BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by reporter Zhen Minwei and correspondent Wang </F>
+<F P="106"> [Report by reporter Zhen Minwei and correspondent Wang </F>
 Qingqiu: "An Authoritative Study Shows: The Resumption of GATT 
 Membership' Will Have a Strong Impact on Shanghai's Industries"] 
   [Text] The footsteps of "the resumption of GATT membership" 
@@ -1947,21 +1948,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Shanxi Economic Performance, Plans </TI></H3>
-<HT><F P=107><PHRASE>    Shanxi Economic Performance, Plans </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanxi Economic Performance, Plans </PHRASE></F></HT>
 
-<F P=102>   94CE0324A Taiyuan SHANXI RIBAO in Chinese 8 Jan 93 p 1 </F>
-<F P=103> 94CE0324A </F>
-<F P=104>  Taiyuan SHANXI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0324A Taiyuan SHANXI RIBAO in Chinese 8 Jan 93 p 1 </F>
+<F P="103"> 94CE0324A </F>
+<F P="104">  Taiyuan SHANXI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Correspondents Ding Jinchuan (0002 2516 1557) </F>
+<F P="106"> [Article by Correspondents Ding Jinchuan (0002 2516 1557) </F>
 and Fan Jianghong (2868 3068 3163): "Provincial Economic Work 
 and Rural Work Conference Convened Yesterday. Provincial CPC 
 Committee Secretary Hu Fuguo (5170 1381 0948) Attends 
@@ -2226,21 +2227,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Shaanxi Industries Show Rapid Growth in 1993 </TI></H3>
-<HT><F P=107><PHRASE>    Shaanxi Industries Show Rapid Growth in 1993 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shaanxi Industries Show Rapid Growth in 1993 </PHRASE></F></HT>
 
-<F P=102>   94CE0354A Xian SHAANXI RIBAO in Chinese 15 Feb 94 p 1 </F>
-<F P=103> 94CE0354A </F>
-<F P=104>  Xian SHAANXI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0354A Xian SHAANXI RIBAO in Chinese 15 Feb 94 p 1 </F>
+<F P="103"> 94CE0354A </F>
+<F P="104">  Xian SHAANXI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by Liang Xi: "Implementing the Provisions and </F>
+<F P="106"> [Report by Liang Xi: "Implementing the Provisions and </F>
 Transforming the Mechanisms, Our Province Achieved Rapid Growth 
 in Its Industrial Economy Last Year--The Value of Industrial 
 Output and Sales Revenues Increased Substantially Over the 
@@ -2329,21 +2330,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Shaanxi Economic Communique </TI></H3>
-<HT><F P=107><PHRASE>    Shaanxi Economic Communique </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shaanxi Economic Communique </PHRASE></F></HT>
 
-<F P=102>   94CE0354B Xian SHAANXI RIBAO in Chinese 20 Feb 94 p 1, 2 </F>
-<F P=103> 94CE0354B </F>
-<F P=104>  Xian SHAANXI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0354B Xian SHAANXI RIBAO in Chinese 20 Feb 94 p 1, 2 </F>
+<F P="103"> 94CE0354B </F>
+<F P="104">  Xian SHAANXI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by Liang Wei: "The Provincial Government Reports to </F>
+<F P="106"> [Report by Liang Wei: "The Provincial Government Reports to </F>
 All Sectors of Society: The Provincial Economy Grew in a 
 Sustained, Rapid Manner, and There Were New Breakthroughs in the 
 Development of All Social Undertakings"] 
@@ -2549,22 +2550,22 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Foreign Exchange Rate System Reform </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Exchange Rate System Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Exchange Rate System Reform </PHRASE></F></HT>
 <H4>    Features of New System </H4>
 
-<F P=102> 94CE0373A Beijing JINRONG SHIBAO in Chinese 8 Feb 94 p 3 </F>
-<F P=103> 94CE0373A </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0373A Beijing JINRONG SHIBAO in Chinese 8 Feb 94 p 3 </F>
+<F P="103"> 94CE0373A </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Li Zexing: "The Basic Features of the New </F>
+<F P="106"> [Article by Li Zexing: "The Basic Features of the New </F>
 Exchange Rate System--The Third of the Serial Reviews of the 
 Reform of the Foreign Exchange System"] 
   [Text] The 
@@ -2705,22 +2706,22 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Foreign Exchange Rate System Reform </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Exchange Rate System Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Exchange Rate System Reform </PHRASE></F></HT>
 <H4>    Implementing Floating Exchange System </H4>
 
-<F P=102> 94CE0373B Beijing JINRONG SHIBAO in Chinese 22 Feb 94 p 3 </F>
-<F P=103> 94CE0373B </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0373B Beijing JINRONG SHIBAO in Chinese 22 Feb 94 p 3 </F>
+<F P="103"> 94CE0373B </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Jing Xuecheng: "Implement a Controlled Floating </F>
+<F P="106"> [Article by Jing Xuecheng: "Implement a Controlled Floating </F>
 Exchange Rate System--The Fourth of the Serial Reviews of the 
 Reform of the Foreign Exchange System"] 
   [Text] According to the announcement by the People's Bank 
@@ -2863,23 +2864,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Reportage on Aviation Industry, Reform Measures </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Aviation Industry, Reform Measures </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Aviation Industry, Reform Measures </PHRASE></F></HT>
 
-<F P=102>   94CE0315A Shenyang ZHONGHUA DISANCHANYE BAO in Chinese 6 Jan 
+<F P="102">   94CE0315A Shenyang ZHONGHUA DISANCHANYE BAO in Chinese 6 Jan 
 94 p 1 </F>
 
-<F P=103> 94CE0315A </F>
-<F P=104>  Shenyang ZHONGHUA DISANCHANYE BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0315A </F>
+<F P="104">  Shenyang ZHONGHUA DISANCHANYE BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Si Da (1835 6671): "Symptoms in China's Civil </F>
+<F P="106"> [Article by Si Da (1835 6671): "Symptoms in China's Civil </F>
 Aviation Industry, Countermeasures To Carry Out Reform"] 
   [Text] Frequent Accidents and Poor Service 
   During the past few years, crashes and hijacking of China's 
@@ -3416,23 +3417,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Status, Development of Service Industries </TI></H3>
-<HT><F P=107><PHRASE>    Status, Development of Service Industries </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Status, Development of Service Industries </PHRASE></F></HT>
 
-<F P=102>   94CE0336 Beijing GUOJI MAOYI [INTERTRADE] in Chinese No 144, 
+<F P="102">   94CE0336 Beijing GUOJI MAOYI [INTERTRADE] in Chinese No 144, 
 15 Dec 93 </F>
 
-<F P=103> 94CE0336 </F>
-<F P=104>  Beijing GUOJI MAOYI [INTERTRADE] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0336 </F>
+<F P="104">  Beijing GUOJI MAOYI [INTERTRADE] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yu Weixiang (0060 4850 7449), </F>
+<F P="106"> [Article by Yu Weixiang (0060 4850 7449), </F>
 Institute of Foreign Economics and Trade] 
   [Excerpt] [passage omitted] Present Status of Service 
 Industries in China 
@@ -3631,15 +3632,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Industrial Output Value by Area in February </TI></H3>
-<HT><F P=107><PHRASE>    Industrial Output Value by Area in February </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Industrial Output Value by Area in February </PHRASE></F></HT>
 
-<F P=102>   HK2203115394 Beijing CEI Database in English 22 Mar 94 </F>
-<F P=103> HK2203115394 </F>
-<F P=104>  Beijing CEI Database </F>
-<F P=105>  English </F>
+<F P="102">   HK2203115394 Beijing CEI Database in English 22 Mar 94 </F>
+<F P="103"> HK2203115394 </F>
+<F P="104">  Beijing CEI Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3742,15 +3743,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Feb Light Industrial Output Value Figures By Area Issued </TI></H3>
-<HT><F P=107><PHRASE>    Feb Light Industrial Output Value Figures By Area Issued </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Feb Light Industrial Output Value Figures By Area Issued </PHRASE></F></HT>
 
-<F P=102>   HK2303112194 Beijing CEI Database in English 23 Mar 94 </F>
-<F P=103> HK2303112194 </F>
-<F P=104>  Beijing CEI Database </F>
-<F P=105>  English </F>
+<F P="102">   HK2303112194 Beijing CEI Database in English 23 Mar 94 </F>
+<F P="103"> HK2303112194 </F>
+<F P="104">  Beijing CEI Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3852,21 +3853,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> CONSTRUCTION </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> CONSTRUCTION </F>
 <H3> <TI>   Report on Real Estate From Construction Conference </TI></H3>
-<HT><F P=107><PHRASE>    Report on Real Estate From Construction Conference </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Report on Real Estate From Construction Conference </PHRASE></F></HT>
 
-<F P=102>   94CE0355A Beijing ZHONGGUO SHANGBAO in Chinese 1 Feb 94 p 1 </F>
-<F P=103> 94CE0355A </F>
-<F P=104>  Beijing ZHONGGUO SHANGBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0355A Beijing ZHONGGUO SHANGBAO in Chinese 1 Feb 94 p 1 </F>
+<F P="103"> 94CE0355A </F>
+<F P="104">  Beijing ZHONGGUO SHANGBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by reporter Zhang Wanlong: "The Real Estate Market </F>
+<F P="106"> [Report by reporter Zhang Wanlong: "The Real Estate Market </F>
 Nationwide Gradually Came To Function Normally--Development 
 Slowed Down, Investment Structure Improved, and the Rules Were 
 Being Perfected"] 
@@ -3937,25 +3938,25 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> ECONOMIC ZONES </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> ECONOMIC ZONES </F>
 <H3> <TI>   Shenzhen Economic Zone Readjusts Market Prices </TI></H3>
-<HT><F P=107><PHRASE>    Shenzhen Economic Zone Readjusts Market Prices </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shenzhen Economic Zone Readjusts Market Prices </PHRASE></F></HT>
 
-<F P=102>   94CE0335A Beijing JIAGE LILUN YU SHIJIAN [PRICE: THEORY AND 
+<F P="102">   94CE0335A Beijing JIAGE LILUN YU SHIJIAN [PRICE: THEORY AND 
 PRACTICE] in Chinese No 12, Dec 1993 pp 51-53 </F>
 
-<F P=103> 94CE0335A </F>
-<F P=104>  Beijing JIAGE LILUN YU SHIJIAN [PRICE: THEORY AND 
+<F P="103"> 94CE0335A </F>
+<F P="104">  Beijing JIAGE LILUN YU SHIJIAN [PRICE: THEORY AND 
 PRACTICE] </F>
 
-<F P=105>  Chinese </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Wen Wuhan (2429 2976 3352): "Shenzhen Economic </F>
+<F P="106"> [Article by Wen Wuhan (2429 2976 3352): "Shenzhen Economic </F>
 Zone's Way of Regulating and Controlling Market Prices"] 
   [Text] The Shenzhen Special Economic Zone [SEZ] was like a 
 trailblazing vanguard in China's reform and opening to the 
@@ -4238,23 +4239,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Five Major Social Contradictions, Rural Unrest </TI></H3>
-<HT><F P=107><PHRASE>    Five Major Social Contradictions, Rural Unrest </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Five Major Social Contradictions, Rural Unrest </PHRASE></F></HT>
 
-<F P=102>   94CM0163A Hong Kong KAIFANG [OPEN MAGAZINE] in Chinese No 
+<F P="102">   94CM0163A Hong Kong KAIFANG [OPEN MAGAZINE] in Chinese No 
 85, 1 Jan 94 pp 38-39 </F>
 
-<F P=103> 94CM0163A </F>
-<F P=104>  Hong Kong KAIFANG [OPEN MAGAZINE] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0163A </F>
+<F P="104">  Hong Kong KAIFANG [OPEN MAGAZINE] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Xia Wensi (1115 2429 1835): "Peasant Discontent </F>
+<F P="106"> [Article by Xia Wensi (1115 2429 1835): "Peasant Discontent </F>
 Sparks Riots"] 
   [Excerpts] China today has five principal contradictions, 
 so says the Sociology Institute of the Chinese Academy of Social 
@@ -4454,22 +4455,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Eight `Components' Of Propertied Class </TI></H3>
-<HT><F P=107><PHRASE>    Eight `Components' Of Propertied Class </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Eight `Components' Of Propertied Class </PHRASE></F></HT>
 
-<F P=102>   94CM0163B Shanghai SHEHUI [SOCIETY] in Chinese No 108, Jan 
+<F P="102">   94CM0163B Shanghai SHEHUI [SOCIETY] in Chinese No 108, Jan 
 94 pp 22-24 </F>
 
-<F P=103> 94CM0163B </F>
-<F P=104>  Shanghai SHEHUI [SOCIETY] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0163B </F>
+<F P="104">  Shanghai SHEHUI [SOCIETY] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Gu Wen (1324 5113): "Propertied Class On the </F>
+<F P="106"> [Article by Gu Wen (1324 5113): "Propertied Class On the </F>
 Rise"] 
   [Excerpts] [Passage omitted] 
   A booming private economy, a large infusion of foreign 
@@ -4603,14 +4604,14 @@ celebrities as Li Ning [2621 1337], Liu Xiaoqing [0491 2556
 1987] and Zhan Rong [3277 1369]. They too are members of the 
 propertied class. 
   The seventh component comprises scientific and technical 
-[S&amp;T] workers who transform knowledge into productive 
+[S amp;T] workers who transform knowledge into productive 
 forces. By 
 patenting their inventions and innovations and selling them to 
 the highest bidders, or by entering into cooperative schemes 
 directly with a production unit to turn their inventions and 
-innovations into commodities, S&amp;T workers have reaped a 
+innovations into commodities, S amp;T workers have reaped a 
 windfall. Because of the government's drive to develop primary 
-productive forces, the ranks of S&amp;T personnel who 
+productive forces, the ranks of S amp;T personnel who 
 successfully 
 marry knowledge with commercialization will only continue to 
 swell. The realization of wealth drives home the actualization 
@@ -4650,22 +4651,22 @@ China
 
 </HEADER>
 
-<F P=100> MILITARY, PUBLIC SECURITY </F>
+<F P="100"> MILITARY, PUBLIC SECURITY </F>
 <H3> <TI>   Special Police School Demonstrates Skills </TI></H3>
-<HT><F P=107><PHRASE>    Special Police School Demonstrates Skills </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Special Police School Demonstrates Skills </PHRASE></F></HT>
 
-<F P=102>   94CM0180A Beijing ZHONGGUO KONGJUN [CHINESE AIR FORCE] in 
+<F P="102">   94CM0180A Beijing ZHONGGUO KONGJUN [CHINESE AIR FORCE] in 
 Chinese No 1, 1 Feb 94 pp 26-27 </F>
 
-<F P=103> 94CM0180A </F>
-<F P=104>  Beijing ZHONGGUO KONGJUN [CHINESE AIR FORCE] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0180A </F>
+<F P="104">  Beijing ZHONGGUO KONGJUN [CHINESE AIR FORCE] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by People's Armed Police Correspondents Jiang </F>
+<F P="106"> [Article by People's Armed Police Correspondents Jiang </F>
 Zishen (5261 3947), Liu Lixian (0491 4539 3759), and Bie Qinglin 
 (0446 1987 2651): "Fine Showing of Special Police. On-Site 
 Sidelights on Special People's Armed Police Unit Military 
@@ -4879,22 +4880,22 @@ China
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Cross-Strait Trade Policies Analyzed </TI></H3>
-<HT><F P=107><PHRASE>    Cross-Strait Trade Policies Analyzed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cross-Strait Trade Policies Analyzed </PHRASE></F></HT>
 
-<F P=102>   94CE0330A Hong Kong CHING PAO [THE MIRROR] in Chinese No 2, 
+<F P="102">   94CE0330A Hong Kong CHING PAO [THE MIRROR] in Chinese No 2, 
 5 Feb 94, pp 80-81 </F>
 
-<F P=103> 94CE0330A </F>
-<F P=104>  Hong Kong CHING PAO [THE MIRROR] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0330A </F>
+<F P="104">  Hong Kong CHING PAO [THE MIRROR] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Liu Fang (2692 5302): "Developmental Trends of </F>
+<F P="106"> [Article by Liu Fang (2692 5302): "Developmental Trends of </F>
 Taiwan-Mainland Trade"] 
   [Text] This year, it is estimated that Taiwan will 
 implement more flexible trading policies in its economic and 
@@ -5130,23 +5131,23 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Articles Call for Protection of Peasants </TI></H3>
-<HT><F P=107><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
 <H4>    Ease Financial Burdens </H4>
 
-<F P=102> 94CM0187A Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187A Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187A </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0187A </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Wen Wei (7186 3555): "Speak Up for the Peasants"] </F>
+<F P="106"> [Article by Wen Wei (7186 3555): "Speak Up for the Peasants"] </F>
   [Text] Easing the peasants' burden has been an important 
 part of rural work since last year. 
   Subsequent to the introduction of the State Council's 
@@ -5293,23 +5294,23 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Articles Call for Protection of Peasants </TI></H3>
-<HT><F P=107><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
 <H4>    Worries of Village Cadres </H4>
 
-<F P=102> 94CM0187B Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187B Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187B </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0187B </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zhi Yan (4160 6056): "What Do the Village </F>
+<F P="106"> [Article by Zhi Yan (4160 6056): "What Do the Village </F>
 Branch Secretaries Dislike Most During New Year's?" The author 
 is from Wuxian County's Changshu Town in Jiangsu Province's 
 Suzhou City] 
@@ -5370,23 +5371,23 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Articles Call for Protection of Peasants </TI></H3>
-<HT><F P=107><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
 <H4>    Who Will Defend Me? </H4>
 
-<F P=102> 94CM0187C Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187C Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187C </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0187C </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Letter to the editor entitled "To Whom Should I Tell My </F>
+<F P="106"> [Letter to the editor entitled "To Whom Should I Tell My </F>
 Troubles?"] 
   [Text] Comrade Editor, 
   My name is Zheng Meiling [6774 5019 3781]. I am a member of 
@@ -5474,23 +5475,23 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Articles Call for Protection of Peasants </TI></H3>
-<HT><F P=107><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
 <H4>    Cadres Question Policies </H4>
 
-<F P=102> 94CM0187D Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187D Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187D </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0187D </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Letter to the editor by Xiang Gan (3276 1626): "What Do </F>
+<F P="106"> [Letter to the editor by Xiang Gan (3276 1626): "What Do </F>
 the Village Cadres Want?"] 
   [Text] Comrade Editor: 
   We village cadres come into contact with the tail-end of the 
@@ -5557,23 +5558,23 @@ China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Articles Call for Protection of Peasants </TI></H3>
-<HT><F P=107><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Articles Call for Protection of Peasants </PHRASE></F></HT>
 <H4>    Editor's Note </H4>
 
-<F P=102> 94CM0187E Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
+<F P="102"> 94CM0187E Beijing ZHONGGUO QINGNIAN BAO in Chinese 27 Jan 94 
 p 6 </F>
 
-<F P=103> 94CM0187E </F>
-<F P=104>  Beijing ZHONGGUO QINGNIAN BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0187E </F>
+<F P="104">  Beijing ZHONGGUO QINGNIAN BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Editorial note in column entitled "Forget Not the Village </F>
+<F P="106"> [Editorial note in column entitled "Forget Not the Village </F>
 Elders and Town Folks"] 
   [Text] Editorial Note: The Party Central 
 Committee and the State Council have issued orders again and 
@@ -5607,21 +5608,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Jiangsu 1993 Statistical Communique </TI></H3>
-<HT><F P=107><PHRASE>    Jiangsu 1993 Statistical Communique </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangsu 1993 Statistical Communique </PHRASE></F></HT>
 
-<F P=102>   94CE0351A Nanjing XINHUA RIBAO in Chinese 21 Feb 94 p 8 </F>
-<F P=103> 94CE0351A </F>
-<F P=104>  Nanjing XINHUA RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0351A Nanjing XINHUA RIBAO in Chinese 21 Feb 94 p 8 </F>
+<F P="103"> 94CE0351A </F>
+<F P="104">  Nanjing XINHUA RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report: "Statistical Communique by Jiangsu Satistical </F>
+<F P="106"> [Report: "Statistical Communique by Jiangsu Satistical </F>
 Bureau on Jiangsu's National Economic and Social Developments in 
 1993"] 
   [Text] In 1993, the people of Jiangsu Province, under the 
@@ -6204,16 +6205,16 @@ property insurance settlements, paying out compensation of 720
 million yuan, and paying out 320 million yuan in personal 
 insurance compensation to 103,000 people. 
 <H5>  VIII. Science, Education, Culture, Public Health, and Sports </H5>
-  We achieved new S&amp;T successes. In 1993, we won 368 
-provincial-level S&amp;T-progress awards, including three #1 
+  We achieved new S amp;T successes. In 1993, we won 368 
+provincial-level S amp;T-progress awards, including three #1 
 awards, 
 28 #2 awards, 126 #3 awards, and 211 #4 awards. At the national 
-level, we won one invention-award, three S&amp;T-progress awards, 
+level, we won one invention-award, three S amp;T-progress awards, 
 and six Spark awards. 
   We authorized more patents. In 1993, Jiangsu had 4,170 
 patent applications, with 3,757 being authorized, up 80.1 
 percent from 1992. 
-  We expanded our S&amp;T ranks. Local state enterprises and 
+  We expanded our S amp;T ranks. Local state enterprises and 
 institutions throughout Jiangsu had 1.2133 million specialized 
 technicians of all types, up 5.1 percent from 1992. 
   We continued to increase our average education. In 1993, 
@@ -6327,7 +6328,7 @@ or the sum of material-product and service value that show the
 year's production that can be used for final consumption. The 
 difference between GDP and GNP is mainly that the former does 
 not include overseas net factor income, while the latter does. 
-  3. The national S&amp;T awards won by Jiangsu do not include 
+  3. The national S amp;T awards won by Jiangsu do not include 
 those won by enterprises and institutions of state ministries 
 and commissions in Jiangsu. 
 
@@ -6349,21 +6350,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Bright Outlook for Futures Market </TI></H3>
-<HT><F P=107><PHRASE>    Bright Outlook for Futures Market </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bright Outlook for Futures Market </PHRASE></F></HT>
 
-<F P=102>   94CE0363A Beijing ZHONGGUO WUZI BAO in Chinese 14 Feb 94 p 4 </F>
-<F P=103> 94CE0363A </F>
-<F P=104>  Beijing ZHONGGUO WUZI BAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0363A Beijing ZHONGGUO WUZI BAO in Chinese 14 Feb 94 p 4 </F>
+<F P="103"> 94CE0363A </F>
+<F P="104">  Beijing ZHONGGUO WUZI BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Tian Yuan (3944 3293): "Bright Outlook for </F>
+<F P="106"> [Article by Tian Yuan (3944 3293): "Bright Outlook for </F>
 China's Futures Business"] 
   [Text] In the last decade of the 20th Century, one 
 important achievement of the policy of opening and reform in 
@@ -6524,21 +6525,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Authorities Issue $1 Billion in Bonds Worldwide </TI></H3>
-<HT><F P=107><PHRASE>    Authorities Issue $1 Billion in Bonds Worldwide </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Authorities Issue $1 Billion in Bonds Worldwide </PHRASE></F></HT>
 
-<F P=102>   94CE0363B Beijing JINGJI CANKAO BAO in Chinese 14 Feb 94 p 3 </F>
-<F P=103> 94CE0363B </F>
-<F P=104>  Beijing JINGJI CANKAO BAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0363B Beijing JINGJI CANKAO BAO in Chinese 14 Feb 94 p 3 </F>
+<F P="103"> 94CE0363B </F>
+<F P="104">  Beijing JINGJI CANKAO BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by correspondent Zhao Renfang (6392 0088 2455): </F>
+<F P="106"> [Article by correspondent Zhao Renfang (6392 0088 2455): </F>
 "China Successfully Issues $1 Billion in Bonds Worldwide; 
 Wonderful Opportunity for International Low Interest Rate, 
 Bright Future for Domestic Economy"] 
@@ -6658,15 +6659,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Feb. Statistics: Output of Main Chemical Products </TI></H3>
-<HT><F P=107><PHRASE>    Feb. Statistics: Output of Main Chemical Products </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Feb. Statistics: Output of Main Chemical Products </PHRASE></F></HT>
 
-<F P=102>   HK1803115094 Beijing CEI Database in English 18 Mar 94 </F>
-<F P=103> HK1803115094 </F>
-<F P=104>  Beijing CEI Database </F>
-<F P=105>  English </F>
+<F P="102">   HK1803115094 Beijing CEI Database in English 18 Mar 94 </F>
+<F P="103"> HK1803115094 </F>
+<F P="104">  Beijing CEI Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6749,23 +6750,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   1993 Feed Output, Outlook for 1994 </TI></H3>
-<HT><F P=107><PHRASE>    1993 Feed Output, Outlook for 1994 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    1993 Feed Output, Outlook for 1994 </PHRASE></F></HT>
 
-<F P=102>   94CE0337B Beijing ZHONGGUO NONGJIHUA BAO in Chinese 19 Jan 
+<F P="102">   94CE0337B Beijing ZHONGGUO NONGJIHUA BAO in Chinese 19 Jan 
 94 p 3 </F>
 
-<F P=103> 94CE0337B </F>
-<F P=104>  Beijing ZHONGGUO NONGJIHUA BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0337B </F>
+<F P="104">  Beijing ZHONGGUO NONGJIHUA BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Shao Jianbiao (6730 0494 1753); Jia Mingsheng </F>
+<F P="106"> [Article by Shao Jianbiao (6730 0494 1753); Jia Mingsheng </F>
 (6328 2494 3932): "This Year the Feed Industry Will Rise to a 
 New Plateau"] 
   [Text] In 1993 with China's feed industry facing such 
@@ -6875,21 +6876,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Survey of Shift in Anhui's Surplus Rural Labor Force </TI></H3>
-<HT><F P=107><PHRASE>    Survey of Shift in Anhui's Surplus Rural Labor Force </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Survey of Shift in Anhui's Surplus Rural Labor Force </PHRASE></F></HT>
 
-<F P=102>   94CE0319A Hefei ANHUI RIBAO in Chinese 23 Jan 94 pp 1, 2 </F>
-<F P=103> 94CE0319A </F>
-<F P=104>  Hefei ANHUI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0319A Hefei ANHUI RIBAO in Chinese 23 Jan 94 pp 1, 2 </F>
+<F P="103"> 94CE0319A </F>
+<F P="104">  Hefei ANHUI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by the Anhui Provincial Survey Group on Changes in </F>
+<F P="106"> [Article by the Anhui Provincial Survey Group on Changes in </F>
 the Rural Labor Force: "An Important Strategic Task That Impacts 
 the Goal of Becoming Fairly Well-Off--A Survey and Some Thoughts 
 on the Shift in Anhui's Surplus Rural Labor"] 
@@ -7546,21 +7547,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Funding for Agricultural Development </TI></H3>
-<HT><F P=107><PHRASE>    Funding for Agricultural Development </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Funding for Agricultural Development </PHRASE></F></HT>
 
-<F P=102>   94CE0341A Beijing JINGJI RIBAO in Chinese 22 Feb 94 p 2 </F>
-<F P=103> 94CE0341A </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0341A Beijing JINGJI RIBAO in Chinese 22 Feb 94 p 2 </F>
+<F P="103"> 94CE0341A </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Staff Correspondent Wang Xinjian (3769 0207 </F>
+<F P="106"> [Article by Staff Correspondent Wang Xinjian (3769 0207 </F>
 1696) and Staff Reporter Zhang Zichen (1728 1311 5256): "With Wu 
 Kunlong, deputy director of the State Comprehensive Agricultural 
 Development Office"] 
@@ -7780,15 +7781,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Jiangxi 1993 Agricultural Outputs, Plans for 1994 </TI></H3>
-<HT><F P=107><PHRASE>    Jiangxi 1993 Agricultural Outputs, Plans for 1994 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangxi 1993 Agricultural Outputs, Plans for 1994 </PHRASE></F></HT>
 
-<F P=102>   94CE0397C Beijing NONGMIN RIBAO in Chinese 16 Mar 94 p 1 </F>
-<F P=103> 94CE0397C </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0397C Beijing NONGMIN RIBAO in Chinese 16 Mar 94 p 1 </F>
+<F P="103"> 94CE0397C </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -7826,21 +7827,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Small Phosphate Fertilizer Plants: Quality Problems </TI></H3>
-<HT><F P=107><PHRASE>    Small Phosphate Fertilizer Plants: Quality Problems </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Small Phosphate Fertilizer Plants: Quality Problems </PHRASE></F></HT>
 
-<F P=102>   94CE0350A Beijing JINGJI RIBAO in Chinese 24 Feb 94 p 3 </F>
-<F P=103> 94CE0350A </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0350A Beijing JINGJI RIBAO in Chinese 24 Feb 94 p 3 </F>
+<F P="103"> 94CE0350A </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by reporter Zhang Chaoyang (1728 2600 7122): </F>
+<F P="106"> [Report by reporter Zhang Chaoyang (1728 2600 7122): </F>
 "Results of 1993 Unified Inspection of China's Phosphate 
 Fertilizer Shows: Quality Problem in Small Enterprises Is 
 Serious"] 
@@ -7921,22 +7922,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Surveys Reveal New Trends in Divorces </TI></H3>
-<HT><F P=107><PHRASE>    Surveys Reveal New Trends in Divorces </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Surveys Reveal New Trends in Divorces </PHRASE></F></HT>
 
-<F P=102>   94CM0207B Shanghai SHEHUI [SOCIETY] in Chinese No 109, Feb 
+<F P="102">   94CM0207B Shanghai SHEHUI [SOCIETY] in Chinese No 109, Feb 
 94 pp 4-7, 21 </F>
 
-<F P=103> 94CM0207B </F>
-<F P=104>  Shanghai SHEHUI [SOCIETY] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0207B </F>
+<F P="104">  Shanghai SHEHUI [SOCIETY] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Chu Zhaorui (0328 0340 3843): "Current New </F>
+<F P="106"> [Article by Chu Zhaorui (0328 0340 3843): "Current New </F>
 Trends in Dissolving Marriage"--edited by Lao Qin (0525 0530)] 
   [Excerpts] [passage omitted] A comprehensive analysis of a 
 recently completed nationwide social investigation and various 
@@ -8040,22 +8041,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Big Universities Compared to Foreign Counterparts </TI></H3>
-<HT><F P=107><PHRASE>    Big Universities Compared to Foreign Counterparts </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Big Universities Compared to Foreign Counterparts </PHRASE></F></HT>
 
-<F P=102>   94CM0207A Beijing JIAOYU YANJIU [EDUCATIONAL RESEARCH] in 
+<F P="102">   94CM0207A Beijing JIAOYU YANJIU [EDUCATIONAL RESEARCH] in 
 Chinese No 168, Jan 94 pp 34-38 </F>
 
-<F P=103> 94CM0207A </F>
-<F P=104>  Beijing JIAOYU YANJIU [EDUCATIONAL RESEARCH] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0207A </F>
+<F P="104">  Beijing JIAOYU YANJIU [EDUCATIONAL RESEARCH] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zhou Chuan (0719 1557) of Suzhou University and </F>
+<F P="106"> [Article by Zhou Chuan (0719 1557) of Suzhou University and </F>
 responsible editor Zhu Shan (2612 3790): "Project 211--A 
 Foundation-Laying Project for China's Education Modernization"] 
   [Excerpts] A key proposal for higher-education development 
@@ -8265,22 +8266,22 @@ China
 
 </HEADER>
 
-<F P=100> MILITARY, PUBLIC SECURITY </F>
+<F P="100"> MILITARY, PUBLIC SECURITY </F>
 <H3> <TI>   Armed Forces' Needed Skills Advertised </TI></H3>
-<HT><F P=107><PHRASE>    Armed Forces' Needed Skills Advertised </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Armed Forces' Needed Skills Advertised </PHRASE></F></HT>
 
-<F P=102>   94CM0181A Beijing DAXUESHENG [UNIVERSITY STUDENTS] in 
+<F P="102">   94CM0181A Beijing DAXUESHENG [UNIVERSITY STUDENTS] in 
 Chinese No 1, 10 Jan 94 pp 59-60 </F>
 
-<F P=103> 94CM0181A </F>
-<F P=104>  Beijing DAXUESHENG [UNIVERSITY STUDENTS] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0181A </F>
+<F P="104">  Beijing DAXUESHENG [UNIVERSITY STUDENTS] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article: "Information About Armed Forces' Skilled Personnel </F>
+<F P="106"> [Article: "Information About Armed Forces' Skilled Personnel </F>
 Needs"] 
   [Text] Beijing Military Region 
   Graduates and undergraduates are needed in the fields of 
@@ -8593,24 +8594,24 @@ China
 
 </HEADER>
 
-<F P=100> MILITARY, PUBLIC SECURITY </F>
+<F P="100"> MILITARY, PUBLIC SECURITY </F>
 <H3> <TI>   Preparedness for High-Tech Naval Warfare Stressed </TI></H3>
-<HT><F P=107><PHRASE>    Preparedness for High-Tech Naval Warfare Stressed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Preparedness for High-Tech Naval Warfare Stressed </PHRASE></F></HT>
 
-<F P=102>   94CM0177A Beijing JIANCHUAN ZHISHI [NAVAL AND MERCHANT 
+<F P="102">   94CM0177A Beijing JIANCHUAN ZHISHI [NAVAL AND MERCHANT 
 SHIPS] in Chinese No 1, 8 Jan 94 pp 2-3 </F>
 
-<F P=103> 94CM0177A </F>
-<F P=104>  Beijing JIANCHUAN ZHISHI [NAVAL AND MERCHANT 
+<F P="103"> 94CM0177A </F>
+<F P="104">  Beijing JIANCHUAN ZHISHI [NAVAL AND MERCHANT 
 SHIPS] </F>
 
-<F P=105>  Chinese </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Vice Admiral Fang Qiang (2455 1730): "Need for </F>
+<F P="106"> [Article by Vice Admiral Fang Qiang (2455 1730): "Need for </F>
 High Technology Orientation in Building the Navy"] 
   [Excerpts] Editor's Note: Thanks to the 
 energetic support of Navy comrades concerned, this magazine has 
@@ -8744,20 +8745,20 @@ China
 
 </HEADER>
 
-<F P=100> MILITARY, PUBLIC SECURITY </F>
+<F P="100"> MILITARY, PUBLIC SECURITY </F>
 <H3> <TI>   Liaoning Civil Air Defense Works Economic Uses </TI></H3>
-<HT><F P=107><PHRASE>    Liaoning Civil Air Defense Works Economic Uses </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liaoning Civil Air Defense Works Economic Uses </PHRASE></F></HT>
 
-<F P=102>   94CM0193A Shenyang LIAONING RIBAO in Chinese 2 Feb 94 p 3 </F>
-<F P=103> 94CM0193A </F>
-<F P=104>  Shenyang LIAONING RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CM0193A Shenyang LIAONING RIBAO in Chinese 2 Feb 94 p 3 </F>
+<F P="103"> 94CM0193A </F>
+<F P="104">  Shenyang LIAONING RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by staff reporters Zhao Zhiyuan (6392 1807 6678) </F>
+<F P="106"> [Article by staff reporters Zhao Zhiyuan (6392 1807 6678) </F>
 and Cui Tiemin (1508 6993 3046): "Underground Great Walls and 
 Buttresses -- Liaoning Province's Civil Air Defense Works Become 
 `Gold-Producing Precious Lands'"] 
@@ -8831,22 +8832,22 @@ China
 
 </HEADER>
 
-<F P=100> MILITARY, PUBLIC SECURITY </F>
+<F P="100"> MILITARY, PUBLIC SECURITY </F>
 <H3> <TI>   Deputy COGS Discusses 1994 Military Training </TI></H3>
-<HT><F P=107><PHRASE>    Deputy COGS Discusses 1994 Military Training </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Deputy COGS Discusses 1994 Military Training </PHRASE></F></HT>
 
-<F P=102>   94CM0178A Beijing JIEFANGJUN SHENGHUO [THE PLA LIFE] in 
+<F P="102">   94CM0178A Beijing JIEFANGJUN SHENGHUO [THE PLA LIFE] in 
 Chinese No 1, 13 Jan 94 pp 4-5] </F>
 
-<F P=103> 94CM0178A </F>
-<F P=104>  Beijing JIEFANGJUN SHENGHUO [THE PLA LIFE] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0178A </F>
+<F P="104">  Beijing JIEFANGJUN SHENGHUO [THE PLA LIFE] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Correspondents Liu Shanxing (0491 0810 5281) and </F>
+<F P="106"> [Article by Correspondents Liu Shanxing (0491 0810 5281) and </F>
 Zheng Hui (6774 6540): "Deputy Chief of General Staff, Major 
 General Li Jing (2621 2529), Talks About a New Direction in 
 Military Training Throughout the Armed Forces During 1994"] 
@@ -9101,22 +9102,22 @@ China
 
 </HEADER>
 
-<F P=100> MILITARY, PUBLIC SECURITY </F>
+<F P="100"> MILITARY, PUBLIC SECURITY </F>
 <H3> <TI>   Public Security Situation Tied To Economic Growth </TI></H3>
-<HT><F P=107><PHRASE>    Public Security Situation Tied To Economic Growth </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Public Security Situation Tied To Economic Growth </PHRASE></F></HT>
 
-<F P=102>   94CM0131A Hong Kong TANG TAI [CONTEMPORARY] in Chinese No 
+<F P="102">   94CM0131A Hong Kong TANG TAI [CONTEMPORARY] in Chinese No 
 33, 15 Dec 93 pp 51-53 </F>
 
-<F P=103> 94CM0131A </F>
-<F P=104>  Hong Kong TANG TAI [CONTEMPORARY] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0131A </F>
+<F P="104">  Hong Kong TANG TAI [CONTEMPORARY] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Hai Chao (3189 6389): "Rapidly Deteriorating </F>
+<F P="106"> [Article by Hai Chao (3189 6389): "Rapidly Deteriorating </F>
 Public Security Situation in China--A View of the National 
 Situation Based on a Study of Conditions in the Largest City, 
 Shanghai"] 
@@ -9362,13 +9363,13 @@ China
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Taiwan Economic Summaries 10-23 Mar </TI></H3>
-<HT><F P=107><PHRASE>    Taiwan Economic Summaries 10-23 Mar </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Taiwan Economic Summaries 10-23 Mar </PHRASE></F></HT>
 
-<F P=102>   OW3003035794 </F>
-<F P=103> OW3003035794 </F>
-<F P=104></F>
+<F P="102">   OW3003035794 </F>
+<F P="103"> OW3003035794 </F>
+<F P="104"></F>
 
 
 
@@ -9538,22 +9539,22 @@ China
 
 </HEADER>
 
-<F P=100> HONG KONG, MACAO </F>
+<F P="100"> HONG KONG, MACAO </F>
 <H3> <TI>   Editorial Comments on Survey of Civil Service </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Comments on Survey of Civil Service </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Comments on Survey of Civil Service </PHRASE></F></HT>
 
-<F P=102>   HK2702084894 Hong Kong SUNDAY HONGKONG STANDARD in English 
+<F P="102">   HK2702084894 Hong Kong SUNDAY HONGKONG STANDARD in English 
 27 Feb 94 p 6 </F>
 
-<F P=103> HK2702084894 </F>
-<F P=104>  Hong Kong SUNDAY HONGKONG STANDARD </F>
-<F P=105>  English </F>
+<F P="103"> HK2702084894 </F>
+<F P="104">  Hong Kong SUNDAY HONGKONG STANDARD </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "Room for Confidence in Civil Service"] </F>
+<F P="106"> [Editorial: "Room for Confidence in Civil Service"] </F>
   [Text] A survey conducted by eminent commentator on public 
 affairs Dr Joseph Cheng at the City Polytechnic has raised some 
 alarm in some quarters about staff morale in the civil service. 
@@ -9623,22 +9624,22 @@ China
 
 </HEADER>
 
-<F P=100> HONG KONG, MACAO </F>
+<F P="100"> HONG KONG, MACAO </F>
 <H3> <TI>   Poll on Attitude Toward Release of White Paper </TI></H3>
-<HT><F P=107><PHRASE>    Poll on Attitude Toward Release of White Paper </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Poll on Attitude Toward Release of White Paper </PHRASE></F></HT>
 
-<F P=102>   HK2702084794 Hong Kong SUNDAY HONGKONG STANDARD in English 
+<F P="102">   HK2702084794 Hong Kong SUNDAY HONGKONG STANDARD in English 
 27 Feb 94 p 2 </F>
 
-<F P=103> HK2702084794 </F>
-<F P=104>  Hong Kong SUNDAY HONGKONG STANDARD </F>
-<F P=105>  English </F>
+<F P="103"> HK2702084794 </F>
+<F P="104">  Hong Kong SUNDAY HONGKONG STANDARD </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Rita Tsang] </F>
+<F P="106"> [By Rita Tsang] </F>
   [Text] The government's release of the White Paper on 
 Sino-British talks failed to grab Hong Kong people's 
 imagination, a SUNDAY HONGKONG STANDARD street poll held in 
@@ -9701,22 +9702,22 @@ China
 
 </HEADER>
 
-<F P=100> HONG KONG, MACAO </F>
+<F P="100"> HONG KONG, MACAO </F>
 <H3> <TI>   Health Department Reports Surge in Hepatitis Cases </TI></H3>
-<HT><F P=107><PHRASE>    Health Department Reports Surge in Hepatitis Cases </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Health Department Reports Surge in Hepatitis Cases </PHRASE></F></HT>
 
-<F P=102>   HK2803073094 Hong Kong EASTERN EXPRESS in English 28 Mar 94 
+<F P="102">   HK2803073094 Hong Kong EASTERN EXPRESS in English 28 Mar 94 
 p 6 </F>
 
-<F P=103> HK2803073094 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> HK2803073094 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Susie Weldon] </F>
+<F P="106"> [By Susie Weldon] </F>
   [Text] Viral hepatitis infections surged in 1992, with 
 more than twice as many cases recorded as in the previous year, 
 according to statistics just released by the Department of 
@@ -9786,23 +9787,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> NATIONAL AFFAIRS, POLICY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> NATIONAL AFFAIRS, POLICY </F>
 <H3> <TI>   SPC Analysis of 1993 Economy, 1994 Forecast </TI></H3>
-<HT><F P=107><PHRASE>    SPC Analysis of 1993 Economy, 1994 Forecast </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SPC Analysis of 1993 Economy, 1994 Forecast </PHRASE></F></HT>
 
-<F P=102>   94CE0365A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
+<F P="102">   94CE0365A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
 Chinese No 1, 24 Jan 94 pp 60-67 </F>
 
-<F P=103> 94CE0365A </F>
-<F P=104>  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0365A </F>
+<F P="104">  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zhang Liqun (1728 4539 5028), with discussion </F>
+<F P="106"> [Article by Zhang Liqun (1728 4539 5028), with discussion </F>
 involvement by Wang Jian (3769 1696), Zhang Liqun, Zhang Chuntai 
 (1728 2504 3141), Liang Hua (2733 5478), Yang Takan (2799 1129 
 0170), and Fan Caiyao (2868 1752 5069), affiliated with the 
@@ -10562,23 +10563,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> NATIONAL AFFAIRS, POLICY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> NATIONAL AFFAIRS, POLICY </F>
 <H3> <TI>   Analysis of Macroeconomic Regulation, Control </TI></H3>
-<HT><F P=107><PHRASE>    Analysis of Macroeconomic Regulation, Control </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Analysis of Macroeconomic Regulation, Control </PHRASE></F></HT>
 
-<F P=102>   94CE0348A Beijing ZHONGGUO WUJIA [PRICES IN CHINA] in 
+<F P="102">   94CE0348A Beijing ZHONGGUO WUJIA [PRICES IN CHINA] in 
 Chinese No 1, Jan 94 pp 9-13 </F>
 
-<F P=103> 94CE0348A </F>
-<F P=104>  Beijing ZHONGGUO WUJIA [PRICES IN CHINA] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0348A </F>
+<F P="104">  Beijing ZHONGGUO WUJIA [PRICES IN CHINA] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zhen Yan (3914 6056): "An Analysis of the State </F>
+<F P="106"> [Article by Zhen Yan (3914 6056): "An Analysis of the State </F>
 of Macroeconomic Regulation and Control in 1993"] 
   [Text] Macroeconomic regulation and control had a profound 
 impact in the two areas of economic growth and system reform in 
@@ -10978,23 +10979,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> NATIONAL AFFAIRS, POLICY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> NATIONAL AFFAIRS, POLICY </F>
 <H3> <TI>   Characteristics of 1993 Economy, 1994 Prospects </TI></H3>
-<HT><F P=107><PHRASE>    Characteristics of 1993 Economy, 1994 Prospects </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Characteristics of 1993 Economy, 1994 Prospects </PHRASE></F></HT>
 
-<F P=102>   94CE0321A Beijing ZHONGGUO FANGZHI BAO in Chinese 30 Jan 94 
+<F P="102">   94CE0321A Beijing ZHONGGUO FANGZHI BAO in Chinese 30 Jan 94 
 p 1 </F>
 
-<F P=103> 94CE0321A </F>
-<F P=104>  Beijing ZHONGGUO FANGZHI BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0321A </F>
+<F P="104">  Beijing ZHONGGUO FANGZHI BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Special Columnist Wang Li (3769 5461): "Three </F>
+<F P="106"> [Article by Special Columnist Wang Li (3769 5461): "Three </F>
 Highs, Three Fevers, and the Rest--1993 Economic Determinations, 
 Prospects for 1994 Trends"] 
   [Text] In 1993 Chinese economic life exhibited a few 
@@ -11247,23 +11248,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Sichuan Governor Interviewed on Region's Economy </TI></H3>
-<HT><F P=107><PHRASE>    Sichuan Governor Interviewed on Region's Economy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sichuan Governor Interviewed on Region's Economy </PHRASE></F></HT>
 
-<F P=102>   94CE0342A Beijing QIUSHI [SEEKING TRUTH] in Chinese No 4, 10 
+<F P="102">   94CE0342A Beijing QIUSHI [SEEKING TRUTH] in Chinese No 4, 10 
 Feb 94 pp 13-15 </F>
 
-<F P=103> 94CE0342A </F>
-<F P=104>  Beijing QIUSHI [SEEKING TRUTH] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0342A </F>
+<F P="104">  Beijing QIUSHI [SEEKING TRUTH] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Xiao Yang (5135 4441), governor of Sichuan, </F>
+<F P="106"> [Interview with Xiao Yang (5135 4441), governor of Sichuan, </F>
 by QIUSHI reporter Zhang Sufang (1728 4790 5364) and SICHUAN 
 JINGJI RIBAO reporter Xiao Baoguo (5135 0202 0948); date and 
 place of interview not given: "Use Regional Approach To Develop 
@@ -11576,21 +11577,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Shanghai Plans Measures To Attract Foreign Funds </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Plans Measures To Attract Foreign Funds </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Plans Measures To Attract Foreign Funds </PHRASE></F></HT>
 
-<F P=102>   94CE0370A Beijing JINGJI CANKAO BAO in Chinese 13 Feb 94 p 1 </F>
-<F P=103> 94CE0370A </F>
-<F P=104>  Beijing JINGJI CANKAO BAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0370A Beijing JINGJI CANKAO BAO in Chinese 13 Feb 94 p 1 </F>
+<F P="103"> 94CE0370A </F>
+<F P="104">  Beijing JINGJI CANKAO BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Correspondent Xia Ruge (1115 0320 7041): "Who Is </F>
+<F P="106"> [Article by Correspondent Xia Ruge (1115 0320 7041): "Who Is </F>
 Being Courted? Shanghai Offers Large Projects To Attract 
 Transnational Corporations"] 
   [Text] Attracting internationally renowned transnational 
@@ -11672,23 +11673,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Foreign Businessmen `Troubled' by New Tax System </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Businessmen `Troubled' by New Tax System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Businessmen `Troubled' by New Tax System </PHRASE></F></HT>
 
-<F P=102>   94CE0372A Hong Kong TANG TAI [CONTEMPORARY] in Chinese No 
+<F P="102">   94CE0372A Hong Kong TANG TAI [CONTEMPORARY] in Chinese No 
 34, 15 Jan 94 pp 34-36 </F>
 
-<F P=103> 94CE0372A </F>
-<F P=104>  Hong Kong TANG TAI [CONTEMPORARY] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0372A </F>
+<F P="104">  Hong Kong TANG TAI [CONTEMPORARY] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by He Po-shih: "Foreign Businessmen Are Troubled by </F>
+<F P="106"> [Article by He Po-shih: "Foreign Businessmen Are Troubled by </F>
 the Mainland's New Tax System"] 
   [Text] By adopting the new tax system, the Chinese 
 mainland is expected to increase its tax revenues by 
@@ -11936,21 +11937,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Efficient Capital Market `Important' to Reform </TI></H3>
-<HT><F P=107><PHRASE>    Efficient Capital Market `Important' to Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Efficient Capital Market `Important' to Reform </PHRASE></F></HT>
 
-<F P=102>   94CE0391A Beijing JINGJI CANKAO BAO in Chinese 15 Feb 94 p 4 </F>
-<F P=103> 94CE0391A </F>
-<F P=104>  Beijing JINGJI CANKAO BAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0391A Beijing JINGJI CANKAO BAO in Chinese 15 Feb 94 p 4 </F>
+<F P="103"> 94CE0391A </F>
+<F P="104">  Beijing JINGJI CANKAO BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Li Yang, affiliated with the Finance and Trade </F>
+<F P="106"> [Article by Li Yang, affiliated with the Finance and Trade </F>
 Institute of the Chinese Academy of Social Sciences: 
 "Establishing a Highly Efficient Capital Market Is an Important 
 Component of Financial Reform"] 
@@ -12227,15 +12228,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> SMALL-SCALE ENTERPRISES </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> SMALL-SCALE ENTERPRISES </F>
 <H3> <TI>   Yunnan Individual, Private Enterprises Increase </TI></H3>
-<HT><F P=107><PHRASE>    Yunnan Individual, Private Enterprises Increase </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Yunnan Individual, Private Enterprises Increase </PHRASE></F></HT>
 
-<F P=102>   94CE0397D Beijing ZHONGGUO WUZI BAO in Chinese 4 Mar 94 p 2 </F>
-<F P=103> 94CE0397D </F>
-<F P=104>  Beijing ZHONGGUO WUZI BAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0397D Beijing ZHONGGUO WUZI BAO in Chinese 4 Mar 94 p 2 </F>
+<F P="103"> 94CE0397D </F>
+<F P="104">  Beijing ZHONGGUO WUZI BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -12267,23 +12268,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FOREIGN TRADE, INVESTMENT </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FOREIGN TRADE, INVESTMENT </F>
 <H3> <TI>   Export Strategy in Response to NAFTA Outlined </TI></H3>
-<HT><F P=107><PHRASE>    Export Strategy in Response to NAFTA Outlined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Export Strategy in Response to NAFTA Outlined </PHRASE></F></HT>
 
-<F P=102>   94CE0325B Beijing SHIJIE ZHISHI [WORLD AFFAIRS] in Chinese 
+<F P="102">   94CE0325B Beijing SHIJIE ZHISHI [WORLD AFFAIRS] in Chinese 
 No 11, 10 Nov 93 pp 51-55 </F>
 
-<F P=103> 94CE0325B </F>
-<F P=104>  Beijing SHIJIE ZHISHI [WORLD AFFAIRS] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0325B </F>
+<F P="104">  Beijing SHIJIE ZHISHI [WORLD AFFAIRS] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zhao Shuming (6392 2562 2494) and Zhu Nongfei </F>
+<F P="106"> [Article by Zhao Shuming (6392 2562 2494) and Zhu Nongfei </F>
 (2612 6593 7378) from Nanjing University's Institute of 
 International Business: "Impact of North American Free Trade 
 Zone on China's Economy and Countermeasures That We Should Take" 
@@ -12674,23 +12675,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FOREIGN TRADE, INVESTMENT </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FOREIGN TRADE, INVESTMENT </F>
 <H3> <TI>   Strategic Tasks In Foreign Trade Adjustment </TI></H3>
-<HT><F P=107><PHRASE>    Strategic Tasks In Foreign Trade Adjustment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Strategic Tasks In Foreign Trade Adjustment </PHRASE></F></HT>
 
-<F P=102>   94CE0326A Beijing GUOJI MAOYI [INTERTRADE] in Chinese No 
+<F P="102">   94CE0326A Beijing GUOJI MAOYI [INTERTRADE] in Chinese No 
 144, 15 Dec 93 pp 4-9 </F>
 
-<F P=103> 94CE0326A </F>
-<F P=104>  Beijing GUOJI MAOYI [INTERTRADE] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0326A </F>
+<F P="104">  Beijing GUOJI MAOYI [INTERTRADE] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Wang Zixin (3769 1311 0341) of the Ministry of </F>
+<F P="106"> [Article by Wang Zixin (3769 1311 0341) of the Ministry of </F>
 Foreign Trade and Economic Development Trade Development Office: 
 "Strategic Tasks in Foreign Trade Adjustment"] 
   [Text] China is in the process of working out a new 
@@ -13140,7 +13141,7 @@ army of scientific researchers. Right now about 2 million
 scientific research personnel are engaged in research and 
 development, more than anywhere else in the world, generating 
 scientific research achievements in the tens of thousands each 
-year. In such S&amp;T fields as aviation and space technology, 
+year. In such S amp;T fields as aviation and space technology, 
 biotechnology, genetic engineering, fiber optical 
 communications, shipbuilding, iron and steel, domestic 
 electrical appliance industry, and petrochemical industry, China 
@@ -13208,7 +13209,7 @@ technology import-export law, a high-tech and new technology
 industry law, and a strategic industry vitalization law, among 
 others. Enlist the help of the law to spur the upgrading of 
 export industries. 
-  b) Expedite economic structural reform and S&amp;T reform 
+  b) Expedite economic structural reform and S amp;T reform 
 vigorously and establish a mechanism that promotes the effective 
 integration of trade, industry, agriculture, and technology. In 
 the short run, there are two ways to integrate industry, 
@@ -13220,14 +13221,14 @@ dominant role. In matters of technology, these enterprises
 should go in for self-absorption, self-improvement, and 
 self-development with one helping the other in an endless cycle. 
 The other approach is to vigorously develop multinational 
-corporations that combine industry, S&amp;T, and foreign trade 
+corporations that combine industry, S amp;T, and foreign trade 
 under 
 one roof, with leading industries playing the dominant role. The 
 industrialization and internationalization of high-tech will be 
 completed within the industrial corporations themselves. In the 
 medium and long term, the problem of dissociation between 
 industry and trade must be solved at its root by deepening 
-economic structural reform and S&amp;T reform. 
+economic structural reform and S amp;T reform. 
   c) Formulate policies to single out certain industries for 
 preferential treatment, thereby bolstering the optimization of 
 the mix of export commodities. In preparing its industrial 
@@ -13477,21 +13478,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FOREIGN TRADE, INVESTMENT </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FOREIGN TRADE, INVESTMENT </F>
 <H3> <TI>   Reasons for Contracted Foreign Capital Not Arriving </TI></H3>
-<HT><F P=107><PHRASE>    Reasons for Contracted Foreign Capital Not Arriving </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reasons for Contracted Foreign Capital Not Arriving </PHRASE></F></HT>
 
-<F P=102>   94CE0325A Beijing GUOJI SHANGBAO in Chinese 21 Jan 94 p 2 </F>
-<F P=103> 94CE0325A </F>
-<F P=104>  Beijing GUOJI SHANGBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0325A Beijing GUOJI SHANGBAO in Chinese 21 Jan 94 p 2 </F>
+<F P="103"> 94CE0325A </F>
+<F P="104">  Beijing GUOJI SHANGBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Zhou Maosheng (0719 5399 3932): "Carefully Guard </F>
+<F P="106"> [Article by Zhou Maosheng (0719 5399 3932): "Carefully Guard </F>
 Against `White IOU Slips' From Foreign Investors"] 
   [Text] In recent years, China has opened its doors wider to 
 the outside world, vigorously developed its export-oriented 
@@ -13593,15 +13594,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Guizhou 1993 Meat Output </TI></H3>
-<HT><F P=107><PHRASE>    Guizhou 1993 Meat Output </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guizhou 1993 Meat Output </PHRASE></F></HT>
 
-<F P=102>   94CE0397G Beijing NONGMIN RIBAO in Chinese 28 Mar 94 p 1 </F>
-<F P=103> 94CE0397G </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0397G Beijing NONGMIN RIBAO in Chinese 28 Mar 94 p 1 </F>
+<F P="103"> 94CE0397G </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13631,15 +13632,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Heilongjiang Bank Loans Used To Repay Beet Farmers </TI></H3>
-<HT><F P=107><PHRASE>    Heilongjiang Bank Loans Used To Repay Beet Farmers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Heilongjiang Bank Loans Used To Repay Beet Farmers </PHRASE></F></HT>
 
-<F P=102>   94CE0397E Harbin HEILONGJIANG RIBAO in Chinese 9 Mar 94 p 1 </F>
-<F P=103> 94CE0397E </F>
-<F P=104>  Harbin HEILONGJIANG RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0397E Harbin HEILONGJIANG RIBAO in Chinese 9 Mar 94 p 1 </F>
+<F P="103"> 94CE0397E </F>
+<F P="104">  Harbin HEILONGJIANG RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13667,17 +13668,17 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Heilongjiang Reports Soybean Prices </TI></H3>
-<HT><F P=107><PHRASE>    Heilongjiang Reports Soybean Prices </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Heilongjiang Reports Soybean Prices </PHRASE></F></HT>
 
-<F P=102>   94CE0344M Harbin HEILONGJIANG JINGJI BAO in Chinese 24 Feb 
+<F P="102">   94CE0344M Harbin HEILONGJIANG JINGJI BAO in Chinese 24 Feb 
 94 p 3 </F>
 
-<F P=103> 94CE0344M </F>
-<F P=104>  Harbin HEILONGJIANG JINGJI BAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0344M </F>
+<F P="104">  Harbin HEILONGJIANG JINGJI BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13713,15 +13714,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Hunan 1993, 1996 Cotton Area </TI></H3>
-<HT><F P=107><PHRASE>    Hunan 1993, 1996 Cotton Area </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hunan 1993, 1996 Cotton Area </PHRASE></F></HT>
 
-<F P=102>   94CE0344W Changsha HUNAN RIBAO in Chinese 22 Mar 94 p 1 </F>
-<F P=103> 94CE0344W </F>
-<F P=104>  Changsha HUNAN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0344W Changsha HUNAN RIBAO in Chinese 22 Mar 94 p 1 </F>
+<F P="103"> 94CE0344W </F>
+<F P="104">  Changsha HUNAN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13751,16 +13752,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Hunan, Heilongjiang 1993 Farmer Income </TI></H3>
-<HT><F P=107><PHRASE>    Hunan, Heilongjiang 1993 Farmer Income </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hunan, Heilongjiang 1993 Farmer Income </PHRASE></F></HT>
 <H4>    Hunan Farmer Income </H4>
 
-<F P=102> 94CE0344V Changsha HUNAN RIBAO in Chinese 22 Mar 94 p 1 </F>
-<F P=103> 94CE0344V </F>
-<F P=104>  Changsha HUNAN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0344V Changsha HUNAN RIBAO in Chinese 22 Mar 94 p 1 </F>
+<F P="103"> 94CE0344V </F>
+<F P="104">  Changsha HUNAN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13788,16 +13789,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Hunan, Heilongjiang 1993 Farmer Income </TI></H3>
-<HT><F P=107><PHRASE>    Hunan, Heilongjiang 1993 Farmer Income </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hunan, Heilongjiang 1993 Farmer Income </PHRASE></F></HT>
 <H4>    Heilongjiang Farmer Income </H4>
 
-<F P=102> 94CE0397I Harbin HEILONGJIANG RIBAO in Chinese 16 Mar 94 p 6 </F>
-<F P=103> 94CE0397I </F>
-<F P=104>  Harbin HEILONGJIANG RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0397I Harbin HEILONGJIANG RIBAO in Chinese 16 Mar 94 p 6 </F>
+<F P="103"> 94CE0397I </F>
+<F P="104">  Harbin HEILONGJIANG RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13824,15 +13825,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Liaoning Sets Goals for Agricultural Outputs </TI></H3>
-<HT><F P=107><PHRASE>    Liaoning Sets Goals for Agricultural Outputs </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liaoning Sets Goals for Agricultural Outputs </PHRASE></F></HT>
 
-<F P=102>   94CE0397B Shenyang LIAONING RIBAO in Chinese 14 Mar 94 p 1 </F>
-<F P=103> 94CE0397B </F>
-<F P=104>  Shenyang LIAONING RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0397B Shenyang LIAONING RIBAO in Chinese 14 Mar 94 p 1 </F>
+<F P="103"> 94CE0397B </F>
+<F P="104">  Shenyang LIAONING RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13863,17 +13864,17 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Liaoning Cotton Procurement </TI></H3>
-<HT><F P=107><PHRASE>    Liaoning Cotton Procurement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liaoning Cotton Procurement </PHRASE></F></HT>
 
-<F P=102>   94CE0344N Shenyang LIAONING JINGJI RIBAO in Chinese 22 Feb 
+<F P="102">   94CE0344N Shenyang LIAONING JINGJI RIBAO in Chinese 22 Feb 
 94 p 1 </F>
 
-<F P=103> 94CE0344N </F>
-<F P=104>  Shenyang LIAONING JINGJI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0344N </F>
+<F P="104">  Shenyang LIAONING JINGJI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13906,16 +13907,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Zhejiang, Guangdong Procurement Price for Rice </TI></H3>
-<HT><F P=107><PHRASE>    Zhejiang, Guangdong Procurement Price for Rice </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhejiang, Guangdong Procurement Price for Rice </PHRASE></F></HT>
 <H4>    Zhejiang Procurement Price </H4>
 
-<F P=102> 94CE0397F Hangzhou ZHEJIANG RIBAO in Chinese 9 Mar 94 p 1 </F>
-<F P=103> 94CE0397F </F>
-<F P=104>  Hangzhou ZHEJIANG RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0397F Hangzhou ZHEJIANG RIBAO in Chinese 9 Mar 94 p 1 </F>
+<F P="103"> 94CE0397F </F>
+<F P="104">  Hangzhou ZHEJIANG RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13943,16 +13944,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Zhejiang, Guangdong Procurement Price for Rice </TI></H3>
-<HT><F P=107><PHRASE>    Zhejiang, Guangdong Procurement Price for Rice </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhejiang, Guangdong Procurement Price for Rice </PHRASE></F></HT>
 <H4>    Guangdong Procurement Price </H4>
 
-<F P=102> 94CE0397H Beijing NONGMIN RIBAO in Chinese 29 Mar 94 p 1 </F>
-<F P=103> 94CE0397H </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0397H Beijing NONGMIN RIBAO in Chinese 29 Mar 94 p 1 </F>
+<F P="103"> 94CE0397H </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -13980,22 +13981,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   `Obstacles' to Effective Procuratorate Work </TI></H3>
-<HT><F P=107><PHRASE>    `Obstacles' to Effective Procuratorate Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Obstacles' to Effective Procuratorate Work </PHRASE></F></HT>
 
-<F P=102>   94CM0232B Beijing LIAOWANG [OUTLOOK] in Chinese No 5, 31 Jan 
+<F P="102">   94CM0232B Beijing LIAOWANG [OUTLOOK] in Chinese No 5, 31 Jan 
 94 pp 24-25 </F>
 
-<F P=103> 94CM0232B </F>
-<F P=104>  Beijing LIAOWANG [OUTLOOK] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0232B </F>
+<F P="104">  Beijing LIAOWANG [OUTLOOK] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Gao Jianyuan (7559 1696 0337): "Procuratorial </F>
+<F P="106"> [Article by Gao Jianyuan (7559 1696 0337): "Procuratorial </F>
 Work: Guarantee for Just and Fair Law Enforcement"] 
   [Excerpt] The following are presently some of the major 
 difficulties and obstacles that are still commonly encountered 
@@ -14123,22 +14124,22 @@ China
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Trade Imbalance With Japan Evaluated </TI></H3>
-<HT><F P=107><PHRASE>    Trade Imbalance With Japan Evaluated </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Trade Imbalance With Japan Evaluated </PHRASE></F></HT>
 
-<F P=102>   94CE0328A Hong Kong CHING-CHI TAO-PAO [ECONOMIC REPORTER] in 
+<F P="102">   94CE0328A Hong Kong CHING-CHI TAO-PAO [ECONOMIC REPORTER] in 
 Chinese No 2355, 24 Jan 94 pp 33-34 </F>
 
-<F P=103> 94CE0328A </F>
-<F P=104>  Hong Kong CHING-CHI TAO-PAO [ECONOMIC REPORTER] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0328A </F>
+<F P="104">  Hong Kong CHING-CHI TAO-PAO [ECONOMIC REPORTER] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Tsao Hsiao-heng (2580 1420 5899): "Taiwan's </F>
+<F P="106"> [Article by Tsao Hsiao-heng (2580 1420 5899): "Taiwan's </F>
 Trade Deficit With Japan Hits Another Record High"] 
   [Text] Measures Are Available, But Strength Is 
 Lacking To Remedy the Situation 
@@ -14408,21 +14409,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Analysis of 1994 Integrated Circuit Market </TI></H3>
-<HT><F P=107><PHRASE>    Analysis of 1994 Integrated Circuit Market </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Analysis of 1994 Integrated Circuit Market </PHRASE></F></HT>
 
-<F P=102>   94CE0360A Beijing JINGJI RIBAO in Chinese 28 Feb, 7 Mar 94 </F>
-<F P=103> 94CE0360A </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0360A Beijing JINGJI RIBAO in Chinese 28 Feb, 7 Mar 94 </F>
+<F P="103"> 94CE0360A </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article in two installments: "Analysis of 1994 Chinese </F>
+<F P="106"> [Article in two installments: "Analysis of 1994 Chinese </F>
 Integrated Circuit Market"] 
 <H5>  [28 Feb 94 p 7] </H5>
   [Text] According to information provided by the relevant 
@@ -14624,15 +14625,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Statistics on Light Industrial Output in February </TI></H3>
-<HT><F P=107><PHRASE>    Statistics on Light Industrial Output in February </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Statistics on Light Industrial Output in February </PHRASE></F></HT>
 
-<F P=102>   HK1803114894 Beijing CEI Database in English 18 Mar 94 </F>
-<F P=103> HK1803114894 </F>
-<F P=104>  Beijing CEI Database </F>
-<F P=105>  English </F>
+<F P="102">   HK1803114894 Beijing CEI Database in English 18 Mar 94 </F>
+<F P="103"> HK1803114894 </F>
+<F P="104">  Beijing CEI Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14737,15 +14738,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Output of Mechano-Electronic Products in February </TI></H3>
-<HT><F P=107><PHRASE>    Output of Mechano-Electronic Products in February </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Output of Mechano-Electronic Products in February </PHRASE></F></HT>
 
-<F P=102>   HK1803115194 Beijing CEI Database in English 18 Mar 94 </F>
-<F P=103> HK1803115194 </F>
-<F P=104>  Beijing CEI Database </F>
-<F P=105>  English </F>
+<F P="102">   HK1803115194 Beijing CEI Database in English 18 Mar 94 </F>
+<F P="103"> HK1803115194 </F>
+<F P="104">  Beijing CEI Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14839,15 +14840,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Statistics on Raw Material Output in February </TI></H3>
-<HT><F P=107><PHRASE>    Statistics on Raw Material Output in February </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Statistics on Raw Material Output in February </PHRASE></F></HT>
 
-<F P=102>   HK1803114994 Beijing CEI Database in English 18 Mar 94 </F>
-<F P=103> HK1803114994 </F>
-<F P=104>  Beijing CEI Database </F>
-<F P=105>  English </F>
+<F P="102">   HK1803114994 Beijing CEI Database in English 18 Mar 94 </F>
+<F P="103"> HK1803114994 </F>
+<F P="104">  Beijing CEI Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14921,23 +14922,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FOREIGN TRADE, INVESTMENT </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FOREIGN TRADE, INVESTMENT </F>
 <H3> <TI>   Article Urges Balance, Diversity in Foreign Investment </TI></H3>
-<HT><F P=107><PHRASE>    Article Urges Balance, Diversity in Foreign Investment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Article Urges Balance, Diversity in Foreign Investment </PHRASE></F></HT>
 
-<F P=102>   94CE0378A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
+<F P="102">   94CE0378A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
 Chinese No 52, 24 Jan 94 pp 152-157 </F>
 
-<F P=103> 94CE0378A </F>
-<F P=104>  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0378A </F>
+<F P="104">  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Mu Haiping (1970 3189 1627): "Analysis of Direct </F>
+<F P="106"> [Article by Mu Haiping (1970 3189 1627): "Analysis of Direct </F>
 Foreign Investment Problems, Trends"] 
   [Text] 1. Analysis Of Basic Trends 
   Direct foreign investment in China has soared in the past 
@@ -15532,23 +15533,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FOREIGN TRADE, INVESTMENT </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FOREIGN TRADE, INVESTMENT </F>
 <H3> <TI>   Suggestions for Foreign Investment Policy Changes </TI></H3>
-<HT><F P=107><PHRASE>    Suggestions for Foreign Investment Policy Changes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Suggestions for Foreign Investment Policy Changes </PHRASE></F></HT>
 
-<F P=102>   94CE0379A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
+<F P="102">   94CE0379A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
 Chinese No 52, 24 Jan 94 pp 163-168 </F>
 
-<F P=103> 94CE0379A </F>
-<F P=104>  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0379A </F>
+<F P="104">  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Summary of "International Forum on Beijing's 1993 </F>
+<F P="106"> [Summary of "International Forum on Beijing's 1993 </F>
 Transnational Corporations and China": "On Further Improving 
 China's Foreign Investment Climate and Attracting Investment 
 by Transnational Corporations"] 
@@ -15816,23 +15817,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FOREIGN TRADE, INVESTMENT </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FOREIGN TRADE, INVESTMENT </F>
 <H3> <TI>   Coordinating Foreign Trade, Investment Policies </TI></H3>
-<HT><F P=107><PHRASE>    Coordinating Foreign Trade, Investment Policies </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Coordinating Foreign Trade, Investment Policies </PHRASE></F></HT>
 
-<F P=102>   94CE0327A Beijing GUOJI MAOYI [INTERTRADE] in Chinese No 
+<F P="102">   94CE0327A Beijing GUOJI MAOYI [INTERTRADE] in Chinese No 
 144, 15 Dec 93 pp 29-31 </F>
 
-<F P=103> 94CE0327A </F>
-<F P=104>  Beijing GUOJI MAOYI [INTERTRADE] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0327A </F>
+<F P="104">  Beijing GUOJI MAOYI [INTERTRADE] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Gu Kejian (6253 0344 7003), Faculty of Economics </F>
+<F P="106"> [Article by Gu Kejian (6253 0344 7003), Faculty of Economics </F>
 and Trade, Zhongnan University of Finance and Economics: 
 "Macroeconomic Coordination of Foreign Trade and Foreign 
 Investment Policies"] 
@@ -16277,21 +16278,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> LABOR </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> LABOR </F>
 <H3> <TI>   Reversion of Migrating Rural Labor </TI></H3>
-<HT><F P=107><PHRASE>    Reversion of Migrating Rural Labor </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reversion of Migrating Rural Labor </PHRASE></F></HT>
 
-<F P=102>   94CE0362A Beijing JINGJI RIBAO in Chinese 22 Feb 94 p 1 </F>
-<F P=103> 94CE0362A </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0362A Beijing JINGJI RIBAO in Chinese 22 Feb 94 p 1 </F>
+<F P="103"> 94CE0362A </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Two-part article by Tai Dewen (3141 1795 2429), secretary </F>
+<F P="106"> [Two-part article by Tai Dewen (3141 1795 2429), secretary </F>
 of the Fuyang Prefecture CPC Committee, and Gao Lu (7559 6424), 
 staff reporter: "Speaking of the Reverse Flow in Season of 
 Rising `Tide'--Dialogue on Reverse Flow Phenomenon in `Tide of 
@@ -16536,21 +16537,21 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Net Farmer Income Clarified </TI></H3>
-<HT><F P=107><PHRASE>    Net Farmer Income Clarified </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Net Farmer Income Clarified </PHRASE></F></HT>
 
-<F P=102>   94CE0398C Changchun JILIN RIBAO in Chinese 23 Feb 94 p 3 </F>
-<F P=103> 94CE0398C </F>
-<F P=104>  Changchun JILIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0398C Changchun JILIN RIBAO in Chinese 23 Feb 94 p 3 </F>
+<F P="103"> 94CE0398C </F>
+<F P="104">  Changchun JILIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yang Molin (2799 1075 2651): "A Correct </F>
+<F P="106"> [Article by Yang Molin (2799 1075 2651): "A Correct </F>
 Understanding and Application of the Statistical Data `Net 
 Farmer Income'"] 
   [Text] "Net farmer income" is an important indicator for 
@@ -16681,23 +16682,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
-<H3> <TI>   Gansu Agricultual S&amp;T Achievements </TI></H3>
-<HT><F P=107><PHRASE>    Gansu Agricultual S&amp;T Achievements </PHRASE></F></HT>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
+<H3> <TI>   Gansu Agricultual S amp;T Achievements </TI></H3>
+<HT><F P="107"><PHRASE>    Gansu Agricultual S amp;T Achievements </PHRASE></F></HT>
 
-<F P=102>   94CE0398B Lanzhou GANSU RIBAO in Chinese 13 Feb 94 p 
+<F P="102">   94CE0398B Lanzhou GANSU RIBAO in Chinese 13 Feb 94 p 
 1 </F>
 
-<F P=103> 94CE0398B </F>
-<F P=104>  Lanzhou GANSU RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0398B </F>
+<F P="104">  Lanzhou GANSU RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Leading article: "By Closely Integrating Scientific and </F>
+<F P="106"> [Leading article: "By Closely Integrating Scientific and </F>
 Technological Development, the [Gansu] Provincial Academy of 
 Agricultural Sciences Accomplished New Achievements"] 
   [Excerpts] In 1993, the Provincial Academy of Agricultural 
@@ -16724,7 +16725,7 @@ promotions exceeded one million mu of varieties and resulted
 last year in an additional output value of 168 million yuan and 
 an additional net income of 141 million yuan. 
   Similar achievements of increased production and increased 
-income had been accomplished in contractual S&amp;T projects 
+income had been accomplished in contractual S amp;T projects 
 undertaken by the provincial agricultural academy in 1993. The 
 project "Demonstration of Techniques for High Yield Grain 
 Production on 760,000 Mu of Arid Land in Eastern and Southern 
@@ -16764,16 +16765,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Provinces Report Early Rice Area </TI></H3>
-<HT><F P=107><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
 <H4>    Hubei Rice Area </H4>
 
-<F P=102> 94CE0344X Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
-<F P=103> 94CE0344X </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0344X Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
+<F P="103"> 94CE0344X </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -16802,16 +16803,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Provinces Report Early Rice Area </TI></H3>
-<HT><F P=107><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
 <H4>    Hunan Rice Area </H4>
 
-<F P=102> 94CE0344Y Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
-<F P=103> 94CE0344Y </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0344Y Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
+<F P="103"> 94CE0344Y </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -16838,16 +16839,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Provinces Report Early Rice Area </TI></H3>
-<HT><F P=107><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
 <H4>    Zhejiang Rice Area </H4>
 
-<F P=102> 94CE0344Z Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
-<F P=103> 94CE0344Z </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0344Z Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
+<F P="103"> 94CE0344Z </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -16883,16 +16884,16 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Provinces Report Early Rice Area </TI></H3>
-<HT><F P=107><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Provinces Report Early Rice Area </PHRASE></F></HT>
 <H4>    Jiangxi Rice Area </H4>
 
-<F P=102> 94CE0397A Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
-<F P=103> 94CE0397A </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> 94CE0397A Beijing NONGMIN RIBAO in Chinese 25 Mar 94 p 1 </F>
+<F P="103"> 94CE0397A </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -16920,25 +16921,25 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Hunan, Hubei Grain Marketing Reform Surveyed </TI></H3>
-<HT><F P=107><PHRASE>    Hunan, Hubei Grain Marketing Reform Surveyed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hunan, Hubei Grain Marketing Reform Surveyed </PHRASE></F></HT>
 
-<F P=102>   94CE0316A Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
+<F P="102">   94CE0316A Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
 ECONOMY] in Chinese No 2, 20 Feb 94 pp 45-48 </F>
 
-<F P=103> 94CE0316A </F>
-<F P=104>  Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
+<F P="103"> 94CE0316A </F>
+<F P="104">  Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
 ECONOMY] </F>
 
-<F P=105>  Chinese </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Li Xirong (2621 1585 2837) and Dong Yiman (5516 </F>
+<F P="106"> [Article by Li Xirong (2621 1585 2837) and Dong Yiman (5516 </F>
 0001 2581) of the Agricultural Economy Department of the State 
 Planning Commission and Sun Meijun (1327 2734 0689) of the 
 Agricultural Survey Team of the State Statistics Bureau: "Survey 
@@ -17377,23 +17378,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Agricultural Development 1996-2010 </TI></H3>
-<HT><F P=107><PHRASE>    Agricultural Development 1996-2010 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Agricultural Development 1996-2010 </PHRASE></F></HT>
 
-<F P=102>   94CE0353A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
+<F P="102">   94CE0353A Beijing GUANLI SHIJIE [MANAGEMENT WORLD] in 
 Chinese No 1, 1994 pp 172-176 </F>
 
-<F P=103> 94CE0353A </F>
-<F P=104>  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0353A </F>
+<F P="104">  Beijing GUANLI SHIJIE [MANAGEMENT WORLD] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Wang Weinong (3769 3634 6593), Zhou Haichun </F>
+<F P="106"> [Article by Wang Weinong (3769 3634 6593), Zhou Haichun </F>
 (0719 3189 2504), and Wu Xiaohua (0702 2556 5478), affiliated 
 with the State Planning Commission's Economic Studies Taskforce: 
 "China's Agricultural Development From 1996 to 2010"] 
@@ -17560,7 +17561,7 @@ input of live labor to make up our resource-input shortage has
 reached the critical point, so that our abundant agricultural 
 workforce not only is no longer an advantage, but even is 
 threatening our agricultural growth. 
-  D. Our agricultural S&amp;T and technology-dissemination 
+  D. Our agricultural S amp;T and technology-dissemination 
 system 
 is also facing a stiff test from the market-economy tide. 
   The above analyzes China's agricultural-development 
@@ -17659,7 +17660,7 @@ that our agriculture will face in this period, we hold that our
 basic agricultural-development guiding ideology for this period 
 should be to adhere to the principle of developing but not 
 depending wholly on markets and, with state support, to focus on 
-structural adjustment, by relying on S&amp;T, policy, input, and 
+structural adjustment, by relying on S amp;T, policy, input, and 
 service to promote agricultural growth, on which basis to 
 appropriately regulate and guide farm-product demand. 
   In the next 15 years, as our farm-product demand will have 
@@ -17749,10 +17750,10 @@ maintaining stable economic growth, thus preparing the material
 foundation for revenue support of basic industries, such as 
 agriculture. 
   B. The state needs to include agroscience research and 
-S&amp;T 
+S amp;T 
 dissemination in basic academic disciplines, suitably increasing 
 its investment and providing priority support, instead of 
-overemphasizing the marketization route for agricultural S&amp;T 
+overemphasizing the marketization route for agricultural S amp;T 
 dissemination. 
   C. We need to establish and perfect state credit-support for 
 agriculture. Once the State Agriculture Policy Bank is 
@@ -17771,12 +17772,12 @@ protective-price system.
 products, particularly grain. We could select 500 large 
 commodity-grain counties throughout China for preferential state 
 funding and technical support. 
-  3. With state support, we should turn S&amp;T advances into 
+  3. With state support, we should turn S amp;T advances into 
 this 
 stage's agricultural-growth leader. 
   A. We need to make breakthrough advances in cultivating 
 farm-product varieties. The state ought to organize the 
-agricultural S&amp;T sector to tackle key S&amp;T problems, by 
+agricultural S amp;T sector to tackle key S amp;T problems, by 
 developing a batch of high-yield and quality varieties among 
 staple farm products, such as rice, wheat, cotton, and 
 oil-bearing crops, in order to meet the needs of structural 
@@ -17789,12 +17790,12 @@ fertilizer-application technology, crop protection, and
 epidemic-disease prevention and control, to form a 
 comprehensive, complete, and mature technology model for 
 dissemination and application. 
-  C. We need to raise our farmers' S&amp;T levels to new 
+  C. We need to raise our farmers' S amp;T levels to new 
 heights. 
 We should develop agricultural high schools faster, utilizing 
 all forms to run agrotechnology training classes. Through these 
 measures, we should strive to raise in this period our ratio of 
-agricultural growth from S&amp;T applications to all agricultural 
+agricultural growth from S amp;T applications to all agricultural 
 growth from its current 30-40 percent to 50-60 percent. 
   4. We should set up a sound socialized-service system for 
 agriculture. In the next 15 years, the state should vigorously 
@@ -17847,23 +17848,23 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Agricultural Product Pricing, Circulation Problems </TI></H3>
-<HT><F P=107><PHRASE>    Agricultural Product Pricing, Circulation Problems </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Agricultural Product Pricing, Circulation Problems </PHRASE></F></HT>
 
-<F P=102>   94CE0340A Nanchang JIAGE YUEKAN [PRICING MONTHLY] in Chinese 
+<F P="102">   94CE0340A Nanchang JIAGE YUEKAN [PRICING MONTHLY] in Chinese 
 No 12, 15 Dec 93 pp 40-42 </F>
 
-<F P=103> 94CE0340A </F>
-<F P=104>  Nanchang JIAGE YUEKAN [PRICING MONTHLY] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CE0340A </F>
+<F P="104">  Nanchang JIAGE YUEKAN [PRICING MONTHLY] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Cai Ping (5591 5493): "Problems in the </F>
+<F P="106"> [Article by Cai Ping (5591 5493): "Problems in the </F>
 Agricultural Product Pricing and Circulation Systems and Some 
 Solutions"--the authors are affiliated with the Ministry of 
 Agriculture's Comprehensive Planning Department] 
@@ -18309,15 +18310,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   National Cultivated Land Area </TI></H3>
-<HT><F P=107><PHRASE>    National Cultivated Land Area </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    National Cultivated Land Area </PHRASE></F></HT>
 
-<F P=102>   94CE0397K Hefei ANHUI RIBAO in Chinese 11 Mar 94 p 7 </F>
-<F P=103> 94CE0397K </F>
-<F P=104>  Hefei ANHUI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0397K Hefei ANHUI RIBAO in Chinese 11 Mar 94 p 7 </F>
+<F P="103"> 94CE0397K </F>
+<F P="104">  Hefei ANHUI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -18344,15 +18345,15 @@ China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Regional Per Capita Net Income of Farmers in 1993 </TI></H3>
-<HT><F P=107><PHRASE>    Regional Per Capita Net Income of Farmers in 1993 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Regional Per Capita Net Income of Farmers in 1993 </PHRASE></F></HT>
 
-<F P=102>   94CE0397J Beijing ZHONGGUO XINXI BAO in Chinese 4 Mar 94 p 2 </F>
-<F P=103> 94CE0397J </F>
-<F P=104>  Beijing ZHONGGUO XINXI BAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   94CE0397J Beijing ZHONGGUO XINXI BAO in Chinese 4 Mar 94 p 2 </F>
+<F P="103"> 94CE0397J </F>
+<F P="104">  Beijing ZHONGGUO XINXI BAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -18450,22 +18451,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Study Identifies Eleven Social Diseases </TI></H3>
-<HT><F P=107><PHRASE>    Study Identifies Eleven Social Diseases </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Study Identifies Eleven Social Diseases </PHRASE></F></HT>
 
-<F P=102>   94CM0163C Shanghai SHEHUI [SOCIETY] in Chinese No 108, Jan 
+<F P="102">   94CM0163C Shanghai SHEHUI [SOCIETY] in Chinese No 108, Jan 
 94 p 45 </F>
 
-<F P=103> 94CM0163C </F>
-<F P=104>  Shanghai SHEHUI [SOCIETY] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0163C </F>
+<F P="104">  Shanghai SHEHUI [SOCIETY] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Gu Chu (6253 0443): "Study Identifies Eleven </F>
+<F P="106"> [Article by Gu Chu (6253 0443): "Study Identifies Eleven </F>
 Social Diseases"] 
   [Excerpts] Under the organization and direction of Zhang 
 Ping [1728 5493], a research associate at the Sociology 
@@ -18540,22 +18541,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Economic Interpretation of Political Corruption </TI></H3>
-<HT><F P=107><PHRASE>    Economic Interpretation of Political Corruption </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Economic Interpretation of Political Corruption </PHRASE></F></HT>
 
-<F P=102>   94CM0208A Hong Kong CHIU-SHIH NIEN-TAI [THE NINETIES] in 
+<F P="102">   94CM0208A Hong Kong CHIU-SHIH NIEN-TAI [THE NINETIES] in 
 Chinese No 289, 1 Feb 94 pp 48-49 </F>
 
-<F P=103> 94CM0208A </F>
-<F P=104>  Hong Kong CHIU-SHIH NIEN-TAI [THE NINETIES] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0208A </F>
+<F P="104">  Hong Kong CHIU-SHIH NIEN-TAI [THE NINETIES] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Fang Su (2455 5685): "Is Corruption Harmful to </F>
+<F P="106"> [Article by Fang Su (2455 5685): "Is Corruption Harmful to </F>
 Economic Development -- Liu Pei-chiung on Mainland China's 
 Corruption Problem"] 
   [Excerpts] [passage omitted] Liu Pei-chiung (0491 0160 
@@ -18743,22 +18744,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Survey on Why College Teachers Quit </TI></H3>
-<HT><F P=107><PHRASE>    Survey on Why College Teachers Quit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Survey on Why College Teachers Quit </PHRASE></F></HT>
 
-<F P=102>   94CM0231A Shanghai SHEHUI [SOCIETY] in Chinese No 110, Mar 
+<F P="102">   94CM0231A Shanghai SHEHUI [SOCIETY] in Chinese No 110, Mar 
 94 pp 45-46 </F>
 
-<F P=103> 94CM0231A </F>
-<F P=104>  Shanghai SHEHUI [SOCIETY] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0231A </F>
+<F P="104">  Shanghai SHEHUI [SOCIETY] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Shan Liang (0830 5328): "The Festive Candle </F>
+<F P="106"> [Article by Shan Liang (0830 5328): "The Festive Candle </F>
 Drops Blobs of Wax Like Tears -- A Look at the Loss of Teachers 
 at Shanghai's Institutions of Higher Learning," excerpted by Lao 
 He (0525 0149) from SHANGHAI RENCAI SHICHANG BAO (SHANGHAI 
@@ -18920,22 +18921,22 @@ China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Widespread Feudal Superstitious Activities </TI></H3>
-<HT><F P=107><PHRASE>    Widespread Feudal Superstitious Activities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Widespread Feudal Superstitious Activities </PHRASE></F></HT>
 
-<F P=102>   94CM0231B Beijing LIAOWANG [OUTLOOK] in Chinese No 6, 7 Feb 
+<F P="102">   94CM0231B Beijing LIAOWANG [OUTLOOK] in Chinese No 6, 7 Feb 
 94 pp 45-46 </F>
 
-<F P=103> 94CM0231B </F>
-<F P=104>  Beijing LIAOWANG [OUTLOOK] </F>
-<F P=105>  Chinese </F>
+<F P="103"> 94CM0231B </F>
+<F P="104">  Beijing LIAOWANG [OUTLOOK] </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Li Guodong (2621 0948 2767), Legal Work </F>
+<F P="106"> [Article by Li Guodong (2621 0948 2767), Legal Work </F>
 Committee of the Standing Committee, People's Representative 
 Committee of Minquan County, Henan Province: "Severely Combat 
 Feudal Superstitions Leading to the Commission of Crimes"] 
@@ -19128,3 +19129,4 @@ began to play the "mystery chain" game [shen bi lian 4377 4434
 </TEXT>
 
 </DOC>
+</root>

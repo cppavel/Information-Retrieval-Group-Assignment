@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS4-44190 </DOCNO>
@@ -11,22 +12,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   Daily Sees Greens Trying To Win SPD Support </TI></H3>
-<HT><F P=107><PHRASE>    Daily Sees Greens Trying To Win SPD Support </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daily Sees Greens Trying To Win SPD Support </PHRASE></F></HT>
 
-<F P=102>   AU2706173094 Munich SUEDDEUTSCHE ZEITUNG in German 27 Jun 94 
+<F P="102">   AU2706173094 Munich SUEDDEUTSCHE ZEITUNG in German 27 Jun 94 
 p 2 </F>
 
-<F P=103> AU2706173094 </F>
-<F P=104>  Munich SUEDDEUTSCHE ZEITUNG </F>
-<F P=105>  German </F>
+<F P="103"> AU2706173094 </F>
+<F P="104">  Munich SUEDDEUTSCHE ZEITUNG </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by "deu": "Green Offer for Scharping's Voters"] </F>
+<F P="106"> [Commentary by "deu": "Green Offer for Scharping's Voters"] </F>
   [Text] After their double-digit success in the European 
 elections, the Greens feel so confident about Bundestag 
 elections that they would even like to help the Social 
@@ -74,20 +75,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Corfu Summit Agrees on High-Speed Train Links </TI></H3>
-<HT><F P=107><PHRASE>    Corfu Summit Agrees on High-Speed Train Links </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Corfu Summit Agrees on High-Speed Train Links </PHRASE></F></HT>
 
-<F P=102>   AU2706183294 Berlin DIE WELT in German 27 Jun 94 p 11 </F>
-<F P=103> AU2706183294 </F>
-<F P=104>  Berlin DIE WELT </F>
-<F P=105>  German </F>
+<F P="102">   AU2706183294 Berlin DIE WELT in German 27 Jun 94 p 11 </F>
+<F P="103"> AU2706183294 </F>
+<F P="104">  Berlin DIE WELT </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Wilhelm Hadler: "Billions for European Transport"] </F>
+<F P="106"> [Report by Wilhelm Hadler: "Billions for European Transport"] </F>
   [Text] Corfu -- Jacques Delors' White Book on Growth, 
 Competitiveness, and Employment continues to be the major 
 guideline for the European Union's [EU] economic policy. At the 
@@ -145,20 +146,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   EU To Strengthen Trade Links With South Africa </TI></H3>
-<HT><F P=107><PHRASE>    EU To Strengthen Trade Links With South Africa </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    EU To Strengthen Trade Links With South Africa </PHRASE></F></HT>
 
-<F P=102>   PM2306100894 London THE EUROPEAN in English 24-30 Jun 94 p 18 </F>
-<F P=103> PM2306100894 </F>
-<F P=104>  London THE EUROPEAN </F>
-<F P=105>  English </F>
+<F P="102">   PM2306100894 London THE EUROPEAN in English 24-30 Jun 94 p 18 </F>
+<F P="103"> PM2306100894 </F>
+<F P="104">  London THE EUROPEAN </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Nigel Collard and Tony Patey: "EU Targets South </F>
+<F P="106"> [Report by Nigel Collard and Tony Patey: "EU Targets South </F>
 Africa"] 
   [Text] High-level trade and finance delegations from 
 Brussels and Britain are going to South Africa in the first 
@@ -232,20 +233,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   EU Research Commissioner on Projects, EUREKA </TI></H3>
-<HT><F P=107><PHRASE>    EU Research Commissioner on Projects, EUREKA </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    EU Research Commissioner on Projects, EUREKA </PHRASE></F></HT>
 
-<F P=102>   PM2406124694 Oslo AFTENPOSTEN in Norwegian 23 Jun 94 p 31 </F>
-<F P=103> PM2406124694 </F>
-<F P=104>  Oslo AFTENPOSTEN </F>
-<F P=105>  Norwegian </F>
+<F P="102">   PM2406124694 Oslo AFTENPOSTEN in Norwegian 23 Jun 94 p 31 </F>
+<F P="103"> PM2406124694 </F>
+<F P="104">  Oslo AFTENPOSTEN </F>
+<F P="105">  Norwegian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report on interview with Antonio Ruberti, EU Commissioner </F>
+<F P="106"> [Report on interview with Antonio Ruberti, EU Commissioner </F>
 for education and research, by Gunnar Magnus; place and date not 
 given] 
   [Text] The EU's [European Union] "minister for research" 
@@ -357,22 +358,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Steel Companies To Take Legal Action Against EU </TI></H3>
-<HT><F P=107><PHRASE>    Steel Companies To Take Legal Action Against EU </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Steel Companies To Take Legal Action Against EU </PHRASE></F></HT>
 
-<F P=102>   BR2806065494 Luxembourg LUXEMBURGER WORT in German 24 Jun 94 
+<F P="102">   BR2806065494 Luxembourg LUXEMBURGER WORT in German 24 Jun 94 
 p 7 </F>
 
-<F P=103> BR2806065494 </F>
-<F P=104>  Luxembourg LUXEMBURGER WORT </F>
-<F P=105>  German </F>
+<F P="103"> BR2806065494 </F>
+<F P="104">  Luxembourg LUXEMBURGER WORT </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Further Legal Action Against the </F>
+<F P="106"> [Unattributed article: "Further Legal Action Against the </F>
 Steel Subsidies Following the Council of Ministers on Steel 
 Issues"] 
   [Text] Before the end of this week, the Steel Trade 
@@ -424,22 +425,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Pro-EU Nordic Groups Hold Strategy Meeting in Oslo </TI></H3>
-<HT><F P=107><PHRASE>    Pro-EU Nordic Groups Hold Strategy Meeting in Oslo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Pro-EU Nordic Groups Hold Strategy Meeting in Oslo </PHRASE></F></HT>
 
-<F P=102>   PM2406111294 Stockholm SVENSKA DAGBLADET in Swedish 23 Jun 
+<F P="102">   PM2406111294 Stockholm SVENSKA DAGBLADET in Swedish 23 Jun 
 94 p 10 </F>
 
-<F P=103> PM2406111294 </F>
-<F P=104>  Stockholm SVENSKA DAGBLADET </F>
-<F P=105>  Swedish </F>
+<F P="103"> PM2406111294 </F>
+<F P="104">  Stockholm SVENSKA DAGBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Bjorn Lindahl: "Meeting in Oslo Unites </F>
+<F P="106"> [Report by Bjorn Lindahl: "Meeting in Oslo Unites </F>
 Yes-Sayers"] 
   [Text] Oslo -- The Nordic organizations working for a yes 
 to the EU [European Union] gathered in Oslo yesterday for a 
@@ -513,21 +514,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Italian Ministers on New EU Immigration Restrictions </TI></H3>
-<HT><F P=107><PHRASE>    Italian Ministers on New EU Immigration Restrictions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Italian Ministers on New EU Immigration Restrictions </PHRASE></F></HT>
 <H4>    Martino Opposes Restrictions </H4>
 
-<F P=102> BR2306142094 Rome LA REPUBBLICA in Italian 23 Jun 94 p 14 </F>
-<F P=103> BR2306142094 </F>
-<F P=104>  Rome LA REPUBBLICA </F>
-<F P=105>  Italian </F>
+<F P="102"> BR2306142094 Rome LA REPUBBLICA in Italian 23 Jun 94 p 14 </F>
+<F P="103"> BR2306142094 </F>
+<F P="104">  Rome LA REPUBBLICA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Italian Foreign Minister Antonio Martino by </F>
+<F P="106"> [Interview with Italian Foreign Minister Antonio Martino by </F>
 Mario Tedeschini Lalli in Rome; date not given: "Immigrants Are 
 Welcome, They Make Italy Wealthier"] 
   [Excerpt] Rome -- [passage omitted] [Lalli] Mr. Minister, 
@@ -623,21 +624,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Italian Ministers on New EU Immigration Restrictions </TI></H3>
-<HT><F P=107><PHRASE>    Italian Ministers on New EU Immigration Restrictions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Italian Ministers on New EU Immigration Restrictions </PHRASE></F></HT>
 <H4>    Maroni Elaborates on Directive, Europol </H4>
 
-<F P=102> BR2206141294 Rome IL MESSAGGERO in Italian 21 Jun 94 p 2 </F>
-<F P=103> BR2206141294 </F>
-<F P=104>  Rome IL MESSAGGERO </F>
-<F P=105>  Italian </F>
+<F P="102"> BR2206141294 Rome IL MESSAGGERO in Italian 21 Jun 94 p 2 </F>
+<F P="103"> BR2206141294 </F>
+<F P="104">  Rome IL MESSAGGERO </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Interior Minister Roberto Maroni by Mario </F>
+<F P="106"> [Interview with Interior Minister Roberto Maroni by Mario </F>
 Coffaro in Luxembourg; date not given: "Maroni: `Modifications? 
 I Will Not Be the One To Ask For Them'" -- first paragraph is 
 IL MESSAGGERO introduction] 
@@ -734,14 +735,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Juppe: Operation Turquoise Achieving Objective </TI></H3>
-<HT><F P=107><PHRASE>    Juppe: Operation Turquoise Achieving Objective </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Juppe: Operation Turquoise Achieving Objective </PHRASE></F></HT>
 
-<F P=102>   AU2706130994 Paris AFP in English 1153 GMT 27 Jun 94 </F>
-<F P=103> AU2706130994 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2706130994 Paris AFP in English 1153 GMT 27 Jun 94 </F>
+<F P="103"> AU2706130994 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -820,16 +821,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Claims No Knowledge of Black Box </TI></H3>
-<HT><F P=107><PHRASE>    Claims No Knowledge of Black Box </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Claims No Knowledge of Black Box </PHRASE></F></HT>
 
-<F P=102>   LD2706224394 Paris Radio France International in French 2130 
+<F P="102">   LD2706224394 Paris Radio France International in French 2130 
 GMT 27 Jun 94 </F>
 
-<F P=103> LD2706224394 </F>
-<F P=104>  Paris Radio France International </F>
-<F P=105>  French </F>
+<F P="103"> LD2706224394 </F>
+<F P="104">  Paris Radio France International </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -880,14 +881,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Leotard To Visit Troops Deployed on Rwandan Border </TI></H3>
-<HT><F P=107><PHRASE>    Leotard To Visit Troops Deployed on Rwandan Border </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Leotard To Visit Troops Deployed on Rwandan Border </PHRASE></F></HT>
 
-<F P=102>   AU2806081494 Paris AFP in English GMT 28 Jun 94 </F>
-<F P=103> AU2806081494 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2806081494 Paris AFP in English GMT 28 Jun 94 </F>
+<F P="103"> AU2806081494 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -920,16 +921,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Roussin: African `Partners' Back Rwanda Intervention </TI></H3>
-<HT><F P=107><PHRASE>    Roussin: African `Partners' Back Rwanda Intervention </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Roussin: African `Partners' Back Rwanda Intervention </PHRASE></F></HT>
 
-<F P=102>   LD2806100794 Paris Radio France International in French 0630 
+<F P="102">   LD2806100794 Paris Radio France International in French 0630 
 GMT 28 Jun 94 </F>
 
-<F P=103> LD2806100794 </F>
-<F P=104>  Paris Radio France International </F>
-<F P=105>  French </F>
+<F P="103"> LD2806100794 </F>
+<F P="104">  Paris Radio France International </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -962,22 +963,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   French Role in Rwandan Conflict Viewed </TI></H3>
-<HT><F P=107><PHRASE>    French Role in Rwandan Conflict Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    French Role in Rwandan Conflict Viewed </PHRASE></F></HT>
 
-<F P=102>   BR2306102494 Paris LE QUOTIDIEN DE PARIS in French 22 Jun 94 
+<F P="102">   BR2306102494 Paris LE QUOTIDIEN DE PARIS in French 22 Jun 94 
 p 3 </F>
 
-<F P=103> BR2306102494 </F>
-<F P=104>  Paris LE QUOTIDIEN DE PARIS </F>
-<F P=105>  French </F>
+<F P="103"> BR2306102494 </F>
+<F P="104">  Paris LE QUOTIDIEN DE PARIS </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Henri Vernet: "Two Months Ago, the French Left </F>
+<F P="106"> [Article by Henri Vernet: "Two Months Ago, the French Left </F>
 Kigali, Why Are They Returning Now?"] 
   [Text] Everyone is aware that an intervention, if not as 
 hazardous as some would have us believe, will be far from a mere 
@@ -1095,20 +1096,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Rwanda Policy, Ties With Habyarimana Reviewed </TI></H3>
-<HT><F P=107><PHRASE>    Rwanda Policy, Ties With Habyarimana Reviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Rwanda Policy, Ties With Habyarimana Reviewed </PHRASE></F></HT>
 
-<F P=102>   BR2206142194 Paris LE FIGARO in French 22 Jun 94 p 3 </F>
-<F P=103> BR2206142194 </F>
-<F P=104>  Paris LE FIGARO </F>
-<F P=105>  French </F>
+<F P="102">   BR2206142194 Paris LE FIGARO in French 22 Jun 94 p 3 </F>
+<F P="103"> BR2206142194 </F>
+<F P="104">  Paris LE FIGARO </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Patrick de Saint-Exupery: "Rwanda: France Let </F>
+<F P="106"> [Article by Patrick de Saint-Exupery: "Rwanda: France Let </F>
 Down by Africa"] 
   [Excerpt] [passage omitted] Despite the many arguments 
 invoked by the Elysee [office of the president], it is now 
@@ -1278,14 +1279,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Juppe: Dehaene Still Best Candidate for EU Post </TI></H3>
-<HT><F P=107><PHRASE>    Juppe: Dehaene Still Best Candidate for EU Post </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Juppe: Dehaene Still Best Candidate for EU Post </PHRASE></F></HT>
 
-<F P=102>   AU2706125994 Paris AFP in English 1213 GMT 27 Jun 94 </F>
-<F P=103> AU2706125994 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2706125994 Paris AFP in English 1213 GMT 27 Jun 94 </F>
+<F P="103"> AU2706125994 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1338,22 +1339,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   All Factions Represented in New PS Leadership </TI></H3>
-<HT><F P=107><PHRASE>    All Factions Represented in New PS Leadership </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    All Factions Represented in New PS Leadership </PHRASE></F></HT>
 
-<F P=102>   BR2406065794 Paris LE QUOTIDIEN DE PARIS in French 23 Jun 94 
+<F P="102">   BR2406065794 Paris LE QUOTIDIEN DE PARIS in French 23 Jun 94 
 p 5 </F>
 
-<F P=103> BR2406065794 </F>
-<F P=104>  Paris LE QUOTIDIEN DE PARIS </F>
-<F P=105>  French </F>
+<F P="103"> BR2406065794 </F>
+<F P="104">  Paris LE QUOTIDIEN DE PARIS </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Daniel Bernard: "Emmanuelli Plans Congress for </F>
+<F P="106"> [Report by Daniel Bernard: "Emmanuelli Plans Congress for </F>
 His Coronation"] 
   [Excerpts] [Socialist Party, PS, First Secretary] Henri 
 Emmanuelli has finally achieved the impossible. After meeting 
@@ -1410,14 +1411,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   `Debt-Ridden' Tapie To Fight Accusations </TI></H3>
-<HT><F P=107><PHRASE>    `Debt-Ridden' Tapie To Fight Accusations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Debt-Ridden' Tapie To Fight Accusations </PHRASE></F></HT>
 
-<F P=102>   AU2806110794 Paris AFP in English 0936 GMT 28 Jun 94 </F>
-<F P=103> AU2806110794 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2806110794 Paris AFP in English 0936 GMT 28 Jun 94 </F>
+<F P="103"> AU2806110794 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1473,20 +1474,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Editorial Views France's `Solitude' in Rwanda </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Views France's `Solitude' in Rwanda </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Views France's `Solitude' in Rwanda </PHRASE></F></HT>
 
-<F P=102>   BR2206142694 Paris LE FIGARO in French 22 Jun 94 p 1 </F>
-<F P=103> BR2206142694 </F>
-<F P=104>  Paris LE FIGARO </F>
-<F P=105>  French </F>
+<F P="102">   BR2206142694 Paris LE FIGARO in French 22 Jun 94 p 1 </F>
+<F P="103"> BR2206142694 </F>
+<F P="104">  Paris LE FIGARO </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial by Charles Lambroschini: "The Weight of the </F>
+<F P="106"> [Editorial by Charles Lambroschini: "The Weight of the </F>
 Past"] 
   [Excerpts] France's solitude in the Rwandan affair confirms 
 an old rule of foreign policy: You do not take risks by 
@@ -1557,20 +1558,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Daily Raises Question of UK Expulsion From EU </TI></H3>
-<HT><F P=107><PHRASE>    Daily Raises Question of UK Expulsion From EU </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daily Raises Question of UK Expulsion From EU </PHRASE></F></HT>
 
-<F P=102>   BR2706143894 Paris LE FIGARO in French 27 Jun 94 p 1 </F>
-<F P=103> BR2706143894 </F>
-<F P=104>  Paris LE FIGARO </F>
-<F P=105>  French </F>
+<F P="102">   BR2706143894 Paris LE FIGARO in French 27 Jun 94 p 1 </F>
+<F P="103"> BR2706143894 </F>
+<F P="104">  Paris LE FIGARO </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial by Franz-Olivier Giesbert: "Of Weeds and </F>
+<F P="106"> [Editorial by Franz-Olivier Giesbert: "Of Weeds and </F>
 Vegetables"] 
   [Text] One may hope that, one day, a statesman will dare 
 shun the customary leaden rhetoric and state clearly the 
@@ -1639,20 +1640,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Tatarella on Reform </TI></H3>
-<HT><F P=107><PHRASE>    Tatarella on Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tatarella on Reform </PHRASE></F></HT>
 
-<F P=102>   BR2206151294 Milan IL GIORNALE in Italian 22 Jun 94 p 4 </F>
-<F P=103> BR2206151294 </F>
-<F P=104>  Milan IL GIORNALE </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2206151294 Milan IL GIORNALE in Italian 22 Jun 94 p 4 </F>
+<F P="103"> BR2206151294 </F>
+<F P="104">  Milan IL GIORNALE </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Deputy Prime Minister Giuseppe Tatarella by </F>
+<F P="106"> [Interview with Deputy Prime Minister Giuseppe Tatarella by </F>
 Federico Guiglia in Rome; date not given: "Regions, a Mine 
 Defused"] 
   [Text] Tatarella, Berlusconi's deputy in the government, 
@@ -1761,20 +1762,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Agnelli on Government, Financial Market Unrest </TI></H3>
-<HT><F P=107><PHRASE>    Agnelli on Government, Financial Market Unrest </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Agnelli on Government, Financial Market Unrest </PHRASE></F></HT>
 
-<F P=102>   BR2706135194 Rome LA REPUBBLICA in Italian 27 Jun 94 p 7 </F>
-<F P=103> BR2706135194 </F>
-<F P=104>  Rome LA REPUBBLICA </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2706135194 Rome LA REPUBBLICA in Italian 27 Jun 94 p 7 </F>
+<F P="103"> BR2706135194 </F>
+<F P="104">  Rome LA REPUBBLICA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Rinaldo Gianola on remarks Fiat Chairman Gianni </F>
+<F P="106"> [Report by Rinaldo Gianola on remarks Fiat Chairman Gianni </F>
 Agnelli made to journalists in Cernobbio; date not given: 
 "Agnelli Reserved on Berlusconi: `But I Would Vote For Him 
 Again'"] 
@@ -1885,20 +1886,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Paper Speculates on Reasons for British EU Stance </TI></H3>
-<HT><F P=107><PHRASE>    Paper Speculates on Reasons for British EU Stance </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Paper Speculates on Reasons for British EU Stance </PHRASE></F></HT>
 
-<F P=102>   BR2706145794 Rome LA REPUBBLICA in Italian 27 Jun 94 p 1 </F>
-<F P=103> BR2706145794 </F>
-<F P=104>  Rome LA REPUBBLICA </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2706145794 Rome LA REPUBBLICA in Italian 27 Jun 94 p 1 </F>
+<F P="103"> BR2706145794 </F>
+<F P="104">  Rome LA REPUBBLICA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Bernard Guetta: "Major's Tragic Mistake"] </F>
+<F P="106"> [Commentary by Bernard Guetta: "Major's Tragic Mistake"] </F>
   [Text] Politics, ideology, the absence of a historical 
 vision. Everything seems to have driven John Major to prompt 
 this European crisis. As far as politics is concerned, the 
@@ -1988,14 +1989,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Vatican Official Meets Iraqi's Tariq 'Aziz </TI></H3>
-<HT><F P=107><PHRASE>    Vatican Official Meets Iraqi's Tariq 'Aziz </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Vatican Official Meets Iraqi's Tariq 'Aziz </PHRASE></F></HT>
 
-<F P=102>   JN2706201794 Baghdad INA in Arabic 1924 GMT 27 Jun 94 </F>
-<F P=103> JN2706201794 </F>
-<F P=104>  Baghdad INA </F>
-<F P=105>  Arabic </F>
+<F P="102">   JN2706201794 Baghdad INA in Arabic 1924 GMT 27 Jun 94 </F>
+<F P="103"> JN2706201794 </F>
+<F P="104">  Baghdad INA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -2035,20 +2036,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   PDS Majority Support Veltroni as New Secretary </TI></H3>
-<HT><F P=107><PHRASE>    PDS Majority Support Veltroni as New Secretary </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PDS Majority Support Veltroni as New Secretary </PHRASE></F></HT>
 
-<F P=102>   BR2806151594 Rome LA REPUBBLICA in Italian 28 Jun 94 p 5 </F>
-<F P=103> BR2806151594 </F>
-<F P=104>  Rome LA REPUBBLICA </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2806151594 Rome LA REPUBBLICA in Italian 28 Jun 94 p 5 </F>
+<F P="103"> BR2806151594 </F>
+<F P="104">  Rome LA REPUBBLICA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Stefano Maroni: "Veltroni Moves Up, Overtakes </F>
+<F P="106"> [Report by Stefano Maroni: "Veltroni Moves Up, Overtakes </F>
 D'Alema, and Wins"] 
   [Excerpts] Rome -- Sixty-four for [L'UNITA editor] 
 Veltroni, and 42 for [Democratic Party of the Left, PDS, 
@@ -2114,16 +2115,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PORTUGAL </F>
+<F P="100"> PORTUGAL </F>
 <H3> <TI>   Cape Verdean President Arrives in Lisbon </TI></H3>
-<HT><F P=107><PHRASE>    Cape Verdean President Arrives in Lisbon </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cape Verdean President Arrives in Lisbon </PHRASE></F></HT>
 
-<F P=102>   LD2606231794 Lisbon RDP Antena 1 Radio Network in Portuguese 
+<F P="102">   LD2606231794 Lisbon RDP Antena 1 Radio Network in Portuguese 
 2200 GMT 26 Jun 94 </F>
 
-<F P=103> LD2606231794 </F>
-<F P=104>  Lisbon RDP Antena 1 Radio Network </F>
-<F P=105>  Portuguese </F>
+<F P="103"> LD2606231794 </F>
+<F P="104">  Lisbon RDP Antena 1 Radio Network </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
@@ -2189,16 +2190,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PORTUGAL </F>
+<F P="100"> PORTUGAL </F>
 <H3> <TI>   Cavaco Silva Blames `Agitators' for Lisbon Events </TI></H3>
-<HT><F P=107><PHRASE>    Cavaco Silva Blames `Agitators' for Lisbon Events </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cavaco Silva Blames `Agitators' for Lisbon Events </PHRASE></F></HT>
 
-<F P=102>   LD2506152794 Lisbon Radio Renascenca in Portuguese to Europe 
+<F P="102">   LD2506152794 Lisbon Radio Renascenca in Portuguese to Europe 
 1300 GMT 25 Jun 94 </F>
 
-<F P=103> LD2506152794 </F>
-<F P=104>  Lisbon Radio Renascenca </F>
-<F P=105>  Portuguese </F>
+<F P="103"> LD2506152794 </F>
+<F P="104">  Lisbon Radio Renascenca </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
@@ -2250,16 +2251,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PORTUGAL </F>
+<F P="100"> PORTUGAL </F>
 <H3> <TI>   Employment Secretary Resigns Over EC Funds Probe </TI></H3>
-<HT><F P=107><PHRASE>    Employment Secretary Resigns Over EC Funds Probe </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Employment Secretary Resigns Over EC Funds Probe </PHRASE></F></HT>
 
-<F P=102>   LD2306193694 Lisbon RTP Internacional Television in 
+<F P="102">   LD2306193694 Lisbon RTP Internacional Television in 
 Portuguese 1800 GMT 23 Jun 94 </F>
 
-<F P=103> LD2306193694 </F>
-<F P=104>  Lisbon RTP Internacional Television </F>
-<F P=105>  Portuguese </F>
+<F P="103"> LD2306193694 </F>
+<F P="104">  Lisbon RTP Internacional Television </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
@@ -2290,16 +2291,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Solana on Cooperation With Central, East Europe </TI></H3>
-<HT><F P=107><PHRASE>    Solana on Cooperation With Central, East Europe </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Solana on Cooperation With Central, East Europe </PHRASE></F></HT>
 
-<F P=102>   LD2706175394 Madrid RNE International in Spanish 1300 GMT 27 
+<F P="102">   LD2706175394 Madrid RNE International in Spanish 1300 GMT 27 
 Jun 94 </F>
 
-<F P=103> LD2706175394 </F>
-<F P=104>  Madrid RNE International </F>
-<F P=105>  Spanish </F>
+<F P="103"> LD2706175394 </F>
+<F P="104">  Madrid RNE International </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -2343,17 +2344,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Industry Minister Eguiagaray Visits Far East </TI></H3>
-<HT><F P=107><PHRASE>    Industry Minister Eguiagaray Visits Far East </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Industry Minister Eguiagaray Visits Far East </PHRASE></F></HT>
 <H4>    Discusses Trade, Energy </H4>
 
-<F P=102> LD2306123794 Madrid RNE International in Spanish 0800 GMT 23 
+<F P="102"> LD2306123794 Madrid RNE International in Spanish 0800 GMT 23 
 Jun 94 </F>
 
-<F P=103> LD2306123794 </F>
-<F P=104>  Madrid RNE International </F>
-<F P=105>  Spanish </F>
+<F P="103"> LD2306123794 </F>
+<F P="104">  Madrid RNE International </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -2396,17 +2397,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Industry Minister Eguiagaray Visits Far East </TI></H3>
-<HT><F P=107><PHRASE>    Industry Minister Eguiagaray Visits Far East </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Industry Minister Eguiagaray Visits Far East </PHRASE></F></HT>
 <H4>    Terms PRC Visit `Fruitful' </H4>
 
-<F P=102> LD2506173694 Madrid RNE International in Spanish 1300 GMT 25 
+<F P="102"> LD2506173694 Madrid RNE International in Spanish 1300 GMT 25 
 Jun 94 </F>
 
-<F P=103> LD2506173694 </F>
-<F P=104>  Madrid RNE International </F>
-<F P=105>  Spanish </F>
+<F P="103"> LD2506173694 </F>
+<F P="104">  Madrid RNE International </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -2441,16 +2442,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Finance Minister Comments on Dollar's Problems </TI></H3>
-<HT><F P=107><PHRASE>    Finance Minister Comments on Dollar's Problems </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Finance Minister Comments on Dollar's Problems </PHRASE></F></HT>
 
-<F P=102>   LD2706175994 Madrid RNE International in Spanish 1300 GMT 27 
+<F P="102">   LD2706175994 Madrid RNE International in Spanish 1300 GMT 27 
 Jun 94 </F>
 
-<F P=103> LD2706175994 </F>
-<F P=104>  Madrid RNE International </F>
-<F P=105>  Spanish </F>
+<F P="103"> LD2706175994 </F>
+<F P="104">  Madrid RNE International </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
@@ -2500,14 +2501,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Finland </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Finland </F>
 <H3> <TI>   RKP Congress: Anti-EU Forces Win Compromise </TI></H3>
-<HT><F P=107><PHRASE>    RKP Congress: Anti-EU Forces Win Compromise </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    RKP Congress: Anti-EU Forces Win Compromise </PHRASE></F></HT>
 
-<F P=102>   94P20909A </F>
-<F P=103> 94P20909A </F>
-<F P=104></F>
+<F P="102">   94P20909A </F>
+<F P="103"> 94P20909A </F>
+<F P="104"></F>
 
 
 
@@ -2575,23 +2576,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Finland </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Finland </F>
 <H3> <TI>   SLC Congress Reaffirms Opposition to EU Membership </TI></H3>
-<HT><F P=107><PHRASE>    SLC Congress Reaffirms Opposition to EU Membership </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SLC Congress Reaffirms Opposition to EU Membership </PHRASE></F></HT>
 
-<F P=102>   PM2306151294 Helsinki HUFVUDSTADSBLADET in Swedish 22 Jun 94 
+<F P="102">   PM2306151294 Helsinki HUFVUDSTADSBLADET in Swedish 22 Jun 94 
 p 3 </F>
 
-<F P=103> PM2306151294 </F>
-<F P=104>  Helsinki HUFVUDSTADSBLADET </F>
-<F P=105>  Swedish </F>
+<F P="103"> PM2306151294 </F>
+<F P="104">  Helsinki HUFVUDSTADSBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "SLC Tightened Up Its EU Line"] </F>
+<F P="106"> [Unattributed report: "SLC Tightened Up Its EU Line"] </F>
   [Text] The congress of the Central Association of Swedish 
 Agricultural Producers (SLC) yesterday adopted a negative stance 
 on European Union [EU] membership, as did its congress in Turku 
@@ -2641,22 +2642,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Finland </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Finland </F>
 <H3> <TI>   * Interest Rates, Debt Seen Drag on Recovery </TI></H3>
-<HT><F P=107><PHRASE>    * Interest Rates, Debt Seen Drag on Recovery </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    * Interest Rates, Debt Seen Drag on Recovery </PHRASE></F></HT>
 <H4>    * Loans for Adapting to EU </H4>
 
-<F P=102> 94EN0398A Helsinki HUFVUDSTADSBLADET in Swedish 25 May 94 p 1 </F>
-<F P=103> 94EN0398A </F>
-<F P=104>  Helsinki HUFVUDSTADSBLADET </F>
-<F P=105>  Swedish </F>
+<F P="102"> 94EN0398A Helsinki HUFVUDSTADSBLADET in Swedish 25 May 94 p 1 </F>
+<F P="103"> 94EN0398A </F>
+<F P="104">  Helsinki HUFVUDSTADSBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed article: "Debt Will Soon Equal Our Entire GNP"] </F>
+<F P="106"> [Unattributed article: "Debt Will Soon Equal Our Entire GNP"] </F>
   [Text] The Finnish national debt is fast approaching 100 
 percent of our gross national product, and it will not be 
 possible to achieve the goal the Finance Ministry proclaimed 
@@ -2694,22 +2695,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Finland </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Finland </F>
 <H3> <TI>   * Interest Rates, Debt Seen Drag on Recovery </TI></H3>
-<HT><F P=107><PHRASE>    * Interest Rates, Debt Seen Drag on Recovery </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    * Interest Rates, Debt Seen Drag on Recovery </PHRASE></F></HT>
 <H4>    * Bank Chief on Monetary Policy </H4>
 
-<F P=102> 94EN0398B Helsinki HUFVUDSTADSBLADET in Swedish 8 Jun 94 p 9 </F>
-<F P=103> 94EN0398B </F>
-<F P=104>  Helsinki HUFVUDSTADSBLADET </F>
-<F P=105>  Swedish </F>
+<F P="102"> 94EN0398B Helsinki HUFVUDSTADSBLADET in Swedish 8 Jun 94 p 9 </F>
+<F P="103"> 94EN0398B </F>
+<F P="104">  Helsinki HUFVUDSTADSBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Tomas Hellen: "Mounting Financial Market Unrest"] </F>
+<F P="106"> [Article by Tomas Hellen: "Mounting Financial Market Unrest"] </F>
   [Text] Unrest in the domestic money, capital, and foreign 
 exchange markets worsened yesterday. Short-term interest rose 
 sharply, the markka lost ground, and yield on state bonds was 
@@ -2860,22 +2861,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Finland </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Finland </F>
 <H3> <TI>   * Interest Rates, Debt Seen Drag on Recovery </TI></H3>
-<HT><F P=107><PHRASE>    * Interest Rates, Debt Seen Drag on Recovery </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    * Interest Rates, Debt Seen Drag on Recovery </PHRASE></F></HT>
 <H4>    * Forecast: High Unemployment </H4>
 
-<F P=102> 94EN0398C Helsinki HUFVUDSTADSBLADET in Swedish 8 Jun 94 p 9 </F>
-<F P=103> 94EN0398C </F>
-<F P=104>  Helsinki HUFVUDSTADSBLADET </F>
-<F P=105>  Swedish </F>
+<F P="102"> 94EN0398C Helsinki HUFVUDSTADSBLADET in Swedish 8 Jun 94 p 9 </F>
+<F P="103"> 94EN0398C </F>
+<F P="104">  Helsinki HUFVUDSTADSBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Katarina Koivisto: "National Debt Threatens </F>
+<F P="106"> [Article by Katarina Koivisto: "National Debt Threatens </F>
 Upturn"] 
   [Text] The economic upturn in Finland is getting under way 
 in earnest and is threatened mainly by the growing national 
@@ -2995,21 +2996,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Norway </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Norway </F>
 <H3> <TI>   AFTENPOSTEN Warns of Losing EU Battle </TI></H3>
-<HT><F P=107><PHRASE>    AFTENPOSTEN Warns of Losing EU Battle </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    AFTENPOSTEN Warns of Losing EU Battle </PHRASE></F></HT>
 
-<F P=102>   94P20910A Oslo AFTENPOSTEN in Norwegian 11 Jun 94 p 8 </F>
-<F P=103> 94P20910A </F>
-<F P=104>  Oslo AFTENPOSTEN </F>
-<F P=105>  Norwegian </F>
+<F P="102">   94P20910A Oslo AFTENPOSTEN in Norwegian 11 Jun 94 p 8 </F>
+<F P="103"> 94P20910A </F>
+<F P="104">  Oslo AFTENPOSTEN </F>
+<F P="105">  Norwegian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Editorial: "Challenge for EU Supporters"] </F>
+<F P="106"> [Editorial: "Challenge for EU Supporters"] </F>
   [Text] From the point of view of the European Union [EU] 
 supporters, we are presenting anything but good news today with 
 the latest Opinion A/S opinion poll on the Norwegians' attitudes 
@@ -3079,23 +3080,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Sweden </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Sweden </F>
 <H3> <TI>   Bildt Views Corfu Summit, European Process </TI></H3>
-<HT><F P=107><PHRASE>    Bildt Views Corfu Summit, European Process </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bildt Views Corfu Summit, European Process </PHRASE></F></HT>
 
-<F P=102>   PM2706143694 Stockholm SVENSKA DAGBLADET in Swedish 24 Jun 
+<F P="102">   PM2706143694 Stockholm SVENSKA DAGBLADET in Swedish 24 Jun 
 94 p 4 </F>
 
-<F P=103> PM2706143694 </F>
-<F P=104>  Stockholm SVENSKA DAGBLADET </F>
-<F P=105>  Swedish </F>
+<F P="103"> PM2706143694 </F>
+<F P="104">  Stockholm SVENSKA DAGBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Focus" article by Prime Minister Carl Bildt: "Corfu </F>
+<F P="106"> ["Focus" article by Prime Minister Carl Bildt: "Corfu </F>
 Meeting an Important Link in European Integration"] 
   [Text] Today when I sign for Sweden the agreement on 
 membership in the European Union, the EU, alongside the prime 
@@ -3288,23 +3289,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Sweden </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Sweden </F>
 <H3> <TI>   Finance Minister: EU Membership No Threat to Aid </TI></H3>
-<HT><F P=107><PHRASE>    Finance Minister: EU Membership No Threat to Aid </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Finance Minister: EU Membership No Threat to Aid </PHRASE></F></HT>
 
-<F P=102>   PM2306115094 Stockholm SVENSKA DAGBLADET in Swedish 22 Jun 
+<F P="102">   PM2306115094 Stockholm SVENSKA DAGBLADET in Swedish 22 Jun 
 94 p 13 </F>
 
-<F P=103> PM2306115094 </F>
-<F P=104>  Stockholm SVENSKA DAGBLADET </F>
-<F P=105>  Swedish </F>
+<F P="103"> PM2306115094 </F>
+<F P="104">  Stockholm SVENSKA DAGBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Lena Hennel: "Membership Does Not Threaten Aid"] </F>
+<F P="106"> [Report by Lena Hennel: "Membership Does Not Threaten Aid"] </F>
   [Text] Swedish membership in the European Union [EU] does 
 not mean that Sweden would isolate itself from the rest of the 
 world. 
@@ -3361,23 +3362,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Sweden </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Sweden </F>
 <H3> <TI>   Colliander Withdraws From NYD Leadership Conflict </TI></H3>
-<HT><F P=107><PHRASE>    Colliander Withdraws From NYD Leadership Conflict </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Colliander Withdraws From NYD Leadership Conflict </PHRASE></F></HT>
 
-<F P=102>   PM2406103694 Stockholm SVENSKA DAGBLADET in Swedish 23 Jun 
+<F P="102">   PM2406103694 Stockholm SVENSKA DAGBLADET in Swedish 23 Jun 
 94 p 11 </F>
 
-<F P=103> PM2406103694 </F>
-<F P=104>  Stockholm SVENSKA DAGBLADET </F>
-<F P=105>  Swedish </F>
+<F P="103"> PM2406103694 </F>
+<F P="104">  Stockholm SVENSKA DAGBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Hans O. Alfredsson: "Colliander Leaving </F>
+<F P="106"> [Report by Hans O. Alfredsson: "Colliander Leaving </F>
 Politics"] 
   [Excerpt] Vivianne Franzen can now lead New Democracy 
 [NYD] unchallenged in the run-up to the election. Harriet 
@@ -3412,16 +3413,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   Northern Envoy: EU Decision `Unfortunate' </TI></H3>
-<HT><F P=107><PHRASE>    Northern Envoy: EU Decision `Unfortunate' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Northern Envoy: EU Decision `Unfortunate' </PHRASE></F></HT>
 
-<F P=102>   TA2806100994 Nicosia Bayrak Radio in Turkish 1930 GMT 27 Jun 
+<F P="102">   TA2806100994 Nicosia Bayrak Radio in Turkish 1930 GMT 27 Jun 
 94 </F>
 
-<F P=103> TA2806100994 </F>
-<F P=104>  Nicosia Bayrak Radio </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2806100994 </F>
+<F P="104">  Nicosia Bayrak Radio </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -3455,16 +3456,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   Denktas Calls For Direct Talks With Kliridhis </TI></H3>
-<HT><F P=107><PHRASE>    Denktas Calls For Direct Talks With Kliridhis </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Denktas Calls For Direct Talks With Kliridhis </PHRASE></F></HT>
 
-<F P=102>   NC2706185894 Nicosia BRTK Television Network in Turkish 1630 
+<F P="102">   NC2706185894 Nicosia BRTK Television Network in Turkish 1630 
 GMT 27 Jun 94 </F>
 
-<F P=103> NC2706185894 </F>
-<F P=104>  Nicosia BRTK Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> NC2706185894 </F>
+<F P="104">  Nicosia BRTK Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -3538,18 +3539,18 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   Kasoulidhis Denies Denktas Proposal </TI></H3>
-<HT><F P=107><PHRASE>    Kasoulidhis Denies Denktas Proposal </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Kasoulidhis Denies Denktas Proposal </PHRASE></F></HT>
 
-<F P=102>   NC2806105694 Nicosia Cyprus Broadcasting Corporation Radio 
+<F P="102">   NC2806105694 Nicosia Cyprus Broadcasting Corporation Radio 
 Network in Greek 1030 GMT 28 Jun 94 </F>
 
-<F P=103> NC2806105694 </F>
-<F P=104>  Nicosia Cyprus Broadcasting Corporation Radio 
+<F P="103"> NC2806105694 </F>
+<F P="104">  Nicosia Cyprus Broadcasting Corporation Radio 
 Network </F>
 
-<F P=105>  Greek </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -3579,14 +3580,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   Denktas Reportedly Rejects Federal Solution </TI></H3>
-<HT><F P=107><PHRASE>    Denktas Reportedly Rejects Federal Solution </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Denktas Reportedly Rejects Federal Solution </PHRASE></F></HT>
 
-<F P=102>   TA2706174494 Ankara ANATOLIA in English 1555 GMT 27 Jun 94 </F>
-<F P=103> TA2706174494 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2706174494 Ankara ANATOLIA in English 1555 GMT 27 Jun 94 </F>
+<F P="103"> TA2706174494 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3632,19 +3633,19 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   Greek, Turkish Party Chiefs Depart for Strasbourg </TI></H3>
-<HT><F P=107><PHRASE>    Greek, Turkish Party Chiefs Depart for Strasbourg </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Greek, Turkish Party Chiefs Depart for Strasbourg </PHRASE></F></HT>
 <H4>    Greek Cypriots Preview Hearings </H4>
 
-<F P=102> NC2806093094 Nicosia Cyprus Broadcasting Corporation Radio 
+<F P="102"> NC2806093094 Nicosia Cyprus Broadcasting Corporation Radio 
 Network in Greek 0700 GMT 28 Jun 94 </F>
 
-<F P=103> NC2806093094 </F>
-<F P=104>  Nicosia Cyprus Broadcasting Corporation Radio 
+<F P="103"> NC2806093094 </F>
+<F P="104">  Nicosia Cyprus Broadcasting Corporation Radio 
 Network </F>
 
-<F P=105>  Greek </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -3705,17 +3706,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   Greek, Turkish Party Chiefs Depart for Strasbourg </TI></H3>
-<HT><F P=107><PHRASE>    Greek, Turkish Party Chiefs Depart for Strasbourg </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Greek, Turkish Party Chiefs Depart for Strasbourg </PHRASE></F></HT>
 <H4>    Turkish Cypriot Delegation Detailed </H4>
 
-<F P=102> TA2606115294 Nicosia Bayrak Radio in Turkish 0500 GMT 26 Jun 
+<F P="102"> TA2606115294 Nicosia Bayrak Radio in Turkish 0500 GMT 26 Jun 
 94 </F>
 
-<F P=103> TA2606115294 </F>
-<F P=104>  Nicosia Bayrak Radio </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2606115294 </F>
+<F P="104">  Nicosia Bayrak Radio </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -3748,16 +3749,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   U.S. Embassy Reportedly Increases Security Measures </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Embassy Reportedly Increases Security Measures </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Embassy Reportedly Increases Security Measures </PHRASE></F></HT>
 
-<F P=102>   NC2706184894 Nicosia CyBC Television Network in Greek 1730 
+<F P="102">   NC2706184894 Nicosia CyBC Television Network in Greek 1730 
 GMT 27 Jun 94 </F>
 
-<F P=103> NC2706184894 </F>
-<F P=104>  Nicosia CyBC Television Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC2706184894 </F>
+<F P="104">  Nicosia CyBC Television Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -3801,20 +3802,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> CYPRUS </F>
+<F P="100"> CYPRUS </F>
 <H3> <TI>   Human Rights Court Hears Refugee Case Against Turkey </TI></H3>
-<HT><F P=107><PHRASE>    Human Rights Court Hears Refugee Case Against Turkey </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Human Rights Court Hears Refugee Case Against Turkey </PHRASE></F></HT>
 
-<F P=102>   NC2306080594 Nicosia CYPRUS MAIL in English 23 Jun 94 p 20 </F>
-<F P=103> NC2306080594 </F>
-<F P=104>  Nicosia CYPRUS MAIL </F>
-<F P=105>  English </F>
+<F P="102">   NC2306080594 Nicosia CYPRUS MAIL in English 23 Jun 94 p 20 </F>
+<F P="103"> NC2306080594 </F>
+<F P="104">  Nicosia CYPRUS MAIL </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Bouli Hadjioannou] </F>
+<F P="106"> [Report by Bouli Hadjioannou] </F>
   [Text] Turkey, dragged before the European Court of Human 
 Rights for the first time on charges of violating the human 
 rights of a Greek-Cypriot refugee, must be held accountable for 
@@ -3863,16 +3864,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GREECE </F>
+<F P="100"> GREECE </F>
 <H3> <TI>   Spokesman Rebuffs Opposition Criticism of EU Summit </TI></H3>
-<HT><F P=107><PHRASE>    Spokesman Rebuffs Opposition Criticism of EU Summit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Spokesman Rebuffs Opposition Criticism of EU Summit </PHRASE></F></HT>
 
-<F P=102>   NC2706164694 Athens Elliniki Radhiofonia Radio Network in 
+<F P="102">   NC2706164694 Athens Elliniki Radhiofonia Radio Network in 
 Greek 1500 GMT 27 Jun 94 </F>
 
-<F P=103> NC2706164694 </F>
-<F P=104>  Athens Elliniki Radhiofonia Radio Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC2706164694 </F>
+<F P="104">  Athens Elliniki Radhiofonia Radio Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -3906,13 +3907,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GREECE </F>
+<F P="100"> GREECE </F>
 <H3> <TI>   Poll Shows Support for FYROM Embargo </TI></H3>
-<HT><F P=107><PHRASE>    Poll Shows Support for FYROM Embargo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Poll Shows Support for FYROM Embargo </PHRASE></F></HT>
 
-<F P=102>   94P20908 </F>
-<F P=103> 94P20908 </F>
-<F P=104></F>
+<F P="102">   94P20908 </F>
+<F P="103"> 94P20908 </F>
+<F P="104"></F>
 
 
 
@@ -3982,16 +3983,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GREECE </F>
+<F P="100"> GREECE </F>
 <H3> <TI>   Spokesman: Papandreou To Handle Cabinet Reshuffle </TI></H3>
-<HT><F P=107><PHRASE>    Spokesman: Papandreou To Handle Cabinet Reshuffle </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Spokesman: Papandreou To Handle Cabinet Reshuffle </PHRASE></F></HT>
 
-<F P=102>   NC2706162294 Athens Elliniki Radhiofonia Radio Network in 
+<F P="102">   NC2706162294 Athens Elliniki Radhiofonia Radio Network in 
 Greek 1500 GMT 27 Jun 94 </F>
 
-<F P=103> NC2706162294 </F>
-<F P=104>  Athens Elliniki Radhiofonia Radio Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC2706162294 </F>
+<F P="104">  Athens Elliniki Radhiofonia Radio Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -4034,13 +4035,13 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GREECE </F>
+<F P="100"> GREECE </F>
 <H3> <TI>   _O_ Implications of Euroelection Results </TI></H3>
-<HT><F P=107><PHRASE>    _O_ Implications of Euroelection Results </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    _O_ Implications of Euroelection Results </PHRASE></F></HT>
 
-<F P=102>   94P20918A </F>
-<F P=103> 94P20918A </F>
-<F P=104></F>
+<F P="102">   94P20918A </F>
+<F P="103"> 94P20918A </F>
+<F P="104"></F>
 
 
 
@@ -4216,16 +4217,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Ciller To Ask Parliament for Troops in Azerbaijan </TI></H3>
-<HT><F P=107><PHRASE>    Ciller To Ask Parliament for Troops in Azerbaijan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ciller To Ask Parliament for Troops in Azerbaijan </PHRASE></F></HT>
 
-<F P=102>   NC2706192394 London Kanal-6 Television in Turkish 1600 GMT 
+<F P="102">   NC2706192394 London Kanal-6 Television in Turkish 1600 GMT 
 27 Jun 94 </F>
 
-<F P=103> NC2706192394 </F>
-<F P=104>  London Kanal-6 Television </F>
-<F P=105>  Turkish </F>
+<F P="103"> NC2706192394 </F>
+<F P="104">  London Kanal-6 Television </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -4288,22 +4289,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Submits Motion to Assembly </TI></H3>
-<HT><F P=107><PHRASE>    Submits Motion to Assembly </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Submits Motion to Assembly </PHRASE></F></HT>
 
-<F P=102>   TA2706182894 Ankara TRT Television Network in Turkish 1700 
+<F P="102">   TA2706182894 Ankara TRT Television Network in Turkish 1700 
 GMT 27 Jun 94 </F>
 
-<F P=103> TA2706182894 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2706182894 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Excerpt] A prime minister's motion requesting authority 
 for Turkish troops to participate in a possible international 
 peacekeeping force to be sent to the area for the peaceful 
@@ -4329,22 +4330,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Spokesman Clarifies CSCE Plan </TI></H3>
-<HT><F P=107><PHRASE>    Spokesman Clarifies CSCE Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Spokesman Clarifies CSCE Plan </PHRASE></F></HT>
 
-<F P=102>   TA2706182994 Ankara TRT Television Network in Turkish 1700 
+<F P="102">   TA2706182994 Ankara TRT Television Network in Turkish 1700 
 GMT 27 Jun 94 </F>
 
-<F P=103> TA2706182994 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2706182994 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Text] It has been announced that the CSCE delegation, 
 which will oversee the cease-fire between Azerbaijan and Armenia 
 and which will observe withdrawal of troops, the normalization 
@@ -4386,22 +4387,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Cetin Meets With Azerbaijan's Abbasov </TI></H3>
-<HT><F P=107><PHRASE>    Cetin Meets With Azerbaijan's Abbasov </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cetin Meets With Azerbaijan's Abbasov </PHRASE></F></HT>
 
-<F P=102>   TA2806072494 Ankara TRT Television Network in Turkish 2110 
+<F P="102">   TA2806072494 Ankara TRT Television Network in Turkish 2110 
 GMT 27 Jun 94 </F>
 
-<F P=103> TA2806072494 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2806072494 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Text] Azerbaijani Deputy Prime Minister Abbas Abbasov, 
 who is in Ankara, visited Foreign Minister Hikmet Cetin and 
 conferred with him for some time. 
@@ -4429,14 +4430,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Ministry Rejects Russian Call for Talks on Straits </TI></H3>
-<HT><F P=107><PHRASE>    Ministry Rejects Russian Call for Talks on Straits </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ministry Rejects Russian Call for Talks on Straits </PHRASE></F></HT>
 
-<F P=102>   NC2706191294 Istanbul HURRIYET in Turkish 24 Jun 94 p 12 </F>
-<F P=103> NC2706191294 </F>
-<F P=104>  Istanbul HURRIYET </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC2706191294 Istanbul HURRIYET in Turkish 24 Jun 94 p 12 </F>
+<F P="103"> NC2706191294 </F>
+<F P="104">  Istanbul HURRIYET </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -4475,14 +4476,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Spokesman Criticizes PKK Rally in Germany </TI></H3>
-<HT><F P=107><PHRASE>    Spokesman Criticizes PKK Rally in Germany </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Spokesman Criticizes PKK Rally in Germany </PHRASE></F></HT>
 
-<F P=102>   TA2706174394 Ankara ANATOLIA in English 1550 GMT 27 Jun 94 </F>
-<F P=103> TA2706174394 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2706174394 Ankara ANATOLIA in English 1550 GMT 27 Jun 94 </F>
+<F P="103"> TA2706174394 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4523,22 +4524,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Jordanian General Meets Officials in Ankara </TI></H3>
-<HT><F P=107><PHRASE>    Jordanian General Meets Officials in Ankara </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jordanian General Meets Officials in Ankara </PHRASE></F></HT>
 
-<F P=102>   TA2706174294 Ankara TRT Television Network in Turkish 1500 
+<F P="102">   TA2706174294 Ankara TRT Television Network in Turkish 1500 
 GMT 27 Jun 94 </F>
 
-<F P=103> TA2706174294 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2706174294 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Text] Staff Lieutenant General 'Abd-al-Hafiz 
 al-Ka'abinah, Jordanian chairman of the Joint Chiefs of Staff, 
 who is currently visiting Turkey as the guest of Gen. Dogan 
@@ -4579,14 +4580,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Chamber of Commerce Signs Trade Accord With Cuba </TI></H3>
-<HT><F P=107><PHRASE>    Chamber of Commerce Signs Trade Accord With Cuba </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chamber of Commerce Signs Trade Accord With Cuba </PHRASE></F></HT>
 
-<F P=102>   TA2806121194 Ankara ANATOLIA in English 0950 GMT 28 Jun 94 </F>
-<F P=103> TA2806121194 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2806121194 Ankara ANATOLIA in English 0950 GMT 28 Jun 94 </F>
+<F P="103"> TA2806121194 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4624,22 +4625,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Situation of Kurdish Refugees in Iraq Detailed </TI></H3>
-<HT><F P=107><PHRASE>    Situation of Kurdish Refugees in Iraq Detailed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Situation of Kurdish Refugees in Iraq Detailed </PHRASE></F></HT>
 
-<F P=102>   NC2406170794 Ankara TURKISH DAILY NEWS in English 21 Jun 94 
+<F P="102">   NC2406170794 Ankara TURKISH DAILY NEWS in English 21 Jun 94 
 p B1 </F>
 
-<F P=103> NC2406170794 </F>
-<F P=104>  Ankara TURKISH DAILY NEWS </F>
-<F P=105>  English </F>
+<F P="103"> NC2406170794 </F>
+<F P="104">  Ankara TURKISH DAILY NEWS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Galip Ridvanoglu] </F>
+<F P="106"> [Report by Galip Ridvanoglu] </F>
   [Text] Diyarbakir-The two, Khaki colored, convertible Land 
 Rovers sped past our bus heading towards Mardin. Four villagers 
 were seated on top of one of the vehicles among heavily armed 
@@ -4768,20 +4769,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Villages Reportedly Torched To Keep Kurds Away </TI></H3>
-<HT><F P=107><PHRASE>    Villages Reportedly Torched To Keep Kurds Away </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Villages Reportedly Torched To Keep Kurds Away </PHRASE></F></HT>
 
-<F P=102>   NC2406122394 Istanbul OZGUR ULKE in Turkish 20 Jun 94 p 6 </F>
-<F P=103> NC2406122394 </F>
-<F P=104>  Istanbul OZGUR ULKE </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC2406122394 Istanbul OZGUR ULKE in Turkish 20 Jun 94 p 6 </F>
+<F P="103"> NC2406122394 </F>
+<F P="104">  Istanbul OZGUR ULKE </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Place-names as published in Kurdish; OZGUR ULKE provides </F>
+<F P="106"> [Place-names as published in Kurdish; OZGUR ULKE provides </F>
 some Turkish equivalents in parentheses] 
   [Text] Diyarbakir -- State terrorism knows no bounds. 
 State forces, on the pretext of cutting off logistics support 
@@ -4913,22 +4914,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Investigation of HADAP Congress Launched </TI></H3>
-<HT><F P=107><PHRASE>    Investigation of HADAP Congress Launched </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Investigation of HADAP Congress Launched </PHRASE></F></HT>
 
-<F P=102>   TA2706184494 Ankara TRT Television Network in Turkish 1700 
+<F P="102">   TA2706184494 Ankara TRT Television Network in Turkish 1700 
 GMT 27 Jun 94 </F>
 
-<F P=103> TA2706184494 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2706184494 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Text] The Ankara State Security Court has launched an 
 investigation in connection with the first congress of the 
 People's Democracy Party [Halkin Demokrasi Partisi--HADEP]. 
@@ -4978,22 +4979,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Cindoruk Comments on Human Rights, DEP Deputies </TI></H3>
-<HT><F P=107><PHRASE>    Cindoruk Comments on Human Rights, DEP Deputies </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Cindoruk Comments on Human Rights, DEP Deputies </PHRASE></F></HT>
 
-<F P=102>   TA2706191694 Ankara TRT Television Network in Turkish 1700 
+<F P="102">   TA2706191694 Ankara TRT Television Network in Turkish 1700 
 GMT 27 Jun 94 </F>
 
-<F P=103> TA2706191694 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2706191694 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report over video] </F>
+<F P="106"> [Announcer-read report over video] </F>
   [Text] Husamettin Cindoruk, speaker of the Turkish Grand 
 National Assembly, has declared that there is no longer any 
 alternative to European democracy. Cindoruk returned to Turkey 
@@ -5049,22 +5050,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Karayalcin on Brussels Visit; Not To Meet DEP Deputies </TI></H3>
-<HT><F P=107><PHRASE>    Karayalcin on Brussels Visit; Not To Meet DEP Deputies </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Karayalcin on Brussels Visit; Not To Meet DEP Deputies </PHRASE></F></HT>
 
-<F P=102>   TA2706175994 Ankara TRT Television Network in Turkish 1000 
+<F P="102">   TA2706175994 Ankara TRT Television Network in Turkish 1000 
 GMT 27 Jun 94 </F>
 
-<F P=103> TA2706175994 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2706175994 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Text] Murat Karayalcin, state minister and deputy prime 
 minister, has said that he does not believe it is politically 
 right for him to meet in Brussels the former deputies of the 
@@ -5130,23 +5131,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> United Kingdom </F>
+<F P="100"> ANNEX </F>
+<F P="101"> United Kingdom </F>
 <H3> <TI>   Daily Urges Government To Review Ulster Policy </TI></H3>
-<HT><F P=107><PHRASE>    Daily Urges Government To Review Ulster Policy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daily Urges Government To Review Ulster Policy </PHRASE></F></HT>
 
-<F P=102>   PM2706120894 London THE TIMES in English 27 Jun 94 p 15--FOR 
+<F P="102">   PM2706120894 London THE TIMES in English 27 Jun 94 p 15--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> PM2706120894 </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2706120894 </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "Ireland's Other Agenda"] </F>
+<F P="106"> [Editorial: "Ireland's Other Agenda"] </F>
   [Text] The Anglo-Irish declaration signed by John Major 
 and Albert Reynolds last December was based, in part, on a 
 premise which has proved to be completely false. In private, 
@@ -5222,23 +5223,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> United Kingdom </F>
+<F P="100"> ANNEX </F>
+<F P="101"> United Kingdom </F>
 <H3> <TI>   Dollar Crisis Could Upset World Currency Markets </TI></H3>
-<HT><F P=107><PHRASE>    Dollar Crisis Could Upset World Currency Markets </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Dollar Crisis Could Upset World Currency Markets </PHRASE></F></HT>
 
-<F P=102>   PM2706110294 London FINANCIAL TIMES in English 27 Jun 94 p 
+<F P="102">   PM2706110294 London FINANCIAL TIMES in English 27 Jun 94 p 
 6--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2706110294 </F>
-<F P=104>  London FINANCIAL TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2706110294 </F>
+<F P="104">  London FINANCIAL TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Peter Marsh and Peter John in London and Richard </F>
+<F P="106"> [Report by Peter Marsh and Peter John in London and Richard </F>
 Tomkins in New York: "G-7 Faces Hard Time To Keep the Lid on the 
 Dollar"] 
   [Text] The Group of Seven leading industrial nations has 
@@ -5347,23 +5348,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> United Kingdom </F>
+<F P="100"> ANNEX </F>
+<F P="101"> United Kingdom </F>
 <H3> <TI>   Editorial Supports Western Aid to Russian Economy </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Supports Western Aid to Russian Economy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Supports Western Aid to Russian Economy </PHRASE></F></HT>
 
-<F P=102>   PM2006100894 London FINANCIAL TIMES in English 20 Jun 94 p 
+<F P="102">   PM2006100894 London FINANCIAL TIMES in English 20 Jun 94 p 
 17 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2006100894 </F>
-<F P=104>  London FINANCIAL TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2006100894 </F>
+<F P="104">  London FINANCIAL TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "Hard Slog in Russia"] </F>
+<F P="106"> [Editorial: "Hard Slog in Russia"] </F>
   [Text] The government of Mr Viktor Chernomyrdin is making 
 an unexpectedly valiant effort to stabilise the Russian economy. 
 But the effort could easily fail and does, in any case, still 
@@ -5442,17 +5443,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   Bonn Not To Support French Troops in Rwanda </TI></H3>
-<HT><F P=107><PHRASE>    Bonn Not To Support French Troops in Rwanda </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bonn Not To Support French Troops in Rwanda </PHRASE></F></HT>
 
-<F P=102>   AU2406135694 Hamburg DPA in German 1331 GMT 24 Jun 94--FOR 
+<F P="102">   AU2406135694 Hamburg DPA in German 1331 GMT 24 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2406135694 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2406135694 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -5481,17 +5482,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   Talks Begin To Find New EU Commission President </TI></H3>
-<HT><F P=107><PHRASE>    Talks Begin To Find New EU Commission President </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Talks Begin To Find New EU Commission President </PHRASE></F></HT>
 
-<F P=102>   AU2706155794 Hamburg DPA in German 1407 GMT 27 Jun 94--FOR 
+<F P="102">   AU2706155794 Hamburg DPA in German 1407 GMT 27 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2706155794 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2706155794 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -5549,17 +5550,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   Bonn Support for Dehaene Waning </TI></H3>
-<HT><F P=107><PHRASE>    Bonn Support for Dehaene Waning </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bonn Support for Dehaene Waning </PHRASE></F></HT>
 
-<F P=102>   AU2706140794 Hamburg DPA in German 1300 GMT 27 Jun 94--FOR 
+<F P="102">   AU2706140794 Hamburg DPA in German 1300 GMT 27 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2706140794 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2706140794 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -5595,17 +5596,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   Government, Cuba Sign Maritime Agreement </TI></H3>
-<HT><F P=107><PHRASE>    Government, Cuba Sign Maritime Agreement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government, Cuba Sign Maritime Agreement </PHRASE></F></HT>
 
-<F P=102>   AU2206124194 Hamburg DPA in German 1030 GMT 22 Jun 94--FOR 
+<F P="102">   AU2206124194 Hamburg DPA in German 1030 GMT 22 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2206124194 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2206124194 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -5640,17 +5641,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   SPD To Form Minority Government in Saxony Anhalt </TI></H3>
-<HT><F P=107><PHRASE>    SPD To Form Minority Government in Saxony Anhalt </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SPD To Form Minority Government in Saxony Anhalt </PHRASE></F></HT>
 
-<F P=102>   AU2706191094 Hamburg DPA in German 1804 GMT 27 Jun 94--FOR 
+<F P="102">   AU2706191094 Hamburg DPA in German 1804 GMT 27 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2706191094 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2706191094 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -5706,23 +5707,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   Schaeuble's Youth, Road to Chancellery Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Schaeuble's Youth, Road to Chancellery Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Schaeuble's Youth, Road to Chancellery Viewed </PHRASE></F></HT>
 
-<F P=102>   94EN0392A Hamburg STERN in German 26 May 94 pp 50-58--FOR 
+<F P="102">   94EN0392A Hamburg STERN in German 26 May 94 pp 50-58--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> 94EN0392A </F>
-<F P=104>  Hamburg STERN </F>
-<F P=105>  German </F>
+<F P="103"> 94EN0392A </F>
+<F P="104">  Hamburg STERN </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Michael Backhaus and Konrad R. Mueller: </F>
+<F P="106"> [Article by Michael Backhaus and Konrad R. Mueller: </F>
 "Sisyphus Wants To Become Chancellor"] 
   [Text] He incessantly rolls uphill the stone of daily 
 government business in Bonn. But in contrast to the futile 
@@ -5930,23 +5931,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Foreign Ministry Welcomes Russia to NATO Program </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Ministry Welcomes Russia to NATO Program </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Ministry Welcomes Russia to NATO Program </PHRASE></F></HT>
 
-<F P=102>   BR2406075994 Rome ANSAMAIL Database in English 1819 GMT 23 
+<F P="102">   BR2406075994 Rome ANSAMAIL Database in English 1819 GMT 23 
 Jun 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2406075994 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2406075994 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "NATO: Italy on Russia in </F>
+<F P="106"> [Unattributed article: "NATO: Italy on Russia in </F>
 Partnership for Peace"] 
   [Text] (ANSA) Rome, June 23 -- As host to the upcoming G-7 
 summit in Naples in July, Italy welcomes Russia's entry into the 
@@ -5975,23 +5976,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Berlusconi Conditions Troops to Rwanda </TI></H3>
-<HT><F P=107><PHRASE>    Berlusconi Conditions Troops to Rwanda </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Berlusconi Conditions Troops to Rwanda </PHRASE></F></HT>
 
-<F P=102>   BR2406074594 Rome ANSAMAIL Database in English 1548 GMT 23 
+<F P="102">   BR2406074594 Rome ANSAMAIL Database in English 1548 GMT 23 
 Jun 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2406074594 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2406074594 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Rwanda/Italy: Berlusconi on </F>
+<F P="106"> [Unattributed article: "Rwanda/Italy: Berlusconi on </F>
 Conditions for Involvement"] 
   [Text] (ANSA) Rome, June 23 -- Prime Minister Silvio 
 Berlusconi on Thursday [23 June] reiterated that Italy would 
@@ -6025,23 +6026,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Ministries To Form Fact-Finding Mission </TI></H3>
-<HT><F P=107><PHRASE>    Ministries To Form Fact-Finding Mission </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ministries To Form Fact-Finding Mission </PHRASE></F></HT>
 
-<F P=102>   BR2706102794 Rome ANSAMAIL Database in English 1449 GMT 25 
+<F P="102">   BR2706102794 Rome ANSAMAIL Database in English 1449 GMT 25 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706102794 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706102794 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Rwanda: Italian Defense-Foreign </F>
+<F P="106"> [Unattributed article: "Rwanda: Italian Defense-Foreign </F>
 Ministry Joint Mission"] 
   [Text] (ANSA) Rome, June 25 -- Italy early next week will 
 send a joint delegation, from its foreign affairs and defense 
@@ -6077,23 +6078,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Berlusconi Elaborates on Budget Moves </TI></H3>
-<HT><F P=107><PHRASE>    Berlusconi Elaborates on Budget Moves </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Berlusconi Elaborates on Budget Moves </PHRASE></F></HT>
 
-<F P=102>   BR2706125794 Rome ANSAMAIL Database in English 1543 GMT 25 
+<F P="102">   BR2706125794 Rome ANSAMAIL Database in English 1543 GMT 25 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706125794 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706125794 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "European Summit: Berlusconi on </F>
+<F P="106"> [Unattributed article: "European Summit: Berlusconi on </F>
 Domestic Issues"] 
   [Text] (ANSA) Corfu, June 25 -- Long-running rumours of 
 government moves to help the Italian auto industry with sales 
@@ -6172,23 +6173,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Local Elections: Unexpected Second Round Results </TI></H3>
-<HT><F P=107><PHRASE>    Local Elections: Unexpected Second Round Results </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Local Elections: Unexpected Second Round Results </PHRASE></F></HT>
 
-<F P=102>   BR2706121494 Rome ANSAMAIL Database in English 1102 GMT 27 
+<F P="102">   BR2706121494 Rome ANSAMAIL Database in English 1102 GMT 27 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706121494 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706121494 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Elections: Nine Upsets in Second </F>
+<F P="106"> [Unattributed article: "Elections: Nine Upsets in Second </F>
 Round of Balloting"] 
   [Text] (ANSA) Rome, June 27 -- The second ballot (held 
 Sunday [26 June]) of local elections overturned the results of 
@@ -6232,23 +6233,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Government, Unions Discuss Industrial Policy </TI></H3>
-<HT><F P=107><PHRASE>    Government, Unions Discuss Industrial Policy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government, Unions Discuss Industrial Policy </PHRASE></F></HT>
 
-<F P=102>   BR2206105294 Rome ANSAMAIL Database in English 1331 GMT 21 
+<F P="102">   BR2206105294 Rome ANSAMAIL Database in English 1331 GMT 21 
 Jun 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2206105294 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2206105294 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Government and Unions Meet"] </F>
+<F P="106"> [Unattributed article: "Government and Unions Meet"] </F>
   [Text] (ANSA) Rome, June 21 -- The government will set up 
 special authorities to coordinate spending in the transport and 
 health sectors, union chiefs said after a meeting with ministers 
@@ -6303,23 +6304,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Inflation Below 4 Percent for First Time in 25 Years </TI></H3>
-<HT><F P=107><PHRASE>    Inflation Below 4 Percent for First Time in 25 Years </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Inflation Below 4 Percent for First Time in 25 Years </PHRASE></F></HT>
 
-<F P=102>   BR2206105094 Rome ANSAMAIL Database in English 1213 GMT 21 
+<F P="102">   BR2206105094 Rome ANSAMAIL Database in English 1213 GMT 21 
 Jun 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2206105094 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2206105094 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Inflation Drops Below 4 Percent"] </F>
+<F P="106"> [Unattributed article: "Inflation Drops Below 4 Percent"] </F>
   [Excerpts] (ANSA) Rome, June 21 -- Inflation rates in eight 
 major cities fell in June to an average of 3.7-3.8 percent, 
 according to provisional figures released Tuesday [21 June] by 
@@ -6367,23 +6368,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Pope Urges Aid Organizations To Break Cuba Embargo </TI></H3>
-<HT><F P=107><PHRASE>    Pope Urges Aid Organizations To Break Cuba Embargo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Pope Urges Aid Organizations To Break Cuba Embargo </PHRASE></F></HT>
 
-<F P=102>   BR2706125594 Rome ANSAMAIL Database in English 1729 GMT 25 
+<F P="102">   BR2706125594 Rome ANSAMAIL Database in English 1729 GMT 25 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706125594 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706125594 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Vatican/Cuba: Pope Urges Aid </F>
+<F P="106"> [Unattributed article: "Vatican/Cuba: Pope Urges Aid </F>
 Organization To Break Embargo"] 
   [Text] (ANSA) Vatican City, June 25 -- Pope John Paul II 
 today called on religious and international aid organisations to 
@@ -6442,23 +6443,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Iraq's Tariq 'Aziz Notes Effects of UN Embargo </TI></H3>
-<HT><F P=107><PHRASE>    Iraq's Tariq 'Aziz Notes Effects of UN Embargo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Iraq's Tariq 'Aziz Notes Effects of UN Embargo </PHRASE></F></HT>
 
-<F P=102>   BR2706154294 Rome ANSAMAIL Database in English 1427 GMT 27 
+<F P="102">   BR2706154294 Rome ANSAMAIL Database in English 1427 GMT 27 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706154294 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706154294 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Vatican/Iraq: 'Aziz Meets Sodano </F>
+<F P="106"> [Unattributed article: "Vatican/Iraq: 'Aziz Meets Sodano </F>
 on UN Embargo"] 
   [Text] (ANSA) Vatican City, June 27 -- The effects of the 
 UN embargo imposed on Iraq after its invasion of Kuwait in 1990 
@@ -6523,17 +6524,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Turkey </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Turkey </F>
 <H3> <TI>   Foreign Ministry Warns Germany on Observing PKK Ban </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Ministry Warns Germany on Observing PKK Ban </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Ministry Warns Germany on Observing PKK Ban </PHRASE></F></HT>
 
-<F P=102>   AU2706182494 Hamburg DPA in German 1556 GMT 27 Jun 94--FOR 
+<F P="102">   AU2706182494 Hamburg DPA in German 1556 GMT 27 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2706182494 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2706182494 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -6576,23 +6577,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> International Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> International Affairs </F>
 <H3> <TI>   Russia's Kozyrev on Poland's NATO Membership </TI></H3>
-<HT><F P=107><PHRASE>    Russia's Kozyrev on Poland's NATO Membership </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russia's Kozyrev on Poland's NATO Membership </PHRASE></F></HT>
 
-<F P=102>   BR2306150494 Brussels BELGA Database in French 1442 GMT 22 
+<F P="102">   BR2306150494 Brussels BELGA Database in French 1442 GMT 22 
 Jun 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2306150494 </F>
-<F P=104>  Brussels BELGA Database </F>
-<F P=105>  French </F>
+<F P="103"> BR2306150494 </F>
+<F P="104">  Brussels BELGA Database </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report signed GGD: "Russia Joins Partnership for Peace"] </F>
+<F P="106"> [Report signed GGD: "Russia Joins Partnership for Peace"] </F>
   [Excerpts] Brussels (NATO), 22 Jun (BELGA) -- After months 
 of hesitation, Russia joined the Partnership for Peace on 
 Wednesday [22 June], thus opening the way for closer cooperation 
@@ -6653,23 +6654,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> International Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> International Affairs </F>
 <H3> <TI>   Ruggiero Views World Trade Organization Priorities </TI></H3>
-<HT><F P=107><PHRASE>    Ruggiero Views World Trade Organization Priorities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ruggiero Views World Trade Organization Priorities </PHRASE></F></HT>
 
-<F P=102>   BR2706140094 Milan CORRIERA DELLA SERA in Italian 25 Jun 94 
+<F P="102">   BR2706140094 Milan CORRIERA DELLA SERA in Italian 25 Jun 94 
 p 19--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706140094 </F>
-<F P=104>  Milan CORRIERA DELLA SERA </F>
-<F P=105>  Italian </F>
+<F P="103"> BR2706140094 </F>
+<F P="104">  Milan CORRIERA DELLA SERA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Italian Ambassador Renato Ruggiero, </F>
+<F P="106"> [Interview with Italian Ambassador Renato Ruggiero, </F>
 candidate to head World Trade Organization, by Marco Cecchini; 
 place and date not given: "New Trading Rules"] 
   [Text] Milan -- Trade? "Today the problem is to manage the 
@@ -6753,23 +6754,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> International Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> International Affairs </F>
 <H3> <TI>   Heseltine Discusses Liberalized Energy Markets </TI></H3>
-<HT><F P=107><PHRASE>    Heseltine Discusses Liberalized Energy Markets </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Heseltine Discusses Liberalized Energy Markets </PHRASE></F></HT>
 
-<F P=102>   BR2206122194 London HERMES Database in English 18 Jun 94 -- 
+<F P="102">   BR2206122194 London HERMES Database in English 18 Jun 94 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2206122194 </F>
-<F P=104>  London HERMES Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2206122194 </F>
+<F P="104">  London HERMES Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Speech by Michael Heseltine, president of the Board of </F>
+<F P="106"> [Speech by Michael Heseltine, president of the Board of </F>
 Trade, before the annual congress of the International Union of 
 Producers and Distributors of Electricity in Birmingham: 
 "Liberalized Energy Market Vital for Europe"] 
@@ -6836,17 +6837,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Schengen Accord Identity Checks To Start in October </TI></H3>
-<HT><F P=107><PHRASE>    Schengen Accord Identity Checks To Start in October </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Schengen Accord Identity Checks To Start in October </PHRASE></F></HT>
 
-<F P=102>   AU2706131094 Hamburg DPA in German 1039 GMT 27 Jun 94--FOR 
+<F P="102">   AU2706131094 Hamburg DPA in German 1039 GMT 27 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2706131094 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2706131094 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -6897,23 +6898,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Dutch Official Claims France Obstructing Schengen </TI></H3>
-<HT><F P=107><PHRASE>    Dutch Official Claims France Obstructing Schengen </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Dutch Official Claims France Obstructing Schengen </PHRASE></F></HT>
 
-<F P=102>   BR2706150394 Amsterdam ELSEVIER in Dutch 25 Jun 94 p 20--FOR 
+<F P="102">   BR2706150394 Amsterdam ELSEVIER in Dutch 25 Jun 94 p 20--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706150394 </F>
-<F P=104>  Amsterdam ELSEVIER </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2706150394 </F>
+<F P="104">  Amsterdam ELSEVIER </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Piet Dankert, Netherlands state secretary </F>
+<F P="106"> [Interview with Piet Dankert, Netherlands state secretary </F>
 for foreign affairs, by unidentified correspondent; place and 
 date not given: "Flimsy Computer Excuse for French Political 
 Obstinacy"] 
@@ -7019,23 +7020,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Italy's Berlusconi: Other EU Candidates Needed </TI></H3>
-<HT><F P=107><PHRASE>    Italy's Berlusconi: Other EU Candidates Needed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Italy's Berlusconi: Other EU Candidates Needed </PHRASE></F></HT>
 
-<F P=102>   BR2706103194 Rome ANSAMAIL Database in English 1227 GMT 25 
+<F P="102">   BR2706103194 Rome ANSAMAIL Database in English 1227 GMT 25 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706103194 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706103194 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "European Union: Commission, No </F>
+<F P="106"> [Unattributed article: "European Union: Commission, No </F>
 Replacement for Delors as Summit Ends"] 
   [Excerpts] (ANSA) Corfu, June 25 -- The European Summit 
 concluded today without reaching agreement on a successor to 
@@ -7084,23 +7085,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Berlusconi `Optimistic' Over Italy's Future EU Role </TI></H3>
-<HT><F P=107><PHRASE>    Berlusconi `Optimistic' Over Italy's Future EU Role </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Berlusconi `Optimistic' Over Italy's Future EU Role </PHRASE></F></HT>
 
-<F P=102>   BR2706110494 Rome ANSAMAIL Database in English 1834 GMT 25 
+<F P="102">   BR2706110494 Rome ANSAMAIL Database in English 1834 GMT 25 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706110494 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706110494 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "European Summit: Berlusconi Sees </F>
+<F P="106"> [Unattributed article: "European Summit: Berlusconi Sees </F>
 Fruitful Future"] 
   [Text] (ANSA) Corfu, June 25 -- Italian Prime Minister 
 Silvio Berlusconi said here today that, after his first taste of 
@@ -7154,23 +7155,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Chemical Weapons Group To Meet 27 Jun-1 Jul </TI></H3>
-<HT><F P=107><PHRASE>    Chemical Weapons Group To Meet 27 Jun-1 Jul </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chemical Weapons Group To Meet 27 Jun-1 Jul </PHRASE></F></HT>
 
-<F P=102>   BR2706143094 London REUTER Textline Database in English 27 
+<F P="102">   BR2706143094 London REUTER Textline Database in English 27 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706143094 </F>
-<F P=104>  London REUTER Textline Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706143094 </F>
+<F P="104">  London REUTER Textline Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article from Brussels EUROPE: "Commission for </F>
+<F P="106"> [Unattributed article from Brussels EUROPE: "Commission for </F>
 Prohibition of Chemical Weapons To Convene in The Hague"] 
   [Text] The Preparatory Commission for the Organisation for 
 the Prohibition of Chemical Weapons (OPCW) will hold its seventh 
@@ -7225,23 +7226,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Thomson Group, Norway's NFT To Cooperate on Arms </TI></H3>
-<HT><F P=107><PHRASE>    Thomson Group, Norway's NFT To Cooperate on Arms </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Thomson Group, Norway's NFT To Cooperate on Arms </PHRASE></F></HT>
 
-<F P=102>   BR2706143394 London REUTER Textline Database in English 27 
+<F P="102">   BR2706143394 London REUTER Textline Database in English 27 
 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706143394 </F>
-<F P=104>  London REUTER Textline Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706143394 </F>
+<F P="104">  London REUTER Textline Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article from Brussels EUROPE: "Thomson Brandt </F>
+<F P="106"> [Unattributed article from Brussels EUROPE: "Thomson Brandt </F>
 Armaments Signs Cooperation Agreement With NFT"] 
   [Text] In order to reduce production costs and delivery 
 time concerning its weapons equipment, Thomson Brandt Armaments 
@@ -7265,23 +7266,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Belgium </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Belgium </F>
 <H3> <TI>   Defense Ministry Rules Out Military Aid in Zaire </TI></H3>
-<HT><F P=107><PHRASE>    Defense Ministry Rules Out Military Aid in Zaire </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Defense Ministry Rules Out Military Aid in Zaire </PHRASE></F></HT>
 
-<F P=102>   BR2706154094 Brussels BELGA Database in French 1404 GMT 27 
+<F P="102">   BR2706154094 Brussels BELGA Database in French 1404 GMT 27 
 June 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706154094 </F>
-<F P=104>  Brussels BELGA Database </F>
-<F P=105>  French </F>
+<F P="103"> BR2706154094 </F>
+<F P="104">  Brussels BELGA Database </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article signed JWI: "No Belgian Military Personnel in </F>
+<F P="106"> [Article signed JWI: "No Belgian Military Personnel in </F>
 Zaire Assures Brussels"] 
   [Text] Brussels, 27 Jun (BELGA) -- No Belgian military 
 personnel will be sent to Zaire as part of the logistical aid 
@@ -7315,23 +7316,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Attempt To Form `Purple' Coalition Fails </TI></H3>
-<HT><F P=107><PHRASE>    Attempt To Form `Purple' Coalition Fails </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Attempt To Form `Purple' Coalition Fails </PHRASE></F></HT>
 
-<F P=102>   BR2706152494 The Hague ANP NIEUWSBERICHTEN Database in Dutch 
+<F P="102">   BR2706152494 The Hague ANP NIEUWSBERICHTEN Database in Dutch 
 1203 GMT 27 Jun 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706152494 </F>
-<F P=104>  The Hague ANP NIEUWSBERICHTEN Database </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2706152494 </F>
+<F P="104">  The Hague ANP NIEUWSBERICHTEN Database </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article signed KVB: "Purple Coalition Attempt Fails"] </F>
+<F P="106"> [Article signed KVB: "Purple Coalition Attempt Fails"] </F>
   [Text] The Hague, 27 Jun (ANP) -- Monday's [27 June] 
 attempt by Van Aardenne, Vis, and De Vries (the politicians 
 appointed by the Crown to assess the feasibility of the "purple" 
@@ -7363,23 +7364,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> United Kingdom </F>
+<F P="100"> ANNEX </F>
+<F P="101"> United Kingdom </F>
 <H3> <TI>   Mayhew Allays Unionist Fears on Ulster Future </TI></H3>
-<HT><F P=107><PHRASE>    Mayhew Allays Unionist Fears on Ulster Future </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Mayhew Allays Unionist Fears on Ulster Future </PHRASE></F></HT>
 
-<F P=102>   PM2706121094 London THE GUARDIAN in English 27 Jun 94 p 
+<F P="102">   PM2706121094 London THE GUARDIAN in English 27 Jun 94 p 
 2--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2706121094 </F>
-<F P=104>  London THE GUARDIAN </F>
-<F P=105>  English </F>
+<F P="103"> PM2706121094 </F>
+<F P="104">  London THE GUARDIAN </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by John Mullin: "Mayhew Seeks To Calm Power-Sharing </F>
+<F P="106"> [Report by John Mullin: "Mayhew Seeks To Calm Power-Sharing </F>
 Fears"] 
   [Text] Sir Patrick Mayhew, the Northern Ireland Secretary, 
 yesterday moved to allay Unionist fears over Ulster's future 
@@ -7470,16 +7471,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   UK Dissociates Dehaene Candidacy From Greek Presidency </TI></H3>
-<HT><F P=107><PHRASE>    UK Dissociates Dehaene Candidacy From Greek Presidency </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UK Dissociates Dehaene Candidacy From Greek Presidency </PHRASE></F></HT>
 
-<F P=102>   NC2806122994 Athens Elliniki Radhiofonia Radio Network in 
+<F P="102">   NC2806122994 Athens Elliniki Radhiofonia Radio Network in 
 Greek 1130 GMT 28 Jun 94 </F>
 
-<F P=103> NC2806122994 </F>
-<F P=104>  Athens Elliniki Radhiofonia Radio Network </F>
-<F P=105>  Greek </F>
+<F P="103"> NC2806122994 </F>
+<F P="104">  Athens Elliniki Radhiofonia Radio Network </F>
+<F P="105">  Greek </F>
 
 
 <TEXT>
@@ -7523,22 +7524,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Van Miert Cites Unemployment as Cause for EU `Crisis' </TI></H3>
-<HT><F P=107><PHRASE>    Van Miert Cites Unemployment as Cause for EU `Crisis' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Van Miert Cites Unemployment as Cause for EU `Crisis' </PHRASE></F></HT>
 
-<F P=102>   AU2806110994 Vienna ORF Television Network in German 1930 
+<F P="102">   AU2806110994 Vienna ORF Television Network in German 1930 
 GMT 27 Jun 94 </F>
 
-<F P=103> AU2806110994 </F>
-<F P=104>  Vienna ORF Television Network </F>
-<F P=105>  German </F>
+<F P="103"> AU2806110994 </F>
+<F P="104">  Vienna ORF Television Network </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with EU Commissioner Karel van Miert by Robert </F>
+<F P="106"> [Interview with EU Commissioner Karel van Miert by Robert </F>
 Hochner in Vienna on 27 June -- recorded] 
   [Text] [Hochner] What is behind the current controversy 
 within the European Union [EU] over the successor to Commission 
@@ -7621,20 +7622,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Daily Notes Berlusconi's U-Turn at Corfu Summit </TI></H3>
-<HT><F P=107><PHRASE>    Daily Notes Berlusconi's U-Turn at Corfu Summit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daily Notes Berlusconi's U-Turn at Corfu Summit </PHRASE></F></HT>
 
-<F P=102>   BR2806135994 Rome LA REPUBBLICA in Italian 26 Jun 94 pp 1, 4 </F>
-<F P=103> BR2806135994 </F>
-<F P=104>  Rome LA REPUBBLICA </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2806135994 Rome LA REPUBBLICA in Italian 26 Jun 94 pp 1, 4 </F>
+<F P="103"> BR2806135994 </F>
+<F P="104">  Rome LA REPUBBLICA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Bernardo Valli: "The Italian Waltz"] </F>
+<F P="106"> [Commentary by Bernardo Valli: "The Italian Waltz"] </F>
   [Excerpt] [passage omitted] Prime Minister Silvio 
 Berlusconi and Foreign Minister Antonio Martino were both making 
 their debut on the Greek island [Corfu]. This was the first 
@@ -7717,20 +7718,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Nordic Cooperation After EU Elections Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Nordic Cooperation After EU Elections Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Nordic Cooperation After EU Elections Viewed </PHRASE></F></HT>
 
-<F P=102>   94EN0397C Helsinki HUFVUDSTADSBLADET in Swedish 4 Jun 94 p 2 </F>
-<F P=103> 94EN0397C </F>
-<F P=104>  Helsinki HUFVUDSTADSBLADET </F>
-<F P=105>  Swedish </F>
+<F P="102">   94EN0397C Helsinki HUFVUDSTADSBLADET in Swedish 4 Jun 94 p 2 </F>
+<F P="103"> 94EN0397C </F>
+<F P="104">  Helsinki HUFVUDSTADSBLADET </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Commentary by Larserik Haggman, editor in chief of Nordic </F>
+<F P="106"> [Commentary by Larserik Haggman, editor in chief of Nordic </F>
 Council magazine NORDISK KONTAKT: "The Nordic Region and the EU"] 
   [Text] Following the 1980's, in which there was a lack of 
 intellectual interest in Nordic affairs and often justified 
@@ -7835,20 +7836,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Sweden's Bildt: `Great Future' for Baltic Sea Area </TI></H3>
-<HT><F P=107><PHRASE>    Sweden's Bildt: `Great Future' for Baltic Sea Area </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sweden's Bildt: `Great Future' for Baltic Sea Area </PHRASE></F></HT>
 
-<F P=102>   AU2806154094 Duesseldorf HANDELSBLATT in German 28 Jun 94 p 7 </F>
-<F P=103> AU2806154094 </F>
-<F P=104>  Duesseldorf HANDELSBLATT </F>
-<F P=105>  German </F>
+<F P="102">   AU2806154094 Duesseldorf HANDELSBLATT in German 28 Jun 94 p 7 </F>
+<F P="103"> AU2806154094 </F>
+<F P="104">  Duesseldorf HANDELSBLATT </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["vwd/DPA"-attributed report: "Carl Bildt Speaks of </F>
+<F P="106"> ["vwd/DPA"-attributed report: "Carl Bildt Speaks of </F>
 European Inland Sea"] 
   [Text] Bonn, 27 June 1994 -- In Bonn on Monday [27 June], 
 Sweden's Prime Minister Carl Bildt, Schleswig-Holstein Minister 
@@ -7921,14 +7922,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Turkish DEP Members Meet With Council of Europe </TI></H3>
-<HT><F P=107><PHRASE>    Turkish DEP Members Meet With Council of Europe </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Turkish DEP Members Meet With Council of Europe </PHRASE></F></HT>
 
-<F P=102>   TA2806183194 Ankara ANATOLIA in English 1545 GMT 28 Jun 94 </F>
-<F P=103> TA2806183194 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2806183194 Ankara ANATOLIA in English 1545 GMT 28 Jun 94 </F>
+<F P="103"> TA2806183194 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7968,23 +7969,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BENELUX </F>
-<F P=101> Belgium </F>
+<F P="100"> BENELUX </F>
+<F P="101"> Belgium </F>
 <H3> <TI>   `Ambiguous' U.S. Position on Nuclear Issue Viewed </TI></H3>
-<HT><F P=107><PHRASE>    `Ambiguous' U.S. Position on Nuclear Issue Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Ambiguous' U.S. Position on Nuclear Issue Viewed </PHRASE></F></HT>
 
-<F P=102>   BR2406144494 Groot-Bijgaarden DE STANDAARD in Dutch 24 Jun 
+<F P="102">   BR2406144494 Groot-Bijgaarden DE STANDAARD in Dutch 24 Jun 
 94 p 5 </F>
 
-<F P=103> BR2406144494 </F>
-<F P=104>  Groot-Bijgaarden DE STANDAARD </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2406144494 </F>
+<F P="104">  Groot-Bijgaarden DE STANDAARD </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Evita Neefs: "Increased Hope of Solution to </F>
+<F P="106"> [Article by Evita Neefs: "Increased Hope of Solution to </F>
 Korean Crisis"] 
   [Text] There was great relief when U.S. President Bill 
 Clinton announced a "very positive development" in the Korean 
@@ -8075,23 +8076,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BENELUX </F>
-<F P=101> Belgium </F>
+<F P="100"> BENELUX </F>
+<F P="101"> Belgium </F>
 <H3> <TI>   Commentary Denounces British Obstructionism Within EU </TI></H3>
-<HT><F P=107><PHRASE>    Commentary Denounces British Obstructionism Within EU </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commentary Denounces British Obstructionism Within EU </PHRASE></F></HT>
 
-<F P=102>   BR2806142794 Groot-Bijgaarden DE STANDAARD in Dutch 28 Jun 
+<F P="102">   BR2806142794 Groot-Bijgaarden DE STANDAARD in Dutch 28 Jun 
 94 p 8 </F>
 
-<F P=103> BR2806142794 </F>
-<F P=104>  Groot-Bijgaarden DE STANDAARD </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2806142794 </F>
+<F P="104">  Groot-Bijgaarden DE STANDAARD </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Dirk Achten: "Not Just Wait"] </F>
+<F P="106"> [Commentary by Dirk Achten: "Not Just Wait"] </F>
   [Text] Jean-Luc Dehaene, a soccer fan and Belgian prime 
 minister, will probably not become the president of the European 
 Commission unless British Prime Minister John Major is ready to 
@@ -8169,23 +8170,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BENELUX </F>
-<F P=101> Belgium </F>
+<F P="100"> BENELUX </F>
+<F P="101"> Belgium </F>
 <H3> <TI>   France Seeks To Confirm `Power Politics' in Rwanda </TI></H3>
-<HT><F P=107><PHRASE>    France Seeks To Confirm `Power Politics' in Rwanda </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    France Seeks To Confirm `Power Politics' in Rwanda </PHRASE></F></HT>
 
-<F P=102>   BR2306142394 Groot Bijgaarden DE STANDAARD in Dutch 23 Jun 
+<F P="102">   BR2306142394 Groot Bijgaarden DE STANDAARD in Dutch 23 Jun 
 94 p 8 </F>
 
-<F P=103> BR2306142394 </F>
-<F P=104>  Groot Bijgaarden DE STANDAARD </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2306142394 </F>
+<F P="104">  Groot Bijgaarden DE STANDAARD </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Axel Buyse: "Operation Turquoise"] </F>
+<F P="106"> [Article by Axel Buyse: "Operation Turquoise"] </F>
   [Text] Operation Turquoise, which the French are setting up 
 for intervention in Rwanda, continues to raise questions. The 
 Balladur government states that Paris is acting for purely 
@@ -8271,23 +8272,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BENELUX </F>
-<F P=101> Luxembourg </F>
+<F P="100"> BENELUX </F>
+<F P="101"> Luxembourg </F>
 <H3> <TI>   Commentary Blames Major for EU SUmmit Failure </TI></H3>
-<HT><F P=107><PHRASE>    Commentary Blames Major for EU SUmmit Failure </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commentary Blames Major for EU SUmmit Failure </PHRASE></F></HT>
 
-<F P=102>   BR2806150594 Luxembourg LUXEMBURGER WORT in German 27 Jun 94 
+<F P="102">   BR2806150594 Luxembourg LUXEMBURGER WORT in German 27 Jun 94 
 p 3 </F>
 
-<F P=103> BR2806150594 </F>
-<F P=104>  Luxembourg LUXEMBURGER WORT </F>
-<F P=105>  German </F>
+<F P="103"> BR2806150594 </F>
+<F P="104">  Luxembourg LUXEMBURGER WORT </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary signed GeWe: "A Question of Direction"] </F>
+<F P="106"> [Commentary signed GeWe: "A Question of Direction"] </F>
   [Text] In spite of a few milestones such as the signatures 
 beneath the partnership agreement with Russia, and the accession 
 treaties with Austria, Norway, Finland, and Sweden, there is a 
@@ -8380,23 +8381,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BENELUX </F>
-<F P=101> Netherlands </F>
+<F P="100"> BENELUX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Officials React to `Purple' Coalition Failure </TI></H3>
-<HT><F P=107><PHRASE>    Officials React to `Purple' Coalition Failure </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials React to `Purple' Coalition Failure </PHRASE></F></HT>
 
-<F P=102>   BR2806124594 Amsterdam DE VOLKSKRANT in Dutch 28 Jun 94 pp 
+<F P="102">   BR2806124594 Amsterdam DE VOLKSKRANT in Dutch 28 Jun 94 pp 
 1, 3 </F>
 
-<F P=103> BR2806124594 </F>
-<F P=104>  Amsterdam DE VOLKSKRANT </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2806124594 </F>
+<F P="104">  Amsterdam DE VOLKSKRANT </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Van Mierlo Sticks to `Purple' After </F>
+<F P="106"> [Unattributed article: "Van Mierlo Sticks to `Purple' After </F>
 Failed Round of Talks"] 
   [Excerpt] D66 [Democrats 66] leader Van Mierlo still wants 
 to form a "purple" coalition [comprising the PvdA (Labor Party), 
@@ -8514,20 +8515,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Contact Group Meets To Finalize Bosnia Partition Maps </TI></H3>
-<HT><F P=107><PHRASE>    Contact Group Meets To Finalize Bosnia Partition Maps </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Contact Group Meets To Finalize Bosnia Partition Maps </PHRASE></F></HT>
 
-<F P=102>   AU2806150094 Paris AFP in English 1120 GMT 28 Jun 94 </F>
-<F P=103> AU2806150094 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2806150094 Paris AFP in English 1120 GMT 28 Jun 94 </F>
+<F P="103"> AU2806150094 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Michel Leclercq] </F>
+<F P="106"> [By Michel Leclercq] </F>
   [Excerpt] Paris, June 28 (AFP) -- Senior officials from the 
 European Union, Russia, the United States and the United Nations 
 met here Tuesday [28 June] to finalise plans for the future 
@@ -8582,14 +8583,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Ukraine Signs Draft IAEA Accord, Agrees to Inspections </TI></H3>
-<HT><F P=107><PHRASE>    Ukraine Signs Draft IAEA Accord, Agrees to Inspections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ukraine Signs Draft IAEA Accord, Agrees to Inspections </PHRASE></F></HT>
 
-<F P=102>   AU2906110794 Paris AFP in English 0957 GMT 29 Jun 94 </F>
-<F P=103> AU2906110794 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2906110794 Paris AFP in English 0957 GMT 29 Jun 94 </F>
+<F P="103"> AU2906110794 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8636,14 +8637,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> AUSTRIA </F>
+<F P="100"> AUSTRIA </F>
 <H3> <TI>   Busek To Boycott Visit by Li Peng </TI></H3>
-<HT><F P=107><PHRASE>    Busek To Boycott Visit by Li Peng </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Busek To Boycott Visit by Li Peng </PHRASE></F></HT>
 
-<F P=102>   AU2806101694 Paris AFP in English 0955 GMT 28 Jun 94 </F>
-<F P=103> AU2806101694 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2806101694 Paris AFP in English 0955 GMT 28 Jun 94 </F>
+<F P="103"> AU2806101694 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8688,22 +8689,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> AUSTRIA </F>
+<F P="100"> AUSTRIA </F>
 <H3> <TI>   Vranitzky: Isolation No Solution </TI></H3>
-<HT><F P=107><PHRASE>    Vranitzky: Isolation No Solution </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Vranitzky: Isolation No Solution </PHRASE></F></HT>
 
-<F P=102>   AU2806123294 Vienna Oesterreich Eins Radio Network in German 
+<F P="102">   AU2806123294 Vienna Oesterreich Eins Radio Network in German 
 1000 GMT 28 Jun 94 </F>
 
-<F P=103> AU2806123294 </F>
-<F P=104>  Vienna Oesterreich Eins Radio Network </F>
-<F P=105>  German </F>
+<F P="103"> AU2806123294 </F>
+<F P="104">  Vienna Oesterreich Eins Radio Network </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Gisela Hopfmueller] </F>
+<F P="106"> [Report by Gisela Hopfmueller] </F>
   [Excerpt] Following today's cabinet meeting, Chancellor 
 Franz Vranitzky was asked his opinion about Vice Chancellor 
 Busek's decision to boycott the upcoming visit by Chinese 
@@ -8737,20 +8738,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> AUSTRIA </F>
+<F P="100"> AUSTRIA </F>
 <H3> <TI>   OeVP, Greens Protest Visit </TI></H3>
-<HT><F P=107><PHRASE>    OeVP, Greens Protest Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    OeVP, Greens Protest Visit </PHRASE></F></HT>
 
-<F P=102>   AU2806132894 Vienna DIE PRESSE in German 28 Jun 94 p 5 </F>
-<F P=103> AU2806132894 </F>
-<F P=104>  Vienna DIE PRESSE </F>
-<F P=105>  German </F>
+<F P="102">   AU2806132894 Vienna DIE PRESSE in German 28 Jun 94 p 5 </F>
+<F P="103"> AU2806132894 </F>
+<F P="104">  Vienna DIE PRESSE </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report signed "a.s.": "China's Premier Li Peng To Visit </F>
+<F P="106"> [Report signed "a.s.": "China's Premier Li Peng To Visit </F>
 Vienna -- Protests, While Industry Is Hoping"] 
   [Excerpts] Vienna -- The visit by Chinese Premier Li Peng, 
 starting on Wednesday [29 June], is meeting with increasing 
@@ -8801,22 +8802,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> AUSTRIA </F>
+<F P="100"> AUSTRIA </F>
 <H3> <TI>   Human Rights Groups Protest </TI></H3>
-<HT><F P=107><PHRASE>    Human Rights Groups Protest </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Human Rights Groups Protest </PHRASE></F></HT>
 
-<F P=102>   AU2606185794 Salzburg SALZBURGER NACHRICHTEN in German 25 
+<F P="102">   AU2606185794 Salzburg SALZBURGER NACHRICHTEN in German 25 
 Jun 94 p 2 </F>
 
-<F P=103> AU2606185794 </F>
-<F P=104>  Salzburg SALZBURGER NACHRICHTEN </F>
-<F P=105>  German </F>
+<F P="103"> AU2606185794 </F>
+<F P="104">  Salzburg SALZBURGER NACHRICHTEN </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report signed "SN, APA": "Protest Against Li Peng Visit"] </F>
+<F P="106"> [Report signed "SN, APA": "Protest Against Li Peng Visit"] </F>
   [Text] Vienna -- A number of human rights organizations 
 protested on Friday [24 June] against the upcoming visit to 
 Austria by Chinese Government head Li Peng. In an appeal that 
@@ -8844,22 +8845,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> UNITED KINGDOM </F>
+<F P="100"> UNITED KINGDOM </F>
 <H3> <TI>   Tory Right Calls For Change in EC Direction </TI></H3>
-<HT><F P=107><PHRASE>    Tory Right Calls For Change in EC Direction </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tory Right Calls For Change in EC Direction </PHRASE></F></HT>
 
-<F P=102>   PM2806130494 London THE DAILY TELEGRAPH in English 28 Jun 94 
+<F P="102">   PM2806130494 London THE DAILY TELEGRAPH in English 28 Jun 94 
 p 1 </F>
 
-<F P=103> PM2806130494 </F>
-<F P=104>  London THE DAILY TELEGRAPH </F>
-<F P=105>  English </F>
+<F P="103"> PM2806130494 </F>
+<F P="104">  London THE DAILY TELEGRAPH </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by George Jones and Philip Johnston: "Portillo </F>
+<F P="106"> [Article by George Jones and Philip Johnston: "Portillo </F>
 Puts on Pressure for Changes in Europe"] 
   [Text] Tory Right-wingers, led by Mr Michael Portillo, 
 served notice last night that the decision to veto Mr Jean-Luc 
@@ -8948,20 +8949,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> UNITED KINGDOM </F>
+<F P="100"> UNITED KINGDOM </F>
 <H3> <TI>   Conservative MP Views Veto </TI></H3>
-<HT><F P=107><PHRASE>    Conservative MP Views Veto </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Conservative MP Views Veto </PHRASE></F></HT>
 
-<F P=102>   BR2806135094 Brussels LE SOIR in French 28 Jun 94 p 2 </F>
-<F P=103> BR2806135094 </F>
-<F P=104>  Brussels LE SOIR </F>
-<F P=105>  French </F>
+<F P="102">   BR2806135094 Brussels LE SOIR in French 28 Jun 94 p 2 </F>
+<F P="103"> BR2806135094 </F>
+<F P="104">  Brussels LE SOIR </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Sir Teddy Taylor, British Conservative </F>
+<F P="106"> [Interview with Sir Teddy Taylor, British Conservative </F>
 member of Parliament, by Marc Rozen in London; date not given: 
 "On the British Veto Against Jean-Luc Dehaene"] 
   [Text] [Rozen] What is your reaction to John Major's veto? 
@@ -9034,14 +9035,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> UNITED KINGDOM </F>
+<F P="100"> UNITED KINGDOM </F>
 <H3> <TI>   Official, Iranian Charge Condemn Mashhad Bomb Attack </TI></H3>
-<HT><F P=107><PHRASE>    Official, Iranian Charge Condemn Mashhad Bomb Attack </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Official, Iranian Charge Condemn Mashhad Bomb Attack </PHRASE></F></HT>
 
-<F P=102>   LD2906115094 Tehran IRNA in English 1108 GMT 29 Jun 94 </F>
-<F P=103> LD2906115094 </F>
-<F P=104>  Tehran IRNA </F>
-<F P=105>  English </F>
+<F P="102">   LD2906115094 Tehran IRNA in English 1108 GMT 29 Jun 94 </F>
+<F P="103"> LD2906115094 </F>
+<F P="104">  Tehran IRNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -9113,23 +9114,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   Officials Address Bundestag 29 Jun on EU Issues </TI></H3>
-<HT><F P=107><PHRASE>    Officials Address Bundestag 29 Jun on EU Issues </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials Address Bundestag 29 Jun on EU Issues </PHRASE></F></HT>
 <H4>    SPD's Klose Criticizes Summit </H4>
 
-<F P=102> AU2906085594 Mainz ZDF Television Network in German 0726 GMT 
+<F P="102"> AU2906085594 Mainz ZDF Television Network in German 0726 GMT 
 29 Jun 94 </F>
 
-<F P=103> AU2906085594 </F>
-<F P=104>  Mainz ZDF Television Network </F>
-<F P=105>  German </F>
+<F P="103"> AU2906085594 </F>
+<F P="104">  Mainz ZDF Television Network </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Statement by Hans-Ulrich Klose, Social Democratic Party of </F>
+<F P="106"> [Statement by Hans-Ulrich Klose, Social Democratic Party of </F>
 Germany Bundestag group chairman, at the Bundestag session in 
 Bonn -- live] 
   [Text] Madam President, Ladies and Gentlemen: 
@@ -9402,23 +9403,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   Officials Address Bundestag 29 Jun on EU Issues </TI></H3>
-<HT><F P=107><PHRASE>    Officials Address Bundestag 29 Jun on EU Issues </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials Address Bundestag 29 Jun on EU Issues </PHRASE></F></HT>
 <H4>    Waigel Addresses European Unemployment </H4>
 
-<F P=102> AU2906095594 Mainz ZDF Television Network in German 0825 GMT 
+<F P="102"> AU2906095594 Mainz ZDF Television Network in German 0825 GMT 
 29 Jun 94 </F>
 
-<F P=103> AU2906095594 </F>
-<F P=104>  Mainz ZDF Television Network </F>
-<F P=105>  German </F>
+<F P="103"> AU2906095594 </F>
+<F P="104">  Mainz ZDF Television Network </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Statement by Finance Minister Theo Waigel to the Bundestag </F>
+<F P="106"> [Statement by Finance Minister Theo Waigel to the Bundestag </F>
 in Bonn -- live] 
   [Text] Madam President, Ladies and Gentlemen: 
   Colleague Klose, you were right in pointing out the 
@@ -9619,22 +9620,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   Saxony-Anhalt SPD To Begin Talks With Greens </TI></H3>
-<HT><F P=107><PHRASE>    Saxony-Anhalt SPD To Begin Talks With Greens </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Saxony-Anhalt SPD To Begin Talks With Greens </PHRASE></F></HT>
 
-<F P=102>   AU2906124594 Munich SUEDDEUTSCHE ZEITUNG in German 29 Jun 94 
+<F P="102">   AU2906124594 Munich SUEDDEUTSCHE ZEITUNG in German 29 Jun 94 
 p 2 </F>
 
-<F P=103> AU2906124594 </F>
-<F P=104>  Munich SUEDDEUTSCHE ZEITUNG </F>
-<F P=105>  German </F>
+<F P="103"> AU2906124594 </F>
+<F P="104">  Munich SUEDDEUTSCHE ZEITUNG </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by "hjh": "The SPD Wants To Form a Red-Green </F>
+<F P="106"> [Article by "hjh": "The SPD Wants To Form a Red-Green </F>
 Government in Magdeburg"] 
   [Text] Magdeburg -- The Social Democratic Party of Germany 
 [SPD] in Saxony-Anhalt wants to begin talks with the Alliance 
@@ -9715,20 +9716,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   Weizsaecker Discusses Term of Office </TI></H3>
-<HT><F P=107><PHRASE>    Weizsaecker Discusses Term of Office </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Weizsaecker Discusses Term of Office </PHRASE></F></HT>
 
-<F P=102>   AU2806185694 Hamburg DER SPIEGEL in German 27 Jun 94 pp 23-29 </F>
-<F P=103> AU2806185694 </F>
-<F P=104>  Hamburg DER SPIEGEL </F>
-<F P=105>  German </F>
+<F P="102">   AU2806185694 Hamburg DER SPIEGEL in German 27 Jun 94 pp 23-29 </F>
+<F P="103"> AU2806185694 </F>
+<F P="104">  Hamburg DER SPIEGEL </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with President Richard von Weizsaecker by Gerhard </F>
+<F P="106"> [Interview with President Richard von Weizsaecker by Gerhard </F>
 Spoerl and Dirk Koch in Berlin; date not given: "Often We Were 
 Not Ready To Risk Anything"] 
   [Text] [DER SPIEGEL] Mr. President, are you an unorthodox 
@@ -9949,22 +9950,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   U.S. Interest Rate Hike Awaited From Dollar Fall </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Interest Rate Hike Awaited From Dollar Fall </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Interest Rate Hike Awaited From Dollar Fall </PHRASE></F></HT>
 
-<F P=102>   AU2806134894 Duesseldorf HANDELSBLATT in German 28 Jun 94 p 
+<F P="102">   AU2806134894 Duesseldorf HANDELSBLATT in German 28 Jun 94 p 
 30 </F>
 
-<F P=103> AU2806134894 </F>
-<F P=104>  Duesseldorf HANDELSBLATT </F>
-<F P=105>  German </F>
+<F P="103"> AU2806134894 </F>
+<F P="104">  Duesseldorf HANDELSBLATT </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Dietrich Zwaetz: "Speculation About Interest </F>
+<F P="106"> [Commentary by Dietrich Zwaetz: "Speculation About Interest </F>
 Rates"] 
   [Text] Sheer terror enters the pen of even sober 
 commentators when they write about the latest weakness of the 
@@ -10029,16 +10030,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Paris, Washington Support Reform </TI></H3>
-<HT><F P=107><PHRASE>    Paris, Washington Support Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Paris, Washington Support Reform </PHRASE></F></HT>
 
-<F P=102>   LD2406145994 Algiers Radio Algiers Network in Arabic 1130 
+<F P="102">   LD2406145994 Algiers Radio Algiers Network in Arabic 1130 
 GMT 24 Jun 94 </F>
 
-<F P=103> LD2406145994 </F>
-<F P=104>  Algiers Radio Algiers Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> LD2406145994 </F>
+<F P="104">  Algiers Radio Algiers Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -10107,20 +10108,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Stresses Need for Stability </TI></H3>
-<HT><F P=107><PHRASE>    Stresses Need for Stability </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Stresses Need for Stability </PHRASE></F></HT>
 
-<F P=102>   BR2406133994 Paris LIBERATION in French 24 Jun 94 p 43 </F>
-<F P=103> BR2406133994 </F>
-<F P=104>  Paris LIBERATION </F>
-<F P=105>  French </F>
+<F P="102">   BR2406133994 Paris LIBERATION in French 24 Jun 94 p 43 </F>
+<F P="103"> BR2406133994 </F>
+<F P="104">  Paris LIBERATION </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report signed "J.G.": "Algerian Prime Minister Pleads His </F>
+<F P="106"> [Report signed "J.G.": "Algerian Prime Minister Pleads His </F>
 Cause in Paris"] 
   [Text] Passing through Paris after a visit to Brussels, 
 Algerian Prime Minister Mokdad Sifi had visibly two major 
@@ -10184,16 +10185,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   On Fight Against Terrorism </TI></H3>
-<HT><F P=107><PHRASE>    On Fight Against Terrorism </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    On Fight Against Terrorism </PHRASE></F></HT>
 
-<F P=102>   LD2206203694 Paris Radio France International in French 1830 
+<F P="102">   LD2206203694 Paris Radio France International in French 1830 
 GMT 22 Jun 94 </F>
 
-<F P=103> LD2206203694 </F>
-<F P=104>  Paris Radio France International </F>
-<F P=105>  French </F>
+<F P="103"> LD2206203694 </F>
+<F P="104">  Paris Radio France International </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -10235,14 +10236,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Juppe Advises Early Elections </TI></H3>
-<HT><F P=107><PHRASE>    Juppe Advises Early Elections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Juppe Advises Early Elections </PHRASE></F></HT>
 
-<F P=102>   AU2306190794 Paris AFP in English 1847 GMT 23 Jun 94 </F>
-<F P=103> AU2306190794 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2306190794 Paris AFP in English 1847 GMT 23 Jun 94 </F>
+<F P="103"> AU2306190794 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10281,16 +10282,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Juppe Meets Yemeni Foreign Minister 28 Jun </TI></H3>
-<HT><F P=107><PHRASE>    Juppe Meets Yemeni Foreign Minister 28 Jun </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Juppe Meets Yemeni Foreign Minister 28 Jun </PHRASE></F></HT>
 
-<F P=102>   JN2806185994 Sanaa Yemeni Republic Radio Network in Arabic 
+<F P="102">   JN2806185994 Sanaa Yemeni Republic Radio Network in Arabic 
 1700 GMT 28 Jun 94 </F>
 
-<F P=103> JN2806185994 </F>
-<F P=104>  Sanaa Yemeni Republic Radio Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> JN2806185994 </F>
+<F P="104">  Sanaa Yemeni Republic Radio Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -10322,22 +10323,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Giscard Comments on Rwanda Operation </TI></H3>
-<HT><F P=107><PHRASE>    Giscard Comments on Rwanda Operation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Giscard Comments on Rwanda Operation </PHRASE></F></HT>
 
-<F P=102>   LD2406162094 Paris Europe No. 1 Radio in French 0540 GMT 24 
+<F P="102">   LD2406162094 Paris Europe No. 1 Radio in French 0540 GMT 24 
 Jun 94 </F>
 
-<F P=103> LD2406162094 </F>
-<F P=104>  Paris Europe No. 1 Radio </F>
-<F P=105>  French </F>
+<F P="103"> LD2406162094 </F>
+<F P="104">  Paris Europe No. 1 Radio </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Studio interview with Valery Giscard d'Estaing, president </F>
+<F P="106"> [Studio interview with Valery Giscard d'Estaing, president </F>
 of the French Democratic Union, by Franz-Olivier Giesbert -- 
 live] 
   [Excerpts] [Giesbert] Now a word about Rwanda and the 
@@ -10376,22 +10377,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   French, PRC Experts To Discuss Space Cooperation </TI></H3>
-<HT><F P=107><PHRASE>    French, PRC Experts To Discuss Space Cooperation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    French, PRC Experts To Discuss Space Cooperation </PHRASE></F></HT>
 
-<F P=102>   BR2106074194 Paris LE FIGARO (LE FIG-ECO Supplement) in 
+<F P="102">   BR2106074194 Paris LE FIGARO (LE FIG-ECO Supplement) in 
 French 18-19 Jun 94 p II </F>
 
-<F P=103> BR2106074194 </F>
-<F P=104>  Paris LE FIGARO (LE FIG-ECO Supplement) </F>
-<F P=105>  French </F>
+<F P="103"> BR2106074194 </F>
+<F P="104">  Paris LE FIGARO (LE FIG-ECO Supplement) </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Jean Leclerc du Sablon: "Paris and Beijing </F>
+<F P="106"> [Report by Jean Leclerc du Sablon: "Paris and Beijing </F>
 Envisage Cooperation in Space Technology"] 
   [Text] Beijing -- While the visit of Gerard Longuet, French 
 minister of foreign trade, industry, and telecommunications, to 
@@ -10465,20 +10466,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Editorial Sees U.S. `Advantage' From Dollar Drop </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Sees U.S. `Advantage' From Dollar Drop </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Sees U.S. `Advantage' From Dollar Drop </PHRASE></F></HT>
 
-<F P=102>   BR2906114894 Paris LE FIGARO in French 28 Jun 94 p 1 </F>
-<F P=103> BR2906114894 </F>
-<F P=104>  Paris LE FIGARO </F>
-<F P=105>  French </F>
+<F P="102">   BR2906114894 Paris LE FIGARO in French 28 Jun 94 p 1 </F>
+<F P="103"> BR2906114894 </F>
+<F P="104">  Paris LE FIGARO </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial by Antoine-Pierre Mariano: "Survival of the </F>
+<F P="106"> [Editorial by Antoine-Pierre Mariano: "Survival of the </F>
 Fittest"] 
   [Text] Once again, the world is in the throes of a monetary 
 crisis. More precisely, of a dollar crisis, the umpteenth since 
@@ -10555,20 +10556,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Editorial Views Banks' Failure To Stop Dollar Drop </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Views Banks' Failure To Stop Dollar Drop </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Views Banks' Failure To Stop Dollar Drop </PHRASE></F></HT>
 
-<F P=102>   BR2806150294 Paris LE MONDE in French 28 Jun 94 p 1 </F>
-<F P=103> BR2806150294 </F>
-<F P=104>  Paris LE MONDE </F>
-<F P=105>  French </F>
+<F P="102">   BR2806150294 Paris LE MONDE in French 28 Jun 94 p 1 </F>
+<F P="103"> BR2806150294 </F>
+<F P="104">  Paris LE MONDE </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed editorial: "Financial Storms"] </F>
+<F P="106"> [Unattributed editorial: "Financial Storms"] </F>
   [Text] The dollar's slide to below the 100-yen mark on 
 Monday, 27 June shows that the week which has just begun will be 
 heavy with new and dangerous storms on the financial markets. 
@@ -10637,22 +10638,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Governability of 16-Member EU Questioned </TI></H3>
-<HT><F P=107><PHRASE>    Governability of 16-Member EU Questioned </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Governability of 16-Member EU Questioned </PHRASE></F></HT>
 
-<F P=102>   BR2806103094 Paris LE QUOTIDIEN DE PARIS in French 27 Jun 94 
+<F P="102">   BR2806103094 Paris LE QUOTIDIEN DE PARIS in French 27 Jun 94 
 p 1 </F>
 
-<F P=103> BR2806103094 </F>
-<F P=104>  Paris LE QUOTIDIEN DE PARIS </F>
-<F P=105>  French </F>
+<F P="103"> BR2806103094 </F>
+<F P="104">  Paris LE QUOTIDIEN DE PARIS </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial by Robert Toubon] </F>
+<F P="106"> [Editorial by Robert Toubon] </F>
   [Text] It has been said of Francois Mitterrand in 
 connection with the Socialist Party -- will Jacques Delors also 
 leave Europe in the very state it was in when he came aboard, 
@@ -10714,22 +10715,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Editorial Criticizes EU Inertia Toward Rwanda </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Criticizes EU Inertia Toward Rwanda </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Criticizes EU Inertia Toward Rwanda </PHRASE></F></HT>
 
-<F P=102>   BR2406145494 Paris LE QUOTIDIEN DE PARIS in French 24 Jun 94 
+<F P="102">   BR2406145494 Paris LE QUOTIDIEN DE PARIS in French 24 Jun 94 
 p 1 </F>
 
-<F P=103> BR2406145494 </F>
-<F P=104>  Paris LE QUOTIDIEN DE PARIS </F>
-<F P=105>  French </F>
+<F P="103"> BR2406145494 </F>
+<F P="104">  Paris LE QUOTIDIEN DE PARIS </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial by Philippe Marcovici] </F>
+<F P="106"> [Editorial by Philippe Marcovici] </F>
   [Excerpts] [passage omitted] Rwanda's tragedy could have, 
 or rather should have, crystallized the European idea around a 
 simple notion: to rescue innocent victims. This was an 
@@ -10779,16 +10780,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Algerian Prime Minister Arrives in Rome </TI></H3>
-<HT><F P=107><PHRASE>    Algerian Prime Minister Arrives in Rome </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Algerian Prime Minister Arrives in Rome </PHRASE></F></HT>
 
-<F P=102>   LD2806164494 Algiers Radio Algiers Network in Arabic 1200 
+<F P="102">   LD2806164494 Algiers Radio Algiers Network in Arabic 1200 
 GMT 28 Jun 94 </F>
 
-<F P=103> LD2806164494 </F>
-<F P=104>  Algiers Radio Algiers Network </F>
-<F P=105>  Arabic </F>
+<F P="103"> LD2806164494 </F>
+<F P="104">  Algiers Radio Algiers Network </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -10827,20 +10828,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Berlusconi Discusses Political Issues </TI></H3>
-<HT><F P=107><PHRASE>    Berlusconi Discusses Political Issues </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Berlusconi Discusses Political Issues </PHRASE></F></HT>
 
-<F P=102>   BR2806135494 Milan IL GIORNALE in Italian 25 Jun 94 p 3 </F>
-<F P=103> BR2806135494 </F>
-<F P=104>  Milan IL GIORNALE </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2806135494 Milan IL GIORNALE in Italian 25 Jun 94 p 3 </F>
+<F P="103"> BR2806135494 </F>
+<F P="104">  Milan IL GIORNALE </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Prime Minister Silvio Berlusconi by Renato </F>
+<F P="106"> [Interview with Prime Minister Silvio Berlusconi by Renato </F>
 Farina in Rome; date not given: "Bossi Has Destroyed, I Will 
 Rebuild" -- first three paragraphs are IL GIORNALE introduction] 
   [Excerpts] Rome -- At the Palazzo Chigi [office of the 
@@ -11141,20 +11142,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Bossi: `This Parliament Must Complete Its Term' </TI></H3>
-<HT><F P=107><PHRASE>    Bossi: `This Parliament Must Complete Its Term' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bossi: `This Parliament Must Complete Its Term' </PHRASE></F></HT>
 
-<F P=102>   BR2806150494 Rome LA REPUBBLICA in Italian 28 Jun 94 p7 </F>
-<F P=103> BR2806150494 </F>
-<F P=104>  Rome LA REPUBBLICA </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2806150494 Rome LA REPUBBLICA in Italian 28 Jun 94 p7 </F>
+<F P="103"> BR2806150494 </F>
+<F P="104">  Rome LA REPUBBLICA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Northern League Secretary Umberto Bossi by </F>
+<F P="106"> [Interview with Northern League Secretary Umberto Bossi by </F>
 Guido Passalacqua in Milan; date not given: "Bossi: `What 
 Elections...?'-- `If the Government Falls, a New One Can Be 
 Formed"] 
@@ -11272,20 +11273,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Commentator Assesses Need for Early Elections </TI></H3>
-<HT><F P=107><PHRASE>    Commentator Assesses Need for Early Elections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commentator Assesses Need for Early Elections </PHRASE></F></HT>
 
-<F P=102>   BR2306064594 Rome LA REPUBBLICA in Italian 22 Jun 94 pp 1-2 </F>
-<F P=103> BR2306064594 </F>
-<F P=104>  Rome LA REPUBBLICA </F>
-<F P=105>  Italian </F>
+<F P="102">   BR2306064594 Rome LA REPUBBLICA in Italian 22 Jun 94 pp 1-2 </F>
+<F P="103"> BR2306064594 </F>
+<F P="104">  Rome LA REPUBBLICA </F>
+<F P="105">  Italian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by Antonio Polito: "Less Tactics, More </F>
+<F P="106"> [Commentary by Antonio Polito: "Less Tactics, More </F>
 Goals..."] 
   [Text] So an election in the fall is a possibility. Or, at 
 least, this was not ruled out by Silvio Berlusconi, who at the 
@@ -11411,14 +11412,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Iraq's Tariq 'Aziz Meets With Pope John Paul II </TI></H3>
-<HT><F P=107><PHRASE>    Iraq's Tariq 'Aziz Meets With Pope John Paul II </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Iraq's Tariq 'Aziz Meets With Pope John Paul II </PHRASE></F></HT>
 
-<F P=102>   JN2806175694 Baghdad INA in Arabic 1715 GMT 28 Jun 94 </F>
-<F P=103> JN2806175694 </F>
-<F P=104>  Baghdad INA </F>
-<F P=105>  Arabic </F>
+<F P="102">   JN2806175694 Baghdad INA in Arabic 1715 GMT 28 Jun 94 </F>
+<F P="103"> JN2806175694 </F>
+<F P="104">  Baghdad INA </F>
+<F P="105">  Arabic </F>
 
 
 <TEXT>
@@ -11451,16 +11452,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PORTUGAL </F>
+<F P="100"> PORTUGAL </F>
 <H3> <TI>   Barroso: Enlarged EU Must Retain Effectiveness </TI></H3>
-<HT><F P=107><PHRASE>    Barroso: Enlarged EU Must Retain Effectiveness </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Barroso: Enlarged EU Must Retain Effectiveness </PHRASE></F></HT>
 
-<F P=102>   LD2906093994 Lisbon RDP Antena 1 Radio Network in Portuguese 
+<F P="102">   LD2906093994 Lisbon RDP Antena 1 Radio Network in Portuguese 
 0800 GMT 29 Jun 94 </F>
 
-<F P=103> LD2906093994 </F>
-<F P=104>  Lisbon RDP Antena 1 Radio Network </F>
-<F P=105>  Portuguese </F>
+<F P="103"> LD2906093994 </F>
+<F P="104">  Lisbon RDP Antena 1 Radio Network </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
@@ -11509,20 +11510,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PORTUGAL </F>
+<F P="100"> PORTUGAL </F>
 <H3> <TI>   Government Bill To Reorganize Intelligence Service </TI></H3>
-<HT><F P=107><PHRASE>    Government Bill To Reorganize Intelligence Service </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Bill To Reorganize Intelligence Service </PHRASE></F></HT>
 
-<F P=102>   PM2806105594 Lisbon EXPRESSO in Portuguese 18 Jun 94 pp 1, 28 </F>
-<F P=103> PM2806105594 </F>
-<F P=104>  Lisbon EXPRESSO </F>
-<F P=105>  Portuguese </F>
+<F P="102">   PM2806105594 Lisbon EXPRESSO in Portuguese 18 Jun 94 pp 1, 28 </F>
+<F P="103"> PM2806105594 </F>
+<F P="104">  Lisbon EXPRESSO </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "Dinfo Comes to an End"] </F>
+<F P="106"> [Unattributed report: "Dinfo Comes to an End"] </F>
   [Text] The government has decided to wind up the Dinfo 
 [Military Intelligence Division] and to merge the Military 
 Intelligence Service [SIM] and the Strategic Defense 
@@ -11601,17 +11602,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Croatia's Mate Granic Begins Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Croatia's Mate Granic Begins Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Croatia's Mate Granic Begins Official Visit </PHRASE></F></HT>
 <H4>    Meets With Foreign Minister Solana </H4>
 
-<F P=102> LD2806192794 Zagreb HTV Television in Serbo-Croatian 1730 
+<F P="102"> LD2806192794 Zagreb HTV Television in Serbo-Croatian 1730 
 GMT 28 Jun 94 </F>
 
-<F P=103> LD2806192794 </F>
-<F P=104>  Zagreb HTV Television </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD2806192794 </F>
+<F P="104">  Zagreb HTV Television </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -11673,20 +11674,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Gonzalez Comments on EU Summit in Corfu </TI></H3>
-<HT><F P=107><PHRASE>    Gonzalez Comments on EU Summit in Corfu </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Gonzalez Comments on EU Summit in Corfu </PHRASE></F></HT>
 
-<F P=102>   PM2906081494 Barcelona LA VANGUARDIA in Spanish 26 Jun 94 p 6 </F>
-<F P=103> PM2906081494 </F>
-<F P=104>  Barcelona LA VANGUARDIA </F>
-<F P=105>  Spanish </F>
+<F P="102">   PM2906081494 Barcelona LA VANGUARDIA in Spanish 26 Jun 94 p 6 </F>
+<F P="103"> PM2906081494 </F>
+<F P="104">  Barcelona LA VANGUARDIA </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Isidre Ambros and Pau Baquero: "Gonzalez Admits </F>
+<F P="106"> [Report by Isidre Ambros and Pau Baquero: "Gonzalez Admits </F>
 That There Is a Crisis in Council's Functioning"] 
   [Text] Corfu -- Prime Minister Felipe Gonzalez 
 acknowledged yesterday that the European leaders' failure in 
@@ -11797,20 +11798,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Parties React to PP Call for Early Elections </TI></H3>
-<HT><F P=107><PHRASE>    Parties React to PP Call for Early Elections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Parties React to PP Call for Early Elections </PHRASE></F></HT>
 
-<F P=102>   PM2806115394 Madrid YA in Spanish 21 Jun 94 p 4 </F>
-<F P=103> PM2806115394 </F>
-<F P=104>  Madrid YA </F>
-<F P=105>  Spanish </F>
+<F P="102">   PM2806115394 Madrid YA in Spanish 21 Jun 94 p 4 </F>
+<F P="103"> PM2806115394 </F>
+<F P="104">  Madrid YA </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report: "PSOE Retorts That People's Party </F>
+<F P="106"> [Unattributed report: "PSOE Retorts That People's Party </F>
 Believes That `Democracy Is Lottery'"] 
   [Text] After learning of [People's Party (PP) Chairman] 
 Aznar's statements demanding an early election, PSOE [Spanish 
@@ -11892,22 +11893,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   CiU's Roca: No Secret Agreements With Government </TI></H3>
-<HT><F P=107><PHRASE>    CiU's Roca: No Secret Agreements With Government </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    CiU's Roca: No Secret Agreements With Government </PHRASE></F></HT>
 
-<F P=102>   PM2806145694 Barcelona LA VANGUARDIA in Spanish 23 Jun 94 p 
+<F P="102">   PM2806145694 Barcelona LA VANGUARDIA in Spanish 23 Jun 94 p 
 11 </F>
 
-<F P=103> PM2806145694 </F>
-<F P=104>  Barcelona LA VANGUARDIA </F>
-<F P=105>  Spanish </F>
+<F P="103"> PM2806145694 </F>
+<F P="104">  Barcelona LA VANGUARDIA </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Carmen del Riego: "Roca Criticizes as Dangerous </F>
+<F P="106"> [Report by Carmen del Riego: "Roca Criticizes as Dangerous </F>
 Falsehood the Assertion That There Are Secret Agreements"] 
   [Text] Madrid -- Miquel Roca, CiU [Convergence and Union] 
 spokesman in the Congress [of Deputies], yesterday rejected the 
@@ -11992,16 +11993,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Uzbekistan President Concludes Visit </TI></H3>
-<HT><F P=107><PHRASE>    Uzbekistan President Concludes Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Uzbekistan President Concludes Visit </PHRASE></F></HT>
 
-<F P=102>   NC2806181394 Ankara TURKISH DAILY NEWS in English 25 Jun 94 
+<F P="102">   NC2806181394 Ankara TURKISH DAILY NEWS in English 25 Jun 94 
 p A2 </F>
 
-<F P=103> NC2806181394 </F>
-<F P=104>  Ankara TURKISH DAILY NEWS </F>
-<F P=105>  English </F>
+<F P="103"> NC2806181394 </F>
+<F P="104">  Ankara TURKISH DAILY NEWS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12049,22 +12050,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Russian Official Arrives for Nagorno-Karabakh Talks </TI></H3>
-<HT><F P=107><PHRASE>    Russian Official Arrives for Nagorno-Karabakh Talks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russian Official Arrives for Nagorno-Karabakh Talks </PHRASE></F></HT>
 
-<F P=102>   TA2806184294 Ankara TRT Television Network in Turkish 1700 
+<F P="102">   TA2806184294 Ankara TRT Television Network in Turkish 1700 
 GMT 28 Jun 94 </F>
 
-<F P=103> TA2806184294 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2806184294 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report over video] </F>
+<F P="106"> [Announcer-read report over video] </F>
   [Text] Vladimir Kazimirov, the Russian special 
 representative in Nagorno-Karabakh, has arrived in Turkey for 
 talks. On arrival at Ankara Esenboga Airport, Kazimirov said he 
@@ -12089,14 +12090,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Demirel Rejects Divisions Caused by Democracy </TI></H3>
-<HT><F P=107><PHRASE>    Demirel Rejects Divisions Caused by Democracy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Demirel Rejects Divisions Caused by Democracy </PHRASE></F></HT>
 
-<F P=102>   TA2806162094 Ankara ANATOLIA in English 1540 GMT 28 Jun 94 </F>
-<F P=103> TA2806162094 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2806162094 Ankara ANATOLIA in English 1540 GMT 28 Jun 94 </F>
+<F P="103"> TA2806162094 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12140,16 +12141,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Parliament Speaker Comments on DEP Deputies </TI></H3>
-<HT><F P=107><PHRASE>    Parliament Speaker Comments on DEP Deputies </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Parliament Speaker Comments on DEP Deputies </PHRASE></F></HT>
 
-<F P=102>   TA2406071194 Ankara Turkiye Radyolari Network in Turkish 
+<F P="102">   TA2406071194 Ankara Turkiye Radyolari Network in Turkish 
 0600 GMT 24 Jun 94 </F>
 
-<F P=103> TA2406071194 </F>
-<F P=104>  Ankara Turkiye Radyolari Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2406071194 </F>
+<F P="104">  Ankara Turkiye Radyolari Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
@@ -12201,14 +12202,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   State Security Court Sentences Former DEP Leader </TI></H3>
-<HT><F P=107><PHRASE>    State Security Court Sentences Former DEP Leader </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    State Security Court Sentences Former DEP Leader </PHRASE></F></HT>
 
-<F P=102>   TA2806171994 Ankara ANATOLIA in English 1555 GMT 28 Jun 94 </F>
-<F P=103> TA2806171994 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2806171994 Ankara ANATOLIA in English 1555 GMT 28 Jun 94 </F>
+<F P="103"> TA2806171994 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12241,16 +12242,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   New Kurdish Party Holds First Congress </TI></H3>
-<HT><F P=107><PHRASE>    New Kurdish Party Holds First Congress </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Kurdish Party Holds First Congress </PHRASE></F></HT>
 
-<F P=102>   NC2806192694 Ankara TURKISH DAILY NEWS in English 25 Jun 94 
+<F P="102">   NC2806192694 Ankara TURKISH DAILY NEWS in English 25 Jun 94 
 p A3 </F>
 
-<F P=103> NC2806192694 </F>
-<F P=104>  Ankara TURKISH DAILY NEWS </F>
-<F P=105>  English </F>
+<F P="103"> NC2806192694 </F>
+<F P="104">  Ankara TURKISH DAILY NEWS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12294,22 +12295,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Columnist Views Government Actions Against DEP </TI></H3>
-<HT><F P=107><PHRASE>    Columnist Views Government Actions Against DEP </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Columnist Views Government Actions Against DEP </PHRASE></F></HT>
 
-<F P=102>   NC2506072594 Ankara TURKISH DAILY NEWS in English 22 Jun 94 
+<F P="102">   NC2506072594 Ankara TURKISH DAILY NEWS in English 22 Jun 94 
 p B3 </F>
 
-<F P=103> NC2506072594 </F>
-<F P=104>  Ankara TURKISH DAILY NEWS </F>
-<F P=105>  English </F>
+<F P="103"> NC2506072594 </F>
+<F P="104">  Ankara TURKISH DAILY NEWS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Ismet G. Imset from the "Being (Too) Vocal" </F>
+<F P="106"> [Article by Ismet G. Imset from the "Being (Too) Vocal" </F>
 column: "The DEP Closure Case: Which League Are We In?"] 
   [Text] There is no doubt that last week's Constitutional 
 Court decision to close down Turkey's one-and-only Kurdish based 
@@ -12631,14 +12632,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Prosecutor Seeks Death Penalty in Hezbollah Trial </TI></H3>
-<HT><F P=107><PHRASE>    Prosecutor Seeks Death Penalty in Hezbollah Trial </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Prosecutor Seeks Death Penalty in Hezbollah Trial </PHRASE></F></HT>
 
-<F P=102>   TA2806161394 Ankara ANATOLIA in English 1550 GMT 28 Jun 94 </F>
-<F P=103> TA2806161394 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2806161394 Ankara ANATOLIA in English 1550 GMT 28 Jun 94 </F>
+<F P="103"> TA2806161394 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12687,20 +12688,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Police Seek Islamic Movement Organization `Hit Man' </TI></H3>
-<HT><F P=107><PHRASE>    Police Seek Islamic Movement Organization `Hit Man' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police Seek Islamic Movement Organization `Hit Man' </PHRASE></F></HT>
 
-<F P=102>   NC2806163794 Istanbul HURRIYET in Turkish 23 Jun 94 p 16 </F>
-<F P=103> NC2806163794 </F>
-<F P=104>  Istanbul HURRIYET </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC2806163794 Istanbul HURRIYET in Turkish 23 Jun 94 p 16 </F>
+<F P="103"> NC2806163794 </F>
+<F P="104">  Istanbul HURRIYET </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Murat Demirel and Emin Demirel: "Identity of an </F>
+<F P="106"> [Report by Murat Demirel and Emin Demirel: "Identity of an </F>
 IMO Terrorist Established"] 
   [Text] Istanbul--Teams of the antiterror department have 
 established that Irfan Cagrici was the person who killed Cetin 
@@ -12755,20 +12756,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Security Officials Impound Smuggled Arms </TI></H3>
-<HT><F P=107><PHRASE>    Security Officials Impound Smuggled Arms </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Security Officials Impound Smuggled Arms </PHRASE></F></HT>
 
-<F P=102>   NC2806203994 Istanbul SABAH in Turkish 25 Jun 94 p 17 </F>
-<F P=103> NC2806203994 </F>
-<F P=104>  Istanbul SABAH </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC2806203994 Istanbul SABAH in Turkish 25 Jun 94 p 17 </F>
+<F P="103"> NC2806203994 </F>
+<F P="104">  Istanbul SABAH </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Adnan Gerger: "The Set-3 Operation in Ankara"] </F>
+<F P="106"> [Report by Adnan Gerger: "The Set-3 Operation in Ankara"] </F>
   [Excerpts] Ankara--Security units have impounded 14 
 Kalashnikov rifles and 18 other firearms in an operation in 
 Ankara. The officials have ascertained that the arms were 
@@ -12828,20 +12829,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Civilian Firms To Manufacture Military Materiel </TI></H3>
-<HT><F P=107><PHRASE>    Civilian Firms To Manufacture Military Materiel </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Civilian Firms To Manufacture Military Materiel </PHRASE></F></HT>
 
-<F P=102>   NC2606143494 Istanbul SABAH in Turkish 19 Jun 94 p 7 </F>
-<F P=103> NC2606143494 </F>
-<F P=104>  Istanbul SABAH </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC2606143494 Istanbul SABAH in Turkish 19 Jun 94 p 7 </F>
+<F P="103"> NC2606143494 </F>
+<F P="104">  Istanbul SABAH </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Nuri Kayis: "Automobile Factories Will </F>
+<F P="106"> [Report by Nuri Kayis: "Automobile Factories Will </F>
 Manufacture Arms"] 
   [Text] Ankara--The industrial establishments in the private 
 sector, which are in a difficult situation as a result of the 
@@ -12908,20 +12909,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Daily Views U.S. Relations, Aid Conditions </TI></H3>
-<HT><F P=107><PHRASE>    Daily Views U.S. Relations, Aid Conditions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Daily Views U.S. Relations, Aid Conditions </PHRASE></F></HT>
 
-<F P=102>   NC2706125294 Istanbul SABAH in Turkish 23 Jun 94 p 15 </F>
-<F P=103> NC2706125294 </F>
-<F P=104>  Istanbul SABAH </F>
-<F P=105>  Turkish </F>
+<F P="102">   NC2706125294 Istanbul SABAH in Turkish 23 Jun 94 p 15 </F>
+<F P="103"> NC2706125294 </F>
+<F P="104">  Istanbul SABAH </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Hasan Cemal: "What Might Happen If the U.S. Aid </F>
+<F P="106"> [Article by Hasan Cemal: "What Might Happen If the U.S. Aid </F>
 Package Is Rejected or Accepted?"] 
   [Text] Ankara -- We met many of our high-ranking diplomats 
 during [journalist] Fatih Cekirge's cocktail party in the SABAH 
@@ -13050,22 +13051,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   HURRIYET, MILLIYET Form Partnership </TI></H3>
-<HT><F P=107><PHRASE>    HURRIYET, MILLIYET Form Partnership </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    HURRIYET, MILLIYET Form Partnership </PHRASE></F></HT>
 
-<F P=102>   TA2806192494 Ankara TRT Television Network in Turkish 1700 
+<F P="102">   TA2806192494 Ankara TRT Television Network in Turkish 1700 
 GMT 28 Jun 94 </F>
 
-<F P=103> TA2806192494 </F>
-<F P=104>  Ankara TRT Television Network </F>
-<F P=105>  Turkish </F>
+<F P="103"> TA2806192494 </F>
+<F P="104">  Ankara TRT Television Network </F>
+<F P="105">  Turkish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Announcer-read report] </F>
+<F P="106"> [Announcer-read report] </F>
   [Text] A giant merger in the press world -- the dailies 
 MILLIYET and HURRIYET became partners. 
   The Dogan Group which owns MILLIYET joined the Hurriyet 
@@ -13098,22 +13099,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Sources: Delors May Extend Mandate by Six Months </TI></H3>
-<HT><F P=107><PHRASE>    Sources: Delors May Extend Mandate by Six Months </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sources: Delors May Extend Mandate by Six Months </PHRASE></F></HT>
 
-<F P=102>   BR2806144494 Antwerp GAZET VAN ANTWERPEN in Dutch 28 Jun 94 
+<F P="102">   BR2806144494 Antwerp GAZET VAN ANTWERPEN in Dutch 28 Jun 94 
 p 2 </F>
 
-<F P=103> BR2806144494 </F>
-<F P=104>  Antwerp GAZET VAN ANTWERPEN </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2806144494 </F>
+<F P="104">  Antwerp GAZET VAN ANTWERPEN </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Johan Cuppens: "European Parliament Gets Unique </F>
+<F P="106"> [Article by Johan Cuppens: "European Parliament Gets Unique </F>
 Opportunity in Discussions About Commission President -- Germany 
 Ambiguous About Support for Prime Minister Dehaene"] 
   [Excerpt] [passage omitted] 
@@ -13160,21 +13161,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> BENELUX </F>
-<F P=101> Belgium </F>
+<F P="100"> BENELUX </F>
+<F P="101"> Belgium </F>
 <H3> <TI>   Finance Minister Assesses 1993 Bugdet Deficit </TI></H3>
-<HT><F P=107><PHRASE>    Finance Minister Assesses 1993 Bugdet Deficit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Finance Minister Assesses 1993 Bugdet Deficit </PHRASE></F></HT>
 
-<F P=102>   BR2306133094 Brussels LE SOIR in French 21 Jun 94 p 3 </F>
-<F P=103> BR2306133094 </F>
-<F P=104>  Brussels LE SOIR </F>
-<F P=105>  French </F>
+<F P="102">   BR2306133094 Brussels LE SOIR in French 21 Jun 94 p 3 </F>
+<F P="103"> BR2306133094 </F>
+<F P="104">  Brussels LE SOIR </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report signed Th.E.: "Things Are Moving in the Chasm of </F>
+<F P="106"> [Report signed Th.E.: "Things Are Moving in the Chasm of </F>
 the Debt"] 
   [Text] On Monday [20 June], Finance Minister Philippe 
 Maystadt presented the report on the public debt development in 
@@ -13253,20 +13254,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> AUSTRIA </F>
+<F P="100"> AUSTRIA </F>
 <H3> <TI>   Low Dollar `Weapon in Trade War' </TI></H3>
-<HT><F P=107><PHRASE>    Low Dollar `Weapon in Trade War' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Low Dollar `Weapon in Trade War' </PHRASE></F></HT>
 
-<F P=102>   AU2606153394 Vienna DIE PRESSE in German 25 Jun 94 p 3 </F>
-<F P=103> AU2606153394 </F>
-<F P=104>  Vienna DIE PRESSE </F>
-<F P=105>  German </F>
+<F P="102">   AU2606153394 Vienna DIE PRESSE in German 25 Jun 94 p 3 </F>
+<F P="103"> AU2606153394 </F>
+<F P="104">  Vienna DIE PRESSE </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Kurt Horwitz: "The Dollar Rate as a Weapon in </F>
+<F P="106"> [Article by Kurt Horwitz: "The Dollar Rate as a Weapon in </F>
 the Trade War"] 
   [Text] "Comeback for the greenback" -- this is what eminent 
 financial publications wrote in their headlines at the beginning 
@@ -13355,22 +13356,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> UNITED KINGDOM </F>
+<F P="100"> UNITED KINGDOM </F>
 <H3> <TI>   Economic Growth Forecast Upgraded; Clarke Comments </TI></H3>
-<HT><F P=107><PHRASE>    Economic Growth Forecast Upgraded; Clarke Comments </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Economic Growth Forecast Upgraded; Clarke Comments </PHRASE></F></HT>
 
-<F P=102>   LD2806123894 London PRESS ASSOCIATION in English 1155 GMT 28 
+<F P="102">   LD2806123894 London PRESS ASSOCIATION in English 1155 GMT 28 
 Jun 94 </F>
 
-<F P=103> LD2806123894 </F>
-<F P=104>  London PRESS ASSOCIATION </F>
-<F P=105>  English </F>
+<F P="103"> LD2806123894 </F>
+<F P="104">  London PRESS ASSOCIATION </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Mark Atkinson, PRESS ASSOCIATION economics correspondent] </F>
+<F P="106"> [By Mark Atkinson, PRESS ASSOCIATION economics correspondent] </F>
   [Text] The Treasury today upgraded its forecast for 
 economic growth in 1994 to 2.75 percent from the Budget 
 prediction last November of 2.5 percent. And, in what amounts 
@@ -13465,23 +13466,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   Officials Address Bundestag 29 Jun on EU Issues </TI></H3>
-<HT><F P=107><PHRASE>    Officials Address Bundestag 29 Jun on EU Issues </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials Address Bundestag 29 Jun on EU Issues </PHRASE></F></HT>
 <H4>    Kinkel Briefs Legislature on Summit </H4>
 
-<F P=102> AU2906082894 Mainz ZDF Television Network in German 0707 GMT 
+<F P="102"> AU2906082894 Mainz ZDF Television Network in German 0707 GMT 
 29 Jun 94 </F>
 
-<F P=103> AU2906082894 </F>
-<F P=104>  Mainz ZDF Television Network </F>
-<F P=105>  German </F>
+<F P="103"> AU2906082894 </F>
+<F P="104">  Mainz ZDF Television Network </F>
+<F P="105">  German </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Government statement delivered by Foreign Minister Klaus </F>
+<F P="106"> [Government statement delivered by Foreign Minister Klaus </F>
 Kinkel to the Bundestag in Bonn -- live] 
   [Text] Madame President, Ladies and Gentlemen: 
   The European Union [EU] Council in Corfu made some 
@@ -13727,16 +13728,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> FRANCE </F>
+<F P="100"> FRANCE </F>
 <H3> <TI>   Algeria's Sifi Open to Dialogue With Moderates </TI></H3>
-<HT><F P=107><PHRASE>    Algeria's Sifi Open to Dialogue With Moderates </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Algeria's Sifi Open to Dialogue With Moderates </PHRASE></F></HT>
 
-<F P=102>   LD2306224394 Paris Radio France International in French 2130 
+<F P="102">   LD2306224394 Paris Radio France International in French 2130 
 GMT 23 Jun 94 </F>
 
-<F P=103> LD2306224394 </F>
-<F P=104>  Paris Radio France International </F>
-<F P=105>  French </F>
+<F P="103"> LD2306224394 </F>
+<F P="104">  Paris Radio France International </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -13778,14 +13779,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Martino, Kinkel Discuss EU Candidates </TI></H3>
-<HT><F P=107><PHRASE>    Martino, Kinkel Discuss EU Candidates </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Martino, Kinkel Discuss EU Candidates </PHRASE></F></HT>
 
-<F P=102>   AU2906080294 Paris AFP in English 2206 GMT 29 Jun 94 </F>
-<F P=103> AU2906080294 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2906080294 Paris AFP in English 2206 GMT 29 Jun 94 </F>
+<F P="103"> AU2906080294 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -13822,17 +13823,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> SPAIN </F>
+<F P="100"> SPAIN </F>
 <H3> <TI>   Croatia's Mate Granic Begins Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Croatia's Mate Granic Begins Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Croatia's Mate Granic Begins Official Visit </PHRASE></F></HT>
 <H4>    Received by King Juan Carlos </H4>
 
-<F P=102> LD2806183194 Zagreb Radio Croatia Network in Serbo-Croatian 
+<F P="102"> LD2806183194 Zagreb Radio Croatia Network in Serbo-Croatian 
 1300 GMT 28 Jun 94 </F>
 
-<F P=103> LD2806183194 </F>
-<F P=104>  Zagreb Radio Croatia Network </F>
-<F P=105>  Serbo-Croatian </F>
+<F P="103"> LD2806183194 </F>
+<F P="104">  Zagreb Radio Croatia Network </F>
+<F P="105">  Serbo-Croatian </F>
 
 
 <TEXT>
@@ -13896,14 +13897,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TURKEY </F>
+<F P="100"> TURKEY </F>
 <H3> <TI>   Ciller To Offer Russia Exports for More Oil </TI></H3>
-<HT><F P=107><PHRASE>    Ciller To Offer Russia Exports for More Oil </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ciller To Offer Russia Exports for More Oil </PHRASE></F></HT>
 
-<F P=102>   TA2806163894 Ankara ANATOLIA in English 1534 GMT 28 Jun 94 </F>
-<F P=103> TA2806163894 </F>
-<F P=104>  Ankara ANATOLIA </F>
-<F P=105>  English </F>
+<F P="102">   TA2806163894 Ankara ANATOLIA in English 1534 GMT 28 Jun 94 </F>
+<F P="103"> TA2806163894 </F>
+<F P="104">  Ankara ANATOLIA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -13944,23 +13945,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> International Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> International Affairs </F>
 <H3> <TI>   Reaction to, Details of EU-Russia Agreement </TI></H3>
-<HT><F P=107><PHRASE>    Reaction to, Details of EU-Russia Agreement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reaction to, Details of EU-Russia Agreement </PHRASE></F></HT>
 
-<F P=102>   BR2406120194 Brussels Rapid Database in English 22 Jun 
+<F P="102">   BR2406120194 Brussels Rapid Database in English 22 Jun 
 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2406120194 </F>
-<F P=104>  Brussels Rapid Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2406120194 </F>
+<F P="104">  Brussels Rapid Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [EC Press Release No. IP/94/39: "Russia and European Union </F>
+<F P="106"> [EC Press Release No. IP/94/39: "Russia and European Union </F>
 Reach Historic Agreement To Deepen Trade and Political Ties"] 
   [Text] 
 <H5>  Introduction </H5>
@@ -14256,23 +14257,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   European Council Issues Corfu Summit Conclusions </TI></H3>
-<HT><F P=107><PHRASE>    European Council Issues Corfu Summit Conclusions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    European Council Issues Corfu Summit Conclusions </PHRASE></F></HT>
 
-<F P=102>   BR2806154494 Brussels Rapid Database in English 28 Jun 
+<F P="102">   BR2806154494 Brussels Rapid Database in English 28 Jun 
 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2806154494 </F>
-<F P=104>  Brussels Rapid Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2806154494 </F>
+<F P="104">  Brussels Rapid Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [EC Document No. DOC/94/1: "European Council at Corfu -- </F>
+<F P="106"> [EC Document No. DOC/94/1: "European Council at Corfu -- </F>
 24/25 June 1994 Presidency Conclusions"; as released on 28 June] 
   [Text] 
 <H5>  Introduction </H5>
@@ -15361,23 +15362,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Italy's Berlusconi `Satisfied' With Corfu Summit </TI></H3>
-<HT><F P=107><PHRASE>    Italy's Berlusconi `Satisfied' With Corfu Summit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Italy's Berlusconi `Satisfied' With Corfu Summit </PHRASE></F></HT>
 
-<F P=102>   BR2706102594 Rome ANSAMAIL Database in English 1135 GMT 25 
+<F P="102">   BR2706102594 Rome ANSAMAIL Database in English 1135 GMT 25 
 Jun 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2706102594 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
-<F P=105>  English </F>
+<F P="103"> BR2706102594 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed article: "Martino Going to Bosnia, Berlusconi </F>
+<F P="106"> [Unattributed article: "Martino Going to Bosnia, Berlusconi </F>
 Pleased With Events"] 
   [Excerpt] (ANSA) Corfu, June 25 -- [passage omitted] In 
 another development in Corfu today, where the EC summit is 
@@ -15419,17 +15420,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   UK Creates `Extremely Awkward Situation' </TI></H3>
-<HT><F P=107><PHRASE>    UK Creates `Extremely Awkward Situation' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    UK Creates `Extremely Awkward Situation' </PHRASE></F></HT>
 
-<F P=102>   AU2506145294 Hamburg DPA in German 1251 GMT 25 Jun 94 -- FOR 
+<F P="102">   AU2506145294 Hamburg DPA in German 1251 GMT 25 Jun 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2506145294 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2506145294 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -15469,14 +15470,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   _O_Reaction to European Parliament Elections </TI></H3>
-<HT><F P=107><PHRASE>    _O_Reaction to European Parliament Elections </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    _O_Reaction to European Parliament Elections </PHRASE></F></HT>
 
-<F P=102>   94P20897 FOR OFFICIAL USE ONLY </F>
-<F P=103> 94P20897 </F>
-<F P=104>  FOR OFFICIAL USE ONLY </F>
+<F P="102">   94P20897 FOR OFFICIAL USE ONLY </F>
+<F P="103"> 94P20897 </F>
+<F P="104">  FOR OFFICIAL USE ONLY </F>
 
 
 
@@ -15618,17 +15619,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Government Wants Closer Relations With Germany </TI></H3>
-<HT><F P=107><PHRASE>    Government Wants Closer Relations With Germany </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Wants Closer Relations With Germany </PHRASE></F></HT>
 
-<F P=102>   AU2806160094 Hamburg DPA in German 1406 GMT 28 Jun 94 -- FOR 
+<F P="102">   AU2806160094 Hamburg DPA in German 1406 GMT 28 Jun 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2806160094 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2806160094 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -15675,23 +15676,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   PvdA's Kok: `Purple Adventure Has Been a Failure' </TI></H3>
-<HT><F P=107><PHRASE>    PvdA's Kok: `Purple Adventure Has Been a Failure' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PvdA's Kok: `Purple Adventure Has Been a Failure' </PHRASE></F></HT>
 
-<F P=102>   BR2806124394 Brussels BELGA Database in Dutch 1725 GMT 27 
+<F P="102">   BR2806124394 Brussels BELGA Database in Dutch 1725 GMT 27 
 Jun 94 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2806124394 </F>
-<F P=104>  Brussels BELGA Database </F>
-<F P=105>  Dutch </F>
+<F P="103"> BR2806124394 </F>
+<F P="104">  Brussels BELGA Database </F>
+<F P="105">  Dutch </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article signed RKX: "Kok Does Not Expect Second Attempt To </F>
+<F P="106"> [Article signed RKX: "Kok Does Not Expect Second Attempt To </F>
 Form `Purple' Government To Be Successful"] 
   [Text] The Hague, 27 Jun (ANP/BELGA) -- Wim Kok, the leader 
 of the Netherlands Social Democratic Party PvdA [Labor Party], 
@@ -15733,24 +15734,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Major Uses EC Veto To Block French-German Plan </TI></H3>
-<HT><F P=107><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
 <H4>    Conservatives `Surprised, Delighted' </H4>
 
-<F P=102> PM2606100294 London THE SUNDAY TELEGRAPH in English 26 Jun 
+<F P="102"> PM2606100294 London THE SUNDAY TELEGRAPH in English 26 Jun 
 94 pp 1-2 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2606100294 </F>
-<F P=104>  London THE SUNDAY TELEGRAPH </F>
-<F P=105>  English </F>
+<F P="103"> PM2606100294 </F>
+<F P="104">  London THE SUNDAY TELEGRAPH </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by David Wastell, Christopher Lockwood: "Tory </F>
+<F P="106"> [Report by David Wastell, Christopher Lockwood: "Tory </F>
 Delight as Major Uses EC Veto"] 
   [Text] Corfu -- John Major surprised and delighted the 
 Conservative Party last night by using Britain's veto to block 
@@ -15865,24 +15866,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Major Uses EC Veto To Block French-German Plan </TI></H3>
-<HT><F P=107><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
 <H4>    Editorial Views Collapse of Conference </H4>
 
-<F P=102> PM2606110294 London THE OBSERVER in English 26 Jun 94 p 26 
+<F P="102"> PM2606110294 London THE OBSERVER in English 26 Jun 94 p 26 
 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2606110294 </F>
-<F P=104>  London THE OBSERVER </F>
-<F P=105>  English </F>
+<F P="103"> PM2606110294 </F>
+<F P="104">  London THE OBSERVER </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "Time for Europe To Search Again"] </F>
+<F P="106"> [Editorial: "Time for Europe To Search Again"] </F>
   [Text] For once the British may be right in standing alone 
 in Europe. 
   John Major's refusal to compromise over the choice of a new 
@@ -15989,24 +15990,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Major Uses EC Veto To Block French-German Plan </TI></H3>
-<HT><F P=107><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
 <H4>    Editorial Praises Major </H4>
 
-<F P=102> PM2706120694 London THE TIMES in English 27 Jun 94 p 15 -- 
+<F P="102"> PM2706120694 London THE TIMES in English 27 Jun 94 p 15 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2706120694 </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2706120694 </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "After Corfu"] </F>
+<F P="106"> [Editorial: "After Corfu"] </F>
   [Text] In all the recriminations over the failure of the 
 Corfu summit to pick a successor to Jacques Delors, European 
 leaders should remember two things. First, John Major's veto 
@@ -16088,24 +16089,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Major Uses EC Veto To Block French-German Plan </TI></H3>
-<HT><F P=107><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
 <H4>    Veto Exposes EU Rivalries </H4>
 
-<F P=102> PM2806120294 London THE INDEPENDENT in English 28 Jun 94 p 
+<F P="102"> PM2806120294 London THE INDEPENDENT in English 28 Jun 94 p 
 19 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2806120294 </F>
-<F P=104>  London THE INDEPENDENT </F>
-<F P=105>  English </F>
+<F P="103"> PM2806120294 </F>
+<F P="104">  London THE INDEPENDENT </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Andrew Marr: "Major and the Two-Headed Beast"] </F>
+<F P="106"> [Article by Andrew Marr: "Major and the Two-Headed Beast"] </F>
   [Text] Excellent Politics, Prime Minister: shame about 
 the strategy. Having reminded the country of the British veto, 
 John Major picked the perfect occasion to use it. From his 
@@ -16239,24 +16240,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Major Uses EC Veto To Block French-German Plan </TI></H3>
-<HT><F P=107><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
 <H4>    Corfu Clash Victory for `Larger Europe' </H4>
 
-<F P=102> PM2806130294 London THE TIMES in English 28 Jun 94 p 20 -- 
+<F P="102"> PM2806130294 London THE TIMES in English 28 Jun 94 p 20 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2806130294 </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2806130294 </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by George Brock: "Beware of Europe's Cliques"] </F>
+<F P="106"> [Article by George Brock: "Beware of Europe's Cliques"] </F>
   [Text] Ten years ago this week, Jacques Attali, the 
 unlamented head of the European Bank who was in those days 
 right-hand-man to President Mitterrand, noted the following 
@@ -16361,24 +16362,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Major Uses EC Veto To Block French-German Plan </TI></H3>
-<HT><F P=107><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Major Uses EC Veto To Block French-German Plan </PHRASE></F></HT>
 <H4>    Ireland Urged To Back Sutherland </H4>
 
-<F P=102> PM2806120894 London FINANCIAL TIMES in English 28 Jun 94 p 3 
+<F P="102"> PM2806120894 London FINANCIAL TIMES in English 28 Jun 94 p 3 
 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2806120894 </F>
-<F P=104>  London FINANCIAL TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2806120894 </F>
+<F P="104">  London FINANCIAL TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Tim Coone: "Dublin Pressed To Give Backing for </F>
+<F P="106"> [Report by Tim Coone: "Dublin Pressed To Give Backing for </F>
 Sutherland"] 
   [Text] Dublin -- The Irish government is coming under 
 growing opposition pressure at home to give its backing to Mr 
@@ -16426,23 +16427,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Clarke Offer `Very Tough' on Government Spending </TI></H3>
-<HT><F P=107><PHRASE>    Clarke Offer `Very Tough' on Government Spending </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Clarke Offer `Very Tough' on Government Spending </PHRASE></F></HT>
 
-<F P=102>   PM2406100694 London THE GUARDIAN in English 24 Jan 94 p 2 -- 
+<F P="102">   PM2406100694 London THE GUARDIAN in English 24 Jan 94 p 2 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2406100694 </F>
-<F P=104>  London THE GUARDIAN </F>
-<F P=105>  English </F>
+<F P="103"> PM2406100694 </F>
+<F P="104">  London THE GUARDIAN </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Stephen Bates and Larry Elliott: "Clarke Tries </F>
+<F P="106"> [Article by Stephen Bates and Larry Elliott: "Clarke Tries </F>
 To Clear Path to Tax Cuts"] 
   [Text] Kenneth Clarke, the Chancellor, offered the Cabinet 
 a "very tough remit" on government spending in the coming year 
@@ -16548,23 +16549,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Clarke Welcomes Revised Treasury Report </TI></H3>
-<HT><F P=107><PHRASE>    Clarke Welcomes Revised Treasury Report </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Clarke Welcomes Revised Treasury Report </PHRASE></F></HT>
 
-<F P=102>   PM2906101094 London THE TIMES in English 29 Jun 94 p 1 -- 
+<F P="102">   PM2906101094 London THE TIMES in English 29 Jun 94 p 1 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2906101094 </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2906101094 </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Nicholas Wood and Janet Bush: "Economy on Course </F>
+<F P="106"> [Report by Nicholas Wood and Janet Bush: "Economy on Course </F>
 for Prosperity"] 
   [Text] The Government said yesterday that Britain was on 
 course for a new era of prosperity after the Treasury released a 
@@ -16670,23 +16671,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Popularity Poll Shows Blair Leads Major </TI></H3>
-<HT><F P=107><PHRASE>    Popularity Poll Shows Blair Leads Major </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Popularity Poll Shows Blair Leads Major </PHRASE></F></HT>
 
-<F P=102>   PM2406100894 London THE TIMES in English 24 Jun 94 p 9 -- 
+<F P="102">   PM2406100894 London THE TIMES in English 24 Jun 94 p 9 -- 
 FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2406100894 </F>
-<F P=104>  London THE TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2406100894 </F>
+<F P="104">  London THE TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Peter Riddell: "Labour Leadership Election </F>
+<F P="106"> [Article by Peter Riddell: "Labour Leadership Election </F>
 Poses New Threat to Major"] 
   [Text] The election of Tony Blair as Labour leader would 
 present a big threat to both John Major and Paddy Ashdown, 
@@ -16751,23 +16752,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Netherlands </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Netherlands </F>
 <H3> <TI>   Labor Support for Beckett `Crumbling' </TI></H3>
-<HT><F P=107><PHRASE>    Labor Support for Beckett `Crumbling' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Labor Support for Beckett `Crumbling' </PHRASE></F></HT>
 
-<F P=102>   PM2606100494 London THE SUNDAY TELEGRAPH in English 26 Jun 
+<F P="102">   PM2606100494 London THE SUNDAY TELEGRAPH in English 26 Jun 
 94 p 2 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2606100494 </F>
-<F P=104>  London THE SUNDAY TELEGRAPH </F>
-<F P=105>  English </F>
+<F P="103"> PM2606100494 </F>
+<F P="104">  London THE SUNDAY TELEGRAPH </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Toby Helm, Valerie Elliott: "Beckett Loses Out </F>
+<F P="106"> [Report by Toby Helm, Valerie Elliott: "Beckett Loses Out </F>
 to `Dream Ticket'"] 
   [Text] Support for Margaret Beckett's bid to win the Labour 
 deputy leadership appeared to be crumbling among MPs last night 
@@ -16822,23 +16823,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Ireland </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Ireland </F>
 <H3> <TI>   `Loyalist Terrorists' Target U.S. Ambassador </TI></H3>
-<HT><F P=107><PHRASE>    `Loyalist Terrorists' Target U.S. Ambassador </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Loyalist Terrorists' Target U.S. Ambassador </PHRASE></F></HT>
 
-<F P=102>   LD2606075094 London SUNDAY EXPRESS in English 26 Jun 94 p 1 
+<F P="102">   LD2606075094 London SUNDAY EXPRESS in English 26 Jun 94 p 1 
 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> LD2606075094 </F>
-<F P=104>  London SUNDAY EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> LD2606075094 </F>
+<F P="104">  London SUNDAY EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By William Massie] </F>
+<F P="106"> [By William Massie] </F>
   [Text] Loyalist terrorists have targeted the American 
 ambassador to the Irish Republic, Jean Kennedy Smith. 
   The threat to assassinated President John F. Kennedy's 
@@ -16897,23 +16898,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Ireland </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Ireland </F>
 <H3> <TI>   Ulster Peace Initiatives Fail To Halt Violence </TI></H3>
-<HT><F P=107><PHRASE>    Ulster Peace Initiatives Fail To Halt Violence </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Ulster Peace Initiatives Fail To Halt Violence </PHRASE></F></HT>
 
-<F P=102>   PM2406100294 London THE INDEPENDENT in English 24 Jun 94 p 
+<F P="102">   PM2406100294 London THE INDEPENDENT in English 24 Jun 94 p 
 18 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2406100294 </F>
-<F P=104>  London THE INDEPENDENT </F>
-<F P=105>  English </F>
+<F P="103"> PM2406100294 </F>
+<F P="104">  London THE INDEPENDENT </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Conor Cruise O'Brien: "Desperation of a Deadly </F>
+<F P="106"> [Article by Conor Cruise O'Brien: "Desperation of a Deadly </F>
 `Peace'"] 
   [Text] This week in Belfast, the IRA admitted 
 responsibility for an attack on an RUC [Royal Ulster 
@@ -17052,23 +17053,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Ireland </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Ireland </F>
 <H3> <TI>   Sinn Fein Urges IRA To Call Unilateral Cease-fire </TI></H3>
-<HT><F P=107><PHRASE>    Sinn Fein Urges IRA To Call Unilateral Cease-fire </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sinn Fein Urges IRA To Call Unilateral Cease-fire </PHRASE></F></HT>
 
-<F P=102>   PM2506110694 London FINANCIAL TIMES in English 25 Jun 94 p 
+<F P="102">   PM2506110694 London FINANCIAL TIMES in English 25 Jun 94 p 
 1-- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2506110694 </F>
-<F P=104>  London FINANCIAL TIMES </F>
-<F P=105>  English </F>
+<F P="103"> PM2506110694 </F>
+<F P="104">  London FINANCIAL TIMES </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by Tim Coone: "Sinn Fein Supporters Warm to </F>
+<F P="106"> [Report by Tim Coone: "Sinn Fein Supporters Warm to </F>
 Ceasefire"] 
   [Text] Dublin -- Sinn Fein, the political wing of the IRA, 
 says that almost 40 per cent of submissions made to its Peace 
@@ -17132,17 +17133,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   Kohl Optimistic About Finding Successor for Delors </TI></H3>
-<HT><F P=107><PHRASE>    Kohl Optimistic About Finding Successor for Delors </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Kohl Optimistic About Finding Successor for Delors </PHRASE></F></HT>
 
-<F P=102>   AU2906110194 Hamburg DPA in German 1012 GMT 29 Jun 94 -- FOR 
+<F P="102">   AU2906110194 Hamburg DPA in German 1012 GMT 29 Jun 94 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2906110194 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2906110194 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -17179,17 +17180,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   CDU Warns SPD Against Alliance With PDS </TI></H3>
-<HT><F P=107><PHRASE>    CDU Warns SPD Against Alliance With PDS </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    CDU Warns SPD Against Alliance With PDS </PHRASE></F></HT>
 
-<F P=102>   AU2806131094 Hamburg DPA in German 1106 GMT 28 Jun 94--FOR 
+<F P="102">   AU2806131094 Hamburg DPA in German 1106 GMT 28 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2806131094 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2806131094 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -17257,17 +17258,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Germany </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Germany </F>
 <H3> <TI>   SPD, Greens Form Minority Government in Saxony Anhalt </TI></H3>
-<HT><F P=107><PHRASE>    SPD, Greens Form Minority Government in Saxony Anhalt </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    SPD, Greens Form Minority Government in Saxony Anhalt </PHRASE></F></HT>
 
-<F P=102>   AU2806120794 Hamburg DPA in German 1103 GMT 28 Jun 94--FOR 
+<F P="102">   AU2806120794 Hamburg DPA in German 1103 GMT 28 Jun 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> AU2806120794 </F>
-<F P=104>  Hamburg DPA </F>
-<F P=105>  German </F>
+<F P="103"> AU2806120794 </F>
+<F P="104">  Hamburg DPA </F>
+<F P="105">  German </F>
 
 
 <TEXT>
@@ -17295,23 +17296,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Spain </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Spain </F>
 <H3> <TI>   No Increase in Defense Spending in Next 3 Years </TI></H3>
-<HT><F P=107><PHRASE>    No Increase in Defense Spending in Next 3 Years </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    No Increase in Defense Spending in Next 3 Years </PHRASE></F></HT>
 
-<F P=102>   PM2406142094 Madrid EL PAIS in Spanish 22 Jun 94 p 23 -- FOR 
+<F P="102">   PM2406142094 Madrid EL PAIS in Spanish 22 Jun 94 p 23 -- FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> PM2406142094 </F>
-<F P=104>  Madrid EL PAIS </F>
-<F P=105>  Spanish </F>
+<F P="103"> PM2406142094 </F>
+<F P="104">  Madrid EL PAIS </F>
+<F P="105">  Spanish </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by "M.G.": "Defense Ministry Admits That Military </F>
+<F P="106"> [Report by "M.G.": "Defense Ministry Admits That Military </F>
 Expenditure Will Not Rise Over Next Three Years"] 
   [Excerpt] Madrid -- Secretary of State for Defense Antoni 
 Flos admitted in Congress yesterday that his ministry's budget 
@@ -17355,23 +17356,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Sweden </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Sweden </F>
 <H3> <TI>   Role of Small Parties in Election Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Role of Small Parties in Election Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Role of Small Parties in Election Viewed </PHRASE></F></HT>
 
-<F P=102>   94EN0389A Stockholm VECKANS AFFARER in Swedish 30 May 94 pp 
+<F P="102">   94EN0389A Stockholm VECKANS AFFARER in Swedish 30 May 94 pp 
 48-49 -- FOR OFFICIAL USE ONLY </F>
 
-<F P=103> 94EN0389A </F>
-<F P=104>  Stockholm VECKANS AFFARER </F>
-<F P=105>  Swedish </F>
+<F P="103"> 94EN0389A </F>
+<F P="104">  Stockholm VECKANS AFFARER </F>
+<F P="105">  Swedish </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Ann-Leena Mikiver and Ragnar Roos: "Tactical </F>
+<F P="106"> [Article by Ann-Leena Mikiver and Ragnar Roos: "Tactical </F>
 Voters Will Decide Election"] 
   [Text] This fall's election will be decided by the small 
 parties. With four parties hovering around the 4-percent 
@@ -17585,14 +17586,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   WEU Asks East European States To Help in Rwanda </TI></H3>
-<HT><F P=107><PHRASE>    WEU Asks East European States To Help in Rwanda </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    WEU Asks East European States To Help in Rwanda </PHRASE></F></HT>
 
-<F P=102>   AU2906171294 Paris AFP in English 1657 GMT 29 Jun 94 </F>
-<F P=103> AU2906171294 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2906171294 Paris AFP in English 1657 GMT 29 Jun 94 </F>
+<F P="103"> AU2906171294 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17633,15 +17634,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   OECD Issues Semi-Annual Economic Outlook Report </TI></H3>
-<HT><F P=107><PHRASE>    OECD Issues Semi-Annual Economic Outlook Report </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    OECD Issues Semi-Annual Economic Outlook Report </PHRASE></F></HT>
 <H4>    Summarizes 1994-95 Projections </H4>
 
-<F P=102> AU3006080194 Paris AFP in English 0246 GMT 30 Jun 94 </F>
-<F P=103> AU3006080194 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102"> AU3006080194 Paris AFP in English 0246 GMT 30 Jun 94 </F>
+<F P="103"> AU3006080194 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17823,15 +17824,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   OECD Issues Semi-Annual Economic Outlook Report </TI></H3>
-<HT><F P=107><PHRASE>    OECD Issues Semi-Annual Economic Outlook Report </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    OECD Issues Semi-Annual Economic Outlook Report </PHRASE></F></HT>
 <H4>    Pressure on Yen Weakens Japanese Recovery </H4>
 
-<F P=102> AU3006075794 Paris AFP in English 0300 GMT 30 Jun 94 </F>
-<F P=103> AU3006075794 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102"> AU3006075794 Paris AFP in English 0300 GMT 30 Jun 94 </F>
+<F P="103"> AU3006075794 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17926,14 +17927,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Sees High Growth, Inflation in PRC </TI></H3>
-<HT><F P=107><PHRASE>    Sees High Growth, Inflation in PRC </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sees High Growth, Inflation in PRC </PHRASE></F></HT>
 
-<F P=102>   AU3006080594 Paris AFP in English 0302 GMT 30 Jun 94 </F>
-<F P=103> AU3006080594 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU3006080594 Paris AFP in English 0302 GMT 30 Jun 94 </F>
+<F P="103"> AU3006080594 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18016,14 +18017,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Inflation `Main Risk' for Asia </TI></H3>
-<HT><F P=107><PHRASE>    Inflation `Main Risk' for Asia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Inflation `Main Risk' for Asia </PHRASE></F></HT>
 
-<F P=102>   AU3006081094 Paris AFP in English 0305 GMT 30 Jun 94 </F>
-<F P=103> AU3006081094 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU3006081094 Paris AFP in English 0305 GMT 30 Jun 94 </F>
+<F P="103"> AU3006081094 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18112,14 +18113,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Sees Slow Progress in East Europe </TI></H3>
-<HT><F P=107><PHRASE>    Sees Slow Progress in East Europe </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sees Slow Progress in East Europe </PHRASE></F></HT>
 
-<F P=102>   AU3006080894 Paris AFP in English 0250 GMT 30 Jun 94 </F>
-<F P=103> AU3006080894 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU3006080894 Paris AFP in English 0250 GMT 30 Jun 94 </F>
+<F P="103"> AU3006080894 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18207,20 +18208,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Russian Marshal Criticizes Partnership for Peace, NATO </TI></H3>
-<HT><F P=107><PHRASE>    Russian Marshal Criticizes Partnership for Peace, NATO </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russian Marshal Criticizes Partnership for Peace, NATO </PHRASE></F></HT>
 
-<F P=102>   BR2906150794 Paris LE FIGARO in French 29 Jun 94 p 4 </F>
-<F P=103> BR2906150794 </F>
-<F P=104>  Paris LE FIGARO </F>
-<F P=105>  French </F>
+<F P="102">   BR2906150794 Paris LE FIGARO in French 29 Jun 94 p 4 </F>
+<F P="103"> BR2906150794 </F>
+<F P="104">  Paris LE FIGARO </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report on interview with Russian Marshal Yevgeniy </F>
+<F P="106"> [Report on interview with Russian Marshal Yevgeniy </F>
 Shaposhnikov by Laure Mandeville in Paris on the occasion of the 
 "Eurosatory" land-based weapons fair; date not given: "Russia 
 Has Made Too Many Concessions to NATO"] 
@@ -18357,14 +18358,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   European Court Rejects EU Appeal on FYROM Embargo </TI></H3>
-<HT><F P=107><PHRASE>    European Court Rejects EU Appeal on FYROM Embargo </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    European Court Rejects EU Appeal on FYROM Embargo </PHRASE></F></HT>
 
-<F P=102>   AU2906154694 Paris AFP in English 1536 GMT 29 Jun 94 </F>
-<F P=103> AU2906154694 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU2906154694 Paris AFP in English 1536 GMT 29 Jun 94 </F>
+<F P="103"> AU2906154694 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18395,14 +18396,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTER-EUROPEAN AFFAIRS </F>
+<F P="100"> INTER-EUROPEAN AFFAIRS </F>
 <H3> <TI>   Commission Comments on Ruling </TI></H3>
-<HT><F P=107><PHRASE>    Commission Comments on Ruling </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commission Comments on Ruling </PHRASE></F></HT>
 
-<F P=102>   AU3006102394 Paris AFP in English 0926 GMT 30 Jun 94 </F>
-<F P=103> AU3006102394 </F>
-<F P=104>  Paris AFP </F>
-<F P=105>  English </F>
+<F P="102">   AU3006102394 Paris AFP in English 0926 GMT 30 Jun 94 </F>
+<F P="103"> AU3006102394 </F>
+<F P="104">  Paris AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18447,3 +18448,4 @@ of the Court. [passage omitted]
 
 </DOC>
 
+</root>

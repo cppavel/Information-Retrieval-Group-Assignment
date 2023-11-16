@@ -1,3 +1,4 @@
+<root>
 <DOC>
 <DOCNO> FBIS3-61008 </DOCNO>
 <HT>  "jpuac001___94006" </HT>
@@ -12,20 +13,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 2, February 1993 </ABS>
 <DATE1>   3 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Beginnings of Kazakh Air Forces Considered Promising </TI></H3>
-<F P=102>  93UM0679F Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
+<F P="102">  93UM0679F Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
 Feb 93 (signed to press 9 Feb 92) pp 32-33 </F>
 
-<F P=103> 93UM0679F </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 93UM0679F </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lieutenant-Colonel M. Syrtlanov under the rubric </F>
+<F P="106"> [Article by Lieutenant-Colonel M. Syrtlanov under the rubric </F>
 "Military Reform: In the Air Forces of Commonwealth Countries": 
 "The Virgin Skies of Kazakhstan"] 
   [Text] Judging by the constructive solutions to economic 
@@ -173,20 +174,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 2, February 1993 </ABS>
 <DATE1>   3 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     GEO-IK Satellite System for Research and Geodesic Support </TI></H3>
-<F P=102>  93UM0679G Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
+<F P="102">  93UM0679G Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
 Feb 93 (signed to press 9 Feb 92) pp 38-39 </F>
 
-<F P=103> 93UM0679G </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 93UM0679G </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Colonel Yu. Rusakov and Colonel V. Gorev under </F>
+<F P="106"> [Article by Colonel Yu. Rusakov and Colonel V. Gorev under </F>
 the rubric "Space Science--For the National Economy": "The Space 
 Geodesist"] 
   [Text] Geodesy is the science of the Earth, studying its 
@@ -266,21 +267,21 @@ order to calculate the coordinates of the latter, it is
 sufficient to measure simultaneously, and in a uniform system, 
 the coordinates of the vertical and horizontal angles to the 
 satellite at no fewer than two positions. The solid angles 
-&agr;&lt;inf&gt; 1&lt;/inf&gt; , &agr;&lt;inf&gt; 2&lt;/inf&gt; , &bgr;&lt;inf&gt; 1&lt;/inf&gt; , 
-&bgr;&lt;inf&gt; 2&lt;/inf&gt; , &ggr;&lt;inf&gt; 1&lt;/inf&gt; , &ggr;&lt;inf&gt; 2&lt;/inf&gt; , 
-&dgr;&lt;inf&gt; 1&lt;/inf&gt;  and &dgr;&lt;inf&gt; 2&lt;/inf&gt;  are computed according to 
-them. The points S&lt;inf&gt; i&lt;/inf&gt;  and S&lt;inf&gt; 2&lt;/inf&gt;  are then 
-obtained by solving the triangles ABS&lt;inf&gt; 1&lt;/inf&gt;  and 
-ABS&lt;inf&gt; 2&lt;/inf&gt; , and the coordinates of the unknown points C 
-and D from the shape S&lt;inf&gt; 1&lt;/inf&gt;  S&lt;inf&gt; 2&lt;/inf&gt;  CD. It is 
+ agr; lt;inf gt; 1 lt;/inf gt; ,  agr; lt;inf gt; 2 lt;/inf gt; ,  bgr; lt;inf gt; 1 lt;/inf gt; , 
+ bgr; lt;inf gt; 2 lt;/inf gt; ,  ggr; lt;inf gt; 1 lt;/inf gt; ,  ggr; lt;inf gt; 2 lt;/inf gt; , 
+ dgr; lt;inf gt; 1 lt;/inf gt;  and  dgr; lt;inf gt; 2 lt;/inf gt;  are computed according to 
+them. The points S lt;inf gt; i lt;/inf gt;  and S lt;inf gt; 2 lt;/inf gt;  are then 
+obtained by solving the triangles ABS lt;inf gt; 1 lt;/inf gt;  and 
+ABS lt;inf gt; 2 lt;/inf gt; , and the coordinates of the unknown points C 
+and D from the shape S lt;inf gt; 1 lt;/inf gt;  S lt;inf gt; 2 lt;/inf gt;  CD. It is 
 necessary to have a minimum of three initial points and two 
 observations of the target position from above for a more 
 reliable determination of the coordinates of an aperture sight. 
 The data are processed using the least-squares method. 
 
-<FIG ID=JPRS-UAC-001C-17A>           Figure </FIG>
+<FIG ID="JPRS-UAC-001C-17A">           Figure </FIG>
 
-&lt;/graphic&gt; 
+ lt;/graphic gt; 
 
   Optical (angular and rangefinder) as well as radio 
 (rangefinder, Doppler) systems measuring the position of the 
@@ -309,13 +310,13 @@ processing of special information and an observation point (up
 to 80 points on the entire Earth's surface). 
   The spacecraft are placed in circular orbits 1,500 
 kilometers 
-high, with an inclination of 74&deg; or 83&deg;, by a Tsiklon 
+high, with an inclination of 74 deg; or 83 deg;, by a Tsiklon 
 launch vehicle from the Plesetsk cosmodrome. The distance 
 between the reference points is up to 6,000 km. The support zone 
 is the entire surface of the Earth, including the polar regions. 
 The craft is equipped with a gravitational orientation and 
 stabilization system, a system for light signaling, angular 
-reflectors with an effective area of 0.024 m&lt;sup&gt; 2&lt;/sup&gt;  and a 
+reflectors with an effective area of 0.024 m lt;sup gt; 2 lt;/sup gt;  and a 
 radio system, including a radio altimeter (accuracy of 
 measurement of altitude to sea level of 3--5 meters), a Doppler 
 system and a transmitter for the rangefinder polling system. 
@@ -345,7 +346,7 @@ geodesic referencing of islands). Gravimetric surveying using
 spacecraft considerably accelerates the study of the Earth's 
 gravitational field. 
 
-<FIG ID=JPRS-UAC-001C-19A>           The GEO-IK spacecraft system </FIG>
+<FIG ID="JPRS-UAC-001C-19A">           The GEO-IK spacecraft system </FIG>
 
 
 
@@ -365,7 +366,7 @@ currently in orbit. The launch of the Gravsat-A and Gravsat-B,
 which should provide for the measurement of parameters of the 
 field with a precision of 0.1 meters for the height of the geoid 
 and the determination of the acceleration of the field of 
-gravity with a precision of 1 mgal (0.001 cm/sec&lt;sup&gt; 2&lt;/sup&gt; ), 
+gravity with a precision of 1 mgal (0.001 cm/sec lt;sup gt; 2 lt;/sup gt; ), 
 is planned to study the fine structure of the Earth's 
 gravitational field. 
   Navigational spacecraft are also used to develop the 
@@ -391,20 +392,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 2, February 1993 </ABS>
 <DATE1>   3 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     History of Soviet Lunar Program After N1-L3 </TI></H3>
-<F P=102>  93UM0679H Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
+<F P="102">  93UM0679H Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
 Feb 93 (signed to press 9 Feb 92) pp 42-44 </F>
 
-<F P=103> 93UM0679H </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 93UM0679H </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by I. Afanasyev under the rubric "By Reader </F>
+<F P="106"> [Article by I. Afanasyev under the rubric "By Reader </F>
 Request": "The `Lunar Theme' After N1-L3"] 
   [Text] Readers of our journal who have become 
 familiar with the N1-L3 project (AVIATSIYA I KOSMONAVTIKA No. 12 
@@ -533,7 +534,7 @@ access to the control instruments but also a good view, easing
 the choice of landing site. The separation of the OB and the 
 departure of the SA from it occurred when approaching the Earth. 
 
-<FIG ID=JPRS-UAC-001C-21A>           N-1F, Vulkan and Energiya </FIG>
+<FIG ID="JPRS-UAC-001C-21A">           N-1F, Vulkan and Energiya </FIG>
 
 
 
@@ -574,7 +575,7 @@ tonnes of force in each of them, in which all of the advanced
 ideas in the realm of engine building and the great experience 
 of the GDL-OKB that he came from would be employed. 
 
-<FIG ID=JPRS-UAC-001C-22A>           Lunar expeditionary craft </FIG>
+<FIG ID="JPRS-UAC-001C-22A">           Lunar expeditionary craft </FIG>
 
 
 
@@ -703,17 +704,17 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 2, February 1993 </ABS>
 <DATE1>   3 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Articles Not Translated </TI></H3>
-<F P=102>  00000000 Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
+<F P="102">  00000000 Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
 Feb 93 (signed to press 9 Feb 92) </F>
 
-<F P=103> 00000000 </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 00000000 </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
   [Text] 
@@ -755,17 +756,17 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 2, February 1993 </ABS>
 <DATE1>   3 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Publication Data </TI></H3>
-<F P=102>  93UM0679J Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
+<F P="102">  93UM0679J Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
 Feb 93 (signed to press 9 Feb 92) </F>
 
-<F P=103> 93UM0679J </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 93UM0679J </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
   [Text] 
@@ -795,20 +796,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 2, February 1993 </ABS>
 <DATE1>   3 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Major-General Yanakov on Future of Air Forces Schools </TI></H3>
-<F P=102>  93UM0679A Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
+<F P="102">  93UM0679A Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 2, 
 Feb 93 (signed to press 9 Feb 92) pp 2-4 </F>
 
-<F P=103> 93UM0679A </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 93UM0679A </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Major-General of Aviation Ya. Yanakov under the </F>
+<F P="106"> [Article by Major-General of Aviation Ya. Yanakov under the </F>
 rubric "Military Reform and Higher Educational Institutions": 
 "The Five-Year Plan--Pluses and Minuses"] 
   [Text] The higher military aviation schools for 
@@ -1162,20 +1163,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Long-Range Cruise Missiles Launched Successfully From Tu-160 </TI></H3>
-<F P=102>  94UM0004A Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004A Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) pp 4-7 </F>
 
-<F P=103> 94UM0004A </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004A </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Colonel S. Valchenko under the rubric "For High </F>
+<F P="106"> [Article by Colonel S. Valchenko under the rubric "For High </F>
 Combat Readiness": "Resurrection--The Tu-160 is Part of 
 the Russian Air Forces!"] 
   [Text] The crew of a Tu-160 supersonic missile 
@@ -1387,20 +1388,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     More Intelligent Thrust to Accident Prevention Proposed </TI></H3>
-<F P=102>  94UM0004B Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004B Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) pp 8-9 </F>
 
-<F P=103> 94UM0004B </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004B </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Colonel-General Ye. Rusanov, chief of the </F>
+<F P="106"> [Article by Colonel-General Ye. Rusanov, chief of the </F>
 Aviation Flight Safety Service [SBP] of the Armed Forces of the 
 Russian Federation, under the rubric "Flight Safety: Experience, 
 Analysis, Problems": "Thousands of Dangerous Situations..."] 
@@ -1603,21 +1604,21 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     New Engine Diagnostics System Uses 'Black Box' to Track 
 Parameters </TI></H3>
-<F P=102>  94UM0004C Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004C Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) pp 10-11 </F>
 
-<F P=103> 94UM0004C </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004C </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Candidate of Technical Sciences </F>
+<F P="106"> [Article by Candidate of Technical Sciences </F>
 Lieutenant-Colonel G. German, Captain V. Velenteyenko, chief of 
 a routine TECh [technical-maintenance unit] operations group of 
 an air regiment, and Candidate of Technical Sciences Colonel 
@@ -1699,7 +1700,7 @@ aircraft engine electrical regulator, constitutes the system of
 ground monitoring of aircraft and engine parameters (SNK-SD). A 
 diagram is presented in Fig. 1. 
 
-<FIG ID=JPRS-UAC-002C-05A>           Fig. 1. Diagram of the SNK-SD ground monitoring system </FIG>
+<FIG ID="JPRS-UAC-002C-05A">           Fig. 1. Diagram of the SNK-SD ground monitoring system </FIG>
 
 
 
@@ -1744,7 +1745,7 @@ specially developed control programs. An external view of the
 ground units of the system and the places to connect them to the 
 aircraft is shown in Fig. 2. 
 
-<FIG ID=JPRS-UAC-002C-05B>           Fig. 2. Composition of the SNK-SD system </FIG>
+<FIG ID="JPRS-UAC-002C-05B">           Fig. 2. Composition of the SNK-SD system </FIG>
 
 
 
@@ -1856,21 +1857,21 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Russian Flight-Testing Procedures, Duration Compared to 
 American </TI></H3>
-<F P=102>  94UM0004D Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004D Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) pp 16-19 </F>
 
-<F P=103> 94UM0004D </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004D </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Honored Test Pilot of the USSR Major-General of </F>
+<F P="106"> [Article by Honored Test Pilot of the USSR Major-General of </F>
 Aviation (Retired) A. Maucharov and Candidate of Technical 
 Sciences A. Lapin under the rubric "The Floor to the Test 
 Pilots": "A Good Aircraft Means a Well-Tested One"] 
@@ -2299,20 +2300,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Zenit Reconnaissance Satellites Described </TI></H3>
-<F P=102>  94UM0004E Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004E Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) pp 41-42 </F>
 
-<F P=103> 94UM0004E </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004E </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yuriy Mikhaylovich Frumkin under the rubric </F>
+<F P="106"> [Article by Yuriy Mikhaylovich Frumkin under the rubric </F>
 "Without the `Secret' Stamp": "The First Reconnaissance 
 Satellite"] 
   [Text] Up until recently, only specialists knew that 
@@ -2366,7 +2367,7 @@ Vostok spacecraft. Despite their outward similarity (they were
 developed at roughly the same time), however, they have 
 substantial differences (Fig. 1). 
 
-<FIG ID=JPRS-UAC-002C-11A>           Fig. 1. Specific features of the structural </FIG>
+<FIG ID="JPRS-UAC-002C-11A">           Fig. 1. Specific features of the structural </FIG>
 
 
 
@@ -2487,7 +2488,7 @@ nonetheless made it possible to solve this problem.
 instrument section and a descent section with dimensions close 
 to those of the Vostok spacecraft. 
 
-<FIG ID=JPRS-UAC-002C-12A>           Fig. 2. Zenit-2 spacecraft </FIG>
+<FIG ID="JPRS-UAC-002C-12A">           Fig. 2. Zenit-2 spacecraft </FIG>
 
 
 
@@ -2553,31 +2554,31 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Interkosmos-25 Satellite Pair Studies Ionosphere, 
 Magnetosphere </TI></H3>
-<F P=102>  94UM0004F Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004F Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) pp 45-46 </F>
 
-<F P=103> 94UM0004F </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004F </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Colonel V. Glebov under the rubric "Under the </F>
+<F P="106"> [Article by Colonel V. Glebov under the rubric "Under the </F>
 'Interkosmos' Program": "A Plasma Experiment"] 
   [Text] The Interkosmos-25 (IK-25) satellite, with orbital 
 parameters of apogee 3,083 km [kilometers], perigee 440 km and 
-inclination 82.5&deg;, was launched into orbit from Russia's 
+inclination 82.5 deg;, was launched into orbit from Russia's 
 Plesetsk cosmodrome using a Tsiklon launch vehicle on 18 
 December 1991. The mass of the spacecraft is 1,350 kg 
 [kilograms], and the instruments and scientific gear 340 kg. 
   The dampening, orientation and stabilization system provides 
 three-axis orientation in an orbital system of coordinates with 
-a precision of 25&deg; along the pitch axis and 10&deg; on the 
+a precision of 25 deg; along the pitch axis and 10 deg; on the 
 roll and yaw axes. 
   The goal of the launch is to conduct an active plasma 
 experiment (APEKS) for the scientists of various countries, in 
@@ -2713,20 +2714,20 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Brief Survey of U.S. Imaging Reconnaissance Satellites </TI></H3>
-<F P=102>  94UM0004G Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004G Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) pp 46-47 </F>
 
-<F P=103> 94UM0004G </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004G </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Candidate of Technical Sciences S. Baskov, </F>
+<F P="106"> [Article by Candidate of Technical Sciences S. Baskov, </F>
 Candidate of Technical Sciences A. Dubovoy and A. Kachekan 
 (experts from the Association of Practitioners of Space Science) 
 under the rubric "Space Science Abroad": "Imaging 
@@ -2785,7 +2786,7 @@ at the National Photographic Interpretation Center in
 Washington, part of the CIA. 
   The KH-11 satellites were launched by Titan-3D and Titan-34D 
 launch vehicles into heliosynchronous orbits with parameters of 
-inclination 96.2--97.8&deg;, altitude at apogee 500--1,000 km 
+inclination 96.2--97.8 deg;, altitude at apogee 500--1,000 km 
 and perigee 210--350 km, which allows the satellites to reach 
 the areas being monitored at a time that is optimal in the 
 lighting conditions of the Earth's surface. 
@@ -2795,7 +2796,7 @@ in a photographing strip of 2.8 x 2.8 km, and 0.5--1.7 meters in
 a strip of 90 x 120 km. These resolution values are potential, 
 and they can be obtained only under ideal surveillance 
 conditions (illumination of the Earth's surface of more than 950 
-W/m&lt;sup&gt; 2&lt;/sup&gt;  and insignificant effects of atmospheric 
+W/m lt;sup gt; 2 lt;/sup gt;  and insignificant effects of atmospheric 
 turbulence) and at absolute values of optical contrast. It was 
 unsuited, at the same time, for the receipt of photographs at 
 night. Cloud cover, which made the surveillance of the territory 
@@ -2852,17 +2853,17 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Articles Not Translated </TI></H3>
-<F P=102>  00000000 Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  00000000 Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) </F>
 
-<F P=103> 00000000 </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 00000000 </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
   [Text] 
@@ -2908,17 +2909,17 @@ Document Title:Central Eurasia
 
 <ABS>  AVIATION AND COSMONAUTICS No 3, March 1993 </ABS>
 <DATE1>   12 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     Publication Data </TI></H3>
-<F P=102>  94UM0004I Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
+<F P="102">  94UM0004I Moscow AVIATSIYA I KOSMONAVTIKA in Russian No 3, 
 Mar 93 (signed to press 4 Mar 93) </F>
 
-<F P=103> 94UM0004I </F>
-<F P=104>  Moscow AVIATSIYA I KOSMONAVTIKA </F>
+<F P="103"> 94UM0004I </F>
+<F P="104">  Moscow AVIATSIYA I KOSMONAVTIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
   [Text] 
@@ -2948,19 +2949,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> ARMED FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> ARMED FORCES </F>
 <H3> <TI>   Siberian MD: Impact of Incoming Withdrawal Units </TI></H3>
-<F P=102>  94UM0123A Moscow KRASNAYA ZVEZDA in Russian 15 Dec 93 p 2 </F>
-<F P=103> 94UM0123A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0123A Moscow KRASNAYA ZVEZDA in Russian 15 Dec 93 p 2 </F>
+<F P="103"> 94UM0123A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Colonel-General Viktor Andreyevich Kopylov, </F>
+<F P="106"> [Interview with Colonel-General Viktor Andreyevich Kopylov, </F>
 commander, Siberian Military District, by KRASNAYA ZVEZDA 
 correspondent Aleksandr Veklich: "Siberian MD: Officer 
 Companies, Officer Battalions"; date and place not given; first 
@@ -3139,19 +3140,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> POLICY </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> POLICY </F>
 <H3> <TI>   RF Security Council: View From Inside </TI></H3>
-<F P=102>  94UM0133A Moscow SYN OTECHESTVA in Russian No 49, Dec 93 p 4 </F>
-<F P=103> 94UM0133A </F>
-<F P=104>  Moscow SYN OTECHESTVA </F>
+<F P="102">  94UM0133A Moscow SYN OTECHESTVA in Russian No 49, Dec 93 p 4 </F>
+<F P="103"> 94UM0133A </F>
+<F P="104">  Moscow SYN OTECHESTVA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Valeriy Leonidovich Manilov, Russian </F>
+<F P="106"> [Interview with Valeriy Leonidovich Manilov, Russian </F>
 Federation Security Council deputy secretary, by SYN OTECHESTVA 
 correspondent; date, place and occasion not specified; under 
 rubric "Russia's Vital Interests"; photo of Manilov included] 
@@ -3383,21 +3384,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> GROUND TROOPS </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> GROUND TROOPS </F>
 <H3> <TI>   Aviation Command/Control in Combined-Arms Operation </TI></H3>
-<F P=102>  94UM0131A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
+<F P="102">  94UM0131A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
 (signed to press 16 Jul 93) pp 24-27 </F>
 
-<F P=103> 94UM0131A </F>
-<F P=104>  Moscow VOYENNYY VESTNIK </F>
+<F P="103"> 94UM0131A </F>
+<F P="104">  Moscow VOYENNYY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lt Col V. Sharnauskas: "Aviation Command and </F>
+<F P="106"> [Article by Lt Col V. Sharnauskas: "Aviation Command and </F>
 Control in Combined-Arms (Operations)"] 
   [Text] Army Aviation is rightfully considered the most 
 mobile arm of the Ground Troops and moreover possesses a high 
@@ -3450,7 +3451,7 @@ operational-tactical computational tasks.
   Thus, communications equipment at the army-division echelon 
 provides high speed in the telegraph and telecode mode at 50-75 
 bits per second, time stability, and information reliability of 
-10&lt;sup&gt; -2&lt;/sup&gt; ...10&lt;sup&gt; -3&lt;/sup&gt; . Is it not a paradox that at 
+10 lt;sup gt; -2 lt;/sup gt; ...10 lt;sup gt; -3 lt;/sup gt; . Is it not a paradox that at 
 the regiment-battalion level, the forward air controller 
 is deprived of equipment for communications with combined-arms 
 subunits, precisely in whose interests aviation is 
@@ -3553,9 +3554,9 @@ a combined-arms (tank) army, a Combat Operations Control Group
 Team [COCT] at a regiment. A structural model of the proposed 
 system of aviation control posts is shown in the diagram. 
 
-<FIG ID=JPRS-UMA-002C-06A>           Structural Model of Proposed System of Aviation Control Posts </FIG>
+<FIG ID="JPRS-UMA-002C-06A">           Structural Model of Proposed System of Aviation Control Posts </FIG>
 
-&lt;/graphic&gt; 
+ lt;/graphic gt; 
 
   Aviation tactical control complexes [ATCC] can make a 
 significant contribution to increasing the effectiveness of 
@@ -3605,21 +3606,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Current State of Black Sea Fleet Conflict </TI></H3>
-<F P=102>  94UM0127B Moscow MOSKOVSKIYE NOVOSTI in Russian No 44, 31 
+<F P="102">  94UM0127B Moscow MOSKOVSKIYE NOVOSTI in Russian No 44, 31 
 Oct 93 p 7b </F>
 
-<F P=103> 94UM0127B </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 94UM0127B </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by military commentator Aleksandr </F>
+<F P="106"> [Article by military commentator Aleksandr </F>
 Zhilin: "Investigation"; "Black Sea Fleet: Actors and 
 Prompters"] 
   [Text] The political crisis that has shaken Russia and 
@@ -3937,19 +3938,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Crew List from Submarine K-129 (Cont) </TI></H3>
-<F P=102>  94UM0125B Moscow KRASNAYA ZVEZDA in Russian 11 Dec 93 p 4 </F>
-<F P=103> 94UM0125B </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0125B Moscow KRASNAYA ZVEZDA in Russian 11 Dec 93 p 4 </F>
+<F P="103"> 94UM0125B </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: "Crew List of Submarine K-129; </F>
+<F P="106"> [Unattributed article: "Crew List of Submarine K-129; </F>
 Conclusion. Beginning Published in Issues for 13 November and 4 
 December 1993"] 
   [Text] 
@@ -4403,19 +4404,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> REAR SERVICES, SUPPORT ISSUES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> REAR SERVICES, SUPPORT ISSUES </F>
 <H3> <TI>   Deputy Chief of GlavKEU on Military Housing </TI></H3>
-<F P=102>  94UM0122A Moscow KRASNAYA ZVEZDA in Russian 15 Dec 93 p 2 </F>
-<F P=103> 94UM0122A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0122A Moscow KRASNAYA ZVEZDA in Russian 15 Dec 93 p 2 </F>
+<F P="103"> 94UM0122A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Colonel Nikolay Filippenko, GlavKEU deputy </F>
+<F P="106"> [Interview with Colonel Nikolay Filippenko, GlavKEU deputy </F>
 chief, Russian Federation, by KRASNAYA ZVEZDA correspondent 
 Yuriy Viktorov: "Apartment Exchange: A Headache for the 
 Military"; date and place not given] 
@@ -4614,19 +4615,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> REAR SERVICES, SUPPORT ISSUES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> REAR SERVICES, SUPPORT ISSUES </F>
 <H3> <TI>   Military Trade Union Work Supporting Servicemen's Rights </TI></H3>
-<F P=102>  94UM0124B Moscow KRASNAYA ZVEZDA in Russian 15 Dec 93 p 1 </F>
-<F P=103> 94UM0124B </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0124B Moscow KRASNAYA ZVEZDA in Russian 15 Dec 93 p 1 </F>
+<F P="103"> 94UM0124B </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lieutenant Colonel Ivan Ivanyuk: "Wage Agreement </F>
+<F P="106"> [Article by Lieutenant Colonel Ivan Ivanyuk: "Wage Agreement </F>
 in Army Conditions: Still More Problems Than Solutions"] 
   [Text] This year has been important in a special way for 
 the army trade unions. For the first time, all their work has 
@@ -4791,19 +4792,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> REAR SERVICES, SUPPORT ISSUES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> REAR SERVICES, SUPPORT ISSUES </F>
 <H3> <TI>   Status, Future Needs of Military Air Transport </TI></H3>
-<F P=102>  94UM0121A Moscow KRASNAYA ZVEZDA in Russian 16 Dec 93 p 2 </F>
-<F P=103> 94UM0121A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0121A Moscow KRASNAYA ZVEZDA in Russian 16 Dec 93 p 2 </F>
+<F P="103"> 94UM0121A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Colonel Aleksandr Manushkin: "Will the Ruslan </F>
+<F P="106"> [Article by Colonel Aleksandr Manushkin: "Will the Ruslan </F>
 Stay Up in the Sky? Russia Needs a Program To Develop Military 
 Air Transport"] 
   [Text] It was the third day of flying. The An-124 Ruslan 
@@ -5118,19 +5119,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> INTERREGIONAL MILITARY ISSUES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> INTERREGIONAL MILITARY ISSUES </F>
 <H3> <TI>   Russian-Latvian Talks Stuck on Withdrawal From Skrunda </TI></H3>
-<F P=102>  94UM0125A Moscow KRASNAYA ZVEZDA in Russian 11 Dec 93 p 1 </F>
-<F P=103> 94UM0125A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0125A Moscow KRASNAYA ZVEZDA in Russian 11 Dec 93 p 1 </F>
+<F P="103"> 94UM0125A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Valeriy Gromak: "Russian Radar at Skrunda Is the </F>
+<F P="106"> [Article by Valeriy Gromak: "Russian Radar at Skrunda Is the </F>
 Stumbling Block"] 
   [Text] The regularly scheduled round of Russian-Latvian 
 talks has concluded. During the three days, the draft treaty on 
@@ -5162,21 +5163,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> UKRAINE </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> UKRAINE </F>
 <H3> <TI>   Budget Shortfalls Lead to Commercialization of Military </TI></H3>
-<F P=102>  94UM0127A Moscow MOSKOVSKIYE NOVOSTI in Russian No 45, 7 Nov 
+<F P="102">  94UM0127A Moscow MOSKOVSKIYE NOVOSTI in Russian No 45, 7 Nov 
 93 p 3a </F>
 
-<F P=103> 94UM0127A </F>
-<F P=104>  Moscow MOSKOVSKIYE NOVOSTI </F>
+<F P="103"> 94UM0127A </F>
+<F P="104">  Moscow MOSKOVSKIYE NOVOSTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Aleksandr Zhilin: "Army: Businessmen </F>
+<F P="106"> [Article by Aleksandr Zhilin: "Army: Businessmen </F>
 Command Aviation"] 
   [Text] The grave economic crisis in 
 Ukraine is dealing a tough blow to the Army. It seems that the 
@@ -5240,19 +5241,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> UKRAINE </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> UKRAINE </F>
 <H3> <TI>   Radetskyy on Ukrainian Contribution to CIS Defense </TI></H3>
-<F P=102>  LD2212122393 Moscow ITAR-TASS in English 1147 GMT 22 Dec 93 </F>
-<F P=103> LD2212122393 </F>
-<F P=104>  Moscow ITAR-TASS </F>
+<F P="102">  LD2212122393 Moscow ITAR-TASS in English 1147 GMT 22 Dec 93 </F>
+<F P="103"> LD2212122393 </F>
+<F P="104">  Moscow ITAR-TASS </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By ITAR-TASS special correspondent Vladimir Gondusov] </F>
+<F P="106"> [By ITAR-TASS special correspondent Vladimir Gondusov] </F>
   [Text] Ashgabat December 22 TASS -- "Ukraine will 
 contribute most actively to the work of the Council of Defense 
 Ministers of the Commonwealth of Independent States and plans to 
@@ -5287,21 +5288,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> UKRAINE </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> UKRAINE </F>
 <H3> <TI>   Radetskiy on Changing Stance Toward CIS Joint Forces </TI></H3>
-<F P=102>  LD2212120493 Moscow ITAR-TASS World Service in Russian 1130 
+<F P="102">  LD2212120493 Moscow ITAR-TASS World Service in Russian 1130 
 GMT 22 Dec 93 </F>
 
-<F P=103> LD2212120493 </F>
-<F P=104>  Moscow ITAR-TASS World Service </F>
+<F P="103"> LD2212120493 </F>
+<F P="104">  Moscow ITAR-TASS World Service </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [By ITAR-TASS special correspondent Vladimir Gondusov] </F>
+<F P="106"> [By ITAR-TASS special correspondent Vladimir Gondusov] </F>
   [Text] Ashgabat, 22 December -- Ukraine will be taking the 
 most active part in the work of the CIS Council of Defense 
 Ministers, and is pursuing the goal of having its permanent 
@@ -5332,19 +5333,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> BALTIC STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> BALTIC STATES </F>
 <H3> <TI>   Latvia's Zemessargi Short of Weapons, Munitions </TI></H3>
-<F P=102>  94UM0124A Moscow KRASNAYA ZVEZDA in Russian 16 Dec 93 p 2 </F>
-<F P=103> 94UM0124A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0124A Moscow KRASNAYA ZVEZDA in Russian 16 Dec 93 p 2 </F>
+<F P="103"> 94UM0124A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Valeriy Gromak: "Upset Because There's Just One </F>
+<F P="106"> [Article by Valeriy Gromak: "Upset Because There's Just One </F>
 Grenade for Three--Latvia's Zemessargi Don't Want To Give Up 
 Weapons Even When Off Duty"] 
   [Text] Riga--The ranks of the 
@@ -5390,18 +5391,18 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> CAUCASIAN STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> CAUCASIAN STATES </F>
 <H3> <TI>   Activities of Armenian Military Preparatory School </TI></H3>
-<F P=102>  944K0439C Yerevan HAYASTANI HANRAPETUTYUN in Armenian 15 Oct 
+<F P="102">  944K0439C Yerevan HAYASTANI HANRAPETUTYUN in Armenian 15 Oct 
 93 p 4 </F>
 
-<F P=103> 944K0439C </F>
-<F P=104>  Yerevan HAYASTANI HANRAPETUTYUN </F>
+<F P="103"> 944K0439C </F>
+<F P="104">  Yerevan HAYASTANI HANRAPETUTYUN </F>
 
 
 <TEXT>
-Language: <F P=105> Armenian </F>
+Language: <F P="105"> Armenian </F>
 Article Type:CSO 
 
   [Text] Two years ago the special republican boarding school 
@@ -5451,16 +5452,16 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> CAUCASIAN STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> CAUCASIAN STATES </F>
 <H3> <TI>   Andreasian Replaces Armenian Chief of General Staff </TI></H3>
-<F P=102>  944K0439A Yerevan AZG in Armenian 23 Oct 93 p 1 </F>
-<F P=103> 944K0439A </F>
-<F P=104>  Yerevan AZG </F>
+<F P="102">  944K0439A Yerevan AZG in Armenian 23 Oct 93 p 1 </F>
+<F P="103"> 944K0439A </F>
+<F P="104">  Yerevan AZG </F>
 
 
 <TEXT>
-Language: <F P=105> Armenian </F>
+Language: <F P="105"> Armenian </F>
 Article Type:CSO 
 
   [Text] Yesterday President Levon Ter Petrosian signed a 
@@ -5491,19 +5492,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> CAUCASIAN STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> CAUCASIAN STATES </F>
 <H3> <TI>   Karabakh Commander on Status of Military Forces </TI></H3>
-<F P=102>  944K0440A Yerevan AZG in Armenian 23 Nov 93 p 4 </F>
-<F P=103> 944K0440A </F>
-<F P=104>  Yerevan AZG </F>
+<F P="102">  944K0440A Yerevan AZG in Armenian 23 Nov 93 p 4 </F>
+<F P="103"> 944K0440A </F>
+<F P="104">  Yerevan AZG </F>
 
 
 <TEXT>
-Language: <F P=105> Armenian </F>
+Language: <F P="105"> Armenian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Samvel Babayan, commander of the Armed </F>
+<F P="106"> [Interview with Samvel Babayan, commander of the Armed </F>
 Forces of Nagorno-Karabakh Republic, by correspondent Maksim 
 Hovhannisian] 
   [Excerpts] Samvel Babayan was born in Stepanakert in 1965. 
@@ -5700,22 +5701,22 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> CENTRAL ASIAN STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> CENTRAL ASIAN STATES </F>
 <H3> <TI>   Tajik Opposition Leader: Struggle Against Communists to 
 Continue </TI></H3>
-<F P=102>  PM2312131593 Moscow IZVESTIYA in Russian 23 Dec 93 First 
+<F P="102">  PM2312131593 Moscow IZVESTIYA in Russian 23 Dec 93 First 
 Edition p 2 </F>
 
-<F P=103> PM2312131593 </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="103"> PM2312131593 </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Tajikistan Opposition Leader Haji Akbar </F>
+<F P="106"> [Interview with Tajikistan Opposition Leader Haji Akbar </F>
 Turajonzoda by Arkadiy Dubnov of NOVOYE VREMYA and Dododzhon 
 Atovulloyev of CHAROGI RUZ, for IZVESTIYA: date and place not 
 stated: "Russian Troops Can Stay in Tajikistan, but on Specific 
@@ -5929,21 +5930,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DOCTRINAL ISSUES </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DOCTRINAL ISSUES </F>
 <H3> <TI>   Tactics: Ambush in Modern Conditions </TI></H3>
-<F P=102>  94UM0130A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
+<F P="102">  94UM0130A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
 (signed to press 16 Jul 93) pp 20-23 </F>
 
-<F P=103> 94UM0130A </F>
-<F P=104>  Moscow VOYENNYY VESTNIK </F>
+<F P="103"> 94UM0130A </F>
+<F P="104">  Moscow VOYENNYY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Colonel N. Utkin, candidate of military </F>
+<F P="106"> [Article by Colonel N. Utkin, candidate of military </F>
 sciences: "Ambushes in Modern Conditions"] 
   [Text] Ambushes have not lost their importance. The 
 reduction in the personnel strength of the armed forces and the 
@@ -6129,7 +6130,7 @@ subunits with the aid of barriers, manmade landslides (Figure 2
 
 
 
-<FIG ID=JPRS-UMA-002C-34A>             Figure 1. Organization of ambush based on experience of combat operations in Afghanistan </FIG>
+<FIG ID="JPRS-UMA-002C-34A">             Figure 1. Organization of ambush based on experience of combat operations in Afghanistan </FIG>
 
 
 
@@ -6203,21 +6204,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> FOREIGN MILITARY AFFAIRS </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> FOREIGN MILITARY AFFAIRS </F>
 <H3> <TI>   Grachev: `Pressing Problems of Force Generation, Training' </TI></H3>
-<F P=102>  94UM0128A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
+<F P="102">  94UM0128A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
 (Signed to press 16 Jul 93) pp 9-18 </F>
 
-<F P=103> 94UM0128A </F>
-<F P=104>  Moscow VOYENNYY VESTNIK </F>
+<F P="103"> 94UM0128A </F>
+<F P="104">  Moscow VOYENNYY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Gen Army P. S. Grachev, Russian Federation </F>
+<F P="106"> [Article by Gen Army P. S. Grachev, Russian Federation </F>
 Minister of Defense; reprinted with permission from the editor 
 of the journal VOYENNAYA MYSL: "Urgent Problems in the 
 Development and Training of Russian Armed Forces Today"] 
@@ -6771,19 +6772,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> FOREIGN MILITARY AFFAIRS </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> FOREIGN MILITARY AFFAIRS </F>
 <H3> <TI>   Reform of Turkish Armed Forces </TI></H3>
-<F P=102>  94UM0099A Moscow KRASNAYA ZVEZDA in Russian 24 Nov 93 p 3 </F>
-<F P=103> 94UM0099A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0099A Moscow KRASNAYA ZVEZDA in Russian 24 Nov 93 p 3 </F>
+<F P="103"> 94UM0099A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Colonel Viktor Kostenyuk: "Turkey Bids Farewell </F>
+<F P="106"> [Article by Colonel Viktor Kostenyuk: "Turkey Bids Farewell </F>
 to Infantry Brigades"] 
   [Text] In the new international situation Turkey has ended 
 up in a zone of prolonged military-political instability, ethnic 
@@ -6795,9 +6796,9 @@ security required the Turkish leadership to revise a number of
 provisions of military doctrine and fundamentally reorganize its 
 Army (see diagram for prospective structure). 
 
-<FIG ID=JPRS-UMA-002C-35A>           Flow Chart </FIG>
+<FIG ID="JPRS-UMA-002C-35A">           Flow Chart </FIG>
 
-&lt;/graphic&gt; 
+ lt;/graphic gt; 
 
   Turkey presently has the second largest Armed Forces in 
 NATO, 
@@ -6927,21 +6928,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> FOREIGN MILITARY AFFAIRS </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> FOREIGN MILITARY AFFAIRS </F>
 <H3> <TI>   Japan's Reluctance To Join ABM Development Project Eyed </TI></H3>
-<F P=102>  PM2511131193 Moscow IZVESTIYA in Russian 25 Nov 93 First 
+<F P="102">  PM2511131193 Moscow IZVESTIYA in Russian 25 Nov 93 First 
 Edition p 3 </F>
 
-<F P=103> PM2511131193 </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="103"> PM2511131193 </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Sergey Agafonov report: "United States Forcing New ABM </F>
+<F P="106"> [Sergey Agafonov report: "United States Forcing New ABM </F>
 System on Japan"] 
   [Text] Tokyo -- America's intention to involve the 
 Japanese in the development of a new ABM system to counter 
@@ -7025,21 +7026,21 @@ Document Title:Central Eurasia
 <ABS>  Military Affairs The Motorized Rifle (Tank) Platoon in Battle </ABS>
 
 <DATE1>    10 January 1994 </DATE1>
-<F P=100></F>
+<F P="100"></F>
 <H3> <TI>     The Motorized Rifle (Tank) Platoon in Battle </TI></H3>
-<F P=102>  92UM1060A Moscow MOTOSTRELKOVYY (TANKOVYY) VZVOD V BOYU in 
+<F P="102">  92UM1060A Moscow MOTOSTRELKOVYY (TANKOVYY) VZVOD V BOYU in 
 Russian 1989 (signed to press 7 Apr 89) pp 2-29--FOR OFFICIAL </F>
 
 
 
 <TEXT>
 USE ONLY 
-<F P=103> 92UM1060A </F>
-<F P=104>  Moscow MOTOSTRELKOVYY (TANKOVYY) VZVOD V BOYU </F>
- Language: <F P=105>Russian </F>
+<F P="103"> 92UM1060A </F>
+<F P="104">  Moscow MOTOSTRELKOVYY (TANKOVYY) VZVOD V BOYU </F>
+ Language: <F P="105">Russian </F>
 Article Type:CSO 
 
-<F P=106> [Annotation, foreword, and Chapter 1 of the book "The </F>
+<F P="106"> [Annotation, foreword, and Chapter 1 of the book "The </F>
 Motorized Rifle (Tank) Platoon in Battle," by I.M. Andrusenko, 
 R.G. Dukov, and Yu.R. Fomin, Voyennoye izdatelstvo, Moscow, 
 1989, 70,000 copies, 336 pages, illustrated] 
@@ -7534,7 +7535,7 @@ accomplished to break out to attack the enemy's flank. It is
 done usually in close fire and tactical coordination with 
 subunits operating from the front. 
 
-<FIG ID=JPRS-UMA-001C-06A>           Diagram 1: Types of Maneuver by Subunits in Battle </FIG>
+<FIG ID="JPRS-UMA-001C-06A">           Diagram 1: Types of Maneuver by Subunits in Battle </FIG>
 
 
 
@@ -7559,7 +7560,7 @@ against one important target, timely shifting of fire from one
 target to another, and simultaneous firing by the platoon 
 against several targets (Figure 1). 
 
-<FIG ID=JPRS-UMA-001C-07A>           Figure 1. Types of Maneuver by Fire [CO--Concentrated Fire; MCO--Motorized Rifle </FIG>
+<FIG ID="JPRS-UMA-001C-07A">           Figure 1. Types of Maneuver by Fire [CO--Concentrated Fire; MCO--Motorized Rifle </FIG>
 
 
 
@@ -7672,7 +7673,7 @@ formation of a motorized rifle platoon is used to reduce the
 time for deployment into combat formation and reduce 
 vulnerability to enemy artillery fire and airstrikes. 
 
-<FIG ID=JPRS-UMA-001C-08A>           Figure 2. Approach March Formation of a Motorized Rifle Platoon </FIG>
+<FIG ID="JPRS-UMA-001C-08A">           Figure 2. Approach March Formation of a Motorized Rifle Platoon </FIG>
 
 
 
@@ -7703,14 +7704,14 @@ in the extended line may be up to 100 meters. The combat
 vehicles of reinforcements may operate in the extended line or 
 directly behind it. 
 
-<FIG ID=JPRS-UMA-001C-08B>           Figure 3. Combat Formation of a Motorized Rifle Platoon in an Offensive </FIG>
+<FIG ID="JPRS-UMA-001C-08B">           Figure 3. Combat Formation of a Motorized Rifle Platoon in an Offensive </FIG>
 
 
 
 
 
 
-<FIG ID=JPRS-UMA-001C-08C>             Figure 4. Combat Formation of a Tank Platoon in an Offensive </FIG>
+<FIG ID="JPRS-UMA-001C-08C">             Figure 4. Combat Formation of a Tank Platoon in an Offensive </FIG>
 
 
 
@@ -7723,7 +7724,7 @@ vehicles (armored transport vehicles), and reinforcements.
   The squad combat formation consists of an extended line and 
 the combat vehicle (armored transport vehicle) (Figure 5). 
 
-<FIG ID=JPRS-UMA-001C-09A>           Figure 5. Combat Formation of a Motorized Rifle Squad in an Offensive </FIG>
+<FIG ID="JPRS-UMA-001C-09A">           Figure 5. Combat Formation of a Motorized Rifle Squad in an Offensive </FIG>
 
 
 
@@ -7739,21 +7740,21 @@ fighting vehicles (Figure 6) or armored transport vehicles
 antitank rocket launchers, a sniper rifle, pistols, and hand 
 grenades. 
 
-<FIG ID=JPRS-UMA-001C-09B>           Figure 6. Armored Fighting Vehicle </FIG>
+<FIG ID="JPRS-UMA-001C-09B">           Figure 6. Armored Fighting Vehicle </FIG>
 
 
 
 
 
 
-<FIG ID=JPRS-UMA-001C-09C>             Figure 7. BTR-70 Armored Transport Vehicle </FIG>
+<FIG ID="JPRS-UMA-001C-09C">             Figure 7. BTR-70 Armored Transport Vehicle </FIG>
 
 
 
 
 
 
-<FIG ID=JPRS-UMA-001C-09D>             Figure 8. BTR-80 Armored Transport Vehicle </FIG>
+<FIG ID="JPRS-UMA-001C-09D">             Figure 8. BTR-80 Armored Transport Vehicle </FIG>
 
 
 
@@ -7782,7 +7783,7 @@ enemy tanks at a range of up to 3 km and also deliver effective
 fire against his personnel and weapons. Accommodation of platoon 
 personnel in armored fighting vehicles is shown in Figure 9. 
 
-<FIG ID=JPRS-UMA-001C-10A>           Figure 9. Accommodation of personnel in BMP </FIG>
+<FIG ID="JPRS-UMA-001C-10A">           Figure 9. Accommodation of personnel in BMP </FIG>
 
 
 
@@ -7807,14 +7808,14 @@ nuclear weapons.
   Accommodation of platoon personnel in armored transport 
 vehicles is shown in figures 10 and 11. 
 
-<FIG ID=JPRS-UMA-001C-10B>           Figure 10. Accommodation of personnel in BTR-60PB </FIG>
+<FIG ID="JPRS-UMA-001C-10B">           Figure 10. Accommodation of personnel in BTR-60PB </FIG>
 
 
 
 
 
 
-<FIG ID=JPRS-UMA-001C-10C>             Figure 11. Accommodation of personnel in BTR-70 </FIG>
+<FIG ID="JPRS-UMA-001C-10C">             Figure 11. Accommodation of personnel in BTR-70 </FIG>
 
 
 
@@ -7899,20 +7900,20 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> ARMED FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> ARMED FORCES </F>
 <H3> <TI>   Prospects of Russian National Security in Year 2000 </TI></H3>
 <H4>   Post-Economic Boom--Balanced Conservative Image </H4>
-<F P=102> 94UM0164A Moscow SEGODNYA in Russian No 1, 4 Jan 94 p 7 </F>
-<F P=103> 94UM0164A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102"> 94UM0164A Moscow SEGODNYA in Russian No 1, 4 Jan 94 p 7 </F>
+<F P="103"> 94UM0164A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Sergey Karaganov, deputy director, Russian </F>
+<F P="106"> [Article by Sergey Karaganov, deputy director, Russian </F>
 Academy of Sciences IYe, member, Presidential Council: "The 
 Russian Concept of Security in the Year 2005"] 
   [Text] 
@@ -8050,20 +8051,20 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> ARMED FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> ARMED FORCES </F>
 <H3> <TI>   Prospects of Russian National Security in Year 2000 </TI></H3>
 <H4>   Strongest Army in Europe by Year 2000 </H4>
-<F P=102> 94UM0164B Moscow SEGODNYA in Russian No 1, 4 Jan 94 p 7 </F>
-<F P=103> 94UM0164B </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102"> 94UM0164B Moscow SEGODNYA in Russian No 1, 4 Jan 94 p 7 </F>
+<F P="103"> 94UM0164B </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Pavel Felgengauer: "Moscow's Ultima Ratio (Final </F>
+<F P="106"> [Article by Pavel Felgengauer: "Moscow's Ultima Ratio (Final </F>
 Argument): Volunteer Peacemakers"] 
 <H5>  Fantasy </H5>
   When in the early 1980's the Russian government first had to 
@@ -8174,20 +8175,20 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> ARMED FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> ARMED FORCES </F>
 <H3> <TI>   Prospects of Russian National Security in Year 2000 </TI></H3>
 <H4>   Isolationism, Local (Nuclear) Conflict </H4>
-<F P=102> 94UM0164C Moscow SEGODNYA in Russian No 1, 4 Jan 94 p 7 </F>
-<F P=103> 94UM0164C </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102"> 94UM0164C Moscow SEGODNYA in Russian No 1, 4 Jan 94 p 7 </F>
+<F P="103"> 94UM0164C </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Pavel Flegengauer: "Caucasian War at Center of </F>
+<F P="106"> [Article by Pavel Flegengauer: "Caucasian War at Center of </F>
 World Policy in the Year 2000"] 
 <H5>  Nightmare </H5>
   In the beginning of the new millennium the Caucasus 
@@ -8270,7 +8271,7 @@ then, in May 1995, tanks of the IX Army Corps of the 3d Field
 Army began an offensive from the vicinity of Kars with the 
 support of combat aviation. 
 
-<FIG ID=JPRS-UMA-004C-04A>           P. Felgengauer's War With Turkey (1995-2000) </FIG>
+<FIG ID="JPRS-UMA-004C-04A">           P. Felgengauer's War With Turkey (1995-2000) </FIG>
 
 
 
@@ -8407,19 +8408,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> ARMED FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> ARMED FORCES </F>
 <H3> <TI>   Volga MD Draft `Proceeding Normally' </TI></H3>
-<F P=102>  PM1401101194 Moscow KRASNAYA ZVEZDA in Russian 13 Jan 94 p 2 </F>
-<F P=103> PM1401101194 </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  PM1401101194 Moscow KRASNAYA ZVEZDA in Russian 13 Jan 94 p 2 </F>
+<F P="103"> PM1401101194 </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Colonel-General A. Sergeyev, Commander of </F>
+<F P="106"> [Interview with Colonel-General A. Sergeyev, Commander of </F>
 the Volga Military District, by Oleg Bedula, date and place not 
 given, under the general heading "The Army and Society" and the 
 rubric "Draft 93-94": "If You Haven't Served in the Army You 
@@ -8642,19 +8643,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> POLICY </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> POLICY </F>
 <H3> <TI>   Reflections on Russian Relations with NATO </TI></H3>
-<F P=102>  94UM0156A Moscow KRASNAYA ZVEZDA in Russian 6 Jan 94 p 3 </F>
-<F P=103> 94UM0156A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0156A Moscow KRASNAYA ZVEZDA in Russian 6 Jan 94 p 3 </F>
+<F P="103"> 94UM0156A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Lieutenant General Dmitriy Kharchenko in the </F>
+<F P="106"> [Article by Lieutenant General Dmitriy Kharchenko in the </F>
 column "On the Eve of the Event": "What to Expect from the 
 Brussels Meeting"] 
   [Text] Opening on the 10th of January in Brussels, the 
@@ -8815,10 +8816,10 @@ already effected considerable manpower reduction, and intends to
 proceed in this direction, while the NATO countries are slow in 
 abating their military activity. In a recent session of the 
 bloc's Military Planning Committee, it was pointed out that the 
-last few years have seen a mere 15&percnt; reduction in manpower 
+last few years have seen a mere 15 percnt; reduction in manpower 
 of 
 member countries, while military expenditures still amount to 
-3.2&percnt; of the gross national product. And this in the 
+3.2 percnt; of the gross national product. And this in the 
 absence of 
 a real enemy! 
   But this raises another question. If Russia considers 
@@ -8897,21 +8898,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> AIR, AIR DEFENSE FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> AIR, AIR DEFENSE FORCES </F>
 <H3> <TI>   Specifications, Performance Improvements to SU-25 Variants </TI></H3>
-<F P=102>  94UM0154A Moscow KRYLYA RODINY in Russian No 9, Sep 93 pp 
+<F P="102">  94UM0154A Moscow KRYLYA RODINY in Russian No 9, Sep 93 pp 
 17-19 </F>
 
-<F P=103> 94UM0154A </F>
-<F P=104>  Moscow KRYLYA RODINY </F>
+<F P="103"> 94UM0154A </F>
+<F P="104">  Moscow KRYLYA RODINY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Conclusion of article by Mikhail Levin: "For Rough </F>
+<F P="106"> [Conclusion of article by Mikhail Levin: "For Rough </F>
 Work"; previous parts in KRYLYA RODINY, Nos 7 and 8, 1993] 
   [Text] In Afghanistan in 1982 a pilot was unable to pull 
 out from an attack and the Su-25 "disappeared" into the ground 
@@ -9044,7 +9045,7 @@ took an interest in a multipurpose version of the aircraft with
 an air-to-air combat capability. The OKB is studying that 
 project, assuming that because of the basic Su-25 aircraft's 
 high maneuver characteristics (limit load factor 6.5, unit wing 
-load with normal takeoff weight 433 kg/m&lt;sup&gt; 2&lt;/sup&gt; , 
+load with normal takeoff weight 433 kg/m lt;sup gt; 2 lt;/sup gt; , 
 thrust-to-weight ratio with normal takeoff weight 0.62), its 
 multipurpose version will be able to fight on equal terms with 
 many modern fighters. Demonstration flights of the "Sky Hussars" 
@@ -9069,7 +9070,7 @@ A-10, but also in characteristics. The A-10, for example, has a
 lower thrust-to-weight ratio (0.54 compared with 0.62 in the 
 Su-25 with normal takeoff weight), which degrades the A-10's 
 maneuverability in the vertical plane. The A-10 also has less 
-unit wing load (322 kg/m&lt;sup&gt; 2&lt;/sup&gt;  as against 433, also with 
+unit wing load (322 kg/m lt;sup gt; 2 lt;/sup gt;  as against 433, also with 
 normal takeoff weight). This indicates somewhat better 
 horizontal maneuverability of the A-10, but also lesser accuracy 
 of fire as a result of the aircraft's increased buffeting under 
@@ -9154,8 +9155,8 @@ itself extending up to 150 km beyond the front line.
 ----------------------------------------------------------------------------- 
 |Aircraft height, m|4.80              |4.80              |5.20              | 
 ----------------------------------------------------------------------------- 
-|Wing area, m&lt;sup&gt; 2|30.1              |30.1              |30.1              | 
-|&lt;/sup&gt;             |                  |                  |                  | 
+|Wing area, m lt;sup gt; 2|30.1              |30.1              |30.1              | 
+| lt;/sup gt;             |                  |                  |                  | 
 ----------------------------------------------------------------------------- 
 |Crew              |1                 |1                 |1                 | 
 ----------------------------------------------------------------------------- 
@@ -9246,21 +9247,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   `Navy and Russian National Security' </TI></H3>
-<F P=102>  94UM0147C Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
+<F P="102">  94UM0147C Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
 (signed to press 8 Oct 93) pp 3-6 </F>
 
-<F P=103> 94UM0147C </F>
-<F P=104>  Moscow MORSKOY SBORNIK </F>
+<F P="103"> 94UM0147C </F>
+<F P="104">  Moscow MORSKOY SBORNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Captain 1st Rank Yu. Gavrya, candidate of </F>
+<F P="106"> [Article by Captain 1st Rank Yu. Gavrya, candidate of </F>
 technical sciences; Rear Admiral A. Rudometkin; Captain 1st Rank 
 Yu. Sinchenko, candidate of military sciences; and Captain 1st 
 Rank (Retired) V. Khyaninen, candidate of military sciences, 
@@ -9275,7 +9276,7 @@ intervening in the conflict on Israel's side. In addition, the
 constant presence of our naval forces in politically tense ocean 
 areas permitted deterring the aggressive aspirations of 
 individual states (disruption of the attack on Libya and Angola, 
-prevention of a coup d'&eacute;tat in Guinea and so on). And the 
+prevention of a coup d' eacute;tat in Guinea and so on). And the 
 involvement of ships to ensure security of Persian Gulf shipping 
 during Iran's war against Iraq permitted us to avoid vessel 
 losses. 
@@ -9361,7 +9362,7 @@ navy the Russian Navy will become and whether or not Russia will
 retain the status of a great naval power depends on them. 
 Unfortunately, a careful study of the published draft "Osnovy 
 voyennoy doktriny RF" [Fundamentals of Russian Federation 
-Military Doctrine]&lt;sup&gt; 1&lt;/sup&gt;  shows that despite recognition 
+Military Doctrine] lt;sup gt; 1 lt;/sup gt;  shows that despite recognition 
 of the fact that an invasion most probably may begin from the 
 sea, the role of the Navy in repelling it essentially is not 
 covered; somewhat more attention is given to the involvement of 
@@ -9510,21 +9511,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Arctic Transit to Pacific Fleet of Sub `Kasatka' </TI></H3>
-<F P=102>  94UM0147B Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
+<F P="102">  94UM0147B Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
 (signed to press 8 Oct 93) p 17 </F>
 
-<F P=103> 94UM0147B </F>
-<F P=104>  Moscow MORSKOY SBORNIK </F>
+<F P="103"> 94UM0147B </F>
+<F P="104">  Moscow MORSKOY SBORNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: "Despite Difficulties"] </F>
+<F P="106"> [Unattributed article: "Despite Difficulties"] </F>
   [Text] Combat training continues in the Navy despite the 
 economic and political crisis being experienced in the country. 
 Thus, the nuclear powered submarine Kasatka commanded by Captain 
@@ -9558,21 +9559,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Navy's Shortened Reach </TI></H3>
-<F P=102>  94UM0148A Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
+<F P="102">  94UM0148A Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
 (signed to press 8 Oct 93) pp 33-35 </F>
 
-<F P=103> 94UM0148A </F>
-<F P=104>  Moscow MORSKOY SBORNIK </F>
+<F P="103"> 94UM0148A </F>
+<F P="104">  Moscow MORSKOY SBORNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by military journalist Captain 2nd Rank V. Pasyakin </F>
+<F P="106"> [Article by military journalist Captain 2nd Rank V. Pasyakin </F>
 under rubric "Deployments and Flights": "And Again in the 
 Mediterranean..."] 
   [Text] No matter how difficult the conditions in 
@@ -9747,21 +9748,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Continuing Decline in Capabilities Predicted </TI></H3>
-<F P=102>  94UM0148B Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
+<F P="102">  94UM0148B Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
 (signed to press 8 Oct 93) pp 36-39 </F>
 
-<F P=103> 94UM0148B </F>
-<F P=104>  Moscow MORSKOY SBORNIK </F>
+<F P="103"> 94UM0148B </F>
+<F P="104">  Moscow MORSKOY SBORNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Captain 1st Rank Yu. Koshelev under rubric </F>
+<F P="106"> [Article by Captain 1st Rank Yu. Koshelev under rubric </F>
 "Discussion Rostrum": "Organization of Combat Training (Problems 
 of Improving Its Effectiveness)"] 
   [Text] It is common knowledge that combat training is 
@@ -9773,7 +9774,7 @@ number of ships performing missions on long deployments has
 dropped considerably, the opinion has appeared that preventing a 
 reduction in the personnel's level of training and in 
 cohesiveness and combat readiness of ship crews and staffs has 
-become the primary combat training mission.&lt;sup&gt; 1&lt;/sup&gt;  Such an 
+become the primary combat training mission. lt;sup gt; 1 lt;/sup gt;  Such an 
 approach to determining combat training goals appears too 
 oversimplified to me. We know that the level of preparedness of 
 any ship crew inevitably has inherent ups and downs, and there 
@@ -9931,7 +9932,7 @@ simulators.
   Positive examples of the effectiveness of formation base 
 exercises are cited by Deputy Commander-in-Chief of the Navy and 
 Chief of Navy Combat Training Directorate Vice Admiral A. V. 
-Gorbunov in the article "And Still We Go To Sea."&lt;sup&gt; 2&lt;/sup&gt; 
+Gorbunov in the article "And Still We Go To Sea." lt;sup gt; 2 lt;/sup gt; 
 And if at times the return from exercises is not up to 
 expectations, evidently this is above all the direct fault of 
 the corresponding commander and staff. There are conditions for 
@@ -10039,21 +10040,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Modern Problems of Naval Ship Construction </TI></H3>
-<F P=102>  94UM0147A Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
+<F P="102">  94UM0147A Moscow MORSKOY SBORNIK in Russian No 10, Oct 93 
 (signed to press 8 Oct 93) pp 61-64 </F>
 
-<F P=103> 94UM0147A </F>
-<F P=104>  Moscow MORSKOY SBORNIK </F>
+<F P="103"> 94UM0147A </F>
+<F P="104">  Moscow MORSKOY SBORNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vice Admiral L. Golovko, deputy </F>
+<F P="106"> [Article by Vice Admiral L. Golovko, deputy </F>
 Commander-in-Chief of the Navy for shipbuilding and armament, 
 under rubric "Armament and Equipment"] 
   [Text] Since olden times Russian people have been connected 
@@ -10314,7 +10315,7 @@ mothball still others or send them for recycling (to be written
 off). 
   At the same time, within the scope of the new military 
 doctrine and new missions facing the Russian Navy, we must not 
-reduce rates of RDT&amp;E and planning work to determine basic 
+reduce rates of RDT amp;E and planning work to determine basic 
 directions of Navy development for the future and to form a 
 permanent sliding program of naval shipbuilding for the next 
 10-15 years. It is quite clear from the studies conducted that 
@@ -10336,9 +10337,9 @@ and maintainability. This means that the scale of research and
 test-design work should not be reduced. Moreover, under present 
 conditions this must be given even more attention than before. 
   Prospects of domestic naval shipbuilding are linked closely 
-with successes and achievements of S&amp;T progress. Its 
+with successes and achievements of S amp;T progress. Its 
 interests 
-lie not only in the area of solving applied S&amp;T problems, but 
+lie not only in the area of solving applied S amp;T problems, but 
 extend to a wide range of basic research in various directions. 
 Therefore naval shipbuilding plans must rely on results of 
 fulfillment of major comprehensive and specific state research 
@@ -10383,21 +10384,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Kokoshin: Russia Needs Reliable Fleet </TI></H3>
-<F P=102>  94UM0151A Moscow MORSKOY SBORNIK in Russian No 11, Nov 93 
+<F P="102">  94UM0151A Moscow MORSKOY SBORNIK in Russian No 11, Nov 93 
 (signed to press 5 Nov 93) pp 3-7 </F>
 
-<F P=103> 94UM0151A </F>
-<F P=104>  Moscow MORSKOY SBORNIK </F>
+<F P="103"> 94UM0151A </F>
+<F P="104">  Moscow MORSKOY SBORNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Andrey Afanasyevich Kokoshin, first deputy </F>
+<F P="106"> [Interview with Andrey Afanasyevich Kokoshin, first deputy </F>
 minister of defense of the Russian Federation, by Capt 2d Rank 
 Ye. Vodopyanov: "Russia Needs a Worthy Fleet"] 
   [Text] During the course of preparations for 
@@ -10765,21 +10766,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> NAVAL FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> NAVAL FORCES </F>
 <H3> <TI>   Commentary on 1975 U.S. Operation to Raise Submarine PL-574 </TI></H3>
-<F P=102>  94UM0157A Moscow KOMSOMOLSKAYA PRAVDA in Russian 30 Dec 93 p 
+<F P="102">  94UM0157A Moscow KOMSOMOLSKAYA PRAVDA in Russian 30 Dec 93 p 
 7 </F>
 
-<F P=103> 94UM0157A </F>
-<F P=104>  Moscow KOMSOMOLSKAYA PRAVDA </F>
+<F P="103"> 94UM0157A </F>
+<F P="104">  Moscow KOMSOMOLSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Anatoliy Dokuchayev: "The Secret of the Loss of </F>
+<F P="106"> [Article by Anatoliy Dokuchayev: "The Secret of the Loss of </F>
 PL-574: Only Now Have We Learned That a CIA Deep-Sea Operation 
 Was Completed"] 
   [Text] 
@@ -10941,7 +10942,7 @@ the operators to see in detail everything that was occurring in
 the ocean's depths. Soon the most important moment arrived for 
 the specialists -- the seizure of the Soviet submarine. It 
 occurred successfully. The salvage began, but... 
-  When the dock-pontoon had completed 99&percnt; of the 
+  When the dock-pontoon had completed 99 percnt; of the 
 journey, the 
 submarine broke into two parts at the point of the puncture. The 
 stern section slipped out of the gripping devices and rushed to 
@@ -11031,21 +11032,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> REAR SERVICES, SUPPORT ISSUES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> REAR SERVICES, SUPPORT ISSUES </F>
 <H3> <TI>   State of Military Trade Directorate Under Market Conditions </TI></H3>
-<F P=102>  94UM0149A Moscow ARMIYA in Russian No 18, 1993 (signed to 
+<F P="102">  94UM0149A Moscow ARMIYA in Russian No 18, 1993 (signed to 
 press 25 Aug 93) pp 36-40 </F>
 
-<F P=103> 94UM0149A </F>
-<F P=104>  Moscow ARMIYA </F>
+<F P="103"> 94UM0149A </F>
+<F P="104">  Moscow ARMIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Major-General Viktor Ivanovich Tsarkov, </F>
+<F P="106"> [Interview with Major-General Viktor Ivanovich Tsarkov, </F>
 chief of the Main Military Trade Directorate of the Russian 
 Federation Ministry of Defense, by Colonel V. Ukolov: "Better 
 Times Will also Come for Military Trade..."] 
@@ -11464,19 +11465,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> REAR SERVICES, SUPPORT ISSUES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> REAR SERVICES, SUPPORT ISSUES </F>
 <H3> <TI>   Lt-Gen Marchuk Interview on Road Construction Directorate </TI></H3>
-<F P=102>  94UM0158B Moscow KRASNAYA ZVEZDA in Russian 4 Jan 94 p 2 </F>
-<F P=103> 94UM0158B </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0158B Moscow KRASNAYA ZVEZDA in Russian 4 Jan 94 p 2 </F>
+<F P="103"> 94UM0158B </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by KRASNAYA ZVEZDA Correspondent Petr Altunin, </F>
+<F P="106"> [Article by KRASNAYA ZVEZDA Correspondent Petr Altunin, </F>
 under the rubric: "Timely Topic": "Roads -- For Russia"] 
   [Text] From the KRASNAYA ZVEZDA Dossier: 
 Lieutenant-General Ivan Dmitriyevich Marchuk was born in 1944. 
@@ -11605,7 +11606,7 @@ earth?
   [Marchuk] Imagine, the situation is poor with officer cadre 
 manning. It seems to me that even the romantic appeal has not 
 disappeared. Of course, there are difficulties. Approximately 
-60&percnt; of the officers have been provided apartments and the 
+60 percnt; of the officers have been provided apartments and the 
 rest 
 are in hotels, in the private sector and, like we in our youth, 
 in trailers... But at the same time there is a change in those 
@@ -11663,19 +11664,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> REAR SERVICES, SUPPORT ISSUES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> REAR SERVICES, SUPPORT ISSUES </F>
 <H3> <TI>   Central Fuel Directorate: Steps to Salvage POL Reserve </TI></H3>
-<F P=102>  94UM0161A Moscow KRASNAYA ZVEZDA in Russian 10 Jan 94 p 2 </F>
-<F P=103> 94UM0161A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0161A Moscow KRASNAYA ZVEZDA in Russian 10 Jan 94 p 2 </F>
+<F P="103"> 94UM0161A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by KRASNAYA ZVEZDA correspondent Petr Altunin under </F>
+<F P="106"> [Article by KRASNAYA ZVEZDA correspondent Petr Altunin under </F>
 the rubric "Continuing the Subject": "In the Empty Tank, 
 Billions... But Only A Real Manager Can Extract It From There"] 
   [Text] It is an indisputable fact, as they say, that the 
@@ -11802,19 +11803,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> REAR SERVICES, SUPPORT ISSUES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> REAR SERVICES, SUPPORT ISSUES </F>
 <H3> <TI>   Civil Defense Committee Upgraded to Ministry </TI></H3>
-<F P=102>  94UM0161B Moscow KRASNAYA ZVEZDA in Russian 13 Jan 94 p 2 </F>
-<F P=103> 94UM0161B </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0161B Moscow KRASNAYA ZVEZDA in Russian 13 Jan 94 p 2 </F>
+<F P="103"> 94UM0161B </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by Ivan Sergeyev: "The GKChS Has Been Upgraded to a </F>
+<F P="106"> [Report by Ivan Sergeyev: "The GKChS Has Been Upgraded to a </F>
 Ministry"] 
   [Text] Under an ukase signed by the 
 President of Russia, "On the Structure of Federal Executive 
@@ -11848,19 +11849,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> CIS/RUSSIAN MILITARY ISSUES </F>
-<F P=101> PEACEKEEPING FORCES </F>
+<F P="100"> CIS/RUSSIAN MILITARY ISSUES </F>
+<F P="101"> PEACEKEEPING FORCES </F>
 <H3> <TI>   Col-Gen Pyankov on Collective Peacekeeping Forces </TI></H3>
-<F P=102>  PM2101113194 Moscow PRAVDA in Russian 18 Jan 94 pp 1-2 </F>
-<F P=103> PM2101113194 </F>
-<F P=104>  Moscow PRAVDA </F>
+<F P="102">  PM2101113194 Moscow PRAVDA in Russian 18 Jan 94 pp 1-2 </F>
+<F P="103"> PM2101113194 </F>
+<F P="104">  Moscow PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Colonel-General Boris Pyankov, commander of </F>
+<F P="106"> [Interview with Colonel-General Boris Pyankov, commander of </F>
 the CIS coalition peacekeeping forces in Tajikistan, by unnamed 
 correspondent; date and place of interview not given: "We Are 
 Performing Difficult Service Today. Far From Russia...." -- 
@@ -12123,21 +12124,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> UKRAINE </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> UKRAINE </F>
 <H3> <TI>   Officers Union Head Favors Nuclear Status </TI></H3>
-<F P=102>  AU2001072494 Lvov ZA VILNU UKRAYINU in Ukrainian 14 Jan 94 p 
+<F P="102">  AU2001072494 Lvov ZA VILNU UKRAYINU in Ukrainian 14 Jan 94 p 
 3 </F>
 
-<F P=103> AU2001072494 </F>
-<F P=104>  Lvov ZA VILNU UKRAYINU </F>
+<F P="103"> AU2001072494 </F>
+<F P="104">  Lvov ZA VILNU UKRAYINU </F>
 
 
 <TEXT>
-Language: <F P=105> Ukrainian </F>
+Language: <F P="105"> Ukrainian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Major General Oleksandr Rol, chairman of </F>
+<F P="106"> [Interview with Major General Oleksandr Rol, chairman of </F>
 Ukraine's Officers Union, SOU, by Mariya Bazelyuk; place and 
 date not given: "The Defense of Ukraine Cannot be Guaranteed by 
 Other States" -- first paragraph published in boldface] 
@@ -12289,19 +12290,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> BALTIC STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> BALTIC STATES </F>
 <H3> <TI>   Latvia, Lithuania, Denmark Sign Military Agreement </TI></H3>
-<F P=102>  94UM0162A Moscow KRASNAYA ZVEZDA in Russian 11 Jan 94 p 3 </F>
-<F P=103> 94UM0162A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0162A Moscow KRASNAYA ZVEZDA in Russian 11 Jan 94 p 3 </F>
+<F P="103"> 94UM0162A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by Valeriy Gromak under the rubric "Yesterday": </F>
+<F P="106"> [Report by Valeriy Gromak under the rubric "Yesterday": </F>
 "Denmark Expands Military Cooperation With Latvia and 
 Lithuania"] 
   [Text] Vilnius--On 4 January Latvian Minister of Defense 
@@ -12339,21 +12340,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> CAUCASIAN STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> CAUCASIAN STATES </F>
 <H3> <TI>   Azerbaijan's Progress in Establishing `Regular Army' Viewed </TI></H3>
-<F P=102>  944K0574A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 4 
+<F P="102">  944K0574A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 4 
 Jan 94 p 2 </F>
 
-<F P=103> 944K0574A </F>
-<F P=104>  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
+<F P="103"> 944K0574A </F>
+<F P="104">  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Eldar Zeynalov: "The Partisans Are Coming Down </F>
+<F P="106"> [Article by Eldar Zeynalov: "The Partisans Are Coming Down </F>
 From the Hills: Azerbaijan En Route to a Regular Army"] 
   [Text] An obligatory attribute of any state laying 
 claim to independence, especially one with hostile neighbors, is 
@@ -12533,19 +12534,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> STATE AND LOCAL MILITARY FORCES </F>
-<F P=101> CAUCASIAN STATES </F>
+<F P="100"> STATE AND LOCAL MILITARY FORCES </F>
+<F P="101"> CAUCASIAN STATES </F>
 <H3> <TI>   Risk of Internationalization of Karabakh War Grows </TI></H3>
-<F P=102>  PM1901152794 Moscow KRASNAYA ZVEZDA in Russian 19 Jan 94 p 2 </F>
-<F P=103> PM1901152794 </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  PM1901152794 Moscow KRASNAYA ZVEZDA in Russian 19 Jan 94 p 2 </F>
+<F P="103"> PM1901152794 </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Lieutenant Colonel Kirill Petrov "Military Review": "At a </F>
+<F P="106"> [Lieutenant Colonel Kirill Petrov "Military Review": "At a </F>
 Turning Point. The Conflict in Karabakh Could Escalate into a 
 Large-Scale Regional War"] 
   [Text] The December-January offensive by Azerbaijani 
@@ -12696,19 +12697,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Ongoing Conversion Problems at `Almaz' </TI></H3>
-<F P=102>  94UM0163B Moscow TRUD in Russian 6 Jan 94 p 4 </F>
-<F P=103> 94UM0163B </F>
-<F P=104>  Moscow TRUD </F>
+<F P="102">  94UM0163B Moscow TRUD in Russian 6 Jan 94 p 4 </F>
+<F P="103"> 94UM0163B </F>
+<F P="104">  Moscow TRUD </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vsevolod Sikelnikov, Yuliya Andrianova, Sergey </F>
+<F P="106"> [Article by Vsevolod Sikelnikov, Yuliya Andrianova, Sergey </F>
 Knyazkov, and Boris Kudryavtsev: "`Almaz' Almost Invisible"] 
   [Text] They say that Isaac Newton learned to "evaporate" 
 the diamonds by focusing sunlight on them with a large 
@@ -12881,19 +12882,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Conversion: Trials of Komsomolsk-Na-Amure SU-27 Plant </TI></H3>
-<F P=102>  94UM0163A Moscow KRASNAYA ZVEZDA in Russian 13 Jan 93 pp 1-2 </F>
-<F P=103> 94UM0163A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0163A Moscow KRASNAYA ZVEZDA in Russian 13 Jan 93 pp 1-2 </F>
+<F P="103"> 94UM0163A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Anatoliy Mikhaylovich Petrov, genearal </F>
+<F P="106"> [Interview with Anatoliy Mikhaylovich Petrov, genearal </F>
 director of the Komsomolsk-na-Amure aviation plant by Aleksandr 
 Andryushkov, place and date not indicated: "We Make the Best 
 Interceptor in the World."] 
@@ -13173,19 +13174,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> DEFENSE INDUSTRY </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> DEFENSE INDUSTRY </F>
 <H3> <TI>   Defense Sector a Field of `Partisan Warfare' </TI></H3>
-<F P=102>  PM2101152794 Moscow PRAVDA in Russian 19 Jan 94 pp 1-2 </F>
-<F P=103> PM2101152794 </F>
-<F P=104>  Moscow PRAVDA </F>
+<F P="102">  PM2101152794 Moscow PRAVDA in Russian 19 Jan 94 pp 1-2 </F>
+<F P="103"> PM2101152794 </F>
+<F P="104">  Moscow PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Aleksey Shulunov, president of the League of </F>
+<F P="106"> [Interview with Aleksey Shulunov, president of the League of </F>
 Defense Enterprises, by Anatoliy Pokrovskiy and Igor Saltykov, 
 date and place not given: "Defense Sector Has Become a Partisan 
 Fighter: Acrid Is the Smoke of Financial Conflagrations" -- 
@@ -13456,21 +13457,21 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> FOREIGN MILITARY AFFAIRS </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> FOREIGN MILITARY AFFAIRS </F>
 <H3> <TI>   Use of Artillery in Persian Gulf </TI></H3>
-<F P=102>  94UM0132A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
+<F P="102">  94UM0132A Moscow VOYENNYY VESTNIK in Russian No 8, Aug 93 
 (signed to press 16 Jul 93) pp 52-59 </F>
 
-<F P=103> 94UM0132A </F>
-<F P=104>  Moscow VOYENNYY VESTNIK </F>
+<F P="103"> 94UM0132A </F>
+<F P="104">  Moscow VOYENNYY VESTNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article based on foreign military press materials by </F>
+<F P="106"> [Article based on foreign military press materials by </F>
 Colonel Yu. Fesenko, doctor of technical sciences, and Major S. 
 Zhuravlev, under rubric "Foreign Military Affairs": "Artillery 
 in the Persian Gulf"] 
@@ -13542,7 +13543,7 @@ considerable distance (10-20 km) from the sides' line of contact
 while retaining the capability to effectively pressure enemy 
 artillery deployed near the Kuwait border. 
 
-<FIG ID=JPRS-UMA-004C-51A>           Table 1 - Comparative Range Assessment of MNF and Iraqi Artillery Systems </FIG>
+<FIG ID="JPRS-UMA-004C-51A">           Table 1 - Comparative Range Assessment of MNF and Iraqi Artillery Systems </FIG>
 
 
 
@@ -13967,19 +13968,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> FOREIGN MILITARY AFFAIRS </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> FOREIGN MILITARY AFFAIRS </F>
 <H3> <TI>   New Chinese ICBM Noted </TI></H3>
-<F P=102>  94UM0162B Moscow KRASNAYA ZVEZDA in Russian 12 Jan 94 p 3 </F>
-<F P=103> 94UM0162B </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0162B Moscow KRASNAYA ZVEZDA in Russian 12 Jan 94 p 3 </F>
+<F P="103"> 94UM0162B </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article: "China Is Creating a New ICBM"] </F>
+<F P="106"> [Article: "China Is Creating a New ICBM"] </F>
   [Text] The Japanese newspaper SANKEI SHIMBUN states that 
 China is producing its first intercontinental ballistic missile 
 capable of reaching the USA. According to American military 
@@ -14016,19 +14017,19 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> SECURITY SERVICES </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> SECURITY SERVICES </F>
 <H3> <TI>   Creation of Russian Federation Border Service </TI></H3>
-<F P=102>  94UM0158A Moscow KRASNAYA ZVEZDA in Russian 31 Dec 93 p 1 </F>
-<F P=103> 94UM0158A </F>
-<F P=104>  Moscow KRASNAYA ZVEZDA </F>
+<F P="102">  94UM0158A Moscow KRASNAYA ZVEZDA in Russian 31 Dec 93 p 1 </F>
+<F P="103"> 94UM0158A </F>
+<F P="104">  Moscow KRASNAYA ZVEZDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Russian Federation Border Troops Press Bureau: </F>
+<F P="106"> [Article by Russian Federation Border Troops Press Bureau: </F>
 "A Federal Border Service Has Been Created"] 
   [Text] As a result of the abolition of the Russian 
 Federation Ministry of Security and to ensure continuity of 
@@ -14064,22 +14065,22 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> SECURITY SERVICES </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> SECURITY SERVICES </F>
 <H3> <TI>   Commander-in-Chief of Border Guards Nikolayev Interviewed </TI></H3>
 <H4>   Role of Border Guards in CIS Context Viewed </H4>
-<F P=102> PM1401113594 Moscow IZVESTIYA in Russian 13 Jan 94 First 
+<F P="102"> PM1401113594 Moscow IZVESTIYA in Russian 13 Jan 94 First 
 Edition p 5 </F>
 
-<F P=103> PM1401113594 </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="103"> PM1401113594 </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Colonel General Andrey Nikolayev, commander </F>
+<F P="106"> [Interview with Colonel General Andrey Nikolayev, commander </F>
 in chief of Border Guards, by Boris Vinogradov; place, date not 
 given: "Russians in Green Service Caps Will Guard Their 
 Neighbors. Cost To Be Split Equally" -- first three paragraphs 
@@ -14199,22 +14200,22 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> SECURITY SERVICES </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> SECURITY SERVICES </F>
 <H3> <TI>   Commander-in-Chief of Border Guards Nikolayev Interviewed </TI></H3>
 <H4>   Minister Nikolayev on Border Forces Reform </H4>
-<F P=102> PM2001163594 Moscow ROSSIYSKAYA GAZETA in Russian 20 Jan 94 
+<F P="102"> PM2001163594 Moscow ROSSIYSKAYA GAZETA in Russian 20 Jan 94 
 First Edition pp 1-2 </F>
 
-<F P=103> PM2001163594 </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="103"> PM2001163594 </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Colonel General Andrey Ivanovich Nikolayev, </F>
+<F P="106"> [Interview with Colonel General Andrey Ivanovich Nikolayev, </F>
 newly appointed minister and commander-in-chief of the Border 
 Forces, by military observer Vladimir Klimov; date, place not 
 given: "We Are All Border Workers" -- first paragraph is 
@@ -14444,22 +14445,22 @@ Document Title:Central Eurasia
 
 <ABS>  Military Affairs </ABS>
 <DATE1>   26 January 1994 </DATE1>
-<F P=100> GENERAL ISSUES </F>
-<F P=101> SECURITY SERVICES </F>
+<F P="100"> GENERAL ISSUES </F>
+<F P="101"> SECURITY SERVICES </F>
 <H3> <TI>   Commander-in-Chief of Border Guards Nikolayev Interviewed </TI></H3>
 <H4>   Col-Gen Nikolayev Meets with Aliyev </H4>
-<F P=102> PM2101180194 Moscow ROSSIYSKIYE VESTI in Russian 21 Jan 94 p 
+<F P="102"> PM2101180194 Moscow ROSSIYSKIYE VESTI in Russian 21 Jan 94 p 
 2 </F>
 
-<F P=103> PM2101180194 </F>
-<F P=104>  Moscow ROSSIYSKIYE VESTI </F>
+<F P="103"> PM2101180194 </F>
+<F P="104">  Moscow ROSSIYSKIYE VESTI </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [Aleksandr Rybakov article under the "Geopolitics" rubric: </F>
+<F P="106"> [Aleksandr Rybakov article under the "Geopolitics" rubric: </F>
 "Andrey Nikolayev, Commander-in-Chief of Russia's Border Troops: 
 We Strengthen Economic Union by Opening Up Internal Borders"] 
   [Text] Azerbaijan is still opposed to the use of Russian 
@@ -14593,21 +14594,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Semipalatinsk Test Site Chief Removed From Duties </TI></H3>
-<F P=102>  PM2812103193 Moscow IZVESTIYA in Russian 28 Dec 93 First 
+<F P="102">  PM2812103193 Moscow IZVESTIYA in Russian 28 Dec 93 First 
 Edition p 1 </F>
 
-<F P=103> PM2812103193 </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="103"> PM2812103193 </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:BFN 
 
-<F P=106> [ITAR-TASS report: "Chief of Semipalatinsk Nuclear Test </F>
+<F P="106"> [ITAR-TASS report: "Chief of Semipalatinsk Nuclear Test </F>
 Site Removed from Duties"] 
   [Text] The reports by some Russian mass media that Yuriy 
 Konovalenko, chief of the Semipalatinsk nuclear test site, has 
@@ -14640,21 +14641,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Vologda Democrats' Poor Showing Viewed </TI></H3>
-<F P=102>  944F0232A Moscow IZVESTIYA in Russian 21 Dec 93 First 
+<F P="102">  944F0232A Moscow IZVESTIYA in Russian 21 Dec 93 First 
 Edition p 4 </F>
 
-<F P=103> 944F0232A </F>
-<F P=104>  Moscow IZVESTIYA </F>
+<F P="103"> 944F0232A </F>
+<F P="104">  Moscow IZVESTIYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by Viktor Filippov: "State-Minded Speeches, Personal </F>
+<F P="106"> [Report by Viktor Filippov: "State-Minded Speeches, Personal </F>
 Goals. The Vologda Governor's Policy in the Election Mirror"] 
   [Text] Vologda--In Vologda Oblast Zhirinovskiy's 
 party obtained almost twice as many votes as Russia's Choice. 
@@ -14798,19 +14799,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Activities of Perm Liberal Democrats Reported </TI></H3>
-<F P=102>  944F0238A Moscow PRAVDA in Russian 23 Dec 93 p 2 </F>
-<F P=103> 944F0238A </F>
-<F P=104>  Moscow PRAVDA </F>
+<F P="102">  944F0238A Moscow PRAVDA in Russian 23 Dec 93 p 2 </F>
+<F P="103"> 944F0238A </F>
+<F P="104">  Moscow PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Report by Aleksandr Lebedinskiy: "The Governor May Be </F>
+<F P="106"> [Report by Aleksandr Lebedinskiy: "The Governor May Be </F>
 Called Sasha"] 
   [Text] Perm--Marking the "party slates," the inhabitants of 
 Perm Oblast cast the majority of votes for Russia's Choice. But 
@@ -14886,21 +14887,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Luzhkov Interview on Peculiarities of Moscow's Privatization </TI></H3>
-<F P=102>  944F0235A Moscow MOSKOVSKAYA PRAVDA in Russian 14 Dec 93 pp 
+<F P="102">  944F0235A Moscow MOSKOVSKAYA PRAVDA in Russian 14 Dec 93 pp 
 1-2 </F>
 
-<F P=103> 944F0235A </F>
-<F P=104>  Moscow MOSKOVSKAYA PRAVDA </F>
+<F P="103"> 944F0235A </F>
+<F P="104">  Moscow MOSKOVSKAYA PRAVDA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [INTERFAX interview with Mayor of Moscow Yuriy Luzhkov, </F>
+<F P="106"> [INTERFAX interview with Mayor of Moscow Yuriy Luzhkov, </F>
 special for MOSKOVSKAYA PRAVDA; place and date not given: 
 "Russia Will Not Forgive Our Selling Off Moscow for Peanuts"] 
   [Text] As instructed by President B. Yeltsin, the 
@@ -15228,21 +15229,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Discussion of Russian Federation Foreign Policy Precepts </TI></H3>
-<F P=102>  944Q0100A Moscow NEZAVISIMAYA GAZETA in Russian 19 Nov 93 pp 
+<F P="102">  944Q0100A Moscow NEZAVISIMAYA GAZETA in Russian 19 Nov 93 pp 
 1, 4 </F>
 
-<F P=103> 944Q0100A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="103"> 944Q0100A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yakov Plyays: "Hallmarks of Russia and Its </F>
+<F P="106"> [Article by Yakov Plyays: "Hallmarks of Russia and Its </F>
 Foreign Policy: Toward an Understanding of the Argument 
 Surrounding the Russian Federation's New View of the World"] 
   [Text] Heated arguments surrounding Russia's new foreign 
@@ -15621,19 +15622,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Karasin Discusses MFA Personnel Policy, Ministry Changes </TI></H3>
-<F P=102>  944Q0104A Moscow SEGODNYA in Russian No 83, 25 Nov 93 p 3 </F>
-<F P=103> 944Q0104A </F>
-<F P=104>  Moscow SEGODNYA </F>
+<F P="102">  944Q0104A Moscow SEGODNYA in Russian No 83, 25 Nov 93 p 3 </F>
+<F P="103"> 944Q0104A </F>
+<F P="104">  Moscow SEGODNYA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Grigoriy Karasin, director of the department </F>
+<F P="106"> [Interview with Grigoriy Karasin, director of the department </F>
 of information and the press of the Russian Federation MFA, by 
 unidentified SEGODNYA correspondent; place and date not given: 
 "Grigoriy Karasin: There Is No Alternative Diplomatic Service"] 
@@ -15791,20 +15792,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Commentaries on NATO Expansion Issue </TI></H3>
 <H4>   Nonexpansion `Victory' Queried </H4>
-<F P=102> 944F0223A Moscow NEZAVISIMAYA GAZETA in Russian 8 Dec 93 p 4 </F>
-<F P=103> 944F0223A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102"> 944F0223A Moscow NEZAVISIMAYA GAZETA in Russian 8 Dec 93 p 4 </F>
+<F P="103"> 944F0223A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Vladimir Baranovskiy: "Foreign Policy Victory: </F>
+<F P="106"> [Article by Vladimir Baranovskiy: "Foreign Policy Victory: </F>
 The Leader of a Project on Russian Security Problems of the 
 Stockholm International Peace Research Institute (SIPRI) Wonders 
 Whether It Should Be Put Down to the Credit of the Russian 
@@ -15955,20 +15956,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Commentaries on NATO Expansion Issue </TI></H3>
 <H4>   Equal Relations With NATO Sought </H4>
-<F P=102> 944F0223B Moscow NEZAVISIMAYA GAZETA in Russian 8 Dec 93 p 4 </F>
-<F P=103> 944F0223B </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="102"> 944F0223B Moscow NEZAVISIMAYA GAZETA in Russian 8 Dec 93 p 4 </F>
+<F P="103"> 944F0223B </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dmitriy Gornostayev: "Russia Will Not Take the </F>
+<F P="106"> [Article by Dmitriy Gornostayev: "Russia Will Not Take the </F>
 Exams: The Relations of It and Other East European Countries 
 With the North Atlantic Bloc Are, as Has Become Clear Following 
 the Brussels Meeting, To Assume the Nature of Partnership"] 
@@ -16084,21 +16085,21 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Russia Seeks Place in World Arms Market </TI></H3>
-<F P=102>  944Q0112A Moscow KOMMERSANT in Russian No 48, 6 Dec 93 pp 
+<F P="102">  944Q0112A Moscow KOMMERSANT in Russian No 48, 6 Dec 93 pp 
 10-11 </F>
 
-<F P=103> 944Q0112A </F>
-<F P=104>  Moscow KOMMERSANT </F>
+<F P="103"> 944Q0112A </F>
+<F P="104">  Moscow KOMMERSANT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Alla Glebova and Sergey Tsekhmistrenko under the </F>
+<F P="106"> [Article by Alla Glebova and Sergey Tsekhmistrenko under the </F>
 "Arms Market" rubric: "Russia Regaining a Niche in the World 
 Arms Market"] 
   [Text] 
@@ -16677,19 +16678,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Decree on Missile Technology Exports </TI></H3>
-<F P=102>  944Q0117A Moscow KOMMERSANT in Russian No 48, 6 Dec 93 p 41 </F>
-<F P=103> 944Q0117A </F>
-<F P=104>  Moscow KOMMERSANT </F>
+<F P="102">  944Q0117A Moscow KOMMERSANT in Russian No 48, 6 Dec 93 p 41 </F>
+<F P="103"> 944Q0117A </F>
+<F P="104">  Moscow KOMMERSANT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Council of Ministers-Government of the Russian Federation </F>
+<F P="106"> [Council of Ministers-Government of the Russian Federation </F>
 Decree No. 1178 of 19 November 1993: "Revisions and Addenda to 
 the Statute on the Procedure of Control of Exports From the 
 Russian Federation of Equipment, Materials and Technology Used 
@@ -16734,7 +16735,7 @@ manufacture or acquisition of missile systems capable of
 delivering weapons of mass destruction and also the manufacture 
 or acquisition of the production capacity for such systems and 
 encompasses all types of foreign economic activity (other than 
-imports), including production and S&amp;T relations, coastal and 
+imports), including production and S amp;T relations, coastal and 
 border trade, commodity-exchange transactions, and the 
 demonstration of exhibits at international exhibitions and fairs. 
   3. It is not the purpose of the statute to put obstacles in 
@@ -16942,19 +16943,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Strategic, Radioactive Materials Smuggling </TI></H3>
-<F P=102>  94WP0039A Moscow KOMMERSANT in Russian No 45, 15 Nov 93 p 38 </F>
-<F P=103> 94WP0039A </F>
-<F P=104>  Moscow KOMMERSANT </F>
+<F P="102">  94WP0039A Moscow KOMMERSANT in Russian No 45, 15 Nov 93 p 38 </F>
+<F P="103"> 94WP0039A </F>
+<F P="104">  Moscow KOMMERSANT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Oleg Utitsin under the heading "Search": "Metal </F>
+<F P="106"> [Article by Oleg Utitsin under the heading "Search": "Metal </F>
 Rock"] 
   [Text] First of all I want to give my best regards to 
 the members of the militia on the event of their recent holiday, 
@@ -17084,7 +17085,7 @@ enterprise's products to Lithuania. According to one version,
 Shmakov must have been killed by outsiders, because he was 
 widely respected by the locals. 
 
-<FIG ID=FBIS-USR-001C-52A>           Approximate Diagram of the Current Flow of Strategic and Radioactive Materials </FIG>
+<FIG ID="FBIS-USR-001C-52A">           Approximate Diagram of the Current Flow of Strategic and Radioactive Materials </FIG>
 
 
 
@@ -17108,19 +17109,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   EC Reaction to Foreign Bank Restrictions </TI></H3>
-<F P=102>  944Q0110A Moscow KOMMERSANT in Russian No 48, 6 Dec 93 p 18 </F>
-<F P=103> 944Q0110A </F>
-<F P=104>  Moscow KOMMERSANT </F>
+<F P="102">  944Q0110A Moscow KOMMERSANT in Russian No 48, 6 Dec 93 p 18 </F>
+<F P="103"> 944Q0110A </F>
+<F P="104">  Moscow KOMMERSANT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Georgiy Bovt and Natalya Kalashnikova under the </F>
+<F P="106"> [Article by Georgiy Bovt and Natalya Kalashnikova under the </F>
 "Foreign Banks in Russia" rubric: "Europe Is Not Used To 
 Changing the Rules in the Middle of the Game"] 
   [Text] Boris Yeltsin's edict "On the Activities of 
@@ -17436,7 +17437,7 @@ banking system and the Russian economy as a whole."
 Vozrozhdeniye 
 Moscow joint-stock company [Signed] V. Sudakov, chairman of the 
 board of the International Moscow Bank [Signed] R. Chudnovskiy, 
-chairman of the board of the Optimum commercial bank&gt;  [Signed] 
+chairman of the board of the Optimum commercial bank gt;  [Signed] 
 V. Yakunin, president of the Tokobank joint-stock commercial bank 
   [Box p 18] 
 <H3>  AvtoVAZbank and Stolichnyy Granted Permits To Open Foreign 
@@ -17495,19 +17496,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Impact of Trade Protocol With Brazil Viewed </TI></H3>
-<F P=102>  944Q0109A Moscow KOMMERSANT-DAILY in Russian 4 Dec 93 p 3 </F>
-<F P=103> 944Q0109A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
+<F P="102">  944Q0109A Moscow KOMMERSANT-DAILY in Russian 4 Dec 93 p 3 </F>
+<F P="103"> 944Q0109A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Georgiy Bovt and Svetlana Sukhova with follow-up </F>
+<F P="106"> [Article by Georgiy Bovt and Svetlana Sukhova with follow-up </F>
 comment: "Russia and Brazil Will Increase Commodity Turnover 
 Sharply"] 
   [Text] Jose Eduardo do Andrade Vieira, minister of 
@@ -17641,19 +17642,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Prospects for Trade With South Africa Assessed </TI></H3>
-<F P=102>  944Q0109B Moscow KOMMERSANT in Russian No 48, 6 Dec 93 p 12 </F>
-<F P=103> 944Q0109B </F>
-<F P=104>  Moscow KOMMERSANT </F>
+<F P="102">  944Q0109B Moscow KOMMERSANT in Russian No 48, 6 Dec 93 p 12 </F>
+<F P="103"> 944Q0109B </F>
+<F P="104">  Moscow KOMMERSANT </F>
 
 
 <TEXT>
-Language: <F P=105> Russian </F>
+Language: <F P="105"> Russian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Nikolay Arutyunov and Viktor Zamyatin, under the </F>
+<F P="106"> [Article by Nikolay Arutyunov and Viktor Zamyatin, under the </F>
 "Commodity Market" rubric: "Russia-South Africa: Deny Yourself 
 Virtually Nothing"] 
   [Text] [Begin boxed item] 
@@ -17892,20 +17893,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> KAZAKHSTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> KAZAKHSTAN </F>
 <H3> <TI>   Kazakh Chief of Apparatus on His Official Duties, 
 Experiences </TI></H3>
-<F P=102>  944K0460A Almaty YEGEMEN KAZAKHSTAN in Kazakh 25 Sep 93 p 2 </F>
-<F P=103> 944K0460A </F>
-<F P=104>  Almaty YEGEMEN KAZAKHSTAN </F>
+<F P="102">  944K0460A Almaty YEGEMEN KAZAKHSTAN in Kazakh 25 Sep 93 p 2 </F>
+<F P="103"> 944K0460A </F>
+<F P="104">  Almaty YEGEMEN KAZAKHSTAN </F>
 
 
 <TEXT>
-Language: <F P=105> Kazakh </F>
+Language: <F P="105"> Kazakh </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Nurtay Abiqayev, chief of the apparate of </F>
+<F P="106"> [Interview with Nurtay Abiqayev, chief of the apparate of </F>
 the Republic of Kazakhstan president and cabinet of ministers, 
 recorded by Yerzhuman Smayyl: "National Character Begins With 
 the President."] 
@@ -18438,20 +18439,20 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> KAZAKHSTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> KAZAKHSTAN </F>
 <H3> <TI>   New Market Terminology Reflects Current Kazakh Attitudes, 
 Values </TI></H3>
-<F P=102>  944K0390A Almaty ANA TILI in Kazakh 28 Oct 93 p 7 </F>
-<F P=103> 944K0390A </F>
-<F P=104>  Almaty ANA TILI </F>
+<F P="102">  944K0390A Almaty ANA TILI in Kazakh 28 Oct 93 p 7 </F>
+<F P="103"> 944K0390A </F>
+<F P="104">  Almaty ANA TILI </F>
 
 
 <TEXT>
-Language: <F P=105> Kazakh </F>
+Language: <F P="105"> Kazakh </F>
 Article Type:CSO 
 
-<F P=106> [Article by Amanzhol Qoshanov, academician, director of the </F>
+<F P="106"> [Article by Amanzhol Qoshanov, academician, director of the </F>
 Economic Institute of the Republic of Kazakhstan National 
 Academy of Sciences, and Aytym Abdirakhmanuly, doctor of 
 philogical science: "Let Us Consolidate the Terms of the Market 
@@ -18788,19 +18789,19 @@ Document Title:
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 January 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> KAZAKHSTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> KAZAKHSTAN </F>
 <H3> <TI>   Tatimov Examines Current Demographic Issues </TI></H3>
-<F P=102>  944K0392A Almaty AQ BOSAGHA in Kazakh No 8, Oct 93 pp 2-3 </F>
-<F P=103> 944K0392A </F>
-<F P=104>  Almaty AQ BOSAGHA </F>
+<F P="102">  944K0392A Almaty AQ BOSAGHA in Kazakh No 8, Oct 93 pp 2-3 </F>
+<F P="103"> 944K0392A </F>
+<F P="104">  Almaty AQ BOSAGHA </F>
 
 
 <TEXT>
-Language: <F P=105> Kazakh </F>
+Language: <F P="105"> Kazakh </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Maqash Tatimov, demographer, member of the </F>
+<F P="106"> [Interview with Maqash Tatimov, demographer, member of the </F>
 National Kenges for State Policy under the Republic of 
 Kazakhstan cabinet of ministers, candidate in pedagogical 
 science, recorded by Zhanar Qurmanqulqyzy: "I Am One of the 
@@ -19290,3 +19291,4 @@ with making specific suggestions.
 </TEXT>
 
 </DOC>
+</root>

@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS4-2323 </DOCNO>
@@ -11,20 +12,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL ECONOMIC AFFAIRS </F>
+<F P="100"> REGIONAL ECONOMIC AFFAIRS </F>
 <H3> <TI>   Tianjin Economic Development Communique </TI></H3>
-<HT><F P=107><PHRASE>    Tianjin Economic Development Communique </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tianjin Economic Development Communique </PHRASE></F></HT>
 
-<F P=102>   SK0104053394 Tianjin TIANJIN RIBAO in Chinese 21 Mar 94 p 2 </F>
-<F P=103> SK0104053394 </F>
-<F P=104>  Tianjin TIANJIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   SK0104053394 Tianjin TIANJIN RIBAO in Chinese 21 Mar 94 p 2 </F>
+<F P="103"> SK0104053394 </F>
+<F P="104">  Tianjin TIANJIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Communique issued by the Tianjin municipal statistical </F>
+<F P="106"> [Communique issued by the Tianjin municipal statistical </F>
 bureau on the development of the national economy and society in 
 1993; place and date not given] 
   [Text] Various fronts throughout the municipality deeply 
@@ -255,7 +256,7 @@ Soda ash                10,000 tonne        62.53            2.19
 Caustic soda            10,000 tonne        28.26            0.96 
 
 Machine-made paper      10,000 tonne        23.28            -10.94 
-&amp; paperboard 
+ amp; paperboard 
 
 Agrochemical            10,000 tonne        8.64             18.56 
 fertilizer 
@@ -873,20 +874,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL ECONOMIC AFFAIRS </F>
+<F P="100"> REGIONAL ECONOMIC AFFAIRS </F>
 <H3> <TI>   Zhejiang Economic, Social Statistics </TI></H3>
-<HT><F P=107><PHRASE>    Zhejiang Economic, Social Statistics </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhejiang Economic, Social Statistics </PHRASE></F></HT>
 
-<F P=102>   OW0504044294 Hangzhou ZHEJIANG RIBAO in Chinese 13 Mar 94 p 2 </F>
-<F P=103> OW0504044294 </F>
-<F P=104>  Hangzhou ZHEJIANG RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   OW0504044294 Hangzhou ZHEJIANG RIBAO in Chinese 13 Mar 94 p 2 </F>
+<F P="103"> OW0504044294 </F>
+<F P="104">  Hangzhou ZHEJIANG RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Communique issued by Zhejiang Provincial Bureau of </F>
+<F P="106"> [Communique issued by Zhejiang Provincial Bureau of </F>
 Statistics on 8 March 1994: "Statistical Report on National 
 Economic and Social Development"] 
   [Text] People in Zhejiang achieved noticeable success in 
@@ -1594,15 +1595,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Leaders Meet Balladur 8 Apr </H4>
 
-<F P=102> OW0804145994 Beijing XINHUA in English 1432 GMT 8 Apr 94 </F>
-<F P=103> OW0804145994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804145994 Beijing XINHUA in English 1432 GMT 8 Apr 94 </F>
+<F P="103"> OW0804145994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1711,15 +1712,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Balladur Holds News Conference </H4>
 
-<F P=102> OW0804153994 Beijing XINHUA in English 1453 GMT 8 Apr 94 </F>
-<F P=103> OW0804153994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804153994 Beijing XINHUA in English 1453 GMT 8 Apr 94 </F>
+<F P="103"> OW0804153994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1778,15 +1779,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    AFP on Balladur's Comments at Briefing </H4>
 
-<F P=102> HK0804132194 Hong Kong AFP in English 1254 GMT 8 April 94 </F>
-<F P=103> HK0804132194 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK0804132194 Hong Kong AFP in English 1254 GMT 8 April 94 </F>
+<F P="103"> HK0804132194 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1837,15 +1838,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    French Prime Minister Visits Shanghai </H4>
 
-<F P=102> OW0904141094 Beijing XINHUA in English 1358 GMT 9 Apr 94 </F>
-<F P=103> OW0904141094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904141094 Beijing XINHUA in English 1358 GMT 9 Apr 94 </F>
+<F P="103"> OW0904141094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1884,23 +1885,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Wu Bangguo Meets Balladur in Shanghai </H4>
 
-<F P=102> OW1004002094 Beijing XINHUA Domestic Service in Chinese 1350 
+<F P="102"> OW1004002094 Beijing XINHUA Domestic Service in Chinese 1350 
 GMT 9 Apr 94 </F>
 
-<F P=103> OW1004002094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1004002094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By correspondent Zhou Xierong (0719 6043 5554)] </F>
+<F P="106"> [By correspondent Zhou Xierong (0719 6043 5554)] </F>
   [Text] Shanghai, 9 Apr (XINHUA) -- Wu Bangguo, member of 
 the CPC Central Committee Political Bureau and secretary of the 
 Shanghai Municipal CPC Committee, met with and feted French 
@@ -1938,15 +1939,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Spokesman Denies Dissidents Arrested </H4>
 
-<F P=102> OW0904153494 Beijing XINHUA in English 1444 GMT 9 Apr 94 </F>
-<F P=103> OW0904153494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904153494 Beijing XINHUA in English 1444 GMT 9 Apr 94 </F>
+<F P="103"> OW0904153494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -1984,15 +1985,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    France Calls For `Explanation' </H4>
 
-<F P=102> HK0904055694 Hong Kong AFP in English 0528 GMT 9 Apr 94 </F>
-<F P=103> HK0904055694 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK0904055694 Hong Kong AFP in English 0528 GMT 9 Apr 94 </F>
+<F P="103"> HK0904055694 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2033,15 +2034,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Balladur Calls Arrests `Unacceptable' </H4>
 
-<F P=102> HK0904065394 Hong Kong AFP in English 0645 GMT 9 Apr 94 </F>
-<F P=103> HK0904065394 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK0904065394 Hong Kong AFP in English 0645 GMT 9 Apr 94 </F>
+<F P="103"> HK0904065394 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2088,17 +2089,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Balladur, Juppe Comment on Arrests </H4>
 
-<F P=102> LD0904132194 Paris Radio France International in French 1100 
+<F P="102"> LD0904132194 Paris Radio France International in French 1100 
 GMT 9 Apr 94 </F>
 
-<F P=103> LD0904132194 </F>
-<F P=104>  Paris Radio France International </F>
-<F P=105>  French </F>
+<F P="103"> LD0904132194 </F>
+<F P="104">  Paris Radio France International </F>
+<F P="105">  French </F>
 
 
 <TEXT>
@@ -2160,15 +2161,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Balladur Departs for Home 10 Apr </H4>
 
-<F P=102> OW1004063694 Beijing XINHUA in English 0621 GMT 10 Apr 94 </F>
-<F P=103> OW1004063694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1004063694 Beijing XINHUA in English 0621 GMT 10 Apr 94 </F>
+<F P="103"> OW1004063694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2199,21 +2200,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by French Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by French Prime Minister </PHRASE></F></HT>
 <H4>    Paris Paper on Balladur Visit </H4>
 
-<F P=102> BR0804162294 Paris LIBERATION in French 8 Apr 94 p 18 </F>
-<F P=103> BR0804162294 </F>
-<F P=104>  Paris LIBERATION </F>
-<F P=105>  French </F>
+<F P="102"> BR0804162294 Paris LIBERATION in French 8 Apr 94 p 18 </F>
+<F P="103"> BR0804162294 </F>
+<F P="104">  Paris LIBERATION </F>
+<F P="105">  French </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Caroline Puel report: "Balladur Touches on Human Rights in </F>
+<F P="106"> [Caroline Puel report: "Balladur Touches on Human Rights in </F>
 Beijing"] 
   [Text] Beijing -- A hint of malaise went through the 
 French delegation when Tienanmen Square resounded to the 19-gun 
@@ -2304,23 +2305,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Portuguese Prime Minister on Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
 <H4>    Silva Interviewed Prior to Visit </H4>
 
-<F P=102> OW0904033494 Beijing XINHUA Domestic Service in Chinese 0647 
+<F P="102"> OW0904033494 Beijing XINHUA Domestic Service in Chinese 0647 
 GMT 8 Apr 94 </F>
 
-<F P=103> OW0904033494 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0904033494 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By correspondent Chen Jiaying (7115 1367 3841)] </F>
+<F P="106"> [By correspondent Chen Jiaying (7115 1367 3841)] </F>
   [Text] Lisbon, 7 Apr (XINHUA) -- When interviewed by 
 XINHUA on the eve of his visit to China, Portugal's Prime 
 Minister Cavaco Silva stressed that the Portuguese Government 
@@ -2398,15 +2399,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Portuguese Prime Minister on Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
 <H4>    Silva Departs for Beijing </H4>
 
-<F P=102> OW0904150194 Beijing XINHUA in English 1430 GMT 9 Apr 94 </F>
-<F P=103> OW0904150194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904150194 Beijing XINHUA in English 1430 GMT 9 Apr 94 </F>
+<F P="103"> OW0904150194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2454,15 +2455,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Portuguese Prime Minister on Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
 <H4>    Portuguese Prime Minister Arrives </H4>
 
-<F P=102> OW1004040294 Beijing XINHUA in English 0311 GMT 10 Apr 94 </F>
-<F P=103> OW1004040294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1004040294 Beijing XINHUA in English 0311 GMT 10 Apr 94 </F>
+<F P="103"> OW1004040294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2507,15 +2508,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Portuguese Prime Minister on Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
 <H4>    Trade Officials Meet </H4>
 
-<F P=102> OW1104105694 Beijing XINHUA in English 1024 GMT 11 Apr 94 </F>
-<F P=103> OW1104105694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1104105694 Beijing XINHUA in English 1024 GMT 11 Apr 94 </F>
+<F P="103"> OW1104105694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2544,15 +2545,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Portuguese Prime Minister on Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
 <H4>    Li Peng, Silva on Cooperation </H4>
 
-<F P=102> OW1104112894 Beijing XINHUA in English 1053 GMT 11 Apr 94 </F>
-<F P=103> OW1104112894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1104112894 Beijing XINHUA in English 1053 GMT 11 Apr 94 </F>
+<F P="103"> OW1104112894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2631,21 +2632,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Portuguese Prime Minister on Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
 <H4>    Roundup Views `Fruitful' Cooperation </H4>
 
-<F P=102> OW1004045694 Beijing XINHUA in English 0217 GMT 10 Apr 94 </F>
-<F P=103> OW1004045694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1004045694 Beijing XINHUA in English 0217 GMT 10 Apr 94 </F>
+<F P="103"> OW1004045694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [XINHUA "Roundup": "Fruitful Sino-Portuguese Cooperation"] </F>
+<F P="106"> [XINHUA "Roundup": "Fruitful Sino-Portuguese Cooperation"] </F>
   [Text] Beijing, April 10 (XINHUA) -- The China visit by 
 Portuguese Prime Minister Anibal Cavaco Silva will give a new 
 impetus to existing fruitful cooperation between the two 
@@ -2759,23 +2760,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Portuguese Prime Minister on Official Visit </TI></H3>
-<HT><F P=107><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portuguese Prime Minister on Official Visit </PHRASE></F></HT>
 <H4>    PRC Ambassador in Lisbon Interviewed </H4>
 
-<F P=102> LD1004195994 Lisbon RTP Internacional Television in 
+<F P="102"> LD1004195994 Lisbon RTP Internacional Television in 
 Portuguese 1800 GMT 10 Apr 94 </F>
 
-<F P=103> LD1004195994 </F>
-<F P=104>  Lisbon RTP Internacional Television </F>
-<F P=105>  Portuguese </F>
+<F P="103"> LD1004195994 </F>
+<F P="104">  Lisbon RTP Internacional Television </F>
+<F P="105">  Portuguese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Quotation marks denote recorded passages] </F>
+<F P="106"> [Quotation marks denote recorded passages] </F>
   [Text] Prime Minister Cavaco Silva and his extensive 
 entourage have arrived in Beijing, but had an easy start to the 
 visit. 
@@ -2842,15 +2843,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by Finnish Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
 <H4>    Visits Suzhou, Shanghai </H4>
 
-<F P=102> OW0804135894 Beijing XINHUA in English 1305 GMT 8 Apr 94 </F>
-<F P=103> OW0804135894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804135894 Beijing XINHUA in English 1305 GMT 8 Apr 94 </F>
+<F P="103"> OW0804135894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2896,15 +2897,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by Finnish Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
 <H4>    Meets With Li Ruihuan </H4>
 
-<F P=102> OW0904124594 Beijing XINHUA in English 1229 GMT 9 Apr 94 </F>
-<F P=103> OW0904124594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904124594 Beijing XINHUA in English 1229 GMT 9 Apr 94 </F>
+<F P="103"> OW0904124594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -2965,15 +2966,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by Finnish Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
 <H4>    Meets President Jiang Zemin </H4>
 
-<F P=102> OW0904135694 Beijing XINHUA in English 1327 GMT 9 Apr 94 </F>
-<F P=103> OW0904135694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904135694 Beijing XINHUA in English 1327 GMT 9 Apr 94 </F>
+<F P="103"> OW0904135694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3025,17 +3026,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by Finnish Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
 <H4>    Human Rights Issue Raised </H4>
 
-<F P=102> LD1004171194 Helsinki Suomen Yleisradio Network in Finnish 
+<F P="102"> LD1004171194 Helsinki Suomen Yleisradio Network in Finnish 
 1430 GMT 9 Apr 94 </F>
 
-<F P=103> LD1004171194 </F>
-<F P=104>  Helsinki Suomen Yleisradio Network </F>
-<F P=105>  Finnish </F>
+<F P="103"> LD1004171194 </F>
+<F P="104">  Helsinki Suomen Yleisradio Network </F>
+<F P="105">  Finnish </F>
 
 
 <TEXT>
@@ -3081,15 +3082,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> West Europe </F>
+<F P="100"> West Europe </F>
 <H3> <TI>   Further on Visit by Finnish Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Further on Visit by Finnish Prime Minister </PHRASE></F></HT>
 <H4>    Finnish Premier Concludes Visit </H4>
 
-<F P=102> OW1104062294 Beijing XINHUA in English 0606 GMT 11 Apr 94 </F>
-<F P=103> OW1104062294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1104062294 Beijing XINHUA in English 0606 GMT 11 Apr 94 </F>
+<F P="103"> OW1104062294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3142,15 +3143,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> United States &amp; Canada </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> United States  amp; Canada </F>
 <H3> <TI>   President Clinton Comments on Hosokawa's Resignation </TI></H3>
-<HT><F P=107><PHRASE>    President Clinton Comments on Hosokawa's Resignation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    President Clinton Comments on Hosokawa's Resignation </PHRASE></F></HT>
 
-<F P=102>   OW0804224294 Beijing XINHUA in English 2119 GMT 8 Apr 94 </F>
-<F P=103> OW0804224294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804224294 Beijing XINHUA in English 2119 GMT 8 Apr 94 </F>
+<F P="103"> OW0804224294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3203,15 +3204,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> United States &amp; Canada </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> United States  amp; Canada </F>
 <H3> <TI>   Liu Huaqing Meets Former Defense Secretary Cheney </TI></H3>
-<HT><F P=107><PHRASE>    Liu Huaqing Meets Former Defense Secretary Cheney </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liu Huaqing Meets Former Defense Secretary Cheney </PHRASE></F></HT>
 
-<F P=102>   OW0804122194 Beijing XINHUA in English 1201 GMT 8 Apr 94 </F>
-<F P=103> OW0804122194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804122194 Beijing XINHUA in English 1201 GMT 8 Apr 94 </F>
+<F P="103"> OW0804122194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3250,15 +3251,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> United States &amp; Canada </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> United States  amp; Canada </F>
 <H3> <TI>   Qian Qichen Meets Former Secretary Brown </TI></H3>
-<HT><F P=107><PHRASE>    Qian Qichen Meets Former Secretary Brown </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Qian Qichen Meets Former Secretary Brown </PHRASE></F></HT>
 
-<F P=102>   OW0804132094 Beijing XINHUA in English 1244 GMT 8 Apr 94 </F>
-<F P=103> OW0804132094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804132094 Beijing XINHUA in English 1244 GMT 8 Apr 94 </F>
+<F P="103"> OW0804132094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3302,15 +3303,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> United States &amp; Canada </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> United States  amp; Canada </F>
 <H3> <TI>   Li Lanqing Meets Former Secretary Alexander Haig </TI></H3>
-<HT><F P=107><PHRASE>    Li Lanqing Meets Former Secretary Alexander Haig </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Lanqing Meets Former Secretary Alexander Haig </PHRASE></F></HT>
 
-<F P=102>   OW0904123394 Beijing XINHUA in English 1108 GMT 9 Apr 94 </F>
-<F P=103> OW0904123394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904123394 Beijing XINHUA in English 1108 GMT 9 Apr 94 </F>
+<F P="103"> OW0904123394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3340,21 +3341,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> United States &amp; Canada </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> United States  amp; Canada </F>
 <H3> <TI>   Upcoming Sino-U.S. Technical Cooperation Talks </TI></H3>
-<HT><F P=107><PHRASE>    Upcoming Sino-U.S. Technical Cooperation Talks </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Upcoming Sino-U.S. Technical Cooperation Talks </PHRASE></F></HT>
 
-<F P=102>   HK1004080094 Beijing CHINA DAILY in English 9 Apr 94 p 1 </F>
-<F P=103> HK1004080094 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102">   HK1004080094 Beijing CHINA DAILY in English 9 Apr 94 p 1 </F>
+<F P="103"> HK1004080094 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Wu Yunhe: "Song Heads Team to U.S. for </F>
+<F P="106"> [By staff reporter Wu Yunhe: "Song Heads Team to U.S. for </F>
 Technical Cooperation"] 
   [Text] State Councillor Song Jian leaves for Washington 
 today on a two-week official visit that looks to enhance 
@@ -3418,23 +3419,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> United States &amp; Canada </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> United States  amp; Canada </F>
 <H3> <TI>   Sino-U.S. Meeting on Illegal Immigrants Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Sino-U.S. Meeting on Illegal Immigrants Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sino-U.S. Meeting on Illegal Immigrants Viewed </PHRASE></F></HT>
 
-<F P=102>   HK1004064694 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
+<F P="102">   HK1004064694 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
 English 10 Apr 94 p 6 </F>
 
-<F P=103> HK1004064694 </F>
-<F P=104>  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1004064694 </F>
+<F P="104">  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From Simon Beck in Washington] </F>
+<F P="106"> [From Simon Beck in Washington] </F>
   [Text] When a delegation of senior State Department and 
 immigration officials arrives in Beijing tomorrow, their meeting 
 with Chinese counterparts will not be taking place under the 
@@ -3549,15 +3550,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> INTERNATIONAL AFFAIRS </F>
-<F P=101> United States &amp; Canada </F>
+<F P="100"> INTERNATIONAL AFFAIRS </F>
+<F P="101"> United States  amp; Canada </F>
 <H3> <TI>   Agriculture Delegation Departs for U.S. Visit </TI></H3>
-<HT><F P=107><PHRASE>    Agriculture Delegation Departs for U.S. Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Agriculture Delegation Departs for U.S. Visit </PHRASE></F></HT>
 
-<F P=102>   OW1004045394 Beijing XINHUA in English 0230 GMT 10 Apr 94 </F>
-<F P=103> OW1004045394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004045394 Beijing XINHUA in English 0230 GMT 10 Apr 94 </F>
+<F P="103"> OW1004045394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -3588,21 +3589,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu Amends Land Law Implementation Procedures </TI></H3>
-<HT><F P=107><PHRASE>    Jiangsu Amends Land Law Implementation Procedures </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangsu Amends Land Law Implementation Procedures </PHRASE></F></HT>
 
-<F P=102>   OW1004015094 Nanjing XINHUA RIBAO in Chinese 5 Mar 94 p 5 </F>
-<F P=103> OW1004015094 </F>
-<F P=104>  Nanjing XINHUA RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   OW1004015094 Nanjing XINHUA RIBAO in Chinese 5 Mar 94 p 5 </F>
+<F P="103"> OW1004015094 </F>
+<F P="104">  Nanjing XINHUA RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["The Decision of the Standing Committee of the Jiangsu </F>
+<F P="106"> ["The Decision of the Standing Committee of the Jiangsu </F>
 Provincial People's Congress on Amending the `Procedures for 
 Implementing the "Land Management Law" of Jiangsu Province' 
 Adopted at the Sixth Meeting of the Standing Committee of the 
@@ -3719,21 +3720,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Regulations on Jiangsu Transient Population </TI></H3>
-<HT><F P=107><PHRASE>    Regulations on Jiangsu Transient Population </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Regulations on Jiangsu Transient Population </PHRASE></F></HT>
 
-<F P=102>   OW1004213194 Nanjing XINHUA RIBAO in Chinese 5 Mar 94 p 5 </F>
-<F P=103> OW1004213194 </F>
-<F P=104>  Nanjing XINHUA RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   OW1004213194 Nanjing XINHUA RIBAO in Chinese 5 Mar 94 p 5 </F>
+<F P="103"> OW1004213194 </F>
+<F P="104">  Nanjing XINHUA RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Jiangsu Provincial Regulations Governing the Transient </F>
+<F P="106"> ["Jiangsu Provincial Regulations Governing the Transient </F>
 Population (adopted at the Sixth Meeting of the Standing 
 Committee of the Eighth Jiangsu Provincial People's Congress on 
 22 February 1994)"] 
@@ -4064,17 +4065,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangxi Penalizes Price Regulation Breaches </TI></H3>
-<HT><F P=107><PHRASE>    Jiangxi Penalizes Price Regulation Breaches </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangxi Penalizes Price Regulation Breaches </PHRASE></F></HT>
 
-<F P=102>   HK0904034394 Beijing ZHONGGUO XINWEN SHE in English 1242 GMT 
+<F P="102">   HK0904034394 Beijing ZHONGGUO XINWEN SHE in English 1242 GMT 
 8 Apr 94 </F>
 
-<F P=103> HK0904034394 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0904034394 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4116,17 +4117,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong Secretary Visits Industrial University </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Secretary Visits Industrial University </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Secretary Visits Industrial University </PHRASE></F></HT>
 
-<F P=102>   SK1004045394 Jinan Shandong People's Radio Network in 
+<F P="102">   SK1004045394 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 9 Apr 94 </F>
 
-<F P=103> SK1004045394 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK1004045394 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -4254,17 +4255,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong Holds Propaganda Work Conference </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Holds Propaganda Work Conference </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Holds Propaganda Work Conference </PHRASE></F></HT>
 
-<F P=102>   SK0904010794 Jinan Shandong People's Radio Network in 
+<F P="102">   SK0904010794 Jinan Shandong People's Radio Network in 
 Mandarin 2300 GMT 7 Apr 94 </F>
 
-<F P=103> SK0904010794 </F>
-<F P=104>  Jinan Shandong People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK0904010794 </F>
+<F P="104">  Jinan Shandong People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -4457,15 +4458,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong Uses World Bank Loan To Develop Economy </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Uses World Bank Loan To Develop Economy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Uses World Bank Loan To Develop Economy </PHRASE></F></HT>
 
-<F P=102>   OW0904123994 Beijing XINHUA in English 1027 GMT 9 Apr 94 </F>
-<F P=103> OW0904123994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904123994 Beijing XINHUA in English 1027 GMT 9 Apr 94 </F>
+<F P="103"> OW0904123994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4537,17 +4538,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Foreign Exchange Trading Center Opens </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Foreign Exchange Trading Center Opens </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Foreign Exchange Trading Center Opens </PHRASE></F></HT>
 
-<F P=102>   HK0904083494 Beijing ZHONGGUO XINWEN SHE in English 0602 GMT 
+<F P="102">   HK0904083494 Beijing ZHONGGUO XINWEN SHE in English 0602 GMT 
 9 Apr 94 </F>
 
-<F P=103> HK0904083494 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0904083494 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4601,15 +4602,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Stock Exchange Uses Latest Technology </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Stock Exchange Uses Latest Technology </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Stock Exchange Uses Latest Technology </PHRASE></F></HT>
 
-<F P=102>   OW0904095094 Beijing XINHUA in English 0833 GMT 9 Apr 94 </F>
-<F P=103> OW0904095094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904095094 Beijing XINHUA in English 0833 GMT 9 Apr 94 </F>
+<F P="103"> OW0904095094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4679,15 +4680,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Companies Open Businesses Overseas </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Companies Open Businesses Overseas </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Companies Open Businesses Overseas </PHRASE></F></HT>
 
-<F P=102>   OW0904120494 Beijing XINHUA in English 0927 GMT 9 Apr 94 </F>
-<F P=103> OW0904120494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904120494 Beijing XINHUA in English 0927 GMT 9 Apr 94 </F>
+<F P="103"> OW0904120494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4742,15 +4743,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai 1st Quarter Industrial Output Reported </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai 1st Quarter Industrial Output Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai 1st Quarter Industrial Output Reported </PHRASE></F></HT>
 
-<F P=102>   OW0904074094 Beijing XINHUA in English 0622 GMT 9 Apr 94 </F>
-<F P=103> OW0904074094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904074094 Beijing XINHUA in English 0622 GMT 9 Apr 94 </F>
+<F P="103"> OW0904074094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4800,15 +4801,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai's Economy Grows Steadily in 1st Quarter </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai's Economy Grows Steadily in 1st Quarter </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai's Economy Grows Steadily in 1st Quarter </PHRASE></F></HT>
 
-<F P=102>   OW0904134594 Beijing XINHUA in English 1326 GMT 9 Apr 94 </F>
-<F P=103> OW0904134594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904134594 Beijing XINHUA in English 1326 GMT 9 Apr 94 </F>
+<F P="103"> OW0904134594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -4876,23 +4877,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Authorities Move Against Unfair Pricing </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Authorities Move Against Unfair Pricing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Authorities Move Against Unfair Pricing </PHRASE></F></HT>
 
-<F P=102>   OW1004125894 Beijing XINHUA Domestic Service in Chinese 0958 
+<F P="102">   OW1004125894 Beijing XINHUA Domestic Service in Chinese 0958 
 GMT 2 Apr 94 </F>
 
-<F P=103> OW1004125894 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1004125894 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by XINHUA reporter Li Zhenghong (0632 2973 1347) </F>
+<F P="106"> [Article by XINHUA reporter Li Zhenghong (0632 2973 1347) </F>
 and correspondent Li Xuewu (2621 1331 2976): "Shanghai Acts 
 `Against Staggering Profits'"] 
   [Text] Shanghai, 2 Apr (XINHUA) -- On 1 April, the day 
@@ -4979,23 +4980,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Enforces Laws Against Commercial Fraud </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Enforces Laws Against Commercial Fraud </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Enforces Laws Against Commercial Fraud </PHRASE></F></HT>
 
-<F P=102>   OW0804184594 Shanghai People's Radio Network in Mandarin 
+<F P="102">   OW0804184594 Shanghai People's Radio Network in Mandarin 
 2300 GMT 31 Mar 94 </F>
 
-<F P=103> OW0804184594 </F>
-<F P=104>  Shanghai People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> OW0804184594 </F>
+<F P="104">  Shanghai People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "Morning News" program] </F>
+<F P="106"> [From the "Morning News" program] </F>
   [Text] The enforcement of the Shanghai Municipal Price 
 Bureau's interim provisions against price cheating and schemes 
 to reap exorbitant profits began throughout the municipality on 
@@ -5031,14 +5032,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Wu Xueqian Leaves for Seven-Day Visit to ROK </TI></H3>
-<HT><F P=107><PHRASE>    Wu Xueqian Leaves for Seven-Day Visit to ROK </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Wu Xueqian Leaves for Seven-Day Visit to ROK </PHRASE></F></HT>
 
-<F P=102>   OW1004072994 Beijing XINHUA in English 0717 GMT 10 Apr 94 </F>
-<F P=103> OW1004072994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004072994 Beijing XINHUA in English 0717 GMT 10 Apr 94 </F>
+<F P="103"> OW1004072994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5069,14 +5070,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   XINHUA Reports Arrival </TI></H3>
-<HT><F P=107><PHRASE>    XINHUA Reports Arrival </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    XINHUA Reports Arrival </PHRASE></F></HT>
 
-<F P=102>   OW1004094594 Beijing XINHUA in English 0921 GMT 10 Apr 94 </F>
-<F P=103> OW1004094594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004094594 Beijing XINHUA in English 0921 GMT 10 Apr 94 </F>
+<F P="103"> OW1004094594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5119,16 +5120,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Liaoning Secretary Departs for DPRK Visit </TI></H3>
-<HT><F P=107><PHRASE>    Liaoning Secretary Departs for DPRK Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liaoning Secretary Departs for DPRK Visit </PHRASE></F></HT>
 
-<F P=102>   SK1104011794 Shenyang Liaoning People's Radio Network in 
+<F P="102">   SK1104011794 Shenyang Liaoning People's Radio Network in 
 Mandarin 1000 GMT 10 Apr 94 </F>
 
-<F P=103> SK1104011794 </F>
-<F P=104>  Shenyang Liaoning People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK1104011794 </F>
+<F P="104">  Shenyang Liaoning People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -5173,20 +5174,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   XINHUA: Seoul Reviews Policy Toward DPRK </TI></H3>
-<HT><F P=107><PHRASE>    XINHUA: Seoul Reviews Policy Toward DPRK </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    XINHUA: Seoul Reviews Policy Toward DPRK </PHRASE></F></HT>
 
-<F P=102>   OW0804124594 Beijing XINHUA in English 1159 GMT 8 Apr 94 </F>
-<F P=103> OW0804124594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804124594 Beijing XINHUA in English 1159 GMT 8 Apr 94 </F>
+<F P="103"> OW0804124594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Seoul Reviews Policy Toward DPRK" -- XINHUA headline] </F>
+<F P="106"> ["Seoul Reviews Policy Toward DPRK" -- XINHUA headline] </F>
   [Text] Seoul, April 8 (XINHUA) -- The South Korean 
 Government held a meeting today to review its overall policy 
 toward the Democratic People's Republic of Korea (DPRK). 
@@ -5232,21 +5233,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Reportage on Resignation of Japan's Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
 <H4>    Resigns Over Diet Stalement </H4>
 
-<F P=102> OW0804134894 Beijing XINHUA in English 1304 GMT 8 Apr 94 </F>
-<F P=103> OW0804134894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804134894 Beijing XINHUA in English 1304 GMT 8 Apr 94 </F>
+<F P="103"> OW0804134894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Hosokawa Quits Over Diet Stalemate"] </F>
+<F P="106"> ["Hosokawa Quits Over Diet Stalemate"] </F>
   [Text] Tokyo, April 8 (XINHUA) -- Prime Minister Morihiro 
 Hosokawa announced his resignation today to "take moral 
 responsibility" for money scandals that have stalled Diet 
@@ -5331,15 +5332,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Reportage on Resignation of Japan's Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
 <H4>    Hata Denies Succession Intentions </H4>
 
-<F P=102> OW0804114794 Beijing XINHUA in English 1035 GMT 8 Apr 94 </F>
-<F P=103> OW0804114794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804114794 Beijing XINHUA in English 1035 GMT 8 Apr 94 </F>
+<F P="103"> OW0804114794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5379,15 +5380,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Reportage on Resignation of Japan's Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
 <H4>    Spokesman Views Resignation </H4>
 
-<F P=102> OW0804120494 Beijing XINHUA in English 1140 GMT 8 Apr 94 </F>
-<F P=103> OW0804120494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804120494 Beijing XINHUA in English 1140 GMT 8 Apr 94 </F>
+<F P="103"> OW0804120494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5420,21 +5421,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Reportage on Resignation of Japan's Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
 <H4>    `News Analysis' Assesses Effects </H4>
 
-<F P=102> OW0804165294 Beijing XINHUA in English 1550 GMT 8 Apr 94 </F>
-<F P=103> OW0804165294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804165294 Beijing XINHUA in English 1550 GMT 8 Apr 94 </F>
+<F P="103"> OW0804165294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["News Analysis" by Tan Jianrong: "Hosokawa's Resignation </F>
+<F P="106"> ["News Analysis" by Tan Jianrong: "Hosokawa's Resignation </F>
 Deepens Political Turmoil"] 
   [Text] Tokyo, April 8 (XINHUA) -- Prime Minister Morihiro 
 Hosokawa's sudden announcement today to resign because of his 
@@ -5546,21 +5547,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Reportage on Resignation of Japan's Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
 <H4>    Socialists To Accept Coalition Consensus </H4>
 
-<F P=102> OW0804130894 Beijing XINHUA in English 1126 GMT 8 Apr 94 </F>
-<F P=103> OW0804130894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804130894 Beijing XINHUA in English 1126 GMT 8 Apr 94 </F>
+<F P="103"> OW0804130894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Japan Socialists To Accept Coalition Consensus on New </F>
+<F P="106"> ["Japan Socialists To Accept Coalition Consensus on New </F>
 Premier" -- XINHUA headline] 
   [Text] Tokyo, April 8 (XINHUA) -- The Social Democratic 
 Party of Japan (SDP), the largest political force within the 
@@ -5600,15 +5601,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Reportage on Resignation of Japan's Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
 <H4>    Coalition Fails To Choose Successor </H4>
 
-<F P=102> OW0904144794 Beijing XINHUA in English 1408 GMT 9 Apr 94 </F>
-<F P=103> OW0904144794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904144794 Beijing XINHUA in English 1408 GMT 9 Apr 94 </F>
+<F P="103"> OW0904144794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5668,21 +5669,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Reportage on Resignation of Japan's Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on Resignation of Japan's Prime Minister </PHRASE></F></HT>
 <H4>    `News Analysis' on Selection </H4>
 
-<F P=102> OW1004175494 Beijing XINHUA in English 1557 GMT 10 Apr 94 </F>
-<F P=103> OW1004175494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1004175494 Beijing XINHUA in English 1557 GMT 10 Apr 94 </F>
+<F P="103"> OW1004175494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["News Analysis" by Tan Jianrong: "Choice of Hosokawa's </F>
+<F P="106"> ["News Analysis" by Tan Jianrong: "Choice of Hosokawa's </F>
 Successor Splits Coalition"] 
   [Text] Tokyo, April 10 (XINHUA) -- While coalition leaders 
 stressed today that the framework of the current coalition 
@@ -5803,14 +5804,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Li Lanqing Meets Malaysian State Chief Minister </TI></H3>
-<HT><F P=107><PHRASE>    Li Lanqing Meets Malaysian State Chief Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Lanqing Meets Malaysian State Chief Minister </PHRASE></F></HT>
 
-<F P=102>   OW0904123294 Beijing XINHUA in English 1103 GMT 9 Apr 94 </F>
-<F P=103> OW0904123294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904123294 Beijing XINHUA in English 1103 GMT 9 Apr 94 </F>
+<F P="103"> OW0904123294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5842,14 +5843,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Malaysian Minister Meets Visiting Official </TI></H3>
-<HT><F P=107><PHRASE>    Malaysian Minister Meets Visiting Official </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Malaysian Minister Meets Visiting Official </PHRASE></F></HT>
 
-<F P=102>   OW0704150694 Beijing XINHUA in English 1307 GMT 7 Apr 94 </F>
-<F P=103> OW0704150694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0704150694 Beijing XINHUA in English 1307 GMT 7 Apr 94 </F>
+<F P="103"> OW0704150694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5920,14 +5921,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Zou Jiahua Meets Singapore Communications Minister </TI></H3>
-<HT><F P=107><PHRASE>    Zou Jiahua Meets Singapore Communications Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zou Jiahua Meets Singapore Communications Minister </PHRASE></F></HT>
 
-<F P=102>   OW0804131094 Beijing XINHUA in English 1129 GMT 8 Apr 94 </F>
-<F P=103> OW0804131094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804131094 Beijing XINHUA in English 1129 GMT 8 Apr 94 </F>
+<F P="103"> OW0804131094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -5958,14 +5959,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Liu Huaqing Meets Vietnamese Military Chief </TI></H3>
-<HT><F P=107><PHRASE>    Liu Huaqing Meets Vietnamese Military Chief </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liu Huaqing Meets Vietnamese Military Chief </PHRASE></F></HT>
 
-<F P=102>   OW1004130894 Beijing XINHUA in English 1242 GMT 10 Apr 94 </F>
-<F P=103> OW1004130894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004130894 Beijing XINHUA in English 1242 GMT 10 Apr 94 </F>
+<F P="103"> OW1004130894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6031,14 +6032,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Qiao Shi Talks With Vietnamese Military Leader </TI></H3>
-<HT><F P=107><PHRASE>    Qiao Shi Talks With Vietnamese Military Leader </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Qiao Shi Talks With Vietnamese Military Leader </PHRASE></F></HT>
 
-<F P=102>   OW1104132694 Beijing XINHUA in English 1309 GMT 11 Apr 94 </F>
-<F P=103> OW1104132694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104132694 Beijing XINHUA in English 1309 GMT 11 Apr 94 </F>
+<F P="103"> OW1104132694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6083,14 +6084,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Chen Xitong Meets Vietnamese Party Delegation </TI></H3>
-<HT><F P=107><PHRASE>    Chen Xitong Meets Vietnamese Party Delegation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chen Xitong Meets Vietnamese Party Delegation </PHRASE></F></HT>
 
-<F P=102>   OW1104081194 Beijing XINHUA in English 0744 GMT 11 Apr 94 </F>
-<F P=103> OW1104081194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104081194 Beijing XINHUA in English 0744 GMT 11 Apr 94 </F>
+<F P="103"> OW1104081194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6123,14 +6124,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Beijing, SRV Sign Tourism Accord in Hanoi </TI></H3>
-<HT><F P=107><PHRASE>    Beijing, SRV Sign Tourism Accord in Hanoi </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing, SRV Sign Tourism Accord in Hanoi </PHRASE></F></HT>
 
-<F P=102>   OW0804121794 Beijing XINHUA in English 1132 GMT 8 Apr 94 </F>
-<F P=103> OW0804121794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804121794 Beijing XINHUA in English 1132 GMT 8 Apr 94 </F>
+<F P="103"> OW0804121794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6170,14 +6171,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   PRC, Vietnam Sign Accord on Transit of Goods </TI></H3>
-<HT><F P=107><PHRASE>    PRC, Vietnam Sign Accord on Transit of Goods </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PRC, Vietnam Sign Accord on Transit of Goods </PHRASE></F></HT>
 
-<F P=102>   OW0904094194 Beijing XINHUA in English 0832 GMT 9 Apr 94 </F>
-<F P=103> OW0904094194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904094194 Beijing XINHUA in English 0832 GMT 9 Apr 94 </F>
+<F P="103"> OW0904094194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6211,15 +6212,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Near East &amp; South Asia </F>
+<F P="100"> Near East  amp; South Asia </F>
 <H3> <TI>   PLO Foreign Minister Faruq Qaddumi on Visit </TI></H3>
-<HT><F P=107><PHRASE>    PLO Foreign Minister Faruq Qaddumi on Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PLO Foreign Minister Faruq Qaddumi on Visit </PHRASE></F></HT>
 <H4>    Foreign Ministers Hold Talks </H4>
 
-<F P=102> OW0804130194 Beijing XINHUA in English 1244 GMT 8 Apr 94 </F>
-<F P=103> OW0804130194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804130194 Beijing XINHUA in English 1244 GMT 8 Apr 94 </F>
+<F P="103"> OW0804130194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6295,17 +6296,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Near East &amp; South Asia </F>
+<F P="100"> Near East  amp; South Asia </F>
 <H3> <TI>   PLO Foreign Minister Faruq Qaddumi on Visit </TI></H3>
-<HT><F P=107><PHRASE>    PLO Foreign Minister Faruq Qaddumi on Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PLO Foreign Minister Faruq Qaddumi on Visit </PHRASE></F></HT>
 <H4>    Rong Yiren: PRC Supports Peace Process </H4>
 
-<F P=102> OW0904085094 Beijing XINHUA Domestic Service in Chinese 0735 
+<F P="102"> OW0904085094 Beijing XINHUA Domestic Service in Chinese 0735 
 GMT 9 Apr 94 </F>
 
-<F P=103> OW0904085094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0904085094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -6359,15 +6360,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Near East &amp; South Asia </F>
+<F P="100"> Near East  amp; South Asia </F>
 <H3> <TI>   PLO Foreign Minister Faruq Qaddumi on Visit </TI></H3>
-<HT><F P=107><PHRASE>    PLO Foreign Minister Faruq Qaddumi on Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PLO Foreign Minister Faruq Qaddumi on Visit </PHRASE></F></HT>
 <H4>    XINHUA Interviews Qaddumi </H4>
 
-<F P=102> OW1004040494 Beijing XINHUA in English 0317 GMT 10 Apr 94 </F>
-<F P=103> OW1004040494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1004040494 Beijing XINHUA in English 0317 GMT 10 Apr 94 </F>
+<F P="103"> OW1004040494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6429,14 +6430,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   XINHUA: Serbs `Strongly' Protest Bombing </TI></H3>
-<HT><F P=107><PHRASE>    XINHUA: Serbs `Strongly' Protest Bombing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    XINHUA: Serbs `Strongly' Protest Bombing </PHRASE></F></HT>
 
-<F P=102>   OW1104101994 Beijing XINHUA in English 0915 GMT 11 Apr 94 </F>
-<F P=103> OW1104101994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104101994 Beijing XINHUA in English 0915 GMT 11 Apr 94 </F>
+<F P="103"> OW1104101994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6491,15 +6492,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Combating of Illegal Textile Transshipment Reviewed </TI></H3>
-<HT><F P=107><PHRASE>    Combating of Illegal Textile Transshipment Reviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Combating of Illegal Textile Transshipment Reviewed </PHRASE></F></HT>
 <H4>    Measures `Check' Illegal Trade </H4>
 
-<F P=102> OW1004153294 Beijing XINHUA in English 1506 GMT 10 Apr 94 </F>
-<F P=103> OW1004153294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1004153294 Beijing XINHUA in English 1506 GMT 10 Apr 94 </F>
+<F P="103"> OW1004153294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -6582,23 +6583,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Combating of Illegal Textile Transshipment Reviewed </TI></H3>
-<HT><F P=107><PHRASE>    Combating of Illegal Textile Transshipment Reviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Combating of Illegal Textile Transshipment Reviewed </PHRASE></F></HT>
 <H4>    Four Firms `Sternly Punished' </H4>
 
-<F P=102> OW1004135794 Beijing XINHUA Domestic Service in Chinese 1012 
+<F P="102"> OW1004135794 Beijing XINHUA Domestic Service in Chinese 1012 
 GMT 10 Apr 94 </F>
 
-<F P=103> OW1004135794 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1004135794 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By RENMIN RIBAO reporter Zheng Degang (6774 1795 0474) and </F>
+<F P="106"> [By RENMIN RIBAO reporter Zheng Degang (6774 1795 0474) and </F>
 XINHUA reporter Jiang Jun (1203 6511)] 
   [Text] Guangzhou, 10 Apr (XINHUA) -- Four enterprises in 
 Shenyang, Fujian, and Guangdong have been sternly punished by 
@@ -6687,23 +6688,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Reportage on National Foreign Exchange Center </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on National Foreign Exchange Center </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on National Foreign Exchange Center </PHRASE></F></HT>
 <H4>    Operations Officially Begin 4 Apr </H4>
 
-<F P=102> OW0704125194 Beijing XINHUA Domestic Service in Chinese 0958 
+<F P="102"> OW0704125194 Beijing XINHUA Domestic Service in Chinese 0958 
 GMT 4 Apr 94 </F>
 
-<F P=103> OW0704125194 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0704125194 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By reporter Wang Hongyang (3076 3163 3152)] </F>
+<F P="106"> [By reporter Wang Hongyang (3076 3163 3152)] </F>
   [Text] Shanghai, 4 Apr (XINHUA) -- The China Foreign 
 Exchange Trading Center [CFETC] officially began its trading 
 operations here today. 
@@ -6781,21 +6782,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Reportage on National Foreign Exchange Center </TI></H3>
-<HT><F P=107><PHRASE>    Reportage on National Foreign Exchange Center </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reportage on National Foreign Exchange Center </PHRASE></F></HT>
 <H4>    Operating Smoothly As of 6 Apr </H4>
 
-<F P=102> HK0604072194 Beijing CHINA DAILY in English 6 Apr 94 p 2 </F>
-<F P=103> HK0604072194 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102"> HK0604072194 Beijing CHINA DAILY in English 6 Apr 94 p 2 </F>
+<F P="103"> HK0604072194 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Ren Kan: "Forex Market Opens Smoothly"] </F>
+<F P="106"> [By staff reporter Ren Kan: "Forex Market Opens Smoothly"] </F>
   [Text] The country's first interbank foreign exchange 
 market has been operating smoothly since it started trading on 
 Monday. 
@@ -6843,22 +6844,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Officials `Not Optimistic' About Balancing Trade </TI></H3>
-<HT><F P=107><PHRASE>    Officials `Not Optimistic' About Balancing Trade </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials `Not Optimistic' About Balancing Trade </PHRASE></F></HT>
 
-<F P=102>   HK1004082694 Beijing CHINA DAILY (BUSINESS WEEKLY) in 
+<F P="102">   HK1004082694 Beijing CHINA DAILY (BUSINESS WEEKLY) in 
 English 10-16 Apr 94 p 1 </F>
 
-<F P=103> HK1004082694 </F>
-<F P=104>  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
-<F P=105>  English </F>
+<F P="103"> HK1004082694 </F>
+<F P="104">  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Pei Jianfeng: "Faint Hopes for Balancing </F>
+<F P="106"> [By staff reporter Pei Jianfeng: "Faint Hopes for Balancing </F>
 Trade"] 
   [Text] Even though the growth in exports accelerated in 
 the first two months of 1994, government experts are not 
@@ -6930,22 +6931,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Official Says SEZ's Must Be Self-Reliant </TI></H3>
-<HT><F P=107><PHRASE>    Official Says SEZ's Must Be Self-Reliant </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Official Says SEZ's Must Be Self-Reliant </PHRASE></F></HT>
 
-<F P=102>   OW0904205594 Beijing XINHUA Domestic Service in Chinese 1416 
+<F P="102">   OW0904205594 Beijing XINHUA Domestic Service in Chinese 1416 
 GMT 8 Apr 94 </F>
 
-<F P=103> OW0904205594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0904205594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By reporter Xie Jinhu (6200 6855 5706)] </F>
+<F P="106"> [By reporter Xie Jinhu (6200 6855 5706)] </F>
   [Text] Shanghai, 8 Apr (XINHUA) -- Hu Ping, director of the 
 State Council's Special Economic Zone [SEZ] Office, said after 
 his inspection of the Pudong district: From now on, the 
@@ -6991,16 +6992,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Shenzhen `Fifth Strongest' Developing City </TI></H3>
-<HT><F P=107><PHRASE>    Shenzhen `Fifth Strongest' Developing City </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shenzhen `Fifth Strongest' Developing City </PHRASE></F></HT>
 
-<F P=102>   HK0804140394 Beijing ZHONGGUO XINWEN SHE in English 0846 GMT 
+<F P="102">   HK0804140394 Beijing ZHONGGUO XINWEN SHE in English 0846 GMT 
 8 Apr 94 </F>
 
-<F P=103> HK0804140394 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0804140394 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7053,16 +7054,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Law To Standardize Government Purchasing Planned </TI></H3>
-<HT><F P=107><PHRASE>    Law To Standardize Government Purchasing Planned </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Law To Standardize Government Purchasing Planned </PHRASE></F></HT>
 
-<F P=102>   HK0904083294 Beijing ZHONGGUO XINWEN SHE in English 0300 GMT 
+<F P="102">   HK0904083294 Beijing ZHONGGUO XINWEN SHE in English 0300 GMT 
 9 Apr 94 </F>
 
-<F P=103> HK0904083294 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0904083294 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7111,14 +7112,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Regulatory Committee To Re-Examine Futures Firms </TI></H3>
-<HT><F P=107><PHRASE>    Regulatory Committee To Re-Examine Futures Firms </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Regulatory Committee To Re-Examine Futures Firms </PHRASE></F></HT>
 
-<F P=102>   OW0804140394 Beijing XINHUA in English 1319 GMT 8 Apr 94 </F>
-<F P=103> OW0804140394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804140394 Beijing XINHUA in English 1319 GMT 8 Apr 94 </F>
+<F P="103"> OW0804140394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7177,22 +7178,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   State Interests Stressed in Dividend Distribution </TI></H3>
-<HT><F P=107><PHRASE>    State Interests Stressed in Dividend Distribution </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    State Interests Stressed in Dividend Distribution </PHRASE></F></HT>
 
-<F P=102>   OW1004005794 Beijing XINHUA Domestic Service in Chinese 1025 
+<F P="102">   OW1004005794 Beijing XINHUA Domestic Service in Chinese 1025 
 GMT 8 Apr 94 </F>
 
-<F P=103> OW1004005794 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1004005794 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By correspondent Ding Jianming (0002 1017 6900)] </F>
+<F P="106"> [By correspondent Ding Jianming (0002 1017 6900)] </F>
   [Text] Beijing, 8 Apr (XINHUA) -- The State-Owned Property 
 Administrative Bureau recently issued an urgent circular on 
 state shares and share allocation, emphasizing that listed 
@@ -7288,24 +7289,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   CCTV Program on Consumption, Resource Taxes </TI></H3>
-<HT><F P=107><PHRASE>    CCTV Program on Consumption, Resource Taxes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    CCTV Program on Consumption, Resource Taxes </PHRASE></F></HT>
 
-<F P=102>   OW0904224194 Beijing Central Television Program One Network 
+<F P="102">   OW0904224194 Beijing Central Television Program One Network 
 in Mandarin 0220 GMT 26 Feb 94 </F>
 
-<F P=103> OW0904224194 </F>
-<F P=104>  Beijing Central Television Program One Network 
+<F P="103"> OW0904224194 </F>
+<F P="104">  Beijing Central Television Program One Network 
 in Mandarin 0220 GMT 26 Feb 94 </F>
 
-<F P=105> Mandarin </F>
+<F P="105"> Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Fifth of seven question-and-answer talks sponsored by the </F>
+<F P="106"> [Fifth of seven question-and-answer talks sponsored by the </F>
 State Economic and Trade Commission and the State General 
 Administration of Taxation, chaired by Jiang Qiangui, director 
 of the State Economic and Trade Commission's Enterprise 
@@ -7404,14 +7405,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Chain Stores Spreading in Large Coastal Cities </TI></H3>
-<HT><F P=107><PHRASE>    Chain Stores Spreading in Large Coastal Cities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chain Stores Spreading in Large Coastal Cities </PHRASE></F></HT>
 
-<F P=102>   OW0904013994 Beijing XINHUA in English 0126 GMT 9 Apr 94 </F>
-<F P=103> OW0904013994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904013994 Beijing XINHUA in English 0126 GMT 9 Apr 94 </F>
+<F P="103"> OW0904013994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7457,16 +7458,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Urban Unemployment Rate at 2.6 Percent in 1993 </TI></H3>
-<HT><F P=107><PHRASE>    Urban Unemployment Rate at 2.6 Percent in 1993 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Urban Unemployment Rate at 2.6 Percent in 1993 </PHRASE></F></HT>
 
-<F P=102>   HK0904083394 Beijing ZHONGGUO XINWEN SHE in English 0603 GMT 
+<F P="102">   HK0904083394 Beijing ZHONGGUO XINWEN SHE in English 0603 GMT 
 9 Apr 94 </F>
 
-<F P=103> HK0904083394 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0904083394 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7507,14 +7508,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Forum To Study Speeding Up Chang Jiang Economy </TI></H3>
-<HT><F P=107><PHRASE>    Forum To Study Speeding Up Chang Jiang Economy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Forum To Study Speeding Up Chang Jiang Economy </PHRASE></F></HT>
 
-<F P=102>   OW0904102694 Beijing XINHUA in English 0847 GMT 9 Apr 94 </F>
-<F P=103> OW0904102694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904102694 Beijing XINHUA in English 0847 GMT 9 Apr 94 </F>
+<F P="103"> OW0904102694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7564,22 +7565,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Foreign Capital Sought To Fund Highways </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Capital Sought To Fund Highways </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Capital Sought To Fund Highways </PHRASE></F></HT>
 
-<F P=102>   HK1004082394 Beijing CHINA DAILY (BUSINESS WEEKLY) in 
+<F P="102">   HK1004082394 Beijing CHINA DAILY (BUSINESS WEEKLY) in 
 English 10-16 Apr 94 p 1 </F>
 
-<F P=103> HK1004082394 </F>
-<F P=104>  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
-<F P=105>  English </F>
+<F P="103"> HK1004082394 </F>
+<F P="104">  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Dai Songcheng: "Foreign Capital Paves </F>
+<F P="106"> [By staff reporter Dai Songcheng: "Foreign Capital Paves </F>
 Way for Roadworks"] 
   [Text] China is attracting foreign investment and 
 co-operation in building four trunk loads linking the country's 
@@ -7663,14 +7664,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   New Shipping Service to Europe Inaugurated </TI></H3>
-<HT><F P=107><PHRASE>    New Shipping Service to Europe Inaugurated </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Shipping Service to Europe Inaugurated </PHRASE></F></HT>
 
-<F P=102>   OW0904093994 Beijing XINHUA in English 0716 GMT 9 Apr 94 </F>
-<F P=103> OW0904093994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904093994 Beijing XINHUA in English 0716 GMT 9 Apr 94 </F>
+<F P="103"> OW0904093994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7716,14 +7717,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Society Acclaimed for Ship Survey Quality System </TI></H3>
-<HT><F P=107><PHRASE>    Society Acclaimed for Ship Survey Quality System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Society Acclaimed for Ship Survey Quality System </PHRASE></F></HT>
 
-<F P=102>   OW0804134794 Beijing XINHUA in English 1245 GMT 8 Apr 94 </F>
-<F P=103> OW0804134794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804134794 Beijing XINHUA in English 1245 GMT 8 Apr 94 </F>
+<F P="103"> OW0804134794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7770,16 +7771,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   State Council Price Inspection Team in Hubei </TI></H3>
-<HT><F P=107><PHRASE>    State Council Price Inspection Team in Hubei </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    State Council Price Inspection Team in Hubei </PHRASE></F></HT>
 
-<F P=102>   HK0904075594 Wuhan Hubei People's Radio Network in Mandarin 
+<F P="102">   HK0904075594 Wuhan Hubei People's Radio Network in Mandarin 
 1000 GMT 31 Mar 94 </F>
 
-<F P=103> HK0904075594 </F>
-<F P=104>  Wuhan Hubei People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK0904075594 </F>
+<F P="104">  Wuhan Hubei People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -7831,16 +7832,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangdong Governor on Use of Foreign Capital </TI></H3>
-<HT><F P=107><PHRASE>    Guangdong Governor on Use of Foreign Capital </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guangdong Governor on Use of Foreign Capital </PHRASE></F></HT>
 
-<F P=102>   HK0904052194 Guangzhou Guangdong People's Radio Network in 
+<F P="102">   HK0904052194 Guangzhou Guangdong People's Radio Network in 
 Mandarin 0400 GMT 31 Mar 94 </F>
 
-<F P=103> HK0904052194 </F>
-<F P=104>  Guangzhou Guangdong People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK0904052194 </F>
+<F P="104">  Guangzhou Guangdong People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -7884,16 +7885,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Zhuhai To Transfer Enterprise Stock Rights </TI></H3>
-<HT><F P=107><PHRASE>    Zhuhai To Transfer Enterprise Stock Rights </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhuhai To Transfer Enterprise Stock Rights </PHRASE></F></HT>
 
-<F P=102>   HK0804152294 Beijing ZHONGGUO XINWEN SHE in English 1241 GMT 
+<F P="102">   HK0804152294 Beijing ZHONGGUO XINWEN SHE in English 1241 GMT 
 8 Apr 94 </F>
 
-<F P=103> HK0804152294 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0804152294 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -7936,16 +7937,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangxi Regional Chairman on Anti-Smuggling Work </TI></H3>
-<HT><F P=107><PHRASE>    Guangxi Regional Chairman on Anti-Smuggling Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guangxi Regional Chairman on Anti-Smuggling Work </PHRASE></F></HT>
 
-<F P=102>   HK1104053494 Nanning Guangxi People's Radio Network in 
+<F P="102">   HK1104053494 Nanning Guangxi People's Radio Network in 
 Mandarin 1130 GMT 31 Mar 94 </F>
 
-<F P=103> HK1104053494 </F>
-<F P=104>  Nanning Guangxi People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1104053494 </F>
+<F P="104">  Nanning Guangxi People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -8033,16 +8034,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Yunnan Secretary Stresses Anti-Corruption Work </TI></H3>
-<HT><F P=107><PHRASE>    Yunnan Secretary Stresses Anti-Corruption Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Yunnan Secretary Stresses Anti-Corruption Work </PHRASE></F></HT>
 
-<F P=102>   HK1104042894 Kunming Yunnan People's Radio Network in 
+<F P="102">   HK1104042894 Kunming Yunnan People's Radio Network in 
 Mandarin 1000 GMT 31 Mar 94 </F>
 
-<F P=103> HK1104042894 </F>
-<F P=104>  Kunming Yunnan People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1104042894 </F>
+<F P="104">  Kunming Yunnan People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -8138,22 +8139,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Hebei Notes 5-Year Family Planning Efforts </TI></H3>
-<HT><F P=107><PHRASE>    Hebei Notes 5-Year Family Planning Efforts </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hebei Notes 5-Year Family Planning Efforts </PHRASE></F></HT>
 
-<F P=102>   SK1104051594 Shijiazhuang HEBEI RIBAO in Chinese 20 Mar 94 p 
+<F P="102">   SK1104051594 Shijiazhuang HEBEI RIBAO in Chinese 20 Mar 94 p 
 2 </F>
 
-<F P=103> SK1104051594 </F>
-<F P=104>  Shijiazhuang HEBEI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> SK1104051594 </F>
+<F P="104">  Shijiazhuang HEBEI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentator's article "Control Population Growth and Build </F>
+<F P="106"> [Commentator's article "Control Population Growth and Build </F>
 an Economically Strong Province"--marking the fifth anniversary 
 of the promulgation of the "Hebei Provincial Regulations on 
 Family Planning"] 
@@ -8307,16 +8308,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Region </F>
+<F P="100"> Northeast Region </F>
 <H3> <TI>   Jilin Secretary Attends Rural Work Conference </TI></H3>
-<HT><F P=107><PHRASE>    Jilin Secretary Attends Rural Work Conference </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jilin Secretary Attends Rural Work Conference </PHRASE></F></HT>
 
-<F P=102>   SK0804143294 Changchun Jilin People's Radio Network in 
+<F P="102">   SK0804143294 Changchun Jilin People's Radio Network in 
 Mandarin 1030 GMT 7 Apr 94 </F>
 
-<F P=103> SK0804143294 </F>
-<F P=104>  Changchun Jilin People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK0804143294 </F>
+<F P="104">  Changchun Jilin People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -8553,14 +8554,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Zhang Wule Elected New Governor of Gansu Province </TI></H3>
-<HT><F P=107><PHRASE>    Zhang Wule Elected New Governor of Gansu Province </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhang Wule Elected New Governor of Gansu Province </PHRASE></F></HT>
 
-<F P=102>   OW1004125394 Beijing XINHUA in English 1239 GMT 10 Apr 94 </F>
-<F P=103> OW1004125394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004125394 Beijing XINHUA in English 1239 GMT 10 Apr 94 </F>
+<F P="103"> OW1004125394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8591,16 +8592,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northwest Region </F>
+<F P="100"> Northwest Region </F>
 <H3> <TI>   Gansu Leaders at Provincial CPPCC Session </TI></H3>
-<HT><F P=107><PHRASE>    Gansu Leaders at Provincial CPPCC Session </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Gansu Leaders at Provincial CPPCC Session </PHRASE></F></HT>
 
-<F P=102>   HK1104001294 Lanzhou Gansu People's Radio Network in 
+<F P="102">   HK1104001294 Lanzhou Gansu People's Radio Network in 
 Mandarin 2300 GMT 1 Apr 94 </F>
 
-<F P=103> HK1104001294 </F>
-<F P=104>  Lanzhou Gansu People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1104001294 </F>
+<F P="104">  Lanzhou Gansu People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -8691,14 +8692,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   XINHUA English on Statement </TI></H3>
-<HT><F P=107><PHRASE>    XINHUA English on Statement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    XINHUA English on Statement </PHRASE></F></HT>
 
-<F P=102>   OW0904134294 Beijing XINHUA in English 1323 GMT 9 Apr 94 </F>
-<F P=103> OW0904134294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904134294 Beijing XINHUA in English 1323 GMT 9 Apr 94 </F>
+<F P="103"> OW0904134294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8746,14 +8747,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Zhejiang Official on Taiwan Boat Accident Victims </TI></H3>
-<HT><F P=107><PHRASE>    Zhejiang Official on Taiwan Boat Accident Victims </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zhejiang Official on Taiwan Boat Accident Victims </PHRASE></F></HT>
 
-<F P=102>   OW0904152694 Beijing XINHUA in English 1458 GMT 9 Apr 94 </F>
-<F P=103> OW0904152694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904152694 Beijing XINHUA in English 1458 GMT 9 Apr 94 </F>
+<F P="103"> OW0904152694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -8801,22 +8802,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Victims of Boat Incident Cremated in Zhejiang </TI></H3>
-<HT><F P=107><PHRASE>    Victims of Boat Incident Cremated in Zhejiang </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Victims of Boat Incident Cremated in Zhejiang </PHRASE></F></HT>
 
-<F P=102>   HK0704145094 Beijing ZHONGGUO XINWEN SHE in Chinese 1200 GMT 
+<F P="102">   HK0704145094 Beijing ZHONGGUO XINWEN SHE in Chinese 1200 GMT 
 7 Apr 94 </F>
 
-<F P=103> HK0704145094 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK0704145094 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Wu Weizhong (0702 5588 0022)] </F>
+<F P="106"> [By Wu Weizhong (0702 5588 0022)] </F>
   [Text] Tonglu, 7 Apr (ZHONGGUO XINWEN SHE) -- It was 
 drizzling this afternoon. The relatives of the Taiwan 
 compatriots who died in the "31 March Hairui pleasure boat fire" 
@@ -8880,16 +8881,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Hong Kong, Taiwan Media Comment on Boat Incident </TI></H3>
-<HT><F P=107><PHRASE>    Hong Kong, Taiwan Media Comment on Boat Incident </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hong Kong, Taiwan Media Comment on Boat Incident </PHRASE></F></HT>
 
-<F P=102>   OW1104140194 Beijing XINHUA Domestic Service in Chinese 0842 
+<F P="102">   OW1104140194 Beijing XINHUA Domestic Service in Chinese 0842 
 GMT 11 Apr 94 </F>
 
-<F P=103> OW1104140194 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1104140194 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -8943,23 +8944,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Premier: PRC Handling of Qiandao Tragedy `Inhuman' </TI></H3>
-<HT><F P=107><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
 <H4>    SEF Seeks ARATS Emergency Meeting </H4>
 
-<F P=102> OW0904093594 Taipei Voice of Free China in English 0200 GMT 
+<F P="102"> OW0904093594 Taipei Voice of Free China in English 0200 GMT 
 9 Apr 94 </F>
 
-<F P=103> OW0904093594 </F>
-<F P=104>  Taipei Voice of Free China </F>
-<F P=105>  English </F>
+<F P="103"> OW0904093594 </F>
+<F P="104">  Taipei Voice of Free China </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "News" program] </F>
+<F P="106"> [From the "News" program] </F>
   [Text] The Strait Exchange Foundation [SEF] has asked 
 Mainland China's Association for Relations Across the Taiwan 
 Straits [ARATS] to hold an emergency meeting about the Chientao 
@@ -8996,21 +8997,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Premier: PRC Handling of Qiandao Tragedy `Inhuman' </TI></H3>
-<HT><F P=107><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
 <H4>    President Li Criticizes Beijing </H4>
 
-<F P=102> OW0904155094 Taipei CNA in English 1347 GMT 9 Apr 94 </F>
-<F P=103> OW0904155094 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904155094 Taipei CNA in English 1347 GMT 9 Apr 94 </F>
+<F P="103"> OW0904155094 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Lilian Wu] </F>
+<F P="106"> [By Lilian Wu] </F>
   [Text] Taipei, April 9 (CNA) -- President Lee Teng-hui 
 Saturday [9 April] called Beijing's handling of the Lake Qiandao 
 disaster "shoddy," saying mainland officials had acted like "a 
@@ -9051,25 +9052,25 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Premier: PRC Handling of Qiandao Tragedy `Inhuman' </TI></H3>
-<HT><F P=107><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
 <H4>    Condemns Authorities' `Utter Disregard' </H4>
 
-<F P=102> OW1004031394 Taipei China Broadcasting Corporation News 
+<F P="102"> OW1004031394 Taipei China Broadcasting Corporation News 
 Network in Mandarin 2300 GMT 9 Apr 94 </F>
 
-<F P=103> OW1004031394 </F>
-<F P=104>  Taipei China Broadcasting Corporation News 
+<F P="103"> OW1004031394 </F>
+<F P="104">  Taipei China Broadcasting Corporation News 
 Network </F>
 
-<F P=105>  Mandarin </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "Hookup" program] </F>
+<F P="106"> [From the "Hookup" program] </F>
   [Text] On 8 April, President Li Teng-hui harshly condemned 
 the Chinese communist authorities' utter disregard for human 
 life as shown in the fire aboard a cruise-boat on Chientao 
@@ -9111,15 +9112,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Premier: PRC Handling of Qiandao Tragedy `Inhuman' </TI></H3>
-<HT><F P=107><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
 <H4>    MAC Chairman Lists Questions </H4>
 
-<F P=102> OW0904150494 Taipei CNA in English 1419 GMT 9 Apr 94 </F>
-<F P=103> OW0904150494 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904150494 Taipei CNA in English 1419 GMT 9 Apr 94 </F>
+<F P="103"> OW0904150494 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -9196,15 +9197,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Premier: PRC Handling of Qiandao Tragedy `Inhuman' </TI></H3>
-<HT><F P=107><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
 <H4>    Report of Soldiers Boarding `Hairui' </H4>
 
-<F P=102> HK1104044494 Hong Kong LIEN HO PAO in Chinese 11 Apr 94 p 1 </F>
-<F P=103> HK1104044494 </F>
-<F P=104>  Hong Kong LIEN HO PAO </F>
-<F P=105>  Chinese </F>
+<F P="102"> HK1104044494 Hong Kong LIEN HO PAO in Chinese 11 Apr 94 p 1 </F>
+<F P="103"> HK1104044494 </F>
+<F P="104">  Hong Kong LIEN HO PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -9249,23 +9250,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Premier: PRC Handling of Qiandao Tragedy `Inhuman' </TI></H3>
-<HT><F P=107><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
 <H4>    Ministry May Stop Mainland Investments </H4>
 
-<F P=102> OW1104095194 Taipei Voice of Free China in English 0200 GMT 
+<F P="102"> OW1104095194 Taipei Voice of Free China in English 0200 GMT 
 11 Apr 94 </F>
 
-<F P=103> OW1104095194 </F>
-<F P=104>  Taipei Voice of Free China </F>
-<F P=105>  English </F>
+<F P="103"> OW1104095194 </F>
+<F P="104">  Taipei Voice of Free China </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "News" program] </F>
+<F P="106"> [From the "News" program] </F>
   [Text] The Ministry of Economic Affairs has announced 
 plans to bar ROC [Republic of China] investors, for the time 
 being, from sinking further amounts of capital into the 
@@ -9290,22 +9291,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Officials Deny U.S. Report on Drug Smuggling </TI></H3>
-<HT><F P=107><PHRASE>    Officials Deny U.S. Report on Drug Smuggling </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Officials Deny U.S. Report on Drug Smuggling </PHRASE></F></HT>
 
-<F P=102>   OW1104101294 Taipei Voice of Free China in English 0200 GMT 
+<F P="102">   OW1104101294 Taipei Voice of Free China in English 0200 GMT 
 11 Apr 94 </F>
 
-<F P=103> OW1104101294 </F>
-<F P=104>  Taipei Voice of Free China </F>
-<F P=105>  English </F>
+<F P="103"> OW1104101294 </F>
+<F P="104">  Taipei Voice of Free China </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "News" program] </F>
+<F P="106"> [From the "News" program] </F>
   [Text] About 400,000 of Taiwan's 20 million residents are 
 addicted to drugs, according to a report by the Bureau of 
 Investigation. The bureau said that it has seized a total of 
@@ -9338,25 +9339,25 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Lien Chan Views Resignation of Japanese Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Lien Chan Views Resignation of Japanese Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Lien Chan Views Resignation of Japanese Prime Minister </PHRASE></F></HT>
 <H4>    Political Instability `Understandable' </H4>
 
-<F P=102> OW0904090394 Taipei China Broadcasting Corporation News 
+<F P="102"> OW0904090394 Taipei China Broadcasting Corporation News 
 Network in Mandarin 2300 GMT 8 Apr 94 </F>
 
-<F P=103> OW0904090394 </F>
-<F P=104>  Taipei China Broadcasting Corporation News 
+<F P="103"> OW0904090394 </F>
+<F P="104">  Taipei China Broadcasting Corporation News 
 Network </F>
 
-<F P=105>  Mandarin </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "Hookup" program] </F>
+<F P="106"> [From the "Hookup" program] </F>
   [Text] In answering an interpellation by legislator (Chiu 
 Chueh-cheng) regarding Japanese Prime Minister Morihiro 
 Hosokawa's announcement of his resignation, president of the 
@@ -9407,21 +9408,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Lien Chan Views Resignation of Japanese Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Lien Chan Views Resignation of Japanese Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Lien Chan Views Resignation of Japanese Prime Minister </PHRASE></F></HT>
 <H4>    `Not Likely' To Affect GATT Bid </H4>
 
-<F P=102> OW0904081194 Taipei CNA in English 0744 GMT 9 Apr 94 </F>
-<F P=103> OW0904081194 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904081194 Taipei CNA in English 0744 GMT 9 Apr 94 </F>
+<F P="103"> OW0904081194 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Sofia Wu] </F>
+<F P="106"> [By Sofia Wu] </F>
   [Text] Taipei, April 9 (CNA) -- The resignation of 
 Japanese Prime Minister Morihiro Hosokawa is not expected to 
 weaken Japan's support for Taiwan's bid to join the General 
@@ -9488,21 +9489,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Lien Chan Views Resignation of Japanese Prime Minister </TI></H3>
-<HT><F P=107><PHRASE>    Lien Chan Views Resignation of Japanese Prime Minister </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Lien Chan Views Resignation of Japanese Prime Minister </PHRASE></F></HT>
 <H4>    Report: Ties May Not `Worsen' </H4>
 
-<F P=102> OW0904081494 Taipei CNA in English 0754 GMT 9 Apr 94 </F>
-<F P=103> OW0904081494 </F>
-<F P=104>  Taipei CNA </F>
-<F P=105>  English </F>
+<F P="102"> OW0904081494 Taipei CNA in English 0754 GMT 9 Apr 94 </F>
+<F P="103"> OW0904081494 </F>
+<F P="104">  Taipei CNA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Sofia Wu] </F>
+<F P="106"> [By Sofia Wu] </F>
   [Text] Taipei, April 9 (CNA) -- Japanese Prime Minister 
 Morihiro Hosokawa's decision to step down will not affect 
 Japan's ties with the Republic of China [ROC], a Ministry of 
@@ -9543,23 +9544,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Patten Comments on Case of MING PAO Reporter </TI></H3>
-<HT><F P=107><PHRASE>    Patten Comments on Case of MING PAO Reporter </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Patten Comments on Case of MING PAO Reporter </PHRASE></F></HT>
 
-<F P=102>   HK1004064494 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
+<F P="102">   HK1004064494 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
 English 10 Apr 94 p 2 </F>
 
-<F P=103> HK1004064494 </F>
-<F P=104>  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1004064494 </F>
+<F P="104">  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Jojo Moyes and Danny Gittings] </F>
+<F P="106"> [By Jojo Moyes and Danny Gittings] </F>
   [Text] Governor Chris Patten last night warned that 
 China's handling of the Xi Yang case was making Hong Kong people 
 nervous about their future after 1997. Speaking on his return 
@@ -9631,23 +9632,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Hong Kong's Martin Lee Cited </TI></H3>
-<HT><F P=107><PHRASE>    Hong Kong's Martin Lee Cited </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hong Kong's Martin Lee Cited </PHRASE></F></HT>
 
-<F P=102>   HK1004065094 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
+<F P="102">   HK1004065094 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
 English 10 Apr 94 p 17 </F>
 
-<F P=103> HK1004065094 </F>
-<F P=104>  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1004065094 </F>
+<F P="104">  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Martin Lee, legislative councillor and chairman of the </F>
+<F P="106"> [By Martin Lee, legislative councillor and chairman of the </F>
 United Democrats of Hong Kong: "Harsh Truth in Seeking Facts"] 
   [Text] "Seek truth from facts." To many, the People's 
 Supreme Court made a mockery of Deng Xiaoping's well-known 
@@ -9809,23 +9810,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   Legislator Jimmy McGregor on Case </TI></H3>
-<HT><F P=107><PHRASE>    Legislator Jimmy McGregor on Case </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Legislator Jimmy McGregor on Case </PHRASE></F></HT>
 
-<F P=102>   HK1004065894 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
+<F P="102">   HK1004065894 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
 English 10 Apr 94 p 17 </F>
 
-<F P=103> HK1004065894 </F>
-<F P=104>  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1004065894 </F>
+<F P="104">  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Jimmy McGregor, legislative councillor and member of the </F>
+<F P="106"> [By Jimmy McGregor, legislative councillor and member of the </F>
 Democratic Foundation: "Excessive Sentence a Sign of Fear"] 
   [Text] I was 15 years old when World War II began in late 
 1939. I had just completed secondary schooling and had, with 
@@ -9981,23 +9982,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Hong Kong </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Hong Kong </F>
 <H3> <TI>   British Committee Report To Support Reforms </TI></H3>
-<HT><F P=107><PHRASE>    British Committee Report To Support Reforms </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    British Committee Report To Support Reforms </PHRASE></F></HT>
 
-<F P=102>   HK1004064394 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
+<F P="102">   HK1004064394 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
 English 10 Apr 94 p 1 </F>
 
-<F P=103> HK1004064394 </F>
-<F P=104>  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1004064394 </F>
+<F P="104">  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By David Healy in London and Danny Gittings] </F>
+<F P="106"> [By David Healy in London and Danny Gittings] </F>
   [Text] The influential House of Commons Foreign Affairs 
 Committee will this week publish its long-awaited report, 
 expected to set the agenda for Britain's relations with Beijing 
@@ -10074,15 +10075,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Macao </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Macao </F>
 <H3> <TI>   Macao Governor on Portuguese Premier's Visit </TI></H3>
-<HT><F P=107><PHRASE>    Macao Governor on Portuguese Premier's Visit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Macao Governor on Portuguese Premier's Visit </PHRASE></F></HT>
 
-<F P=102>   OW0804172994 Beijing XINHUA in English 1428 GMT 8 Apr 94 </F>
-<F P=103> OW0804172994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804172994 Beijing XINHUA in English 1428 GMT 8 Apr 94 </F>
+<F P="103"> OW0804172994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10128,15 +10129,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> HONG KONG &amp; MACAO </F>
-<F P=101> Macao </F>
+<F P="100"> HONG KONG  amp; MACAO </F>
+<F P="101"> Macao </F>
 <H3> <TI>   Portugal, China Sign Export Credit Line </TI></H3>
-<HT><F P=107><PHRASE>    Portugal, China Sign Export Credit Line </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Portugal, China Sign Export Credit Line </PHRASE></F></HT>
 
-<F P=102>   HK1104083994 Hong Kong AFP in English 0802 GMT 11 April 94 </F>
-<F P=103> HK1104083994 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102">   HK1104083994 Hong Kong AFP in English 0802 GMT 11 April 94 </F>
+<F P="103"> HK1104083994 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10190,16 +10191,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Police Question Journalists </H4>
 
-<F P=102> HK0804141294 Hong Kong AFP in English 1357 GMT 8 April 94 </F>
-<F P=103> HK0804141294 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK0804141294 Hong Kong AFP in English 1357 GMT 8 April 94 </F>
+<F P="103"> HK0804141294 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -10251,21 +10252,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Anhui Party Secretary on Ideological Work </TI></H3>
-<HT><F P=107><PHRASE>    Anhui Party Secretary on Ideological Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Anhui Party Secretary on Ideological Work </PHRASE></F></HT>
 
-<F P=102>   OW1104100694 Hefei ANHUI RIBAO in Chinese 5 Mar 93 p 1 </F>
-<F P=103> OW1104100694 </F>
-<F P=104>  Hefei ANHUI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   OW1104100694 Hefei ANHUI RIBAO in Chinese 5 Mar 93 p 1 </F>
+<F P="103"> OW1104100694 </F>
+<F P="104">  Hefei ANHUI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Provincial Ideological Work Conference Opens, With Lu </F>
+<F P="106"> ["Provincial Ideological Work Conference Opens, With Lu </F>
 Rongjing Delivering Important Speech"] 
   [Text] A provincial propaganda and ideological work 
 conference opened ceremoniously in Hefei on 4 March. The 
@@ -10460,21 +10461,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu Governor Delivers Work Report </TI></H3>
-<HT><F P=107><PHRASE>    Jiangsu Governor Delivers Work Report </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangsu Governor Delivers Work Report </PHRASE></F></HT>
 
-<F P=102>   OW1004121994 Nanjing XINHUA RIBAO in Chinese 4 Mar 94 pp 1-2 </F>
-<F P=103> OW1004121994 </F>
-<F P=104>  Nanjing XINHUA RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   OW1004121994 Nanjing XINHUA RIBAO in Chinese 4 Mar 94 pp 1-2 </F>
+<F P="103"> OW1004121994 </F>
+<F P="104">  Nanjing XINHUA RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Jiangsu Provincial People's Government Work Report </F>
+<F P="106"> [Jiangsu Provincial People's Government Work Report </F>
 delivered by Governor Chen Huanyou at the Second Session of the 
 Eighth Jiangsu Provincial People's Congress on 24 February] 
   [Text] Fellow deputies: 
@@ -11944,22 +11945,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Asia </F>
+<F P="100"> Northeast Asia </F>
 <H3> <TI>   Liu Shuqing, ROK Official Discuss Nuclear Situation </TI></H3>
-<HT><F P=107><PHRASE>    Liu Shuqing, ROK Official Discuss Nuclear Situation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liu Shuqing, ROK Official Discuss Nuclear Situation </PHRASE></F></HT>
 
-<F P=102>   OW0804180694 Beijing XINHUA Domestic Service in Chinese 1457 
+<F P="102">   OW0804180694 Beijing XINHUA Domestic Service in Chinese 1457 
 GMT 8 Apr 94 </F>
 
-<F P=103> OW0804180694 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0804180694 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By reporter Tang Shuifu (3282 3055 1381)] </F>
+<F P="106"> [By reporter Tang Shuifu (3282 3055 1381)] </F>
   [Text] Seoul, 8 Apr (XINHUA) -- ROK National Assembly 
 Speaker Yi Man-sop met with the visiting Liu Shuqing, president 
 of the Chinese People's Institute of Foreign Affairs, here today. 
@@ -12018,14 +12019,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southeast Asia &amp; Pacific </F>
+<F P="100"> Southeast Asia  amp; Pacific </F>
 <H3> <TI>   Tripartite Border Agreement With Laos, Burma </TI></H3>
-<HT><F P=107><PHRASE>    Tripartite Border Agreement With Laos, Burma </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tripartite Border Agreement With Laos, Burma </PHRASE></F></HT>
 
-<F P=102>   OW0804140294 Beijing XINHUA in English 1316 GMT 8 Apr 94 </F>
-<F P=103> OW0804140294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804140294 Beijing XINHUA in English 1316 GMT 8 Apr 94 </F>
+<F P="103"> OW0804140294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12063,14 +12064,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> East Europe </F>
+<F P="100"> East Europe </F>
 <H3> <TI>   NATO Planes Bomb Serb-Held Positions </TI></H3>
-<HT><F P=107><PHRASE>    NATO Planes Bomb Serb-Held Positions </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    NATO Planes Bomb Serb-Held Positions </PHRASE></F></HT>
 
-<F P=102>   OW1104010894 Beijing XINHUA in English 0058 GMT 11 Apr 94 </F>
-<F P=103> OW1104010894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104010894 Beijing XINHUA in English 0058 GMT 11 Apr 94 </F>
+<F P="103"> OW1104010894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12107,22 +12108,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Chen Jinhua Reports `Escalation of Inflation' </TI></H3>
-<HT><F P=107><PHRASE>    Chen Jinhua Reports `Escalation of Inflation' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chen Jinhua Reports `Escalation of Inflation' </PHRASE></F></HT>
 
-<F P=102>   OW0804223894 Beijing XINHUA Domestic Service in Chinese 1431 
+<F P="102">   OW0804223894 Beijing XINHUA Domestic Service in Chinese 1431 
 GMT 8 Apr 94 </F>
 
-<F P=103> OW0804223894 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0804223894 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By reporters Li Yongsheng (2621 3057 0581) and Jiang Jun </F>
+<F P="106"> [By reporters Li Yongsheng (2621 3057 0581) and Jiang Jun </F>
 (1203 6511)] 
   [Text] Wuhan, 8 Apr (XINHUA) -- At a national meeting of 
 directors of commodity price bureaus which ended today, Chen 
@@ -12243,23 +12244,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Economic &amp; Agricultural </F>
+<F P="100"> Economic  amp; Agricultural </F>
 <H3> <TI>   Combating of Illegal Textile Transshipment Reviewed </TI></H3>
-<HT><F P=107><PHRASE>    Combating of Illegal Textile Transshipment Reviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Combating of Illegal Textile Transshipment Reviewed </PHRASE></F></HT>
 <H4>    Activities Said `Under Control' </H4>
 
-<F P=102> OW1004152094 Beijing XINHUA Domestic Service in Chinese 1017 
+<F P="102"> OW1004152094 Beijing XINHUA Domestic Service in Chinese 1017 
 GMT 10 Apr 94 </F>
 
-<F P=103> OW1004152094 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1004152094 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By RENMIN RIBAO reporter Zheng Degang (6774 1795 0474) and </F>
+<F P="106"> [By RENMIN RIBAO reporter Zheng Degang (6774 1795 0474) and </F>
 XINHUA reporter Jiang Jun (1203 6511)] 
   [Text] Guangzhou, 10 Apr (XINHUA) -- Following a series of 
 measures taken by Chinese Government departments to curb and 
@@ -12350,16 +12351,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Henan Higher People's Court President on Work </TI></H3>
-<HT><F P=107><PHRASE>    Henan Higher People's Court President on Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Henan Higher People's Court President on Work </PHRASE></F></HT>
 
-<F P=102>   HK1004080794 Zhengzhou Henan People's Radio Network in 
+<F P="102">   HK1004080794 Zhengzhou Henan People's Radio Network in 
 Mandarin 2300 GMT 29 Mar 94 </F>
 
-<F P=103> HK1004080794 </F>
-<F P=104>  Zhengzhou Henan People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1004080794 </F>
+<F P="104">  Zhengzhou Henan People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -12410,16 +12411,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Yunnan Governor Addresses Rural Work Meeting </TI></H3>
-<HT><F P=107><PHRASE>    Yunnan Governor Addresses Rural Work Meeting </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Yunnan Governor Addresses Rural Work Meeting </PHRASE></F></HT>
 
-<F P=102>   HK0804140494 Beijing ZHONGGUO XINWEN SHE in English 0845 GMT 
+<F P="102">   HK0804140494 Beijing ZHONGGUO XINWEN SHE in English 0845 GMT 
 8 Apr 94 </F>
 
-<F P=103> HK0804140494 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0804140494 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12477,14 +12478,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Hebei Focuses on Technical, Profession Education </TI></H3>
-<HT><F P=107><PHRASE>    Hebei Focuses on Technical, Profession Education </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hebei Focuses on Technical, Profession Education </PHRASE></F></HT>
 
-<F P=102>   OW1104075694 Beijing XINHUA in English 0737 GMT 11 Apr 94 </F>
-<F P=103> OW1104075694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104075694 Beijing XINHUA in English 0737 GMT 11 Apr 94 </F>
+<F P="103"> OW1104075694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12532,16 +12533,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Northeast Region </F>
+<F P="100"> Northeast Region </F>
 <H3> <TI>   Heilongjiang Secretary Views Armament Industry </TI></H3>
-<HT><F P=107><PHRASE>    Heilongjiang Secretary Views Armament Industry </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Heilongjiang Secretary Views Armament Industry </PHRASE></F></HT>
 
-<F P=102>   SK0904090194 Harbin Heilongjiang People's Radio Network in 
+<F P="102">   SK0904090194 Harbin Heilongjiang People's Radio Network in 
 Mandarin 2200 GMT 8 Apr 94 </F>
 
-<F P=103> SK0904090194 </F>
-<F P=104>  Harbin Heilongjiang People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK0904090194 </F>
+<F P="104">  Harbin Heilongjiang People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -12629,16 +12630,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> PRC MEDIA ON TAIWAN AFFAIRS </F>
+<F P="100"> PRC MEDIA ON TAIWAN AFFAIRS </F>
 <H3> <TI>   Taiwan Affairs Office Statement on Boat Incident </TI></H3>
-<HT><F P=107><PHRASE>    Taiwan Affairs Office Statement on Boat Incident </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Taiwan Affairs Office Statement on Boat Incident </PHRASE></F></HT>
 
-<F P=102>   OW0904102194 Beijing XINHUA Domestic Service in Chinese 0854 
+<F P="102">   OW0904102194 Beijing XINHUA Domestic Service in Chinese 0854 
 GMT 9 Apr 94 </F>
 
-<F P=103> OW0904102194 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0904102194 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -12701,25 +12702,25 @@ Daily Report
 
 </HEADER>
 
-<F P=100> TAIWAN </F>
+<F P="100"> TAIWAN </F>
 <H3> <TI>   Premier: PRC Handling of Qiandao Tragedy `Inhuman' </TI></H3>
-<HT><F P=107><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Premier: PRC Handling of Qiandao Tragedy `Inhuman' </PHRASE></F></HT>
 <H4>    Focus `Should Not Be Blurred' </H4>
 
-<F P=102> OW0904044794 Taipei China Broadcasting Corporation News 
+<F P="102"> OW0904044794 Taipei China Broadcasting Corporation News 
 Network in Mandarin 2300 GMT 8 Apr 94 </F>
 
-<F P=103> OW0904044794 </F>
-<F P=104>  Taipei China Broadcasting Corporation News 
+<F P="103"> OW0904044794 </F>
+<F P="104">  Taipei China Broadcasting Corporation News 
 Network </F>
 
-<F P=105>  Mandarin </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report by station correspondent Wang Wei-chun; from the </F>
+<F P="106"> [Report by station correspondent Wang Wei-chun; from the </F>
 "Hookup" program] 
   [Text] Answering an interpellation at the Legislative Yuan 
 on 8 April, Premier Lien Chan pointed out that the government 
@@ -12780,16 +12781,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Foreign Ministry Spokesman Comments </H4>
 
-<F P=102> OW0804120394 Beijing XINHUA in English 1142 GMT 8 Apr 94 </F>
-<F P=103> OW0804120394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW0804120394 Beijing XINHUA in English 1142 GMT 8 Apr 94 </F>
+<F P="103"> OW0804120394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -12818,22 +12819,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Dissident Bao Ge Arrested </H4>
 
-<F P=102> HK0904040494 Hong Kong AFP in English 0334 GMT 9 Apr 94 </F>
-<F P=103> HK0904040494 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK0904040494 Hong Kong AFP in English 0334 GMT 9 Apr 94 </F>
+<F P="103"> HK0904040494 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Giles Hewitt] </F>
+<F P="106"> [By Giles Hewitt] </F>
   [Text] Beijing, April 9 (AFP)--Leading Chinese dissident 
 Bao Ge was picked up by police Saturday morning from his home in 
 Shanghai, a dissident source said, announcing the fifth 
@@ -12903,24 +12904,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Wang Jiaqi Makes `Daring Escape' </H4>
 
-<F P=102> HK1004064794 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
+<F P="102"> HK1004064794 Hong Kong SOUTH CHINA SUNDAY MORNING POST in 
 English 10 Apr 94 p 6 </F>
 
-<F P=103> HK1004064794 </F>
-<F P=104>  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1004064794 </F>
+<F P="104">  Hong Kong SOUTH CHINA SUNDAY MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Ron Gluckman and Chow Gee-inn] </F>
+<F P="106"> [By Ron Gluckman and Chow Gee-inn] </F>
   [Text] The arrest of several labour leaders last month may 
 well have been a stern message from mainland officials to 
 increasingly brazen worker activists. Many officials are 
@@ -13033,16 +13034,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Spokesman on Xu Wenli </H4>
 
-<F P=102> HK1104022694 Hong Kong AFP in English 0217 GMT 11 Apr 94 </F>
-<F P=103> HK1104022694 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK1104022694 Hong Kong AFP in English 0217 GMT 11 Apr 94 </F>
+<F P="103"> HK1104022694 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -13076,16 +13077,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Security Spokesman on Arrests </H4>
 
-<F P=102> HK1104052194 Hong Kong AFP in English 0502 GMT 11 Apr 94 </F>
-<F P=103> HK1104052194 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK1104052194 Hong Kong AFP in English 0502 GMT 11 Apr 94 </F>
+<F P="103"> HK1104052194 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -13138,16 +13139,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Wang Fucheng Reportedly Beaten </H4>
 
-<F P=102> HK1104020494 Hong Kong AFP in English 0201 GMT 11 Apr 94 </F>
-<F P=103> HK1104020494 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK1104020494 Hong Kong AFP in English 0201 GMT 11 Apr 94 </F>
+<F P="103"> HK1104020494 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -13196,16 +13197,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Crackdown on Dissidents, Reporters Arrested </TI></H3>
-<HT><F P=107><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Crackdown on Dissidents, Reporters Arrested </PHRASE></F></HT>
 <H4>    Detained Dissidents Released </H4>
 
-<F P=102> HK1104012994 Hong Kong AFP in English 0113 GMT 11 Apr 94 </F>
-<F P=103> HK1104012994 </F>
-<F P=104>  Hong Kong AFP </F>
-<F P=105>  English </F>
+<F P="102"> HK1104012994 Hong Kong AFP in English 0113 GMT 11 Apr 94 </F>
+<F P="103"> HK1104012994 </F>
+<F P="104">  Hong Kong AFP </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -13238,23 +13239,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   CPPCC Adopts Revised Constitution </TI></H3>
-<HT><F P=107><PHRASE>    CPPCC Adopts Revised Constitution </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    CPPCC Adopts Revised Constitution </PHRASE></F></HT>
 
-<F P=102>   OW0904192794 Beijing XINHUA Domestic Service in Chinese 0054 
+<F P="102">   OW0904192794 Beijing XINHUA Domestic Service in Chinese 0054 
 GMT 9 Apr 94 </F>
 
-<F P=103> OW0904192794 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW0904192794 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Constitution of the CPPCC -- adopted on 11 December 1982 by </F>
+<F P="106"> [Constitution of the CPPCC -- adopted on 11 December 1982 by </F>
 the Fifth Session of the Fifth CPPCC National Committee and 
 revised by the Second Session of the Eighth CPPCC National 
 Committee in March 1994] 
@@ -13762,23 +13763,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Report: Foreign-Funded Plants Mistreat Workers </TI></H3>
-<HT><F P=107><PHRASE>    Report: Foreign-Funded Plants Mistreat Workers </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Report: Foreign-Funded Plants Mistreat Workers </PHRASE></F></HT>
 
-<F P=102>   HK0504142994 Hong Kong CHIUSHIH NIENTAI in Chinese No 4, 1 
+<F P="102">   HK0504142994 Hong Kong CHIUSHIH NIENTAI in Chinese No 4, 1 
 Apr 94 pp 53-55 </F>
 
-<F P=103> HK0504142994 </F>
-<F P=104>  Hong Kong CHIUSHIH NIENTAI </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK0504142994 </F>
+<F P="104">  Hong Kong CHIUSHIH NIENTAI </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Li Niangui (2621 1628 6311): "China's Internally </F>
+<F P="106"> [By Li Niangui (2621 1628 6311): "China's Internally </F>
 Circulated Data Reveal Maltreatment of Workers in 
 Foreign-Invested Enterprises"] 
   [Text] (Editor's note: This year's February issue of the 
@@ -14004,15 +14005,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Fujian Governor Reports `Rapid Economic Growth' </TI></H3>
-<HT><F P=107><PHRASE>    Fujian Governor Reports `Rapid Economic Growth' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Fujian Governor Reports `Rapid Economic Growth' </PHRASE></F></HT>
 
-<F P=102>   OW1104081294 Beijing XINHUA in English 0748 GMT 11 Apr 94 </F>
-<F P=103> OW1104081294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104081294 Beijing XINHUA in English 0748 GMT 11 Apr 94 </F>
+<F P="103"> OW1104081294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14095,15 +14096,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jia Qinglin on Fujian's Construction Plans </TI></H3>
-<HT><F P=107><PHRASE>    Jia Qinglin on Fujian's Construction Plans </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jia Qinglin on Fujian's Construction Plans </PHRASE></F></HT>
 
-<F P=102>   OW1104092994 Beijing XINHUA in English 0836 GMT 11 Apr 94 </F>
-<F P=103> OW1104092994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104092994 Beijing XINHUA in English 0836 GMT 11 Apr 94 </F>
+<F P="103"> OW1104092994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14152,17 +14153,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Fuzhou Increases Protection of Foreign Firms </TI></H3>
-<HT><F P=107><PHRASE>    Fuzhou Increases Protection of Foreign Firms </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Fuzhou Increases Protection of Foreign Firms </PHRASE></F></HT>
 
-<F P=102>   HK0804152494 Beijing ZHONGGUO XINWEN SHE in English 1147 GMT 
+<F P="102">   HK0804152494 Beijing ZHONGGUO XINWEN SHE in English 1147 GMT 
 8 Apr 94 </F>
 
-<F P=103> HK0804152494 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0804152494 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14222,23 +14223,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Xiamen People's Congress Set To Pass First Law </TI></H3>
-<HT><F P=107><PHRASE>    Xiamen People's Congress Set To Pass First Law </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Xiamen People's Congress Set To Pass First Law </PHRASE></F></HT>
 
-<F P=102>   HK1104023094 Hong Kong SOUTH CHINA MORNING POST in English 
+<F P="102">   HK1104023094 Hong Kong SOUTH CHINA MORNING POST in English 
 11 Apr 94 p 8 </F>
 
-<F P=103> HK1104023094 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1104023094 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Daniel Kwan] </F>
+<F P="106"> [By Daniel Kwan] </F>
   [Text] The Xiamen People's Congress may pass its first 
 piece of legislation as early as next month, the head of the 
 legislature, Li Xiuji, said yesterday. He said the congress, 
@@ -14284,21 +14285,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangsu Province Procedures for Trade Union Law </TI></H3>
-<HT><F P=107><PHRASE>    Jiangsu Province Procedures for Trade Union Law </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangsu Province Procedures for Trade Union Law </PHRASE></F></HT>
 
-<F P=102>   OW1104132894 Nanjing XINHUA RIBAO in Chinese 5 Mar 94 p 5 </F>
-<F P=103> OW1104132894 </F>
-<F P=104>  Nanjing XINHUA RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   OW1104132894 Nanjing XINHUA RIBAO in Chinese 5 Mar 94 p 5 </F>
+<F P="103"> OW1104132894 </F>
+<F P="104">  Nanjing XINHUA RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Jiangsu Province's Procedures for Implementing the `PRC </F>
+<F P="106"> ["Jiangsu Province's Procedures for Implementing the `PRC </F>
 Trade Union Law' -- adopted by the Sixth Session of the Eighth 
 Jiangsu Provincial People's Congress Standing Committee on 22 
 February 1994"] 
@@ -14619,15 +14620,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangxi Uses Overseas Funds for Economic Recovery </TI></H3>
-<HT><F P=107><PHRASE>    Jiangxi Uses Overseas Funds for Economic Recovery </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangxi Uses Overseas Funds for Economic Recovery </PHRASE></F></HT>
 
-<F P=102>   OW0904144494 Beijing XINHUA in English 1425 GMT 9 Apr 94 </F>
-<F P=103> OW0904144494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904144494 Beijing XINHUA in English 1425 GMT 9 Apr 94 </F>
+<F P="103"> OW0904144494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14681,15 +14682,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Jiangxi Launches Drive To Sow Quality Seeds </TI></H3>
-<HT><F P=107><PHRASE>    Jiangxi Launches Drive To Sow Quality Seeds </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Jiangxi Launches Drive To Sow Quality Seeds </PHRASE></F></HT>
 
-<F P=102>   OW1004061994 Beijing XINHUA in English 0538 GMT 10 Apr 94 </F>
-<F P=103> OW1004061994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004061994 Beijing XINHUA in English 0538 GMT 10 Apr 94 </F>
+<F P="103"> OW1004061994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14729,15 +14730,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shandong Formally Sets Up Jining Customhouse </TI></H3>
-<HT><F P=107><PHRASE>    Shandong Formally Sets Up Jining Customhouse </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shandong Formally Sets Up Jining Customhouse </PHRASE></F></HT>
 
-<F P=102>   SK1204075194 Jinan DAZHONG RIBAO in Chinese 31 Mar 94 p 1 </F>
-<F P=103> SK1204075194 </F>
-<F P=104>  Jinan DAZHONG RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   SK1204075194 Jinan DAZHONG RIBAO in Chinese 31 Mar 94 p 1 </F>
+<F P="103"> SK1204075194 </F>
+<F P="104">  Jinan DAZHONG RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -14766,15 +14767,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai's Population Decrease Leads Major Cities </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai's Population Decrease Leads Major Cities </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai's Population Decrease Leads Major Cities </PHRASE></F></HT>
 
-<F P=102>   OW1104173394 Beijing XINHUA in English 1554 GMT 11 Apr 94 </F>
-<F P=103> OW1104173394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104173394 Beijing XINHUA in English 1554 GMT 11 Apr 94 </F>
+<F P="103"> OW1104173394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14839,15 +14840,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Shanghai Surrounded by `Rich Rural Villages' </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Surrounded by `Rich Rural Villages' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Surrounded by `Rich Rural Villages' </PHRASE></F></HT>
 
-<F P=102>   OW1104025694 Beijing XINHUA in English 0222 GMT 11 Apr 94 </F>
-<F P=103> OW1104025694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104025694 Beijing XINHUA in English 0222 GMT 11 Apr 94 </F>
+<F P="103"> OW1104025694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14909,17 +14910,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   `Privately Owned Economy' in Zhejiang Develops </TI></H3>
-<HT><F P=107><PHRASE>    `Privately Owned Economy' in Zhejiang Develops </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Privately Owned Economy' in Zhejiang Develops </PHRASE></F></HT>
 
-<F P=102>   HK1004041294 Beijing ZHONGGUO XINWEN SHE in English 0600 GMT 
+<F P="102">   HK1004041294 Beijing ZHONGGUO XINWEN SHE in English 0600 GMT 
 9 Apr 94 </F>
 
-<F P=103> HK1004041294 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK1004041294 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -14970,15 +14971,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> REGIONAL AFFAIRS </F>
-<F P=101> East Region </F>
+<F P="100"> REGIONAL AFFAIRS </F>
+<F P="101"> East Region </F>
 <H3> <TI>   Hangzhou Launches Road Construction Projects </TI></H3>
-<HT><F P=107><PHRASE>    Hangzhou Launches Road Construction Projects </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hangzhou Launches Road Construction Projects </PHRASE></F></HT>
 
-<F P=102>   OW1004055994 Beijing XINHUA in English 0513 GMT 10 Apr 94 </F>
-<F P=103> OW1004055994 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004055994 Beijing XINHUA in English 0513 GMT 10 Apr 94 </F>
+<F P="103"> OW1004055994 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15031,14 +15032,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Shenzhen Ranks Fifth in Economic Strength </TI></H3>
-<HT><F P=107><PHRASE>    Shenzhen Ranks Fifth in Economic Strength </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shenzhen Ranks Fifth in Economic Strength </PHRASE></F></HT>
 
-<F P=102>   OW1004061894 Beijing XINHUA in English 0542 GMT 10 Apr 94 </F>
-<F P=103> OW1004061894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004061894 Beijing XINHUA in English 0542 GMT 10 Apr 94 </F>
+<F P="103"> OW1004061894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15080,14 +15081,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Shantou SEZ Develops Export Labor Service </TI></H3>
-<HT><F P=107><PHRASE>    Shantou SEZ Develops Export Labor Service </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shantou SEZ Develops Export Labor Service </PHRASE></F></HT>
 
-<F P=102>   OW1004045594 Beijing XINHUA in English 0252 GMT 10 Apr 94 </F>
-<F P=103> OW1004045594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004045594 Beijing XINHUA in English 0252 GMT 10 Apr 94 </F>
+<F P="103"> OW1004045594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15134,14 +15135,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangzhou Blueprint for Environmental Problems </TI></H3>
-<HT><F P=107><PHRASE>    Guangzhou Blueprint for Environmental Problems </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guangzhou Blueprint for Environmental Problems </PHRASE></F></HT>
 
-<F P=102>   OW1204030894 Beijing XINHUA in English 0247 GMT 12 Apr 94 </F>
-<F P=103> OW1204030894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1204030894 Beijing XINHUA in English 0247 GMT 12 Apr 94 </F>
+<F P="103"> OW1204030894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15204,22 +15205,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Home of Guangdong's Security Chief `Ransacked' </TI></H3>
-<HT><F P=107><PHRASE>    Home of Guangdong's Security Chief `Ransacked' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Home of Guangdong's Security Chief `Ransacked' </PHRASE></F></HT>
 
-<F P=102>   HK1204083294 Hong Kong CHENG MING in Chinese No 196, 1 Apr 
+<F P="102">   HK1204083294 Hong Kong CHENG MING in Chinese No 196, 1 Apr 
 94 p 26 </F>
 
-<F P=103> HK1204083294 </F>
-<F P=104>  Hong Kong CHENG MING </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK1204083294 </F>
+<F P="104">  Hong Kong CHENG MING </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Reference news" column by Chung Jen (5883 0088): "The </F>
+<F P="106"> ["Reference news" column by Chung Jen (5883 0088): "The </F>
 Guangdong Province Public Security Chief's House Ransacked by 
 `Thieves'"] 
   [Text] The home of Chen Shaoji, chief of the Guangdong 
@@ -15252,20 +15253,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Security Chief Responds to Rumor </TI></H3>
-<HT><F P=107><PHRASE>    Security Chief Responds to Rumor </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Security Chief Responds to Rumor </PHRASE></F></HT>
 
-<F P=102>   HK1204111094 Hong Kong TA KUNG PAO in Chinese 6 Apr 94 p 2 </F>
-<F P=103> HK1204111094 </F>
-<F P=104>  Hong Kong TA KUNG PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK1204111094 Hong Kong TA KUNG PAO in Chinese 6 Apr 94 p 2 </F>
+<F P="103"> HK1204111094 </F>
+<F P="104">  Hong Kong TA KUNG PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Special report": "Guangdong Provincial Public Security </F>
+<F P="106"> ["Special report": "Guangdong Provincial Public Security </F>
 Chief Refutes Rumor About Thieves Ransacking His House"] 
   [Text] Guangzhou, 5 Apr (TA KUNG PAO)--During an interview 
 with a TA KUNG PAO reporter today, Guangdong Provincial Public 
@@ -15342,14 +15343,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangdong Peasants `Riot' Over Land Compensation </TI></H3>
-<HT><F P=107><PHRASE>    Guangdong Peasants `Riot' Over Land Compensation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guangdong Peasants `Riot' Over Land Compensation </PHRASE></F></HT>
 
-<F P=102>   HK1204012394 Hong Kong MING PAO in Chinese 11 Apr 94 p A2 </F>
-<F P=103> HK1204012394 </F>
-<F P=104>  Hong Kong MING PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK1204012394 Hong Kong MING PAO in Chinese 11 Apr 94 p A2 </F>
+<F P="103"> HK1204012394 </F>
+<F P="104">  Hong Kong MING PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -15418,16 +15419,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangxi Secretary Addresses Rural Work Conference </TI></H3>
-<HT><F P=107><PHRASE>    Guangxi Secretary Addresses Rural Work Conference </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guangxi Secretary Addresses Rural Work Conference </PHRASE></F></HT>
 
-<F P=102>   HK1104001494 Nanning Guangxi People's Radio Network in 
+<F P="102">   HK1104001494 Nanning Guangxi People's Radio Network in 
 Mandarin 1130 GMT 1 Apr 94 </F>
 
-<F P=103> HK1104001494 </F>
-<F P=104>  Nanning Guangxi People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1104001494 </F>
+<F P="104">  Nanning Guangxi People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -15503,14 +15504,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Guangxi Promoting Capital Construction </TI></H3>
-<HT><F P=107><PHRASE>    Guangxi Promoting Capital Construction </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guangxi Promoting Capital Construction </PHRASE></F></HT>
 
-<F P=102>   OW1204072794 Beijing XINHUA in English 0654 GMT 12 Apr 94 </F>
-<F P=103> OW1204072794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1204072794 Beijing XINHUA in English 0654 GMT 12 Apr 94 </F>
+<F P="103"> OW1204072794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15565,14 +15566,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Hubei Farmers Gain Support From `Market Advisors' </TI></H3>
-<HT><F P=107><PHRASE>    Hubei Farmers Gain Support From `Market Advisors' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hubei Farmers Gain Support From `Market Advisors' </PHRASE></F></HT>
 
-<F P=102>   OW1204031394 Beijing XINHUA in English 0302 GMT 12 Apr 94 </F>
-<F P=103> OW1204031394 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1204031394 Beijing XINHUA in English 0302 GMT 12 Apr 94 </F>
+<F P="103"> OW1204031394 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15627,16 +15628,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Hunan Secretary Comments on Study of Deng's Works </TI></H3>
-<HT><F P=107><PHRASE>    Hunan Secretary Comments on Study of Deng's Works </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hunan Secretary Comments on Study of Deng's Works </PHRASE></F></HT>
 
-<F P=102>   HK1104001094 Changsha Hunan People's Radio Network in 
+<F P="102">   HK1104001094 Changsha Hunan People's Radio Network in 
 Mandarin 2300 GMT 31 Mar 94 </F>
 
-<F P=103> HK1104001094 </F>
-<F P=104>  Changsha Hunan People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1104001094 </F>
+<F P="104">  Changsha Hunan People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -15708,14 +15709,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Central-South Region </F>
+<F P="100"> Central-South Region </F>
 <H3> <TI>   Waterway in Hunan To Increase Traffic Capacity </TI></H3>
-<HT><F P=107><PHRASE>    Waterway in Hunan To Increase Traffic Capacity </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Waterway in Hunan To Increase Traffic Capacity </PHRASE></F></HT>
 
-<F P=102>   OW0904012594 Beijing XINHUA in English 0052 GMT 9 Apr 94 </F>
-<F P=103> OW0904012594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904012594 Beijing XINHUA in English 0052 GMT 9 Apr 94 </F>
+<F P="103"> OW0904012594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15763,16 +15764,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Guizhou Secretary Speaks on Anticorruption Work </TI></H3>
-<HT><F P=107><PHRASE>    Guizhou Secretary Speaks on Anticorruption Work </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guizhou Secretary Speaks on Anticorruption Work </PHRASE></F></HT>
 
-<F P=102>   HK0904052294 Guiyang Guizhou People's Radio Network in 
+<F P="102">   HK0904052294 Guiyang Guizhou People's Radio Network in 
 Mandarin 2300 GMT 28 Mar 94 </F>
 
-<F P=103> HK0904052294 </F>
-<F P=104>  Guiyang Guizhou People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK0904052294 </F>
+<F P="104">  Guiyang Guizhou People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -15860,14 +15861,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Beijing Exploring Guizhou River Power Energy </TI></H3>
-<HT><F P=107><PHRASE>    Beijing Exploring Guizhou River Power Energy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing Exploring Guizhou River Power Energy </PHRASE></F></HT>
 
-<F P=102>   OW0804134494 Beijing XINHUA in English 1250 GMT 8 Apr 94 </F>
-<F P=103> OW0804134494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804134494 Beijing XINHUA in English 1250 GMT 8 Apr 94 </F>
+<F P="103"> OW0804134494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -15915,16 +15916,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Sichuan Governor at Commodities Fair Opening </TI></H3>
-<HT><F P=107><PHRASE>    Sichuan Governor at Commodities Fair Opening </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sichuan Governor at Commodities Fair Opening </PHRASE></F></HT>
 
-<F P=102>   HK1104102594 Chengdu Sichuan People's Radio Network in 
+<F P="102">   HK1104102594 Chengdu Sichuan People's Radio Network in 
 Mandarin 2300 GMT 1 April 94 </F>
 
-<F P=103> HK1104102594 </F>
-<F P=104>  Chengdu Sichuan People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1104102594 </F>
+<F P="104">  Chengdu Sichuan People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -15971,16 +15972,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Sichuan Meets on Anticorruption Work Results </TI></H3>
-<HT><F P=107><PHRASE>    Sichuan Meets on Anticorruption Work Results </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sichuan Meets on Anticorruption Work Results </PHRASE></F></HT>
 
-<F P=102>   HK1204055594 Chengdu Sichuan People's Radio Network in 
+<F P="102">   HK1204055594 Chengdu Sichuan People's Radio Network in 
 Mandarin 2300 GMT 1 Apr 94 </F>
 
-<F P=103> HK1204055594 </F>
-<F P=104>  Chengdu Sichuan People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> HK1204055594 </F>
+<F P="104">  Chengdu Sichuan People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -16042,14 +16043,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Sichuan Farmers Change Concept of Marriage </TI></H3>
-<HT><F P=107><PHRASE>    Sichuan Farmers Change Concept of Marriage </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sichuan Farmers Change Concept of Marriage </PHRASE></F></HT>
 
-<F P=102>   OW1104015694 Beijing XINHUA in English 0137 GMT 11 Apr 94 </F>
-<F P=103> OW1104015694 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104015694 Beijing XINHUA in English 0137 GMT 11 Apr 94 </F>
+<F P="103"> OW1104015694 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16110,14 +16111,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> Southwest Region </F>
+<F P="100"> Southwest Region </F>
 <H3> <TI>   Tibet River Development Yields `Good Returns' </TI></H3>
-<HT><F P=107><PHRASE>    Tibet River Development Yields `Good Returns' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tibet River Development Yields `Good Returns' </PHRASE></F></HT>
 
-<F P=102>   OW1104075794 Beijing XINHUA in English 0725 GMT 11 Apr 94 </F>
-<F P=103> OW1104075794 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104075794 Beijing XINHUA in English 0725 GMT 11 Apr 94 </F>
+<F P="103"> OW1104075794 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16162,14 +16163,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Beijing To Accelerate Market Economy Development </TI></H3>
-<HT><F P=107><PHRASE>    Beijing To Accelerate Market Economy Development </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing To Accelerate Market Economy Development </PHRASE></F></HT>
 
-<F P=102>   OW0804171494 Beijing XINHUA in English 1452 GMT 8 Apr 94 </F>
-<F P=103> OW0804171494 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804171494 Beijing XINHUA in English 1452 GMT 8 Apr 94 </F>
+<F P="103"> OW0804171494 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16234,20 +16235,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Beijing Targets 10 Percent GDP Growth for 1994 </TI></H3>
-<HT><F P=107><PHRASE>    Beijing Targets 10 Percent GDP Growth for 1994 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing Targets 10 Percent GDP Growth for 1994 </PHRASE></F></HT>
 
-<F P=102>   HK1004075794 Beijing CHINA DAILY in English 9 Apr 94 p 1 </F>
-<F P=103> HK1004075794 </F>
-<F P=104>  Beijing CHINA DAILY </F>
-<F P=105>  English </F>
+<F P="102">   HK1004075794 Beijing CHINA DAILY in English 9 Apr 94 p 1 </F>
+<F P="103"> HK1004075794 </F>
+<F P="104">  Beijing CHINA DAILY </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By staff reporter Hong Xia: "Beijing Targets 10 Percent </F>
+<F P="106"> [By staff reporter Hong Xia: "Beijing Targets 10 Percent </F>
 GDP Growth This Year"] 
   [Text] Beijing plans to push its economic output to 99 
 billion yuan ($11 billion) this year, a 10 percent jump over 
@@ -16311,16 +16312,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Beijing Inflation Rate Reaches 23 Percent </TI></H3>
-<HT><F P=107><PHRASE>    Beijing Inflation Rate Reaches 23 Percent </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing Inflation Rate Reaches 23 Percent </PHRASE></F></HT>
 
-<F P=102>   HK0804151394 Beijing ZHONGGUO XINWEN SHE in English 1332 GMT 
+<F P="102">   HK0804151394 Beijing ZHONGGUO XINWEN SHE in English 1332 GMT 
 8 Apr 94 </F>
 
-<F P=103> HK0804151394 </F>
-<F P=104>  Beijing ZHONGGUO XINWEN SHE </F>
-<F P=105>  English </F>
+<F P="103"> HK0804151394 </F>
+<F P="104">  Beijing ZHONGGUO XINWEN SHE </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16386,14 +16387,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Over 95,000 Beijing Families To Get New Homes </TI></H3>
-<HT><F P=107><PHRASE>    Over 95,000 Beijing Families To Get New Homes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Over 95,000 Beijing Families To Get New Homes </PHRASE></F></HT>
 
-<F P=102>   OW1004143594 Beijing XINHUA in English 1402 GMT 10 Apr 94 </F>
-<F P=103> OW1004143594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004143594 Beijing XINHUA in English 1402 GMT 10 Apr 94 </F>
+<F P="103"> OW1004143594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16449,14 +16450,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Overseas Business Agencies in Beijing Exceed 5,000 </TI></H3>
-<HT><F P=107><PHRASE>    Overseas Business Agencies in Beijing Exceed 5,000 </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Overseas Business Agencies in Beijing Exceed 5,000 </PHRASE></F></HT>
 
-<F P=102>   OW1104162194 Beijing XINHUA in English 1517 GMT 11 Apr 94 </F>
-<F P=103> OW1104162194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104162194 Beijing XINHUA in English 1517 GMT 11 Apr 94 </F>
+<F P="103"> OW1104162194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16498,22 +16499,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Hebei Secretary on Vegetable Basket Project </TI></H3>
-<HT><F P=107><PHRASE>    Hebei Secretary on Vegetable Basket Project </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hebei Secretary on Vegetable Basket Project </PHRASE></F></HT>
 
-<F P=102>   SK1204075094 Shijiazhuang HEBEI RIBAO in Chinese 30 Mar 94 p 
+<F P="102">   SK1204075094 Shijiazhuang HEBEI RIBAO in Chinese 30 Mar 94 p 
 1 </F>
 
-<F P=103> SK1204075094 </F>
-<F P=104>  Shijiazhuang HEBEI RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="103"> SK1204075094 </F>
+<F P="104">  Shijiazhuang HEBEI RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Yang Qingyu (2799 1987 3842): "Food Industry Should </F>
+<F P="106"> [By Yang Qingyu (2799 1987 3842): "Food Industry Should </F>
 Become Hebei Province's Pillar Industry"] 
   [Text] Our province's food industry should serve the 
 domestic and international markets and be developed as a pillar 
@@ -16589,14 +16590,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Foreign Funds Help Improve Hebei Medical Care </TI></H3>
-<HT><F P=107><PHRASE>    Foreign Funds Help Improve Hebei Medical Care </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Foreign Funds Help Improve Hebei Medical Care </PHRASE></F></HT>
 
-<F P=102>   OW0804115094 Beijing XINHUA in English 1105 GMT 8 Apr 94 </F>
-<F P=103> OW0804115094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804115094 Beijing XINHUA in English 1105 GMT 8 Apr 94 </F>
+<F P="103"> OW0804115094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16649,14 +16650,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Inner Mongolia Invests in Telecommunications </TI></H3>
-<HT><F P=107><PHRASE>    Inner Mongolia Invests in Telecommunications </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Inner Mongolia Invests in Telecommunications </PHRASE></F></HT>
 
-<F P=102>   OW1004045194 Beijing XINHUA in English 0134 GMT 10 Apr 94 </F>
-<F P=103> OW1004045194 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004045194 Beijing XINHUA in English 0134 GMT 10 Apr 94 </F>
+<F P="103"> OW1004045194 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -16701,22 +16702,22 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Shanxi Store Employees Attack Price Inspectors </TI></H3>
-<HT><F P=107><PHRASE>    Shanxi Store Employees Attack Price Inspectors </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanxi Store Employees Attack Price Inspectors </PHRASE></F></HT>
 
-<F P=102>   OW1104164594 Beijing XINHUA Domestic Service in Chinese 1324 
+<F P="102">   OW1104164594 Beijing XINHUA Domestic Service in Chinese 1324 
 GMT 11 Apr 94 </F>
 
-<F P=103> OW1104164594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1104164594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Unattributed report] </F>
+<F P="106"> [Unattributed report] </F>
   [Text] Beijing, 11 Apr (XINHUA) -- On the afternoon of 22 
 March, a joint inspection team organized by the Xinzhou 
 Prefecture and Xinzhou city, Shanxi Province, price inspection 
@@ -16765,20 +16766,20 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin People's Court Work Report Presented </TI></H3>
-<HT><F P=107><PHRASE>    Tianjin People's Court Work Report Presented </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tianjin People's Court Work Report Presented </PHRASE></F></HT>
 
-<F P=102>   SK1204071294 Tianjin TIANJIN RIBAO in Chinese 24 Mar 94 p 8 </F>
-<F P=103> SK1204071294 </F>
-<F P=104>  Tianjin TIANJIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   SK1204071294 Tianjin TIANJIN RIBAO in Chinese 24 Mar 94 p 8 </F>
+<F P="103"> SK1204071294 </F>
+<F P="104">  Tianjin TIANJIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Work report of the Tianjin Municipal Higher People's Court </F>
+<F P="106"> [Work report of the Tianjin Municipal Higher People's Court </F>
 by Zhang Bofeng, president of the municipal higher people's 
 court, at the second session of the 12th municipal people's 
 congress on 5 March] 
@@ -17343,14 +17344,14 @@ Daily Report
 
 </HEADER>
 
-<F P=100> North Region </F>
+<F P="100"> North Region </F>
 <H3> <TI>   Tianjin Construction Project in `Full Swing' </TI></H3>
-<HT><F P=107><PHRASE>    Tianjin Construction Project in `Full Swing' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Tianjin Construction Project in `Full Swing' </PHRASE></F></HT>
 
-<F P=102>   OW1004045294 Beijing XINHUA in English 0154 GMT 10 Apr 94 </F>
-<F P=103> OW1004045294 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1004045294 Beijing XINHUA in English 0154 GMT 10 Apr 94 </F>
+<F P="103"> OW1004045294 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17446,15 +17447,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Hu Jintao Urges Study of Deng Xiaoping's Works </TI></H3>
-<HT><F P=107><PHRASE>    Hu Jintao Urges Study of Deng Xiaoping's Works </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Hu Jintao Urges Study of Deng Xiaoping's Works </PHRASE></F></HT>
 
-<F P=102>   OW0804134594 Beijing XINHUA in English 1250 GMT 8 Apr 94 </F>
-<F P=103> OW0804134594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0804134594 Beijing XINHUA in English 1250 GMT 8 Apr 94 </F>
+<F P="103"> OW0804134594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17514,15 +17515,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Peng Peiyun Stresses Family Planning Work in Hainan </TI></H3>
-<HT><F P=107><PHRASE>    Peng Peiyun Stresses Family Planning Work in Hainan </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Peng Peiyun Stresses Family Planning Work in Hainan </PHRASE></F></HT>
 
-<F P=102>   OW0904093894 Beijing XINHUA in English 0747 GMT 9 Apr 94 </F>
-<F P=103> OW0904093894 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW0904093894 Beijing XINHUA in English 0747 GMT 9 Apr 94 </F>
+<F P="103"> OW0904093894 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17571,23 +17572,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Lanqing Notes Successes in Antismuggling Campaign </TI></H3>
-<HT><F P=107><PHRASE>    Li Lanqing Notes Successes in Antismuggling Campaign </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Lanqing Notes Successes in Antismuggling Campaign </PHRASE></F></HT>
 
-<F P=102>   OW0904161394 Beijing Central People's Radio Network in 
+<F P="102">   OW0904161394 Beijing Central People's Radio Network in 
 Mandarin 1030 GMT 13 Mar 94 </F>
 
-<F P=103> OW0904161394 </F>
-<F P=104>  Beijing Central People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> OW0904161394 </F>
+<F P="104">  Beijing Central People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [From the "National Hookup" program] </F>
+<F P="106"> [From the "National Hookup" program] </F>
   [Text] Li Lanqing, State Council vice premier and head of 
 the national leading group for cracking down on smuggling 
 activities, recently pointed out at the third meeting of the 
@@ -17627,23 +17628,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Commentary Condemns Mob Attacks Against Inspectors </TI></H3>
-<HT><F P=107><PHRASE>    Commentary Condemns Mob Attacks Against Inspectors </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commentary Condemns Mob Attacks Against Inspectors </PHRASE></F></HT>
 
-<F P=102>   OW1104182294 Beijing XINHUA Domestic Service in Chinese 1328 
+<F P="102">   OW1104182294 Beijing XINHUA Domestic Service in Chinese 1328 
 GMT 11 Apr 94 </F>
 
-<F P=103> OW1104182294 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1104182294 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentary by unidentified XINHUA special commentator: </F>
+<F P="106"> [Commentary by unidentified XINHUA special commentator: </F>
 "Severely Punish Lawbreakers Who Mob and Beat Up Price 
 Inspectors"] 
   [Text] Beijing, 11 Apr (XINHUA) -- Since 1983, when the 
@@ -17710,17 +17711,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   State Price Inspection in Liaoning </TI></H3>
-<HT><F P=107><PHRASE>    State Price Inspection in Liaoning </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    State Price Inspection in Liaoning </PHRASE></F></HT>
 
-<F P=102>   SK1204034594 Shenyang Liaoning People's Radio Network in 
+<F P="102">   SK1204034594 Shenyang Liaoning People's Radio Network in 
 Mandarin 2300 GMT 11 Apr 94 </F>
 
-<F P=103> SK1204034594 </F>
-<F P=104>  Shenyang Liaoning People's Radio Network </F>
-<F P=105>  Mandarin </F>
+<F P="103"> SK1204034594 </F>
+<F P="104">  Shenyang Liaoning People's Radio Network </F>
+<F P="105">  Mandarin </F>
 
 
 <TEXT>
@@ -17781,16 +17782,16 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Xiaoshi Convicted for Corruption, Bribe Taking </TI></H3>
-<HT><F P=107><PHRASE>    Li Xiaoshi Convicted for Corruption, Bribe Taking </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Xiaoshi Convicted for Corruption, Bribe Taking </PHRASE></F></HT>
 <H4>    Former Vice-Minister Gets 20 Years </H4>
 
-<F P=102> OW1104104594 Beijing XINHUA in English 1010 GMT 11 Apr 94 </F>
-<F P=103> OW1104104594 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102"> OW1104104594 Beijing XINHUA in English 1010 GMT 11 Apr 94 </F>
+<F P="103"> OW1104104594 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -17876,24 +17877,24 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Li Xiaoshi Convicted for Corruption, Bribe Taking </TI></H3>
-<HT><F P=107><PHRASE>    Li Xiaoshi Convicted for Corruption, Bribe Taking </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Li Xiaoshi Convicted for Corruption, Bribe Taking </PHRASE></F></HT>
 <H4>    Further on Dismissal </H4>
 
-<F P=102> OW1104092594 Beijing XINHUA Domestic Service in Chinese 0801 
+<F P="102"> OW1104092594 Beijing XINHUA Domestic Service in Chinese 0801 
 GMT 11 Apr 94 </F>
 
-<F P=103> OW1104092594 </F>
-<F P=104>  Beijing XINHUA Domestic Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> OW1104092594 </F>
+<F P="104">  Beijing XINHUA Domestic Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By RENMIN RIBAO reporter Chen Weiwei (7115 4850 0251) and </F>
+<F P="106"> [By RENMIN RIBAO reporter Chen Weiwei (7115 4850 0251) and </F>
 XINHUA reporter Zheng Qingdong (6774 1987 2639) ] 
   [Text] Beijing, 11 Apr (XINHUA) -- Li Xiaoshi, vice 
 minister in charge of the State Science and Technology 
@@ -17924,15 +17925,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Former Company Head Executed for Corruption, Bribery </TI></H3>
-<HT><F P=107><PHRASE>    Former Company Head Executed for Corruption, Bribery </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Former Company Head Executed for Corruption, Bribery </PHRASE></F></HT>
 
-<F P=102>   OW1104105094 Beijing XINHUA in English 1012 GMT 11 Apr 94 </F>
-<F P=103> OW1104105094 </F>
-<F P=104>  Beijing XINHUA </F>
-<F P=105>  English </F>
+<F P="102">   OW1104105094 Beijing XINHUA in English 1012 GMT 11 Apr 94 </F>
+<F P="103"> OW1104105094 </F>
+<F P="104">  Beijing XINHUA </F>
+<F P="105">  English </F>
 
 
 <TEXT>
@@ -18030,21 +18031,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Beijing `Tightening Control Over Dissidents' </TI></H3>
-<HT><F P=107><PHRASE>    Beijing `Tightening Control Over Dissidents' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Beijing `Tightening Control Over Dissidents' </PHRASE></F></HT>
 
-<F P=102>   HK1104053694 Hong Kong LIEN HO PAO in Chinese 8 Apr 94 p 10 </F>
-<F P=103> HK1104053694 </F>
-<F P=104>  Hong Kong LIEN HO PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK1104053694 Hong Kong LIEN HO PAO in Chinese 8 Apr 94 p 10 </F>
+<F P="103"> HK1104053694 </F>
+<F P="104">  Hong Kong LIEN HO PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Report from Shanghai" by special correspondent Li Hsi-ping </F>
+<F P="106"> ["Report from Shanghai" by special correspondent Li Hsi-ping </F>
 (2621 6007 1627): "Those Imprisoned in Relation to the 4 June 
 Incident Are Warned Not To Get Together or Get In touch With 
 Reporters From Outside the Mainland"] 
@@ -18094,15 +18095,15 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Wei Jingsheng Reportedly Treated `Inhumanely' </TI></H3>
-<HT><F P=107><PHRASE>    Wei Jingsheng Reportedly Treated `Inhumanely' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Wei Jingsheng Reportedly Treated `Inhumanely' </PHRASE></F></HT>
 
-<F P=102>   HK1104041094 Hong Kong MING PAO in Chinese 8 Apr 94 p B10 </F>
-<F P=103> HK1104041094 </F>
-<F P=104>  Hong Kong MING PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK1104041094 Hong Kong MING PAO in Chinese 8 Apr 94 p B10 </F>
+<F P="103"> HK1104041094 </F>
+<F P="104">  Hong Kong MING PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -18151,17 +18152,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Xi Yang's 12-Year Term for `Spying' </TI></H3>
-<HT><F P=107><PHRASE>    Xi Yang's 12-Year Term for `Spying' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Xi Yang's 12-Year Term for `Spying' </PHRASE></F></HT>
 
-<F P=102>   HK0904061394 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1348 
+<F P="102">   HK0904061394 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1348 
 GMT 8 Apr 94 </F>
 
-<F P=103> HK0904061394 </F>
-<F P=104>  Hong Kong ZHONGGUO TONGXUN SHE </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK0904061394 </F>
+<F P="104">  Hong Kong ZHONGGUO TONGXUN SHE </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -18228,17 +18229,17 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   XINHUA Details Xi Yang's Case </TI></H3>
-<HT><F P=107><PHRASE>    XINHUA Details Xi Yang's Case </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    XINHUA Details Xi Yang's Case </PHRASE></F></HT>
 
-<F P=102>   HK1104135094 Beijing XINHUA Hong Kong Service in Chinese 
+<F P="102">   HK1104135094 Beijing XINHUA Hong Kong Service in Chinese 
 1046 GMT 11 Apr 94 </F>
 
-<F P=103> HK1104135094 </F>
-<F P=104>  Beijing XINHUA Hong Kong Service </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK1104135094 </F>
+<F P="104">  Beijing XINHUA Hong Kong Service </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
@@ -18439,23 +18440,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   `Special Article' Views Xi Yang Case </TI></H3>
-<HT><F P=107><PHRASE>    `Special Article' Views Xi Yang Case </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Special Article' Views Xi Yang Case </PHRASE></F></HT>
 
-<F P=102>   HK1204001094 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1430 
+<F P="102">   HK1204001094 Hong Kong ZHONGGUO TONGXUN SHE in Chinese 1430 
 GMT 8 Apr 94 </F>
 
-<F P=103> HK1204001094 </F>
-<F P=104>  Hong Kong ZHONGGUO TONGXUN SHE </F>
-<F P=105>  Chinese </F>
+<F P="103"> HK1204001094 </F>
+<F P="104">  Hong Kong ZHONGGUO TONGXUN SHE </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Special article" by Yu Wen-ching (0205 2429 3237)] </F>
+<F P="106"> ["Special article" by Yu Wen-ching (0205 2429 3237)] </F>
   [Text] Hong Kong 8 Apr (ZHONGGUO TONGXUN SHE)-- Hong Kong 
 MING PAO reporter Xi Yang, who was found guilty of stealing 
 state secrets, was sentenced to 12 years in prison in the first 
@@ -18626,21 +18627,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   MING PAO Reacts to XINHUA Report on Xi Yang </TI></H3>
-<HT><F P=107><PHRASE>    MING PAO Reacts to XINHUA Report on Xi Yang </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    MING PAO Reacts to XINHUA Report on Xi Yang </PHRASE></F></HT>
 
-<F P=102>   HK1204113294 Hong Kong MING PAO in Chinese 12 Apr 94 p a2 </F>
-<F P=103> HK1204113294 </F>
-<F P=104>  Hong Kong MING PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK1204113294 Hong Kong MING PAO in Chinese 12 Apr 94 p a2 </F>
+<F P="103"> HK1204113294 </F>
+<F P="104">  Hong Kong MING PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Report: "MING PAO's Response to XINHUA Article Entitled </F>
+<F P="106"> [Report: "MING PAO's Response to XINHUA Article Entitled </F>
 `Xi Yang Sentenced to 12 Years Imprisonment at First Trial'"] 
   [Text] First, the XINHUA article once again showed that Xi 
 Yang was actually engaged in normal news gathering as understood 
@@ -18714,21 +18715,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Editorial: Xi Yang Case `Internal Affair' </TI></H3>
-<HT><F P=107><PHRASE>    Editorial: Xi Yang Case `Internal Affair' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial: Xi Yang Case `Internal Affair' </PHRASE></F></HT>
 
-<F P=102>   HK1104093094 Hong Kong TA KUNG PAO in Chinese 8 Apr 94 p 2 </F>
-<F P=103> HK1104093094 </F>
-<F P=104>  Hong Kong TA KUNG PAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK1104093094 Hong Kong TA KUNG PAO in Chinese 8 Apr 94 p 2 </F>
+<F P="103"> HK1104093094 </F>
+<F P="104">  Hong Kong TA KUNG PAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Editorial: "Watch Out for British Intervention in `Xi </F>
+<F P="106"> [Editorial: "Watch Out for British Intervention in `Xi </F>
 Yang' Case"] 
   [Text] Reportedly, [Governor] Patten reviewed Hong Kong's 
 latest developments with British diplomatic officials on 6 
@@ -18848,23 +18849,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Shanghai Rejects Legal Status for Human Rights Group </TI></H3>
-<HT><F P=107><PHRASE>    Shanghai Rejects Legal Status for Human Rights Group </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Shanghai Rejects Legal Status for Human Rights Group </PHRASE></F></HT>
 
-<F P=102>   HK1204054794 Hong Kong SOUTH CHINA MORNING POST in English 
+<F P="102">   HK1204054794 Hong Kong SOUTH CHINA MORNING POST in English 
 12 Apr 94 p 9 </F>
 
-<F P=103> HK1204054794 </F>
-<F P=104>  Hong Kong SOUTH CHINA MORNING POST </F>
-<F P=105>  English </F>
+<F P="103"> HK1204054794 </F>
+<F P="104">  Hong Kong SOUTH CHINA MORNING POST </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Chan Wai-fong] </F>
+<F P="106"> [By Chan Wai-fong] </F>
   [Text] A human rights organization's application for legal 
 status has been rejected by Shanghai authorities who fear 
 creating a way for underground democratic movements to go 
@@ -18926,23 +18927,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Article Views Political Dissidents Arrests </TI></H3>
-<HT><F P=107><PHRASE>    Article Views Political Dissidents Arrests </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Article Views Political Dissidents Arrests </PHRASE></F></HT>
 
-<F P=102>   HK1204063094 Hong Kong HONGKONG STANDARD in English 12 Apr 
+<F P="102">   HK1204063094 Hong Kong HONGKONG STANDARD in English 12 Apr 
 94 p 11 </F>
 
-<F P=103> HK1204063094 </F>
-<F P=104>  Hong Kong HONGKONG STANDARD </F>
-<F P=105>  English </F>
+<F P="103"> HK1204063094 </F>
+<F P="104">  Hong Kong HONGKONG STANDARD </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> ["Eye on China" column, by China Editor Cary Huang: </F>
+<F P="106"> ["Eye on China" column, by China Editor Cary Huang: </F>
 "Rearrests Showcase China's Strength and Weakness"] 
   [Text] China's rearrest of leading dissidents Wei 
 Jingsheng and Xu Wenli and its threat to pin new charges on the 
@@ -19040,21 +19041,21 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   Commentator's Article Praises `Spiritually Rich' </TI></H3>
-<HT><F P=107><PHRASE>    Commentator's Article Praises `Spiritually Rich' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commentator's Article Praises `Spiritually Rich' </PHRASE></F></HT>
 
-<F P=102>   HK1204092194 Beijing RENMIN RIBAO in Chinese 11 Apr 94 p 1 </F>
-<F P=103> HK1204092194 </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
-<F P=105>  Chinese </F>
+<F P="102">   HK1204092194 Beijing RENMIN RIBAO in Chinese 11 Apr 94 p 1 </F>
+<F P="103"> HK1204092194 </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
+<F P="105">  Chinese </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Commentator's Article: "Praising `Those Who Are </F>
+<F P="106"> [Commentator's Article: "Praising `Those Who Are </F>
 Spiritually Rich'"--Spirit of Wholeheartedly Serving the People"] 
   [Text] Sun Maofang [1327 5399 5364], political assistant 
 of the Sixth Department of Internal Medicine, Beijing Military 
@@ -19143,23 +19144,23 @@ Daily Report
 
 </HEADER>
 
-<F P=100> NATIONAL AFFAIRS </F>
-<F P=101> Political &amp; Social </F>
+<F P="100"> NATIONAL AFFAIRS </F>
+<F P="101"> Political  amp; Social </F>
 <H3> <TI>   `Leading Beijing Scholar' Views Political Reform </TI></H3>
-<HT><F P=107><PHRASE>    `Leading Beijing Scholar' Views Political Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Leading Beijing Scholar' Views Political Reform </PHRASE></F></HT>
 
-<F P=102>   HK1204072294 Hong Kong EASTERN EXPRESS in English 12 Apr 94 
+<F P="102">   HK1204072294 Hong Kong EASTERN EXPRESS in English 12 Apr 94 
 p 9 </F>
 
-<F P=103> HK1204072294 </F>
-<F P=104>  Hong Kong EASTERN EXPRESS </F>
-<F P=105>  English </F>
+<F P="103"> HK1204072294 </F>
+<F P="104">  Hong Kong EASTERN EXPRESS </F>
+<F P="105">  English </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [By Bruce Gilley] </F>
+<F P="106"> [By Bruce Gilley] </F>
   [Text] There will be no significant changes in China's 
 political system in the next one or two years, according to a 
 leading Beijing scholar. 
@@ -19249,3 +19250,4 @@ at their detentions.
 
 </DOC>
 
+</root>

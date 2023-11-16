@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS4-68505 </DOCNO>
@@ -13,21 +14,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   29 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> REGIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> REGIONAL AFFAIRS </F>
 <H3> <TI>   Vladivostok Introduces Compulsory Licensing </TI></H3>
-<HT><F P=107><PHRASE>    Vladivostok Introduces Compulsory Licensing </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Vladivostok Introduces Compulsory Licensing </PHRASE></F></HT>
 
-<F P=102>   944F0646A Vladivostok NOVOSTI in Russian 29 Apr 94 p 2 </F>
-<F P=103> 944F0646A </F>
-<F P=104>  Vladivostok NOVOSTI </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0646A Vladivostok NOVOSTI in Russian 29 Apr 94 p 2 </F>
+<F P="103"> 944F0646A </F>
+<F P="104">  Vladivostok NOVOSTI </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by Aleksey Chernychev: "New Source of Replenishing </F>
+<F P="106"> [Report by Aleksey Chernychev: "New Source of Replenishing </F>
 the City Budget Is Found in the Business Sector"] 
   [Text] Beginning 1 May of this year, mandatory 
 licensing of activities of all economic entities in the sphere 
@@ -86,23 +87,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   `Internal' Impediments to Foreign Investment </TI></H3>
-<HT><F P=107><PHRASE>    `Internal' Impediments to Foreign Investment </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Internal' Impediments to Foreign Investment </PHRASE></F></HT>
 
-<F P=102>   944Q0332A Moscow FINANSOVYYE IZVESTIYA in Russian 14-20 Apr 
+<F P="102">   944Q0332A Moscow FINANSOVYYE IZVESTIYA in Russian 14-20 Apr 
 94 pp 1, 2 </F>
 
-<F P=103> 944Q0332A </F>
-<F P=104>  Moscow FINANSOVYYE IZVESTIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944Q0332A </F>
+<F P="104">  Moscow FINANSOVYYE IZVESTIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Mikhail Delyagin, chief of the applied analysis </F>
+<F P="106"> [Article by Mikhail Delyagin, chief of the applied analysis </F>
 service under the Institute of Economic Problems of the 
 Transition Period: "Foreign Investment Goes Into Inefficient 
 Sectors"] 
@@ -233,21 +234,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Oil Export Policies Threaten Future Economic Development </TI></H3>
-<HT><F P=107><PHRASE>    Oil Export Policies Threaten Future Economic Development </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Oil Export Policies Threaten Future Economic Development </PHRASE></F></HT>
 
-<F P=102>   944Q0329A Moscow NEZAVISIMAYA GAZETA in Russian 19 Apr 94 p 4 </F>
-<F P=103> 944Q0329A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q0329A Moscow NEZAVISIMAYA GAZETA in Russian 19 Apr 94 p 4 </F>
+<F P="103"> 944Q0329A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Viktor Petrov, doctor of geological and </F>
+<F P="106"> [Article by Viktor Petrov, doctor of geological and </F>
 mineralogical sciences, under the rubric "Fuel": "There Will Not 
 Be Another Tyumen. A New Approach to Resource Use Should Sustain 
 the Probable Economic Growth With Oil"] 
@@ -552,24 +553,24 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   International Credit Card Firms Vie for Share in Russian </TI></H3>
-<HT><F P=107><PHRASE>    International Credit Card Firms Vie for Share in Russian </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    International Credit Card Firms Vie for Share in Russian </PHRASE></F></HT>
 
 
 <TEXT>
 Market 
 
-<F P=102>   944Q0324A Moscow KOMMERSANT in Russian No 14, 19 Apr 94 pp 
+<F P="102">   944Q0324A Moscow KOMMERSANT in Russian No 14, 19 Apr 94 pp 
 20-26 </F>
 
-<F P=103> 944Q0324A </F>
-<F P=104>  Moscow KOMMERSANT </F>
-<F P=105>  Russian </F>
+<F P="103"> 944Q0324A </F>
+<F P="104">  Moscow KOMMERSANT </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article by Nikita Kirichenko: "Do You Hear It? The Rumble </F>
+<F P="106"> [Article by Nikita Kirichenko: "Do You Hear It? The Rumble </F>
 of Boots: Vivid Episodes From Market Competition"] 
   [Text] Although the Russian market in plastic money will be 
 25 years old this year, the stormiest events in it did not 
@@ -987,7 +988,7 @@ stockholders. Nonetheless, the UCS officers decided not to hide
 Olympian calm, since in 1993 UCS's financial documents had 
 repeatedly been audited by Centrobank, the Anti-Trust Committee, 
 the tax inspectorate, and several auditing firms (including 
-Ernst &amp; Young specialists), and even by the Ministry of State 
+Ernst  amp; Young specialists), and even by the Ministry of State 
 Security. 
   In the course of their work, the Most group's specialists 
 called attention to documents confirming a payment for the 
@@ -1343,21 +1344,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   14 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   U.S. Firm To Cooperate With Ilyushin Plant </TI></H3>
-<HT><F P=107><PHRASE>    U.S. Firm To Cooperate With Ilyushin Plant </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    U.S. Firm To Cooperate With Ilyushin Plant </PHRASE></F></HT>
 
-<F P=102>   944Q0317A Moscow KOMMERSANT-DAILY in Russian 14 Apr 94 p 9 </F>
-<F P=103> 944Q0317A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q0317A Moscow KOMMERSANT-DAILY in Russian 14 Apr 94 p 9 </F>
+<F P="103"> 944Q0317A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yevgeniy Ostapov, correspondent: "(!) American </F>
+<F P="106"> [Article by Yevgeniy Ostapov, correspondent: "(!) American </F>
 Engines Will Lift Russian ILs Into the Air: Plans of the 
 Ilyushin Aviation Complex"] 
   [Text] During yesterday's 
@@ -1366,7 +1367,7 @@ Iliushin Aviation Complex and the 100th anniversary of the birth
 of the founder of this design bureau, it was announced that the 
 firm's primary task today is to return Ilyushin products to the 
 world market. In order to accomplish this, the aviation complex 
-intends to cooperate with the American firm of Pratt &amp; 
+intends to cooperate with the American firm of Pratt  amp; 
 Whitney. 
 Yevgeniy Ostapov, correspondent, tells about the Ilyushin plans, 
 as they were announced at the press conference. 
@@ -1379,12 +1380,12 @@ on military projects (seven percent of total work), the aviation
 complex considers as its main task the design of passenger and 
 transport aircraft needed by Russian aviation. A great deal of 
 attention is being devoted to implementing an international 
-program based on cooperation with Pratt &amp; Whitney, the 
+program based on cooperation with Pratt  amp; Whitney, the 
 American 
 engine construction firm, and the Collins Company, manufacturer 
 of aviation equipment. On April 6, 1993, flight testing was 
 begun on a wide-fuselage, long-range airliner, the Il-96M, 
-equipped with Pratt &amp; Whitney engines--the first achievement 
+equipped with Pratt  amp; Whitney engines--the first achievement 
 of 
 this cooperation. Comparing the Il-96M with the Boeing 777, 
 Genrikh Novozhilov, general designer of the aviation complex, 
@@ -1397,7 +1398,7 @@ companies and Viktor Chernomyrdin on April 6th, the Prime
 Minister promised state support and loans for manufacturing the 
 Il-96M at the Voronezh aircraft plant. The production plan calls 
 for constructing 24 airliners per year. The Prime Minister also 
-gave his support to the Pratt &amp; Whitney program for improving 
+gave his support to the Pratt  amp; Whitney program for improving 
 the Russian aircraft engine PS-90A, produced by the Perm Motors 
 association. The new engines will be used in the Il-96-300, 
 Il-96M/T, TU-204, and Il-76 aircraft, as well as in gas-pumping 
@@ -1426,21 +1427,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   13 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Elements of Contract Negotiations With De Beers Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Elements of Contract Negotiations With De Beers Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Elements of Contract Negotiations With De Beers Viewed </PHRASE></F></HT>
 
-<F P=102>   944Q0317B Moscow KOMMERSANT-DAILY in Russian 13 Apr 94 p 10 </F>
-<F P=103> 944Q0317B </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q0317B Moscow KOMMERSANT-DAILY in Russian 13 Apr 94 p 10 </F>
+<F P="103"> 944Q0317B </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Vladimir Teslenko: Russia and De Beers Have </F>
+<F P="106"> [Article by Vladimir Teslenko: Russia and De Beers Have </F>
 Begun Negotiations on a New Contract: A New De Beers 
 Representative Has Arrived in Russia"] 
   [Text] The 
@@ -1587,21 +1588,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Fund To Support Large Enterprises Registered in U.S. </TI></H3>
-<HT><F P=107><PHRASE>    Fund To Support Large Enterprises Registered in U.S. </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Fund To Support Large Enterprises Registered in U.S. </PHRASE></F></HT>
 
-<F P=102>   944Q0323A Moscow KOMMERSANT-DAILY in Russian 15 Apr 94 p 3 </F>
-<F P=103> 944Q0323A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q0323A Moscow KOMMERSANT-DAILY in Russian 15 Apr 94 p 3 </F>
+<F P="103"> 944Q0323A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yelena Kotelnikova: "An American Fund Has </F>
+<F P="106"> [Article by Yelena Kotelnikova: "An American Fund Has </F>
 Appeared in the Investment Market: The Presentation of an 
 American Fund"] 
   [Text] Yesterday Austin Beutner, president of the 
@@ -1669,21 +1670,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   First Russian Bank Opens in Netherlands </TI></H3>
-<HT><F P=107><PHRASE>    First Russian Bank Opens in Netherlands </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    First Russian Bank Opens in Netherlands </PHRASE></F></HT>
 
-<F P=102>   944Q323B Moscow KOMMERSANT-DAILY in Russian 15 Apr 94 p 1 </F>
-<F P=103> 944Q323B </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q323B Moscow KOMMERSANT-DAILY in Russian 15 Apr 94 p 1 </F>
+<F P="103"> 944Q323B </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yuriy Katsman: The First Russian Commercial Bank </F>
+<F P="106"> [Article by Yuriy Katsman: The First Russian Commercial Bank </F>
 Has Made Its Appearance in Europe: The Stolichnyy Bank Is 
 Opening a Branch in Holland"] 
   [Text] Unofficial but 
@@ -1777,21 +1778,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   16 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Results of International Contest for Omsk Oil Disputed </TI></H3>
-<HT><F P=107><PHRASE>    Results of International Contest for Omsk Oil Disputed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Results of International Contest for Omsk Oil Disputed </PHRASE></F></HT>
 
-<F P=102>   944Q0323C Moscow KOMMERSANT-DAILY in Russian 16 Apr 94 p 20 </F>
-<F P=103> 944Q0323C </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q0323C Moscow KOMMERSANT-DAILY in Russian 16 Apr 94 p 20 </F>
+<F P="103"> 944Q0323C </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Anatoliy Zakharov: "Results of the Competition </F>
+<F P="106"> [Article by Anatoliy Zakharov: "Results of the Competition </F>
 Have Provoked Dissatisfaction on the Part of `Tomskneft': 
 Scandal in Tomsk Oblast"] 
   [Text] Leonid Filimonov, 
@@ -1885,7 +1886,7 @@ Competition
   Only two companies participated in the last competition. The 
 second one, the Russian Konventsiya Joint Stock Company 
 together, with its co-investor, the Norwegian firm Skaninvest 
-(Scandinavian International &amp; Investment), did not provide 
+(Scandinavian International  amp; Investment), did not provide 
 information about its financial and technological capabilities. 
 In addition, Konventsiya proposed $2.2 million in bonus payments 
 and $10 million for conducting geological exploration work 
@@ -2030,22 +2031,22 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   20 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Bosnian Envoy, Commentary Discuss War in Former SFRY </TI></H3>
-<HT><F P=107><PHRASE>    Bosnian Envoy, Commentary Discuss War in Former SFRY </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bosnian Envoy, Commentary Discuss War in Former SFRY </PHRASE></F></HT>
 <H4>    Envoy Calls for `More Balanced' Russian Policy </H4>
 
-<F P=102> 944Q0336A Moscow KOMMERSANT-DAILY in Russian 20 Apr 94 p 4 </F>
-<F P=103> 944Q0336A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102"> 944Q0336A Moscow KOMMERSANT-DAILY in Russian 20 Apr 94 p 4 </F>
+<F P="103"> 944Q0336A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Viktor Zamyatin and Sergey Tsekhmistrenko: </F>
+<F P="106"> [Article by Viktor Zamyatin and Sergey Tsekhmistrenko: </F>
 "Sarajevo Asks Moscow To Reach Out to Muslims"] 
   [Text] In any interethnic conflict, it is hard to 
 find out who is right and who is wrong. Sometimes one even gets 
@@ -2125,22 +2126,22 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   20 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Bosnian Envoy, Commentary Discuss War in Former SFRY </TI></H3>
-<HT><F P=107><PHRASE>    Bosnian Envoy, Commentary Discuss War in Former SFRY </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Bosnian Envoy, Commentary Discuss War in Former SFRY </PHRASE></F></HT>
 <H4>    Commentary States `No Angels' in Balkans </H4>
 
-<F P=102> 944Q0336B Moscow KOMMERSANT-DAILY in Russian 20 Apr 94 p 4 </F>
-<F P=103> 944Q0336B </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102"> 944Q0336B Moscow KOMMERSANT-DAILY in Russian 20 Apr 94 p 4 </F>
+<F P="103"> 944Q0336B </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [International Affairs Department's commentary] </F>
+<F P="106"> [International Affairs Department's commentary] </F>
   [Text] Undoubtedly, the bitterness of Mr. Dzikic's comments 
 about Serbs results from the fact that for him they are enemies. 
 Although from the standpoint of formal logic it is hard to 
@@ -2185,24 +2186,24 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Middle East Peace Process, Russian Interests in Region </TI></H3>
-<HT><F P=107><PHRASE>    Middle East Peace Process, Russian Interests in Region </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Middle East Peace Process, Russian Interests in Region </PHRASE></F></HT>
 
 
 <TEXT>
 Assessed 
 
-<F P=102>   944Q0331A Moscow MEZHDUNARODNAYA ZHIZN in Russian No 2, Feb 
+<F P="102">   944Q0331A Moscow MEZHDUNARODNAYA ZHIZN in Russian No 2, Feb 
 94 [signed to press 18 Mar 94] pp 129-137 </F>
 
-<F P=103> 944Q0331A </F>
-<F P=104>  Moscow MEZHDUNARODNAYA ZHIZN </F>
-<F P=105>  Russian </F>
+<F P="103"> 944Q0331A </F>
+<F P="104">  Moscow MEZHDUNARODNAYA ZHIZN </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article by Aleksei Fedorovich Chistyakov, deputy director, </F>
+<F P="106"> [Article by Aleksei Fedorovich Chistyakov, deputy director, </F>
 Near East and North Africa Department, MFA Russia: "Changes in 
 the Near East and the Outside World"] 
   [Excerpts] 
@@ -2421,21 +2422,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   7 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Trade With Turkey Increasing Rapidly </TI></H3>
-<HT><F P=107><PHRASE>    Trade With Turkey Increasing Rapidly </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Trade With Turkey Increasing Rapidly </PHRASE></F></HT>
 
-<F P=102>   944Q0312A Moscow KOMMERSANT-DAILY in Russian 7 Apr 94 pp 1,4 </F>
-<F P=103> 944Q0312A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q0312A Moscow KOMMERSANT-DAILY in Russian 7 Apr 94 pp 1,4 </F>
+<F P="103"> 944Q0312A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Svetlana Sukhova: "Turkey Wants To Catch Up With </F>
+<F P="106"> [Article by Svetlana Sukhova: "Turkey Wants To Catch Up With </F>
 and Surpass the United States in Trade With Russia"] 
   [Text] The results of yesterday's meeting of the 
 Russian-Turkish Intergovernmental Commission on Commercial and 
@@ -2602,21 +2603,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   7 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> INTERNATIONAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> INTERNATIONAL AFFAIRS </F>
 <H3> <TI>   Westinghouse Signs Atomic Energy, Air Traffic Agreements </TI></H3>
-<HT><F P=107><PHRASE>    Westinghouse Signs Atomic Energy, Air Traffic Agreements </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Westinghouse Signs Atomic Energy, Air Traffic Agreements </PHRASE></F></HT>
 
-<F P=102>   944Q0312B Moscow KOMMERSANT-DAILY in Russian 7 Apr 94 p 1 </F>
-<F P=103> 944Q0312B </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944Q0312B Moscow KOMMERSANT-DAILY in Russian 7 Apr 94 p 1 </F>
+<F P="103"> 944Q0312B </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Aleksandr Malyutin and Irina Matveyeva: </F>
+<F P="106"> [Article by Aleksandr Malyutin and Irina Matveyeva: </F>
 "Americans Undertake to Outfit the Russian Skies"] 
   [Text] Among the largest American corporations whose 
 activities in the Russian market have so far gone practically 
@@ -2708,21 +2709,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   27 April 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> KAZAKHSTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> KAZAKHSTAN </F>
 <H3> <TI>   Almaty Polls on Elections Interpreted </TI></H3>
-<HT><F P=107><PHRASE>    Almaty Polls on Elections Interpreted </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Almaty Polls on Elections Interpreted </PHRASE></F></HT>
 
-<F P=102>   944K1143A Almaty EKSPRESS-K in Russian 27 Apr 94 p 3 </F>
-<F P=103> 944K1143A </F>
-<F P=104>  Almaty EKSPRESS-K </F>
-<F P=105>  Russian </F>
+<F P="102">   944K1143A Almaty EKSPRESS-K in Russian 27 Apr 94 p 3 </F>
+<F P="103"> 944K1143A </F>
+<F P="104">  Almaty EKSPRESS-K </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Rustem Sartayev and Sergey Gmyrya, Information </F>
+<F P="106"> [Article by Rustem Sartayev and Sergey Gmyrya, Information </F>
 Center of the Republic of Kazakhstan Supreme Council: "Only Two 
 Parties With a Solid Electorate--the Communists and People's 
 Unity Alliance of Kazakhstan"] 
@@ -3000,23 +3001,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 April 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> TAJIKISTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> TAJIKISTAN </F>
 <H3> <TI>   Opposition Leader on Talks in Moscow </TI></H3>
-<HT><F P=107><PHRASE>    Opposition Leader on Talks in Moscow </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Opposition Leader on Talks in Moscow </PHRASE></F></HT>
 
-<F P=102>   944K1155A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 19 
+<F P="102">   944K1155A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 19 
 Apr 94 p 1 </F>
 
-<F P=103> 944K1155A </F>
-<F P=104>  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1155A </F>
+<F P="104">  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Hajji Akbar Turadzhonzoda by Dododzhoni </F>
+<F P="106"> [Interview with Hajji Akbar Turadzhonzoda by Dododzhoni </F>
 Atovullo: "Leader of the Tajik Opposition on an Official Visit"] 
   [Text] Hajji Akbar Turadzhonzoda, a leader of the 
 Tajik opposition, arrived in Moscow from Pakistan on 17 April. 
@@ -3161,21 +3162,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> UZBEKISTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> UZBEKISTAN </F>
 <H3> <TI>   Misery of Uzbek Rural Life Described </TI></H3>
-<HT><F P=107><PHRASE>    Misery of Uzbek Rural Life Described </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Misery of Uzbek Rural Life Described </PHRASE></F></HT>
 
-<F P=102>   944K0935A Moscow ERK in Uzbek 1 Feb 94 p 4 </F>
-<F P=103> 944K0935A </F>
-<F P=104>  Moscow ERK </F>
-<F P=105>  Uzbek </F>
+<F P="102">   944K0935A Moscow ERK in Uzbek 1 Feb 94 p 4 </F>
+<F P="103"> 944K0935A </F>
+<F P="104">  Moscow ERK </F>
+<F P="105">  Uzbek </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Namoz Normumin: "Labor Camps, or Pages From </F>
+<F P="106"> [Article by Namoz Normumin: "Labor Camps, or Pages From </F>
 Village Life: Part 1"] 
   [Text] Normally, when one says labor camps, one thinks of 
 prisons because the labor performed in labor camps is done by 
@@ -3311,21 +3312,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> UZBEKISTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> UZBEKISTAN </F>
 <H3> <TI>   Editorial Commentary on Turkic Unity </TI></H3>
-<HT><F P=107><PHRASE>    Editorial Commentary on Turkic Unity </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Editorial Commentary on Turkic Unity </PHRASE></F></HT>
 
-<F P=102>   944K0935B Moscow ERK in Uzbek 1 Feb 94 p 5 </F>
-<F P=103> 944K0935B </F>
-<F P=104>  Moscow ERK </F>
-<F P=105>  Uzbek </F>
+<F P="102">   944K0935B Moscow ERK in Uzbek 1 Feb 94 p 5 </F>
+<F P="103"> 944K0935B </F>
+<F P="104">  Moscow ERK </F>
+<F P="105">  Uzbek </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Editorial Committee: "Response to the Ideology </F>
+<F P="106"> [Article by Editorial Committee: "Response to the Ideology </F>
 of `Mankurtism'"] 
   [Text] The Soviet Empire wanted to create one "Soviet 
 culture" from various cultures, one "Soviet mentality" from 
@@ -3587,21 +3588,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> CENTRAL ASIA </F>
-<F P=101> UZBEKISTAN </F>
+<F P="100"> CENTRAL ASIA </F>
+<F P="101"> UZBEKISTAN </F>
 <H3> <TI>   Government Seen To Manipulate Election Process </TI></H3>
-<HT><F P=107><PHRASE>    Government Seen To Manipulate Election Process </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Seen To Manipulate Election Process </PHRASE></F></HT>
 
-<F P=102>   944K0935C Moscow ERK in Uzbek 1 Feb 94 p 6 </F>
-<F P=103> 944K0935C </F>
-<F P=104>  Moscow ERK </F>
-<F P=105>  Uzbek </F>
+<F P="102">   944K0935C Moscow ERK in Uzbek 1 Feb 94 p 6 </F>
+<F P="103"> 944K0935C </F>
+<F P="104">  Moscow ERK </F>
+<F P="105">  Uzbek </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Akram Sirojiddin: "The `Art' of Elections"] </F>
+<F P="106"> [Article by Akram Sirojiddin: "The `Art' of Elections"] </F>
   [Text] Elections in Uzbekistan found expression in the 
 Constitution and numerous laws, and laws on freedom, 
 multipartyism, opposition candidates, freedom of thought were 
@@ -3922,23 +3923,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   `Russia's Choice' on Budget </TI></H3>
-<HT><F P=107><PHRASE>    `Russia's Choice' on Budget </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Russia's Choice' on Budget </PHRASE></F></HT>
 
-<F P=102>   944F0624A Moscow OBSHCHAYA GAZETA in Russian No 15, 15 Apr 
+<F P="102">   944F0624A Moscow OBSHCHAYA GAZETA in Russian No 15, 15 Apr 
 94 p 1 </F>
 
-<F P=103> 944F0624A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0624A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article prepared by "Russia's Choice" Duma faction: "The </F>
+<F P="106"> [Article prepared by "Russia's Choice" Duma faction: "The </F>
 Apparatus Ruminates Beyond Its Means; Duma Faction `Russia's 
 Choice' Has Prepared and Distributed the Following Document"] 
   [Text] 
@@ -4061,21 +4062,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Chances for Accord Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Chances for Accord Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Chances for Accord Viewed </PHRASE></F></HT>
 
-<F P=102>   944F0624B Moscow SOVETSKAYA ROSSIYA in Russian 19 Apr 94 p 1 </F>
-<F P=103> 944F0624B </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0624B Moscow SOVETSKAYA ROSSIYA in Russian 19 Apr 94 p 1 </F>
+<F P="103"> 944F0624B </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Svetlana Shipunova: "Accord Is Not a Mushroom, </F>
+<F P="106"> [Article by Svetlana Shipunova: "Accord Is Not a Mushroom, </F>
 You Will Not Find It in the Forest"] 
   [Text] A friend of mine often quotes the following saying: 
 "It is too late to drink Borzhom water, doctor, when your 
@@ -4283,21 +4284,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   23 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Duma Takes Up Accord Document </TI></H3>
-<HT><F P=107><PHRASE>    Duma Takes Up Accord Document </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Duma Takes Up Accord Document </PHRASE></F></HT>
 
-<F P=102>   944F0624F Moscow SOVETSKAYA ROSSIYA in Russian 23 Apr 94 p 1 </F>
-<F P=103> 944F0624F </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0624F Moscow SOVETSKAYA ROSSIYA in Russian 23 Apr 94 p 1 </F>
+<F P="103"> 944F0624F </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Nadezhda Garifullina: "They Have Hushed Up the </F>
+<F P="106"> [Article by Nadezhda Garifullina: "They Have Hushed Up the </F>
 Discussion; State Duma Discusses Agreement on Social Accord"] 
   [Text] On Thursday, at an extraordinary meeting of the 
 State Duma, the deputies began discussing the draft of the 
@@ -4400,21 +4401,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   21 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Duma Views Corruption Charges </TI></H3>
-<HT><F P=107><PHRASE>    Duma Views Corruption Charges </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Duma Views Corruption Charges </PHRASE></F></HT>
 
-<F P=102>   944F0624E Moscow SOVETSKAYA ROSSIYA in Russian 21 Apr 94 p 1 </F>
-<F P=103> 944F0624E </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0624E Moscow SOVETSKAYA ROSSIYA in Russian 21 Apr 94 p 1 </F>
+<F P="103"> 944F0624E </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Sergey Turchenko: "Revenge of the Embezzlers; </F>
+<F P="106"> [Article by Sergey Turchenko: "Revenge of the Embezzlers; </F>
 The `Filippov Case' at the Parliamentary Hearings"] 
   [Text] On 19 April, the State Duma Committee on Security 
 under the chairmanship of Viktor Ilyukhin held parliamentary 
@@ -4570,21 +4571,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   21 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Communist Deputy on Accord, Divisions in Party </TI></H3>
-<HT><F P=107><PHRASE>    Communist Deputy on Accord, Divisions in Party </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Communist Deputy on Accord, Divisions in Party </PHRASE></F></HT>
 
-<F P=102>   944F0611C Moscow PRAVDA in Russian 21 Apr 94 pp 1, 2 </F>
-<F P=103> 944F0611C </F>
-<F P=104>  Moscow PRAVDA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0611C Moscow PRAVDA in Russian 21 Apr 94 pp 1, 2 </F>
+<F P="103"> 944F0611C </F>
+<F P="104">  Moscow PRAVDA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Viktor Ilyich Zorkaltsev, deputy chairman of </F>
+<F P="106"> [Interview with Viktor Ilyich Zorkaltsev, deputy chairman of </F>
 Central Executive Committee of Communist Party of Russian 
 Federation and State Duma deputy, by Valentina Nikiforova; date 
 and place not given: "Political Instructor Klochkov Would Spare 
@@ -4944,23 +4945,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   13 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Russians Polled on Accord </TI></H3>
-<HT><F P=107><PHRASE>    Russians Polled on Accord </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russians Polled on Accord </PHRASE></F></HT>
 
-<F P=102>   944F0632C Moscow MOSKOVSKIY KOMSOMOLETS in Russian 13 Apr 94 
+<F P="102">   944F0632C Moscow MOSKOVSKIY KOMSOMOLETS in Russian 13 Apr 94 
 p 1 </F>
 
-<F P=103> 944F0632C </F>
-<F P=104>  Moscow MOSKOVSKIY KOMSOMOLETS </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0632C </F>
+<F P="104">  Moscow MOSKOVSKIY KOMSOMOLETS </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by VTsIOM sociologist Oleg Savelyev: "Russians on </F>
+<F P="106"> [Report by VTsIOM sociologist Oleg Savelyev: "Russians on </F>
 Civic Peace and Accord"] 
   [Text] At the end of March 1994 the All-Russia Center for 
 Public Opinion Studies [VTsIOM] polled 1,600 Russian citizens; 
@@ -5028,23 +5029,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Former Deputies Blacklisted </TI></H3>
-<HT><F P=107><PHRASE>    Former Deputies Blacklisted </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Former Deputies Blacklisted </PHRASE></F></HT>
 
-<F P=102>   944F0611A Moscow OBSHCHAYA GAZETA in Russian No 15, 15-21 
+<F P="102">   944F0611A Moscow OBSHCHAYA GAZETA in Russian No 15, 15-21 
 Apr 94 p 8 </F>
 
-<F P=103> 944F0611A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0611A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Nikolay Troitskiy: "The `Blacklists' as the </F>
+<F P="106"> [Article by Nikolay Troitskiy: "The `Blacklists' as the </F>
 Highest Form of Social Protection"] 
   [Text] After October 1993 there were "disfranchised" 
 people in Russia once again, just as there were after October 
@@ -5202,23 +5203,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Deputy on Kuzbass, Miners </TI></H3>
-<HT><F P=107><PHRASE>    Deputy on Kuzbass, Miners </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Deputy on Kuzbass, Miners </PHRASE></F></HT>
 
-<F P=102>   944F0624C Moscow SOVETSKAYA ROSSIYA in Russian 19 Apr 94 pp 
+<F P="102">   944F0624C Moscow SOVETSKAYA ROSSIYA in Russian 19 Apr 94 pp 
 1,2 </F>
 
-<F P=103> 944F0624C </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0624C </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Aman Tuleyev, Federation Council deputy, </F>
+<F P="106"> [Interview with Aman Tuleyev, Federation Council deputy, </F>
 conducted by correspondent Nadezhda Garifullina: "At the Limit 
 of Patience"] 
   [Text] The deputies of the Federal Assembly supreme 
@@ -5544,21 +5545,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Trial of White House Defender Starts </TI></H3>
-<HT><F P=107><PHRASE>    Trial of White House Defender Starts </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Trial of White House Defender Starts </PHRASE></F></HT>
 
-<F P=102>   944F0624D Moscow SOVETSKAYA ROSSIYA in Russian 19 Apr 94 p 3 </F>
-<F P=103> 944F0624D </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0624D Moscow SOVETSKAYA ROSSIYA in Russian 19 Apr 94 p 3 </F>
+<F P="103"> 944F0624D </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Sergey Turchenko: "I Did Not Betray My Oath"] </F>
+<F P="106"> [Article by Sergey Turchenko: "I Did Not Betray My Oath"] </F>
   [Text] On the day the trial began, Senior Lieutenant Igor 
 Menshikov turned 25 years old. But how much more mature were his 
 position and his judgement than those of the commanders and 
@@ -5695,21 +5696,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   21 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Duma Reviews Corruption in St Petersburg </TI></H3>
-<HT><F P=107><PHRASE>    Duma Reviews Corruption in St Petersburg </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Duma Reviews Corruption in St Petersburg </PHRASE></F></HT>
 
-<F P=102>   944F0611B Moscow PRAVDA in Russian 21 Apr 94 pp 1, 4 </F>
-<F P=103> 944F0611B </F>
-<F P=104>  Moscow PRAVDA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0611B Moscow PRAVDA in Russian 21 Apr 94 pp 1, 4 </F>
+<F P="103"> 944F0611B </F>
+<F P="104">  Moscow PRAVDA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Aleksandr Golovenko: "Foreign Currency Etude, or </F>
+<F P="106"> [Article by Aleksandr Golovenko: "Foreign Currency Etude, or </F>
 How Foreign Consuls and Ambassadors Took Revenge Against Our 
 Auditor With the Aid of Government Officials"] 
   [Text] Perhaps I am mistaken, but it seems to me that no 
@@ -5927,23 +5928,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   8 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Zorkin on Political `Myths' </TI></H3>
-<HT><F P=107><PHRASE>    Zorkin on Political `Myths' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Zorkin on Political `Myths' </PHRASE></F></HT>
 
-<F P=102>   944F0611E Moscow LITERATURNAYA ROSSIYA in Russian No 14, 8 
+<F P="102">   944F0611E Moscow LITERATURNAYA ROSSIYA in Russian No 14, 8 
 Apr 94 pp 4-5 </F>
 
-<F P=103> 944F0611E </F>
-<F P=104>  Moscow LITERATURNAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0611E </F>
+<F P="104">  Moscow LITERATURNAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Valeriy Zorkin: "Farewell to Myths"] </F>
+<F P="106"> [Article by Valeriy Zorkin: "Farewell to Myths"] </F>
   [Text] This vast nation is suffocating in the grip of a 
 severe crisis. Millions of people are living in an epidemic and 
 humiliating state of poverty after being robbed so ruthlessly by 
@@ -6350,23 +6351,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Barkashov Interviewed </TI></H3>
-<HT><F P=107><PHRASE>    Barkashov Interviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Barkashov Interviewed </PHRASE></F></HT>
 
-<F P=102>   944F0632A Moscow MOSKOVSKIY KOMSOMOLETS in Russian 5 Apr 94 
+<F P="102">   944F0632A Moscow MOSKOVSKIY KOMSOMOLETS in Russian 5 Apr 94 
 p 7 </F>
 
-<F P=103> 944F0632A </F>
-<F P=104>  Moscow MOSKOVSKIY KOMSOMOLETS </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0632A </F>
+<F P="104">  Moscow MOSKOVSKIY KOMSOMOLETS </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Russian National Unity leader Aleksandr </F>
+<F P="106"> [Interview with Russian National Unity leader Aleksandr </F>
 Barkashov by MOSKOVSKIY KOMSOMOLETS correspondent Aleksandr 
 Khinshteyn; place and date not given: "Humanist in a Black 
 Shirt: Corporal Barkashov Promises Ascent to Power in Two Years"] 
@@ -6565,21 +6566,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   `Majority Party' Appeal </TI></H3>
-<HT><F P=107><PHRASE>    `Majority Party' Appeal </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Majority Party' Appeal </PHRASE></F></HT>
 
-<F P=102>   944F0632B Moscow ROSSIYA in Russian No 14, 13-19 Apr 94 p 2 </F>
-<F P=103> 944F0632B </F>
-<F P=104>  Moscow ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0632B Moscow ROSSIYA in Russian No 14, 13-19 Apr 94 p 2 </F>
+<F P="103"> 944F0632B </F>
+<F P="104">  Moscow ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> ["Appeal of the Majority Party Political Council to all </F>
+<F P="106"> ["Appeal of the Majority Party Political Council to all </F>
 Parties and Public Associations, to the Citizens of Russia": 
 "Conciliation Requires Charity"] 
   [Text] Dear compatriots! 
@@ -6654,23 +6655,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> POLITICAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> POLITICAL AFFAIRS </F>
 <H3> <TI>   Women's Duma Faction Leader Interviewed </TI></H3>
-<HT><F P=107><PHRASE>    Women's Duma Faction Leader Interviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Women's Duma Faction Leader Interviewed </PHRASE></F></HT>
 
-<F P=102>   944F0650A Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
+<F P="102">   944F0650A Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
 Apr 94 p 4 </F>
 
-<F P=103> 944F0650A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0650A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with State Duma Deputy Yekaterina Lakhova by Anna </F>
+<F P="106"> [Interview with State Duma Deputy Yekaterina Lakhova by Anna </F>
 Politkovskaya under the rubric "In the Changing World": "Sex and 
 Politics. Yekaterina Lakhova, State Duma Deputy: `I Am Very Much 
 Afraid of Little Men.' And From This Follows..."] 
@@ -6916,24 +6917,24 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Russian Business Elite Detailed </TI></H3>
-<HT><F P=107><PHRASE>    Russian Business Elite Detailed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russian Business Elite Detailed </PHRASE></F></HT>
 <H4>    NEZAVISIMAYA GAZETA Experts </H4>
 
-<F P=102> 944E0766C Moscow NEZAVISIMAYA GAZETA in Russian 26 Apr 94 pp 
+<F P="102"> 944E0766C Moscow NEZAVISIMAYA GAZETA in Russian 26 Apr 94 pp 
 1-2 </F>
 
-<F P=103> 944E0766C </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0766C </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Listing of experts from the mass media and other areas] </F>
+<F P="106"> [Listing of experts from the mass media and other areas] </F>
   [Text] 
 <H5>  Economics Commentators from SMI [the mass media]: </H5>
   Andreyev, V.G. (EKONOMIKA I ZHIZN newspaper), Berger, M.L. 
@@ -6994,21 +6995,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   20 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Decree on Excise Duty for Alcohol, Tobacco Introduced </TI></H3>
-<HT><F P=107><PHRASE>    Decree on Excise Duty for Alcohol, Tobacco Introduced </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Decree on Excise Duty for Alcohol, Tobacco Introduced </PHRASE></F></HT>
 
-<F P=102>   944E0772A Moscow ROSSIYSKAYA GAZETA in Russian 20 Apr 94 p 4 </F>
-<F P=103> 944E0772A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0772A Moscow ROSSIYSKAYA GAZETA in Russian 20 Apr 94 p 4 </F>
+<F P="103"> 944E0772A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Decree No 319 dated 14 April 1994 of the Government of the </F>
+<F P="106"> [Decree No 319 dated 14 April 1994 of the Government of the </F>
 Russian Federation, Moscow "On the Introduction of Excise Duty 
 Marks on the Territory of the Russian Federation"] 
   [Text] For the purpose of ensuring a full collection of 
@@ -7120,24 +7121,24 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Peasant Farming Efforts Continue Despite Financing, Credit </TI></H3>
-<HT><F P=107><PHRASE>    Peasant Farming Efforts Continue Despite Financing, Credit </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Peasant Farming Efforts Continue Despite Financing, Credit </PHRASE></F></HT>
 
 
 <TEXT>
 Problems 
 
-<F P=102>   944K1196A Moscow FINANSOVYYE IZVESTIYA in Russian No 15, 
+<F P="102">   944K1196A Moscow FINANSOVYYE IZVESTIYA in Russian No 15, 
 14-20 Apr 94 p iii </F>
 
-<F P=103> 944K1196A </F>
-<F P=104>  Moscow FINANSOVYYE IZVESTIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1196A </F>
+<F P="104">  Moscow FINANSOVYYE IZVESTIYA </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Results of a 3-year analysis of farming sector development </F>
+<F P="106"> [Results of a 3-year analysis of farming sector development </F>
 by Olga Melyukhina of AGROKHLEB RIPORT, commissioned by 
 FINANSOVYYE IZVESTIYA: "Russia's Peasant Farms Are at a 
 Financial Impasse"] 
@@ -7351,23 +7352,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Decline in Moscow's Foodstuff Production for March Seen </TI></H3>
-<HT><F P=107><PHRASE>    Decline in Moscow's Foodstuff Production for March Seen </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Decline in Moscow's Foodstuff Production for March Seen </PHRASE></F></HT>
 
-<F P=102>   944E0750A Moscow FINANSOVYE IZVESTIYA in Russian No 17, 
+<F P="102">   944E0750A Moscow FINANSOVYE IZVESTIYA in Russian No 17, 
 21-27 Apr 94 p II </F>
 
-<F P=103> 944E0750A </F>
-<F P=104>  Moscow FINANSOVYE IZVESTIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0750A </F>
+<F P="104">  Moscow FINANSOVYE IZVESTIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Andrey Yakovlev, economist: "A Slump Has Begun </F>
+<F P="106"> [Article by Andrey Yakovlev, economist: "A Slump Has Begun </F>
 in Moscow's Foodstuff Market"] 
   [Text] At the end of March, along with the traditional poll 
 of private wholesale firms, the Institute of Organized Market 
@@ -7400,7 +7401,7 @@ sector, 50 percent of the firms polled raised their prices, and
 not a single one began lowering them. Higher inflationary 
 expectations were also characteristic for state trade. 
 
-<FIG ID=JPRS-USR-051-83A>      FIGURE </FIG>
+<FIG ID="JPRS-USR-051-83A">      FIGURE </FIG>
 
 
   In our opinion, the difference in the estimates of the 
@@ -7444,21 +7445,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   9 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Activities of Crime `Generals' Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Activities of Crime `Generals' Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Activities of Crime `Generals' Viewed </PHRASE></F></HT>
 
-<F P=102>   944F0631A Moscow PODMOSKOVYE in Russian 9 Apr 94 p 7 </F>
-<F P=103> 944F0631A </F>
-<F P=104>  Moscow PODMOSKOVYE </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0631A Moscow PODMOSKOVYE in Russian 9 Apr 94 p 7 </F>
+<F P="103"> 944F0631A </F>
+<F P="104">  Moscow PODMOSKOVYE </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Nikolay Modestov: "`Generals' of the Crime </F>
+<F P="106"> [Article by Nikolay Modestov: "`Generals' of the Crime </F>
 World"] 
   [Text] [begin boxed item] "Listen, something has to be 
 done. Last year Globe was shot, Arsen and Givi died... And how 
@@ -7746,21 +7747,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Police Emergency Number Established </TI></H3>
-<HT><F P=107><PHRASE>    Police Emergency Number Established </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Police Emergency Number Established </PHRASE></F></HT>
 
-<F P=102>   944F0631B Moscow ROSSIYA in Russian No 14, 13-14 Apr 94 p 2 </F>
-<F P=103> 944F0631B </F>
-<F P=104>  Moscow ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0631B Moscow ROSSIYA in Russian No 14, 13-14 Apr 94 p 2 </F>
+<F P="103"> 944F0631B </F>
+<F P="104">  Moscow ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Larisa Galina: "Yell. `KRIK' Will Help"] </F>
+<F P="106"> [Article by Larisa Galina: "Yell. `KRIK' Will Help"] </F>
   [Text] KRIK--criminal information channel--is a new 
 emergency assistance service established recently in the city's 
 municipal militia. In some ways it is like the famous American 
@@ -7801,21 +7802,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   14 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   `Criminal Revolution' in Russia Examined </TI></H3>
-<HT><F P=107><PHRASE>    `Criminal Revolution' in Russia Examined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    `Criminal Revolution' in Russia Examined </PHRASE></F></HT>
 
-<F P=102>   944F0645A Moscow MOSKOVSKAYA PRAVDA in Russian 14 Apr 94 p 4 </F>
-<F P=103> 944F0645A </F>
-<F P=104>  Moscow MOSKOVSKAYA PRAVDA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0645A Moscow MOSKOVSKAYA PRAVDA in Russian 14 Apr 94 p 4 </F>
+<F P="103"> 944F0645A </F>
+<F P="104">  Moscow MOSKOVSKAYA PRAVDA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with cinematographer/writer Stanislav Govorukhin </F>
+<F P="106"> [Interview with cinematographer/writer Stanislav Govorukhin </F>
 by Eric Kotlyar; place and date not given: "A Country That Has 
 Betrayed Its Elderly Does Not Have a Future"] 
   [Text] 
@@ -8115,21 +8116,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   14 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Mafia Wars Examined </TI></H3>
-<HT><F P=107><PHRASE>    Mafia Wars Examined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Mafia Wars Examined </PHRASE></F></HT>
 
-<F P=102>   944F0645B Moscow MOSKOVSKAYA PRAVDA in Russian 14 Apr 94 p 4 </F>
-<F P=103> 944F0645B </F>
-<F P=104>  Moscow MOSKOVSKAYA PRAVDA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0645B Moscow MOSKOVSKAYA PRAVDA in Russian 14 Apr 94 p 4 </F>
+<F P="103"> 944F0645B </F>
+<F P="104">  Moscow MOSKOVSKAYA PRAVDA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Larisa Kislinskaya: "By the Law of Crime--Otari </F>
+<F P="106"> [Article by Larisa Kislinskaya: "By the Law of Crime--Otari </F>
 Kvantrishvili: They Give It All to Me of Their Own Volition"] 
   [Text] Whoever aimed that gun at Otari Kvantrishvili, 
 the shots sounded in the border zone of power. Kvantrishvili was 
@@ -8579,21 +8580,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   29 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Media Court Decides EXPRESS-GAZETTE Case </TI></H3>
-<HT><F P=107><PHRASE>    Media Court Decides EXPRESS-GAZETTE Case </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Media Court Decides EXPRESS-GAZETTE Case </PHRASE></F></HT>
 
-<F P=102>   944F0645C Moscow ROSSIYSKAYA GAZETA in Russian 29 Apr 94 p 4 </F>
-<F P=103> 944F0645C </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="102">   944F0645C Moscow ROSSIYSKAYA GAZETA in Russian 29 Apr 94 p 4 </F>
+<F P="103"> 944F0645C </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> ["Ruling No. 11 of the Judiciary Chamber for Information </F>
+<F P="106"> ["Ruling No. 11 of the Judiciary Chamber for Information </F>
 Disputes under the President of the Russian Federation, Issued 
 on 21 April 1994 in Moscow": "On the Material `What A Life... 
 People Have!' Published in EXPRESS-GAZETTE No. 5, March 1994"] 
@@ -8697,23 +8698,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   29 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Media Court Head Vengerov Interviewed </TI></H3>
-<HT><F P=107><PHRASE>    Media Court Head Vengerov Interviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Media Court Head Vengerov Interviewed </PHRASE></F></HT>
 
-<F P=102>   944F0666A Moscow OBSHCHAYA GAZETA in Russian No 17, 29 Apr 
+<F P="102">   944F0666A Moscow OBSHCHAYA GAZETA in Russian No 17, 29 Apr 
 94 p 9 </F>
 
-<F P=103> 944F0666A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0666A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Anatoliy Vengerov, chairman of the Judicial </F>
+<F P="106"> [Interview with Anatoliy Vengerov, chairman of the Judicial </F>
 Board on Informational Disputes, conducted by OBSHCHAYA GAZETA 
 correspondent: "Power of the Mass Media"] 
   [Text] Anatoliy VENGEROV, chairman of the Judicial 
@@ -8939,23 +8940,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   29 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Draft Law on Media's Government Coverage `Astonishing' </TI></H3>
-<HT><F P=107><PHRASE>    Draft Law on Media's Government Coverage `Astonishing' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Draft Law on Media's Government Coverage `Astonishing' </PHRASE></F></HT>
 
-<F P=102>   944F0666B Moscow OBSHCHAYA GAZETA in Russian No 17, 29 Apr 
+<F P="102">   944F0666B Moscow OBSHCHAYA GAZETA in Russian No 17, 29 Apr 
 94 p 9 </F>
 
-<F P=103> 944F0666B </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0666B </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Anna Politkovskaya: "A Dead Season For Domestic </F>
+<F P="106"> [Article by Anna Politkovskaya: "A Dead Season For Domestic </F>
 Journalism?"] 
   [Text] Any day now, the State Duma is expected to 
 adopt the federal law, "On the Order of Illuminating the 
@@ -9139,23 +9140,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   NTV Said Behind Petersburg TV Scandal Accusations </TI></H3>
-<HT><F P=107><PHRASE>    NTV Said Behind Petersburg TV Scandal Accusations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    NTV Said Behind Petersburg TV Scandal Accusations </PHRASE></F></HT>
 
-<F P=102>   944F0666C Moscow OBSHCHAYA GAZETA in Russian No 15, 15-21 
+<F P="102">   944F0666C Moscow OBSHCHAYA GAZETA in Russian No 15, 15-21 
 Apr 94 p 13 </F>
 
-<F P=103> 944F0666C </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0666C </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed article: "After the Scandal: NTV Accused"] </F>
+<F P="106"> [Unattributed article: "After the Scandal: NTV Accused"] </F>
   [Text] The scandal surrounding Petersburg TV, about which 
 OBSHCHAYA GAZETA and many other newspapers wrote in detail, has 
 died down. However, readers have been calling and writing to our 
@@ -9244,23 +9245,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   2 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Controversy at Petersburg TV Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Controversy at Petersburg TV Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Controversy at Petersburg TV Viewed </PHRASE></F></HT>
 
-<F P=102>   944F0635A St. Petersburg NEVSKOYE VREMYA in Russian 2 Apr 94 
+<F P="102">   944F0635A St. Petersburg NEVSKOYE VREMYA in Russian 2 Apr 94 
 pp 1, 4 </F>
 
-<F P=103> 944F0635A </F>
-<F P=104>  St. Petersburg NEVSKOYE VREMYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0635A </F>
+<F P="104">  St. Petersburg NEVSKOYE VREMYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Irina Matyash: "Full Face and Profile of St. </F>
+<F P="106"> [Article by Irina Matyash: "Full Face and Profile of St. </F>
 Petersburg TV. When Delivering Sermons, One Should Honor the 
 Commandments"] 
   [Text] If you want people to keep quiet about 
@@ -9545,23 +9546,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   V. Bogdanov on Future of TV Broadcasting </TI></H3>
-<HT><F P=107><PHRASE>    V. Bogdanov on Future of TV Broadcasting </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    V. Bogdanov on Future of TV Broadcasting </PHRASE></F></HT>
 
-<F P=102>   PM0505092394 Moscow ROSSIYSKAYA GAZETA in Russian 5 May 94 
+<F P="102">   PM0505092394 Moscow ROSSIYSKAYA GAZETA in Russian 5 May 94 
 First Edition p 2 </F>
 
-<F P=103> PM0505092394 </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> PM0505092394 </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Vsevolod Bogdanov, chairman of the Russian </F>
+<F P="106"> [Interview with Vsevolod Bogdanov, chairman of the Russian </F>
 Union of Journalists, by Vasiliy Feklyunin; date, place not 
 given: "Let Us Look Truth in the Face" -- first paragraph is 
 introduction] 
@@ -9739,17 +9740,17 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   8 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Journal Appeals to Readers for Aid </TI></H3>
-<HT><F P=107><PHRASE>    Journal Appeals to Readers for Aid </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Journal Appeals to Readers for Aid </PHRASE></F></HT>
 
-<F P=102>   944F0611D Moscow LITERATURNAYA ROSSIYA in Russian No 14, 8 
+<F P="102">   944F0611D Moscow LITERATURNAYA ROSSIYA in Russian No 14, 8 
 Apr 94 p 16 </F>
 
-<F P=103> 944F0611D </F>
-<F P=104>  Moscow LITERATURNAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0611D </F>
+<F P="104">  Moscow LITERATURNAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
@@ -9805,22 +9806,22 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Newspaper Appeals for Aid </TI></H3>
-<HT><F P=107><PHRASE>    Newspaper Appeals for Aid </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Newspaper Appeals for Aid </PHRASE></F></HT>
 <H4>    Deputies To Aid SOVETSKAYA ROSSIYA </H4>
 
-<F P=102> 944F0634A Moscow SOVETSKAYA ROSSIYA in Russian 15 Apr 94 p 4 </F>
-<F P=103> 944F0634A </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102"> 944F0634A Moscow SOVETSKAYA ROSSIYA in Russian 15 Apr 94 p 4 </F>
+<F P="103"> 944F0634A </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed article: "We Must Survive Along With You"] </F>
+<F P="106"> [Unattributed article: "We Must Survive Along With You"] </F>
   [Text] And so today's issue of SOVETSKAYA ROSSIYA is being 
 published with money collected from the readers. But the debts 
 remain--250 million to Pressa Publishing House and many millions 
@@ -9885,22 +9886,22 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   15 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Newspaper Appeals for Aid </TI></H3>
-<HT><F P=107><PHRASE>    Newspaper Appeals for Aid </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Newspaper Appeals for Aid </PHRASE></F></HT>
 <H4>    SOVETSKAYA ROSSIYA Appeals to Readers </H4>
 
-<F P=102> 944F0634B Moscow SOVETSKAYA ROSSIYA in Russian 15 Apr 94 p 4 </F>
-<F P=103> 944F0634B </F>
-<F P=104>  Moscow SOVETSKAYA ROSSIYA </F>
-<F P=105>  Russian </F>
+<F P="102"> 944F0634B Moscow SOVETSKAYA ROSSIYA in Russian 15 Apr 94 p 4 </F>
+<F P="103"> 944F0634B </F>
+<F P="104">  Moscow SOVETSKAYA ROSSIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Appeal by A. Shakhnazarov: "A Suggestion to All: National </F>
+<F P="106"> [Appeal by A. Shakhnazarov: "A Suggestion to All: National </F>
 Support for the National Newspaper"] 
   [Text] I received the last issue of the newspaper 
 SOVETSKAYA ROSSIYA on Tuesday, 29 March 1994. As I learned, the 
@@ -9954,23 +9955,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Yakovlev on OBSHCHAYA GAZETA's First Year </TI></H3>
-<HT><F P=107><PHRASE>    Yakovlev on OBSHCHAYA GAZETA's First Year </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Yakovlev on OBSHCHAYA GAZETA's First Year </PHRASE></F></HT>
 
-<F P=102>   944F0665A Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
+<F P="102">   944F0665A Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
 Apr 94 p 1 </F>
 
-<F P=103> 944F0665A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0665A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yegor Yakovlev: "A Handshake in Passing"] </F>
+<F P="106"> [Article by Yegor Yakovlev: "A Handshake in Passing"] </F>
   [Text] It is a line from Levitanskiy, I believe: "A year 
 has passed, like no time at all, we did not even have a chance 
 to talk..." It comes to mind over and over again specifically 
@@ -10051,23 +10052,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Commercial Consolidation at Ostankino Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Commercial Consolidation at Ostankino Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Commercial Consolidation at Ostankino Viewed </PHRASE></F></HT>
 
-<F P=102>   944F0665B Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
+<F P="102">   944F0665B Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
 Apr 94 p 13 </F>
 
-<F P=103> 944F0665B </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0665B </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Irina Petrovskaya: "Will We Be Able To Force the </F>
+<F P="106"> [Article by Irina Petrovskaya: "Will We Be Able To Force the </F>
 Genie Back Into the Bottle?"] 
   [Text] Last week an event occurred whose necessity had been 
 long reiterated by many of those people who understand even a 
@@ -10200,23 +10201,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   New Ostankino Advertising Director Interviewed </TI></H3>
-<HT><F P=107><PHRASE>    New Ostankino Advertising Director Interviewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    New Ostankino Advertising Director Interviewed </PHRASE></F></HT>
 
-<F P=102>   944F0665C Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
+<F P="102">   944F0665C Moscow OBSHCHAYA GAZETA in Russian No 16, 22-28 
 Apr 94 p 13 </F>
 
-<F P=103> 944F0665C </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944F0665C </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Sergey Kuvaldin, general director of the </F>
+<F P="106"> [Interview with Sergey Kuvaldin, general director of the </F>
 joint-stock company "Reklama-Holding" ["Advertisement-Holding"], 
 conducted by Anna Kachkayeva: "`Ostankino' Enters the Era of a 
 New Advertising Policy"] 
@@ -10339,22 +10340,22 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   28 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Federal Employment Service on Unemployment Level Forecast </TI></H3>
-<HT><F P=107><PHRASE>    Federal Employment Service on Unemployment Level Forecast </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Federal Employment Service on Unemployment Level Forecast </PHRASE></F></HT>
 
 
 <TEXT>
 for   1994 
 
-<F P=102> 944E0785A Moscow NEZAVISIMAYA GAZETA in Russian 28 Apr 94 p 4 </F>
-<F P=103> 944E0785A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="102"> 944E0785A Moscow NEZAVISIMAYA GAZETA in Russian 28 Apr 94 p 4 </F>
+<F P="103"> 944E0785A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="105">  Russian </F>
 CSO 
 
-<F P=106> [Article issued by the RF [Russian Federation] Federal </F>
+<F P="106"> [Article issued by the RF [Russian Federation] Federal </F>
 Employment Service: "Government Forecast of Growth in 
 Unemployment Publicized; In May There Will be 1,714,000 Persons 
 `Officially' Unemployed"] 
@@ -10459,14 +10460,14 @@ unemployment
 
 
 
-<FIG ID=JPRS-USR-051-109A>      Forecast of the RF Government Center for Economic Market Conditions </FIG>
+<FIG ID="JPRS-USR-051-109A">      Forecast of the RF Government Center for Economic Market Conditions </FIG>
 
 
 
-<FIG ID=JPRS-USR-051-109B>      Increase in number of employed persons continued in the first quarter, but gradually (thousand </FIG>
+<FIG ID="JPRS-USR-051-109B">      Increase in number of employed persons continued in the first quarter, but gradually (thousand </FIG>
 
 
-<FIG ID=JPRS-USR-051-110A>      Official statistics on persons not engaged in labor activity, unemployed and receiving benefits </FIG>
+<FIG ID="JPRS-USR-051-110A">      Official statistics on persons not engaged in labor activity, unemployed and receiving benefits </FIG>
 
 
 
@@ -10490,23 +10491,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 May 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Liparityan Views Karabakh Peace Process </TI></H3>
-<HT><F P=107><PHRASE>    Liparityan Views Karabakh Peace Process </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liparityan Views Karabakh Peace Process </PHRASE></F></HT>
 
-<F P=102>   944K1191A Yerevan RESPUBLIKA ARMENIYA in Russian 4 May 94 pp 
+<F P="102">   944K1191A Yerevan RESPUBLIKA ARMENIYA in Russian 4 May 94 pp 
 1-2 </F>
 
-<F P=103> 944K1191A </F>
-<F P=104>  Yerevan RESPUBLIKA ARMENIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1191A </F>
+<F P="104">  Yerevan RESPUBLIKA ARMENIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Zhirayr Liparityan, Armenian Republic deputy </F>
+<F P="106"> [Interview with Zhirayr Liparityan, Armenian Republic deputy </F>
 minister of foreign affairs, by Ida Martirosyan, under the 
 rubric "War and We"; place and date not given: "The Possible and 
 the Necessary"] 
@@ -10822,21 +10823,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   8 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Liparityan Comments on Trips to Turkey, Iran </TI></H3>
-<HT><F P=107><PHRASE>    Liparityan Comments on Trips to Turkey, Iran </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Liparityan Comments on Trips to Turkey, Iran </PHRASE></F></HT>
 
-<F P=102>   944K1132 Yerevan AZG in Armenian 8 Mar 94 p 4 </F>
-<F P=103> 944K1132 </F>
-<F P=104>  Yerevan AZG </F>
-<F P=105>  Armenian </F>
+<F P="102">   944K1132 Yerevan AZG in Armenian 8 Mar 94 p 4 </F>
+<F P="103"> 944K1132 </F>
+<F P="104">  Yerevan AZG </F>
+<F P="105">  Armenian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with First Deputy Foreign Minister Zhirayr </F>
+<F P="106"> [Interview with First Deputy Foreign Minister Zhirayr </F>
 Libarityan in Yerevan; date not specified] 
   [Text] Zhirayr Liparityan, first deputy minister of foreign 
 affairs, recently returned from a working tour of Russia, 
@@ -11003,15 +11004,15 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   11 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Citizenship Reportedly Sought for Terrorist </TI></H3>
-<HT><F P=107><PHRASE>    Citizenship Reportedly Sought for Terrorist </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Citizenship Reportedly Sought for Terrorist </PHRASE></F></HT>
 
-<F P=102>   944K1132B Yerevan AZG in Armenian 11 Mar 94 p 2 </F>
-<F P=103> 944K1132B </F>
-<F P=104>  Yerevan AZG </F>
-<F P=105>  Armenian </F>
+<F P="102">   944K1132B Yerevan AZG in Armenian 11 Mar 94 p 2 </F>
+<F P="103"> 944K1132B </F>
+<F P="104">  Yerevan AZG </F>
+<F P="105">  Armenian </F>
 
 
 <TEXT>
@@ -11062,21 +11063,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Armenian Labor Market, Privatization Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Armenian Labor Market, Privatization Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Armenian Labor Market, Privatization Viewed </PHRASE></F></HT>
 
-<F P=102>   944K1132C Yerevan YERKIR in Armenian 12 Feb 94 p 4 </F>
-<F P=103> 944K1132C </F>
-<F P=104>  Yerevan YERKIR </F>
-<F P=105>  Armenian </F>
+<F P="102">   944K1132C Yerevan YERKIR in Armenian 12 Feb 94 p 4 </F>
+<F P="103"> 944K1132C </F>
+<F P="104">  Yerevan YERKIR </F>
+<F P="105">  Armenian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Davit Tumanyan, candidate of economic sciences </F>
+<F P="106"> [Article by Davit Tumanyan, candidate of economic sciences </F>
 and director of the Yerevan Employment Center: "The Labor Market 
 and Employment of the Population in Armenia"] 
   [Text] The Armenian labor market is characterized by a 
@@ -11259,23 +11260,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 May 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Energy Situation in Republic Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Energy Situation in Republic Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Energy Situation in Republic Viewed </PHRASE></F></HT>
 
-<F P=102>   944K1192A Yerevan RESPUBLIKA ARMENIYA in Russian 4 May 94 pp 
+<F P="102">   944K1192A Yerevan RESPUBLIKA ARMENIYA in Russian 4 May 94 pp 
 1-2 </F>
 
-<F P=103> 944K1192A </F>
-<F P=104>  Yerevan RESPUBLIKA ARMENIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1192A </F>
+<F P="104">  Yerevan RESPUBLIKA ARMENIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Ashot Aramyan: "Energy `Today' Energy </F>
+<F P="106"> [Article by Ashot Aramyan: "Energy `Today' Energy </F>
 `Tomorrow.' Four-hour limit--`Ceiling' or `Floor'?"] 
   [Text] Recently our, shall we say, swimming in luxury, that 
 is, in electric energy, which has begun to remain in our 
@@ -11429,23 +11430,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 May 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Georgia, Armenia Sign Railway Agreement </TI></H3>
-<HT><F P=107><PHRASE>    Georgia, Armenia Sign Railway Agreement </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Georgia, Armenia Sign Railway Agreement </PHRASE></F></HT>
 
-<F P=102>   944K1192B Yerevan RESPUBLIKA ARMENIYA in Russian 4 May 94 pp 
+<F P="102">   944K1192B Yerevan RESPUBLIKA ARMENIYA in Russian 4 May 94 pp 
 1-2 </F>
 
-<F P=103> 944K1192B </F>
-<F P=104>  Yerevan RESPUBLIKA ARMENIYA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1192B </F>
+<F P="104">  Yerevan RESPUBLIKA ARMENIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Ruben Karagezyan: "The Problems Are Finding </F>
+<F P="106"> [Article by Ruben Karagezyan: "The Problems Are Finding </F>
 Solutions. Railroad Workers of Armenia and Georgia Work 
 Together"] 
   [Text] From now on the railroads of Armenia and 
@@ -11554,21 +11555,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   5 May 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> ARMENIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> ARMENIA </F>
 <H3> <TI>   Economic Agreement Signed in Austria </TI></H3>
-<HT><F P=107><PHRASE>    Economic Agreement Signed in Austria </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Economic Agreement Signed in Austria </PHRASE></F></HT>
 
-<F P=102>   944K1192C Yerevan RESPUBLIKA ARMENIYA in Russian 5 May 94 p 1 </F>
-<F P=103> 944K1192C </F>
-<F P=104>  Yerevan RESPUBLIKA ARMENIYA </F>
-<F P=105>  Russian </F>
+<F P="102">   944K1192C Yerevan RESPUBLIKA ARMENIYA in Russian 5 May 94 p 1 </F>
+<F P="103"> 944K1192C </F>
+<F P="104">  Yerevan RESPUBLIKA ARMENIYA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Unattributed report under the rubric "Diplomacy": "Austria </F>
+<F P="106"> [Unattributed report under the rubric "Diplomacy": "Austria </F>
 Is Coming Closer"] 
   [Text] A government delegation of the Republic of Armenia 
 headed by Minister of the Economy of the Republic of Armenia 
@@ -11621,23 +11622,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 May 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Banking Irregularities Detailed </TI></H3>
-<HT><F P=107><PHRASE>    Banking Irregularities Detailed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Banking Irregularities Detailed </PHRASE></F></HT>
 
-<F P=102>   944K1190A Baku EKONOMIKA AZERBAYDZHANA in Russian 3 May 94 p 
+<F P="102">   944K1190A Baku EKONOMIKA AZERBAYDZHANA in Russian 3 May 94 p 
 1 </F>
 
-<F P=103> 944K1190A </F>
-<F P=104>  Baku EKONOMIKA AZERBAYDZHANA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1190A </F>
+<F P="104">  Baku EKONOMIKA AZERBAYDZHANA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by A. Yusifova: "Banks Have Been Audited"] </F>
+<F P="106"> [Article by A. Yusifova: "Banks Have Been Audited"] </F>
   [Text] The Main Administration for Banking Control of the 
 National Bank of Azerbaijan audited 31 commercial and joint 
 stock-commercial banks in the first quarter of 1994. 
@@ -11689,23 +11690,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 May 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Monopolism Barrier to Market Transition </TI></H3>
-<HT><F P=107><PHRASE>    Monopolism Barrier to Market Transition </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Monopolism Barrier to Market Transition </PHRASE></F></HT>
 
-<F P=102>   944K1190B Baku EKONOMIKA AZERBAYDZHANA in Russian 3 May 94 p 
+<F P="102">   944K1190B Baku EKONOMIKA AZERBAYDZHANA in Russian 3 May 94 p 
 1 </F>
 
-<F P=103> 944K1190B </F>
-<F P=104>  Baku EKONOMIKA AZERBAYDZHANA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1190B </F>
+<F P="104">  Baku EKONOMIKA AZERBAYDZHANA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by I.M. Dzhabrailov: "Monopolism: Barriers in the </F>
+<F P="106"> [Article by I.M. Dzhabrailov: "Monopolism: Barriers in the </F>
 Way to the Market. Problems and Solutions"] 
   [Text] Historically it so happens that on its way to the 
 market the economy of Azerbaijan has to destroy a 
@@ -11938,23 +11939,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 April 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Guliyev on CIS Viability, Relations With Russia </TI></H3>
-<HT><F P=107><PHRASE>    Guliyev on CIS Viability, Relations With Russia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Guliyev on CIS Viability, Relations With Russia </PHRASE></F></HT>
 
-<F P=102>   944K1186A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 26 
+<F P="102">   944K1186A Moscow NOVAYA YEZHEDNEVNAYA GAZETA in Russian 26 
 Apr 94 p 2 </F>
 
-<F P=103> 944K1186A </F>
-<F P=104>  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944K1186A </F>
+<F P="104">  Moscow NOVAYA YEZHEDNEVNAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with R.B. Guliyev, chairman of the National </F>
+<F P="106"> [Interview with R.B. Guliyev, chairman of the National </F>
 Assembly of Azerbaijan, by Anatoliy Blyudin, under the rubric 
 "Visits"; place and date not given: "Rasul Guliyev: We Will Not 
 Yield a Single Square Meter of Land"] 
@@ -12078,21 +12079,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   30 April 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Situation in Gas Industry `Critical' </TI></H3>
-<HT><F P=107><PHRASE>    Situation in Gas Industry `Critical' </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Situation in Gas Industry `Critical' </PHRASE></F></HT>
 
-<F P=102>   944K1163A Baku VYSHKA in Russian 30 Apr 94 pp 1-2 </F>
-<F P=103> 944K1163A </F>
-<F P=104>  Baku VYSHKA </F>
-<F P=105>  Russian </F>
+<F P="102">   944K1163A Baku VYSHKA in Russian 30 Apr 94 pp 1-2 </F>
+<F P="103"> 944K1163A </F>
+<F P="104">  Baku VYSHKA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Tariel Abulfaz Ogly Guseynov, president of </F>
+<F P="106"> [Interview with Tariel Abulfaz Ogly Guseynov, president of </F>
 the Azerigaz State Gas Company of Azerbaijan, by an unidentified 
 correspondent; place and date not given: "Tariel Guseynov: `To 
 Strictly Save Gas Everywhere and in Everything.' Tariel Abulfaz 
@@ -12309,21 +12310,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   24 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Georgian, Azeri Independence Parties Seek Cooperation </TI></H3>
-<HT><F P=107><PHRASE>    Georgian, Azeri Independence Parties Seek Cooperation </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Georgian, Azeri Independence Parties Seek Cooperation </PHRASE></F></HT>
 
-<F P=102>   944K1014C Baku MILLET in Azeri 24 Feb 94 p 1 </F>
-<F P=103> 944K1014C </F>
-<F P=104>  Baku MILLET </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1014C Baku MILLET in Azeri 24 Feb 94 p 1 </F>
+<F P="103"> 944K1014C </F>
+<F P="104">  Baku MILLET </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Declaration by Georgian National Independence Party: </F>
+<F P="106"> [Declaration by Georgian National Independence Party: </F>
 "Declaration of the Georgian National Independence Party "] 
   [Text] The Georgian National Independence Party, 
 considering the national and state interests of the Georgian 
@@ -12404,21 +12405,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   24 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Political Groups Protest Arrest of Opposition Leaders </TI></H3>
-<HT><F P=107><PHRASE>    Political Groups Protest Arrest of Opposition Leaders </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Political Groups Protest Arrest of Opposition Leaders </PHRASE></F></HT>
 
-<F P=102>   944K1014D Baku MILLET in Azeri 24 Feb 94 p 2 </F>
-<F P=103> 944K1014D </F>
-<F P=104>  Baku MILLET </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1014D Baku MILLET in Azeri 24 Feb 94 p 2 </F>
+<F P="103"> 944K1014D </F>
+<F P="104">  Baku MILLET </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by Kheber-Servis: "Declaration by Political </F>
+<F P="106"> [Report by Kheber-Servis: "Declaration by Political </F>
 Organizations"] 
   [Text] Six political parties in the 
 republic -- the Azerbaijan People's Front, the ADP [Azerbaijan 
@@ -12456,21 +12457,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   6 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   People's Front Official on Duties of Democratic Opposition </TI></H3>
-<HT><F P=107><PHRASE>    People's Front Official on Duties of Democratic Opposition </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    People's Front Official on Duties of Democratic Opposition </PHRASE></F></HT>
 
-<F P=102>   944K1015A Baku AZADLYG in Azeri 6 Mar 94 p 5 </F>
-<F P=103> 944K1015A </F>
-<F P=104>  Baku AZADLYG </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1015A Baku AZADLYG in Azeri 6 Mar 94 p 5 </F>
+<F P="103"> 944K1015A </F>
+<F P="104">  Baku AZADLYG </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Neriman Gasymoghlu: "Some Goals and Duties of </F>
+<F P="106"> [Article by Neriman Gasymoghlu: "Some Goals and Duties of </F>
 the Democratic Opposition"] 
   [Text] It can be accepted by everyone that an organized 
 democratic opposition with clear political goals is a national 
@@ -12708,21 +12709,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Opposition Calls for Inter-Party Solidarity </TI></H3>
-<HT><F P=107><PHRASE>    Opposition Calls for Inter-Party Solidarity </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Opposition Calls for Inter-Party Solidarity </PHRASE></F></HT>
 
-<F P=102>   944K1015B Baku AZADLYG in Azeri 3 Mar 94 p 4 </F>
-<F P=103> 944K1015B </F>
-<F P=104>  Baku AZADLYG </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1015B Baku AZADLYG in Azeri 3 Mar 94 p 4 </F>
+<F P="103"> 944K1015B </F>
+<F P="104">  Baku AZADLYG </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Appeal by APF, Musavat Party, People's Liberation Party and </F>
+<F P="106"> [Appeal by APF, Musavat Party, People's Liberation Party and </F>
 Azerbaijan Democratic Party: "Appeal to Opposition Parties by 
 Leaders of Information Structures of Political Organizations"] 
   [Text] For more than a month meetings of political 
@@ -12776,21 +12777,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   3 March 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   People's Front Meeting Views Islam, Human Freedom </TI></H3>
-<HT><F P=107><PHRASE>    People's Front Meeting Views Islam, Human Freedom </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    People's Front Meeting Views Islam, Human Freedom </PHRASE></F></HT>
 
-<F P=102>   944K1015C Baku AZADLYG in Azeri 3 Mar 94 p 8 </F>
-<F P=103> 944K1015C </F>
-<F P=104>  Baku AZADLYG </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1015C Baku AZADLYG in Azeri 3 Mar 94 p 8 </F>
+<F P="103"> 944K1015C </F>
+<F P="104">  Baku AZADLYG </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by APF Information Center: "`Islam And Human </F>
+<F P="106"> [Report by APF Information Center: "`Islam And Human </F>
 Freedom'"] 
   [Text] On 28 February religious functionaries, scholars and 
 party representatives held a meeting on "Islam and Human 
@@ -12858,21 +12859,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   People's Front Official on Cadre, Policy Changes </TI></H3>
-<HT><F P=107><PHRASE>    People's Front Official on Cadre, Policy Changes </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    People's Front Official on Cadre, Policy Changes </PHRASE></F></HT>
 
-<F P=102>   944K1016A Baku AZADLYG in Azeri 26 Feb 94 p 6 </F>
-<F P=103> 944K1016A </F>
-<F P=104>  Baku AZADLYG </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1016A Baku AZADLYG in Azeri 26 Feb 94 p 6 </F>
+<F P="103"> 944K1016A </F>
+<F P="104">  Baku AZADLYG </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Ibrahim Ibrahimli, first deputy chairman of </F>
+<F P="106"> [Interview with Ibrahim Ibrahimli, first deputy chairman of </F>
 the APF, by Elchin Seljuk: "`The Fate Of The APF Is More 
 Important For Me...'"] 
   [Text] 
@@ -13012,21 +13013,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   24 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   PKK Presence in Armenia Detailed </TI></H3>
-<HT><F P=107><PHRASE>    PKK Presence in Armenia Detailed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    PKK Presence in Armenia Detailed </PHRASE></F></HT>
 
-<F P=102>   944K1016B Baku AZADLYG in Azeri 24 Feb 94 p 5 </F>
-<F P=103> 944K1016B </F>
-<F P=104>  Baku AZADLYG </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1016B Baku AZADLYG in Azeri 24 Feb 94 p 5 </F>
+<F P="103"> 944K1016B </F>
+<F P="104">  Baku AZADLYG </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Gulden Aydin: "The PKK in Armenia"] </F>
+<F P="106"> [Article by Gulden Aydin: "The PKK in Armenia"] </F>
   [Text] From the Political Department: Turkish 
 journalists writing as Kurds themselves prepared this material. 
 Certainly, the Kurdish question in Azerbaijan is perceived 
@@ -13153,7 +13154,7 @@ for Javo Avdal's wife Aloyan, she lives in Yerevan. Although we
 wanted to meet with her, she did not want to meet with us. Her 
 acquaintances say, "Aloyan is also going to war, she is also in 
 the PKK and has no children." Javo went alone to Turkey. He went 
-with three companions from Shamiran, the largest J=Kurdish 
+with three companions from Shamiran, the largest J="Kurdish" 
 village, and a PKK member who had come from Turkey. They 
 traveled in the following way: one hour to Batumi, and from 
 Batumi by sea to Trabzon and Kars... 
@@ -13217,21 +13218,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 February 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> AZERBAIJAN </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> AZERBAIJAN </F>
 <H3> <TI>   Criminal Actions Against Azeris in Georgia Reported </TI></H3>
-<HT><F P=107><PHRASE>    Criminal Actions Against Azeris in Georgia Reported </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Criminal Actions Against Azeris in Georgia Reported </PHRASE></F></HT>
 
-<F P=102>   944K1016C Baku AZADLYG in Azeri 22 Feb 94 p 1 </F>
-<F P=103> 944K1016C </F>
-<F P=104>  Baku AZADLYG </F>
-<F P=105>  Azeri </F>
+<F P="102">   944K1016C Baku AZADLYG in Azeri 22 Feb 94 p 1 </F>
+<F P="103"> 944K1016C </F>
+<F P="104">  Baku AZADLYG </F>
+<F P="105">  Azeri </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [TURAN report: "Situation in Rayons Inhabited by Azeris </F>
+<F P="106"> [TURAN report: "Situation in Rayons Inhabited by Azeris </F>
 Worsens Again"] 
   [Text] The criminological situation in rayons where 100,000 
 Azeris live clustered together in the east of Georgia has 
@@ -13263,23 +13264,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 April 1994 </DATE1>
-<F P=100> CAUCASUS </F>
-<F P=101> GEORGIA </F>
+<F P="100"> CAUCASUS </F>
+<F P="101"> GEORGIA </F>
 <H3> <TI>   Interview With Ajaria's Abashidze </TI></H3>
-<HT><F P=107><PHRASE>    Interview With Ajaria's Abashidze </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Interview With Ajaria's Abashidze </PHRASE></F></HT>
 
-<F P=102>   PM2704084594 Moscow ROSSIYSKAYA GAZETA in Russian 26 Apr 94 
+<F P="102">   PM2704084594 Moscow ROSSIYSKAYA GAZETA in Russian 26 Apr 94 
 First Edition p 2 </F>
 
-<F P=103> PM2704084594 </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> PM2704084594 </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with Aslan Abashidze, chairman of the Ajarian </F>
+<F P="106"> [Interview with Aslan Abashidze, chairman of the Ajarian </F>
 Supreme Council, by Lyubov Volkova; date and place not given: 
 "Georgia: There Is a Small Passage Amid the Flames"] 
   [Text] 
@@ -13503,21 +13504,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   19 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Reform of Russian Banking System Outlined </TI></H3>
-<HT><F P=107><PHRASE>    Reform of Russian Banking System Outlined </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Reform of Russian Banking System Outlined </PHRASE></F></HT>
 
-<F P=102>   944E0740A Moscow NEZAVISIMAYA GAZETA in Russian 19 Apr 94 p 5 </F>
-<F P=103> 944E0740A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0740A Moscow NEZAVISIMAYA GAZETA in Russian 19 Apr 94 p 5 </F>
+<F P="103"> 944E0740A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yuriy Agapov, president of the Kredo-Bank, </F>
+<F P="106"> [Article by Yuriy Agapov, president of the Kredo-Bank, </F>
 candidate of economic sciences, and Oleg Lavrushin, president of 
 the Center for Banking Research, academician: "What Is a Bank in 
 Russia? Proposals for Reform of Our Banking System"] 
@@ -14121,23 +14122,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Concept of State Participation in Investment Process Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Concept of State Participation in Investment Process Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Concept of State Participation in Investment Process Viewed </PHRASE></F></HT>
 
-<F P=102>   944E0749A Moscow KOMMERSANT in Russian No 13, 12 Apr 94 pp 
+<F P="102">   944E0749A Moscow KOMMERSANT in Russian No 13, 12 Apr 94 pp 
 2,3 </F>
 
-<F P=103> 944E0749A </F>
-<F P=104>  Moscow KOMMERSANT </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0749A </F>
+<F P="104">  Moscow KOMMERSANT </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Nikita Kirichenko, Aleksandr Privalov, and </F>
+<F P="106"> [Article by Nikita Kirichenko, Aleksandr Privalov, and </F>
 Andrey Shmarov entitled "Hunting Season for Private Investments 
 Opens"] 
   [Text] A favorite idea of KOMMERSANT experts, solving the 
@@ -14398,21 +14399,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   13 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Antimonopoly Committee on Goods Certification System </TI></H3>
-<HT><F P=107><PHRASE>    Antimonopoly Committee on Goods Certification System </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Antimonopoly Committee on Goods Certification System </PHRASE></F></HT>
 
-<F P=102>   944E0753A Moscow KOMMERSANT-DAILY in Russian 13 Apr 94 p 2 </F>
-<F P=103> 944E0753A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0753A Moscow KOMMERSANT-DAILY in Russian 13 Apr 94 p 2 </F>
+<F P="103"> 944E0753A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Nikolay Podlipskiy: "Antimonopoly Committee </F>
+<F P="106"> [Article by Nikolay Podlipskiy: "Antimonopoly Committee </F>
 Rises Up Against the System"] 
   [Text] Members of the Government Commission on 
 Operational Matters reacted ambiguously to the view of the 
@@ -14501,23 +14502,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   14 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Documents on Demonopolization, Competition </TI></H3>
-<HT><F P=107><PHRASE>    Documents on Demonopolization, Competition </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Documents on Demonopolization, Competition </PHRASE></F></HT>
 
-<F P=102>   PM1504101894 Moscow ROSSIYSKAYA GAZETA in Russian 14 Apr 94 
+<F P="102">   PM1504101894 Moscow ROSSIYSKAYA GAZETA in Russian 14 Apr 94 
 First Edition pp 4-6 </F>
 
-<F P=103> PM1504101894 </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> PM1504101894 </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Russian Federation Government decree "On State Program for </F>
+<F P="106"> [Russian Federation Government decree "On State Program for </F>
 Demonopolization of the Economy and Development of Competition 
 on the Russian Federation Markets (Main Avenues and Priority 
 Measures)" followed by "State Program for the Demonopolization 
@@ -15819,21 +15820,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   16 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Deputy Inveighs Against Draft State Budget </TI></H3>
-<HT><F P=107><PHRASE>    Deputy Inveighs Against Draft State Budget </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Deputy Inveighs Against Draft State Budget </PHRASE></F></HT>
 
-<F P=102>   PM1804154194 Moscow PRAVDA in Russian 16 Apr 94 p 2 </F>
-<F P=103> PM1804154194 </F>
-<F P=104>  Moscow PRAVDA </F>
-<F P=105>  Russian </F>
+<F P="102">   PM1804154194 Moscow PRAVDA in Russian 16 Apr 94 p 2 </F>
+<F P="103"> PM1804154194 </F>
+<F P="104">  Moscow PRAVDA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Article by Doctor of Economic Sciences Professor Mikhail </F>
+<F P="106"> [Article by Doctor of Economic Sciences Professor Mikhail </F>
 Sidorov, State Duma deputy: "What Kind of Reforms Are These if 
 They Find the People an Obstacle?! Notes on State's Income and 
 Expenditure in 1994"] 
@@ -16071,23 +16072,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   27 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Acting Minister Defends `Realistic' Budget </TI></H3>
-<HT><F P=107><PHRASE>    Acting Minister Defends `Realistic' Budget </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Acting Minister Defends `Realistic' Budget </PHRASE></F></HT>
 
-<F P=102>   PM2804114194 Moscow ROSSIYSKAYA GAZETA in Russian 27 Apr 94 
+<F P="102">   PM2804114194 Moscow ROSSIYSKAYA GAZETA in Russian 27 Apr 94 
 First Edition pp 1, 3 </F>
 
-<F P=103> PM2804114194 </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> PM2804114194 </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 BFN 
 
-<F P=106> [Interview with acting Russian Finance Minister Sergey </F>
+<F P="106"> [Interview with acting Russian Finance Minister Sergey </F>
 Dubinin and Deputy Finance Minister Sergey Aleksashenko by A. 
 Yevgenyev; date and place not given: "If Inflation Can Be Kept 
 in Check, Major Capital Will Move Toward Us. So Russian 
@@ -16480,23 +16481,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Privatization Progress Viewed </TI></H3>
-<HT><F P=107><PHRASE>    Privatization Progress Viewed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Privatization Progress Viewed </PHRASE></F></HT>
 
-<F P=102>   944E0761A Moscow KOMMERCHESKIY VESTNIK in Russian No 3-4, 
+<F P="102">   944E0761A Moscow KOMMERCHESKIY VESTNIK in Russian No 3-4, 
 Mar-Apr 94 pp 6-9 </F>
 
-<F P=103> 944E0761A </F>
-<F P=104>  Moscow KOMMERCHESKIY VESTNIK </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0761A </F>
+<F P="104">  Moscow KOMMERCHESKIY VESTNIK </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Vladimir Malyshkov, deputy mayor of the </F>
+<F P="106"> [Article by Vladimir Malyshkov, deputy mayor of the </F>
 Government of Moscow and chief of the department of consumer 
 services and the market, under the rubric "Trade: Analysis, 
 Projections": "The Shops Have Been Privatized: The Entire Sense 
@@ -16884,21 +16885,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Yakovlev, Chubays on Privatization, Current Affairs </TI></H3>
-<HT><F P=107><PHRASE>    Yakovlev, Chubays on Privatization, Current Affairs </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Yakovlev, Chubays on Privatization, Current Affairs </PHRASE></F></HT>
 
-<F P=102>   944E0757A Moscow OBSHCHAYA GAZETA in Russian 22 Apr 94 p 8 </F>
-<F P=103> 944E0757A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0757A Moscow OBSHCHAYA GAZETA in Russian 22 Apr 94 p 8 </F>
+<F P="103"> 944E0757A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Interview with Anatoliy Chubays by Yegor Yakovlev; place </F>
+<F P="106"> [Interview with Anatoliy Chubays by Yegor Yakovlev; place </F>
 and date not given: "The Deputy Prime Minister of Whom There Is 
 a Continual Desire To Be Rid"] 
   [Text] 
@@ -17149,21 +17150,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   12 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Academician Shmelev Pessimistic on Economic Recovery </TI></H3>
-<HT><F P=107><PHRASE>    Academician Shmelev Pessimistic on Economic Recovery </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Academician Shmelev Pessimistic on Economic Recovery </PHRASE></F></HT>
 
-<F P=102>   944E0774A Moscow KURANTY in Russian 12 Apr 94 p 4 </F>
-<F P=103> 944E0774A </F>
-<F P=104>  Moscow KURANTY </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0774A Moscow KURANTY in Russian 12 Apr 94 p 4 </F>
+<F P="103"> 944E0774A </F>
+<F P="104">  Moscow KURANTY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report on statements made by Nikolay Petrovich Shmelev, </F>
+<F P="106"> [Report on statements made by Nikolay Petrovich Shmelev, </F>
 corresponding member of the Russian Academy of Sciences, by 
 Viktor Mironov: "Russia Is at a Dead End. And For a Long time"] 
   [Text] Frankly speaking, I had planned at first to 
@@ -17357,23 +17358,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   30 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Writer Wary Over Politicians' Optimistic Views of Economy </TI></H3>
-<HT><F P=107><PHRASE>    Writer Wary Over Politicians' Optimistic Views of Economy </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Writer Wary Over Politicians' Optimistic Views of Economy </PHRASE></F></HT>
 
-<F P=102>   944E0776A Moscow RABOCHAYA TRIBUNA in Russian 30 Apr 94 pp 
+<F P="102">   944E0776A Moscow RABOCHAYA TRIBUNA in Russian 30 Apr 94 pp 
 1-2 </F>
 
-<F P=103> 944E0776A </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0776A </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Aleksandr Krotkov: "Goodbye Hyperinflation! </F>
+<F P="106"> [Article by Aleksandr Krotkov: "Goodbye Hyperinflation! </F>
 Hello Hypercrisis?"] 
   [Text] For the first time in a long period monthly 
 inflation rates have dropped to 10 and even 8 percent. Russia's 
@@ -17462,21 +17463,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   22 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Soskovets on Taxation System Reform </TI></H3>
-<HT><F P=107><PHRASE>    Soskovets on Taxation System Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Soskovets on Taxation System Reform </PHRASE></F></HT>
 
-<F P=102>   944E0770A Moscow KOMMERSANT-DAILY in Russian 22 Apr 94 p 3 </F>
-<F P=103> 944E0770A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0770A Moscow KOMMERSANT-DAILY in Russian 22 Apr 94 p 3 </F>
+<F P="103"> 944E0770A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Natalya Varnavskaya: "Tax Payment Should Become </F>
+<F P="106"> [Article by Natalya Varnavskaya: "Tax Payment Should Become </F>
 a Pleasant Necessity"] 
   [Text] Reforms await Russia's tax system this summer. 
 As Oleg Soskovets declared at the congress of the Association of 
@@ -17587,23 +17588,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   29 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Trade, Industry Chamber on Taxation System Reform </TI></H3>
-<HT><F P=107><PHRASE>    Trade, Industry Chamber on Taxation System Reform </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Trade, Industry Chamber on Taxation System Reform </PHRASE></F></HT>
 
-<F P=102>   944E0795A Moscow KOMMERSANT-DAILY in Russian 29 Apr 94 pp 1, 
+<F P="102">   944E0795A Moscow KOMMERSANT-DAILY in Russian 29 Apr 94 pp 1, 
 3 </F>
 
-<F P=103> 944E0795A </F>
-<F P=104>  Moscow KOMMERSANT-DAILY </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0795A </F>
+<F P="104">  Moscow KOMMERSANT-DAILY </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by Natalya Varnavskaya: "Business Circles Urge </F>
+<F P="106"> [Report by Natalya Varnavskaya: "Business Circles Urge </F>
 Reform of the Taxation System"] 
   [Text] The concept of basic reform of the current 
 taxation system was supported at the session of the Trade and 
@@ -17809,23 +17810,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   20 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Minister of Labor on Socioeconomic Conditions in Russia </TI></H3>
-<HT><F P=107><PHRASE>    Minister of Labor on Socioeconomic Conditions in Russia </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Minister of Labor on Socioeconomic Conditions in Russia </PHRASE></F></HT>
 
-<F P=102>   944E0748A Moscow ROSSIYSKAYA GAZETA in Russian 20 Apr 94 
+<F P="102">   944E0748A Moscow ROSSIYSKAYA GAZETA in Russian 20 Apr 94 
 First Edition pp 1, 3 </F>
 
-<F P=103> 944E0748A </F>
-<F P=104>  Moscow ROSSIYSKAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0748A </F>
+<F P="104">  Moscow ROSSIYSKAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Discussion with Gennadiy Melikyan, Russian Federation </F>
+<F P="106"> [Discussion with Gennadiy Melikyan, Russian Federation </F>
 minister of labor, by the ROSSIYSKAYA GAZETA editorial 
 collective, under the rubric "In the First Person"; place and 
 date not given: "Gennadiy Melikyan: `The Duty of the State Is To 
@@ -18409,21 +18410,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   6 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Novolipetsk Combine Director on Nonpayment Problems </TI></H3>
-<HT><F P=107><PHRASE>    Novolipetsk Combine Director on Nonpayment Problems </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Novolipetsk Combine Director on Nonpayment Problems </PHRASE></F></HT>
 
-<F P=102>   944E0796A Moscow RABOCHAYA TRIBUNA in Russian 6 May 94 p 3 </F>
-<F P=103> 944E0796A </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0796A Moscow RABOCHAYA TRIBUNA in Russian 6 May 94 p 3 </F>
+<F P="103"> 944E0796A </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Ivan Frantsenyuk, general director of the </F>
+<F P="106"> [Article by Ivan Frantsenyuk, general director of the </F>
 Novolipetsk Metallurgical Combine: "We Are Surrounded on All 
 Sides"] 
   [Text] The combine considers it extremely necessary to take 
@@ -18529,21 +18530,21 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   4 May 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Kuzbass Experiments With Creation of Industrial Corporations </TI></H3>
-<HT><F P=107><PHRASE>    Kuzbass Experiments With Creation of Industrial Corporations </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Kuzbass Experiments With Creation of Industrial Corporations </PHRASE></F></HT>
 
-<F P=102>   944E0792A Moscow RABOCHAYA TRIBUNA in Russian 4 May 94 p 2 </F>
-<F P=103> 944E0792A </F>
-<F P=104>  Moscow RABOCHAYA TRIBUNA </F>
-<F P=105>  Russian </F>
+<F P="102">   944E0792A Moscow RABOCHAYA TRIBUNA in Russian 4 May 94 p 2 </F>
+<F P="103"> 944E0792A </F>
+<F P="104">  Moscow RABOCHAYA TRIBUNA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Yuriy Sosin, director of the Scientific Research </F>
+<F P="106"> [Article by Yuriy Sosin, director of the Scientific Research </F>
 Center for Problems of Economics and Management (Kemerovo), 
 under the heading "Economic Restructuring": "They Cannot Be 
 Harnessed to the Same Cart: Lessons From the Creation of 
@@ -18726,23 +18727,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   21 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Sergey Glazyev Assesses Draft Agreement on Civic Accord </TI></H3>
-<HT><F P=107><PHRASE>    Sergey Glazyev Assesses Draft Agreement on Civic Accord </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Sergey Glazyev Assesses Draft Agreement on Civic Accord </PHRASE></F></HT>
 
-<F P=102>   944E0764A Moscow NEZAVISIMAYA GAZETA in Russian 21 Apr 94 pp 
+<F P="102">   944E0764A Moscow NEZAVISIMAYA GAZETA in Russian 21 Apr 94 pp 
 1, 4 </F>
 
-<F P=103> 944E0764A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0764A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Sergey Glazyev, chairman of the Committee on </F>
+<F P="106"> [Article by Sergey Glazyev, chairman of the Committee on </F>
 Economic Policy of the State Duma: "Formula of Accord Under 
 Crisis Conditions"] 
   [Text] The movement toward national accord, which began 
@@ -19136,23 +19137,23 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   29 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Government Budget Change To Affect Chernobyl's Victims </TI></H3>
-<HT><F P=107><PHRASE>    Government Budget Change To Affect Chernobyl's Victims </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Government Budget Change To Affect Chernobyl's Victims </PHRASE></F></HT>
 
-<F P=102>   944E0781A Moscow OBSHCHAYA GAZETA in Russian No 17, 29 Apr 
+<F P="102">   944E0781A Moscow OBSHCHAYA GAZETA in Russian No 17, 29 Apr 
 94 p 1 </F>
 
-<F P=103> 944E0781A </F>
-<F P=104>  Moscow OBSHCHAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0781A </F>
+<F P="104">  Moscow OBSHCHAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Article by Nikolay Troitskiy: "It Was Decided To Save on </F>
+<F P="106"> [Article by Nikolay Troitskiy: "It Was Decided To Save on </F>
 `Enemies of the People'"] 
   [Text] Having persuaded the Duma to approve the 
 annual budget "in the main," the government brought itself to 
@@ -19248,24 +19249,24 @@ JPRS
 
 <ABS>  FBIS Report: Central Eurasia </ABS>
 <DATE1>   26 April 1994 </DATE1>
-<F P=100> RUSSIA </F>
-<F P=101> ECONOMIC AND SOCIAL AFFAIRS </F>
+<F P="100"> RUSSIA </F>
+<F P="101"> ECONOMIC AND SOCIAL AFFAIRS </F>
 <H3> <TI>   Russian Business Elite Detailed </TI></H3>
-<HT><F P=107><PHRASE>    Russian Business Elite Detailed </PHRASE></F></HT>
+<HT><F P="107"><PHRASE>    Russian Business Elite Detailed </PHRASE></F></HT>
 <H4>    List of Most Influential Entrepreneurs </H4>
 
-<F P=102> 944E0766A Moscow NEZAVISIMAYA GAZETA in Russian 26 Apr 94 pp 
+<F P="102"> 944E0766A Moscow NEZAVISIMAYA GAZETA in Russian 26 Apr 94 pp 
 1-2 </F>
 
-<F P=103> 944E0766A </F>
-<F P=104>  Moscow NEZAVISIMAYA GAZETA </F>
-<F P=105>  Russian </F>
+<F P="103"> 944E0766A </F>
+<F P="104">  Moscow NEZAVISIMAYA GAZETA </F>
+<F P="105">  Russian </F>
 
 
 <TEXT>
 CSO 
 
-<F P=106> [Report by Vitaliy Tretyakov: "The Elite of Russian </F>
+<F P="106"> [Report by Vitaliy Tretyakov: "The Elite of Russian </F>
 Business: The Money and Power of the Country's 50 Most 
 Influential Entrepreneurs: Financial Magnates Predominate"] 
   [Text] The success of the monthly survey by NG-VP 
@@ -19453,3 +19454,4 @@ which numerous entrepreneurs are actively engaged.
 </TEXT>
 
 </DOC>
+</root>

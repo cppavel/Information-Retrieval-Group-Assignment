@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS3-40150 </DOCNO>
@@ -13,16 +14,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Shaanxi Fulfills Grain Procurement Task </TI></H3>
-<F P=102>  94CE0257V Xi'an SHAANXI RIBAO in Chinese 3 Jan 94 p 1 </F>
-<F P=103> 94CE0257V </F>
-<F P=104>  Xi'an SHAANXI RIBAO </F>
+<F P="102">  94CE0257V Xi'an SHAANXI RIBAO in Chinese 3 Jan 94 p 1 </F>
+<F P="103"> 94CE0257V </F>
+<F P="104">  Xi'an SHAANXI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] As of 25 December, Shaanxi Province had procured 
@@ -49,16 +50,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Shanxi Grain Output Increases </TI></H3>
-<F P=102>  94CE0257W Taiyuan SHANXI RIBAO in Chinese 22 Dec 93 p 1 </F>
-<F P=103> 94CE0257W </F>
-<F P=104>  Taiyuan SHANXI RIBAO </F>
+<F P="102">  94CE0257W Taiyuan SHANXI RIBAO in Chinese 22 Dec 93 p 1 </F>
+<F P="103"> 94CE0257W </F>
+<F P="104">  Taiyuan SHANXI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] Gross output of grain in 1993 in Shanxi Province 
@@ -83,20 +84,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   New Trend in Media Reportings </TI></H3>
-<F P=102>  94CM0137A Hong Kong TANG TAI [CONTEMPORARY] in Chinese No 
+<F P="102">  94CM0137A Hong Kong TANG TAI [CONTEMPORARY] in Chinese No 
 33, 15 Dec 93 pp 92-94 </F>
 
-<F P=103> 94CM0137A </F>
-<F P=104>  Hong Kong TANG TAI [CONTEMPORARY] </F>
+<F P="103"> 94CM0137A </F>
+<F P="104">  Hong Kong TANG TAI [CONTEMPORARY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yun Yang: "Major Current Tides in China's News </F>
+<F P="106"> [Article by Yun Yang: "Major Current Tides in China's News </F>
 Media"] 
   [Text] Under a planned economic system, 
 news-gathering activities tend to be carried out only on the 
@@ -398,18 +399,18 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> HONG KONG, MACAO </F>
+<F P="100"> HONG KONG, MACAO </F>
 <H3> <TI>   Public Reaction to "Through Train" Issue </TI></H3>
-<F P=102>  94CM0088A Hong Kong MING PAO in Chinese 8 Nov 93 </F>
-<F P=103> 94CM0088A </F>
-<F P=104>  Hong Kong MING PAO </F>
+<F P="102">  94CM0088A Hong Kong MING PAO in Chinese 8 Nov 93 </F>
+<F P="103"> 94CM0088A </F>
+<F P="104">  Hong Kong MING PAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Hong Kong University Social Sciences Research </F>
+<F P="106"> [Article by Hong Kong University Social Sciences Research </F>
 Center researcher Chung Ting-yao (6945 1656 5069): "Who Can 
 Drive the `Through Train Called Faith'?"] 
   [Excerpt] 
@@ -564,20 +565,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Thaw Literature In Soviet Union, China Compared </TI></H3>
-<F P=102>  94CM0111A Paris MINZHU ZHONGGUO [DEMOCRATIC CHINA] in 
+<F P="102">  94CM0111A Paris MINZHU ZHONGGUO [DEMOCRATIC CHINA] in 
 Chinese No 18, Nov 93 pp 58-61 </F>
 
-<F P=103> 94CM0111A </F>
-<F P=104>  Paris MINZHU ZHONGGUO [DEMOCRATIC CHINA] </F>
+<F P="103"> 94CM0111A </F>
+<F P="104">  Paris MINZHU ZHONGGUO [DEMOCRATIC CHINA] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhong Weiguang, (0112 4850 0342), Chinese </F>
+<F P="106"> [Article by Zhong Weiguang, (0112 4850 0342), Chinese </F>
 scholar in Germany: "Thaw Literature Struggles To Break Free 
 From Ideology"] 
   [Text] Forty years of CPC rule on the mainland has 
@@ -1028,17 +1029,17 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Hong Kong Reporters' Situation Reported </TI></H3>
-<F P=102>  94CM0067A Hong Kong CHIU-SHI NIEN-TAI [THE NINETIES] in 
+<F P="102">  94CM0067A Hong Kong CHIU-SHI NIEN-TAI [THE NINETIES] in 
 Chinese No 11, 1 Nov 93 pp 37-39 </F>
 
-<F P=103> 94CM0067A </F>
-<F P=104>  Hong Kong CHIU-SHI NIEN-TAI [THE NINETIES] </F>
+<F P="103"> 94CM0067A </F>
+<F P="104">  Hong Kong CHIU-SHI NIEN-TAI [THE NINETIES] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Text] The incident of Ming Pao reporter Hsi Yang took 
@@ -1306,21 +1307,21 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
-<F P=101> HONG KONG, MACAO </F>
+<F P="100"> SOCIAL </F>
+<F P="101"> HONG KONG, MACAO </F>
 <H3> <TI>   Reaction to Patten's 2d Policy Speech, Talks </TI></H3>
-<F P=102>  94CM0088B Hong Kong TANGTAI [CONTEMPORARY] in Chinese No 31, 
+<F P="102">  94CM0088B Hong Kong TANGTAI [CONTEMPORARY] in Chinese No 31, 
 15 Oct 93 p 6 </F>
 
-<F P=103> 94CM0088B </F>
-<F P=104>  Hong Kong TANGTAI [CONTEMPORARY] </F>
+<F P="103"> 94CM0088B </F>
+<F P="104">  Hong Kong TANGTAI [CONTEMPORARY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Magazine Editorial Department: </F>
+<F P="106"> [Article by Magazine Editorial Department: </F>
 "Public Opinion Poll Sponsored by Magazine Revealed Patten's 
 Policy Speech Fairly Well Accepted"] 
   [Excerpt] According to a public opinion poll sponsored by 
@@ -1461,21 +1462,21 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
-<F P=101> HONG KONG, MACAO </F>
+<F P="100"> SOCIAL </F>
+<F P="101"> HONG KONG, MACAO </F>
 <H3> <TI>   Post-3d Plenary Session Economic Prospects Viewed </TI></H3>
-<F P=102>  94CE0189A Hong Kong CHING CHI TAO PAO [ECONOMIC REPORTER] in 
+<F P="102">  94CE0189A Hong Kong CHING CHI TAO PAO [ECONOMIC REPORTER] in 
 Chinese No 44, 15 Nov 93 pp 3-4 </F>
 
-<F P=103> 94CE0189A </F>
-<F P=104>  Hong Kong CHING CHI TAO PAO [ECONOMIC REPORTER] </F>
+<F P="103"> 94CE0189A </F>
+<F P="104">  Hong Kong CHING CHI TAO PAO [ECONOMIC REPORTER] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhou Wei (0719 4850): "Third Plenary Session </F>
+<F P="106"> [Article by Zhou Wei (0719 4850): "Third Plenary Session </F>
 Gets Favorable Reviews in Hong Kong"] 
   [Text] The 3d Plenary Session of the 14th CPC Central 
 Committee was held in Beijing on 11 November as the whole world 
@@ -1715,20 +1716,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   State Council Information Office Head Profiled </TI></H3>
-<F P=102>  94CM0122A Hong Kong KUANG CHIAO CHING [WIDE ANGLE] in 
+<F P="102">  94CM0122A Hong Kong KUANG CHIAO CHING [WIDE ANGLE] in 
 Chinese No 255, 16 Dec 93 pp 26-29 </F>
 
-<F P=103> 94CM0122A </F>
-<F P=104>  Hong Kong KUANG CHIAO CHING [WIDE ANGLE] </F>
+<F P="103"> 94CM0122A </F>
+<F P="104">  Hong Kong KUANG CHIAO CHING [WIDE ANGLE] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Report written by Li Kuo-chiang (2621 0948 1730) on 9 </F>
+<F P="106"> [Report written by Li Kuo-chiang (2621 0948 1730) on 9 </F>
 November 1993 in Xian, Shaanxi, interview at the State Council 
 Information Office at the Olympic Games Village in Beijing on 8 
 November 1993 with State Council Information Office Director 
@@ -2055,20 +2056,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Party, Government Businesses Influence Judiciary </TI></H3>
-<F P=102>  94CM0127A Changsha FAZHI YUEKAN [LEGAL SYSTEM MONTHLY] in 
+<F P="102">  94CM0127A Changsha FAZHI YUEKAN [LEGAL SYSTEM MONTHLY] in 
 Chinese No 146, 5 Nov 93 pp 16-17 </F>
 
-<F P=103> 94CM0127A </F>
-<F P=104>  Changsha FAZHI YUEKAN [LEGAL SYSTEM MONTHLY] </F>
+<F P="103"> 94CM0127A </F>
+<F P="104">  Changsha FAZHI YUEKAN [LEGAL SYSTEM MONTHLY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Xiang Xuhan (0686 4872 3352) and Peng Jiaming </F>
+<F P="106"> [Article by Xiang Xuhan (0686 4872 3352) and Peng Jiaming </F>
 (1756 1367 2494): "Influence of Party and Government-Run 
 Economic Entities on the Judicial System, Legal Countermeasures"] 
   [Excerpts] [passage omitted] 1. Entities and units 
@@ -2223,20 +2224,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Wei Jingsheng on `Predicament' of the People </TI></H3>
-<F P=102>  94CM0115A Hong Kong MING PAO YUE-KAN [MING PAO MONTHLY] in 
+<F P="102">  94CM0115A Hong Kong MING PAO YUE-KAN [MING PAO MONTHLY] in 
 Chinese No 12, Dec 93 pp 43-44 </F>
 
-<F P=103> 94CM0115A </F>
-<F P=104>  Hong Kong MING PAO YUE-KAN [MING PAO MONTHLY] </F>
+<F P="103"> 94CM0115A </F>
+<F P="104">  Hong Kong MING PAO YUE-KAN [MING PAO MONTHLY] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wei Jingsheng (7614 0079 3932): "Savior or </F>
+<F P="106"> [Article by Wei Jingsheng (7614 0079 3932): "Savior or </F>
 Malefactor? On the 100th Anniversary of the Birth of Mao Zedong"] 
   [Text] This subject is a very large one, but we don't have 
 to go into it at great length. At first glance, it seems that we 
@@ -2381,19 +2382,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Hunan Vice-Governor on Rural Insurance </TI></H3>
-<F P=102>  94CE0262A Beijing JINRONG SHIBAO in Chinese 10 Jan 94 p 2 </F>
-<F P=103> 94CE0262A </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102">  94CE0262A Beijing JINRONG SHIBAO in Chinese 10 Jan 94 p 2 </F>
+<F P="103"> 94CE0262A </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wang Keying (3769 0344 5391): "Energetically </F>
+<F P="106"> [Article by Wang Keying (3769 0344 5391): "Energetically </F>
 Develop the Rural Insurance Industry; Promote the Stable Growth 
 in Agricultural Production"] 
   [Text] Our province is subject to recurrent natural 
@@ -2630,21 +2631,21 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Liu Hongru on State of Securities Markets </TI></H3>
-<F P=102>  94CE0251A Beijing ZHONGGUO JINRONG [CHINA FINANCE] in 
+<F P="102">  94CE0251A Beijing ZHONGGUO JINRONG [CHINA FINANCE] in 
 Chinese No 11, 1 Nov 93 pp 19-24 </F>
 
-<F P=103> 94CE0251A </F>
-<F P=104>  Beijing ZHONGGUO JINRONG [CHINA FINANCE] </F>
+<F P="103"> 94CE0251A </F>
+<F P="104">  Beijing ZHONGGUO JINRONG [CHINA FINANCE] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Liu Hongru (0491 7703 0320): "Chinese Securities </F>
+<F P="106"> [Article by Liu Hongru (0491 7703 0320): "Chinese Securities </F>
 Markets on the Way To Standardization"] 
   [Text] The founding of China's securities markets was 
 marked by the issuance of state treasury bonds in 1981. After 
@@ -3337,19 +3338,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Reform at Communications Bank Reviewed </TI></H3>
-<F P=102>  94CE0256A Beijing JINRONG SHIBAO in Chinese 23 Dec 93 p 1 </F>
-<F P=103> 94CE0256A </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102">  94CE0256A Beijing JINRONG SHIBAO in Chinese 23 Dec 93 p 1 </F>
+<F P="103"> 94CE0256A </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by JINRONG SHIBAO correspondent Ji Sanmeng (6060 </F>
+<F P="106"> [Article by JINRONG SHIBAO correspondent Ji Sanmeng (6060 </F>
 0005 3718): "Review of the Past and Prospects of the Future 
 Performance of the Bank of Communications--Meeting the 
 Challenges of Financial Reform"] 
@@ -3583,19 +3584,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Article on Restructuring Rural Financial System </TI></H3>
-<F P=102>  94CE0255A Beijing JINRONG SHIBAO in Chinese 14 Dec 93 p 3 </F>
-<F P=103> 94CE0255A </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102">  94CE0255A Beijing JINRONG SHIBAO in Chinese 14 Dec 93 p 3 </F>
+<F P="103"> 94CE0255A </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Xu Yuyun (1776 7183 0061) of the Agricultural </F>
+<F P="106"> [Article by Xu Yuyun (1776 7183 0061) of the Agricultural </F>
 Bank of China: "Several Suggestions on Perfecting the Rural 
 Financial System"] 
   [Text] When Comrade Xiaoping toured Shanghai in 1991, he 
@@ -3829,19 +3830,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FOREIGN TRADE, INVESTMENT </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FOREIGN TRADE, INVESTMENT </F>
 <H3> <TI>   List of Second Batch of Revoked Internal Documents </TI></H3>
-<F P=102>  94CE0203A Beijing GUOJI SHANGBAO in Chinese 18 May 93 p 2 </F>
-<F P=103> 94CE0203A </F>
-<F P=104>  Beijing GUOJI SHANGBAO </F>
+<F P="102">  94CE0203A Beijing GUOJI SHANGBAO in Chinese 18 May 93 p 2 </F>
+<F P="103"> 94CE0203A </F>
+<F P="104">  Beijing GUOJI SHANGBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [MOFTEC Announcement No. 2, 1993: "List of the Second Batch </F>
+<F P="106"> [MOFTEC Announcement No. 2, 1993: "List of the Second Batch </F>
 of Revoked Internal Documents"] 
   [Text] 1. Circular on the Publication of "Guiding Principle 
 for Signing and Approving Contracts To Bring in Foreign 
@@ -4038,23 +4039,23 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Agriculture Minister Interviewed on Rural Problems </TI></H3>
-<F P=102>  94CE0240A Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
+<F P="102">  94CE0240A Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
 ECONOMY] in Chinese No 11, 20 Nov 93 pp 3-9 </F>
 
-<F P=103> 94CE0240A </F>
-<F P=104>  Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
+<F P="103"> 94CE0240A </F>
+<F P="104">  Beijing ZHONGGUO NONGCUN JINGJI [CHINA'S RURAL 
 ECONOMY] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Han Jun (7281 0193): "Use of Intensified Reform </F>
+<F P="106"> [Article by Han Jun (7281 0193): "Use of Intensified Reform </F>
 Methods To Solve the Problems That Rural Villages Face -- An 
 Interview With Minister of Agriculture Liu Jiang"] 
   [Text] The Minister of Agriculture, Comrade Liu Jiang, 
@@ -4763,18 +4764,18 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Heilongjiang Estimates 1994 Soybean Output </TI></H3>
-<F P=102>  94CE0257X Harbin HEILONGJIANG JINGJI BAO in Chinese 4 Jan 94 
+<F P="102">  94CE0257X Harbin HEILONGJIANG JINGJI BAO in Chinese 4 Jan 94 
 p 3 </F>
 
-<F P=103> 94CE0257X </F>
-<F P=104>  Harbin HEILONGJIANG JINGJI BAO </F>
+<F P="103"> 94CE0257X </F>
+<F P="104">  Harbin HEILONGJIANG JINGJI BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] In 1994 gross output of soybeans in Heilongjiang 
@@ -4808,16 +4809,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Hubei Reports Late Autumn Crop Area </TI></H3>
-<F P=102>  94CE0257U Wuhan HUBEI RIBAO in Chinese 13 Jan 94 p 1 </F>
-<F P=103> 94CE0257U </F>
-<F P=104>  Wuhan HUBEI RIBAO </F>
+<F P="102">  94CE0257U Wuhan HUBEI RIBAO in Chinese 13 Jan 94 p 1 </F>
+<F P="103"> 94CE0257U </F>
+<F P="104">  Wuhan HUBEI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] In 1993 the autumn, winter crop area in Hubei 
@@ -4847,18 +4848,18 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Jiangxi 1993 Cotton Output, Area </TI></H3>
-<F P=102>  94CE0257S Beijing ZHONGGUO FANGZHI BAO in Chinese 3 Jan 94 p 
+<F P="102">  94CE0257S Beijing ZHONGGUO FANGZHI BAO in Chinese 3 Jan 94 p 
 1 </F>
 
-<F P=103> 94CE0257S </F>
-<F P=104>  Beijing ZHONGGUO FANGZHI BAO </F>
+<F P="103"> 94CE0257S </F>
+<F P="104">  Beijing ZHONGGUO FANGZHI BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] In 1993 gross output of cotton in Jiangxi 
@@ -4886,16 +4887,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Jilin Fulfills Grain Storage Plan </TI></H3>
-<F P=102>  94CE0303A Beijing JINGJI RIBAO in Chinese 3 Feb 94 p 3 </F>
-<F P=103> 94CE0303A </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
+<F P="102">  94CE0303A Beijing JINGJI RIBAO in Chinese 3 Feb 94 p 3 </F>
+<F P="103"> 94CE0303A </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] As of 31 January, Jilin Province had put 4.37 
@@ -4921,18 +4922,18 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Shandong Cotton Procurement Declines </TI></H3>
-<F P=102>  94CE0257Y Beijing ZHONGGUO FANGZHI BAO in Chinese 22 Dec 93 
+<F P="102">  94CE0257Y Beijing ZHONGGUO FANGZHI BAO in Chinese 22 Dec 93 
 p 1 </F>
 
-<F P=103> 94CE0257Y </F>
-<F P=104>  Beijing ZHONGGUO FANGZHI BAO </F>
+<F P="103"> 94CE0257Y </F>
+<F P="104">  Beijing ZHONGGUO FANGZHI BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] As of 9 December, national cotton procurement 
@@ -4966,16 +4967,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Shandong Rural Economy, Farmer Income Increase </TI></H3>
-<F P=102>  94CE0257Z Beijing NONGMIN RIBAO in Chinese 7 Feb 94 p 1 </F>
-<F P=103> 94CE0257Z </F>
-<F P=104>  Beijing NONGMIN RIBAO </F>
+<F P="102">  94CE0257Z Beijing NONGMIN RIBAO in Chinese 7 Feb 94 p 1 </F>
+<F P="103"> 94CE0257Z </F>
+<F P="104">  Beijing NONGMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] In 1993 the gross value of agricultural output 
@@ -5002,18 +5003,18 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Sichuan Receives World Bank Loan </TI></H3>
-<F P=102>  94CE0303B Chengdu SICHUAN JINGJI RIBAO in Chinese 3 Feb 94 p 
+<F P="102">  94CE0303B Chengdu SICHUAN JINGJI RIBAO in Chinese 3 Feb 94 p 
 1 </F>
 
-<F P=103> 94CE0303B </F>
-<F P=104>  Chengdu SICHUAN JINGJI RIBAO </F>
+<F P="103"> 94CE0303B </F>
+<F P="104">  Chengdu SICHUAN JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] In March 1993 the World Bank and the Chinese 
@@ -5038,20 +5039,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> SOCIAL </F>
+<F P="100"> SOCIAL </F>
 <H3> <TI>   Publishing Business `Moving Towards Marketization' </TI></H3>
-<F P=102>  94CM0116A Hong Kong KUANG CHIAO CHING [WIDE ANGLE] in 
+<F P="102">  94CM0116A Hong Kong KUANG CHIAO CHING [WIDE ANGLE] in 
 Chinese No 12, 16 Dec 93 pp 50-53 </F>
 
-<F P=103> 94CM0116A </F>
-<F P=104>  Hong Kong KUANG CHIAO CHING [WIDE ANGLE] </F>
+<F P="103"> 94CM0116A </F>
+<F P="104">  Hong Kong KUANG CHIAO CHING [WIDE ANGLE] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Dong Fangse (2639 2455 5331): "Zhou Hong Signs </F>
+<F P="106"> [Article by Dong Fangse (2639 2455 5331): "Zhou Hong Signs </F>
 First Deal as `Indentured' Writer, Xinwen Publishing Office To 
 Mop Up Publishing's Strange Births"] 
   [Text] China's publishing circles, in the midst of a sales 
@@ -5513,16 +5514,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Industrial Output Value by Area Dec 1993 </TI></H3>
-<F P=102>  HK2401113394 Beijing CEI Database in English 24 Jan 94 </F>
-<F P=103> HK2401113394 </F>
-<F P=104>  Beijing CEI Database </F>
+<F P="102">  HK2401113394 Beijing CEI Database in English 24 Jan 94 </F>
+<F P="103"> HK2401113394 </F>
+<F P="104">  Beijing CEI Database </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing (CEIS) -- Following is a list showing the 
@@ -5622,19 +5623,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Machine Industry `Problems' With Joint Ventures </TI></H3>
-<F P=102>  94CE0281B Beijing JIDIAN RIBAO in Chinese 18 Dec 93 p 3 </F>
-<F P=103> 94CE0281B </F>
-<F P=104>  Beijing JIDIAN RIBAO </F>
+<F P="102">  94CE0281B Beijing JIDIAN RIBAO in Chinese 18 Dec 93 p 3 </F>
+<F P="103"> 94CE0281B </F>
+<F P="104">  Beijing JIDIAN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wang Xiyan: "The Machinery Industry's Problems </F>
+<F P="106"> [Article by Wang Xiyan: "The Machinery Industry's Problems </F>
 in Developing Foreign-Funded Enterprises"] 
   [Excerpt] [passage omitted] Many problems have emerged in 
 the process of developing foreign-funded enterprises in the 
@@ -5829,19 +5830,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Chemical Industry Restructuring Reported </TI></H3>
-<F P=102>  94CE0281A Beijing JINGJI CANKAO BAO in Chinese 24 Dec 93 p 1 </F>
-<F P=103> 94CE0281A </F>
-<F P=104>  Beijing JINGJI CANKAO BAO </F>
+<F P="102">  94CE0281A Beijing JINGJI CANKAO BAO in Chinese 24 Dec 93 p 1 </F>
+<F P="103"> 94CE0281A </F>
+<F P="104">  Beijing JINGJI CANKAO BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Ding Genxi: "Ministry of Chemical </F>
+<F P="106"> [Article by reporter Ding Genxi: "Ministry of Chemical </F>
 Industry Changes Functions, Focuses on Macro Regulation and 
 Control, Does a Good Job of Providing Services for Both Ends"] 
   [Excerpt] [passage omitted] In accordance with the decision 
@@ -5953,16 +5954,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> SMALL-SCALE ENTERPRISES </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> SMALL-SCALE ENTERPRISES </F>
 <H3> <TI>   Zhejiang Individual, Private Enterprises `Increase' </TI></H3>
-<F P=102>  94CE0303H Beijing JINGJI RIBAO in Chinese 30 Jan 94 p 6 </F>
-<F P=103> 94CE0303H </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
+<F P="102">  94CE0303H Beijing JINGJI RIBAO in Chinese 30 Jan 94 p 6 </F>
+<F P="103"> 94CE0303H </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] By the end of 1993, the number of individual 
@@ -5995,19 +5996,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> SMALL-SCALE ENTERPRISES </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> SMALL-SCALE ENTERPRISES </F>
 <H3> <TI>   Impact of GATT on Rural Enterprises </TI></H3>
-<F P=102>  94CE0261B Beijing GONGREN RIBAO in Chinese 10 Jan 94 p 5 </F>
-<F P=103> 94CE0261B </F>
-<F P=104>  Beijing GONGREN RIBAO </F>
+<F P="102">  94CE0261B Beijing GONGREN RIBAO in Chinese 10 Jan 94 p 5 </F>
+<F P="103"> 94CE0261B </F>
+<F P="104">  Beijing GONGREN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ru Feng (1172 6912): "In the Advent of the Tide </F>
+<F P="106"> [Article by Ru Feng (1172 6912): "In the Advent of the Tide </F>
 of Reentry Into GATT, Township Enterprises Must Be Tide Riders"] 
   [Text] The recent successful conclusion of the Uruguay 
 Round of talks has added to the urgency of China's reentry into 
@@ -6115,19 +6116,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> SMALL-SCALE ENTERPRISES </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> SMALL-SCALE ENTERPRISES </F>
 <H3> <TI>   Analysis of Shanghai Rural Enterprises </TI></H3>
-<F P=102>  94CE0261A Beijing JINGJI RIBAO in Chinese 7 Jan 94 p 2 </F>
-<F P=103> 94CE0261A </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
+<F P="102">  94CE0261A Beijing JINGJI RIBAO in Chinese 7 Jan 94 p 2 </F>
+<F P="103"> 94CE0261A </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Lu Jinong (7120 4949 6593): "The </F>
+<F P="106"> [Article by reporter Lu Jinong (7120 4949 6593): "The </F>
 Reinforcements' Have Reserve Strength, Analysis of New Township 
 Enterprises in Shanghai"] 
   [Excerpt] [passage omitted] According to statistics for the 
@@ -6253,19 +6254,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Jilin Sets Grain Procurement Policy </TI></H3>
-<F P=102>  94CE0205a Changchun JILIN RIBAO in Chinese 16 Nov 93 p 1 </F>
-<F P=103> 94CE0205a </F>
-<F P=104>  Changchun JILIN RIBAO </F>
+<F P="102">  94CE0205a Changchun JILIN RIBAO in Chinese 16 Nov 93 p 1 </F>
+<F P="103"> 94CE0205a </F>
+<F P="104">  Changchun JILIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Report on November 13, by Huang Chunjia (7806 2504 0163) </F>
+<F P="106"> [Report on November 13, by Huang Chunjia (7806 2504 0163) </F>
 and Reporters Chen Taixiang (7115 3141 4382) and Zhang Lijun 
 (1728 0500 6511): "Increasing Quota Procurement Price and Set 
 Protective Price for Market Transactions--The Jilin Provincial 
@@ -6390,16 +6391,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Liaoning Rice Price </TI></H3>
-<F P=102>  94CE0257T Beijing JINGJI CANKAO BAO in Chinese 19 Jan 94 p 1 </F>
-<F P=103> 94CE0257T </F>
-<F P=104>  Beijing JINGJI CANKAO BAO </F>
+<F P="102">  94CE0257T Beijing JINGJI CANKAO BAO in Chinese 19 Jan 94 p 1 </F>
+<F P="103"> 94CE0257T </F>
+<F P="104">  Beijing JINGJI CANKAO BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] At present, the average price of rice in 14 
@@ -6423,16 +6424,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Jiangxi Aquatic Industry Output </TI></H3>
-<F P=102>  94CE0303E Nanchang JIANGXI RIBAO in Chinese 13 Jan 94 p 1 </F>
-<F P=103> 94CE0303E </F>
-<F P=104>  Nanchang JIANGXI RIBAO </F>
+<F P="102">  94CE0303E Nanchang JIANGXI RIBAO in Chinese 13 Jan 94 p 1 </F>
+<F P="103"> 94CE0303E </F>
+<F P="104">  Nanchang JIANGXI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] In 1993 aquatic product output in Jiangxi 
@@ -6460,16 +6461,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Guizhou Grain Procurement </TI></H3>
-<F P=102>  94CE0303D Guiyang GUIZHOU RIBAO in Chinese 8 Jan 94 p 1 </F>
-<F P=103> 94CE0303D </F>
-<F P=104>  Guiyang GUIZHOU RIBAO </F>
+<F P="102">  94CE0303D Guiyang GUIZHOU RIBAO in Chinese 8 Jan 94 p 1 </F>
+<F P="103"> 94CE0303D </F>
+<F P="104">  Guiyang GUIZHOU RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] As of 25 December, Guizhou Province had procured 
@@ -6494,18 +6495,18 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Guangxi Sugar Sales, Prices </TI></H3>
-<F P=102>  94CE0303C Chongqing XINAN JINGJI RIBAO in Chinese 10 Jan 94 
+<F P="102">  94CE0303C Chongqing XINAN JINGJI RIBAO in Chinese 10 Jan 94 
 p 1 </F>
 
-<F P=103> 94CE0303C </F>
-<F P=104>  Chongqing XINAN JINGJI RIBAO </F>
+<F P="103"> 94CE0303C </F>
+<F P="104">  Chongqing XINAN JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
   [Summary] As of 30 December, although Guangxi had only 
@@ -6536,19 +6537,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   State Planning Commission on Forestry `Crisis' </TI></H3>
-<F P=102>  94CE0262B Beijing JINGJI RIBAO in Chinese 9 Jan 94 p 5 </F>
-<F P=103> 94CE0262B </F>
-<F P=104>  Beijing JINGJI RIBAO </F>
+<F P="102">  94CE0262B Beijing JINGJI RIBAO in Chinese 9 Jan 94 p 5 </F>
+<F P="103"> 94CE0262B </F>
+<F P="104">  Beijing JINGJI RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Letter to editor from Nie Zhenbang (5119 2182 6721) and Yao </F>
+<F P="106"> [Letter to editor from Nie Zhenbang (5119 2182 6721) and Yao </F>
 Changtian (1202 2490 1815) of the State Planning Commission's 
 Office of Agricultural Economy] 
   [Text] Comrade Editor: Our state operated forestry areas 
@@ -6705,19 +6706,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> AGRICULTURE </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> AGRICULTURE </F>
 <H3> <TI>   Outlook for Timber Industry </TI></H3>
-<F P=102>  94CE0205B Beijing ZHONGGUO WUZI BAO in Chinese 12 Nov 93 p 3 </F>
-<F P=103> 94CE0205B </F>
-<F P=104>  Beijing ZHONGGUO WUZI BAO </F>
+<F P="102">  94CE0205B Beijing ZHONGGUO WUZI BAO in Chinese 12 Nov 93 p 3 </F>
+<F P="103"> 94CE0205B </F>
+<F P="104">  Beijing ZHONGGUO WUZI BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by the Nonmetallic Materials Section of the </F>
+<F P="106"> [Article by the Nonmetallic Materials Section of the </F>
 Domestic Trade Department: "The Temporary Relief of Timber 
 Shortage Has Ended; Prospects for Plywood Are Great"] 
   [Text] I. Timber Resources Will Become Tight, Prices 
@@ -6851,22 +6852,22 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> INTERNATIONAL </F>
+<F P="100"> INTERNATIONAL </F>
 <H3> <TI>   Prospects for Relations With Central Asia </TI></H3>
-<F P=102>  94CM0022A Beijing XIANDAI GUOJI GUANXI [CONTEMPORARY 
+<F P="102">  94CM0022A Beijing XIANDAI GUOJI GUANXI [CONTEMPORARY 
 INTERNATIONAL RELATIONS] in Chinese No 47, 20 Sep 93 pp 1-3 </F>
 
-<F P=103> 94CM0022A </F>
-<F P=104>  Beijing XIANDAI GUOJI GUANXI [CONTEMPORARY 
+<F P="103"> 94CM0022A </F>
+<F P="104">  Beijing XIANDAI GUOJI GUANXI [CONTEMPORARY 
 INTERNATIONAL RELATIONS] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Xu Dan (1776 3225): "Reforming, Opening Up </F>
+<F P="106"> [Article by Xu Dan (1776 3225): "Reforming, Opening Up </F>
 China, Central Asia" --First paragraph is editor's note.] 
   [Text] The international research meeting "China and 
 Central Asia: Development and Cooperation," sponsored by the 
@@ -7136,20 +7137,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   Paper Interviews College Students on Mao </TI></H3>
-<F P=102>  94CM0123A Beijing DAXUESHENG [UNIVERSITY STUDENTS] in 
+<F P="102">  94CM0123A Beijing DAXUESHENG [UNIVERSITY STUDENTS] in 
 Chinese No 12, 10 Dec 93 pp 20-22 </F>
 
-<F P=103> 94CM0123A </F>
-<F P=104>  Beijing DAXUESHENG [UNIVERSITY STUDENTS] </F>
+<F P="103"> 94CM0123A </F>
+<F P="104">  Beijing DAXUESHENG [UNIVERSITY STUDENTS] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporters Chen Jianxiang (7115 0494 4382) and </F>
+<F P="106"> [Article by reporters Chen Jianxiang (7115 0494 4382) and </F>
 Zhao Hong (6392 4767): "DAXUESHENG Questionnaire Survey of 1,500 
 Students: What Do the `New Collegians' Know About Mao Zedong?" 
 The first segment in italics is a source-supplied introduction.] 
@@ -7482,20 +7483,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> POLITICAL </F>
+<F P="100"> POLITICAL </F>
 <H3> <TI>   `Gist' of Deng's Southern Tour Speeches </TI></H3>
-<F P=102>  OW0902060494 Beijing BEIJING REVIEW in English No's 6-7, 
+<F P="102">  OW0902060494 Beijing BEIJING REVIEW in English No's 6-7, 
 7-20 Feb 94 pp 9-20 </F>
 
-<F P=103> OW0902060494 </F>
-<F P=104>  Beijing BEIJING REVIEW </F>
+<F P="103"> OW0902060494 </F>
+<F P="104">  Beijing BEIJING REVIEW </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [By Deng Xiaoping: "Gist of Speeches Made in Wuchang, </F>
+<F P="106"> [By Deng Xiaoping: "Gist of Speeches Made in Wuchang, </F>
 Shenzhen, Zhuhai and Shanghai -- from 18 January to 21 February 
 1992." Numerals in parenthesis are explained in notes at end of 
 text] 
@@ -8288,19 +8289,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Shanghai To Implement 7 Financial Reforms </TI></H3>
-<F P=102>  94CE0258A Shanghai WEN HUI BAO in Chinese 17 Dec 93 p 1 </F>
-<F P=103> 94CE0258A </F>
-<F P=104>  Shanghai WEN HUI BAO </F>
+<F P="102">  94CE0258A Shanghai WEN HUI BAO in Chinese 17 Dec 93 p 1 </F>
+<F P="103"> 94CE0258A </F>
+<F P="104">  Shanghai WEN HUI BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by WEN HUI BAO reporter Tai Hengji (3141 1854 </F>
+<F P="106"> [Article by WEN HUI BAO reporter Tai Hengji (3141 1854 </F>
 7535): "Shanghai To Implement Seven Financial Reforms in 1994" 
 -- First paragraph is WEN HUI BAO introduction] 
   [Text] We will introduce the market mechanism and 
@@ -8461,19 +8462,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> PROVINCIAL </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> PROVINCIAL </F>
 <H3> <TI>   Shanghai Trading Markets `Taking Shape' </TI></H3>
-<F P=102>  94CE0258B Shanghai WEN HUI BAO in Chinese 9 Dec 93 p 1 </F>
-<F P=103> 94CE0258B </F>
-<F P=104>  Shanghai WEN HUI BAO </F>
+<F P="102">  94CE0258B Shanghai WEN HUI BAO in Chinese 9 Dec 93 p 1 </F>
+<F P="103"> 94CE0258B </F>
+<F P="104">  Shanghai WEN HUI BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by WEN HUI BAO reporter Chen Wei (7115 1919): </F>
+<F P="106"> [Article by WEN HUI BAO reporter Chen Wei (7115 1919): </F>
 "Shanghai's Eight Trade Markets Advance Toward Maturity"] 
   [Text} A large setup of markets in Shanghai is gradually 
 taking shape, covering the whole country and linking up the 
@@ -8573,19 +8574,19 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Budgetary Fund Loss Called `Serious' </TI></H3>
-<F P=102>  94CE0256B Beijing JINRONG SHIBAO in Chinese 16 Dec 93 p 3 </F>
-<F P=103> 94CE0256B </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102">  94CE0256B Beijing JINRONG SHIBAO in Chinese 16 Dec 93 p 3 </F>
+<F P="103"> 94CE0256B </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Li Guo'an (2621 0948 1344), Shaoyang (Hunan) </F>
+<F P="106"> [Article by Li Guo'an (2621 0948 1344), Shaoyang (Hunan) </F>
 Branch, the People's Bank of China: "Serious Losses of Budgetary 
 Funds"] 
   [Text] A new and quite worrisome problem has arisen in 
@@ -8760,23 +8761,23 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Economist Liu Guoguang on Financial Reform </TI></H3>
-<F P=102>  94CE0256A Beijing CAIMAO JINGJI [FINANCE AND TRADE 
+<F P="102">  94CE0256A Beijing CAIMAO JINGJI [FINANCE AND TRADE 
 ECONOMICS] in Chinese No 11, 11 Nov 93 pp 3-10 </F>
 
-<F P=103> 94CE0256A </F>
-<F P=104>  Beijing CAIMAO JINGJI [FINANCE AND TRADE 
+<F P="103"> 94CE0256A </F>
+<F P="104">  Beijing CAIMAO JINGJI [FINANCE AND TRADE 
 ECONOMICS] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Liu Guoguang (0491 0948 0342): "Several Problems </F>
+<F P="106"> [Article by Liu Guoguang (0491 0948 0342): "Several Problems </F>
 in Finance and Banking Reform"] 
   [Text] Concerned about conspicuous problems and 
 incongruities in the operation of the country's economy -- 
@@ -9634,20 +9635,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Commentary Series on Improving Financial Reform </TI></H3>
 <H4>   Establish Strong Regulatory System </H4>
-<F P=102> 94CE0236A Beijing JINRONG SHIBAO in Chinese 16 Dec 93 p 1 </F>
-<F P=103> 94CE0236A </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102"> 94CE0236A Beijing JINRONG SHIBAO in Chinese 16 Dec 93 p 1 </F>
+<F P="103"> 94CE0236A </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by JINRONG SHIBAO reporter Zhang Xinfang: </F>
+<F P="106"> [Article by JINRONG SHIBAO reporter Zhang Xinfang: </F>
 "Establish Strong Central Bank Regulatory System" -- Commentary 
 Series No. 1 on Deepening Financial Reform] 
   [Text] It was pointed out at the meeting of branch managers 
@@ -9893,20 +9894,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Commentary Series on Improving Financial Reform </TI></H3>
 <H4>   Separate Policy-Oriented, Commercial Banks </H4>
-<F P=102> 94CE0236B Beijing JINRONG SHIBAO in Chinese 17 Dec 93 p 1 </F>
-<F P=103> 94CE0236B </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102"> 94CE0236B Beijing JINRONG SHIBAO in Chinese 17 Dec 93 p 1 </F>
+<F P="103"> 94CE0236B </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by JINRONG SHIBAO reporter Han Suqin: "Separation </F>
+<F P="106"> [Article by JINRONG SHIBAO reporter Han Suqin: "Separation </F>
 of Policy-Lending Banking from Commercial Banking Necessary in 
 Carrying Out Structural Reform" -- Commentary Series No 2 on 
 Deepening Financial Reform] 
@@ -10082,20 +10083,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Commentary Series on Improving Financial Reform </TI></H3>
 <H4>   Specialized Banks as Commercial Banks </H4>
-<F P=102> 94CE0236C Beijing JINRONG SHIBAO in Chinese 18 Dec 93 p 1 </F>
-<F P=103> 94CE0236C </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102"> 94CE0236C Beijing JINRONG SHIBAO in Chinese 18 Dec 93 p 1 </F>
+<F P="103"> 94CE0236C </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by JINRONG SHIBAO reporter Zhang Xinfang: "Manage </F>
+<F P="106"> [Article by JINRONG SHIBAO reporter Zhang Xinfang: "Manage </F>
 Specialized Banks as Genuine Commercial Banks" -- Commentary 
 Series No 3 on Deepening Financial Reform] 
   [Text] With the vigorous development of the socialist 
@@ -10245,20 +10246,20 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> FINANCE, BANKING </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> FINANCE, BANKING </F>
 <H3> <TI>   Commentary Series on Improving Financial Reform </TI></H3>
 <H4>   Establish Good Financial Market System </H4>
-<F P=102> 94CE0236D Beijing JINRONG SHIBAO in Chinese 20 Dec 94 p 1 </F>
-<F P=103> 94CE0236D </F>
-<F P=104>  Beijing JINRONG SHIBAO </F>
+<F P="102"> 94CE0236D Beijing JINRONG SHIBAO in Chinese 20 Dec 94 p 1 </F>
+<F P="103"> 94CE0236D </F>
+<F P="104">  Beijing JINRONG SHIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yang Shuang: "Establish Good Financial Market </F>
+<F P="106"> [Article by Yang Shuang: "Establish Good Financial Market </F>
 System" -- Commentary Series No 4 on Deepening Financial Reform] 
   [Text] The financial market is an important component part 
 of modern market economy. There must be a well-developed 
@@ -10406,16 +10407,16 @@ Document Title:China
 
 </HEADER>
 
-<F P=100> ECONOMIC </F>
-<F P=101> INDUSTRY </F>
+<F P="100"> ECONOMIC </F>
+<F P="101"> INDUSTRY </F>
 <H3> <TI>   Light Industrial Output Value by Area Dec 1993 </TI></H3>
-<F P=102>  HK2401113694 Beijing CEI Database in English 24 Jan 94 </F>
-<F P=103> HK2401113694 </F>
-<F P=104>  Beijing CEI Database </F>
+<F P="102">  HK2401113694 Beijing CEI Database in English 24 Jan 94 </F>
+<F P="103"> HK2401113694 </F>
+<F P="104">  Beijing CEI Database </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
   [Text] Beijing (CEIS) -- Following is a list of the light 
@@ -10508,25 +10509,25 @@ released by the State Statistical Bureau:
 <HEADER>
 <AU>   JPRS-CEN-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>    4 February 1994 </DATE1>
-<F P=100> Science and Technology </F>
+<F P="100"> Science and Technology </F>
 <H3> <TI>   Electric Power: Another Bottleneck in China's Economy </TI></H3>
 <H4>   Energy Bottleneck in Economy </H4>
-<F P=102> 946B0022A Beijing RENMIN RIBAO in Chinese 11 Oct 93 pp 1, 2 </F>
-<F P=103> 946B0022A </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102"> 946B0022A Beijing RENMIN RIBAO in Chinese 11 Oct 93 pp 1, 2 </F>
+<F P="103"> 946B0022A </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Jiang Shijie [3068 0013 2638], RENMIN RIBAO </F>
+<F P="106"> [Article by Jiang Shijie [3068 0013 2638], RENMIN RIBAO </F>
 reporter: "Electric Power: Another Bottleneck in China's 
 Economy"] 
   [Text] [Editorial Note] Today, we begin a series dealing 
@@ -11029,25 +11030,25 @@ to an early breakout from the electric power bottleneck.
 <HEADER>
 <AU>   JPRS-CEN-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>    4 February 1994 </DATE1>
-<F P=100> Science and Technology </F>
+<F P="100"> Science and Technology </F>
 <H3> <TI>   Electric Power: Another Bottleneck in China's Economy </TI></H3>
 <H4>   The Light-Bringers: Pressing Forward Under a Heavy Burden </H4>
-<F P=102> 946B0022B Beijing RENMIN RIBAO in Chinese 12 Oct 93 pp 1, 2 </F>
-<F P=103> 946B0022B </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102"> 946B0022B Beijing RENMIN RIBAO in Chinese 12 Oct 93 pp 1, 2 </F>
+<F P="103"> 946B0022B </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by RENMIN RIBAO reporter Zhu Jingruo [2612 4552 </F>
+<F P="106"> [Article by RENMIN RIBAO reporter Zhu Jingruo [2612 4552 </F>
 5387]: "The Light-Bringers: Pressing Forward Under a Heavy 
 Burden"] 
   [Text] No developed country has power shortages, and no 
@@ -11355,25 +11356,25 @@ sustained, stable, rapid development of China's economy.
 <HEADER>
 <AU>   JPRS-CEN-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>    4 February 1994 </DATE1>
-<F P=100> Science and Technology </F>
+<F P="100"> Science and Technology </F>
 <H3> <TI>   Electric Power: Another Bottleneck in China's Economy </TI></H3>
 <H4>   Electricity Prices: How Are We To Understand Them? </H4>
-<F P=102> 946B0022C Beijing RENMIN RIBAO in Chinese 20 Oct 93 pp 1, 2 </F>
-<F P=103> 946B0022C </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102"> 946B0022C Beijing RENMIN RIBAO in Chinese 20 Oct 93 pp 1, 2 </F>
+<F P="103"> 946B0022C </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by RENMIN RIBAO reporters Tang Liliang [3282 2621 </F>
+<F P="106"> [Article by RENMIN RIBAO reporters Tang Liliang [3282 2621 </F>
 2733] and Wang Haiyong [3769 3189 0737]: "Electricity Prices: 
 How Are We To Understand Them?"] 
   [Text] Electricity prices are a subject that urgently needs 
@@ -11704,25 +11705,25 @@ industry take off."
 <HEADER>
 <AU>   JPRS-CEN-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>    4 February 1994 </DATE1>
-<F P=100> Science and Technology </F>
+<F P="100"> Science and Technology </F>
 <H3> <TI>   Electric Power: Another Bottleneck in China's Economy </TI></H3>
 <H4>   The Huaneng Group: An Attractive New Mechanism </H4>
-<F P=102> 946B0022D Beijing RENMIN RIBAO in Chinese 29 Oct 93 pp 1, 2 </F>
-<F P=103> 946B0022D </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102"> 946B0022D Beijing RENMIN RIBAO in Chinese 29 Oct 93 pp 1, 2 </F>
+<F P="103"> 946B0022D </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by RENMIN RIBAO reporter Yang Yong [2799 8673]: </F>
+<F P="106"> [Article by RENMIN RIBAO reporter Yang Yong [2799 8673]: </F>
 "The Huaneng Group: An Attractive New Mechanism"] 
   [Text] Eight years ago, when the Huaneng organization was 
 first created, very few had high hopes for it; but its 
@@ -11985,25 +11986,25 @@ of its bottleneck and move ahead.
 <HEADER>
 <AU>   JPRS-CEN-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>    4 February 1994 </DATE1>
-<F P=100> Science and Technology </F>
+<F P="100"> Science and Technology </F>
 <H3> <TI>   Electric Power: Another Bottleneck in China's Economy </TI></H3>
 <H4>   Electricity From the Northwest </H4>
-<F P=102> 946B0022E Beijing RENMIN RIBAO in Chinese 1 Nov 93 pp 1, 4 </F>
-<F P=103> 946B0022E </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102"> 946B0022E Beijing RENMIN RIBAO in Chinese 1 Nov 93 pp 1, 4 </F>
+<F P="103"> 946B0022E </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by RENMIN RIBAO reporter Ao Teng [0277 7506] and </F>
+<F P="106"> [Article by RENMIN RIBAO reporter Ao Teng [0277 7506] and </F>
 New China News Agency reporter Qu Zhenye [4234 2182 2814]: 
 "Electricity from the Northwest: A Report on Power-Industry 
 Construction in Nei Monggol"] 
@@ -12217,25 +12218,25 @@ eastern and western China will shrink rapidly.
 <HEADER>
 <AU>   JPRS-CEN-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>    4 February 1994 </DATE1>
-<F P=100> Science and Technology </F>
+<F P="100"> Science and Technology </F>
 <H3> <TI>   Electric Power: Another Bottleneck in China's Economy </TI></H3>
 <H4>   Nuclear Power: Partial Solution to Energy Bottleneck </H4>
-<F P=102> 946B0037C Beijing RENMIN RIBAO in Chinese 9 Dec 93 p 1,2 </F>
-<F P=103> 946B0037C </F>
-<F P=104>  Beijing RENMIN RIBAO </F>
+<F P="102"> 946B0037C Beijing RENMIN RIBAO in Chinese 9 Dec 93 p 1,2 </F>
+<F P="103"> 946B0037C </F>
+<F P="104">  Beijing RENMIN RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporters Chen Zujia [7115 4371 3946] and Zhu </F>
+<F P="106"> [Article by reporters Chen Zujia [7115 4371 3946] and Zhu </F>
 Jingruo [2612 4552 5387]] 
   [Text] On 15 December 1991, the Qinshan nuclear power 
 plant sent a surge of power into the East China grid; and the 
@@ -12406,27 +12407,27 @@ heat of nuclear power to break the bottleneck.
 <HEADER>
 <AU>   JPRS-CEN-94-001 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China: Energy </ABS>
 <DATE1>    4 February 1994 </DATE1>
-<F P=100> Science and Technology </F>
+<F P="100"> Science and Technology </F>
 <H3> <TI>   Electric Power: Another Bottleneck in China's Economy </TI></H3>
 <H4>   1993 Power Output: 800 Billion Killowatt-Hours </H4>
-<F P=102> 946B0037A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102"> 946B0037A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 28 Dec 93 p 1 </F>
 
-<F P=103> 946B0037A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 946B0037A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
+<F P="106"> [Article by reporter Qin Jingwu [4440 0079 0582]] </F>
   [Text] The Chinese electric power industry completed its 
 annual mission for the installation of new power capacity nine 
 days ahead of schedule, and kept the annual capacity of newly 
@@ -12470,26 +12471,26 @@ shares.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Science &amp; Technology Policy </F>
+<F P="100"> Science  amp; Technology Policy </F>
 <H3> <TI>   Caohejing New-Technologies Development Zone Update </TI></H3>
-<F P=102>  94P60101A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  94P60101A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 15 Jan 94 p 1 </F>
 
-<F P=103> 94P60101A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 94P60101A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Guo Changxi [6753 2490 3588], Zheng Xian [6774 </F>
+<F P="106"> [Article by Guo Changxi [6753 2490 3588], Zheng Xian [6774 </F>
 2009], and Zhou Zhenbang [0719 2182 6721]: ``Caohejing 
 Development Zone Taking Shape''] 
   [Summary] Shanghai, 14 Jan (RENMIN RIBAO wire report) -- 
@@ -12514,11 +12515,11 @@ design technology, technology for producing 4-5-inch silicon
 wafers, and technology for fabricating l.2-3-micron ICs. A 
 Shanghai fiber optic communications industrial base has taken 
 shape around the Shanghai Fiber Optic Communications Engineering 
-Co., Shanghai AT&amp;T Communications Equipment Ltd., and the 
-Sino-U.S. joint venture AT&amp;T Fiber Optic Communications Ltd. 
+Co., Shanghai AT amp;T Communications Equipment Ltd., and the 
+Sino-U.S. joint venture AT amp;T Fiber Optic Communications Ltd. 
 Some 30 firms, including Shanghai Foxboro Co. and Shanghai 
 Qiming [0796 2494] Software Ltd., have formed a computer 
-software industrial group engaged in R&amp;D of products for 
+software industrial group engaged in R amp;D of products for 
 industrial and office automation, information and enterprise 
 management, finance, insurance, and commerce. The wholly 
 U.S.-owned 3M China Ltd., the Sino-U.S. joint venture Shanghai 
@@ -12526,7 +12527,7 @@ Ruikan [3843 0170] (Electric) Cable Accessories Ltd., and the
 British firm ICI Co. have formed an 
 international-state-of-the-art production base for industrial 
 new materials. Finally, Caohejing has the nation's first 
-bioengineering R&amp;D/intermediate-testing base--the Chinese 
+bioengineering R amp;D/intermediate-testing base--the Chinese 
 Academy of Sciences' (CAS) Shanghai Bioengineering Research 
 Center and other Sino-foreign joint ventures have formed an 
 embryonic bioengineering industrial development zone. 
@@ -12549,26 +12550,26 @@ and annual per capita profit was 70,000 yuan.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Science &amp; Technology Policy </F>
+<F P="100"> Science  amp; Technology Policy </F>
 <H3> <TI>   Appetite Grows for Electronics </TI></H3>
-<F P=102>  40100036A Beijing CHINA DAILY (BUSINESS WEEKLY) in English 
+<F P="102">  40100036A Beijing CHINA DAILY (BUSINESS WEEKLY) in English 
 14 Feb 94 p 1 </F>
 
-<F P=103> 40100036A </F>
-<F P=104>  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
+<F P="103"> 40100036A </F>
+<F P="104">  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Pei Jianfeng: ``Appetite Grows for </F>
+<F P="106"> [Article by Pei Jianfeng: ``Appetite Grows for </F>
 Electronics''] 
   [Text] China's exports--and imports--of electronics rose 
 sharply last year. 
@@ -12646,28 +12647,28 @@ March.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Science &amp; Technology Policy </F>
+<F P="100"> Science  amp; Technology Policy </F>
 <H3> <TI>   Ministry of Electronics Industry Holds Expert Forum for Ninth FYP, 2010 Planning </TI></H3>
-<F P=102>  94FE0261A Beijing ZHONGGUO DIANZI BAO [CHINA ELECTRONICS 
+<F P="102">  94FE0261A Beijing ZHONGGUO DIANZI BAO [CHINA ELECTRONICS 
 NEWS] in Chinese 17 Nov 93 pp 1-2 </F>
 
-<F P=103> 94FE0261A </F>
-<F P=104>  Beijing ZHONGGUO DIANZI BAO [CHINA ELECTRONICS 
+<F P="103"> 94FE0261A </F>
+<F P="104">  Beijing ZHONGGUO DIANZI BAO [CHINA ELECTRONICS 
 NEWS] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Liu Weili [0491 5898 7787]: ``Ministry of </F>
+<F P="106"> [Article by Liu Weili [0491 5898 7787]: ``Ministry of </F>
 Electronics Industry Organizes Expert Forum for Electronics 
 Industry Development Planning''] 
   [Text] From 19 to 20 October 1993, the General Planning 
@@ -12895,26 +12896,26 @@ the key technologies for each system.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Aerospace </F>
+<F P="100"> Aerospace </F>
 <H3> <TI>   Method for Realizing Spaceborne SAR Digital Imaging </TI></H3>
-<F P=102>  94FE0160A Beijing DIANZI XUEBAO [ACTA ELECTRONICA SINICA] in 
+<F P="102">  94FE0160A Beijing DIANZI XUEBAO [ACTA ELECTRONICA SINICA] in 
 Chinese Vol 21 No 9, Sep 93 pp 55-58 </F>
 
-<F P=103> 94FE0160A </F>
-<F P=104>  Beijing DIANZI XUEBAO [ACTA ELECTRONICA SINICA] </F>
+<F P="103"> 94FE0160A </F>
+<F P="104">  Beijing DIANZI XUEBAO [ACTA ELECTRONICA SINICA] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Li Chunsheng [2621 2504 0581], Li Jingwen [2621 </F>
+<F P="106"> [Article by Li Chunsheng [2621 2504 0581], Li Jingwen [2621 </F>
 2529 2429], and Zhou Yinqing [0719 5593 3237] of the Dept. of 
 Electronic Engineering, Beijing University of Aeronautics and 
 Astronautics, Beijing 100083: ``Method for Realizing Spaceborne 
@@ -12997,7 +12998,7 @@ compression. Digital pulse compression in the range direction
 uses FFT for matched filter implementation. The processed signal 
 can be expressed as: 
 
-  where c[.sup]0[/] = 2ãb_D_/c. 
+  where c[.sup]0[/] = 2ï¿½b_D_/c. 
   It is known from the principle of pulse compression that the 
 slant range resolution after pulse compression is: 
   _r_[.sup]r[/] = c/2B[.sub]r[/] 
@@ -13095,7 +13096,7 @@ difference of the symmetric multi-look sub-images.[.sup]3[/]
 Experimental results show that the error in the Doppler center 
 frequency is proportional to the normalized energy difference 
 _D_E: 
-  _D_f[.sup]D[/] ÷ f[.sub]R[/]T_D_E (13) 
+  _D_f[.sup]D[/] ï¿½ f[.sub]R[/]T_D_E (13) 
   where T is the time required for the satellite to travel the 
 distance of one aperture. 
   The auto-focusing used for estimating the rate of change of 
@@ -13105,7 +13106,7 @@ sub-image and the Nth-look sub-image _D_X can be obtained from
 the relationship between the two sub-images. Experimental 
 results show that the offset is proportional to the errors in 
 the rate of change of Doppler frequency: 
-  _D_f[.sup]R[/] ÷ f[.sub]R[/] _D_X/vT (14) 
+  _D_f[.sup]R[/] ï¿½ f[.sub]R[/] _D_X/vT (14) 
   Accurate estimates of the Doppler center frequency and the 
 rate of change of Doppler frequency can be obtained by an 
 iterative procedure. For example, for an image around the city 
@@ -13116,7 +13117,7 @@ change of Doppler frequency is less than 0.3 Hz/sec.
   Raw radar data of an area around the city of London have 
 been 
 collected by the U.S. SEASAT-A satellite; the center of the area 
-is located at 51.43ë N. latitude and 0.33ë E. longitude. 
+is located at 51.43ï¿½ N. latitude and 0.33ï¿½ E. longitude. 
 The radar parameters and signal processing parameters are as 
 follows: 
 
@@ -13125,7 +13126,7 @@ follows:
   ------------------------------------------------------------------------------- 
 |Sampling frequency                    |45.53 MHz                             | 
 ------------------------------------------------------------------------------- 
-|Sampling width                        |300.5 æs                          | 
+|Sampling width                        |300.5 ï¿½s                          | 
 ------------------------------------------------------------------------------- 
 |Quantization accuracy                 |5 bits                                | 
 ------------------------------------------------------------------------------- 
@@ -13135,13 +13136,13 @@ follows:
 ------------------------------------------------------------------------------- 
 |Pulse repetition frequency            |1647 Hz                               | 
 ------------------------------------------------------------------------------- 
-|Pulse width                           |33.9 æs                           | 
+|Pulse width                           |33.9 ï¿½s                           | 
 ------------------------------------------------------------------------------- 
 |Signal bandwidth                      |19.0 MHz                              | 
 ------------------------------------------------------------------------------- 
 |Average satellite height              |800 km                                | 
 ------------------------------------------------------------------------------- 
-|Antenna viewing angle                 |20ë                               | 
+|Antenna viewing angle                 |20ï¿½                               | 
 ------------------------------------------------------------------------------- 
 
 
@@ -13191,28 +13192,28 @@ GE-23(1).
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Aerospace </F>
+<F P="100"> Aerospace </F>
 <H3> <TI>   High Reynolds Number Wind Tunnel Completed </TI></H3>
-<F P=102>  94FE0200A Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
+<F P="102">  94FE0200A Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
 in Chinese 12 Nov 93 p 1 </F>
 
-<F P=103> 94FE0200A </F>
-<F P=104>  Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
+<F P="103"> 94FE0200A </F>
+<F P="104">  Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
 in Chinese 12 Nov 93 p 1 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Bu Xiangqun [0592 0686 5028]] </F>
+<F P="106"> [Article by Bu Xiangqun [0592 0686 5028]] </F>
   [Text] Beijing (CSN) -- Construction of China's first high 
 Reynolds number transonic two-dimensional wind tunnel at the 
 Institute of Mechanics, Chinese Academy of Sciences (CAS) has 
@@ -13264,28 +13265,28 @@ of high Reynolds number transonic wind tunnels in China.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Aerospace </F>
+<F P="100"> Aerospace </F>
 <H3> <TI>   Antistatic Film's Performance, Its Application to Satellites </TI></H3>
-<F P=102>  40100031A Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
+<F P="102">  40100031A Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
 SPACE SCIENCE] in Chinese Vol 13 No 4, Oct 93 pp 286-291 </F>
 
-<F P=103> 40100031A </F>
-<F P=104>  Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
+<F P="103"> 40100031A </F>
+<F P="104">  Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
 SPACE SCIENCE] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [English abstract of article by Lu Yu-sun, Li Hua, and Cai </F>
+<F P="106"> [English abstract of article by Lu Yu-sun, Li Hua, and Cai </F>
 Cun of the Lanzhou Institute of Physics, Chinese Academy of 
 Space Technology, 730000; MS received 24 Nov 92] 
   [Text] Measured results of the electric and optical 
@@ -13312,35 +13313,35 @@ potential on the uncoated SSM surface can have a value up to
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Aerospace </F>
+<F P="100"> Aerospace </F>
 <H3> <TI>   Effects of Space Particle Radiation on Integrated Chips in Satellite </TI></H3>
-<F P=102>  40100031B Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
+<F P="102">  40100031B Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
 SPACE SCIENCE] in Chinese Vol 13 No 4, Oct 93 pp 292-298 </F>
 
-<F P=103> 40100031B </F>
-<F P=104>  Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
+<F P="103"> 40100031B </F>
+<F P="104">  Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
 SPACE SCIENCE] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [English abstract of article by Pu Jian and Ye Zong-hai of </F>
+<F P="106"> [English abstract of article by Pu Jian and Ye Zong-hai of </F>
 the Center for Space Science and Applied Research, CAS, Beijing 
 100080; MS received 18 Feb 93] 
   [Text] The energy deposits in critical volumes of 
 integrated chips produced by some radiated particles in Feng 
 Yun-1 (B) satellite environment are analyzed. This is called 
 linear energy translation (LET). We have obtained the LET of 
-Galactic Cosmic-Ray components 1 ó Z ó 28, Galactic 
+Galactic Cosmic-Ray components 1 ï¿½ Z ï¿½ 28, Galactic 
 Cosmic-Ray 
 anomaly components (C, N, O, Ne, Ar, Fe), and inner 
 radiation-belt protons. And single-event upset (SEU) ratios 
@@ -13358,13 +13359,13 @@ produced by these particles are calculated, respectively.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Advanced Materials </F>
+<F P="100"> Advanced Materials </F>
 <H3> <TI>   More Reports on Nanomaterials </TI></H3>
 <H4>   Preparation, Optical Properties of CuO 
 Nanocrystals </H4>
@@ -13372,17 +13373,17 @@ Nanocrystals </H4>
 
 <TEXT>
 [.sup]2[/] 
-<F P=102> 94FE0161A Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
+<F P="102"> 94FE0161A Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
 in Chinese Vol 38 No 18, 16-30 Sep 93 pp 1649-1651 </F>
 
-<F P=103> 94FE0161A </F>
-<F P=104>  Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
+<F P="103"> 94FE0161A </F>
+<F P="104">  Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
 in Chinese Vol 38 No 18, 16-30 Sep 93 pp 1649-1651 </F>
 
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zou Bingsuo [6760 3521 6956], Tang Gouqing [3282 </F>
+<F P="106"> [Article by Zou Bingsuo [6760 3521 6956], Tang Gouqing [3282 </F>
 0948 1987], Zhang Guilan [1728 2710 5695], and Chen Wenju [7115 
 2429 7467] of the Institute of Modern Optics, Nankai University, 
 Tianjin, 300071, and Li Tiejin [2621 6993 3160], Zhang Yan [1728 
@@ -13410,10 +13411,10 @@ nanocrystal systems of CdS, CuCl, CdSe, PbS.[.sup]3,4[/] The
 ratio of the nanocrystal radius R to its Bohr radius 
 a[.sup]B[/] can be used as the general guideline to determine 
 the influence of the quantum confinement effect on the 
-electronic state:[.sup]5[/] When R/a[.sup]B[/] &lt;&lt; 1, the 
+electronic state:[.sup]5[/] When R/a[.sup]B[/]  lt; lt; 1, the 
 nanoparticles are in the strong quantum confinement zone, and 
 their energy levels of electrons and holes are clearly 
-separated; however, when R/a[.sup]B[/] &gt; &gt;  1, the 
+separated; however, when R/a[.sup]B[/]  gt;  gt;  1, the 
 nanocrystal is in the exciton confinement zone where the 
 excitons act as quasi-particles whose translation kinetic 
 energy's degree of freedom is confined within the 
@@ -13453,7 +13454,7 @@ Cu[.sup]2[/]O nanocrystal (9.0 nm) organic sol starts at 650
 nm. The absorption rate gradually increases toward the 
 high-frequency region, but there is no clear indication of 
 
-<FIG ID=JPRS-CST-002C-09D></FIG>
+<FIG ID="JPRS-CST-002C-09D"></FIG>
 
             structural absorption characteristics. This implies that the 
 phenomenon is influenced by two factors: one is the temperature 
@@ -13507,10 +13508,10 @@ regions overlap. The relatively low vibrator absorption
 intensities of the yellow and green exciton series are caused by 
 the dipole forbiddenness of the jump.[.sup]9[/] 
 
-<FIG ID=JPRS-CST-002C-10A>           Photoluminescence Spectrum of Cu2O Nanocrystal (9.9 nm) Sol </FIG>
+<FIG ID="JPRS-CST-002C-10A">           Photoluminescence Spectrum of Cu2O Nanocrystal (9.9 nm) Sol </FIG>
 
 
-<FIG ID=JPRS-CST-002C-10B>           Figure 2. Excitation Spectrum of Cu[.sup]2[/]Nanocrystal (9.0 nm) Sol </FIG>
+<FIG ID="JPRS-CST-002C-10B">           Figure 2. Excitation Spectrum of Cu[.sup]2[/]Nanocrystal (9.0 nm) Sol </FIG>
 
 
   Another interesting phenomenon in the excitation spectra is 
@@ -13520,20 +13521,20 @@ by the quantization of the exciton energy which in turn is due
 to the spatial quantum confinement effect.[.sup]10[/] 
 Hanamura[.sup]2[/] has suggested a simplified mode. He 
 assumes the exciton to be a quasi-particle situated in a 
-semiconducting nanosphere; when R/a[.sup]B[/] &gt; &gt;  1, the 
+semiconducting nanosphere; when R/a[.sup]B[/]  gt;  gt;  1, the 
 exciton energy (l = m = 0) that allows jumps is expressed as 
   E[.sup]n[/] = E[.sub]0[/] - 
 E[.sup]b[/][.sup]ex[/] + 
 n[.sup]2[/]E[.sup]c[/], (1) 
   where E[.sup]c[/] is the quantum confinement energy 
-(h[.sup]2[/]ã[.sup]2[/]/2 M R[.sup]2[/]) and 
+(h[.sup]2[/]ï¿½[.sup]2[/]/2 M R[.sup]2[/]) and 
 E[.sup]b[/][.sup]ex[/] is the exciton bonding energy which 
 varies with exciton's principal quantum number. The quantization 
 of excitons follows the equation E[.sup]b[/][.sup]ex[/] = 
 E[.sup]x[/]/n[.sup]2[/], where E[.sub]x[/] is the 
 effective exciton Rydberg energy 
-(æe[.sup]4[/]/2h[.sup]2[/]_e_[.sup]2[/][.sup]0[/]), 
-M = m[.sup]e[/] + m[.sub]h[/], æ = 
+(ï¿½e[.sup]4[/]/2h[.sup]2[/]_e_[.sup]2[/][.sup]0[/]), 
+M = m[.sup]e[/] + m[.sub]h[/], ï¿½ = 
 m[.sup]e[/]m[.sub]h[/]/m[.sub]e[/] + m[.sub]h[/], 
 and hence the equation 
   E[.sup]n[/] = E[.sub]0[/] - 
@@ -13568,7 +13569,7 @@ validity of Equation (2).
   The aforementioned results demonstrate that the conclusion 
 that the exciton energy increase in the exciton confinement zone 
 is limited is valid only for the energy jump when n = 1. When n 
-ò 2, the blue shift of the jump is relatively significant. In 
+ï¿½ 2, the blue shift of the jump is relatively significant. In 
 this case, exciton jumps of different principal quantum numbers 
 split away from one another, while the nanocrystal optical 
 nonlinear response produces mesoscopic 
@@ -13611,30 +13612,30 @@ SINICA],
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Advanced Materials </F>
+<F P="100"> Advanced Materials </F>
 <H3> <TI>   More Reports on Nanomaterials </TI></H3>
 <H4>   Preparation of _b_-SiC Ultrafine Powder From 
 Polysilane by CVD </H4>
-<F P=102> 93FE0226A Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
+<F P="102"> 93FE0226A Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
 CERAMICS SOCIETY] in Chinese Vol 21 No 5, Oct 93 pp 466-470 </F>
 
-<F P=103> 93FE0226A </F>
-<F P=104>  Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
+<F P="103"> 93FE0226A </F>
+<F P="104">  Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
 CERAMICS SOCIETY] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhang Changrui [1728 7022 3843] (correspondent), </F>
+<F P="106"> [Article by Zhang Changrui [1728 7022 3843] (correspondent), </F>
 Chen Zhaohui [7115 2600 6540], Yan Dong [0917 0392], Song 
 Yongcai [1345 3057 2088], and Chen Ge [7155 7245] of the 
 Department of Materials and Applied Chemistry, National 
@@ -13648,9 +13649,9 @@ deposition] method using low-molecular polysilane as precursor
 and argon as carrying gas. The relationships between the powder 
 properties and the preparation factors such as reaction 
 temperature, carrying-gas flow rate, and reactant densities are 
-studied. The _b_-SiC ultrafine powder with uniform size (&lt; 
+studied. The _b_-SiC ultrafine powder with uniform size ( lt; 
 0.1 
-æm), high purity (30 weight percent of carbon content), and 
+ï¿½m), high purity (30 weight percent of carbon content), and 
 homogeneous crystalline structure is obtained through the 
 decarbonization, deoxidization, and crystallization processes. 
   Key words: ultrafine silicon-carbide powder, CVD, 
@@ -13696,11 +13697,11 @@ silicon oligomers with different boiling points. These oligomers
 have chain or ring structures with 
 
 
-<FIG ID=JPRS-CST-002C-12A>           Equation </FIG>
+<FIG ID="JPRS-CST-002C-12A">           Equation </FIG>
 
 
   as the backbones, and an average molecular weight of 250. 
-They vaporize completely at 300ëC. 
+They vaporize completely at 300ï¿½C. 
   2.2 Carrying Gas: The carrying gas is high-purity 
 argon with 12 x 10[.sup]-6[/] of oxygen and 16.5 x 
 10[.sup]-6[/] of H[.sup]2[/]O as analyzed with a DH-3C 
@@ -13709,13 +13710,13 @@ respectively.
   2.3 Apparatus for Preparation of SiC Ultrafine 
 Powder: As shown in Figure 1. 
 
-<FIG ID=JPRS-CST-002C-12B>           Figure 1. Schematic Diagram of the Apparatus for Preparation of SiC Ultrafine Powder </FIG>
+<FIG ID="JPRS-CST-002C-12B">           Figure 1. Schematic Diagram of the Apparatus for Preparation of SiC Ultrafine Powder </FIG>
 
 
   2.4 Decarbonization, Deoxidization and 
 Crystallization of the Ultrafine Powder: The SiC 
 ultrafine-powder product from the reaction is amorphous. The 
-powder is treated at 1600ëC for crystallization as well as 
+powder is treated at 1600ï¿½C for crystallization as well as 
 decarbonization and deoxidization to remove the free carbon and 
 oxygen in the ultrafine powder. 
   2.5 Ultrafine Powder Characteristics: The powder's 
@@ -13731,13 +13732,13 @@ contents, with a USA PE2400CHN element analyzer.
 at 
 0.24 L/min; and LPS flow rate, 0.025 g/min, different powder 
 batches are made within the temperature range of 900 to 
-1300ëC, as shown in the TEM photos in Figure 2. The reaction 
+1300ï¿½C, as shown in the TEM photos in Figure 2. The reaction 
 temperature has little effect on the particle size and 
 configuration. The powder diameters are between 0.05 and 0.1 
-æm with very narrow distribution, and most particles are 
+ï¿½m with very narrow distribution, and most particles are 
 spherical. 
 
-<FIG ID=JPRS-CST-002C-13A>           Figure 2. SEM Photographs of SiC Powder Synthesized at Different Temperatures </FIG>
+<FIG ID="JPRS-CST-002C-13A">           Figure 2. SEM Photographs of SiC Powder Synthesized at Different Temperatures </FIG>
 
 
   Figure 3 shows the relationship between the powder's carbon 
@@ -13745,7 +13746,7 @@ and the hydrogen contents and the reaction temperature. The
 carbon content increases and the hydrogen content decreases with 
 the increase of the reaction temperature. The fact that the 
 hydrogen content in the SiC product is zero at the reaction 
-temperature 1300ëC indicates that the transformation of the 
+temperature 1300ï¿½C indicates that the transformation of the 
 organic LPS to the inorganic SiC is complete. In LPS, the ratio 
 of carbon to silicon is 2:1, therefore the total carbon content 
 in the ultrafine powder exceeds the theoretical value (30 weight 
@@ -13757,7 +13758,7 @@ product. At high temperature, the cracking product is mainly
 H[.sup]2[/], therefore the free-carbon content in the product 
 increases. 
 
-<FIG ID=JPRS-CST-002C-13B>           Figure 3. Effect of Reaction Temperature on the C and H Mass Content in SiC Powder </FIG>
+<FIG ID="JPRS-CST-002C-13B">           Figure 3. Effect of Reaction Temperature on the C and H Mass Content in SiC Powder </FIG>
 
   Figure 4 depicts the infrared spectra of products obtained 
 at 
@@ -13768,16 +13769,16 @@ there is a Si-O absorption peak. As the temperature increases,
 the peak becomes weaker. The existence of the Si-O bond is 
 caused by the infusion of oxygen, one of the impurities in LPS. 
 
-<FIG ID=JPRS-CST-002C-13C>           Figure 4. Infrared Spectra of LPS and Its Pyrolytic Products Obtained at Different Reaction Temperatures </FIG>
+<FIG ID="JPRS-CST-002C-13C">           Figure 4. Infrared Spectra of LPS and Its Pyrolytic Products Obtained at Different Reaction Temperatures </FIG>
 
 <H5>  3.2 Effects of Carrying-Gas Flow Rate </H5>
-  When the reaction temperature is controlled at 1100ëC 
+  When the reaction temperature is controlled at 1100ï¿½C 
 and 
 LPS flow rate at 0.025 g/min, at different argon flow rates, the 
 ultrafine powders remain spherical. When the argon flow rates 
 are 0.088 L/min, 0.24 L/min, and 0.535 L/min, the diameters of 
-the ultrafine powder are 0.1 æm, 0.075 æm, and 0.04 
-æm, 
+the ultrafine powder are 0.1 ï¿½m, 0.075 ï¿½m, and 0.04 
+ï¿½m, 
 respectively. The SiC ultrafine-powder diameter decreases with 
 an increase in the argon flow rate. The SiC ultrafine-powder 
 growth is a kinetics phenomenon. After SiC ultrafine powder is 
@@ -13785,11 +13786,11 @@ formed, its growth depends on its length of stay in the furnace.
 The higher the carrying-gas flow rate, the shorter the SiC's 
 stay in the furnace, consequently the finer the powder produced. 
 <H5>  3.3 Effects of LPS Flow Rate </H5>
-  When the furnace temperature is controlled at 1100ëC and 
+  When the furnace temperature is controlled at 1100ï¿½C and 
 argon flow rate at 0.24 L/min, SiC ultrafine powders are 
 prepared at different LPS flow rates. The results show that when 
 the LPS flow rate is at 0.025, 0.065, or 0.160 g/min, all 
-powders are spherical having a diameter 0.75 æm, which 
+powders are spherical having a diameter 0.75 ï¿½m, which 
 indicates that the LPS flow rate does not affect the size or the 
 configuration of the SiC ultrafine powder. 
 <H3>  3.4 Decarbonization, Deoxidization, and Crystallization of 
@@ -13802,19 +13803,19 @@ prepared SiC ultrafine powder is amorphous, therefore,
 crystallization is also needed. 
   To achieve the purpose of decarbonization and deoxidization 
 and in the meantime crystallization, this process utilizes 
-high-temperature (about 1500ëC) reaction in which free 
+high-temperature (about 1500ï¿½C) reaction in which free 
 carbon reduces SiO[.sup]2[/] and forms gaseous SiO and CO, 
 which eventually evaporate. At the same time the crystallization 
 is also completed. The XRD results (Figure 5) show that as the 
 crystallization temperature increases, the SiC ultrafine powder 
 gradually transforms from the amorphous state to the _b_-SiC 
 crystalline state. When the reaction temperature reaches 
-1500ëC, _b_-SiC is virtually completely crystallized, and 
+1500ï¿½C, _b_-SiC is virtually completely crystallized, and 
 no other phases are observed. 
 
 
   Figure 4 shows that after crystallization for 2 hours at 
-1500ëC, the infrared absorption peak at 450 cm[.sup]-1[/] 
+1500ï¿½C, the infrared absorption peak at 450 cm[.sup]-1[/] 
 in the SiC ultrafine-powder spectrum disappears, which indicates 
 that the powder is deoxidized. 
   The element analysis shows that the carbon content of 
@@ -13824,7 +13825,7 @@ percent) of SiC. The fact that the color of the ultrafine powder
 changes from brownish to whitish also indicates that the powder 
 is completely decarbonized. 
 
-<FIG ID=JPRS-CST-002C-14A>           XRD Patterns of SiC Powder Treated at Different Temperatures </FIG>
+<FIG ID="JPRS-CST-002C-14A">           XRD Patterns of SiC Powder Treated at Different Temperatures </FIG>
 
 <H5>  4. Conclusions </H5>
   (1) The LPS CVD technique can produce SiC ultrafine powder. 
@@ -13875,29 +13876,29 @@ From Organic Precursor and Its Sinterability,'' CERAM. INT.,
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Advanced Materials </F>
+<F P="100"> Advanced Materials </F>
 <H3> <TI>   More Reports on Nanomaterials </TI></H3>
 <H4>   STM Research on Nanoscale Si Thin Films </H4>
-<F P=102> 94FE0226B Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
+<F P="102"> 94FE0226B Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
 in Chinese Vol 38 No 21, 1-15 Nov 93 pp 1953-1955 </F>
 
-<F P=103> 94FE0226B </F>
-<F P=104>  Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
+<F P="103"> 94FE0226B </F>
+<F P="104">  Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
 in Chinese Vol 38 No 21, 1-15 Nov 93 pp 1953-1955 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wang Zhonghuai [3769 1813 2037], Dai Changchun </F>
+<F P="106"> [Article by Wang Zhonghuai [3769 1813 2037], Dai Changchun </F>
 [2071 7022 2504], Zhang Pingcheng [1728 1627 1004], and Bai 
 Chunli [4101 2504 4409] of the Institute of Chemistry of the 
 Chinese Academy of Sciences (CAS), Beijing 100080, and He 
@@ -13988,7 +13989,7 @@ we believe that the area of STM observation is focused on the
 particle. Since the particle is crystalline,[.sup]1,2[/] the 
 orderly arrangement of the atoms is observable. 
 
-<FIG ID=JPRS-CST-002C-16A>           Figure 1. Plane Image of Nanoscale Si Thin Film </FIG>
+<FIG ID="JPRS-CST-002C-16A">           Figure 1. Plane Image of Nanoscale Si Thin Film </FIG>
 
   This experiment has found that the needle bias for image 
 formation should not be too low to cause needle instability, 
@@ -14001,7 +14002,7 @@ only preliminary. Further study is in progress.
   The STM study of nanoscale Si thin film reveals that this 
 film is composed of nanoscale particles with average particle 
 
-<FIG ID=JPRS-CST-002C-16B>           Figure 2. Three-Dimensional STM Near-Atomic Image of Nanoscale Si Thin Film </FIG>
+<FIG ID="JPRS-CST-002C-16B">           Figure 2. Three-Dimensional STM Near-Atomic Image of Nanoscale Si Thin Film </FIG>
 
 size of 3 nm-5 nm. Through the STM's high-resolution imaging 
 capability, the near-atomic images on the thin-film surface are 
@@ -14058,30 +14059,30 @@ ULTRAMICROSCOPY, 1992, 42-44: 1372-1375.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Advanced Materials </F>
+<F P="100"> Advanced Materials </F>
 <H3> <TI>   More Reports on Nanomaterials </TI></H3>
 <H4>   Raman Spectroscopy of Nanoscale SnO </H4>
 
 
 <TEXT>
 [.sup]2[/] 
-<F P=102> 94FE0226C Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
+<F P="102"> 94FE0226C Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
 in Chinese Vol 38 No 21, 1-15 Nov 93 pp 2014-2015 </F>
 
-<F P=103> 94FE0226C </F>
-<F P=104>  Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
+<F P="103"> 94FE0226C </F>
+<F P="104">  Beijing KEXUE TONGBAO [CHINESE SCIENCE BULLETIN] 
 in Chinese Vol 38 No 21, 1-15 Nov 93 pp 2014-2015 </F>
 
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zuo Jian [1563 1696], Xu Cunyi [6079 1317 5030], </F>
+<F P="106"> [Article by Zuo Jian [1563 1696], Xu Cunyi [6079 1317 5030], </F>
 Liu Xianming [0491 0341 2494], and Wang Changsui [3769 2490 
 3606] of the Structural Analysis Open Laboratory, and Wang 
 Chengyun [3769 2052 0061], Hu Yuan [5170 3293], and Qian Yitai 
@@ -14095,9 +14096,9 @@ prepared with a hot-water method as follows: The metallic tin
 powder is mixed with nitric acid and the reaction turns the 
 mixture into a transparent solution. The solution is then mixed 
 with polytetrafluoroethylene and loaded in an autoclave at 
-150ëC for 24 hours. After the treated solution is cooled to 
+150ï¿½C for 24 hours. After the treated solution is cooled to 
 room temperature, white SnO[.sup]2[/] powder is obtained. The 
-powder is washed thoroughly, baked at 150ëC for 24 hours, 
+powder is washed thoroughly, baked at 150ï¿½C for 24 hours, 
 and then pressed into a plate under a pressure of 
 10[.sup]5[/] kg/cm[.sup]2[/]. The initial particle size of 
 the specimen is 3 nm. After annealing at different temperatures, 
@@ -14124,7 +14125,7 @@ polycrystalline SnO[.sup]2[/] Raman spectra. This observation
 indicates that the appearance of B[.sup]1[/] and 
 B[.sup]2[/] peaks is caused by the nanoscale effect. 
 
-<FIG ID=JPRS-CST-002C-17A>           Figure 1. Raman Spectra of Different Nanoscale SnO[.sup]2[/] Solids </FIG>
+<FIG ID="JPRS-CST-002C-17A">           Figure 1. Raman Spectra of Different Nanoscale SnO[.sup]2[/] Solids </FIG>
 
 
   All the peak intensities in Figure 1 are normalized 
@@ -14163,28 +14164,28 @@ throughout this research.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Advanced Materials </F>
+<F P="100"> Advanced Materials </F>
 <H3> <TI>   Design, Preparation of MgO/Ni Functionally Gradient Materials </TI></H3>
-<F P=102>  94FE0227A Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
+<F P="102">  94FE0227A Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
 CERAMICS SOCIETY] in Chinese Vol 21 No 5, Oct 93 pp 406-412 </F>
 
-<F P=103> 94FE0227A </F>
-<F P=104>  Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
+<F P="103"> 94FE0227A </F>
+<F P="104">  Beijing GUISUANYAN XUEBAO [JOURNAL OF THE CHINESE 
 CERAMICS SOCIETY] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhang Lianmeng [1728 5144 4145], correspondent, </F>
+<F P="106"> [Article by Zhang Lianmeng [1728 5144 4145], correspondent, </F>
 Tang Xinfeng [0781 2450 1496], Chen Fuyi [7115 4395 5030], and 
 Zhang Qingjie [1728 3237 3638] of the State Key Laboratory for 
 Synthesis and Processing of Advanced Materials, Wuhan University 
@@ -14240,13 +14241,13 @@ material for the ducts of magnetohydrodynamic
 generators.[.sup]2[/] 
   The raw materials are MgO microfine powder and nickel 
 carbonyl powder. Both materials have greater than 99.5 percent 
-purity. The particle size for MgO is 0.3 æm; for nickel 
-carbonyl powder, 5 æm. Each of the powder mixes of different 
+purity. The particle size for MgO is 0.3 ï¿½m; for nickel 
+carbonyl powder, 5 ï¿½m. Each of the powder mixes of different 
 MgO/Ni volume compositions is loaded in a separate pack and 
 isostatically compacted under 100 MPa pressure. The pressed 
 specimens are then sintered in 1.0 x 10[.sup]-2[/] Pa vacuum. 
 Considering the nickel sintering temperature, we set the 
-sintering conditions at 1300ëC for 100 minutes. The sintered 
+sintering conditions at 1300ï¿½C for 100 minutes. The sintered 
 bodies are cut and polished for experimentation. 
 <H5>  2.2 Properties of Sintered Specimens </H5>
   The specimen property parameters of six sintered 
@@ -14260,7 +14261,7 @@ are measured. Their results are listed in the following table.
 Specimen No.               A       B       C       D       E       F 
 
 Volume fraction of MgO     100     80      60      40      20      0 
-í/% 
+ï¿½/% 
 
 Relative density           71      64      62      72      83      93 
 d[.sup]r[/]/% 
@@ -14320,10 +14321,10 @@ Since Wakashima's model is based on the sparse-dispersion
 micro-geometrical structure, it cannot describe the properties 
 of materials with network structures. 
 
-<FIG ID=JPRS-CST-002C-19B>           Figure 1. Young's Modulus and Relative Density vs. the Volume Fraction of Ni </FIG>
+<FIG ID="JPRS-CST-002C-19B">           Figure 1. Young's Modulus and Relative Density vs. the Volume Fraction of Ni </FIG>
 
 
-<FIG ID=JPRS-CST-002C-19C>           Figure 2. Thermal Expansion Coefficient and Poisson's Ratio vs. the Volume Fraction of Ni </FIG>
+<FIG ID="JPRS-CST-002C-19C">           Figure 2. Thermal Expansion Coefficient and Poisson's Ratio vs. the Volume Fraction of Ni </FIG>
 
 
 <H5>  3. Thermal Stress Simulation and Structural Design </H5>
@@ -14332,7 +14333,7 @@ of materials with network structures.
 thick 
 and 30mm in diameter, which is sliced into 15 layers according 
 to the composition. The specimen is cooled to room temperature 
-from 1000ëC. The measured properties are used as model 
+from 1000ï¿½C. The measured properties are used as model 
 parameters. The properties of the intermediate gradient layers 
 are obtained through interpolations of the tested data. A power 
 function is used to describe the volume fraction variations of 
@@ -14379,7 +14380,7 @@ maximum stress location center with index P (in the graph, h is
 the distance from the center line to the pure nickel side). 
 Figure 4 also shows the corresponding FGM gradient layer to the 
 
-<FIG ID=JPRS-CST-002C-20A>           Figure 3. Maximum Thermal Stresses vs. Various Compositional Distribution Power </FIG>
+<FIG ID="JPRS-CST-002C-20A">           Figure 3. Maximum Thermal Stresses vs. Various Compositional Distribution Power </FIG>
 
 maximum stress location. We can see that the location of the 
 maximum stress changes with the P value. After the P value 
@@ -14413,10 +14414,10 @@ local tensile stress _s_[.sup]rr[/] and _s_[.sub]_th__th_[/]
 are both smaller than 40 MPa, which is far smaller than the 
 allowable measured strength. 
 
-<FIG ID=JPRS-CST-002C-21A>           Figure 4. Maximum Stress Location vs. Various Compositional Distribution Power; h is a half thickness of the sample </FIG>
+<FIG ID="JPRS-CST-002C-21A">           Figure 4. Maximum Stress Location vs. Various Compositional Distribution Power; h is a half thickness of the sample </FIG>
 
 
-<FIG ID=JPRS-CST-002C-21B>           Figure 5. Tensile Stresses in the Part of MgO-Side vs. Various Distribution Power </FIG>
+<FIG ID="JPRS-CST-002C-21B">           Figure 5. Tensile Stresses in the Part of MgO-Side vs. Various Distribution Power </FIG>
 
 
   In conclusion, even the composition distribution index P 
@@ -14452,9 +14453,9 @@ experiment, two different types of MgO powder, both mixed with
 0.5 weight percent of Fe[.sup]2[/]O[.sub]3[/] powder, are 
 used. One is fluffy microfine powder decomposed from 
 Mg(OH)[.sup]2[/]. The average particle size is about 0.3 
-æm. The other is fine powder thermally decomposed from 
+ï¿½m. The other is fine powder thermally decomposed from 
 MgSO[.sup]4[/]-7H[.sub]2[/]O. The average particle size is 
-about 3 æm. When the mixes are made of exclusively 0.3 æm 
+about 3 ï¿½m. When the mixes are made of exclusively 0.3 ï¿½m 
 fluffy powder and nickel powder, the variation of compacting 
 densities and sintering shrinkages with the MgO composition is 
 as shown in Figure 6. Because of the considerable variations 
@@ -14465,7 +14466,7 @@ isostatic pressing are very wide), and the relatively low final
 straight ceramic compact density, stress-induced cracks 
 frequently occur on the straight ceramic side of the laminated 
 compacts. To solve this problem, 15 to 35 weight percent of 
-large-particle (d = 3 æm) MgO powder is added. The addition 
+large-particle (d = 3 ï¿½m) MgO powder is added. The addition 
 of 
 large-particle MgO powder increases the MgO compact density, and 
 also reduces the shrinkage differences among the sintered 
@@ -14479,14 +14480,14 @@ properties of nickel powder and MgO become compatible, about 0.5
 weight percent of Fe[.sup]2[/]O[.sub]3[/] powder is 
 added.[.sup]5[/] After this treatment, almost all the 
 specimen relative densities reach 90 percent after sintering at 
-1320ëC for 2.5 hours. 
+1320ï¿½C for 2.5 hours. 
 
-<FIG ID=JPRS-CST-002C-22A>           Figure 6. Formation Density and Sintering Shrinkage for MgO/Ni Mixtures </FIG>
+<FIG ID="JPRS-CST-002C-22A">           Figure 6. Formation Density and Sintering Shrinkage for MgO/Ni Mixtures </FIG>
 
 
   After the aforementioned adjustments, the green compacts of 
 various compositions are used to determine the sintering 
-shrinkage rate changes from room temperature up to 1250ëC at 
+shrinkage rate changes from room temperature up to 1250ï¿½C at 
 a constant temperature increasing rate. The results are shown in 
 Figure 7. For all but the straight MgO specimen, the sintering 
 shrinking rate increases with the increase of nickel content, 
@@ -14505,7 +14506,7 @@ compaction, and eventually a uniform FGM specimen is prepared.
 
   In conclusion, quality FGM can only be made according to the 
 
-<FIG ID=JPRS-CST-002C-22B>           Figure 7. Sintering Shrinkage of MgO/Ni Mixtures With Various Mixing Ratios </FIG>
+<FIG ID="JPRS-CST-002C-22B">           Figure 7. Sintering Shrinkage of MgO/Ni Mixtures With Various Mixing Ratios </FIG>
 
 basic structural design principles when the preparation 
 conditions such as powder particle size, additives, compact 
@@ -14515,17 +14516,17 @@ controlled in coordinated fashion.
   Two FGM disc specimens of the MgO/Ni system with about 6mm 
 thickness, and diameters of 24mm and 30mm are made by vacuum 
 sintering and HP sintering, respectively. The vacuum sintering 
-parameters are as follows: 1320ëC, 2.5 hours, and 1 x 
+parameters are as follows: 1320ï¿½C, 2.5 hours, and 1 x 
 10[.sup]-2[/] Pa vacuum; and the HP sintering parameters: 
-1300ëC, 28 MPa pressing pressure, and 1 hour. Figure 8 shows 
+1300ï¿½C, 28 MPa pressing pressure, and 1 hour. Figure 8 shows 
 the prepared specimens. During the HP sintering, the pressure is 
-released at about 1000ëC, and MgO displays high-temperature 
+released at about 1000ï¿½C, and MgO displays high-temperature 
 plastic deformation,[.sup]6[/] hence, the thermal stress is 
 sufficiently relaxed in the course of HP sintering to pressure 
 releasing. Therefore, the specimen prepared by HP sintering has 
 a larger diameter and no surface defects. 
 
-<FIG ID=JPRS-CST-002C-23A>           Figure 8. MgO/Ni FGM Samples Prepared by Different Sintering Methods </FIG>
+<FIG ID="JPRS-CST-002C-23A">           Figure 8. MgO/Ni FGM Samples Prepared by Different Sintering Methods </FIG>
 
 
 <H5>  5. Conclusions </H5>
@@ -14598,24 +14599,24 @@ University), Beijing, China Building Industry Press, 1982: 715.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Computers </F>
+<F P="100"> Computers </F>
 <H3> <TI>   Microcomputer C-Ada Compiling System Certified </TI></H3>
-<F P=102>  94P60123A Beijing GUANGMING RIBAO in Chinese 11 Jan 94 p 2 </F>
-<F P=103> 94P60123A </F>
-<F P=104>  Beijing GUANGMING RIBAO </F>
+<F P="102">  94P60123A Beijing GUANGMING RIBAO in Chinese 11 Jan 94 p 2 </F>
+<F P="103"> 94P60123A </F>
+<F P="104">  Beijing GUANGMING RIBAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Meng Fansen [1322 4907 2773] and Li Dan [2621 </F>
+<F P="106"> [Article by Meng Fansen [1322 4907 2773] and Li Dan [2621 </F>
 0030]: ``Nation's Computer Compiling Technique Strides into 
 Advanced Ranks''] 
   [Summary] The high-level microcomputer C-Ada compiling 
@@ -14639,26 +14640,26 @@ the world.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Computers </F>
+<F P="100"> Computers </F>
 <H3> <TI>   Nation's Computer Industry Records First Trade Surplus </TI></H3>
-<F P=102>  94P60105A Beijing JISUANJI SHIJIE [CHINA COMPUTERWORLD] in 
+<F P="102">  94P60105A Beijing JISUANJI SHIJIE [CHINA COMPUTERWORLD] in 
 Chinese No 50, 29 Dec 93 p 1 </F>
 
-<F P=103> 94P60105A </F>
-<F P=104>  Beijing JISUANJI SHIJIE [CHINA COMPUTERWORLD] </F>
+<F P="103"> 94P60105A </F>
+<F P="104">  Beijing JISUANJI SHIJIE [CHINA COMPUTERWORLD] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Liu Keli [0491 0344 7787]: ``Nation's Computer </F>
+<F P="106"> [Article by Liu Keli [0491 0344 7787]: ``Nation's Computer </F>
 Industry Enters Benign Cycle: Import and Export Trade Turnover 
 Has First Surplus''] 
   [Summary] China's computer industry import and export trade 
@@ -14695,28 +14696,28 @@ being critical factors for foreign-exchange-earning exports.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Computers </F>
+<F P="100"> Computers </F>
 <H3> <TI>   China, U.S. Jointly Develop FDDI Cards for Information Highways </TI></H3>
-<F P=102>  94P60105B Beijing KEJI RIBAO [SCIENCE AND TECHNOLOGY DAILY] 
+<F P="102">  94P60105B Beijing KEJI RIBAO [SCIENCE AND TECHNOLOGY DAILY] 
 in Chinese 5 Jan 94 p 2 </F>
 
-<F P=103> 94P60105B </F>
-<F P=104>  Beijing KEJI RIBAO [SCIENCE AND TECHNOLOGY DAILY] 
+<F P="103"> 94P60105B </F>
+<F P="104">  Beijing KEJI RIBAO [SCIENCE AND TECHNOLOGY DAILY] 
 in Chinese 5 Jan 94 p 2 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Cao Bo [2580 3134]: ``China, U.S. Jointly </F>
+<F P="106"> [Article by Cao Bo [2580 3134]: ``China, U.S. Jointly </F>
 Develop Optical Fiber Interface Cards: Often Called [the Heart 
 of] Computer `Highways'''] 
   [Summary] Fiber Distributed Data Interface (FDDI) cards, 
@@ -14747,26 +14748,26 @@ have rapidly entered the domestic and foreign markets.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Computers </F>
+<F P="100"> Computers </F>
 <H3> <TI>   IBM Buys Patent Usage Rights for Wangma's Character-Input Technique </TI></H3>
-<F P=102>  94P60120A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 2 
+<F P="102">  94P60120A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 2 
 Feb 94 p 2 </F>
 
-<F P=103> 94P60120A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 94P60120A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: ``U.S. IBM Corp. Buys `Five-Stroke </F>
+<F P="106"> [Unattributed article: ``U.S. IBM Corp. Buys `Five-Stroke </F>
 Character Type' Patent Usage Rights''] 
   [Summary] Beijing (XINHUA) -- The U.S. firm IBM Corporation 
 recently in Beijing reached formal agreement with Beijing Wangma 
@@ -14794,26 +14795,26 @@ makers a ``key'' to opening up the China market.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Factory Automation, Robotics </F>
+<F P="100"> Factory Automation, Robotics </F>
 <H3> <TI>   Fifth-Generation Industrial Robots on Market </TI></H3>
-<F P=102>  94P60099A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  94P60099A Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 10 Jan 94 p 3 </F>
 
-<F P=103> 94P60099A </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 94P60099A </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Xu Jingyue [1776 0079 6460]: ``Nation's Robotics </F>
+<F P="106"> [Article by Xu Jingyue [1776 0079 6460]: ``Nation's Robotics </F>
 Research Ascends to Advanced International Level: 
 Fifth-Generation Industrial Robots Now on Market''] 
   [Summary] Beijing, 8 Jan (XINHUA)--Nine varieties of 
@@ -14836,7 +14837,7 @@ in the arc-welding and spray-painting assembly lines for the
 ``Dongfeng'' [East Wind] truck, made at the No. 2 Automotive 
 Works. 
 
-<FIG ID=JPRS-CST-002C-25A>           The nation's first 7-degrees-of-freedom robot... </FIG>
+<FIG ID="JPRS-CST-002C-25A">           The nation's first 7-degrees-of-freedom robot... </FIG>
 
 
 
@@ -14852,28 +14853,28 @@ Works.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Lasers, Sensors, Optics </F>
+<F P="100"> Lasers, Sensors, Optics </F>
 <H3> <TI>   Sino-Canadian `Global Radar Remote Sensing Plan' Flights Completed </TI></H3>
-<F P=102>  94P60112A Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
+<F P="102">  94P60112A Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
 in Chinese 3 Jan 94 p 2 </F>
 
-<F P=103> 94P60112A </F>
-<F P=104>  Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
+<F P="103"> 94P60112A </F>
+<F P="104">  Beijing ZHONGGUO KEXUE BAO [CHINESE SCIENCE NEWS] 
 in Chinese 3 Jan 94 p 2 </F>
 
 
 
 <TEXT>
-Language: <F P=105>Chinese </F>
+Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Liu Quanrui [0491 5425 3843]: ``Global Radar </F>
+<F P="106"> [Article by Liu Quanrui [0491 5425 3843]: ``Global Radar </F>
 Remote Sensing Plan Successfully Implemented in Guangdong''] 
   [Summary] Guangzhou (ZHONGGUO KEXUE BAO report)--As part of 
 the ``Global Remote Sensing Plan'' jointly developed by the CAS 
@@ -14909,26 +14910,26 @@ flights.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Lasers, Sensors, Optics </F>
+<F P="100"> Lasers, Sensors, Optics </F>
 <H3> <TI>   Beijing FEL Achieves Saturated Oscillation </TI></H3>
-<F P=102>  94P60112B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  94P60112B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 15 Jan 94 p 3 </F>
 
-<F P=103> 94P60112B </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 94P60112B </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Yang Lianghua [2799 5328 0553]: ``Beijing Free </F>
+<F P="106"> [Article by Yang Lianghua [2799 5328 0553]: ``Beijing Free </F>
 Electron Laser Facility Achieves Another Major Breakthrough: 
 Successfully Realizes Saturated Oscillation, a State-of-the-Art 
 Accomplishment''] 
@@ -14968,29 +14969,29 @@ spontaneous radiation strength is 8 orders of magnitude higher.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Lasers, Sensors, Optics </F>
+<F P="100"> Lasers, Sensors, Optics </F>
 <H3> <TI>   Method of Focusing Control for VISSR of GMS in Orbit </TI></H3>
-<F P=102>  94P60098A Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
+<F P="102">  94P60098A Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
 INFRARED AND MILLIMETER WAVES] in Chinese Vol 12 No 4, Aug 93 pp </F>
 
 
 
 <TEXT>
 261-264 
-<F P=103> 94P60098A </F>
-<F P=104>  Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
+<F P="103"> 94P60098A </F>
+<F P="104">  Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
 INFRARED AND MILLIMETER WAVES] </F>
 
- Language: <F P=105>Chinese </F>
+ Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhu Guangze [2612 1639 6358] and Wei Caiying </F>
+<F P="106"> [Article by Zhu Guangze [2612 1639 6358] and Wei Caiying </F>
 [7614 1752 5391] of the National Satellite Meteorology Center, 
 SMA, Beijing 100081: ``Method of In-Orbit Focusing Control for 
 VISSR of Geostationary Meteorological Satellite'' (GMS); MS 
@@ -15037,29 +15038,29 @@ York: McGraw-Hill, 1968, pp 101-139.
 
 </HEADER>
 
-<FIG ID=JPRS-CST-002C-27A>           Figure 2. System Equipment </FIG>
+<FIG ID="JPRS-CST-002C-27A">           Figure 2. System Equipment </FIG>
 
 
 
 <TEXT>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Lasers, Sensors, Optics </F>
+<F P="100"> Lasers, Sensors, Optics </F>
 <H3> <TI>   FTIR Magneto-Optical Spectrometer With High Optical Transmission Efficiency </TI></H3>
-<F P=102>  94P60098B Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
+<F P="102">  94P60098B Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
 INFRARED AND MILLIMETER WAVES] in Chinese Vol 12 No 4, Aug 93 pp </F>
 
 271-274 
-<F P=103> 94P60098B </F>
-<F P=104>  Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
+<F P="103"> 94P60098B </F>
+<F P="104">  Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
 INFRARED AND MILLIMETER WAVES] </F>
 
- Language: <F P=105>Chinese </F>
+ Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Liu Pulin [0491 2528 7207], Shi Guoliang [0670 </F>
+<F P="106"> [Article by Liu Pulin [0491 2528 7207], Shi Guoliang [0670 </F>
 0948 5328], et al. of the National Laboratory for Infrared 
 Physics, Shanghai Institute of Technical Physics (SITP), CAS, 
 Shanghai 200083: ``FTIR Magneto-Optical Spectrometer With High 
@@ -15085,7 +15086,7 @@ and photothermal ionization spectra (resolution = 0.15
 cm[.sup]-1[/]) of ultra-pure silicon under various magnetic 
 fields. There are no tables. 
 
-<FIG ID=JPRS-CST-002C-27B>           Figure 1. Schematic Diagram of the FTIR Magneto-Optical Spectrometer </FIG>
+<FIG ID="JPRS-CST-002C-27B">           Figure 1. Schematic Diagram of the FTIR Magneto-Optical Spectrometer </FIG>
 
 
 References 
@@ -15116,30 +15117,30 @@ SPIE,
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Lasers, Sensors, Optics </F>
+<F P="100"> Lasers, Sensors, Optics </F>
 <H3> <TI>   Relation Between Thicknesses, Dielectric/Pyroelectric Properties of PVDF:TGS Composite Material Films </TI></H3>
-<F P=102>  94P60098C Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
+<F P="102">  94P60098C Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
 INFRARED AND MILLIMETER WAVES] in Chinese Vol 12 No 5, Oct 93 pp </F>
 
 
 
 <TEXT>
 397-403 
-<F P=103> 94P60098C </F>
-<F P=104>  Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
+<F P="103"> 94P60098C </F>
+<F P="104">  Shanghai HONGWAI YU HAOMIBO XUEBAO [JOURNAL OF 
 INFRARED AND MILLIMETER WAVES] </F>
 
- Language: <F P=105>Chinese </F>
+ Language: <F P="105">Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Guo Guanjun [6753 0385 6511] of the Tank </F>
-Academy, Physics Teaching &amp; Research Section, Bengbu, Anhui 
+<F P="106"> [Article by Guo Guanjun [6753 0385 6511] of the Tank </F>
+Academy, Physics Teaching  amp; Research Section, Bengbu, Anhui 
 233013, Xu Pingmao [1776 1627 5399] of the Dept. of Optics, 
 Shandong University, Jinan 250100, and Wang Min [3769 3046] of 
 the Crystal Institute, Shandong University: ``Relation Between 
@@ -15151,8 +15152,8 @@ sulfate] composite films of varying thickness have been
 developed. Experimental results show that the thinner the film 
 is, the higher the dielectric constant, dielectric loss, and 
 pyroelectric coefficient are. These experimental results are 
-explained qualitatively. Room-temperature (15ëC) detectors 
-developed by the authors from these thin films (15-20 æm 
+explained qualitatively. Room-temperature (15ï¿½C) detectors 
+developed by the authors from these thin films (15-20 ï¿½m 
 thick) have a detectivity D[.sup]*[/] (500K, 12.5 Hz) of 1.55 
 x 10[.sup]8[/] cm-Hz[.sup]1/2[/]-W[.sup]-1[/], an NEP 
 [noise equivalent power] (500K, 12.5 Hz) of 1.95 x 
@@ -15189,28 +15190,28 @@ FERROELECTRICS, 1988, 81:381.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Lasers, Sensors, Optics </F>
+<F P="100"> Lasers, Sensors, Optics </F>
 <H3> <TI>   Optical Omega Network With Four-Function Optical Exchange-Switch for Digital Optical Switching Network </TI></H3>
-<F P=102>  94P60110A Shanghai GUANGXUE XUEBAO [ACTA OPTICA SINICA] in 
+<F P="102">  94P60110A Shanghai GUANGXUE XUEBAO [ACTA OPTICA SINICA] in 
 Chinese Vol 13 No 12, Dec 93 pp 1105-1109 </F>
 
-<F P=103> 94P60110A </F>
-<F P=104>  Shanghai GUANGXUE XUEBAO [ACTA OPTICA SINICA] </F>
+<F P="103"> 94P60110A </F>
+<F P="104">  Shanghai GUANGXUE XUEBAO [ACTA OPTICA SINICA] </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Cao Mingcui [2580 2494 5050], Luo Fengguang </F>
+<F P="106"> [Article by Cao Mingcui [2580 2494 5050], Luo Fengguang </F>
 [5012 7364 0342], et al. of the National Laboratory of Laser 
-Technology, Huazhong (Central China) University of Science &amp; 
+Technology, Huazhong (Central China) University of Science  amp; 
 Technology, Wuhan 430074: ``Four-Function Exchange-Switch 
 Optical Omega Network for Digital Optical Switching Network,'' 
 supported by grants from NDSTIC's Science Fund and NSFC; MS 
@@ -15244,16 +15245,16 @@ the experimental results for the optical Omega network with
 four-function optical exchange-switch, respectively. There are 
 no tables. 
 
-<FIG ID=JPRS-CST-002C-29A>           Figure 1. The Omega Interconnection Network (N = 8) </FIG>
+<FIG ID="JPRS-CST-002C-29A">           Figure 1. The Omega Interconnection Network (N = 8) </FIG>
 
 
-<FIG ID=JPRS-CST-002C-29B>           Figure 3. Schematic Diagram of Optical Omega Network With Four-Function Optical Exchange-Switch </FIG>
+<FIG ID="JPRS-CST-002C-29B">           Figure 3. Schematic Diagram of Optical Omega Network With Four-Function Optical Exchange-Switch </FIG>
 
 
-<FIG ID=JPRS-CST-002C-29C>           Figure 4. The Four States of the Exchange-Switch </FIG>
+<FIG ID="JPRS-CST-002C-29C">           Figure 4. The Four States of the Exchange-Switch </FIG>
 
 
-<FIG ID=JPRS-CST-002C-29D>           Figure 6. The Optical Omega Interconnection Network </FIG>
+<FIG ID="JPRS-CST-002C-29D">           Figure 6. The Optical Omega Interconnection Network </FIG>
 
 
 References 
@@ -15294,26 +15295,26 @@ Shuffle,'' APPL. OPT., 1987, 26(7): 1167-1169.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Microelectronics </F>
+<F P="100"> Microelectronics </F>
 <H3> <TI>   Shenzhen, Powerful Chips Base </TI></H3>
-<F P=102>  40100033A Beijing CHINA DAILY (BUSINESS WEEKLY) in English 
+<F P="102">  40100033A Beijing CHINA DAILY (BUSINESS WEEKLY) in English 
 31 Jan 94 p 4 </F>
 
-<F P=103> 40100033A </F>
-<F P=104>  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
+<F P="103"> 40100033A </F>
+<F P="104">  Beijing CHINA DAILY (BUSINESS WEEKLY) </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by Zhang Xingbo: ``Shenzhen, Powerful Chips Base'' </F>
+<F P="106"> [Article by Zhang Xingbo: ``Shenzhen, Powerful Chips Base'' </F>
 [cf. JPRS-CST-93-006, 6 Apr 93 p 41]] 
   [Text] Shenzhen -- A Shenzhen-Hong Kong programme for 
 producing super-large-scale integrated chips -- the largest such 
@@ -15381,25 +15382,25 @@ the industrial development in South China.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Telecommunications R&amp;D </F>
+<F P="100"> Telecommunications R amp;D </F>
 <H3> <TI>   Further Reports on Fiber Optic Communications </TI></H3>
 <H4>   Shanghai-Fujian Cable Operational </H4>
-<F P=102> 94P60109A Shanghai WEN HUI BAO in Chinese 2 Jan 94 p 2 </F>
-<F P=103> 94P60109A </F>
-<F P=104>  Shanghai WEN HUI BAO </F>
+<F P="102"> 94P60109A Shanghai WEN HUI BAO in Chinese 2 Jan 94 p 2 </F>
+<F P="103"> 94P60109A </F>
+<F P="104">  Shanghai WEN HUI BAO </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Wang Shiyi [3769 0013 5030]: ``Shanghai-Fujian </F>
+<F P="106"> [Article by Wang Shiyi [3769 0013 5030]: ``Shanghai-Fujian </F>
 Fiber Optic Cable Project Completed, Operational''] 
   [Summary] Ningbo, 1 Jan (WEN HUI BAO wire report)--The 
 Shanghai-Fujian fiber optic cable, commissioned by the State 
@@ -15425,27 +15426,27 @@ repeater circuits.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Telecommunications R&amp;D </F>
+<F P="100"> Telecommunications R amp;D </F>
 <H3> <TI>   Further Reports on Fiber Optic Communications </TI></H3>
 <H4>   First Cable TV Fiber Optic Trunk Line Transmission System </H4>
-<F P=102> 94P60109B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 7 
+<F P="102"> 94P60109B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 7 
 Jan 94 p 1 </F>
 
-<F P=103> 94P60109B </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 94P60109B </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Hu Hongwei [5170 1347 0251] and Fang Ziyong </F>
+<F P="106"> [Article by Hu Hongwei [5170 1347 0251] and Fang Ziyong </F>
 [2455 5261 6978]: ``Breakthrough for Nation's Cable TV 
 Transmission Technology: Domestically Made Fiber Optic Trunk 
 Line Transmission System Completed''] 
@@ -15473,25 +15474,25 @@ clear, high-quality images.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Telecommunications R&amp;D </F>
+<F P="100"> Telecommunications R amp;D </F>
 <H3> <TI>   Reports on Domestic Development of HDTV </TI></H3>
 <H4>   In Search of Perfect TV </H4>
-<F P=102> 40100035A Beijing CHINA DAILY in English 14 Feb 94 p 5 </F>
-<F P=103> 40100035A </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102"> 40100035A Beijing CHINA DAILY in English 14 Feb 94 p 5 </F>
+<F P="103"> 40100035A </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by staff reporter He Jun: ``In Search of Perfect </F>
+<F P="106"> [Article by staff reporter He Jun: ``In Search of Perfect </F>
 TV''] 
   [Text] Why not sharpen your TV -- eliminate ghosts and 
 noise and replace them with pure bright, beautiful pictures with 
@@ -15647,25 +15648,25 @@ HDTV.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Telecommunications R&amp;D </F>
+<F P="100"> Telecommunications R amp;D </F>
 <H3> <TI>   Reports on Domestic Development of HDTV </TI></H3>
 <H4>   Costs Remain Too High for China </H4>
-<F P=102> 40100035B Beijing CHINA DAILY in English 14 Feb 94 p 5 </F>
-<F P=103> 40100035B </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102"> 40100035B Beijing CHINA DAILY in English 14 Feb 94 p 5 </F>
+<F P="103"> 40100035B </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by staff reporter He Jun: ``Costs Remain Too High </F>
+<F P="106"> [Article by staff reporter He Jun: ``Costs Remain Too High </F>
 for China''] 
   [Text] While the world of high-definition television 
 (HDTV), jointly created by the developed nations, is rapidly 
@@ -15759,25 +15760,25 @@ bring the cost down until millions of consumers purchase HDTVs.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Telecommunications R&amp;D </F>
+<F P="100"> Telecommunications R amp;D </F>
 <H3> <TI>   Reports on Domestic Development of HDTV </TI></H3>
 <H4>   Nation Must Assess Situation </H4>
-<F P=102> 40100035C Beijing CHINA DAILY in English 14 Feb 94 p 5 </F>
-<F P=103> 40100035C </F>
-<F P=104>  Beijing CHINA DAILY </F>
+<F P="102"> 40100035C Beijing CHINA DAILY in English 14 Feb 94 p 5 </F>
+<F P="103"> 40100035C </F>
+<F P="104">  Beijing CHINA DAILY </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:CSO 
 
-<F P=106> [Article by staff reporter He Jun: ``Nation Must Assess </F>
+<F P="106"> [Article by staff reporter He Jun: ``Nation Must Assess </F>
 Situation and Choose an HDTV System''] 
   [Text] With China's growing determination to develop its 
 own HDTV, the primary task ahead is to choose which hi-tech 
@@ -15858,28 +15859,28 @@ and make their own choice, Ma said.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Telecommunications R&amp;D </F>
+<F P="100"> Telecommunications R amp;D </F>
 <H3> <TI>   Short-Wave Ray Tracing in Ionosphere </TI></H3>
-<F P=102>  40100031C Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
+<F P="102">  40100031C Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
 SPACE SCIENCE] in Chinese Vol 13 No 4, Oct 93 pp 306-312 </F>
 
-<F P=103> 40100031C </F>
-<F P=104>  Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
+<F P="103"> 40100031C </F>
+<F P="104">  Beijing KONGJIAN KEXUE XUEBAO [CHINESE JOURNAL OF 
 SPACE SCIENCE] </F>
 
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [English abstract of article by Suo Yu-cheng of China </F>
+<F P="106"> [English abstract of article by Suo Yu-cheng of China </F>
 Research Institute of Radiowave Propagation, Xinxiang 453003; MS 
 received 24 Mar 92] 
   [Text] In accordance with the requirement of ground 
@@ -15912,26 +15913,26 @@ radar, etc.
 <HEADER>
 <AU>   JPRS-CST-94-002 </AU>
 Document Type:JPRS 
-Document Title:Science &amp; Technology 
+Document Title:Science  amp; Technology 
 
 </HEADER>
 
 <ABS>  China </ABS>
 <DATE1>    25 February 1994 </DATE1>
-<F P=100> Physics </F>
+<F P="100"> Physics </F>
 <H3> <TI>   China Joins World Leaders in Nuclear Physics </TI></H3>
-<F P=102>  94FE0200B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
+<F P="102">  94FE0200B Beijing RENMIN RIBAO OVERSEAS EDITION in Chinese 
 29 Nov 93 p 3 </F>
 
-<F P=103> 94FE0200B </F>
-<F P=104>  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
+<F P="103"> 94FE0200B </F>
+<F P="104">  Beijing RENMIN RIBAO OVERSEAS EDITION </F>
 
 
 <TEXT>
-Language: <F P=105> Chinese </F>
+Language: <F P="105"> Chinese </F>
 Article Type:CSO 
 
-<F P=106> [Article by Han Zhenjun [7281 2182 6511]] </F>
+<F P="106"> [Article by Han Zhenjun [7281 2182 6511]] </F>
   [Text] Beijing, 27 November (Xin Hua) -- Researchers at the 
 Chinese Atomic Energy Research Institute had successfully built 
 China's first radioactive nuclear secondary beam line on the 
@@ -15995,18 +15996,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> ALBANIA </F>
+<F P="100"> ALBANIA </F>
 <H3> <TI>   Paper's Protection of Defense Minister Criticized </TI></H3>
-<F P=102>  94P20295A Tirana ZERI I POPULLIT in Albanian 7 Dec 93 p 3 </F>
-<F P=103> 94P20295A </F>
-<F P=104>  Tirana ZERI I POPULLIT </F>
+<F P="102">  94P20295A Tirana ZERI I POPULLIT in Albanian 7 Dec 93 p 3 </F>
+<F P="103"> 94P20295A </F>
+<F P="104">  Tirana ZERI I POPULLIT </F>
 
 
 <TEXT>
-Language: <F P=105> Albanian </F>
+Language: <F P="105"> Albanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Ardian Myslimi: "Reform in the Military and the </F>
+<F P="106"> [Article by Ardian Myslimi: "Reform in the Military and the </F>
 Honor of Zhulali Are Defended by Facts and Laws and Not by 
 Servileness and Demagoguery"] 
   [Text] After defending a dissertation by attacking and 
@@ -16165,18 +16166,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   UNHCR Warns of `Chaos' if UN Troops Withdraw </TI></H3>
-<F P=102>  AU2501090994 Paris AFP in English 0251 GMT 25 Jan 94 </F>
-<F P=103> AU2501090994 </F>
-<F P=104>  Paris AFP </F>
+<F P="102">  AU2501090994 Paris AFP in English 0251 GMT 25 Jan 94 </F>
+<F P="103"> AU2501090994 </F>
+<F P="104">  Paris AFP </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Article by Michel Moutot] </F>
+<F P="106"> [Article by Michel Moutot] </F>
   [Excerpts] Zenica, Bosnia-Herzegovina, Jan 25 (AFP) -- Aid 
 organisations are warning of chaos if UN troops are withdrawn 
 from Bosnia and say they too could be forced to quit the 
@@ -16252,18 +16253,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Strengthened B-H Army Challenge to HVO </TI></H3>
-<F P=102>  94BA0164A Zagreb VJESNIK in Serbo-Croatian 16 Jan 94 pp 10-11 </F>
-<F P=103> 94BA0164A </F>
-<F P=104>  Zagreb VJESNIK </F>
+<F P="102">  94BA0164A Zagreb VJESNIK in Serbo-Croatian 16 Jan 94 pp 10-11 </F>
+<F P="103"> 94BA0164A </F>
+<F P="104">  Zagreb VJESNIK </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Fran Visnar: "Islam's Sword in the Heart of </F>
+<F P="106"> [Article by Fran Visnar: "Islam's Sword in the Heart of </F>
 Bosnia"] 
   [Text] It is not hard to discover the reason why Alija 
 Izetbegovic is so "unrelenting" toward all the Croatian peace 
@@ -16447,20 +16448,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Commentary Calls for Owen To Resign </TI></H3>
-<F P=102>  AU2101162194 Sarajevo Radio Bosnia-Herzegovina Network in 
+<F P="102">  AU2101162194 Sarajevo Radio Bosnia-Herzegovina Network in 
 Serbo-Croatian 1400 GMT 21 Jan 94 </F>
 
-<F P=103> AU2101162194 </F>
-<F P=104>  Sarajevo Radio Bosnia-Herzegovina Network </F>
+<F P="103"> AU2101162194 </F>
+<F P="104">  Sarajevo Radio Bosnia-Herzegovina Network </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Zoran Pirolic commentary] </F>
+<F P="106"> [Zoran Pirolic commentary] </F>
   [Text] After several various initiatives for the recall of 
 Lord Owen, the European Union peace mediator, we have now 
 finally had an official one. The deputies in the European 
@@ -16519,18 +16520,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Iranian Press Agency Cited on Mojahedin in Bosnia </TI></H3>
-<F P=102>  94P20275A Belgrade POLlTlKA in Serbo-Croatian 5 Jan 94 p 2 </F>
-<F P=103> 94P20275A </F>
-<F P=104>  Belgrade POLlTlKA </F>
+<F P="102">  94P20275A Belgrade POLlTlKA in Serbo-Croatian 5 Jan 94 p 2 </F>
+<F P="103"> 94P20275A </F>
+<F P="104">  Belgrade POLlTlKA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Unattributed article: "Public Admission by Iran on Presence </F>
+<F P="106"> [Unattributed article: "Public Admission by Iran on Presence </F>
 of Mojahedin in Bosnia"] 
   [Text] The Iranian press agency IRNA has reported that two 
 mojahedin fighting against Serbian forces have died on the 
@@ -16566,20 +16567,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Commentary on Islamic `Coercion' of Muslims </TI></H3>
-<F P=102>  LD2601152294 Belgrade TANJUG Domestic Service in 
+<F P="102">  LD2601152294 Belgrade TANJUG Domestic Service in 
 Serbo-Croatian 1125 GMT 26 Jan 94 </F>
 
-<F P=103> LD2601152294 </F>
-<F P=104>  Belgrade TANJUG Domestic Service </F>
+<F P="103"> LD2601152294 </F>
+<F P="104">  Belgrade TANJUG Domestic Service </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Mladen Krsmanovic, editor of Bosnian Serb </F>
+<F P="106"> [Commentary by Mladen Krsmanovic, editor of Bosnian Serb </F>
 radio based in Pale] 
   [Text] Sarajevo, 26 Jan (TANJUG) -- The fact that the war 
 in Bosnia-Herzegovina has significant religious ingredients was 
@@ -16685,20 +16686,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Plans To Revive Production in Srpska Republic </TI></H3>
-<F P=102>  AU2201205394 Belgrade RTB Television Network in 
+<F P="102">  AU2201205394 Belgrade RTB Television Network in 
 Serbo-Croatian 1830 GMT 22 Jan 94 </F>
 
-<F P=103> AU2201205394 </F>
-<F P=104>  Belgrade RTB Television Network </F>
+<F P="103"> AU2201205394 </F>
+<F P="104">  Belgrade RTB Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> ["Exclusive" interview with prime minister of the Srpska </F>
+<F P="106"> ["Exclusive" interview with prime minister of the Srpska </F>
 republic Vladimir Lukic by Dusan Vojvodic; place and date not 
 given -- recorded] 
   [Text] [Vojvodic] Mr. Prime Minister, what are the 
@@ -16787,17 +16788,17 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   New Dinar To Be Introduced in Krajina, RS </TI></H3>
-<F P=102>  AU2201202994 Belgrade Radio Beograd Network in 
+<F P="102">  AU2201202994 Belgrade Radio Beograd Network in 
 Serbo-Croatian 1400 GMT 22 Jan 94 </F>
 
-<F P=103> AU2201202994 </F>
-<F P=104>  Belgrade Radio Beograd Network </F>
+<F P="103"> AU2201202994 </F>
+<F P="104">  Belgrade Radio Beograd Network </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
   [Text] All three governments in Yugoslavia -- the federal 
@@ -16862,20 +16863,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Warning of `Ecological Bomb' in Tuzla, Vitez </TI></H3>
-<F P=102>  AU2401114994 Zagreb VECERNJI LIST in Serbo-Croatian 21 Jan 
+<F P="102">  AU2401114994 Zagreb VECERNJI LIST in Serbo-Croatian 21 Jan 
 94 p 7 </F>
 
-<F P=103> AU2401114994 </F>
-<F P=104>  Zagreb VECERNJI LIST </F>
+<F P="103"> AU2401114994 </F>
+<F P="104">  Zagreb VECERNJI LIST </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Professor Dr. Zlatko Binenfeld, reserve </F>
+<F P="106"> [Interview with Professor Dr. Zlatko Binenfeld, reserve </F>
 Croatian Army general and adviser to Croatian defense minister, 
 by Mate Piskor; place and date not given: "Tuzla and Vitez Are 
 Ecological Bombs"] 
@@ -16999,20 +17000,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Article Views History of Izetbegovic's Aides </TI></H3>
-<F P=102>  AU2701105194 Belgrade VREME in Serbo-Croatian 17 Jan 94 pp 
+<F P="102">  AU2701105194 Belgrade VREME in Serbo-Croatian 17 Jan 94 pp 
 34-35 </F>
 
-<F P=103> AU2701105194 </F>
-<F P=104>  Belgrade VREME </F>
+<F P="103"> AU2701105194 </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:BFN 
 
-<F P=106> [Article by Drazena Peranic: "Alija's Former Men"] </F>
+<F P="106"> [Article by Drazena Peranic: "Alija's Former Men"] </F>
   [Text] Just one newspaper in Bosnia-Herzegovina has 
 recently issued a short news item that in Sarajevo Rusmir 
 Mahmutcehajic, the minister for special purpose production, has 
@@ -17230,20 +17231,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BOSNIA-HERZEGOVINA </F>
+<F P="100"> BOSNIA-HERZEGOVINA </F>
 <H3> <TI>   Serb Missionaries Arrive in Zvornik-Tuzla Area </TI></H3>
-<F P=102>  94P20307B Belgrade PRAVOSLAVLJE in Serbo-Croatian 1 Dec 93 p 
+<F P="102">  94P20307B Belgrade PRAVOSLAVLJE in Serbo-Croatian 1 Dec 93 p 
 1 </F>
 
-<F P=103> 94P20307B </F>
-<F P=104>  Belgrade PRAVOSLAVLJE </F>
+<F P="103"> 94P20307B </F>
+<F P="104">  Belgrade PRAVOSLAVLJE </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by M. Mijic: "The Seed Is Planted, Missionaries </F>
+<F P="106"> [Article by M. Mijic: "The Seed Is Planted, Missionaries </F>
 Arrive"] 
   [Excerpts] The new 1993/94 academic year has started in the 
 schools of the Zvornik-Tuzla eparchy with renewed joy among the 
@@ -17294,18 +17295,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Zhelev Adviser Views Ethnic Minority Issues </TI></H3>
-<F P=102>  AU1101211394 Sofia TRUD in Bulgarian 6 Jan 94 pp 1,4 </F>
-<F P=103> AU1101211394 </F>
-<F P=104>  Sofia TRUD </F>
+<F P="102">  AU1101211394 Sofia TRUD in Bulgarian 6 Jan 94 pp 1,4 </F>
+<F P="103"> AU1101211394 </F>
+<F P="104">  Sofia TRUD </F>
 
 
 <TEXT>
-Language: <F P=105> Bulgarian </F>
+Language: <F P="105"> Bulgarian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Mikhail Ivanov, Bulgarian President Zhelev's </F>
+<F P="106"> [Interview with Mikhail Ivanov, Bulgarian President Zhelev's </F>
 adviser on ethnic questions, by Valeriya Vaseva; place and date 
 not given: "I Have Never Questioned the Bulgarian Origins of 
 Muslims in the Western Rhodope Area"] 
@@ -17475,18 +17476,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Commentary Views Berov Cabinet's Record in 1993 </TI></H3>
-<F P=102>  AU1101145594 Sofia DUMA in Bulgarian 31 Dec 93 p 10 </F>
-<F P=103> AU1101145594 </F>
-<F P=104>  Sofia DUMA </F>
+<F P="102">  AU1101145594 Sofia DUMA in Bulgarian 31 Dec 93 p 10 </F>
+<F P="103"> AU1101145594 </F>
+<F P="104">  Sofia DUMA </F>
 
 
 <TEXT>
-Language: <F P=105> Bulgarian </F>
+Language: <F P="105"> Bulgarian </F>
 Article Type:BFN 
 
-<F P=106> [Commentary by Evgeni Gavrilov: "Cabinet Sets New Record in </F>
+<F P="106"> [Commentary by Evgeni Gavrilov: "Cabinet Sets New Record in </F>
 Governing"] 
   [Text] On 30 December Prime Minister Lyuben Berov and his 
 ministers festively marked the first anniversary of their tenure 
@@ -17562,18 +17563,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   * Officer Corps, Civilian Leadership Criticized </TI></H3>
-<F P=102>  94P20257A Sofia 168 CHASA in Bulgarian 3 Jan 94 p 36 </F>
-<F P=103> 94P20257A </F>
-<F P=104>  Sofia 168 CHASA </F>
+<F P="102">  94P20257A Sofia 168 CHASA in Bulgarian 3 Jan 94 p 36 </F>
+<F P="103"> 94P20257A </F>
+<F P="104">  Sofia 168 CHASA </F>
 
 
 <TEXT>
-Language: <F P=105> Bulgarian </F>
+Language: <F P="105"> Bulgarian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Captain (Second Rank) Vasil Danov and Major </F>
+<F P="106"> [Article by Captain (Second Rank) Vasil Danov and Major </F>
 (Eng.) Iliycho Iliev of the Rakovski Bulgarian Officer Legion: 
 "How Did You Sin, Officer? In the Past and Now the Armed 
 Defender of Bulgaria Continues To Be Economically Enslaved, 
@@ -17771,17 +17772,17 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> BULGARIA </F>
+<F P="100"> BULGARIA </F>
 <H3> <TI>   Over 45 Percent of Agricultural Land Restored to Owners </TI></H3>
-<F P=102>  AU1101121494 Sofia Khorizont Radio Network in Bulgarian 1000 
+<F P="102">  AU1101121494 Sofia Khorizont Radio Network in Bulgarian 1000 
 GMT 11 Jan 94 </F>
 
-<F P=103> AU1101121494 </F>
-<F P=104>  Sofia Khorizont Radio Network </F>
+<F P="103"> AU1101121494 </F>
+<F P="104">  Sofia Khorizont Radio Network </F>
 
 
 <TEXT>
-Language: <F P=105> Bulgarian </F>
+Language: <F P="105"> Bulgarian </F>
 Article Type:BFN 
 
   [Text] On 11 January Ventsislav Stoyanov, deputy minister 
@@ -17808,18 +17809,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Protest Against Muslim Institutions in Croatia </TI></H3>
-<F P=102>  94P20275B Zagreb DANAS in Serbo-Croatian 11 Jan 94 p 5 </F>
-<F P=103> 94P20275B </F>
-<F P=104>  Zagreb DANAS </F>
+<F P="102">  94P20275B Zagreb DANAS in Serbo-Croatian 11 Jan 94 p 5 </F>
+<F P="103"> 94P20275B </F>
+<F P="104">  Zagreb DANAS </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> Article by Marko Barisic: "Muslim Institution in Croatia"] </F>
+<F P="106"> Article by Marko Barisic: "Muslim Institution in Croatia"] </F>
   [Text] Cultural clubs of Croats from Bosnia-Herzegovina 
 have issued a public protest in which they request that the 
 Croatian Government close all the diplomatic and foreign 
@@ -17862,18 +17863,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Biographic Data of Milan Babic </TI></H3>
-<F P=102>  94BA0158B Belgrade VREME in Serbo-Croatian 20 Dec 93 pp 16-17 </F>
-<F P=103> 94BA0158B </F>
-<F P=104>  Belgrade VREME </F>
+<F P="102">  94BA0158B Belgrade VREME in Serbo-Croatian 20 Dec 93 pp 16-17 </F>
+<F P="103"> 94BA0158B </F>
+<F P="104">  Belgrade VREME </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Filip Svarm: "Milan Babic--A Career"] </F>
+<F P="106"> [Article by Filip Svarm: "Milan Babic--A Career"] </F>
   [Text] Milan Babic was born in 1956 in the village of 
 Kukari, near Vrlika. He studied dentistry in Belgrade, where he 
 achieved notable success as a youth functionary. Upon receiving 
@@ -18018,20 +18019,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> CROATIA </F>
+<F P="100"> CROATIA </F>
 <H3> <TI>   Croatian Electric Company Director on Krsko </TI></H3>
-<F P=102>  94P20307A Split SLOBODNA DALMACIJA in Serbo-Croatian 21 Jan 
+<F P="102">  94P20307A Split SLOBODNA DALMACIJA in Serbo-Croatian 21 Jan 
 94 p 7 </F>
 
-<F P=103> 94P20307A </F>
-<F P=104>  Split SLOBODNA DALMACIJA </F>
+<F P="103"> 94P20307A </F>
+<F P="104">  Split SLOBODNA DALMACIJA </F>
 
 
 <TEXT>
-Language: <F P=105> Serbo-Croatian </F>
+Language: <F P="105"> Serbo-Croatian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Damir Begovic, general director of the </F>
+<F P="106"> [Interview with Damir Begovic, general director of the </F>
 Croatian Electric Power Industry, by Branka Oreb-Jerkovic: Is 
 Krsko Slovenian? Yes, if They Pay Us One Billion Dollars!"] 
   [Excerpts] [Oreb-Jerkovic] The Slovene press is full of 
@@ -18110,20 +18111,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Kuncze Views MSZP, FIDESZ, MDF </TI></H3>
-<F P=102>  AU2801175794 Budapest MAGYAR NEMZET in Hungarian 28 Jan 94 p 
+<F P="102">  AU2801175794 Budapest MAGYAR NEMZET in Hungarian 28 Jan 94 p 
 7 </F>
 
-<F P=103> AU2801175794 </F>
-<F P=104>  Budapest MAGYAR NEMZET </F>
+<F P="103"> AU2801175794 </F>
+<F P="104">  Budapest MAGYAR NEMZET </F>
 
 
 <TEXT>
-Language: <F P=105> Hungarian </F>
+Language: <F P="105"> Hungarian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Gabor Kuncze, leader of the Parliamentary </F>
+<F P="106"> [Interview with Gabor Kuncze, leader of the Parliamentary </F>
 Group of the Alliance of Free Democrats, by Noemi Sumegi; place 
 and date not given: "We Maintain Our Cooperation With the 
 FIDESZ -- Gabor Kuncze on Revanchism, the Prime Minister's 
@@ -18372,20 +18373,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> HUNGARY </F>
+<F P="100"> HUNGARY </F>
 <H3> <TI>   Retiring Commander Views State of Army </TI></H3>
-<F P=102>  AU3101154394 Budapest PESTI HIRLAP in Hungarian 29 Jan 94 p 
+<F P="102">  AU3101154394 Budapest PESTI HIRLAP in Hungarian 29 Jan 94 p 
 11 </F>
 
-<F P=103> AU3101154394 </F>
-<F P=104>  Budapest PESTI HIRLAP </F>
+<F P="103"> AU3101154394 </F>
+<F P="104">  Budapest PESTI HIRLAP </F>
 
 
 <TEXT>
-Language: <F P=105> Hungarian </F>
+Language: <F P="105"> Hungarian </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Colonel General Kalman Lorincz, retiring </F>
+<F P="106"> [Interview with Colonel General Kalman Lorincz, retiring </F>
 commander of the Hungarian Army, by Zoltan Fekete; place and 
 date not given: "I Am Leaving an Unhappy Army"] 
   [Excerpts] [Passage omitted] [Fekete] Do you accept the 
@@ -18484,18 +18485,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Ethnic Slovaks Outline Problems, Demands </TI></H3>
-<F P=102>  AU3101194094 Bratislava REPUBLIKA in Slovak 28 Jan 94 pp 1, 4 </F>
-<F P=103> AU3101194094 </F>
-<F P=104>  Bratislava REPUBLIKA </F>
+<F P="102">  AU3101194094 Bratislava REPUBLIKA in Slovak 28 Jan 94 pp 1, 4 </F>
+<F P="103"> AU3101194094 </F>
+<F P="104">  Bratislava REPUBLIKA </F>
 
 
 <TEXT>
-Language: <F P=105> Slovak </F>
+Language: <F P="105"> Slovak </F>
 Article Type:BFN 
 
-<F P=106> [Report by Richard Erdofy: "The Third Day of Michal Kovac's </F>
+<F P="106"> [Report by Richard Erdofy: "The Third Day of Michal Kovac's </F>
 Visit to Poland"] 
   [Excerpt] Krakow -- Slovak President Michal Kovac, 
 accompanied by his wife and entourage, flew to Krakow yesterday 
@@ -18560,20 +18561,20 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Czech Ambassador Interviewed on NATO, Visegrad </TI></H3>
-<F P=102>  AU3101150794 Warsaw TYGODNIK SOLIDARNOSC in Polish 28 Jan 94 
+<F P="102">  AU3101150794 Warsaw TYGODNIK SOLIDARNOSC in Polish 28 Jan 94 
 p 3 </F>
 
-<F P=103> AU3101150794 </F>
-<F P=104>  Warsaw TYGODNIK SOLIDARNOSC </F>
+<F P="103"> AU3101150794 </F>
+<F P="104">  Warsaw TYGODNIK SOLIDARNOSC </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Marketa Fialkova, Czech ambassador to </F>
+<F P="106"> [Interview with Marketa Fialkova, Czech ambassador to </F>
 Poland, by Barbara Sulek; date and place not given: "We Do Not 
 Insist on Being First in NATO"] 
   [Excerpts] [Sulek] You must be giving a lot of interviews 
@@ -18676,18 +18677,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   * Defense Minister on Army Condition, Changes </TI></H3>
-<F P=102>  WS2601140094 Warsaw RZECZPOSPOLITA in Polish 26 Jan 94 p 2 </F>
-<F P=103> WS2601140094 </F>
-<F P=104>  Warsaw RZECZPOSPOLITA </F>
+<F P="102">  WS2601140094 Warsaw RZECZPOSPOLITA in Polish 26 Jan 94 p 2 </F>
+<F P="103"> WS2601140094 </F>
+<F P="104">  Warsaw RZECZPOSPOLITA </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:BFN 
 
-<F P=106> [Interview with Polish National Defense Minister Piotr </F>
+<F P="106"> [Interview with Polish National Defense Minister Piotr </F>
 Kolodziejczyk by Maria Wagrowska; place and date not given: "To 
 Be Far From Politics"] 
   [Text] [Wagrowska] As the minister of national defense, 
@@ -18970,18 +18971,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> POLAND </F>
+<F P="100"> POLAND </F>
 <H3> <TI>   Daily Views Budget, 1993 Deficit Figures </TI></H3>
-<F P=102>  WS3101130394 Warsaw RZECZPOSPOLITA in Polish 29-30 Jan 94 p 1 </F>
-<F P=103> WS3101130394 </F>
-<F P=104>  Warsaw RZECZPOSPOLITA </F>
+<F P="102">  WS3101130394 Warsaw RZECZPOSPOLITA in Polish 29-30 Jan 94 p 1 </F>
+<F P="103"> WS3101130394 </F>
+<F P="104">  Warsaw RZECZPOSPOLITA </F>
 
 
 <TEXT>
-Language: <F P=105> Polish </F>
+Language: <F P="105"> Polish </F>
 Article Type:BFN 
 
-<F P=106> [Report by Katarzyna Jedrzejewska: "Budget in Sejm </F>
+<F P="106"> [Report by Katarzyna Jedrzejewska: "Budget in Sejm </F>
 Deputies' Hands; 1993 Deficit Was Lower Than Expected by Half"] 
   [Text] Last year's deficit in the state budget was 
 lower than expected by almost a half. Instead of the planned 81 
@@ -19049,18 +19050,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   * Stolojan, Vacaroiu Reports on Economy Contradictory </TI></H3>
-<F P=102>  94P20192A Bucharest ADEVARUL in Romanian 9 Dec 93 p 3 </F>
-<F P=103> 94P20192A </F>
-<F P=104>  Bucharest ADEVARUL </F>
+<F P="102">  94P20192A Bucharest ADEVARUL in Romanian 9 Dec 93 p 3 </F>
+<F P="103"> 94P20192A </F>
+<F P="104">  Bucharest ADEVARUL </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Al. Gavrilescu: "The Invisible War of the </F>
+<F P="106"> [Article by Al. Gavrilescu: "The Invisible War of the </F>
 Reports Does Not Hide Poverty and Corruption"] 
   [Text] A year ago, before passing the baton of government, 
 former Prime Minister Stolojan announced to members of his 
@@ -19164,18 +19165,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   * PAC Leader Claims UVPR Sidestepping Issues </TI></H3>
-<F P=102>  94BA0118A Bucharest ROMANIA LIBERA in Romanian 9 Nov 93 p 2 </F>
-<F P=103> 94BA0118A </F>
-<F P=104>  Bucharest ROMANIA LIBERA </F>
+<F P="102">  94BA0118A Bucharest ROMANIA LIBERA in Romanian 9 Nov 93 p 2 </F>
+<F P="103"> 94BA0118A </F>
+<F P="104">  Bucharest ROMANIA LIBERA </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [News conference by Civic Alliance Party Leader Nicolae </F>
+<F P="106"> [News conference by Civic Alliance Party Leader Nicolae </F>
 Manolescu with unidentified correspondents; place and date not 
 given: "The Diversion Gambit of the `Future for Romania Group'"] 
   [Text] Starting with the conclusion of the group "For the 
@@ -19319,18 +19320,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   * Bank President on Loan Policies, Bank's Future </TI></H3>
-<F P=102>  94BA0118B Bucharest ROMANIA LIBERA in Romanian 9 Nov 93 p 3 </F>
-<F P=103> 94BA0118B </F>
-<F P=104>  Bucharest ROMANIA LIBERA </F>
+<F P="102">  94BA0118B Bucharest ROMANIA LIBERA in Romanian 9 Nov 93 p 3 </F>
+<F P="103"> 94BA0118B </F>
+<F P="104">  Bucharest ROMANIA LIBERA </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Interview with Post Bank President Elena Petculescu by </F>
+<F P="106"> [Interview with Post Bank President Elena Petculescu by </F>
 unidentified correspondent; place and date not given: "No One 
 Claims To Not Want Privatization, but No One Says That It Needs 
 To Happen"] 
@@ -19494,18 +19495,18 @@ Document Title:East Europe
 
 <ABS>  SUPPLEMENT </ABS>
 <DATE1>   1 February 1994 </DATE1>
-<F P=100> ROMANIA </F>
+<F P="100"> ROMANIA </F>
 <H3> <TI>   * Political Analysts on Reform, Transition Process </TI></H3>
-<F P=102>  94BA0116A Bucharest "22" in Romanian 27 Oct-2 Nov 93 pp 8-10 </F>
-<F P=103> 94BA0116A </F>
-<F P=104>  Bucharest "22" </F>
+<F P="102">  94BA0116A Bucharest "22" in Romanian 27 Oct-2 Nov 93 pp 8-10 </F>
+<F P="103"> 94BA0116A </F>
+<F P="104">  Bucharest "22" </F>
 
 
 <TEXT>
-Language: <F P=105> Romanian </F>
+Language: <F P="105"> Romanian </F>
 Article Type:CSO 
 
-<F P=106> [Article by Rodica Palade with various political analysts, </F>
+<F P="106"> [Article by Rodica Palade with various political analysts, </F>
 under the rubric "Roundtable": "Reform, Counterreform, or the 
 Syndrome of Procrastination"; first five paragraphs are Palade's 
 introduction] 
@@ -20373,3 +20374,4 @@ October issue of TINERETUL LIBER.)
 </TEXT>
 
 </DOC>
+</root>

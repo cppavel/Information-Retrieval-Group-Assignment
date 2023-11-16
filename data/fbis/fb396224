@@ -1,3 +1,4 @@
+<root>
 
 <DOC>
 <DOCNO> FBIS3-59240 </DOCNO>
@@ -11,21 +12,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Finland </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Finland </F>
 <H3> <TI>   Aho on Final Stages of EU Membership Talks </TI></H3>
-<F P=102>  PM2701153694 London THE EUROPEAN in English 28 Jan-3 Feb 94 
+<F P="102">  PM2701153694 London THE EUROPEAN in English 28 Jan-3 Feb 94 
 p 7 </F>
 
-<F P=103> PM2701153694 </F>
-<F P=104>  London THE EUROPEAN </F>
+<F P="103"> PM2701153694 </F>
+<F P="104">  London THE EUROPEAN </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Article by Finnish Prime Minister Esko Aho: "Union, But on </F>
+<F P="106"> [Article by Finnish Prime Minister Esko Aho: "Union, But on </F>
 Finnish Terms"] 
   [Text] The question most frequently put to me these days, 
 both at home and abroad, is: Will Finland become a member of 
@@ -153,19 +154,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> NORDIC COUNTRIES </F>
-<F P=101> Norway </F>
+<F P="100"> NORDIC COUNTRIES </F>
+<F P="101"> Norway </F>
 <H3> <TI>   Figures Show `Steady Increase' in Trade With EU </TI></H3>
-<F P=102>  PM2601160094 Oslo AFTENPOSTEN in Norwegian 21 Jan 94 p 32 </F>
-<F P=103> PM2601160094 </F>
-<F P=104>  Oslo AFTENPOSTEN </F>
+<F P="102">  PM2601160094 Oslo AFTENPOSTEN in Norwegian 21 Jan 94 p 32 </F>
+<F P="103"> PM2601160094 </F>
+<F P="104">  Oslo AFTENPOSTEN </F>
 
 
 <TEXT>
-Language: <F P=105> Norwegian </F>
+Language: <F P="105"> Norwegian </F>
 Article Type:BFN 
 
-<F P=106> [Odd Inge Skjaevesland report: "Steady Increase in Trade </F>
+<F P="106"> [Odd Inge Skjaevesland report: "Steady Increase in Trade </F>
 With the EU Countries"] 
   [Text] Figures from the Central Statistical Bureau show 
 that exports to the developing countries are growing faster than 
@@ -211,18 +212,18 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> International Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> International Affairs </F>
 <H3> <TI>   Kohl Sees No `Magic' Solution for Bosnia Crisis </TI></H3>
-<F P=102>  LD2701150294 Hamburg DPA in German 1356 GMT 27 Jan 94--FOR 
+<F P="102">  LD2701150294 Hamburg DPA in German 1356 GMT 27 Jan 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> LD2701150294 </F>
-<F P=104>  Hamburg DPA </F>
+<F P="103"> LD2701150294 </F>
+<F P="104">  Hamburg DPA </F>
 
 
 <TEXT>
-Language: <F P=105> German </F>
+Language: <F P="105"> German </F>
 Article Type:BFN 
 
   [Text] Davos (DPA) -- German Chancellor Helmut Kohl does 
@@ -259,21 +260,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Italy &amp; Vatican City </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Italy  amp; Vatican City </F>
 <H3> <TI>   Andreatta, Ciampi Meet Brittan on Security, Trade </TI></H3>
-<F P=102>  BR2501122694 Rome ANSAMAIL Database in English 2232 GMT 24 
+<F P="102">  BR2501122694 Rome ANSAMAIL Database in English 2232 GMT 24 
 Jan 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2501122694 </F>
-<F P=104>  Rome ANSAMAIL Database </F>
+<F P="103"> BR2501122694 </F>
+<F P="104">  Rome ANSAMAIL Database </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article: "Italo-British Proposal on East </F>
+<F P="106"> [Unattributed article: "Italo-British Proposal on East </F>
 Europe Gaining Ground"] 
   [Text] Rome, 24 Jan (ANSA) -- The Italo-British proposal to 
 associate East European countries to the foreign, security and 
@@ -334,19 +335,19 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> GERMANY </F>
+<F P="100"> GERMANY </F>
 <H3> <TI>   Dailies Comment on Clinton, State of the Union Address </TI></H3>
 <H4>   U.S. `Not Healthy' </H4>
-<F P=102> AU2701205094 Duesseldorf HANDELSBLATT in German 27 Jan 94 p 2 </F>
-<F P=103> AU2701205094 </F>
-<F P=104>  Duesseldorf HANDELSBLATT </F>
+<F P="102"> AU2701205094 Duesseldorf HANDELSBLATT in German 27 Jan 94 p 2 </F>
+<F P="103"> AU2701205094 </F>
+<F P="104">  Duesseldorf HANDELSBLATT </F>
 
 
 <TEXT>
-Language: <F P=105> German </F>
+Language: <F P="105"> German </F>
 Article Type:BFN 
 
-<F P=106> [Dietrich Zwaetz commentary: "Everything at the Same Time"] </F>
+<F P="106"> [Dietrich Zwaetz commentary: "Everything at the Same Time"] </F>
   [Text] Is the United States sick? No, in his State of the 
 Union Address Bill Clinton could not and did not want that 
 impression to be created. Yet, if one analyzes Clinton's 
@@ -418,17 +419,17 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ITALY &amp; VATICAN CITY </F>
+<F P="100"> ITALY  amp; VATICAN CITY </F>
 <H3> <TI>   Somalia Troop Commander Interviewed on Pullout </TI></H3>
-<F P=102>  LD2701141894 Rome RAI Due Television Network in Italian 1200 
+<F P="102">  LD2701141894 Rome RAI Due Television Network in Italian 1200 
 GMT 27 Jan 94 </F>
 
-<F P=103> LD2701141894 </F>
-<F P=104>  Rome RAI Due Television Network </F>
+<F P="103"> LD2701141894 </F>
+<F P="104">  Rome RAI Due Television Network </F>
 
 
 <TEXT>
-Language: <F P=105> Italian </F>
+Language: <F P="105"> Italian </F>
 Article Type:BFN 
 
   [Text] The return of our troops from Somalia is continuing. 
@@ -482,21 +483,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> International Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> International Affairs </F>
 <H3> <TI>   Grachev To Brief NATO on Military Doctrine in May </TI></H3>
-<F P=102>  BR2801124394 Brussels BELGA in French 1640 GMT 27 Jan 
+<F P="102">  BR2801124394 Brussels BELGA in French 1640 GMT 27 Jan 
 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2801124394 </F>
-<F P=104>  Brussels BELGA </F>
+<F P="103"> BR2801124394 </F>
+<F P="104">  Brussels BELGA </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Article signed GGD/LAR: "Mr. Delcroix Back From Moscow: </F>
+<F P="106"> [Article signed GGD/LAR: "Mr. Delcroix Back From Moscow: </F>
 Russian Doctrine Soon To be Explained?"; as released by Brussels 
 BELGA Database] 
   [Text] Brussels, 27 Jan (BELGA) -- Russian Defense Minister 
@@ -581,21 +582,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   New Balladur Stability Pact `Anodyne' </TI></H3>
-<F P=102>  PM2701143294 London THE INDEPENDENT in English 27 Jan 94 p 
+<F P="102">  PM2701143294 London THE INDEPENDENT in English 27 Jan 94 p 
 23--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> PM2701143294 </F>
-<F P=104>  London THE INDEPENDENT </F>
+<F P="103"> PM2701143294 </F>
+<F P="104">  London THE INDEPENDENT </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Article by Jonathan Eyal, director of studies at the Royal </F>
+<F P="106"> [Article by Jonathan Eyal, director of studies at the Royal </F>
 United Services Insitute, London: "France's False Sense of 
 Security"] 
   [Text] Behind the razzmatazz that accompanied the recent 
@@ -769,21 +770,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Rabin Addresses Council of Europe </TI></H3>
-<F P=102>  BR2801101794 Brussels EUROPE in English 27 Jan 94--FOR 
+<F P="102">  BR2801101794 Brussels EUROPE in English 27 Jan 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR2801101794 </F>
-<F P=104>  Brussels EUROPE </F>
+<F P="103"> BR2801101794 </F>
+<F P="104">  Brussels EUROPE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article: "Rabin Addresses Council of Europe"; </F>
+<F P="106"> [Unattributed article: "Rabin Addresses Council of Europe"; </F>
 as released by Brussels TEXTLINE database] 
   [Text] Mr. Rabin tells the Council of Europe assembly that 
 "I come from Jerusalem to tell you that the government of Israel 
@@ -841,21 +842,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Ministerial Sessions To Meet on EC Accession </TI></H3>
-<F P=102>  BR2801101094 Brussels EUROPE in English 27 Jan 94--FOR 
+<F P="102">  BR2801101094 Brussels EUROPE in English 27 Jan 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR2801101094 </F>
-<F P=104>  Brussels EUROPE </F>
+<F P="103"> BR2801101094 </F>
+<F P="104">  Brussels EUROPE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article: "EC/Enlargement: Conclusion of </F>
+<F P="106"> [Unattributed article: "EC/Enlargement: Conclusion of </F>
 Negotiations in a Marathon From 25 to 28 February (With Possible 
 Prolongation to Beginning-March -- The Commission Intends 
 Completing the Draft `Joint Positions' This Week"; as released 
@@ -945,21 +946,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   European Cogeneration Technology Association Established </TI></H3>
-<F P=102>  BR2701111994 Brussels EUROPE in English 26 Jan 1994--FOR 
+<F P="102">  BR2701111994 Brussels EUROPE in English 26 Jan 1994--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR2701111994 </F>
-<F P=104>  Brussels EUROPE </F>
+<F P="103"> BR2701111994 </F>
+<F P="104">  Brussels EUROPE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article: "Environment -- Six Member States Set </F>
+<F P="106"> [Unattributed article: "Environment -- Six Member States Set </F>
 up Cogen Europe (Association for Promotion of Cogeneration 
 Technology (CHP) Throughout Europe)"; as released by Brussels 
 TEXTLINE database] 
@@ -1015,21 +1016,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   EU To Assist Algeria Normalization </TI></H3>
-<F P=102>  BR2601092894 Brussels EUROPE in English 23 Jan 94--FOR 
+<F P="102">  BR2601092894 Brussels EUROPE in English 23 Jan 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR2601092894 </F>
-<F P=104>  Brussels EUROPE </F>
+<F P="103"> BR2601092894 </F>
+<F P="104">  Brussels EUROPE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article: "The EU/Algeria Cooperation Council </F>
+<F P="106"> [Unattributed article: "The EU/Algeria Cooperation Council </F>
 To Meet in Brussels on 7 February"; as released by Brussels 
 TEXTLINE database] 
   [Text] The European Union-Algeria Cooperation Council will 
@@ -1060,21 +1061,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Inter-European Affairs </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Inter-European Affairs </F>
 <H3> <TI>   Community Urged To Implement Earth Summit Decisions </TI></H3>
-<F P=102>  BR2701113294 Brussels EUROPE in English 26 Jan 94--FOR 
+<F P="102">  BR2701113294 Brussels EUROPE in English 26 Jan 94--FOR 
 OFFICIAL USE ONLY </F>
 
-<F P=103> BR2701113294 </F>
-<F P=104>  Brussels EUROPE </F>
+<F P="103"> BR2701113294 </F>
+<F P="104">  Brussels EUROPE </F>
 
 
 <TEXT>
-Language: <F P=105> English </F>
+Language: <F P="105"> English </F>
 Article Type:BFN 
 
-<F P=106> [Unattributed article: "European Parliament Wants Community </F>
+<F P="106"> [Unattributed article: "European Parliament Wants Community </F>
 To Give Impetus To Follow-up on Earth Summit"; as released by 
 Brussels TEXTLINE database] 
   [Text] The World Environment Fund, the result of a 
@@ -1141,21 +1142,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Belgium </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Belgium </F>
 <H3> <TI>   Foreign Trade Minister Makes Official Visit to Syria </TI></H3>
-<F P=102>  BR2701131294 Brussels BELGA in French 1843 GMT 26 Jan 
+<F P="102">  BR2701131294 Brussels BELGA in French 1843 GMT 26 Jan 
 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2701131294 </F>
-<F P=104>  Brussels BELGA </F>
+<F P="103"> BR2701131294 </F>
+<F P="104">  Brussels BELGA </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Article signed ABS: "Minister Urbain Returns From Damascus: </F>
+<F P="106"> [Article signed ABS: "Minister Urbain Returns From Damascus: </F>
 Solve the Debt Problem"; as released by Brussels BELGA Database] 
   [Text] Brussels, 26 Jan (BELGA) -- On his return from 
 Damascus, where he paid an official visit on Monday and Tuesday 
@@ -1226,21 +1227,21 @@ Document Type:Daily Report
 
 </HEADER>
 
-<F P=100> ANNEX </F>
-<F P=101> Belgium </F>
+<F P="100"> ANNEX </F>
+<F P="101"> Belgium </F>
 <H3> <TI>   Dehaene Rejects Resignation Calls in Agusta Affair </TI></H3>
-<F P=102>  BR2001141494 Brussels BELGA in French 1732 GMT 19 Jan 
+<F P="102">  BR2001141494 Brussels BELGA in French 1732 GMT 19 Jan 
 94--FOR OFFICIAL USE ONLY </F>
 
-<F P=103> BR2001141494 </F>
-<F P=104>  Brussels BELGA </F>
+<F P="103"> BR2001141494 </F>
+<F P="104">  Brussels BELGA </F>
 
 
 <TEXT>
-Language: <F P=105> French </F>
+Language: <F P="105"> French </F>
 Article Type:BFN 
 
-<F P=106> [Article signed DGO (ADB): "Parliament-Agusta: Dehaene Says </F>
+<F P="106"> [Article signed DGO (ADB): "Parliament-Agusta: Dehaene Says </F>
 `Premature Political Decision'"; as released by Brussels BELGA 
 Database] 
   [Text] Brussels, 18 Jan (BELGA) -- "By virtue of the 
@@ -1281,3 +1282,4 @@ future of this country and democracy."
 </DOC>
 
 
+</root>
