@@ -18,19 +18,22 @@ public class FBISDocument implements IDocument {
         
     }
 
-
+    @Override
     public String GetContent() {
         return Text;
     }
 
+    @Override
     public String GetId() {
         return DocNo;
     }
 
+    @Override
     public String GetTitle() {
         return Title;
     }
 
+    @Override
     public java.util.Date GetDate() {
         return Date;
     }
