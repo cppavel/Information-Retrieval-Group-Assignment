@@ -85,7 +85,7 @@ public class Querying {
 
     public static void WriteOutResults(List<String> results) {
         try (BufferedWriter writer = new BufferedWriter(
-                new FileWriter("../results/results"))) {
+                new FileWriter("../results/results.txt"))) {
             for(String line : results) {
                 writer.write(line);
             }

@@ -5,7 +5,7 @@ public class CustomQuery {
     public String QueryText;
 
     public CustomQuery(String id, String queryText){
-        Id=Integer.parseInt(id);
+        Id=Integer.parseInt(id.replaceAll("\\s+",""));
         QueryText=queryText;
     }
 }
