@@ -64,7 +64,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.org.model.Querying</mainClass>
+                            <mainClass>org.model.Querying</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
