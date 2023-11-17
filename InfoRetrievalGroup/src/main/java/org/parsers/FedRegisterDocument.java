@@ -1,23 +1,24 @@
 package org.parsers;
 
+import javax.print.Doc;
 import java.util.Date;
 
-public class FBISDocument implements IDocument {
-    private final String DocNo;
-    private final java.util.Date Date;
-    private final String Title;
-    private final String Text;
+public class FedRegisterDocument implements  IDocument{
+
+    private String DocNo;
+    private String Text;
+
+    private String Title;
+
+    private String Date;
 
 
-
-    public FBISDocument(String docNo, Date date, String title, String text) {
-        DocNo = docNo;
-        Date = date;
-        Title = title;
+    public FedRegisterDocument(String docno, String text, String title, String date){
+        DocNo = docno;
         Text = text;
-        
+        Title = title;
+        Date = date;
     }
-
     @Override
     public String GetContent() {
         return Text;
@@ -38,6 +39,6 @@ public class FBISDocument implements IDocument {
         if(Date == null)
             return "";
 
-        return Date.toString();
+        return Date;
     }
 }

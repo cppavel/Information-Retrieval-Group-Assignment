@@ -32,7 +32,10 @@ public class LaTimesDocument implements IDocument {
     }
 
     @Override
-    public Date GetDate() {
-        return Date;
+    public String GetDate() {
+        if(Date == null)
+            return "";
+
+        return Date.toString();
     }
 }

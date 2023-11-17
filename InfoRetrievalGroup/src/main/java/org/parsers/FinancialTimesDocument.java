@@ -40,7 +40,10 @@ public class FinancialTimesDocument implements IDocument {
     }
 
     @Override
-    public java.util.Date GetDate() {
-        return Date;
+    public String GetDate() {
+        if(Date == null)
+            return "";
+
+        return Date.toString();
     }
 }
