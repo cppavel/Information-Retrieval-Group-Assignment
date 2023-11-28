@@ -58,7 +58,9 @@ public class TopicParser {
                 curIndex++;
             }
 
-            result.add(new Topic(num.toString(), title.toString(), desc.toString(), narr.toString()));
+            result.add(new Topic(num.toString(), title.toString(),
+                    desc.toString().replace("Description:", ""),
+                    narr.toString().replace("Narrative:", "")));
         }
 
         return result;

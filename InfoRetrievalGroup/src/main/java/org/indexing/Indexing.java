@@ -17,6 +17,8 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -59,27 +61,42 @@ public class Indexing {
         return documents;
     }
 
-    public static void GenerateIndex() throws IOException, ParserConfigurationException, SAXException {
+    public static void createDirectory(String directoryPath) {
+        Path directory = Paths.get(directoryPath);
+        try {
+            if (!Files.exists(directory)) {
+                Files.createDirectories(directory);
+            }
+        } catch (Exception e) {
+            System.err.println("Error creating directory: " + e.getMessage());
+        }
+    }
 
-        Directory directory = FSDirectory.open(Paths.get(INDEX_DIRECTORY));
+    public static void GenerateIndex(ArrayList<IDocument> documents, float k1, float b) throws IOException, ParserConfigurationException, SAXException {
+
+        String directoryPath = INDEX_DIRECTORY + "_k1_"+k1 + "_b_"+ b;
+        createDirectory(directoryPath);
+        Directory directory = FSDirectory.open(Paths.get(directoryPath));
         Analyzer analyzer = new EnglishAnalyzer();
         IndexWriterConfig config = new IndexWriterConfig(analyzer);
-        config.setSimilarity(new BM25Similarity());
+        config.setSimilarity(new BM25Similarity(k1, b));
         config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
 
         IndexWriter iwriter = new IndexWriter(directory, config);
-
-        ArrayList<IDocument> documents = loadDocuments();
 
         int step = 10;
         int prev = 0;
         int count = 0;
         for(IDocument doc: documents){
             Document docLucene = new Document();
+            String content =  doc.GetTitle() != null? doc.GetTitle(): "";
+            content+= " ";
+            content+= doc.GetContent() != null? doc.GetContent(): "";
+
             docLucene.add(new StringField("id", doc.GetId() != null? doc.GetId(): "", Field.Store.YES));
-            docLucene.add(new TextField("title", doc.GetTitle() != null? doc.GetTitle(): "", Field.Store.YES));
-            docLucene.add(new TextField("date", doc.GetDate() != null? doc.GetDate(): "", Field.Store.YES));
-            docLucene.add(new TextField("content", doc.GetContent() != null? doc.GetContent(): "", Field.Store.YES));
+            docLucene.add(new StringField("title",doc.GetTitle() != null? doc.GetTitle(): "", Field.Store.YES));
+            docLucene.add(new StringField("date", doc.GetDate() != null? doc.GetDate(): "", Field.Store.YES));
+            docLucene.add(new TextField("content", content, Field.Store.YES));
             iwriter.addDocument(docLucene);
 
             if(100 * count / documents.size() > prev + step){
@@ -93,6 +110,7 @@ public class Indexing {
         directory.close();
     }
     public static void main(String[] args) throws IOException, ParseException, ParserConfigurationException, SAXException {
-        GenerateIndex();
+        ArrayList<IDocument> documents = loadDocuments();
+        GenerateIndex(documents, 1.2f, 0.75f);
     }
 }
