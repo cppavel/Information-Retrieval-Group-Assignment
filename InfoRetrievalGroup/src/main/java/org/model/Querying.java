@@ -97,7 +97,7 @@ public class Querying {
         searcher.setSimilarity(new BM25Similarity(k1, b));
         Analyzer analyzer = new EnglishAnalyzer();
 
-        MultiFieldQueryParser queryParser = new MultiFieldQueryParser(new String[]{"content", "title"}, analyzer);
+        QueryParser queryParser = new QueryParser("content", analyzer);
         queryParser.setAllowLeadingWildcard(true);
 
         ArrayList<CustomQuery> queries = GenerateQueries(enableExpansion);
