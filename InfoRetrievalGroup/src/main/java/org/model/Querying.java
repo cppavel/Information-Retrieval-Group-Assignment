@@ -79,7 +79,7 @@ public class Querying {
         ArrayList<CustomQuery> queries = new ArrayList<>();
 
         for(Topic topic: topics){
-            String simpleQuery = topic.Title + " " + topic.Description;
+            String simpleQuery = topic.Title + " " + topic.Description + " " + topic.Narrative;
             simpleQuery = simpleQuery.replace('\n', ' ');
             String expandedQuery = ExpandQuery(simpleQuery, synonymMap);
             queries.add(new CustomQuery(topic.TopicNum, enableExpansion? expandedQuery: simpleQuery));
@@ -97,7 +97,7 @@ public class Querying {
         searcher.setSimilarity(new BM25Similarity(k1, b));
         Analyzer analyzer = new EnglishAnalyzer();
 
-        QueryParser queryParser = new QueryParser("content", analyzer);
+        MultiFieldQueryParser queryParser = new MultiFieldQueryParser(new String[]{"content", "title"}, analyzer);
         queryParser.setAllowLeadingWildcard(true);
 
         ArrayList<CustomQuery> queries = GenerateQueries(enableExpansion);
@@ -107,7 +107,7 @@ public class Querying {
             System.out.format("Processed %d queries out of %d.\n", count, queries.size());
             count++;
 
-            Query qry = queryParser.parse(query.QueryText);
+            Query qry = queryParser.parse(QueryParser.escape(query.QueryText));
             ScoreDoc[] hits = searcher.search(qry, MAX_RESULTS).scoreDocs;
 
             for(ScoreDoc hit: hits) {
@@ -123,9 +123,9 @@ public class Querying {
     }
 
 
-    public static void WriteOutResults(List<String> results, float k1, float b) {
+    public static void WriteOutResults(List<String> results, float k1, float b, String tag) {
         try (BufferedWriter writer = new BufferedWriter(
-                new FileWriter("../results/results" + "_k_" + k1 + "_b_" + b + ".txt"))) {
+                new FileWriter("../results/results" + "_k_" + k1 + "_b_" + b + "_" + tag + ".txt"))) {
             for(String line : results) {
                 writer.write(line);
             }
@@ -136,17 +136,12 @@ public class Querying {
 
     public static void main(String[] args) throws IOException, ParseException, ParserConfigurationException, SAXException, java.text.ParseException {
 
-        float[] k1 = new float[]{0.4f, 0.8f, 1.6f, 3.2f, 6.4f, 12.8f, 25.6f};
-        float[] b = new float[]{0.0f, 0.1f, 0.2f, 0.4f, 0.8f, 1.0f};
+        float k1 = 0.8f;
+        float b = 0.8f;
 
         ArrayList<IDocument> documents = Indexing.loadDocuments();
-
-        for(float k1Value: k1){
-            for(float bValue: b){
-                Indexing.GenerateIndex(documents, k1Value, bValue);
-                WriteOutResults(QueryIndex(k1Value, bValue, false), k1Value, bValue);
-                System.out.format("Processing finished for k1=%f, b=%f\n", k1Value, bValue);
-            }
-        }
+        Indexing.GenerateIndex(documents, k1, b);
+        WriteOutResults(QueryIndex(k1, b, false), k1, b, "tdn");
+        System.out.format("Processing finished for k1=%f, b=%f\n", k1, b);
     }
 }
